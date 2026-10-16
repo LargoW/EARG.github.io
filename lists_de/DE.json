@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dark Eldar Forces",
+    "name": "Streitkräfte der Dunklen Eldar",
     "specialRules": [
     ],
     "unit": [
@@ -266,7 +266,7 @@
           "Transport",
           "Wind-Swift"
         ],
-        "notes": "May carry one unit of Warriors, Incubi, Haemonculi, Wracks or Wyches"
+        "notes": "Kann eine Einheit Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren."
       },
       {
         "name": "Raider",
@@ -283,7 +283,7 @@
           "Transport",
           "Wind-Swift"
         ],
-        "notes": "May carry two units of Warriors, Incubi, Haemonculi, Wracks or Wyches."
+        "notes": "Kann zwei Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren."
       },
       {
         "name": "Ravager",
@@ -331,7 +331,7 @@
           "Wind-Swift",
           "Transport"
         ],
-        "notes": "May carry two units of Warriors, Incubi, Haemonculi, Wracks or Wyches. Grotesques counts as two units each."
+        "notes": "Kann zwei Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren. Grotesken zählen jeweils als zwei Einheiten."
       },
       {
         "name": "Barge of Pleasure",
@@ -352,7 +352,7 @@
             "Transport",
             "Wind-Swift"
         ],
-        "notes": "May carry six units of Warriors, Incubi, Haemonculi, Wracks or Wyches. Grotesques counts as two units each. May only Transport units from its own formation.",
+        "notes": "Kann sechs Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren. Grotesken zählen jeweils als zwei Einheiten. Darf nur Einheiten aus dem eigenen Verband transportieren.",
         "crit": "The Barge takes an additional damage. 1D3 random units inside takes a hit."
       },
       {
@@ -416,7 +416,7 @@
           "Fearless",
           "Transport"
         ],
-        "notes": "May transport up to ten Infantry units. Grotesques counts as two units each. In addition it may carry up to five Light Vehicles or Armoured Vehicles, or up to one Vessel of Pain or Barge of Pleasure.",
+        "notes": "Kann bis zu zehn Infanterieeinheiten transportieren. Grotesken zählen jeweils als zwei Einheiten. Zusätzlich kann es bis zu fünf leichte oder gepanzerte Fahrzeuge oder ein Vessel of Pain oder eine Barge of Pleasure transportieren.",
         "crit": "The Executioner takes an additional damage. D3 random units inside takes a hit."
       }
     ]

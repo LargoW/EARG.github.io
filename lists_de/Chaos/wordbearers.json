@@ -101,7 +101,7 @@
   "sections": [
     {
       "name": "Word Bearers Core Formations",
-      "description": "Up to two Cultist Hosts may be taken per Word Bearer Retinue.",
+      "description": "Pro Word Bearer Retinue dürfen bis zu zwei Cultist Hosts aufgestellt werden.",
       "formations": [
         {
           "name": "Word Bearers Retinue",
@@ -135,7 +135,7 @@
     },
     {
       "name": "Word Bearers Elite Formations",
-      "description": "Up to one Elite formation may be taken per Word Bearers Retinue.",
+      "description": "Pro Word Bearers Retinue dürfen bis zu ein Eliteverband aufgestellt werden.",
       "formations": [
         {
           "name": "Iconoclasts",
@@ -184,7 +184,7 @@
     },
     {
       "name": "Daemon Engine Formations",
-      "description": "Up to one Daemon Engine formation may be taken per Cultist Host formation.",
+      "description": "Pro Cultist Host Verband dürfen bis zu ein Daemon Engine Verband aufgestellt werden.",
       "formations": [
         {
           "name": "Cerberites",
@@ -216,7 +216,7 @@
     },
     {
       "name": "War Engines & Chaos Navy",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
           "name": "Decimator",
@@ -263,7 +263,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points",
+      "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -280,7 +280,7 @@
   ],
   "upgrades": {
     "title": "Word Bearers Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Battleship",

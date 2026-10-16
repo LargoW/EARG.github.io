@@ -102,7 +102,7 @@
     },
     {
       "name": "Recon Formations",
-      "description": "Up to two Recon formations for each Battle Titan formation",
+      "description": "Pro Battle Titan Verband dürfen bis zu zwei Recon Verbände aufgestellt werden",
       "formations": [
         {
           "name": "Warhounds",
@@ -125,7 +125,7 @@
     },
     {
       "name": "Support Formations",
-      "description": "Up to two Support formations for each Battle Titan formation",
+      "description": "Pro Battle Titan Verband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden",
       "formations": [
         {
           "name": "Secutarii Titan Guard",
@@ -163,7 +163,7 @@
     },
     {
       "name": "Adeptus Mechanicus Navy",
-      "description": "Up to a third of the points available may be spent on Adeptus Mechanicus Navy formations. Up to one Lysander Fighter for each Warmonger Titan or Anvilus Carapace Landing Pad.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Flotte des Adeptus Mechanicus Verbände. Up to ein Lysander Fighter pro Warmonger Titan or Anvilus Carapace Landing Pad ausgegeben werden.",
       "formations": [
         {
           "name": "Lysander Fighter",
@@ -185,7 +185,7 @@
   ],
   "upgrades": {
     "title": "Titan Legion Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Legate",

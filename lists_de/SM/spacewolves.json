@@ -117,7 +117,7 @@
     },
     {
       "name": "Space Wolf Elite Packs",
-      "description": "You may not have more Elite Packs of any one type than you have Hunting Packs",
+      "description": "Du darfst nicht mehr Elite Packs of any ein type als Hunting Packs aufstellen.",
       "formations": [
         {
           "name": "Long Fang Pack",
@@ -163,7 +163,7 @@
     },
     {
       "name": "Space Wolf Support Packs",
-      "description": "One Support Pack may be taken per Core Pack",
+      "description": "Pro Core Pack darf ein Support Pack aufgestellt werden",
       "formations": [
         {
           "name": "Land Raiders",
@@ -210,7 +210,7 @@
     },
     {
       "name": "Space Wolf Navy & Collegia Titanica Allies",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
           "name": "0-1 Orbital Support",

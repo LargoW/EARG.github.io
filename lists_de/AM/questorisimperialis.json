@@ -73,7 +73,7 @@
     },
     {
       "name": "Knight World Support Households",
-      "description": "Up to two Support Households for each Core Household.",
+      "description": "Pro Core Household dürfen bis zu zwei Support Households aufgestellt werden.",
       "formations": [
         {
           "name": "Castellan Household",
@@ -115,7 +115,7 @@
     },
     {
       "name": "Knight World Retainer Formations",
-      "description": "Up to one Retainer Formation for each Core or Support Household.",
+      "description": "Pro Core or Support Household dürfen bis zu ein Retainer Verband aufgestellt werden.",
       "formations": [
         {
           "name": "Planetary Defense Platoon",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Imperial Navy Formations",
-      "description": "Up to a third of the points available may be spent on Imperial Navy Formations.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Imperiale Flotte Verbände ausgegeben werden.",
       "formations": [
         {
           "name": "Thunderbolt Squadron",
@@ -169,7 +169,7 @@
   ],
   "upgrades": {
     "title": "Knight World Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Seneschal",

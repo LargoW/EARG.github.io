@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dark Mechanicus Forces",
+    "name": "Streitkräfte des Dunklen Mechanicus",
     "specialRules": [
 
     ],
@@ -153,7 +153,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Hell-Rhino",
@@ -168,7 +168,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one infantry unit without Jump Packs or Mounted."
+        "notes": "Kann eine Infanterieeinheit ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Macrocarid Exploitator",
@@ -186,7 +186,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Jump Packs or Mounted."
+        "notes": "Kann drei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Triaros Armoured Despoiler",
@@ -202,7 +202,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport six infantry units without Jump Packs or Mounted."
+        "notes": "Kann sechs Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Krios Lightning",
@@ -258,7 +258,7 @@
           "Reinforced Armour",
           "Fearless"
         ],
-        "notes": "Armed with a single Battle Weapon. May be upgraded to a Support Weapon.",
+        "notes": "Mit einer einzelnen Kampfwaffe bewaffnet. Kann zu einer Unterstützungswaffe aufgewertet werden.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+."
       },
       {
@@ -281,7 +281,7 @@
           "Reinforced Armour",
           "Fearless"
         ],
-        "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator or Twin Hades Autocannon.",
+        "notes": "Mit einem Turbo-Blaster, Doom Burner, Plasma Cremator oder einer Zwillings-Hades-Maschinenkanone bewaffnet.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+."
       },
       {
@@ -636,7 +636,7 @@
           "Daemon Engine (Chaos Undivided)",
           "Transport"
         ],
-        "notes": "May transport fourteen infantry units without Mounted or Jet Packs. Chaos Spawn, Terminators and Dreadnoughts count as two units each.",
+        "notes": "Kann 14 Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Chaosbruten, Terminatoren und Cybots zählen jeweils als zwei Einheiten.",
         "crit": "The Shrine of Chaos takes one additional damage. D3 transported units takes a hit."
       },
       {
@@ -881,7 +881,7 @@
           "Daemon Engine (Nurgle)",
           "Transport"
         ],
-        "notes": "May transport fourteen infantry units. Big Mutants, Chaos Spawns, Terminators, Daemon Princes, Blight Drones and Chaos Dreadnoughts count as two units each.",
+        "notes": "Kann 14 Infanterieeinheiten transportieren. Große Mutanten, Chaosbruten, Terminatoren, Dämonenprinzen, Blight Drones und Chaos-Cybots zählen jeweils als zwei Einheiten.",
         "crit": "The Plague Tower takes an additional point of damage. 1D3 random units carried inside takes a hit."
       },
       {

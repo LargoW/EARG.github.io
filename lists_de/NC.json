@@ -1,6 +1,6 @@
 [
   {
-    "name": "Necron Forces",
+    "name": "Necron-Streitkräfte",
     "specialRules": [
     ],
     "unit": [
@@ -106,7 +106,7 @@
           "Regeneration",
           "Teleport"
         ],
-        "notes": "'The Unbidden': Flayed Ones may only contest objectives, must start the game in the reserves, and may not use Necron Portals."
+        "notes": "„The Unbidden“: Flayed Ones dürfen nur um Missionsziele konkurrieren, müssen das Spiel in Reserve beginnen und dürfen keine Necron-Portale verwenden."
       },
       {
         "name": "Immortals",
@@ -319,7 +319,7 @@
           "Skimmer",
           "Enduring"
         ],
-        "notes": "Transport: 2 Infantry Units"
+        "notes": "Transport: 2 Infanterieeinheiten"
       },
       {
         "name": "Annihilation Barge",
@@ -444,7 +444,7 @@
           "Inspiring",
           "Regeneration"
         ],
-        "notes": "If the C’tan Shard becomes broken it is immediately destroyed, but does not cause additional Blast Markers."
+        "notes": "Wird der C'tan-Splitter aufgerieben, wird er sofort zerstört, verursacht jedoch keine zusätzlichen Beschussmarken."
       },
       {
         "name": "Pylon",
@@ -487,7 +487,7 @@
           "Transport",
           "Enduring"
         ],
-        "notes": "May transport up to two Monoliths or Obelisks",
+        "notes": "Kann bis zu zwei Monolithen oder Obelisken transportieren.",
         "crit": "The Megalith's Portal is destroyed. Subsequent critical hits cause one additional damage."
       },
       {

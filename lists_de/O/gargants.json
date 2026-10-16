@@ -59,7 +59,7 @@
   "sections": [
     {
       "name": "Bad Moons Big Mob Gargants",
-      "description": "Army must contain at least one Mega Gargant or Great Gargant. The Big Mek will join a Mega Gargant if available, otherwise a Great Gargant",
+      "description": "Die Armee muss at enthalten. least ein Mega Gargant or Great Gargant. The Big Mek will join a Mega Gargant if available, otherwise a Great Gargant",
       "formations": [
         {
           "name": "0-1 Mega Gargant",
@@ -89,7 +89,7 @@
     },
     {
       "name": "Bad Moons Big Mob Mobs",
-      "description": "Up to three for each Bad Moons Gargants formation",
+      "description": "Bis zu drei pro Bad Moons Gargants Verband",
       "formations": [
         {
           "name": "Bad Moons Warband",
@@ -193,7 +193,7 @@
     },
     {
       "name": "Bad Moons 'Craft",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Fighta-Bommer Skwadron",

@@ -62,7 +62,7 @@
   "sections": [
     {
       "name": "Blood Ravens Formations",
-      "description": "One Orbital Support formation must be taken.",
+      "description": "Es muss ein Orbital Support-Verband aufgestellt werden.",
       "formations": [
         {
           "name": "1 Orbital Support",
@@ -120,7 +120,7 @@
     },
     {
       "name": "Grey Knights Detachments",
-      "description": "One Grey Knights Detachment may be taken per Blood Ravens Detachment",
+      "description": "Pro Blood Ravens Kontingent darf ein Grey Knights Kontingent aufgestellt werden",
       "formations": [
         {
           "name": "Interceptor Squads",
@@ -171,7 +171,7 @@
     },
     {
       "name": "Blood Ravens Aircraft",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
           "name": "Storm Talons",
@@ -194,7 +194,7 @@
   ],
   "upgrades": {
     "title": "Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "(0-1 per army) Supreme Commander",

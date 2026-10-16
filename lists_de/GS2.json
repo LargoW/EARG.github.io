@@ -1,6 +1,6 @@
 [
   {
-    "name": "Genestealer Forces",
+    "name": "Genestealer-Streitkräfte",
     "specialRules": [
     ],
     "unit": [
@@ -79,7 +79,7 @@
         "specialRules": [
           "Expendable"
         ],
-        "notes": "One in every two units (rounding up) has a Heavy Stubber"
+        "notes": "Jede zweite Einheit (aufgerundet) ist mit einem Schweren Maschinengewehr bewaffnet."
       },
       {
         "name": "Genestealers",
@@ -106,7 +106,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Counts as two units of INF for the purpose of being transported."
+        "notes": "Zählt beim Transport als zwei INF-Einheiten."
       },
       {
         "name": "Metamorph Hybrids",
@@ -135,7 +135,7 @@
           "Autocannon",
           "Autoguns"
         ],
-        "notes": "One in every two units (rounding up) has an Autocannon"
+        "notes": "Jede zweite Einheit (aufgerundet) ist mit einer Maschinenkanone bewaffnet."
       },
       {
         "name": "Neophyte Fire Support",
@@ -194,7 +194,7 @@
           "Heavy Mining Laser|0-1",
           "Seismic Heavy Cannon|0-1"
         ],
-        "notes": "Armed with either a Heavy Mining Laser or a Seismic Heavy Cannon."
+        "notes": "Mit einem Schweren Bergbaulaser oder einer Schweren Seismischen Kanone bewaffnet."
       },
       {
         "name": "Technical",
@@ -217,7 +217,7 @@
         "weapons": [
           "Heavy Stubber"
         ],
-        "notes": "May transport two infantry units without Mounted or Jump Packs. Aberrants takes two spaces each."
+        "notes": "Kann zwei Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Aberrants belegen jeweils zwei Plätze."
       },
       {
         "name": "Coven Limousine",
@@ -232,7 +232,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Goliath Truck",
@@ -244,7 +244,7 @@
         "weapons": [
           "Seismic Heavy Cannon"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Aberrants takes two spaces each."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Aberrants belegen jeweils zwei Plätze."
       },
       {
         "name": "Goliath Rockgrinder",
@@ -259,7 +259,7 @@
         "specialRules": [
           "Walker"
         ],
-        "notes": "May transport two infantry unit without Jump Packs or Mounted. Aberrants takes two spaces each."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Aberrants belegen jeweils zwei Plätze."
       },
       {
         "name": "Haul Truck Cannon",

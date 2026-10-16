@@ -1,6 +1,6 @@
 [
   {
-    "name": "Adeptus Mechanicus Forces",
+    "name": "Streitkräfte des Adeptus Mechanicus",
     "specialRules": [
 
     ],
@@ -337,7 +337,7 @@
           "Fearless",
           "Expendable"
         ],
-        "notes": "Armed with either Twin Lascannon or Twin Heavy Bolter. Tarantulas armed with Twin Heavy Bolter have their firefight value increased to 4+."
+        "notes": "Entweder mit Zwillings-Laserkanone oder Zwillings-Schwerem Bolter bewaffnet. Tarantulas mit Zwillings-Schwerem Bolter erhalten einen Feuergefechtswert von 4+."
       },
       {
         "name": "Hyperios Sentry",
@@ -422,7 +422,7 @@
         "specialRules": [
           "Walker"
         ],
-        "notes": "Must choose either an Eradication Beamer, Twin Heavy Phosphor Blaster, Icarus Array or Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
+        "notes": "Muss zwischen Eradication Beamer, Twin Heavy Phosphor Blaster, Icarus Array und Neutron Laser wählen. Onager Dunecrawlers mit Eradication Beamer erhalten einen Feuergefechtswert von 4+."
       },
       {
         "name": "Chimera",
@@ -438,7 +438,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Skorpius Dunerider",
@@ -453,7 +453,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Skorpius Disintegrator",
@@ -498,7 +498,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Termite",
@@ -515,7 +515,7 @@
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Must start the game in the reserves, and may only enter the battlefield through Tunneling."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Muss das Spiel in Reserve beginnen und darf das Schlachtfeld nur durch Tunnelbewegung betreten."
       },
       {
         "name": "Leman Russ",
@@ -592,7 +592,7 @@
           "Reinforced Armour",
           "Fearless"
         ],
-        "notes": "Armed with a single Battle Weapon. May be upgraded to a Support Weapon.",
+        "notes": "Mit einer einzelnen Kampfwaffe bewaffnet. Kann zu einer Unterstützungswaffe aufgewertet werden.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
       },
       {
@@ -618,7 +618,7 @@
           "Reinforced Armour",
           "Fearless"
         ],
-        "notes": "Armed with a single Battle Weapon.",
+        "notes": "Mit einer einzelnen Kampfwaffe bewaffnet.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
       },
       {
@@ -662,7 +662,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May carry 10 infantry units without Jump Pack or Mounted. Praetorian Combat Servitor counts as two units each.",
+        "notes": "Kann 10 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Jeder Praetorian Combat Servitor zählt als zwei Einheiten.",
         "crit": "The Gorgon is Immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -680,7 +680,7 @@
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport six infantry units without Jump Packs or Mounted."
+        "notes": "Kann sechs Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Lysander Fighter",
@@ -751,7 +751,7 @@
         "specialRules": [
           "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
         ],
-        "notes": "Is equipped with either Orbital Bombardment or two Pin Point attacks (may be chosen at the start of battle)"
+        "notes": "Ist entweder mit Orbital Bombardment oder zwei Punktziel-Angriffen ausgerüstet (die Auswahl erfolgt zu Beginn der Schlacht)."
       }
     ]
   }

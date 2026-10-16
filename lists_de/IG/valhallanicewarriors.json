@@ -106,7 +106,7 @@
     },
     {
       "name": "Valhallan Support Formations",
-      "description": "Up to two Support Formations for each Core Company.",
+      "description": "Pro Core Company dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Heavy Tank Platoon",
@@ -157,7 +157,7 @@
     },
     {
       "name": "Adeptus Ministorum and Imperial Navy Allies",
-      "description": "Up to a fourth of the points available may be spent on Adeptus Ministorum, Tunnelers and Imperial Navy Allies",
+      "description": "Bis zu ein Viertel der verfügbaren Punkte darf für Adeptus Ministorum, Tunnelers and Imperiale Flotte Allies ausgegeben werden",
       "formations": [
         {
           "name": "Ministorum Mission",

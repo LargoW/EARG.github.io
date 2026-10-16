@@ -26,7 +26,22 @@
     { "deutsch": "Trefferwurfmodifikation", "englisch": "To Hit Modifier" },
     { "deutsch": "Sperrfeuer", "englisch": "Barrage" },
     { "deutsch": "Sperrfeuerpunkt (BP)", "englisch": "Barragepoint" },
-    { "deutsch": "Schablone", "englisch": "Template" }
+    { "deutsch": "Schablone", "englisch": "Template" },
+    { "deutsch": "Streitkräfte", "englisch": "Forces" },
+    { "deutsch": "Flotte", "englisch": "Navy" },
+    { "deutsch": "Dunkle Eldar", "englisch": "Dark Eldar" },
+    { "deutsch": "Chaos-Kultisten", "englisch": "Chaos Cultists" },
+    { "deutsch": "Dämonenlegion", "englisch": "Daemon Legion" },
+    { "deutsch": "Eldar-Korsaren", "englisch": "Eldar Corsairs" },
+    { "deutsch": "Eldar-Exoditen", "englisch": "Eldar Exodites" },
+    { "deutsch": "Weltenschiff-Eldar", "englisch": "Craftworld Eldar" },
+    { "deutsch": "Harlekine", "englisch": "Harlequins" },
+    { "deutsch": "Inquisition", "englisch": "Inquisitorial" },
+    { "deutsch": "Questoris-Ritter", "englisch": "Questoris Knights" },
+    { "deutsch": "Tyraniden-Schwarmflotte", "englisch": "Tyranid Hive Fleet" },
+    { "deutsch": "Verräter-Titanenlegion", "englisch": "Traitor Titan Legion" },
+    { "deutsch": "Überzahl", "englisch": "Outnumber" },
+    { "deutsch": "Punktziel-Angriff", "englisch": "Pin-Point Attack" }
   ],
   "Profil": [
     { "deutsch": "Typ", "englisch": "Type" },

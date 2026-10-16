@@ -104,7 +104,7 @@
     },
     {
       "name": "Snakebites Support Mobs",
-      "description": "One Snakebites Support Mob may be taken per Snakebites War Horde",
+      "description": "Pro Snakebites War Horde darf ein Snakebites Support Mob aufgestellt werden",
       "formations": [
         {
           "name": "Junka Brigade",
@@ -176,7 +176,7 @@
   },
     {
       "name": "Snakebites Gargants",
-      "description": "Up to 25% of the points available may be spent on these formations",
+      "description": "Up to 25% of the verfügbaren Punkte may be spent on diese Verbände",
       "formations": [
           {
             "name": "Snakebites Gargant Mob",

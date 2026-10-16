@@ -68,7 +68,7 @@
   "sections": [
     {
       "name": "Core Company Formations",
-      "description": "One Siegemaster Regimental HQ must be taken. Each Core Company formation must take between one and three upgrades. Each upgrade may be taken only once.",
+      "description": "Es muss ein Siegemaster Regimental HQ aufgestellt werden. Each Core Company Verband must take between ein and drei upgrades. Each upgrade dürfen aufgestellt werden only once.",
       "formations": [
         {
           "name": "1 Siegemaster Regimental HQ",
@@ -96,7 +96,7 @@
     },
     {
       "name": "Baran Support Formations",
-      "description": "Up to two Support Formations for each Core Company.",
+      "description": "Pro Core Company dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
           {
             "name": "Heavy Tank Company",
@@ -187,7 +187,7 @@
     },
     {
       "name": "Imperial Navy",
-      "description": "Up to a third of the points available may be spent on Imperial Navy formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Imperiale Flotte Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Thunderbolt Squadron",

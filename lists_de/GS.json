@@ -1,6 +1,6 @@
 [
   {
-    "name": "Genestealer Forces",
+    "name": "Genestealer-Streitkräfte",
     "specialRules": [
     ],
     "unit": [
@@ -198,7 +198,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted. Hybrid Aberrants and Genestealer Patriarch counts as two units."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Hybrid Aberrants und Genestealer Patriarch zählen jeweils als zwei Einheiten."
       },
       {
         "name": "Coven Technical",
@@ -269,7 +269,7 @@
         "specialRules": [
           "Brood Brothers"
         ],
-        "notes": "One in every two Cult Infantry units has an Autocannon"
+        "notes": "Jede zweite Kult-Infanterieeinheit ist mit einer Maschinenkanone bewaffnet."
       },
       {
         "name": "Cult Fire Support",
@@ -408,7 +408,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Cult Land Transporter",

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Inquisitorial Forces",
+    "name": "Streitkräfte der Inquisition",
     "specialRules": [
     ],
     "unit": [
@@ -389,7 +389,7 @@
           "Flamer"
         ],
         "specialRules": [],
-        "notes": "May transport two infantry units without Mounted or Jump Packs."
+        "notes": "Kann zwei Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren."
       },
       {
         "name": "Penitent Engine",
@@ -501,7 +501,7 @@
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Arbites Repressor",
@@ -517,7 +517,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Mounted or Jet Packs."
+        "notes": "Kann zwei Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren."
       },
       {
         "name": "Sororitas Repressor",
@@ -550,7 +550,7 @@
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport one infantry unit without Mounted or Jet Packs."
+        "notes": "Kann eine Infanterieeinheit ohne Beritten oder Sprungmodule transportieren."
       },
       {
         "name": "Sororitas Stormlord",
@@ -570,7 +570,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Jump Pack or Mounted, two may fire from the firing deck and participate with FF during assaults.",
+        "notes": "Kann acht Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; zwei davon dürfen vom Schießdeck aus feuern und sich bei Nahkämpfen mit ihrem FF beteiligen.",
         "crit": "The Stormlord is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the unit."
       },
       {
@@ -591,7 +591,7 @@
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Mounted or Jet Packs.",
+        "notes": "Kann acht Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren.",
         "crit": "The Emperor's Chapel takes one additional damage. D3 transported units takes a hit."
       },
       {

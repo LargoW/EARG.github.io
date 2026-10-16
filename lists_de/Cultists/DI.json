@@ -88,7 +88,7 @@
   "sections": [
     {
       "name": "Daemonic Incursion Specials",
-      "description": "The Army must include one Chaos Gate.",
+      "description": "Die Armee muss ein Chaos Gate enthalten.",
       "formations": [
         {
           "name": "1 Chaos Gate",
@@ -138,7 +138,7 @@
     },
     {
       "name": "Daemon Legions",
-      "description": "Any number of Daemon Legion formations may be taken.",
+      "description": "Es dürfen beliebig viele Daemon Legion-Verbände aufgestellt werden.",
       "formations": [
         {
           "name": "Slaneesh Legion of Excess",
@@ -184,7 +184,7 @@
     },
     {
       "name": "Mortals and Daemon Engines",
-      "description": "Up to half of the points available may be spent on Mortals and Daemon Engines formations.",
+      "description": "Bis zur Hälfte der verfügbaren Punkte darf für Sterbliche and Daemon Engines Verbände ausgegeben werden.",
       "formations": [
         {
           "name": "Cultist Coven",
@@ -210,7 +210,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points",
+      "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -222,7 +222,7 @@
   ],
   "upgrades": {
     "title": "Daemonic Incursion Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Soul Grinder",

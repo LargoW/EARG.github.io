@@ -1,6 +1,6 @@
 [
   {
-    "name": "Chaos Cultist Forces",
+    "name": "Streitkräfte der Chaos-Kultisten",
     "specialRules": [
     ],
     "unit": [
@@ -162,7 +162,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Counts as two units of INF for the purpose of being transported."
+        "notes": "Zählt beim Transport als zwei INF-Einheiten."
       },
       {
         "name": "Chaos Spawn",
@@ -207,7 +207,7 @@
         "specialRules": [
           "Expendable"
         ],
-        "notes": "May not be transported."
+        "notes": "Kann nicht transportiert werden."
       },
       {
         "name": "Land Transporter",
@@ -222,7 +222,7 @@
         "specialRules": [
             "Transport"
         ],
-        "notes": "May transport two infantry units without Mounted or Jump Packs."
+        "notes": "Kann zwei Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren."
       },
       {
         "name": "Technical",

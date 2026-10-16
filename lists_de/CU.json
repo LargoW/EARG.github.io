@@ -1,6 +1,6 @@
 [
   {
-    "name": "Adeptus Custodes Forces",
+    "name": "Streitkräfte der Adeptus Custodes",
     "specialRules": [
     ],
     "unit": [
@@ -243,7 +243,7 @@
           "Reinforced Armour",
           "Skimmer"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "Kann eine Terminatoreinheit oder zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Custodian Land Raider",
@@ -277,7 +277,7 @@
           "Fearless",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Null-Maiden Hunter",
@@ -311,7 +311,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport eight infantry units or Dreadnaughts. Terminators and Dreadnoughts count as two units each. Critical Hit Effect: The unit and all units being carried are destroyed."
+        "notes": "Kann acht Infanterieeinheiten oder Cybots transportieren. Terminatoren und Cybots zählen jeweils als zwei Einheiten. Effekt eines Kritischen Treffers: Die Einheit und alle transportierten Einheiten werden zerstört."
       }
     ]
   }

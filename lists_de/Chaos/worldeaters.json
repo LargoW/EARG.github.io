@@ -119,7 +119,7 @@
     },
     {
       "name": "World Eaters Elite Formations",
-      "description": "One Elite formation may be taken per Core formation.",
+      "description": "Pro Kernverband darf ein Eliteverband aufgestellt werden.",
       "formations": [
         {
           "name": "Destroyers",
@@ -162,7 +162,7 @@
     },
     {
       "name": "World Eaters Support Formations",
-      "description": "Two Support formations may be taken per Core formation.",
+      "description": "Pro Kernverband dürfen zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Doomblasters",
@@ -197,7 +197,7 @@
     },
     {
       "name": "War Engines and Chaos Navy Formations",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
           "name": "Greater Brass Scorpions",
@@ -243,7 +243,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points.",
+      "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -260,7 +260,7 @@
   ],
   "upgrades": {
     "title": "World Eaters Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Battleship",

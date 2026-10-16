@@ -121,7 +121,7 @@
     },
     {
       "name": "Imperial Fists Support Detachments",
-      "description": "Up to two Support Detachments for each Core Detachment.",
+      "description": "Pro Kernkontingent dürfen bis zu zwei Unterstützungskontingente aufgestellt werden.",
       "formations": [
           {
             "name": "Land Raiders",
@@ -205,7 +205,7 @@
     },
     {
       "name": "Imperial Fists Static Defenses, Navy & Titan Legion Allies",
-      "description": "Up to a third of the points available may be spent on these formations. Up to one Tarantula or Hyperios formation for each Scout detachment.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände. Up to ein Tarantula or Hyperios Verband pro Aufklärungskontingent ausgegeben werden.",
       "formations": [
         {
           "name": "Bastion",

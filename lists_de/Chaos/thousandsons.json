@@ -99,7 +99,7 @@
   "sections": [
     {
       "name": "Thousand Sons Core Formations",
-      "description": "Up to one Thousand Sons Terminators formation for each Thousand Sons Retinue.",
+      "description": "Pro Thousand Sons Retinue dürfen bis zu ein Thousand Sons Terminators Verband aufgestellt werden.",
       "formations": [
         {
           "name": "Thousand Sons Retinue",
@@ -131,7 +131,7 @@
     },
     {
       "name": "Thousand Sons Support Formations",
-      "description": "Up to three may be taken per Thousand Sons Core formation.",
+      "description": "Pro Thousand Sons Kernverband dürfen bis zu drei aufgestellt werden.",
       "formations": [
         {
           "name": "Tzaangor Host",
@@ -187,7 +187,7 @@
     },
     {
       "name": "Dark Mechanicus and Thousand Sons Navy",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
           "name": "Warphound",
@@ -229,7 +229,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points.",
+      "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -246,7 +246,7 @@
   ],
   "upgrades": {
     "title": "Thousand Sons Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",

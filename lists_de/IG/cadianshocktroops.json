@@ -106,7 +106,7 @@
     },
     {
       "name": "Cadian Support Formations",
-      "description": "Up to three Cadian Support Formations for each Cadian Core Company Formation.",
+      "description": "Pro Cadian Core Company Verband dürfen bis zu drei Cadian Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Kasrkin Platoon",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Collegia Titanica and Imperial Navy Formations",
-      "description": "Up to a third of the points available may be spent on Collegia Titanica and Imperial Navy formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Collegia Titanica und der Imperiale Flotte Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Warhound Pack",
@@ -216,7 +216,7 @@
   ],
   "upgrades": {
     "title": "Cadian Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Leman Russ",

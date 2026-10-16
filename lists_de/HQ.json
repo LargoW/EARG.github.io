@@ -1,6 +1,6 @@
 [
   {
-    "name": "Harlequin Forces",
+    "name": "Streitkräfte der Harlekine",
     "specialRules": [
     ],
     "unit": [
@@ -14,7 +14,7 @@
           "Leader",
           "Commander"
         ],
-        "notes": "May only join Harlequin Troupes or Skyweaver Jetbikes."
+        "notes": "Darf sich nur Harlekin-Troupen oder Skyweaver-Jetbikes anschließen."
       },
       {
         "name": "Master Mime",

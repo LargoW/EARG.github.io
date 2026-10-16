@@ -85,7 +85,7 @@
     },
     {
       "name": "Catachan Support Formations",
-      "description": "Up to two Support Formations for each Core Company.",
+      "description": "Pro Core Company dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Leman Russ Platoon",
@@ -165,7 +165,7 @@
     },
     {
       "name": "Imperial Navy Formations",
-      "description": "Up to a fourth of the points available may be spent on Imperial Navy Formations",
+      "description": "Bis zu ein Viertel der verfügbaren Punkte darf für Imperiale Flotte Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Thunderbolt Squadron",
@@ -190,7 +190,7 @@
   ],
   "upgrades": {
     "title": "Catachan Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Flakk Teams",

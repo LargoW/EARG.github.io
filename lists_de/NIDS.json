@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tyranid Forces",
+    "name": "Tyraniden-Streitkräfte",
     "specialRules": [
     ],
     "unit": [
@@ -434,7 +434,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport up to four units of Barbgaunts, Termagants, Hormagaunts, Gargoyles and Raveners. Biovores, Pyrovores, Tyranid Warriors and Zoanthropes counts as one and a half units each, rounded up."
+        "notes": "Kann bis zu vier Einheiten Barbgaunts, Termagants, Hormagaunts, Gargoyles und Raveners transportieren. Biovores, Pyrovores, Tyranid Warriors und Zoanthropes zählen jeweils als eineinhalb Einheiten, aufgerundet."
       },
       {
         "name": "Barbed Carnifex",
@@ -501,7 +501,7 @@
           "Synapse",
           "Fearless"
         ],
-        "notes": "May transport two units with the 'Gaunts' special rule."
+        "notes": "Kann zwei Einheiten mit der Sonderregel „Gaunts“ transportieren."
       },
       {
         "name": "Tyrannofex",
@@ -592,7 +592,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport up to four units of Gargoyles.",
+        "notes": "Kann bis zu vier Einheiten Gargoyles transportieren.",
         "crit": "The Harridan is killed."
       },
       {
@@ -750,7 +750,7 @@
           "Reinforced Armour",
           "Regeneration"
         ],
-        "notes": "May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
+        "notes": "Darf Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, das niedriger als sein Körper und bis zu 2 cm breit ist.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
       },
       {
@@ -779,7 +779,7 @@
           "Augmented Swarming(+1)",
           "Assisted Swarming"
         ],
-        "notes": "May transport five units with the 'Gaunts' special rule. May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
+        "notes": "Kann fünf Einheiten mit der Sonderregel „Gaunts“ transportieren. Darf Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, das niedriger als sein Körper und bis zu 2 cm breit ist.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
       },
       {

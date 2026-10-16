@@ -91,7 +91,7 @@
     },
     {
       "name": "Night Lords Elite Formations",
-      "description": "Up to one Elite formation may be taken per Night Lords Core Formation",
+      "description": "Pro Night Lords Kernverband darf bis zu ein Eliteverband aufgestellt werden",
       "formations": [
         {
           "name": "Chosen",
@@ -124,7 +124,7 @@
     },
     {
       "name": "Night Lords Support Formations",
-      "description": "Up to two Support formations may be taken per Night Lords Core Formation.",
+      "description": "Pro Night Lords Kernverband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Destroyers",
@@ -169,7 +169,7 @@
     },
     {
       "name": "Night Lords Static Defenses and Navy",
-      "description": "Up to a third of the points available may be spent on these formations. No more than one Tarantula formation for each Chosen formation.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände. Höchstens ein Tarantula Verband pro Chosen Verband ausgegeben werden.",
       "formations": [
         {
           "name": "Tarantula",
@@ -202,7 +202,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points",
+      "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -214,7 +214,7 @@
   ],
   "upgrades": {
     "title": "Night Lords Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "(0-1 per army) Supreme Commander",

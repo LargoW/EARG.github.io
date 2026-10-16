@@ -110,7 +110,7 @@
     },
     {
       "name": "Iron Warriors Elite Formations",
-      "description": "One Elite formation may be taken per Core formation.",
+      "description": "Pro Kernverband darf ein Eliteverband aufgestellt werden.",
       "formations": [
         {
           "name": "Chosen",
@@ -153,7 +153,7 @@
     },
     {
       "name": "Iron Warriors Siege Formations",
-      "description": "One Siege formation may be taken per Core formation.",
+      "description": "Pro Kernverband darf ein Belagerungsverband aufgestellt werden.",
       "formations": [
         {
           "name": "Heavy Siege Engine",
@@ -192,7 +192,7 @@
     },
     {
       "name": "Dark Mechanicus and Chaos Navy",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
           "name": "Maulerfiends",
@@ -252,7 +252,7 @@
   ],
   "upgrades": {
     "title": "Iron Warriors Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Battleship",

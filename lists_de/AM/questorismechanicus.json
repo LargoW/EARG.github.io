@@ -69,7 +69,7 @@
   "sections": [
     {
       "name": "Core Banners",
-      "description": "Up to one Dominus Banner for each Questoris Banner",
+      "description": "Pro Questoris Banner darf bis zu ein Dominus Banner aufgestellt werden",
       "formations": [
         {
           "name": "Questoris",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Recon Banners",
-      "description": "Up to one Recon Banner for each Core Banner",
+      "description": "Pro Core Banner darf bis zu ein Recon Banner aufgestellt werden",
       "formations": [
         {
           "name": "Cerastus",
@@ -119,7 +119,7 @@
     },
     {
       "name": "Relic Banners",
-      "description": "Up to one Relic Banner for each part of 1500 points in the army.",
+      "description": "Pro part of 1500 Punkte in the army dürfen bis zu ein Relic Banner aufgestellt werden.",
       "formations": [
         {
           "name": "Armiger Reliquae",
@@ -157,7 +157,7 @@
     },
     {
       "name": "Mechanicus Allies",
-      "description": "Up to a third of the points available may be spent on Forge World allies.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Forge World allies ausgegeben werden.",
       "formations": [
         {
           "name": "Skitarii Maniple",
@@ -195,7 +195,7 @@
   ],
   "upgrades": {
     "title": "Questoris Mechanicus Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Seneschal",

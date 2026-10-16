@@ -125,7 +125,7 @@
     },
     {
       "name": "Black Legion Elite Formations",
-      "description": "One Elite formation may be taken per Core formation",
+      "description": "Pro Kernverband darf ein Eliteverband aufgestellt werden",
       "formations": [
         {
           "name": "Chosen",
@@ -155,7 +155,7 @@
     },
     {
       "name": "Black Legion Support Formations",
-      "description": "Two Support formations may be taken per Core formation",
+      "description": "Pro Kernverband dürfen zwei Unterstützungsverbände aufgestellt werden",
       "formations": [
         {
           "name": "Raptor Cult",
@@ -200,7 +200,7 @@
     },
     {
       "name": "Dark Mechanicus Daemon Engines, Traitor Titans and Chaos Navy",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Defiler Pack",
@@ -262,7 +262,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points",
+      "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -279,7 +279,7 @@
   ],
   "upgrades": {
     "title": "Black Legion Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Battleship",

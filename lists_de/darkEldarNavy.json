@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dark Eldar Navy",
+    "name": "Flotte der Dunklen Eldar",
     "specialRules": [
     ],
     "unit": [
@@ -47,7 +47,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May carry up to eight infantry units without Mounted. Grotesques counts as two units each.",
+        "notes": "Kann bis zu acht Infanterieeinheiten ohne Beritten transportieren. Grotesken zählen jeweils als zwei Einheiten.",
         "crit": "The Slavebringer and all units on board are destroyed."
       },
       {
@@ -67,7 +67,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry up to two Executioner Landing Modules and two Slavebringer Assault Boats, or up to six Slavebringer Assault Boats, plus the troops carried in them."
+        "notes": "Kann bis zu zwei Executioner-Landemodule und zwei Slavebringer-Sturmboote oder bis zu sechs Slavebringer-Sturmboote sowie die darin transportierten Truppen mitführen."
       }
     ]
   }

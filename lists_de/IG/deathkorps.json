@@ -105,7 +105,7 @@
     },
     {
       "name": "DKoK Support Formations",
-      "description": "Up to two Support Formations for each Company Formation.",
+      "description": "Pro Company Verband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Leman Russ Squadron",
@@ -230,7 +230,7 @@
   ],
   "upgrades": {
     "title": "DKoK Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Bane Wolf",

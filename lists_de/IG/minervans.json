@@ -107,7 +107,7 @@
     },
     {
       "name": "Minervan Support Formations",
-      "description": "Up to three Support Formations for each Minervan Company.",
+      "description": "Pro Minervan Company dürfen bis zu drei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Leman Russ Squadron",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Collegia Titanica and Imperial Navy Formations",
-      "description": "Up to a third of the points available may be spent on Collegia Titanica and Imperial Navy Formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Collegia Titanica und der Imperiale Flotte Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Warhounds",
@@ -216,7 +216,7 @@
   ],
   "upgrades": {
     "title": "Minervan Tank Legion Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",

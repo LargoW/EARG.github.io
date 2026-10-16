@@ -89,7 +89,7 @@
     },
     {
       "name": "Legiones Metalica Line Formations",
-      "description": "Up to three Metalica Line Formations for each Core Formation.",
+      "description": "Pro Kernverband dürfen bis zu drei Metalica Line Verbände aufgestellt werden.",
       "formations": [
         {
           "name": "Ballistae Cohort",
@@ -153,7 +153,7 @@
     },
     {
       "name": "Forge World Navy, Collegia Titanica and Questoris Mechanicus Support",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Paladin Household",
@@ -199,7 +199,7 @@
   ],
   "upgrades": {
     "title": "Legiones Metalica Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",

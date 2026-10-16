@@ -74,7 +74,7 @@
   "sections": [
     {
       "name": "Codex Astartes Detachments",
-      "description": "Up to one Scout Detachment for each non-Scout Detachment.",
+      "description": "Pro Nicht-Aufklärungskontingent dürfen bis zu ein Aufklärungskontingent aufgestellt werden.",
       "formations": [
         {
           "name": "Assaults",
@@ -183,7 +183,7 @@
     },
     {
       "name": "Codex Astartes Navy, Imperial Aircraft & Collegia Titanica Allies",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
           "name": "Storm Talons",

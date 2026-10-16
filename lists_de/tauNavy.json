@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tau Navy",
+    "name": "Tau-Flotte",
     "specialRules": [
 
     ],
@@ -56,7 +56,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport three Gun Drones."
+        "notes": "Kann drei Gun Drones transportieren."
       },
       {
         "name": "Tiger Shark AX-1-0",
@@ -88,7 +88,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport twelve Fire Warriors, Pathfinders, XV15 Stealth Battlesuits, XV25 Stealth Battlesuits, Gun Drones, Broadsides, Kroot Warriors, Kroot Master Shaper and Kroot Hounds. XV8 Crisis, XV9-04 Hazard, XV88 Broadside and XV95 Ghostkeel Battlesuits counts as two units each. May also carry up to two Gun Drones in addition to any other cargo.",
+        "notes": "Kann zwölf Fire Warriors, Pathfinders, XV15 Stealth Battlesuits, XV25 Stealth Battlesuits, Gun Drones, Broadsides, Kroot Warriors, Kroot Master Shaper und Kroot Hounds transportieren. XV8 Crisis, XV9-04 Hazard, XV88 Broadside und XV95 Ghostkeel Battlesuits zählen jeweils als zwei Einheiten. Zusätzlich zu anderer Fracht können bis zu zwei Gun Drones mitgeführt werden.",
         "crit": "The Orca and all units being transported are destroyed."
       },
       {
@@ -101,7 +101,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport 18 of the following units and the units being transported on them: Orca, Manta. Mantas count as thee units each. Spec[*]: A Gravitic Tracer Salvo may be fired at a marked formation of any type."
+        "notes": "Kann 18 der folgenden Einheiten sowie die darin transportierten Einheiten mitführen: Orca, Manta. Mantas zählen jeweils als drei Einheiten. Sonderregel [*]: Eine Gravitic Tracer Salvo darf auf einen markierten Verband beliebigen Typs abgefeuert werden."
       },
       {
         "name": "Protector Class Cruiser",
@@ -112,7 +112,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport six of the following units and the units being transported on them: Orca, Manta. Mantas count as thee units each."
+        "notes": "Kann sechs der folgenden Einheiten sowie die darin transportierten Einheiten mitführen: Orca, Manta. Mantas zählen jeweils als drei Einheiten."
       },
       {
         "name": "Protector II Class Cruiser",
@@ -124,7 +124,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Must select either Gravitic Tracer Salvo OR two Pin-Point attacks at the start of the battle. May transport six of the following units and the units being transported on them: Orca, Manta. Mantas count as thee units each. Spec[*]: A Gravitic Tracer Salvo may be fired at a marked formation of any type."
+        "notes": "Muss zu Beginn der Schlacht entweder Gravitic Tracer Salvo ODER zwei Punktziel-Angriffe auswählen. Kann sechs der folgenden Einheiten sowie die darin transportierten Einheiten mitführen: Orca, Manta. Mantas zählen jeweils als drei Einheiten. Sonderregel [*]: Eine Gravitic Tracer Salvo darf auf einen markierten Verband beliebigen Typs abgefeuert werden."
       }
     ]
   }

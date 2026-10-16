@@ -93,7 +93,7 @@
     },
     {
       "name": "Dark Angels Support Detachments",
-      "description": "Three Support Detachments may be taken per Core Detachment",
+      "description": "Pro Kernkontingent dürfen drei Unterstützungskontingente aufgestellt werden",
       "formations": [
         {
           "name": "Land Raiders",
@@ -185,7 +185,7 @@
     },
     {
       "name": "Ravenwing Aircraft & Dark Angels Swordwing",
-      "description": "Up to a third of the points available may be spent on these formations. One Swordwing Support formation must be taken",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. ein Swordwing Unterstützungsverbände muss aufgestellt werden",
       "formations": [
         {
           "name": "Nephilims",

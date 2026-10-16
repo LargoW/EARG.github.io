@@ -1,6 +1,6 @@
 [
   {
-    "name": "Questoris Knights",
+    "name": "Questoris-Ritter",
     "specialRules": [
     ],
     "unit": [
@@ -99,7 +99,7 @@
           "Ion Shield (4+)",
           "Ionic Flare Shield"
         ],
-        "notes": "Must be armed with either Lightning Locks, or Volkite Veuglaire and Gyges Siege Claw"
+        "notes": "Muss entweder mit Lightning Locks oder mit Volkite Veuglaire und Gyges Siege Claw bewaffnet sein."
       },
       {
         "name": "Questoris Knight-Paladin",

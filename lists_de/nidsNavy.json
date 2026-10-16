@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tyranid Hive Fleet",
+    "name": "Tyraniden-Schwarmflotte",
     "specialRules": [
       {
       }
@@ -17,7 +17,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport a formation that consist exclusively of the following types of units: Barbgaunts, Termagants, Hormagaunts, Raveners, Biovores, Pyrovores, any type of Carnifex, Hive Tyrant, Swarmlord, Dagon Overlord, Tyranid Warriors or Zoanthrope. No Shrikes of any type may be taken. After the Mycetic Spore lands, it attacks all enemy units within 15cm. Each enemy formation attacked receives a BM for coming under fire, and an extra BM for each casualty. Then transported formations set up within 5cm of the point the Mycetic Spore landed, or within 5cm of another already disembarqued unit from the same formation (but a maximum of 15cm from the point where the Mycetic Spore landed)."
+        "notes": "Kann einen Verband transportieren, der ausschließlich aus folgenden Einheitentypen besteht: Barbgaunts, Termagants, Hormagaunts, Raveners, Biovores, Pyrovores, Carnifex beliebigen Typs, Hive Tyrant, Swarmlord, Dagon Overlord, Tyranid Warriors oder Zoanthrope. Shrikes dürfen nicht enthalten sein. Nach der Landung greift die Myzetische Spore alle gegnerischen Einheiten innerhalb von 15 cm an. Jeder angegriffene gegnerische Verband erhält eine BM, weil er unter Beschuss gerät, sowie eine zusätzliche BM pro Verlust. Anschließend werden die transportierten Verbände innerhalb von 5 cm um den Landepunkt der Myzetischen Spore oder innerhalb von 5 cm um eine bereits ausgestiegene Einheit desselben Verbands aufgestellt (jedoch höchstens 15 cm vom Landepunkt der Myzetischen Spore entfernt)."
       },
       {
         "name": "Razorfiend",
@@ -35,7 +35,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two Mycetic Spores including cargo."
+        "notes": "Kann zwei Myzetische Sporen einschließlich ihrer Fracht transportieren."
       },
       {
         "name": "Hive Ship",
@@ -53,7 +53,7 @@
         "specialRules": [
           "Slow to Arrive (May only arrive from turn 2 onwards), Transport"
         ],
-        "notes": "May transport three Mycetic Spores including cargo."
+        "notes": "Kann drei Myzetische Sporen einschließlich ihrer Fracht transportieren."
       }
     ]
   }

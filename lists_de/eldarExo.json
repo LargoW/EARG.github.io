@@ -1,6 +1,6 @@
 [
   {
-    "name": "Eldar Exodite Forces",
+    "name": "Streitkräfte der Eldar-Exoditen",
     "specialRules": [
     ],
     "unit": [
@@ -122,7 +122,7 @@
           "Support D-Cannon|0-1",
           "Shadow Weaver|0-1"
         ],
-        "notes": "Armed with either a Support D-Cannon or a Shadow Weaver"
+        "notes": "Mit einer Unterstützungs-D-Kanone oder einem Shadow Weaver bewaffnet."
       },
       {
         "name": "Exodite Wraithguards",

@@ -96,7 +96,7 @@
   "sections": [
     {
       "name": "Alpha Legion Core Formations",
-      "description": "Up to one Cultist Coven formation for each Alpha Legion Marines formation",
+      "description": "Pro Alpha Legion Marines Verband darf bis zu ein Cultist Coven Verband aufgestellt werden",
       "formations": [
         {
           "name": "Alpha Legion Marines",
@@ -129,7 +129,7 @@
     },
     {
       "name": "Alpha Legion Elite Detachments",
-      "description": "Up to one Alpha Legion Elite Detachment for each Alpha Legion Marines Formation.",
+      "description": "Pro Alpha Legion Marines Verband dürfen bis zu ein Alpha Legion Elitekontingent aufgestellt werden.",
       "formations": [
         {
           "name": "Destroyers",
@@ -170,7 +170,7 @@
     },
     {
       "name": "Cultist Support Formations",
-      "description": "Up to two Cultist Support Formations per Cultist Coven",
+      "description": "Pro Cultist Coven dürfen bis zu zwei Cultist Support-Verbände aufgestellt werden",
       "formations": [
         {
           "name": "Rough Rider Platoon",
@@ -205,7 +205,7 @@
     },
     {
       "name": "Alpha Legion Navy",
-      "description": "Up to a third of the points available may be spent on Alpha Legion Navy.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Alpha Legion Navy ausgegeben werden.",
       "formations": [
         {
           "name": "Storm Eagle",
@@ -250,7 +250,7 @@
   ],
   "upgrades": {
     "title": "Alpha Legion Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",

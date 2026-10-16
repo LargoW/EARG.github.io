@@ -100,7 +100,7 @@
     },
     {
       "name": "Iron Hands Support Detachments",
-      "description": "Two Support Detachments may be taken per Core Detachment",
+      "description": "Pro Kernkontingent dürfen zwei Unterstützungskontingente aufgestellt werden",
       "formations": [
         {
           "name": "Dreadnought Talon",
@@ -167,7 +167,7 @@
     },
     {
       "name": "Iron Hands Navy & Collegia Titanica Allies",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Storm Talons",

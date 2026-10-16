@@ -130,7 +130,7 @@
     },
     {
       "name": "Support Formations",
-      "description": "Up to two Support Formations for each Company.",
+      "description": "Pro Company dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Mechanized Infantry Platoon",
@@ -212,7 +212,7 @@
     },
     {
       "name": "Collegia Titanica and Imperial Navy Formations",
-      "description": "Up to a third of the points available may be spent on Collegia Titanica and Imperial Navy Formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Collegia Titanica und der Imperiale Flotte Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Warhounds",

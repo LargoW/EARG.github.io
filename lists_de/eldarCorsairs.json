@@ -1,6 +1,6 @@
 [
   {
-    "name": "Eldar Corsairs Forces",
+    "name": "Streitkräfte der Eldar-Korsaren",
     "specialRules": [
     ],
     "unit": [
@@ -83,7 +83,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May carry one unit of Corsair Warriors, Corsair Veterans or Ghostwalkers"
+        "notes": "Kann eine Einheit Corsair Warriors, Corsair Veterans oder Ghostwalkers transportieren."
       },
       {
         "name": "Corsair Nightwing Interceptor",
@@ -115,7 +115,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May carry up to eight of the following: Corsair Warriors, Corsair Veterans, Ghostwalker, Corsair Wasp Walker. Corsair Wasp Walkers take two spaces each.",
+        "notes": "Kann bis zu acht der folgenden Einheiten transportieren: Corsair Warriors, Corsair Veterans, Ghostwalker oder Corsair Wasp Walker. Corsair Wasp Walker belegen jeweils zwei Plätze.",
         "crit": "The Vampire Raider and all units on board are destroyed."
       }
     ]

@@ -90,7 +90,7 @@
     },
     {
       "name": "Elysian Support Formations",
-      "description": "Up to two Support Formations for each Core Company.",
+      "description": "Pro Core Company dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Drop Sentinel Squadron",
@@ -141,7 +141,7 @@
     },
     {
       "name": "Static Defenses & Imperial Navy Allies",
-      "description": "Up to a third of the points available may be spent on these formations. Up to one Tarantula formation for each Tauros Recon or Venator Squadron",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. Up to ein Tarantula Verband pro Tauros Recon or Venator Squadron",
       "formations": [
         {
           "name": "Tarantula",
@@ -181,7 +181,7 @@
   ],
   "upgrades": {
     "title": "Elysian Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Drop Sentinels",

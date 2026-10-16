@@ -88,7 +88,7 @@
     },
     {
       "name": "Ravenguard Elite Detachments",
-      "description": "One Elite Detachment may be taken per Core Detachment",
+      "description": "Pro Kernkontingent darf ein Elitekontingent aufgestellt werden",
       "formations": [
         {
           "name": "Sternguard Veteran",
@@ -122,7 +122,7 @@
     },
     {
       "name": "Ravenguard Support Detachments",
-      "description": "Two Support Detachment may be taken per Core Detachment",
+      "description": "Pro Kernkontingent dürfen zwei Unterstützungskontingente aufgestellt werden",
       "formations": [
         {
           "name": "Assaults",
@@ -175,7 +175,7 @@
     },
     {
       "name": "Ravenguard Navy & Collegia Titanica Allies",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Storm Talons",

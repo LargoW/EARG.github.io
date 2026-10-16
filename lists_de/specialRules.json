@@ -3,13 +3,13 @@
     {
       "title": "Heavy Armoured Vehicle (H-AV)",
       "description": [
-        "Units with the unit type H-AV can take two damage before they are killed, and counts as two units for Outnumber, Blast Markers, number of attacks in an assault, hit allocation and the maximum number of units in base contact. H-AV are treated as WE when hit by weapons that do multiple points of damage (e.g. TK(D3)). In addition it is possible to critically hit H-AVs. If a Critical Hit is rolled, the unit is destroyed with no further effects. H-AVs may be targeted by Pin-Point attacks, but does not target individual models. Instead, hits are randomized in the formation. H-AVs are treated like normal Armoured Vehicles in all other respects."
+        "Einheiten des Typs H-AV können zwei Schadenspunkte erleiden, bevor sie zerstört werden, und zählen für Überzahl, Beschussmarken, die Anzahl der Angriffe im Nahkampf, die Trefferverteilung und die maximale Anzahl von Einheiten in Basekontakt als zwei Einheiten. Wenn H-AVs von Waffen getroffen werden, die mehrere Schadenspunkte verursachen (z. B. TK(D3)), gelten sie als WE. Außerdem können H-AVs kritisch getroffen werden. Wird ein Kritischer Treffer gewürfelt, wird die Einheit ohne weitere Auswirkungen zerstört. H-AVs können durch Punktziel-Angriffe anvisiert werden; diese zielen jedoch nicht auf einzelne Modelle. Stattdessen werden die Treffer innerhalb des Verbands zufällig verteilt. In allen anderen Belangen werden H-AVs wie normale gepanzerte Fahrzeuge behandelt."
       ]
     },
     {
       "title": "Machine Spirit",
       "description": [
-        "A formation that exclusively consists of units with <i>Machine Spirit</i> may only perform the Hold, Engage, Marshal, Sustained Fire and Overwatch actions. In addition, such formations may only contest objectives, and always counts as being within 30cm of an enemy formation when attempting to Rally."
+        "Ein Verband, der ausschließlich aus Einheiten mit <i>Machine Spirit</i> besteht, darf nur die Aktionen Halten, Offensive, Ordnen, Dauerfeuer und Feuerbereitschaft durchführen. Außerdem dürfen solche Verbände nur um Missionsziele konkurrieren und gelten bei Sammelversuchen immer als höchstens 30 cm von einem gegnerischen Verband entfernt."
       ]
     },
     {
@@ -23,22 +23,22 @@
     {
       "title": "God Machine",
       "description": [
-        "War Engines with 8 or more DC are subject to the God Machine and Split Fire special rules.",
-        "The magnificence of these awe-inspiring constructs comes at a price, for if such an incarnation of power were to falter or be destroyed, the forces that are there to aid them would become greatly disturbed.",
-        "For this reason, whenever a unit with God Machine special rule is broken (including if it is already broken but loses an Engage), all friendly formations suffer one Blast Marker. Whenever a unit with God Machine special rule is destroyed, all friendly formations on the battlefield suffer D3 Blast Markers.",
-        "Units with the God Machine special rule are themselves immune to this effect."
+        "Kriegsmaschinen mit mindestens 8 DC unterliegen den Sonderregeln God Machine und Split Fire.",
+        "Die Erhabenheit dieser ehrfurchtgebietenden Konstrukte hat ihren Preis: Sollte eine solche Verkörperung der Macht ins Wanken geraten oder zerstört werden, werden die zu ihrer Unterstützung herbeigeeilten Streitkräfte schwer erschüttert.",
+        "Aus diesem Grund erhält jeder befreundete Verband eine Beschussmarke, sobald eine Einheit mit der Sonderregel God Machine aufgerieben wird (auch wenn sie bereits aufgerieben ist und eine Offensive verliert). Wird eine Einheit mit der Sonderregel God Machine zerstört, erhalten alle befreundeten Verbände auf dem Schlachtfeld D3 Beschussmarken.",
+        "Einheiten mit der Sonderregel God Machine sind selbst immun gegen diesen Effekt."
       ]
     },
     {
       "title": "Split Fire",
       "description": [
-        "A War Engine with this special rule may declare that it will Split Fire when attempting to perform a Sustain Fire or Advance action, suffering a -1 modifier on the roll. If the action is successful, the WE may fire at up to two enemy formations, but may not target more than one formation per individual weapon."
+        "Eine Kriegsmaschine mit dieser Sonderregel kann beim Versuch, die Aktion Dauerfeuer oder Vorrücken durchzuführen, Split Fire ansagen und erleidet dafür einen Modifikator von -1 auf den Wurf. Ist die Aktion erfolgreich, darf die WE auf bis zu zwei gegnerische Verbände feuern, aber mit jeder einzelnen Waffe höchstens einen Verband als Ziel wählen."
       ]
     },
     {
       "title": "Stomp ’em Good",
       "description": [
-        "A War Engine with this special rule may declare that it will Split Fire when attempting to perform a Sustain Fire action, suffering a -1 modifier on the roll. Regardless if the action succeeds or if the formation is forced to Hold, the WE may fire at up to two enemy formations, but may not target more than one formation per individual weapon."
+        "Eine Kriegsmaschine mit dieser Sonderregel kann beim Versuch, die Aktion Dauerfeuer durchzuführen, Split Fire ansagen und erleidet dafür einen Modifikator von -1 auf den Wurf. Unabhängig davon, ob die Aktion gelingt oder der Verband zum Halten gezwungen wird, darf die WE auf bis zu zwei gegnerische Verbände feuern, aber mit jeder einzelnen Waffe höchstens einen Verband als Ziel wählen."
       ]
     },
     {
@@ -80,19 +80,19 @@
     {
       "title": "Bravery",
       "description": [
-        "All Knight formations receive a +1 modifier to their Action Test when carrying out an Engage, and a +1 modifier to their Rally Tests."
+        "Alle Ritterverbände erhalten einen Modifikator von +1 auf ihren Aktionstest, wenn sie eine Offensive durchführen, sowie +1 auf ihre Sammeltests."
       ]
     },
     {
       "title": "Chivalry",
       "description": [
-        "All Knight formations receive a +1 modifier to their Action Test when carrying out an Engage or Double action, and a +1 modifier to their Rally Tests."
+        "Alle Ritterverbände erhalten einen Modifikator von +1 auf ihren Aktionstest, wenn sie eine Offensive oder einen Eilschritt durchführen, sowie +1 auf ihre Sammeltests."
       ]
     },
     {
       "title": "Stubborn",
       "description": [
-        "Any formation where at least one unit has Stubborn reduce the damage caused by Blast Markers while the formation is broken by one, reduce the number of extra hits from losing an assault by one, requires an additional Blast Marker before the formation becomes broken, and may ignore one Blast Marker when determining suppression."
+        "Jeder Verband, in dem sich mindestens eine Einheit mit Stubborn befindet, verringert den durch Beschussmarken verursachten Schaden, solange der Verband aufgerieben ist, um eins; verringert die Anzahl zusätzlicher Treffer durch einen verlorenen Nahkampf um eins; benötigt eine zusätzliche Beschussmarke, bevor er aufgerieben wird; und darf bei der Ermittlung der Unterdrückung eine Beschussmarke ignorieren."
       ]
     },
     {
@@ -106,61 +106,61 @@
     {
       "title": "Ionic Flare Shield",
       "description": [
-        "Knights with <i>Ionic Flare Shield</i> may also use their Ion Shield against CC attacks."
+        "Ritter mit <i>Ionic Flare Shield</i> dürfen ihren Ionenschild auch gegen CC-Angriffe einsetzen."
       ]
     },
     {
       "title": "Shield Piercer",
       "description": [
-        "Weapons with the <i>Shield Piercer</i> special rule ignores Deflector Shields, Ion Shields, Powerfields, Shadowfields and Void Shields (Shadowfields still provide cover from shooting)."
+        "Waffen mit der Sonderregel <i>Shield Piercer</i> ignorieren Deflektorschilde, Ionenschilde, Energiefelder, Schattenfelder und Leere Schilde (Schattenfelder bieten weiterhin Deckung gegen Beschuss)."
       ]
     },
     {
       "title": "Psybolts",
       "description": [
-        "Weapons with the <i>Psybolts</i> special rule ignores Invulnerable Save and Regenerate."
+        "Waffen mit der Sonderregel <i>Psybolts</i> ignorieren Unverwundbar und Regeneration."
       ]
     },
     {
       "title": "Lightning Charge",
       "description": [
-        "Weapon or Unit gains <i>First Strike</i> during engages initiated by the formation."
+        "Die Waffe oder Einheit erhält <i>First Strike</i> bei Offensiven, die von ihrem Verband eingeleitet werden."
       ]
     },
     {
       "title": "Unstable",
       "description": [
-        "If a natural 1 is rolled when rolling to hit, roll another dice. If the result is yet another natural 1, the wielder is destroyed."
+        "Wird beim Trefferwurf eine natürliche 1 gewürfelt, würfle einen weiteren Würfel. Wird erneut eine natürliche 1 gewürfelt, wird der Träger zerstört."
       ]
     },
     {
       "title": "Courage, Discipline and Loyalty",
       "description": [
-        "When the Supreme Commander re-roll is used on a formation that contains a Commissar or a Ministorum Priest, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test."
+        "Wird die Wiederholung des Oberbefehlshabers für einen Verband mit einem Kommissar oder Ministorum-Priester verwendet, gilt für diesen Verband bei der Wiederholung des Aktionstests ein Initiativwert von 1+."
       ]
     },
     {
       "title": "Grim Demeanour",
       "description": [
-        "Valhallan formations that contain a Ministorum Priest gain +1 on their Action Test when attempting to Marshal."
+        "Valhallan-Verbände mit einem Ministorum-Priester erhalten einen Bonus von +1 auf ihren Aktionstest, wenn sie versuchen, die Aktion Ordnen durchzuführen."
       ]
     },
     {
       "title": "Grav-Chutes",
       "description": [
-        "Units with the <i>Grav-Chutes</i> special rule may disembark within 10cm of a <i>Skimmer</i> transport vehicles instead of the normal 5cm."
+        "Einheiten mit der Sonderregel <i>Grav-Chutes</i> dürfen innerhalb von 10 cm statt der üblichen 5 cm von einem <i>Skimmer</i>-Transportfahrzeug aussteigen."
       ]
     },
     {
       "title": "Ethereal",
       "description": [
-        "All units in a formation joined by an Ethereal gain Fearless. When the unit with the Ethereal is killed the formation loses Fearless and receives 1D3 Blast Markers."
+        "Alle Einheiten eines Verbands, dem sich ein Himmlischer angeschlossen hat, erhalten Furchtlos. Wird die Einheit mit dem Himmlischen ausgeschaltet, verliert der Verband Furchtlos und erhält 1D3 Beschussmarken."
       ]
     },
     {
       "title": "Catachan Commanders",
       "description": [
-        "When the Supreme Commander re-roll is used on any formation containing a Catachan Supreme Commander or Catachan Commander, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test"
+        "Wird die Wiederholung des Oberbefehlshabers für einen Verband mit einem Catachan Supreme Commander oder Catachan Commander verwendet, gilt für diesen Verband bei der Wiederholung des Aktionstests ein Initiativwert von 1+."
       ]
     },
     {

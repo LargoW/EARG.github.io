@@ -1,6 +1,6 @@
 [
   {
-    "name": "Astra Militarum Forces",
+    "name": "Streitkräfte des Astra Militarum",
     "specialRules": [
     ],
     "unit": [
@@ -293,7 +293,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has an Autocannon"
+        "notes": "Jede zweite Einheit (aufgerundet) ist mit einer Maschinenkanone bewaffnet."
       },
       {
         "name": "Tank Infantry",
@@ -321,7 +321,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has a Heavy Bolter"
+        "notes": "Jede zweite Einheit (aufgerundet) ist mit einem Schweren Bolter bewaffnet."
       },
       {
         "name": "PDF Infantry",
@@ -335,7 +335,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has a Heavy Stubber"
+        "notes": "Jede zweite Einheit (aufgerundet) ist mit einem Schweren Maschinengewehr bewaffnet."
       },
       {
         "name": "Siege Infantry",
@@ -439,7 +439,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Counts as two units of INF for the purpose of being transported."
+        "notes": "Zählt beim Transport als zwei INF-Einheiten."
       },
       {
         "name": "Death Riders",
@@ -835,7 +835,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Chimera",
@@ -851,7 +851,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Death World Chimera",
@@ -868,7 +868,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Hellhound",
@@ -927,7 +927,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Taurox",
@@ -943,7 +943,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted"
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Centaur",
@@ -1171,7 +1171,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Formation must start the game in the reserves, and may only enter the board by Tunneling. When resolving tunnelers, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, or within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
+        "notes": "Der Verband muss das Spiel in Reserve beginnen und darf das Spielfeld nur durch Tunnelbewegung betreten. Platziere beim Abhandeln der Tunnelbewegung zuerst den Hades Breaching Drill an den festgelegten Koordinaten. Platziere anschließend den Rest des Verbands innerhalb von 5 cm davon oder innerhalb von 5 cm einer bereits aufgestellten Einheit desselben Verbands, sofern alle Einheiten innerhalb von 15 cm zum Hades Breaching Drill aufgestellt werden. Entferne zuletzt den Hades Breaching Drill vom Spielfeld."
       },
       {
         "name": "Ragnarok Heavy Tank",
@@ -1362,7 +1362,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May transport two infantry units or one Drop Sentinel. May not transport Ogryns."
+        "notes": "Kann zwei Infanterieeinheiten oder einen Drop Sentinel transportieren. Ogryns können nicht transportiert werden."
       },
       {
         "name": "Sky Talon",
@@ -1378,7 +1378,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May transport one Light Vehicle (LV) or two Drop Sentinels."
+        "notes": "Kann ein leichtes Fahrzeug (LV) oder zwei Drop Sentinels transportieren."
       },
       {
         "name": "Vulture",
@@ -1412,7 +1412,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May transport two infantry units or one Drop Sentinel. May not transport Ogryns."
+        "notes": "Kann zwei Infanterieeinheiten oder einen Drop Sentinel transportieren. Ogryns können nicht transportiert werden."
       },
       {
         "name": "Malcador",
@@ -1490,7 +1490,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry six infantry units without Jump Packs or Mounted"
+        "notes": "Kann sechs Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Minotaur",
@@ -1539,7 +1539,7 @@
           "Damage Capacity 2",
           "Reinforced Armour"
         ],
-        "notes": "Must be equipped with either Twin Vanquisher Cannon or a Vulcan Mega-Bolter.",
+        "notes": "Muss entweder mit einer Zwillings-Vernichterkanone oder einem Vulcan-Megabolter ausgerüstet sein.",
         "crit": "The Macharius is destroyed."
       },
       {
@@ -1609,7 +1609,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May carry 10 infantry units without Jump Pack or Mounted.",
+        "notes": "Kann 10 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren.",
         "crit": "The Gorgon is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -1669,7 +1669,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Pack or Mounted, two may fire from the firing deck and participate with FF during assaults.",
+        "notes": "Kann zwölf Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; zwei davon dürfen vom Schießdeck aus feuern und sich bei Nahkämpfen mit ihrem FF beteiligen.",
         "crit": "The Stormlord is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent hits destroys the unit."
       },
       {

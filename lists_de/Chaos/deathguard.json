@@ -132,7 +132,7 @@
     },
     {
       "name": "Death Guard Elite Formations",
-      "description": "One Elite formation may be taken per Core formation",
+      "description": "Pro Kernverband darf ein Eliteverband aufgestellt werden",
       "formations": [
         {
           "name": "Havocs",
@@ -160,7 +160,7 @@
     },
     {
       "name": "Death Guard Support Formations",
-      "description": "Up to two Support Formations may be taken per Core Formation.",
+      "description": "Pro Kernverband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Poxwalker Infestation",
@@ -199,7 +199,7 @@
     },
     {
       "name": "Traitor Titans and Chaos Navy",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Plaguehound",
@@ -234,7 +234,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points",
+      "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -251,7 +251,7 @@
   ],
   "upgrades": {
     "title": "Death Guard Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",
