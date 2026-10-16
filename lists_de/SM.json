@@ -12,8 +12,8 @@
         ],
         "specialRules": [
           "Commander",
-          "Invulnerable Save",
-          "Leader"
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
@@ -25,8 +25,8 @@
         "specialRules": [
           "Commander",
           "Extended Command",
-          "Invulnerable Save",
-          "Leader"
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
@@ -34,8 +34,8 @@
         "type": "CH",
         "weapons": [],
         "specialRules": [
-          "Invulnerable Save",
-          "Leader"
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
@@ -46,8 +46,8 @@
         ],
         "specialRules": [
           "Commander",
-          "Invulnerable Save",
-          "Leader",
+          "Unmodifizierter Rettungswurf",
+          "Anführer",
           "Teleport Homer"
         ]
       },
@@ -57,8 +57,8 @@
         "weapons": [
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Leader"
+          "Oberbefehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -71,7 +71,7 @@
           "Extended Command",
           "Commander",
           "Teleport Homer",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -91,9 +91,9 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Inspiring",
-          "Invulnerable Save",
-          "Leader"
+          "Inspirierend",
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
@@ -105,8 +105,8 @@
         "specialRules": [
           "Bionics",
           "Commander",
-          "Invulnerable Save",
-          "Leader"
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
@@ -116,7 +116,7 @@
           "Bolt Pistols"
         ],
         "specialRules": [
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -127,8 +127,8 @@
         ],
         "specialRules": [
           "Battlefield Repairs",
-          "Invulnerable Save",
-          "Leader"
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
@@ -138,8 +138,8 @@
           "Smite"
         ],
         "specialRules": [
-          "Invulnerable Save",
-          "Leader"
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
@@ -150,56 +150,56 @@
         ],
         "specialRules": [
           "Teleport Homer",
-          "Invulnerable Save",
-          "Leader"
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
-        "name": "Blood Ravens Supreme Commander",
+        "name": "Blood Ravens Oberbefehlshaber",
         "type": "CH",
         "weapons": [
           "Smite",
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Teleport Homer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Iron Hands Supreme Commander",
+        "name": "Iron Hands Oberbefehlshaber",
         "type": "CH",
         "weapons": [
           "Power Weapon"
         ],
         "specialRules": [
           "Bionics",
-          "Supreme Commander",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Supreme Commander",
+        "name": "Oberbefehlshaber",
         "type": "CH",
         "weapons": [
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Great Wolf Supreme Commander",
+        "name": "Great Wolf Oberbefehlshaber",
         "type": "CH",
         "weapons": [
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Extended Command",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -209,8 +209,8 @@
           "Heavy Daemon Hammer"
         ],
         "specialRules": [
-          "Invulnerable Save",
-          "Supreme Commander",
+          "Unmodifizierter Rettungswurf",
+          "Oberbefehlshaber",
           "Extended Command",
           "Teleport Homer"
         ]
@@ -222,9 +222,9 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Furchtlos",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -239,7 +239,7 @@
           "Chainswords"
         ],
         "specialRules": [
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -254,7 +254,7 @@
           "Chainswords"
         ],
         "specialRules": [
-          "Infiltrators"
+          "Infiltratorens"
         ],
         "notes": "Zählt für Transportzwecke als Tacticals."
       },
@@ -270,7 +270,7 @@
           "Chainswords"
         ],
         "specialRules": [
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -285,7 +285,7 @@
           "Chainswords"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -300,7 +300,7 @@
           "Chainswords"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -326,9 +326,9 @@
           "Thunder Hammer and Storm Shield"
         ],
         "specialRules": [
-          "Invulnerable Save",
-          "Mounted",
-          "Walker"
+          "Unmodifizierter Rettungswurf",
+          "Beritten",
+          "Geländegängig"
         ],
         "notes": "Zählt beim Transport als Terminators."
       },
@@ -344,8 +344,8 @@
           "Chainswords"
         ],
         "specialRules": [
-          "Fearless",
-          "Infiltrators"
+          "Furchtlos",
+          "Infiltratorens"
         ],
         "notes": "Zählt beim Transport als Tacticals."
       },
@@ -418,8 +418,8 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratorens",
+          "Aufklärer"
         ]
       },
       {
@@ -434,8 +434,8 @@
         ],
         "specialRules": [
           "Expert Reconnaissance",
-          "Infiltrators",
-          "Scout"
+          "Infiltratorens",
+          "Aufklärer"
         ]
       },
       {
@@ -449,8 +449,8 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratorens",
+          "Aufklärer"
         ]
       },
       {
@@ -551,9 +551,9 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -568,8 +568,8 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour"
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung"
         ],
         "notes": "Kann in Landungskapseln aufgestellt werden."
       },
@@ -585,10 +585,10 @@
           "Thunder Hammer and Storm Shield"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour",
-          "Invulnerable Save"
+          "Verstärkte Heckpanzerung",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -604,9 +604,9 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -621,9 +621,9 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -638,9 +638,9 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -654,11 +654,11 @@
           "Flail of the Unforgiven"
         ],
         "specialRules": [
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour",
-          "Invulnerable Save"
+          "Verstärkte Heckpanzerung",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -675,10 +675,10 @@
         ],
         "specialRules": [
           "Faithful",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Teleport",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -694,7 +694,7 @@
           "Siege Drills"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "notes": "Zählt beim Transport als Terminators."
       },
@@ -711,7 +711,7 @@
           "Twin Heavy Bolter"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "notes": "Zählt beim Transport als Terminators."
       },
@@ -728,7 +728,7 @@
         ],
         "specialRules": [
           "Honour Guard",
-          "Jump Packs"
+          "Sprungmodule"
         ],
         "notes": "Zählt beim Transport als Assaults."
       },
@@ -744,7 +744,7 @@
           "Sternguard Bolters"
         ],
         "specialRules": [
-          "Infiltrators",
+          "Infiltratorens",
           "Teleport",
           "Lightning Charge"
         ]
@@ -761,7 +761,7 @@
           "Hawk's Talons"
         ],
         "specialRules": [
-          "Jump Packs",
+          "Sprungmodule",
           "Lightning Charge"
         ]
       },
@@ -777,7 +777,7 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -794,7 +794,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -810,7 +810,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -826,9 +826,9 @@
         ],
         "specialRules": [
           "Faithful",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Teleport",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -844,8 +844,8 @@
         ],
         "specialRules": [
           "Born in the Saddle",
-          "Mounted",
-          "Walker"
+          "Beritten",
+          "Geländegängig"
         ]
       },
       {
@@ -861,9 +861,9 @@
         ],
         "specialRules": [
           "Born in the Saddle",
-          "Mounted",
-          "Scout",
-          "Walker"
+          "Beritten",
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -877,8 +877,8 @@
           "Twin Bolter"
         ],
         "specialRules": [
-          "Mounted",
-          "Invulnerable Save"
+          "Beritten",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -893,10 +893,10 @@
           "Corvus Hammers"
         ],
         "specialRules": [
-          "Mounted",
-          "Scout",
+          "Beritten",
+          "Aufklärer",
           "Commander",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -911,12 +911,12 @@
           "Nemesis Daemon Hammer"
         ],
         "specialRules": [
-          "Walker",
-          "Reinforced Armour",
-          "Infiltrators",
+          "Geländegängig",
+          "Verstärkte Panzerung",
+          "Infiltratorens",
           "Teleport",
           "Faithful",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -942,7 +942,7 @@
         ],
         "specialRules": [
           "Teleport Homer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -968,7 +968,7 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Teleport Homer"
         ]
       },
@@ -983,7 +983,7 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "Kann 1 Einheit Scouts transportieren."
@@ -999,8 +999,8 @@
           "Multi-Melta"
         ],
         "specialRules": [
-          "Scout",
-          "Skimmer"
+          "Aufklärer",
+          "Antigrav"
         ]
       },
       {
@@ -1015,8 +1015,8 @@
         ],
         "specialRules": [
           "Wind-Swift",
-          "Scout",
-          "Skimmer"
+          "Aufklärer",
+          "Antigrav"
         ]
       },
       {
@@ -1030,9 +1030,9 @@
           "Multi-Melta"
         ],
         "specialRules": [
-          "Scout",
-          "Skimmer",
-          "Invulnerable Save",
+          "Aufklärer",
+          "Antigrav",
+          "Unmodifizierter Rettungswurf",
           "Teleport Homer"
         ]
       },
@@ -1048,8 +1048,8 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Scout",
-          "Skimmer"
+          "Aufklärer",
+          "Antigrav"
         ]
       },
       {
@@ -1065,8 +1065,8 @@
         ],
         "specialRules": [
           "Wind-Swift",
-          "Scout",
-          "Skimmer"
+          "Aufklärer",
+          "Antigrav"
         ]
       },
       {
@@ -1081,10 +1081,10 @@
           "Dragonfire Heavy Bolter"
         ],
         "specialRules": [
-          "Scout",
-          "Skimmer",
+          "Aufklärer",
+          "Antigrav",
           "Teleport Homer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -1099,9 +1099,9 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Scout",
-          "Skimmer",
-          "Invulnerable Save",
+          "Aufklärer",
+          "Antigrav",
+          "Unmodifizierter Rettungswurf",
           "Teleport Homer"
         ]
       },
@@ -1117,8 +1117,8 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Scout",
-          "Skimmer"
+          "Aufklärer",
+          "Antigrav"
         ]
       },
       {
@@ -1134,8 +1134,8 @@
         ],
         "specialRules": [
           "Wind-Swift",
-          "Scout",
-          "Skimmer"
+          "Aufklärer",
+          "Antigrav"
         ]
       },
       {
@@ -1150,7 +1150,7 @@
           "Assault Cannon"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -1166,7 +1166,7 @@
         ],
         "specialRules": [
           "Wind-Swift",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -1181,8 +1181,8 @@
           "Assault Cannon"
         ],
         "specialRules": [
-          "Skimmer",
-          "Invulnerable Save",
+          "Antigrav",
+          "Unmodifizierter Rettungswurf",
           "Teleport Homer"
         ]
       },
@@ -1199,7 +1199,7 @@
         "specialRules": [
           "Born in the Saddle",
           "Wind-Swift",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1215,7 +1215,7 @@
         "specialRules": [
           "Born in the Saddle",
           "Wind-Swift",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1225,9 +1225,9 @@
           "n/a"
         ],
         "specialRules": [
-          "Fearless",
-          "Inspiring",
-          "Invulnerable Save"
+          "Furchtlos",
+          "Inspirierend",
+          "Unmodifizierter Rettungswurf"
         ],
         "notes": "Kann nur einer Dreadnought-Einheit beliebiger Konfiguration hinzugefügt werden."
       },
@@ -1243,7 +1243,7 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1258,9 +1258,9 @@
           "Smite"
         ],
         "specialRules": [
-          "Leader",
-          "Walker",
-          "Invulnerable Save"
+          "Anführer",
+          "Geländegängig",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -1275,9 +1275,9 @@
           "Great Wolf Claw"
         ],
         "specialRules": [
-          "Fearless",
-          "Infiltrators",
-          "Walker"
+          "Furchtlos",
+          "Infiltratorens",
+          "Geländegängig"
         ]
       },
       {
@@ -1292,7 +1292,7 @@
           "Frag Cannon"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1306,9 +1306,9 @@
           "Blood Talon|2"
         ],
         "specialRules": [
-          "Fearless",
-          "Infiltrators",
-          "Walker"
+          "Furchtlos",
+          "Infiltratorens",
+          "Geländegängig"
         ],
         "notes": "Zählt beim Transport als Dreadnought."
       },
@@ -1323,7 +1323,7 @@
           "Twin Mortis Autocannon|2"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Zählt beim Transport als Dreadnought."
       },
@@ -1339,7 +1339,7 @@
           "Plasma Cannon"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Zählt beim Transport als Dreadnought."
       },
@@ -1355,7 +1355,7 @@
           "Frag Cannon"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Zählt beim Transport als Dreadnought."
       },
@@ -1371,7 +1371,7 @@
           "Twin Lascannon"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Zählt beim Transport als Dreadnought."
       },
@@ -1387,9 +1387,9 @@
           "Nemesis Doomglaive"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Faithful",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -1404,8 +1404,8 @@
           "Seismic Hammer"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Walker"
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ],
         "notes": "Zählt beim Transport als Dreadnought."
       },
@@ -1422,7 +1422,7 @@
           "Siege Drill"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Zählt beim Transport als Dreadnought."
       },
@@ -1505,7 +1505,7 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1601,7 +1601,7 @@
         "specialRules": [
           "Transport",
           "Faithful",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "notes": "Kann 1 Infanterieeinheit (außer einer Terminator-Einheit) ohne Sprungmodule oder Beritten transportieren."
       },
@@ -1647,7 +1647,7 @@
           "Storm Bolter"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
@@ -1681,7 +1681,7 @@
         "specialRules": [
           "Transport",
           "Faithful",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
@@ -1698,7 +1698,7 @@
         "specialRules": [
           "Transport",
           "Faithful",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
@@ -1763,7 +1763,7 @@
           "Demolisher"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1811,8 +1811,8 @@
           "Twin Heavy Bolter"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
@@ -1829,8 +1829,8 @@
           "Twin Assault Cannon"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
@@ -1847,10 +1847,10 @@
           "Twin Heavy Bolter"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
@@ -1866,11 +1866,11 @@
           "Twin Psycannon"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Faithful",
-          "Thick Rear Armour",
+          "Verstärkte Heckpanzerung",
           "Transport",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
@@ -1886,11 +1886,11 @@
           "Incinerator|2"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Faithful",
-          "Thick Rear Armour",
+          "Verstärkte Heckpanzerung",
           "Transport",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
       },
@@ -1907,9 +1907,9 @@
           "Heavy Flamer|2"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
-          "Walker"
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
+          "Geländegängig"
         ]
       },
       {
@@ -1924,9 +1924,9 @@
           "Twin Multi-Melta|2|"
         ],
         "specialRules": [
-          "Leader",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Anführer",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 1 Infanterieeinheit ohne Sprungmodule oder Beritten transportieren. Zählt beim Transport selbst als Land Raider."
@@ -1942,7 +1942,7 @@
           "Quad Lascannon"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 1 Dreadnought oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Zählt beim Transport selbst als Land Raider."
@@ -1959,8 +1959,8 @@
           "Hurricane Bolters|2"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
@@ -1977,8 +1977,8 @@
           "Hurricane Bolters|2"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Teleport Homer",
           "Transport"
         ],
@@ -1997,8 +1997,8 @@
           "Whirlwind Launcher|0-1"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Bewaffnet entweder mit einem Hyperios- oder einem Whirlwind Launcher. Kann 1 Infanterieeinheit (außer einer Terminator-Einheit) ohne Sprungmodule oder Beritten transportieren. Zählt beim Transport selbst als Land Raider."
@@ -2015,8 +2015,8 @@
         ],
         "specialRules": [
           "Extended Command",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
@@ -2033,8 +2033,8 @@
           "Twin Helfrost Cannon"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
@@ -2054,9 +2054,9 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Fearless",
-          "Reinforced Armour",
-          "Thick Rear Armour"
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung"
         ],
         "notes": "Muss entweder 2 Rapier Laser Destroyers oder 2 Thunderfire Cannons erhalten. Eine Bastion gilt nach ihrer Zerstörung als Ruinengelände.",
         "crit": "The Bastion takes an extra point of damage."
@@ -2076,7 +2076,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Fellblade is destroyed. All units within 5cm suffer a hit on a 5+."
       },
@@ -2094,7 +2094,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Glaive is destroyed. All units within 5cm suffer a hit on a 5+."
       },
@@ -2111,9 +2111,9 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Fearless",
+          "Furchtlos",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 12 Infanterieeinheiten, Attack Bikes oder Dreadnoughts transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer Dreadnoughts) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet).",
@@ -2132,11 +2132,11 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Fearless",
+          "Furchtlos",
           "Faithful",
           "Planetfall",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Transport"
         ],
         "notes": "Kann 12 Infanterieeinheiten oder Dreadnoughts transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer Dreadnoughts) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet). Effekt eines Kritischen Treffers: Die Einheit und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 4+ einen Treffer."
@@ -2155,7 +2155,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Planetfall",
           "Transport"
         ],
@@ -2174,7 +2174,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Stormfang is destroyed."
       },
@@ -2208,7 +2208,7 @@
           "AC Twin Psycannon||FxF"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -2224,8 +2224,8 @@
           "Hurricane Bolters"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer",
+          "Verstärkte Panzerung",
+          "Antigrav",
           "Planetfall",
           "Descent of Angels",
           "Transport"
@@ -2262,7 +2262,7 @@
           "AC Twin Lascannon||FxF"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -2276,7 +2276,7 @@
           "AC Stasis Bomb||FxF"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -2291,7 +2291,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Fire Raptor is destroyed."
       },
@@ -2310,7 +2310,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zählt beim Transport selbst als Thunderhawk.",
@@ -2331,8 +2331,8 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Transport"
         ],
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten.",
@@ -2354,7 +2354,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 8 Infanterieeinheiten oder Attack Bikes transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten.",
@@ -2374,7 +2374,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
@@ -2394,7 +2394,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Dreadnoughts, Hunters, Predators, Razorbacks, Rhinos, Stalkers und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
@@ -2414,7 +2414,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
@@ -2434,9 +2434,9 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Faithful",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
@@ -2456,7 +2456,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Thunderhawk is destroyed."
       },
@@ -2473,9 +2473,9 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Fearless",
+          "Furchtlos",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 12 Infanterieeinheiten, Attack Bikes oder Dreadnoughts transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer H-AV und Dreadnoughts) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet).",
@@ -2632,7 +2632,7 @@
           "Heavy Bolt Pistol & Chainsword"
         ],
         "specialRules": [
-          "Infiltrators"
+          "Infiltratorens"
         ]
       },
       {
@@ -2657,7 +2657,7 @@
           "Assault Bolter"
         ],
         "specialRules": [
-          "Jump Packs",
+          "Sprungmodule",
           "Reinforced Armor",
           "Overlord Insertion"
         ]
@@ -2684,7 +2684,7 @@
           "Heavy Bolt Pistol & Chainsword"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -2726,7 +2726,7 @@
           "Accelerator Autocannon"
         ],
         "specialRules": [
-          "Jump Packs",
+          "Sprungmodule",
           "Overlord Insertion",
           "Reinforced Armor"
         ]
@@ -2741,9 +2741,9 @@
         "weapons": [
         ],
         "specialRules": [
-          "Infiltrators",
+          "Infiltratorens",
           "Overlord Insertion",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -2754,14 +2754,14 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Bolt Sniper Rife"
+          "Bolt Scharfschütze Rife"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
-        "name": "Infiltrator",
+        "name": "Infiltratoren",
         "type": "INF",
         "speed": "15",
         "armour": 4,
@@ -2797,7 +2797,7 @@
         ],
         "specialRules": [
           "Reinforced Armor",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -2814,7 +2814,7 @@
         ],
         "specialRules": [
           "Reinforced Armor",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -2896,7 +2896,7 @@
           "Las-Talon"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -2911,7 +2911,7 @@
           "Hammerstrike Launcher"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -2929,7 +2929,7 @@
         "specialRules": [
           "Damage Capacity: 4",
           "Void Shields 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Astraeus is destroyed. All units within 5cm suffer a hit on a 5+."
       }

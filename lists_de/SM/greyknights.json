@@ -18,7 +18,7 @@
     {
       "from": "SM.json",
       "units": [
-        "Blood Ravens Supreme Commander",
+        "Blood Ravens Oberbefehlshaber",
         "Blood Ravens Librarian",
         "Grey Knights Justicar",
         "Grey Knights Grand Master",
@@ -76,7 +76,7 @@
           "name": "Tacticals",
           "units": "One Blood Ravens Librarian, four Tacticals plus transport",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Dreadnoughts",
             "Land Raiders"
           ],
@@ -86,7 +86,7 @@
           "name": "Devastators",
           "units": "One Blood Ravens Librarian, four Devastators plus transport",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Dreadnoughts",
             "Land Raiders"
           ],
@@ -96,7 +96,7 @@
           "name": "Assaults",
           "units": "One Blood Ravens Librarian, four Assaults",
           "extraUnits": [
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 200
         },
@@ -104,7 +104,7 @@
           "name": "Bikes",
           "units": "One Blood Ravens Librarian, any five of the following units: Assault Bikes, Attack Bike",
           "extraUnits": [
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 225
         },
@@ -112,7 +112,7 @@
           "name": "Vindicators",
           "units": "One Blood Ravens Librarian, four Vindicators",
           "extraUnits": [
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 250
         }
@@ -126,7 +126,7 @@
           "name": "Interceptor Squads",
           "units": "One Justicar, three Grey Knights Interceptor Squads",
           "extraUnits": [
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 250
         },
@@ -134,7 +134,7 @@
           "name": "Strike Squads",
           "units": "One Justicar, three Grey Knights Strike Squads plus transport",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Grey Knights Support",
             "Vortimer Razorbacks"
           ],
@@ -144,7 +144,7 @@
           "name": "Purgation Squads",
           "units": "One Justicar, three Grey Knights Purgation Squads plus transport",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Grey Knights Support",
             "Vortimer Razorbacks"
           ],
@@ -154,7 +154,7 @@
           "name": "Terminators",
           "units": "One Justicar, two Grey Knights Terminators",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Grey Knights Support"
           ],
           "points": 275
@@ -197,8 +197,8 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "(0–1 pro Armee) Supreme Commander",
-        "description": "Ersetze 1 Blood Ravens Librarian durch a Blood Ravens Supreme Commander, oder a Justicar durch a Grey Knights Grand Master",
+        "name": "(0–1 pro Armee) Oberbefehlshaber",
+        "description": "Ersetze 1 Blood Ravens Librarian durch a Blood Ravens Oberbefehlshaber, oder a Justicar durch a Grey Knights Grand Master",
         "points": [
           "50 points"
         ]

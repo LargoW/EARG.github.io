@@ -37,8 +37,8 @@
         "Howling Banshees",
         "Striking Scorpions",
         "Wraithreapers",
-        "Corsair Ghost Walkers",
-        "Corsair Wasp Walker",
+        "Corsair Ghost Geländegängigs",
+        "Corsair Wasp Geländegängig",
         "Venom",
         "Vyper",
         "Wave Serpent",
@@ -54,7 +54,7 @@
           "Holofields (x)",
           "Lance",
           "Shield Piercer",
-          "Shield Disruptor"
+          "Shield Versprengenor"
 
       ]
     },
@@ -135,14 +135,14 @@
       "formations": [
         {
           "name": "Corsair Scouts",
-          "units": "Four Ghost Walkers",
+          "units": "Four Ghost Geländegängigs",
           "extraUnits": [
-            "Replace four Ghost Walkers with four Wasp Walkers: Free"
+            "Replace four Ghost Geländegängigs with four Wasp Geländegängigs: Free"
           ],
           "points": 150
         },
         {
-          "name": "Mounted Aspect Warrior Troupe",
+          "name": "Beritten Aspect Warrior Troupe",
           "units": "Three Wave Serpents and six Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
           "extraUnits": [
             "Autarch",

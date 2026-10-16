@@ -7,7 +7,7 @@
   "strategy": "Squat armies have a Strategy Rating of 2.",
   "Initiative": "All formations have an Initiative Rating of 2+.",
   "specialRules": [
-    "Tunnelers",
+    "Tunnelgräbers",
     "Tunneling Transports"
   ],
   "units": [
@@ -43,7 +43,7 @@
       ],
       "unitRules": [
         "Spirit Lords",
-        "Support Craft"
+        "Hilfstransportschiff"
       ]
     },
     {

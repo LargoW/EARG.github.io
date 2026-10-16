@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Catachan Supreme Commander",
+        "name": "Catachan Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -16,13 +16,13 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
-          "Fearless"
+          "Oberbefehlshaber",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
-        "name": "Steel Legion Supreme Commander",
+        "name": "Steel Legion Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -33,7 +33,7 @@
           "Autocannon"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -48,11 +48,11 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
-        "name": "DKoK Supreme Commander",
+        "name": "DKoK Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -63,11 +63,11 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
-        "name": "Cadian Supreme Commander",
+        "name": "Cadian Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -78,11 +78,11 @@
           "Plasma Gun|2|"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
-        "name": "Elysian Supreme Commander",
+        "name": "Elysian Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -94,7 +94,7 @@
         ],
         "specialRules": [
           "Grav-Chutes",
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -104,13 +104,13 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
-          "Fearless"
+          "Oberbefehlshaber",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
-        "name": "Valhallan Supreme Commander",
+        "name": "Valhallan Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -122,7 +122,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -152,9 +152,9 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Inspiring",
-          "Fearless"
+          "Anführer",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
@@ -222,9 +222,9 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Inspiring",
-          "Fearless"
+          "Anführer",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
@@ -265,7 +265,7 @@
           "Plasma Gun|2|"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Commander"
         ]
       },
@@ -276,9 +276,9 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Leader",
-          "Inspiring",
-          "Fearless"
+          "Anführer",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
@@ -305,7 +305,7 @@
           "Lasguns"
         ],
         "specialRules": [
-          "Expendable",
+          "Entbehrlich",
           "Tank Riders"
         ]
       },
@@ -453,9 +453,9 @@
           "Hunting Lances"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Mounted",
-          "Walker"
+          "Infiltratorens",
+          "Beritten",
+          "Geländegängig"
         ]
       },
       {
@@ -470,23 +470,23 @@
           "Hunting Lances"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Mounted",
-          "Walker",
-          "Scout"
+          "Infiltratorens",
+          "Beritten",
+          "Geländegängig",
+          "Aufklärer"
         ]
       },
       {
-        "name": "Snipers",
+        "name": "Scharfschützes",
         "type": "INF",
         "speed": 15,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Sniper Rifles"
+          "Scharfschütze Rifles"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -501,7 +501,7 @@
           "Jungle Knives"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -516,7 +516,7 @@
           "Jungle Knives"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Teleport"
         ]
       },
@@ -531,7 +531,7 @@
           "Meltaguns"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -545,7 +545,7 @@
           "Heavy Flamer"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -560,7 +560,7 @@
           "Melta Bombs"
         ],
         "specialRules": [
-          "Walker (also works against enemy fortifications)"
+          "Geländegängig (also works against enemy fortifications)"
         ]
       },
       {
@@ -574,7 +574,7 @@
           "Plasma Guns"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -589,7 +589,7 @@
         ],
         "specialRules": [
           "Grav-Chutes",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -690,8 +690,8 @@
           "Heavy Flamer"
         ],
         "specialRules": [
-          "Scout",
-          "Walker"
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -705,8 +705,8 @@
           "Autocannon"
         ],
         "specialRules": [
-          "Scout",
-          "Walker"
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -720,8 +720,8 @@
           "Multilaser"
         ],
         "specialRules": [
-          "Scout",
-          "Walker"
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -736,7 +736,7 @@
         ],
         "specialRules": [
           "Grav-Chutes",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -750,7 +750,7 @@
           "Multi-Rocket Pod"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -764,7 +764,7 @@
           "Tauros Grenade Launcher"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -802,8 +802,8 @@
           "Multilaser"
         ],
         "specialRules": [
-          "Walker",
-          "Scout"
+          "Geländegängig",
+          "Aufklärer"
         ]
       },
       {
@@ -818,7 +818,7 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -835,7 +835,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Sprungmodule or Beritten."
       },
       {
         "name": "Chimera",
@@ -851,7 +851,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Sprungmodule or Beritten."
       },
       {
         "name": "Death World Chimera",
@@ -865,10 +865,10 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Sprungmodule or Beritten."
       },
       {
         "name": "Hellhound",
@@ -896,7 +896,7 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -911,7 +911,7 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -927,7 +927,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Sprungmodule or Beritten."
       },
       {
         "name": "Taurox",
@@ -940,10 +940,10 @@
           "Twin Assault Cannon"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted"
+        "notes": "May carry two infantry units without Sprungmodule or Beritten"
       },
       {
         "name": "Centaur",
@@ -997,7 +997,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Deathstrike Silo is destroyed. All units within 10cm takes a hit."
       },
@@ -1027,7 +1027,7 @@
           "Heavy Flamer"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1171,7 +1171,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Formation must start the game in the reserves, and may only enter the board by Tunneling. When resolving tunnelers, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, or within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
+        "notes": "Formation must start the game in the reserves, and may only enter the board by Tunneling. When resolving Tunnelgräbers, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, or within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
       },
       {
         "name": "Ragnarok Heavy Tank",
@@ -1185,8 +1185,8 @@
           "Heavy Stubber|2|"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Walker"
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ]
       },
       {
@@ -1202,7 +1202,7 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1218,7 +1218,7 @@
           "Multi-Melta|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1234,7 +1234,7 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1250,7 +1250,7 @@
           "Plasma Cannon|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1264,8 +1264,8 @@
           "Demolisher"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Walker"
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ]
       },
       {
@@ -1280,7 +1280,7 @@
           "Heavy Bolter|3|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1296,7 +1296,7 @@
           "Plasma Cannon|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1310,8 +1310,8 @@
           "Laser Destroyer"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Walker"
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ]
       },
       {
@@ -1327,7 +1327,7 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1343,7 +1343,7 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1359,7 +1359,7 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May transport two infantry units or one Drop Sentinel. May not transport Ogryns."
@@ -1375,10 +1375,10 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
-        "notes": "May transport one Light Vehicle (LV) or two Drop Sentinels."
+        "notes": "May transport one Leichte Fahrzeuge (LV) or two Drop Sentinels."
       },
       {
         "name": "Vulture",
@@ -1393,8 +1393,8 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Skimmer",
-          "Scout"
+          "Antigrav",
+          "Aufklärer"
         ]
       },
       {
@@ -1409,7 +1409,7 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May transport two infantry units or one Drop Sentinel. May not transport Ogryns."
@@ -1426,8 +1426,8 @@
           "Heavy Bolter|3|"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Walker"
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ]
       },
       {
@@ -1443,8 +1443,8 @@
           "Heavy Stubber|2|"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Walker"
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ]
       },
       {
@@ -1459,8 +1459,8 @@
           "Heavy Bolter Array"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Walker"
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ]
       },
       {
@@ -1490,7 +1490,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry six infantry units without Jump Packs or Mounted"
+        "notes": "May carry six infantry units without Sprungmodule or Beritten"
       },
       {
         "name": "Minotaur",
@@ -1519,7 +1519,7 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1537,7 +1537,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "notes": "Must be equipped with either Twin Vanquisher Cannon or a Vulcan Mega-Bolter.",
         "crit": "The Macharius is destroyed."
@@ -1555,7 +1555,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Macharius is destroyed."
       },
@@ -1572,7 +1572,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Macharius is destroyed."
       },
@@ -1589,7 +1589,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All units within 5cm of the model suffer a hit on a roll of 4+."
       },
@@ -1605,11 +1605,11 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
-          "Walker",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 infantry units without Jump Pack or Mounted.",
+        "notes": "May carry 10 infantry units without Jump Pack or Beritten.",
         "crit": "The Gorgon is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -1628,7 +1628,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -1648,7 +1648,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -1666,10 +1666,10 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Pack or Mounted, two may fire from the firing deck and participate with FF during assaults.",
+        "notes": "May transport twelve infantry units without Jump Pack or Beritten, two may fire from the firing deck and participate with FF during assaults.",
         "crit": "The Stormlord is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent hits destroys the unit."
       },
       {
@@ -1685,7 +1685,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1703,7 +1703,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -1721,7 +1721,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -1739,7 +1739,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -1758,7 +1758,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       }

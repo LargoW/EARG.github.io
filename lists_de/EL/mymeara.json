@@ -29,7 +29,7 @@
         "Eldar Heavy Weapons Platform",
         "Support Weapons Platform",
         "Shadow Spectres",
-        "Ghost Walkers",
+        "Ghost Geländegängigs",
         "Dire Avengers",
         "Fire Dragons",
         "Dark Reapers",
@@ -37,7 +37,7 @@
         "Striking Scorpions",
         "Warp Spiders",
         "Wraithreapers",
-        "Wasp Walker",
+        "Wasp Geländegängig",
         "Wraithlord",
         "Wave Serpent",
         "Night Spinner",
@@ -55,7 +55,7 @@
       "unitRules": [
           "Lance",
           "Shield Piercer",
-          "Shield Disruptor",
+          "Shield Versprengenor",
           "Holofields (x)",
           "Heavy Armoured Vehicle (H-AV)"
       ]
@@ -122,8 +122,8 @@
       "description": "Bis zu zwei für jede gewählte 'Mymeara Hosts'.",
       "formations": [
         {
-          "name": "Wasp Walkers",
-          "units": "Vier Wasp Walkers",
+          "name": "Wasp Geländegängigs",
+          "units": "Vier Wasp Geländegängigs",
           "upgrades": [
           ],
           "points": 150

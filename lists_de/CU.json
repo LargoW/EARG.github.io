@@ -11,8 +11,8 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Invulnerable Save",
-          "Supreme Commander"
+          "Unmodifizierter Rettungswurf",
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -22,8 +22,8 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Invulnerable Save",
-          "Leader"
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
@@ -33,9 +33,9 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Inspiring",
-          "Invulnerable Save",
-          "Leader"
+          "Inspirierend",
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
@@ -48,7 +48,7 @@
         "weapons": [
           "Adrastus Bolt Caliver"
         ],
-        "notes": "Reinforced Armour"
+        "notes": "Verstärkte Panzerung"
       },
       {
         "name": "Guardian",
@@ -60,7 +60,7 @@
         "weapons": [
           "Guardian Spear"
         ],
-        "notes": "Reinforced Armour"
+        "notes": "Verstärkte Panzerung"
       },
       {
         "name": "Sentinel Guard",
@@ -72,7 +72,7 @@
         "weapons": [
           "Sentinel War Blade"
         ],
-        "notes": "Reinforced Armour"
+        "notes": "Verstärkte Panzerung"
       },
       {
         "name": "Warden",
@@ -85,7 +85,7 @@
           "Guardian Spear"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Invunerable Save"
         ]
       },
@@ -101,8 +101,8 @@
           "Archeotech Kinetic Destroyer"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Jump Packs",
+          "Verstärkte Panzerung",
+          "Sprungmodule",
           "Teleport"
         ]
       },
@@ -118,10 +118,10 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Teleport",
-          "Thick Rear Armour",
+          "Verstärkte Heckpanzerung",
           "Terminator Aquilon are considered terminators for the purpose of being transported."
         ]
       },
@@ -137,7 +137,7 @@
           "Heavy Flamer"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -152,9 +152,9 @@
           "Power Lances"
         ],
         "specialRules": [
-          "Scout",
-          "Skimmer",
-          "Reinforced Armour"
+          "Aufklärer",
+          "Antigrav",
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -171,8 +171,8 @@
         "specialRules": [
           "Reniforced Armour",
           "Teleport",
-          "Walker",
-          "Invulnerable Save",
+          "Geländegängig",
+          "Unmodifizierter Rettungswurf",
           "Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported."
         ]
       },
@@ -190,8 +190,8 @@
         "specialRules": [
           "Reniforced Armour",
           "Teleport",
-          "Walker",
-          "Invulnerable Save",
+          "Geländegängig",
+          "Unmodifizierter Rettungswurf",
           "Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported."
         ]
       },
@@ -206,8 +206,8 @@
           "Twin-linked Arachnus Blaze Cannon"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer"
+          "Verstärkte Panzerung",
+          "Antigrav"
         ],
         "notes": ""
       },
@@ -223,8 +223,8 @@
           "Twin-linked Lastrum Bolt Cannon"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer"
+          "Verstärkte Panzerung",
+          "Antigrav"
         ],
         "notes": ""
       },
@@ -240,8 +240,8 @@
           "Twin-linked Lastrum Bolt Cannon"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer"
+          "Verstärkte Panzerung",
+          "Antigrav"
         ],
         "notes": "Kann eine Terminatoreinheit oder zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
@@ -257,8 +257,8 @@
           "Twin Heavy Bolter"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
@@ -274,7 +274,7 @@
           "Storm Bolter"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Transport"
         ],
         "notes": "Kann zwei Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
@@ -290,7 +290,7 @@
           "Hunter-Killer"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -308,7 +308,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann acht Infanterieeinheiten oder Cybots transportieren. Terminatoren und Cybots zählen jeweils als zwei Einheiten. Effekt eines Kritischen Treffers: Die Einheit und alle transportierten Einheiten werden zerstört."

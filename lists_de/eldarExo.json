@@ -11,9 +11,9 @@
           "Wraithbone Lance"
         ],
         "specialRules": [
-          "Inspiring",
-          "Invulnerable Save",
-          "Supreme Commander"
+          "Inspirierend",
+          "Unmodifizierter Rettungswurf",
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -23,8 +23,8 @@
           "Wraithbone Lance"
         ],
         "specialRules": [
-          "Inspiring",
-          "Invulnerable Save"
+          "Inspirierend",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -35,8 +35,8 @@
         ],
         "specialRules": [
           "Farsight",
-          "Invulnerable Save",
-          "Leader"
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
       {
@@ -50,8 +50,8 @@
           "Eldar Power Lances"
         ],
         "specialRules": [
-          "Mounted",
-          "Walker"
+          "Beritten",
+          "Geländegängig"
         ]
       },
       {
@@ -65,8 +65,8 @@
           "Exodite Hunting Lances"
         ],
         "specialRules": [
-          "Mounted",
-          "Skimmer"
+          "Beritten",
+          "Antigrav"
         ]
       },
       {
@@ -80,7 +80,7 @@
           "Eldar Missile Launcher"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -94,9 +94,9 @@
           "Long Rifles"
         ],
         "specialRules": [
-          "Mounted",
-          "Scout",
-          "Walker"
+          "Beritten",
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -135,7 +135,7 @@
           "Wraith Cannons"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -150,7 +150,7 @@
           "Claws, Teeth & Tail"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -164,7 +164,7 @@
           "Prism Lance"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -179,8 +179,8 @@
         ],
         "specialRules": [
           "Holofield (4+)",
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -195,9 +195,9 @@
         ],
         "specialRules": [
           "Holofield (4+)",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armor",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -213,8 +213,8 @@
         ],
         "specialRules": [
           "Holofield (4+)",
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -229,7 +229,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Great Megadon is killed."
       },
@@ -247,9 +247,9 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Commander",
-          "Fearless",
-          "Jump Packs",
-          "Inspiring"
+          "Furchtlos",
+          "Sprungmodule",
+          "Inspirierend"
         ],
         "crit": "The Eternal Drake is killed. All Exodite Eldar formations (friend and foe) with a line of sight to the Eternal Drake receive one Blast Marker."
       },
@@ -266,8 +266,8 @@
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ],
         "crit": "The Colossal Carnosaur takes an additional point of damage."
       }

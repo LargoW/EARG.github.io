@@ -26,10 +26,10 @@
         "Eldar Exarch",
         "Eldar Guardians",
         "Eldar Farseer",
-        "Saim-Hann Mounted Farseer",
+        "Saim-Hann Beritten Farseer",
         "Heavy Weapon Platform",
         "Wraithguards",
-        "War Walker",
+        "War Geländegängig",
         "Saim-Hann Wild Riders",
         "Saim-Hann Shroud Runners",
         "Dire Avengers",
@@ -55,7 +55,7 @@
             "Holofields (x)",
             "Lance",
             "Shield Piercer",
-            "Shield Disruptor",
+            "Shield Versprengenor",
             "Wind-Swift"
         ]
     },
@@ -90,11 +90,11 @@
     },
     {
       "name": "Saim-Hann Warhosts",
-      "description": "Up to one Aspect Warrior Warhost and one Mounted Guardian Warhost for each Wild Rider Warhost",
+      "description": "Up to one Aspect Warrior Warhost and one Beritten Guardian Warhost for each Wild Rider Warhost",
         "formations": [
             {
                 "name": "Wild Rider Warhost",
-                "units": "Eight Saim-Hann Wild Riders, Saim-Hann Mounted Farseer",
+                "units": "Eight Saim-Hann Wild Riders, Saim-Hann Beritten Farseer",
                 "extraUnits": [
                     "Replace up to three Wild Riders with Saim-Hann Vypers and/or Shroud Runners: Free",
                     "(0-1 per army) Replace one unit of Wild Riders with a Wild Rider Chieftain: 50 points",
@@ -103,7 +103,7 @@
                 "points": 275
             },
             {
-                "name": "Mounted Guardian Warhost",
+                "name": "Beritten Guardian Warhost",
                 "units": "Three Wave Serpents, Farseer, five Guardians",
                 "extraUnits": [
                     "Replace two Eldar Guardians with two Eldar Heavy Weapon Platforms (Free) or one Wraithguards (25 points)",
@@ -136,7 +136,7 @@
                 "points": 200
             },
             {
-                "name": "Mounted Aspect Warrior Troupe",
+                "name": "Beritten Aspect Warrior Troupe",
                 "units": "Three Wave Serpents and six Aspect Warriors chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
                 "extraUnits": [
                     "Add one Exarch: 25 points"
@@ -183,10 +183,10 @@
                 "points": 175
             },
             {
-                "name": "War Walker Troupe",
-                "units": "Four War Walkers",
+                "name": "War Geländegängig Troupe",
+                "units": "Four War Geländegängigs",
                 "extraUnits": [
-                    "Add up to two War Walkers: 25 points each"
+                    "Add up to two War Geländegängigs: 25 points each"
                 ],
                 "points": 150
             }

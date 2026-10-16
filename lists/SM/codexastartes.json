@@ -19,7 +19,7 @@
         "Captain",
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assaults",
         "Scouts",
         "Tacticals",
@@ -137,7 +137,7 @@
           "units": "Four Scouts plus transport",
           "extraUnits": [
             "Razorbacks",
-            "Snipers"
+            "Scharfschützes"
           ],
           "points": 150
         },
@@ -277,7 +277,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]
@@ -300,8 +300,8 @@
         "points": "25 points each"
       },
       {
-        "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Heavy Bolters",
+        "name": "Scharfschützes",
+        "description": "Give all Scouts in the formation 'Scharfschütze' on their Heavy Bolters",
         "points": "25 points"
       },
       {

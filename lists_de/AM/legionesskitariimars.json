@@ -6,7 +6,7 @@
   "strategy": "Die Legiones Skitarii haben einen Strategiewert von 3.",
   "Initiative": "Verbände der Collegia Titanica haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+. Außerdem unterliegt der Questoris-Banner-Verband der Sonderregel „Chivalry“. ",
   "specialRules": [
-    "Tunnelers"
+    "Tunnelgräbers"
   ],
   "usage": [
     "Diese Armeeliste ermöglicht es dir, eine Armee der Skitarii des Adeptus Mechanicus aufzustellen."
@@ -20,7 +20,7 @@
         "Tech-Priest",
         "Skitarii Vanguards",
         "Sicarian Ruststalkers",
-        "Sicarian Infiltrators",
+        "Sicarian Infiltratorens",
         "Skitarii Rangers",
         "Rapier",
         "Kastelan Robot",
@@ -39,7 +39,7 @@
       "unitRules": [
           "Machine Spirit",
           "Ponderous",
-          "Shield Disruptor"
+          "Shield Versprengenor"
       ]
     },
     {
@@ -80,7 +80,7 @@
             "Ersetze 4 Skitarii Vanguards durch 4 Rapiers: Free",
             "Füge bis zu 2 Onager Dunecrawlers hinzu: 50 Punkte pro Stück",
             "Füge bis zu 2 Skorpius Disintegrators hinzu: 50 Punkte pro Stück",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Vanguard Transport"
           ],
           "points": 225
@@ -98,7 +98,7 @@
       "formations": [
         {
           "name": "Sicarian Killclade",
-          "units": "Four Sicarian Ruststalkers, two Sicarian Infiltrators",
+          "units": "Four Sicarian Ruststalkers, two Sicarian Infiltratorens",
           "extraUnits": [
           ],
           "points": 175
@@ -151,7 +151,7 @@
           "name": "0-1 Ordinatus Majoris",
           "units": "One Ordinatus Armageddon (Nova Cannon)",
           "extraUnits": [
-            "Ordinatus Mars (Sonic Disruptor)",
+            "Ordinatus Mars (Sonic Versprengenor)",
             "Ordinatus Golgotha (Hellfire Missiles)"
           ],
           "points": 425
@@ -201,7 +201,7 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "options": [
           {
             "description": "Ersetze den Magos durch a Magos Dominus",
@@ -235,7 +235,7 @@
         "name": "Ordinatus Mars",
         "options": [
           {
-            "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Mars (Sonic Disruptor)",
+            "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Mars (Sonic Versprengenor)",
             "points": "Free"
           }
         ]

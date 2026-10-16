@@ -16,7 +16,7 @@
     {
       "from": "IG.json",
       "units": [
-        "Elysian Supreme Commander",
+        "Elysian Oberbefehlshaber",
         "Elysian Commander",
         "Commissar",
         "Elysian Drop Troops",
@@ -68,7 +68,7 @@
       "formations": [
         {
           "name": "0-1 Regimental HQ",
-          "units": "One Elysian Supreme Commander with a Commissar and seven Elysian Drop Troops plus transport.",
+          "units": "One Elysian Oberbefehlshaber with a Commissar and seven Elysian Drop Troops plus transport.",
           "extraUnits": [
             "Drop Sentinels",
             "Fire Support",

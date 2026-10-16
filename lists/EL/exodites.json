@@ -44,17 +44,17 @@
         "Lance",
         "Lightning Charge",
         "Shield Piercer",
-        "Shield Disruptor"
+        "Shield Versprengenor"
       ]
     },
     {
       "from": "eldarCorsairs.json",
       "units": [
         "Corsair Felarch",
-        "Ghostwalker",
+        "GhostGeländegängig",
         "Corsair Warrior",
         "Corsair Veteran",
-        "Corsair Wasp Walker",
+        "Corsair Wasp Geländegängig",
         "Corsair Venom",
         "Corsair Vampire Raider",
         "Corsair Nightwing Interceptor"
@@ -164,9 +164,9 @@
           "name": "Corsairs Raiding Party",
           "units": "Four Corsair Warriors and one Felarch",
           "extraUnits": [
-            "Add up to two Corsair Wasp Walkers for 25 points each",
+            "Add up to two Corsair Wasp Geländegängigs for 25 points each",
             "Add up to two Corsair Veterans for 25 points each",
-            "Add up to two Ghostwalkers for 25 points each",
+            "Add up to two GhostGeländegängigs for 25 points each",
             "Add enough Corsair Venoms to transport the formation for 25 points each. The entire formation must be transported if any Venoms are added."
           ],
           "points": 150
@@ -188,7 +188,7 @@
         },
         {
           "name": "Corsairs Fire Support (0-1 per raiding party)",
-          "units": "Four Corsair Wasp Walkers",
+          "units": "Four Corsair Wasp Geländegängigs",
           "points": 150
         },
         {

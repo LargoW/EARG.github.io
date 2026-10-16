@@ -79,7 +79,7 @@
           "units": "One Iron Warriors Warpsmith, six Chaos Space Marines",
           "extraUnits": [
             "Replace two Chaos Space Marines with two Havocs: 25 points",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Transport",
             "Obliterators",
             "Dreadclaws",
@@ -101,7 +101,7 @@
           "units": "One Iron Warriors Warpsmith, four Havocs, Chaos Spartan Assault Tank",
           "extraUnits": [
             "Replace the Chaos Spartan Assault Tank with two Chaos Land Raiders: 25 points",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Vindicators"
           ],
           "points": 275
@@ -143,7 +143,7 @@
           "units": "One Iron Warriors Warpsmith, four Tyrant Siege Terminators",
           "extraUnits": [
             "Obliterators",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Dreadnoughts",
             "Dreadclaws"
           ],
@@ -260,7 +260,7 @@
         "points": "50 points"
       },
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Choose one of the following:",
         "options": [
           {

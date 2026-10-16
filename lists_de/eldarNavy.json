@@ -15,7 +15,7 @@
           "AC Bright Lance|2"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -40,7 +40,7 @@
           "AC Spinner Array"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -69,7 +69,7 @@
         "specialRules": [
           "Damage Capacity: 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann bis zu acht der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Support Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Warp Spiders oder Swooping Hawks. Wraithguards und Wraithblades belegen jeweils zwei Plätze.",
@@ -87,7 +87,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Vampire Hunter is destroyed."
       },
@@ -103,11 +103,11 @@
         ],
         "specialRules": [
           "Damage Capacity: 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Holofield (5+)",
           "Transport"
         ],
-        "notes": "Kann vier Ghost Walkers oder Wasp Walkers transportieren.",
+        "notes": "Kann vier Ghost Geländegängigs oder Wasp Geländegängigs transportieren.",
         "crit": "The Corsair Vampire Hunter and all units on board are destroyed."
       },
       {

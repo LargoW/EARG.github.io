@@ -17,11 +17,11 @@
     {
       "from": "IG.json",
       "units": [
-        "Valhallan Supreme Commander",
+        "Valhallan Oberbefehlshaber",
         "Valhallan Commander",
         "Valhallan Infantry",
         "Fire Support Squad",
-        "Snipers",
+        "Scharfschützes",
         "Hydra",
         "Basilisk",
         "Manticore",
@@ -68,11 +68,11 @@
       "formations": [
         {
           "name": "Valhallan Regimental HQ",
-          "units": "One Valhallan Supreme Commander with a Ministorum Priest, nine Valhallan Infantry",
+          "units": "One Valhallan Oberbefehlshaber with a Ministorum Priest, nine Valhallan Infantry",
           "extraUnits": [
             "Valhallan Griffons",
             "Ogryns",
-            "Snipers",
+            "Scharfschützes",
             "Fire Support",
             "Flak",
             "Entrenchments"
@@ -85,7 +85,7 @@
           "extraUnits": [
             "Valhallan Griffons",
             "Ogryns",
-            "Snipers",
+            "Scharfschützes",
             "Fire Support",
             "Flak",
             "Entrenchments",
@@ -157,7 +157,7 @@
     },
     {
       "name": "Adeptus Ministorum and Imperial Navy Allies",
-      "description": "Up to a fourth of the points available may be spent on Adeptus Ministorum, Tunnelers and Imperial Navy Allies",
+      "description": "Up to a fourth of the points available may be spent on Adeptus Ministorum, Tunnelgräbers and Imperial Navy Allies",
       "formations": [
         {
           "name": "Ministorum Mission",
@@ -228,10 +228,10 @@
         ]
       },
       {
-        "name": "Snipers",
+        "name": "Scharfschützes",
         "options": [
           {
-            "description": "Add up to two Snipers",
+            "description": "Add up to two Scharfschützes",
             "points": "25 points each"
           }
         ]

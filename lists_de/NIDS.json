@@ -11,9 +11,9 @@
           "n/a"
         ],
         "specialRules": [
-          "Inspiring",
-          "Leader",
-          "Invulnerable Save"
+          "Inspirierend",
+          "Anführer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -28,12 +28,12 @@
         ],
         "specialRules": [
           "Hive Mind Locus",
-          "Inspiring",
+          "Inspirierend",
           "Synapse",
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Commander",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -48,12 +48,12 @@
         ],
         "specialRules": [
           "Hive Mind Locus",
-          "Inspiring",
+          "Inspirierend",
           "Synapse",
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Commander",
-          "Leader",
+          "Anführer",
           "Jump Pack"
         ]
       },
@@ -71,12 +71,12 @@
         "specialRules": [
           "Assisted Swarming",
           "Hive Mind Locus",
-          "Inspiring",
+          "Inspirierend",
           "Synapse",
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Commander",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -93,12 +93,12 @@
         "specialRules": [
           "Assisted Swarming",
           "Hive Mind Locus",
-          "Inspiring",
+          "Inspirierend",
           "Synapse",
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Commander",
-          "Leader",
+          "Anführer",
           "Jump Pack"
         ]
       },
@@ -115,10 +115,10 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Commander",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -134,10 +134,10 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Commander",
-          "Leader",
+          "Anführer",
           "Jump Pack"
         ]
       },
@@ -153,7 +153,7 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -168,8 +168,8 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
-          "Jump Packs"
+          "Furchtlos",
+          "Sprungmodule"
         ]
       },
       {
@@ -184,8 +184,8 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
-          "Invulnerable Save"
+          "Furchtlos",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -199,8 +199,8 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
-          "Tunneler"
+          "Furchtlos",
+          "Tunnelgräber"
         ]
       },
       {
@@ -214,7 +214,7 @@
         ],
         "specialRules": [
           "Gaunts",
-          "Tunneler"
+          "Tunnelgräber"
         ]
       },
       {
@@ -253,7 +253,7 @@
         ],
         "specialRules": [
           "Gaunts",
-          "Infiltrators"
+          "Infiltratorens"
         ]
       },
       {
@@ -267,7 +267,7 @@
         ],
         "specialRules": [
           "Gaunts",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -280,8 +280,8 @@
           "Rending Claws"
         ],
         "specialRules": [
-          "Scout",
-          "Infiltrators"
+          "Aufklärer",
+          "Infiltratorens"
         ]
       },
       {
@@ -322,10 +322,10 @@
           "Scythed Claws"
         ],
         "specialRules": [
-          "First Strike",
-          "Infiltrators",
-          "Invulnerable Save",
-          "Scout",
+          "Erstschlag",
+          "Infiltratorens",
+          "Unmodifizierter Rettungswurf",
+          "Aufklärer",
           "Teleport"
         ]
       },
@@ -341,7 +341,7 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -357,7 +357,7 @@
           "Grasping Talons"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -373,7 +373,7 @@
           "Grasping Talons"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -387,7 +387,7 @@
           "Bio-Acid-Venom Pods"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -401,7 +401,7 @@
           "Bio-Plasmic Cannon"
         ],
         "specialRules": [
-            "Reinforced Armour"
+            "Verstärkte Panzerung"
         ]
       },
       {
@@ -416,7 +416,7 @@
           "Massive Claws"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -431,7 +431,7 @@
           "Large Claws"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann bis zu vier Einheiten Barbgaunts, Termagants, Hormagaunts, Gargoyles und Raveners transportieren. Biovores, Pyrovores, Tyranid Warriors und Zoanthropes zählen jeweils als eineinhalb Einheiten, aufgerundet."
@@ -448,8 +448,8 @@
           "Ripping Claws"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Reinforced Armour"
+          "Infiltratorens",
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -464,8 +464,8 @@
           "Large Claws"
         ],
         "specialRules": [
-           "Infiltrators",
-          "Reinforced Armour"
+           "Infiltratorens",
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -479,7 +479,7 @@
           "Impaler Cannon"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -495,11 +495,11 @@
           "Gaunt Pouch"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport",
           "Augmented Swarming(+1)",
           "Synapse",
-          "Fearless"
+          "Furchtlos"
         ],
         "notes": "Kann zwei Einheiten mit der Sonderregel „Gaunts“ transportieren."
       },
@@ -514,7 +514,7 @@
           "Rupture Cannon"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -531,10 +531,10 @@
         "specialRules": [
           "Damage Capacity: 4",
           "Synapse",
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Regeneration",
-          "Tunneler"
+          "Tunnelgräber"
         ],
         "crit": "The Viragon is killed."
       },
@@ -551,9 +551,9 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
-          "Reinforced Armour",
-          "Tunneler"
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Tunnelgräber"
         ]
       },
       {
@@ -568,8 +568,8 @@
           "Large Claws"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Tunneler"
+          "Verstärkte Panzerung",
+          "Tunnelgräber"
         ]
       },
       {
@@ -587,9 +587,9 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
-          "Fearless",
-          "Skimmer",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Antigrav",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann bis zu vier Einheiten Gargoyles transportieren.",
@@ -610,9 +610,9 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
-          "Fearless",
-          "Skimmer",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Antigrav",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann bis zu 4 Gargoyle-Einheiten transportieren.",
@@ -632,8 +632,8 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
-          "Fearless",
-          "Reinforced Armour"
+          "Furchtlos",
+          "Verstärkte Panzerung"
         ],
         "crit": "The Hierodule Prime is killed."
       },
@@ -650,7 +650,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Hierodule is killed."
       },
@@ -668,8 +668,8 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
-          "Fearless",
-          "Reinforced Armour"
+          "Furchtlos",
+          "Verstärkte Panzerung"
         ],
         "crit": "The Scythed Hierodule Prime is killed."
       },
@@ -686,7 +686,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Scythed Hierodule is killed."
       },
@@ -703,7 +703,7 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Regeneration"
         ],
         "crit": "The Hive Nest is destroyed."
@@ -721,7 +721,7 @@
           "Damage Capacity: 3",
           "Synapse",
           "Assisted Swarming",
-          "Fearless",
+          "Furchtlos",
           "Regeneration"
         ],
         "crit": "The Spawn Nest is destroyed."
@@ -743,11 +743,11 @@
           "Damage Capacity: 6",
           "Hive Mind Locus",
           "Synapse",
-          "Fearless",
-          "Leader",
+          "Furchtlos",
+          "Anführer",
           "Commander",
-          "Inspiring",
-          "Reinforced Armour",
+          "Inspirierend",
+          "Verstärkte Panzerung",
           "Regeneration"
         ],
         "notes": "Darf Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, das niedriger als sein Körper und bis zu 2 cm breit ist.",
@@ -769,11 +769,11 @@
           "Damage Capacity: 6",
           "Hive Mind Locus",
           "Synapse",
-          "Fearless",
-          "Leader",
+          "Furchtlos",
+          "Anführer",
           "Commander",
-          "Inspiring",
-          "Reinforced Armour",
+          "Inspirierend",
+          "Verstärkte Panzerung",
           "Regeneration",
           "Transport",
           "Augmented Swarming(+1)",
@@ -796,8 +796,8 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Regeneration"
         ],
         "notes": "Kann Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, sofern es niedriger als der Körper und höchstens 2 cm breit ist.",
@@ -819,8 +819,8 @@
         ],
         "specialRules": [
           "Damage Capacity: 6",
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Regeneration"
         ],
         "notes": "Kann Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, sofern es niedriger als der Körper und höchstens 2 cm breit ist.",

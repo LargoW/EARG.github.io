@@ -12,7 +12,7 @@
         ],
         "specialRules": [
           "Spirit Lords",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -27,8 +27,8 @@
           "Autocannon"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Supreme Commander"
+          "Verstärkte Panzerung",
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -43,8 +43,8 @@
           "Autocannon"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Leader",
+          "Verstärkte Panzerung",
+          "Anführer",
           "Commander"
         ]
       },
@@ -101,8 +101,8 @@
           "Heirloom Guns"
         ],
         "specialRules": [
-          "Inspiring",
-          "Leader"
+          "Inspirierend",
+          "Anführer"
         ]
       },
       {
@@ -168,7 +168,7 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -195,7 +195,7 @@
           "Twin Bolter"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -211,7 +211,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Squat Warlord, Grand Warlord, and Squat Thunderfire units takes two spaces each. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
+        "notes": "May transport two infantry units without Sprungmodule or Beritten. Squat Warlord, Grand Warlord, and Squat Thunderfire units takes two spaces each. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
       },
       {
         "name": "Land Raider",
@@ -225,11 +225,11 @@
           "Twin Heavy Bolter"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Squat Warlord and Grand Warlord units takes two spaces each."
+        "notes": "May transport two infantry units without Sprungmodule or Beritten. Squat Warlord and Grand Warlord units takes two spaces each."
       },
       {
         "name": "Squat Thunderfire",
@@ -255,7 +255,7 @@
           "Ragnarok Battle Cannon"
         ],
         "specialRules": [
-          "Scout, Skimmer"
+          "Scout, Antigrav"
         ]
       },
       {
@@ -285,7 +285,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Support Craft"
+          "Hilfstransportschiff"
         ],
         "crit": "The Overlord is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -300,11 +300,11 @@
           "Storm Bolter"
         ],
         "specialRules": [
-          "Thick Rear Armour",
-          "Tunneler",
+          "Verstärkte Heckpanzerung",
+          "Tunnelgräber",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Squat Warlord units takes two spaces each."
+        "notes": "May transport two infantry units without Sprungmodule or Beritten. Squat Warlord units takes two spaces each."
       },
       {
         "name": "Hellbore",
@@ -318,12 +318,12 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Fearless",
-          "Thick Rear Armour",
-          "Tunneler",
+          "Furchtlos",
+          "Verstärkte Heckpanzerung",
+          "Tunnelgräber",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Packs or Mounted. Squat Warlord units takes two spaces each.",
+        "notes": "May transport twelve infantry units without Sprungmodule or Beritten. Squat Warlord units takes two spaces each.",
         "crit": "The Hellbore is destroyed."
       },
       {
@@ -338,7 +338,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm takes a hit."
       },
@@ -358,12 +358,12 @@
         "specialRules": [
           "Damage Capacity: 4",
           "Void Shields: 4",
-          "Reinforced Armour",
-          "Thick Rear Armour",
-          "Fearless",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
+          "Furchtlos",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Packs or Mounted. Up to two units may shoot and FF from the Leviathan's fighting platform",
+        "notes": "May transport twelve infantry units without Sprungmodule or Beritten. Up to two units may shoot and FF from the Leviathan's fighting platform",
         "crit": "The Leviathan is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the Leviathan."
       },
       {
@@ -381,9 +381,9 @@
         "specialRules": [
           "Damage Capacity: 5",
           "Void Shields: 4",
-          "Reinforced Armour",
-          "Thick Rear Armour",
-          "Fearless"
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
+          "Furchtlos"
         ],
         "crit": "The Cyclops may no longer fire its Hellfury Cannon. Subsequent crits destroys the Cyclops, and all units within 5cm takes a hit."
       },
@@ -404,9 +404,9 @@
         "specialRules": [
           "Damage Capacity: 5",
           "Void Shields: 4",
-          "Reinforced Armour",
-          "Thick Rear Armour",
-          "Fearless"
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
+          "Furchtlos"
         ],
         "crit": "The Colossus is immobilized, and may not move for the rest of the game. Subsequent crits destroys the Colossus."
       },
@@ -430,8 +430,8 @@
         "specialRules": [
           "Damage Capacity: 2 + the current number of Battle Cars",
           "Void Shields: the current number of Battle Cars",
-          "Reinforced Armour",
-          "Fearless"
+          "Verstärkte Panzerung",
+          "Furchtlos"
         ],
         "notes": "[*]Each Berserker Battle Car may transport one unit of Squat Berserkers. It is allowed to firefight while being transported inside the Land Train.",
         "crit": "The last Battle Car in the train is destroyed. If no Battle Cars remain the Land Train engine is destroyed."

@@ -232,12 +232,12 @@
     "items": [
       {
         "name": "0-1 Eye of the Gods",
-        "description": "The formation gains 'Supreme Commander' special rule.",
+        "description": "The formation gains 'Oberbefehlshaber' special rule.",
         "points": "50 points"
       },
       {
         "name": "Heralds of Chaos",
-        "description": "The formation gains the 'Leader' special rule. May not be combined with Eye of the Gods.",
+        "description": "The formation gains the 'Anführer' special rule. May not be combined with Eye of the Gods.",
         "points": "25 points"
       }
     ]

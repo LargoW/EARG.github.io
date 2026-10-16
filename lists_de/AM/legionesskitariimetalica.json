@@ -39,7 +39,7 @@
       "unitRules": [
         "Machine Spirit",
         "Ponderous",
-        "Shield Disruptor"
+        "Shield Versprengenor"
       ]
     },
     {
@@ -79,7 +79,7 @@
             "Ersetze 3 Hypaspists durch 3 Rapiers: Free",
             "Ersetze 2 Hypaspists durch 2 Sagitarii: 25 Punkte",
             "Minoris",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Hypaspist Transport",
             "Hydra"
           ],
@@ -144,7 +144,7 @@
           "name": "0-1 Ordinatus Majoris",
           "units": "One Ordinatus Armageddon (Nova Cannon)",
           "extraUnits": [
-            "Ordinatus Mars (Sonic Disruptor)",
+            "Ordinatus Mars (Sonic Versprengenor)",
             "Ordinatus Golgotha (Hellfire Missiles)"
           ],
           "points": 425
@@ -202,7 +202,7 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Ersetze den Magos durch an Magos Dominus",
         "points": "75 points"
       },
@@ -241,7 +241,7 @@
       },
       {
         "name": "Ordinatus Mars",
-        "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Mars (Sonic Disruptor)",
+        "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Mars (Sonic Versprengenor)",
         "points": "Free"
       },
       {

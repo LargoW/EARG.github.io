@@ -20,7 +20,7 @@
       "from": "SM.json",
       "units": [
         "Iron Hands Captain",
-        "Iron Hands Supreme Commander",
+        "Iron Hands Oberbefehlshaber",
         "Techmarine",
         "Iron Hands Devastators",
         "Tacticals",
@@ -75,7 +75,7 @@
           "units": "Ein Iron Hands Captain oder Techmarine, 4 Tacticals plus Transporter und 2 beliebige der folgenden Einheiten: Dreadnought, Hellfire Dreadnought, Siege Dreadnought",
           "extraUnits": [
             "Anti-Air",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Venerable Dreadnought",
             "Ironclad Dreadnoughts",
             "Dreadnoughts",
@@ -89,7 +89,7 @@
           "units": "Ein Iron Hands Captain oder Techmarine, 4 Tacticals plus Transporter und 2 beliebige der folgenden Einheiten: Predator Annihilator, Predator Destructor oder Vindicator",
           "extraUnits": [
             "Anti-Air",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Devastators",
             "Transports",
             "Vindicators"
@@ -258,8 +258,8 @@
         "points": "25 points each"
       },
       {
-        "name": "Supreme Commander (0–1 pro Armee)",
-        "description": "Ersetze 1 Iron Hands Captain durch an Iron Hands Supreme Commander",
+        "name": "Oberbefehlshaber (0–1 pro Armee)",
+        "description": "Ersetze 1 Iron Hands Captain durch an Iron Hands Oberbefehlshaber",
         "points": "50 points"
       },
       {

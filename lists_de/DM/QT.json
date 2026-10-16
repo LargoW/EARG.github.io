@@ -48,7 +48,7 @@
         "Heavy Armoured Vehicle (H-AV)",
         "Void Shields",
         "Shield Piercer",
-        "Shield Disruptor",
+        "Shield Versprengenor",
         "Lance"
       ]
     },
@@ -205,7 +205,7 @@
           "units": "Ein Ordinatus Retlaxi",
           "extraUnits": [
             "Verbessere the Ordinatus Retlaxi to an Ordinatus Temporia (25 Punkte) oder Ordinatus Cyclothrathe (50 Punkte)",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 425
         },
@@ -250,7 +250,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "(0-1 per army) Supreme Commander",
+        "name": "(0-1 per army) Oberbefehlshaber",
         "description": "Füge an Arch-Heretek to a Hellwright unit oder an Ordinatus Hereticus Majoris hinzu",
         "points": "100 points"
       },

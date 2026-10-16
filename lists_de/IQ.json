@@ -11,7 +11,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -22,7 +22,7 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -33,7 +33,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -47,10 +47,10 @@
           "Ardent Blade"
         ],
         "specialRules": [
-          "Fearless",
-          "Leader",
-          "Jump Packs",
-          "Invulnerable Save"
+          "Furchtlos",
+          "Anführer",
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -65,10 +65,10 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
-          "Scout",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Furchtlos",
+          "Aufklärer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -84,9 +84,9 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Scout",
-          "Invulnerable Save"
+          "Anführer",
+          "Aufklärer",
+          "Unmodifizierter Rettungswurf"
 
         ]
       },
@@ -103,10 +103,10 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
+          "Oberbefehlshaber",
+          "Furchtlos",
           "Teleport Homer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -123,10 +123,10 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Fearless",
+          "Anführer",
+          "Furchtlos",
           "Teleport Homer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -140,7 +140,7 @@
           "Meltaguns"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -155,9 +155,9 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Furchtlos",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -173,9 +173,9 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Fearless",
-          "Invulnerable Save"
+          "Anführer",
+          "Furchtlos",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -216,7 +216,7 @@
           "Auto Pistols"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -229,8 +229,8 @@
           "Fangs"
         ],
         "specialRules": [
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Machine Spirit",
           "Ponderous"
         ]
@@ -276,7 +276,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -305,7 +305,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -319,7 +319,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Infiltrators"
+          "Infiltratorens"
         ]
       },
       {
@@ -332,10 +332,10 @@
           "Combat Flails"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Fearless",
+          "Infiltratorens",
+          "Furchtlos",
           "Machine Spirit",
-          "Expendable"
+          "Entbehrlich"
         ]
       },
       {
@@ -348,8 +348,8 @@
           "Assassin Weapons"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Invulnerable Save"
+          "Infiltratorens",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -375,7 +375,7 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -403,10 +403,10 @@
           "Power Saws"
         ],
         "specialRules": [
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Machine Spirit",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -421,9 +421,9 @@
           "Penitent Flails"
         ],
         "specialRules": [
-          "Infiltrators",
+          "Infiltratorens",
           "Faithful",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -438,11 +438,11 @@
           "Penitent Flails"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Fearless",
-          "Invulnerable Save",
-          "Inspiring",
-          "Walker"
+          "Infiltratorens",
+          "Furchtlos",
+          "Unmodifizierter Rettungswurf",
+          "Inspirierend",
+          "Geländegängig"
         ]
       },
       {
@@ -514,7 +514,7 @@
           "Twin Heavy Stubber"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "Kann zwei Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren."
@@ -531,7 +531,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "Kann 2 Infanterieeinheiten ohne Beritten oder Jet Packs transportieren."
@@ -567,7 +567,7 @@
         "specialRules": [
           "Damage Capacity 3",
           "Faithful",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann acht Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; zwei davon dürfen vom Schießdeck aus feuern und sich bei Nahkämpfen mit ihrem FF beteiligen.",
@@ -587,7 +587,7 @@
         "specialRules": [
           "Damage Capacity 4",
           "Void Shields 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Faithful",
           "Transport"
         ],
@@ -612,8 +612,8 @@
           "Void Shields 6",
           "God Machine",
           "Split Fire",
-          "Reinforced Armour",
-          "Fearless",
+          "Verstärkte Panzerung",
+          "Furchtlos",
           "Faithful",
           "Transport"
         ],

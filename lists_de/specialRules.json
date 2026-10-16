@@ -48,15 +48,15 @@
         "* Eine Adeptus-Custodes-Einheit wird erst durch 2 Beschussmarken unterdrückt.",
         "* Adeptus-Custodes-Verbände werden erst aufgerieben, wenn sie 2 Beschussmarken pro Einheit im Verband haben.",
         "* Adeptus-Custodes-Verbände zählen bei der Ermittlung des Nahkampfergebnisses nur die Hälfte ihrer Beschussmarken (abgerundet; beachte, dass es keinen Bonus von +1 für keine Beschussmarken gibt, wenn der Verband vor dem Abrunden eine Beschussmarke hatte).",
-        "* Wenn sich ein aufgeriebener Adeptus-Custodes-Verband sammelt, erhält er Beschussmarken in Höhe seiner Einheitenzahl statt der halben Anzahl. Adeptus Custodes mit der Sonderfähigkeit Leader entfernen 2 statt 1 Beschussmarke.",
+        "* Wenn sich ein aufgeriebener Adeptus-Custodes-Verband sammelt, erhält er Beschussmarken in Höhe seiner Einheitenzahl statt der halben Anzahl. Adeptus Custodes mit der Sonderfähigkeit Anführer entfernen 2 statt 1 Beschussmarke.",
         "* Adeptus-Custodes-Einheiten gelten in jeder Hinsicht als Furchtlos, müssen sich aber weiterhin aufgerieben ausserhalb von 15 cm zu einem gegnerischen Verband bewegen. Gelingt ihnen das nicht, gelten die normalen Regeln für das Niedermachen aufgeriebener, nicht furchtloser Einheiten innerhalb von 15 cm zu einem Gegner; dabei sind die obigen Regeln für Adeptus Custodes und Beschussmarken zu berücksichtigen."
       ]
     },
     {
-      "title": "Support Craft",
+      "title": "Hilfstransportschiff",
       "description": [
-        "Support Craft sind Antigravfahrzeuge und gelten für Sichtlinien und Gelände stets als aufgetaucht. Verfügt das Support Craft über eine Transportoption, darf es Einheiten wie üblich ein- und ausschiffen. Eingeschiffte Einheiten dürfen einen Schutzwurf ablegen (siehe 1.7.5), wenn das Support Craft zerstört wird.",
-        "Support Craft blockieren keine Sichtlinie und müssen bei Offensiven stets ihre Antigravfähigkeit einsetzen, um ein Feuergefecht zu erzwingen. Infanterie in Basekontakt mit einem Support Craft kann dieses nicht als Deckung nutzen."
+        "Hilfstransportschiff sind Antigravfahrzeuge und gelten für Sichtlinien und Gelände stets als aufgetaucht. Verfügt das Hilfstransportschiff über eine Transportoption, darf es Einheiten wie üblich ein- und ausschiffen. Eingeschiffte Einheiten dürfen einen Schutzwurf ablegen (siehe 1.7.5), wenn das Hilfstransportschiff zerstört wird.",
+        "Hilfstransportschiff blockieren keine Sichtlinie und müssen bei Offensiven stets ihre Antigravfähigkeit einsetzen, um ein Feuergefecht zu erzwingen. Infanterie in Basekontakt mit einem Hilfstransportschiff kann dieses nicht als Deckung nutzen."
       ]
     },
     {
@@ -68,13 +68,13 @@
     {
       "title": "Tunneling Transports",
       "description": [
-        "Verbände mit Einheiten, die sowohl die Sonderregel Transport als auch Tunneler besitzen, müssen das Spiel in Reserve beginnen und dürfen das Schlachtfeld nur durch Tunnelbewegung betreten. Kriegsmaschinen mit diesen Sonderregeln dürfen das Spiel nicht leer beginnen, sondern müssen einen anderen Verband transportieren."
+        "Verbände mit Einheiten, die sowohl die Sonderregel Transport als auch Tunnelgräber besitzen, müssen das Spiel in Reserve beginnen und dürfen das Schlachtfeld nur durch Tunnelbewegung betreten. Kriegsmaschinen mit diesen Sonderregeln dürfen das Spiel nicht leer beginnen, sondern müssen einen anderen Verband transportieren."
       ]
     },
     {
-      "title": "Shield Disruptor",
+      "title": "Shield Versprengenor",
       "description": [
-        "Jeder Schadenspunkt eines Treffers mit \u003ci\u003eShield Disruptor\u003c/i\u003e schaltet zwei \u003ci\u003ePowerfields\u003c/i\u003e, \u003ci\u003eShadowfields\u003c/i\u003e oder \u003ci\u003eVoid Shields\u003c/i\u003e aus. Wird eine Einheit getroffen, der nur noch ein Feld verbleibt, wird dieses ausgeschaltet; überschüssiger Schaden wird nicht übertragen. Treffer mit \u003ci\u003eShield Disruptor\u003c/i\u003e ignorieren ausserdem \u003ci\u003eDeflector Shields\u003c/i\u003e und \u003ci\u003eIon Shields\u003c/i\u003e."
+        "Jeder Schadenspunkt eines Treffers mit \u003ci\u003eShield Versprengenor\u003c/i\u003e schaltet zwei \u003ci\u003ePowerfields\u003c/i\u003e, \u003ci\u003eShadowfields\u003c/i\u003e oder \u003ci\u003eVoid Shields\u003c/i\u003e aus. Wird eine Einheit getroffen, der nur noch ein Feld verbleibt, wird dieses ausgeschaltet; überschüssiger Schaden wird nicht übertragen. Treffer mit \u003ci\u003eShield Versprengenor\u003c/i\u003e ignorieren ausserdem \u003ci\u003eDeflector Shields\u003c/i\u003e und \u003ci\u003eIon Shields\u003c/i\u003e."
       ]
     },
     {
@@ -99,7 +99,7 @@
       "title": "Ion Shield (x)",
       "description": [
         "Ritter verwenden Ionenschilde, um Beschuss- und Feuergefechtsangriffe abzulenken. Wird ein Ritter von Fernbeschuss getroffen, darf er statt seines Rüstungswerts einen Schutzwurf mit dem in Klammern angegebenen Wert ablegen.",
-        "Dieser Schutzwurf wird niemals modifiziert und ist von Treffern durch Makrowaffen, Lanzen und Titanenkiller unberührt (jeder Schadenspunkt eines Titanenkiller-Treffers muss einzeln abgewehrt werden; Treffer mit der Sonderregel Disrupt wirken normal). Verfügt die Einheit zusätzlich über Verstärkte Panzerung, darf sie einen misslungenen Schutzwurf mit ihrem Rüstungswert wiederholen, sofern der Treffer nicht von einer Makrowaffe, Lanze oder Titanenkillerwaffe verursacht wurde.",
+        "Dieser Schutzwurf wird niemals modifiziert und ist von Treffern durch Makrowaffen, Lanzen und Titanenkiller unberührt (jeder Schadenspunkt eines Titanenkiller-Treffers muss einzeln abgewehrt werden; Treffer mit der Sonderregel Versprengen wirken normal). Verfügt die Einheit zusätzlich über Verstärkte Panzerung, darf sie einen misslungenen Schutzwurf mit ihrem Rüstungswert wiederholen, sofern der Treffer nicht von einer Makrowaffe, Lanze oder Titanenkillerwaffe verursacht wurde.",
         "Ionenschilde dürfen nur gegen Beschuss eingesetzt werden, ausser die Einheit befindet sich in einem Kreuzfeuer, und gegen FF, sofern der Treffer nicht von einer unterstützenden Einheit verursacht wird. Gegen CC-Angriffe dürfen sie nicht eingesetzt werden. Würfle bei Bedarf die CC- und FF-Würfel getrennt, wenn Einheiten mit Ionenschilden angegriffen werden."
       ]
     },
@@ -124,7 +124,7 @@
     {
       "title": "Lightning Charge",
       "description": [
-        "Die Waffe oder Einheit erhält <i>First Strike</i> bei Offensiven, die von ihrem Verband eingeleitet werden."
+        "Die Waffe oder Einheit erhält <i>Erstschlag</i> bei Offensiven, die von ihrem Verband eingeleitet werden."
       ]
     },
     {
@@ -148,7 +148,7 @@
     {
       "title": "Grav-Chutes",
       "description": [
-        "Einheiten mit der Sonderregel <i>Grav-Chutes</i> dürfen innerhalb von 10 cm statt der üblichen 5 cm von einem <i>Skimmer</i>-Transportfahrzeug aussteigen."
+        "Einheiten mit der Sonderregel <i>Grav-Chutes</i> dürfen innerhalb von 10 cm statt der üblichen 5 cm von einem <i>Antigrav</i>-Transportfahrzeug aussteigen."
       ]
     },
     {
@@ -160,7 +160,7 @@
     {
       "title": "Catachan Commanders",
       "description": [
-        "Wird die Wiederholung des Oberbefehlshabers für einen Verband mit einem Catachan Supreme Commander oder Catachan Commander verwendet, gilt für diesen Verband bei der Wiederholung des Aktionstests ein Initiativwert von 1+."
+        "Wird die Wiederholung des Oberbefehlshabers für einen Verband mit einem Catachan Oberbefehlshaber oder Catachan Commander verwendet, gilt für diesen Verband bei der Wiederholung des Aktionstests ein Initiativwert von 1+."
       ]
     },
     {
@@ -170,8 +170,8 @@
         "\u003cb\u003eGeschützstellung\u003c/b\u003e: Gewährt einer INF-Einheit einen Deckungswurf von 4+ oder einer AV- oder LV-Einheit (aber nicht H-AV) einen Deckungswurf von 5+.",
         "\u003cb\u003eBunker\u003c/b\u003e: Gewährt bis zu drei INF-Einheiten einen Deckungswurf von 3+ und Verstärkte Heckpanzerung. Gilt für AV und WE als gefährliches Gelände. Bunker dürfen maximal 8 cm x 8 cm gross sein.",
         "\u003cb\u003eSchützengraben\u003c/b\u003e: Gewährt INF einen Deckungswurf von 4+. Kann eine INF-Einheit pro 4 cm Länge aufnehmen. Gilt für AV als gefährliches Gelände.",
-        "\u003cb\u003eStacheldraht\u003c/b\u003e: Gilt für alle INF als gefährliches Gelände, einschliesslich Einheiten mit der Sonderregel Mounted. Gefährliches Gelände durch Stacheldraht darf nicht mit der Walker-Fähigkeit erneut gewürfelt werden (Einheiten dürfen sich weiterhin vorsichtig durch solches Gelände bewegen). Der Stacheldraht muss so aufgestellt werden, dass jedes Teil ohne Zwischenraum ein anderes Teil derselben Gruppe berührt.",
-        "\u003cb\u003eMinenfelder\u003c/b\u003e: Gelten für alle Einheitentypen als gefährliches Gelände. Tests für gefährliches Gelände durch Minenfelder dürfen nicht mit der Walker-Fähigkeit wiederholt werden (Einheiten dürfen sich weiterhin vorsichtig durch solches Gelände bewegen). Antigravfahrzeuge und Einheiten mit Sprungmodulen, die Minenfelder überqüren, müssen ebenfalls Tests für gefährliches Gelände ablegen. Minenfelder müssen so aufgestellt werden, dass jedes Teil ohne Zwischenraum ein anderes Teil derselben Gruppe berührt."
+        "\u003cb\u003eStacheldraht\u003c/b\u003e: Gilt für alle INF als gefährliches Gelände, einschliesslich Einheiten mit der Sonderregel Beritten. Gefährliches Gelände durch Stacheldraht darf nicht mit der Geländegängig-Fähigkeit erneut gewürfelt werden (Einheiten dürfen sich weiterhin vorsichtig durch solches Gelände bewegen). Der Stacheldraht muss so aufgestellt werden, dass jedes Teil ohne Zwischenraum ein anderes Teil derselben Gruppe berührt.",
+        "\u003cb\u003eMinenfelder\u003c/b\u003e: Gelten für alle Einheitentypen als gefährliches Gelände. Tests für gefährliches Gelände durch Minenfelder dürfen nicht mit der Geländegängig-Fähigkeit wiederholt werden (Einheiten dürfen sich weiterhin vorsichtig durch solches Gelände bewegen). Antigravfahrzeuge und Einheiten mit Sprungmodulen, die Minenfelder überqüren, müssen ebenfalls Tests für gefährliches Gelände ablegen. Minenfelder müssen so aufgestellt werden, dass jedes Teil ohne Zwischenraum ein anderes Teil derselben Gruppe berührt."
       ]
     },
     {
@@ -197,19 +197,19 @@
     {
       "title": "Siege Specialists",
       "description": [
-        "Einheiten dürfen misslungene Tests für gefährliches Gelände wiederholen, wenn sie sich durch Minenfelder oder Stacheldraht auf der eigenen Spielfeldhälfte bewegen. Einheiten mit \u003ci\u003eWalker\u003c/i\u003e dürfen dies gegen Minenfelder oder Stacheldraht auf der gegnerischen Spielfeldhälfte tun.",
+        "Einheiten dürfen misslungene Tests für gefährliches Gelände wiederholen, wenn sie sich durch Minenfelder oder Stacheldraht auf der eigenen Spielfeldhälfte bewegen. Einheiten mit \u003ci\u003eGeländegängig\u003c/i\u003e dürfen dies gegen Minenfelder oder Stacheldraht auf der gegnerischen Spielfeldhälfte tun.",
         "Zusätzlich dürfen bis zu drei garnisonierte Verbände statt der üblichen zwei in Feuerbereitschaft beginnen."
       ]
     },
     {
       "title": "Siegemasters",
       "description": [
-        "Einheiten dürfen misslungene Tests für gefährliches Gelände wiederholen, wenn sie sich durch Minenfelder oder Stacheldraht auf der eigenen Spielfeldhälfte bewegen. Einheiten mit \u003ci\u003eWalker\u003c/i\u003e dürfen dies gegen Minenfelder oder Stacheldraht auf der gegnerischen Spielfeldhälfte tun.",
+        "Einheiten dürfen misslungene Tests für gefährliches Gelände wiederholen, wenn sie sich durch Minenfelder oder Stacheldraht auf der eigenen Spielfeldhälfte bewegen. Einheiten mit \u003ci\u003eGeländegängig\u003c/i\u003e dürfen dies gegen Minenfelder oder Stacheldraht auf der gegnerischen Spielfeldhälfte tun.",
         "Zusätzlich dürfen bis zu drei garnisonierte Verbände statt der üblichen zwei in Feuerbereitschaft beginnen, und bis zu zwei garnisonierte Verbände müssen keine Einheit innerhalb von 15 cm zu einem Missionsziel auf der eigenen Spielfeldhälfte haben."
       ]
     },
     {
-      "title": "Tunnelers",
+      "title": "Tunnelgräbers",
       "description": [
         "Tunnelbohrer dürfen vor Schlachtbeginn gleichzeitig mit den Raumschiffen aufgestellt werden, sodass sie die eigene Spielfeldkante berühren (siehe 4.3.1). Zu diesem Zeitpunkt müssen auch alle in ihnen transportierten Einheiten beiseitegestellt werden. Notiere geheim den Ort, an dem der Tunnelbohrer auftauchen soll, wie auch die Koordinaten einer Landezone (siehe 4.3.1). Notiere ausserdem geheim die Runde, in der er auftauchen wird. Soll er innerhalb der Aufstellungszone und bis zu 30 cm von einer Spielfeldkante entfernt auftauchen, kann er ab der ersten Runde eintreffen. Liegt der Auftauchpunkt innerhalb der Aufstellungszone und bis zu 65 cm von einer Spielfeldkante entfernt, kann er in Runde zwei erscheinen. Ab der dritten Runde kann er an jeder Stelle des Schlachtfelds erscheinen.",
         "Stelle die Tunnelbohrer zu Beginn der angegebenen Runde am notierten Ort auf, bevor bestimmt wird, wer den Strategiewurf gewinnt. Das Auftauchen gilt nicht als Bewegung und löst daher kein gegnerisches Feuerbereitschaftsfeuer aus. Wäre ein Tunnelbohrer auf Gelände aufgetaucht, das für ihn unpassierbar ist, unter einer befreundeten Einheit oder in einer gegnerischen Kontrollzone, wird angenommen, dass seine Bordsensoren ihn zu einem anderen Einstiegspunkt umleiten. Bewege die Einheit zum nächstgelegenen Ort, an dem sie auftauchen kann.",
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "title": "Self Planetfall",
+      "title": "Planetare Selbstlandung",
       "description": [
         "Selbstständige Planetare Landung wird genau wie Planetare Landung geplant (siehe 4.4). Sowohl die Ankunftsrunde als auch der Landeort werden festgelegt. Da diese Einheiten viel kleiner als Raumschiffe im Orbit sind, dürfen sie jedoch in derselben Runde eintreffen, in der sich ein anderes Raumschiff im Orbit befindet. In der festgelegten Runde wird der Verband mit Selbstständiger Planetarer Landung wie ein Raumschiff in der normalen Aktivierungsreihenfolge aktiviert. Bestimme die Aktion des Verbands und würfle zur Aktivierung. Misslingt die Aktivierung, verzögert sich seine Ankunft bis zur nächsten Runde. Gelingt sie, stelle den Verband in der geplanten Landezone auf und ermittle wie bei einer normalen Planetaren Landung die Abweichung gemäß 4.4; eingeschiffte Einheiten dürfen bis zu 5 cm entfernt aussteigen. anschließend wird die Aktion des Verbands in jeder Hinsicht normal fortgesetzt. Der Verband erhält also zu Beginn seiner Aktion die „freie Bewegung“ durch die Platzierung bei der Planetaren Landung, wird ansonsten aber normal aktiviert. Hinweis: Die Aktion wird bei der Aktivierung und vor der Abweichung gewählt. Wähle sie sorgfältig, denn ein ungünstiger Abweichungswurf kann manche Aktionen wirkungslos machen."
       ]
@@ -226,7 +226,7 @@
     {
       "title": "Faithful",
       "description": [
-        "Wenn eine Offensive zu einem Nahkampf führt (d. h. mindestens eine Einheit sich innerhalb von 15 cm zu einer gegnerischen Einheit befindet), erhalten Einheiten mit der Sonderregel \u003ci\u003eFaithful\u003c/i\u003e Furchtlos, und der Verband zählt, als enthalte er einen zusätzlichen Charakter mit der Sonderregel \u003ci\u003eInspiring\u003c/i\u003e. Diese Effekte halten bis zum Ende der aktüllen Runde an, gehen jedoch verloren, wenn alle Einheiten mit \u003ci\u003eFaithful\u003c/i\u003e im Verband zerstört werden."
+        "Wenn eine Offensive zu einem Nahkampf führt (d. h. mindestens eine Einheit sich innerhalb von 15 cm zu einer gegnerischen Einheit befindet), erhalten Einheiten mit der Sonderregel \u003ci\u003eFaithful\u003c/i\u003e Furchtlos, und der Verband zählt, als enthalte er einen zusätzlichen Charakter mit der Sonderregel \u003ci\u003eInspirierend\u003c/i\u003e. Diese Effekte halten bis zum Ende der aktüllen Runde an, gehen jedoch verloren, wenn alle Einheiten mit \u003ci\u003eFaithful\u003c/i\u003e im Verband zerstört werden."
       ]
     },
     {
@@ -346,7 +346,7 @@
     {
       "title": "Pack Mentality",
       "description": [
-        "Space-Wolves-Rudel zählen als hätten sie einen Charakter mit der Sonderregel \u003ci\u003eInspiring\u003c/i\u003e, wenn sie einen Nahkampf einleiten, in dem ein anderer Verband mit \u003ci\u003ePack Mentality\u003c/i\u003e sie unterstützt, oder wenn sie einen gemeinsamen Angriff durchführen, an dem mehr als ein Verband mit \u003ci\u003ePack Mentality\u003c/i\u003e beteiligt ist. Durch \u003ci\u003ePack Mentality\u003c/i\u003e erhältst du niemals mehr als einen Bonus durch \u003ci\u003eInspiring\u003c/i\u003e, selbst wenn du sowohl einen gemeinsamen Angriff als auch unterstützende Verbände hast oder mehrere Verbände dich unterstützen."
+        "Space-Wolves-Rudel zählen als hätten sie einen Charakter mit der Sonderregel \u003ci\u003eInspirierend\u003c/i\u003e, wenn sie einen Nahkampf einleiten, in dem ein anderer Verband mit \u003ci\u003ePack Mentality\u003c/i\u003e sie unterstützt, oder wenn sie einen gemeinsamen Angriff durchführen, an dem mehr als ein Verband mit \u003ci\u003ePack Mentality\u003c/i\u003e beteiligt ist. Durch \u003ci\u003ePack Mentality\u003c/i\u003e erhältst du niemals mehr als einen Bonus durch \u003ci\u003eInspirierend\u003c/i\u003e, selbst wenn du sowohl einen gemeinsamen Angriff als auch unterstützende Verbände hast oder mehrere Verbände dich unterstützen."
       ]
     },
     {
@@ -373,7 +373,7 @@
     {
       "title": "Honour Guard",
       "description": [
-        "Einheiten mit der Sonderregel Honour Guard sind Furchtlos, solange ihr Verband einen Charakter mit der Sonderregel Supreme Commander enthält. Befinden sie sich im selben Verband, darf der Supreme Commander einer Einheit mit dieser Sonderregel hinzugefügt werden."
+        "Einheiten mit der Sonderregel Honour Guard sind Furchtlos, solange ihr Verband einen Charakter mit der Sonderregel Oberbefehlshaber enthält. Befinden sie sich im selben Verband, darf der Oberbefehlshaber einer Einheit mit dieser Sonderregel hinzugefügt werden."
       ]
     },
     {
@@ -410,7 +410,7 @@
       "title": "Webway Portal",
       "description": [
         "Eine Armee mit Webway Portals darf bis zu drei Verbände in Reserve halten; Infanterieeinheiten dieser Reserveverbände dürfen als in ihren Transportern eingeschifft gelten. Diese Verbände können während des Spiels aktiviert werden und durch ein befreundetes Webway Portal auf das Spielfeld ziehen. Ihre erste Bewegung wird von einem beliebigen Punkt innerhalb des vom Portal eingenommenen Bereichs aus gemessen.",
-        "Ein Webway Portal darf nur einmal pro Runde verwendet werden. Misslingt einem Verband die Aktivierung beim Versuch, durch ein Webway Portal einzutreten, darf er nur eine Halten-Aktion ausserhalb des Spielfelds durchführen und sich sammeln. Nur INF, LV oder AV mit der Fähigkeit Walker dürfen Webway Portals verwenden. H-AV-Einheiten dürfen Portale nur verwenden, wenn ausdrücklich anders angegeben.",
+        "Ein Webway Portal darf nur einmal pro Runde verwendet werden. Misslingt einem Verband die Aktivierung beim Versuch, durch ein Webway Portal einzutreten, darf er nur eine Halten-Aktion ausserhalb des Spielfelds durchführen und sich sammeln. Nur INF, LV oder AV mit der Fähigkeit Geländegängig dürfen Webway Portals verwenden. H-AV-Einheiten dürfen Portale nur verwenden, wenn ausdrücklich anders angegeben.",
         "Jedes Mal, wenn ein Verband ein zerstörtes Portal verwendet, erhält er eine Beschussmarke.",
         "Befindet sich ein Webway Portal in einer gegnerischen Kontrollzone, muss jeder hindurchkommende Verband den gegnerischen Verband bzw. die gegnerischen Verbände offensiv angreifen. Befindet sich das Portal zudem direkt unter einem gegnerischen Verband, muss der eintretende Verband so viel Basekontakt wie möglich herstellen."
       ]
@@ -418,13 +418,13 @@
     {
       "title": "Large Webway Portal",
       "description": [
-        "Grosse Webway Portals folgen allen Regeln für normale Webway Portals. AV-Einheiten benötigen jedoch nicht Walker, um das Schlachtfeld durch ein solches Portal zu betreten."
+        "Grosse Webway Portals folgen allen Regeln für normale Webway Portals. AV-Einheiten benötigen jedoch nicht Geländegängig, um das Schlachtfeld durch ein solches Portal zu betreten."
       ]
     },
     {
       "title": "Shadowfields",
       "description": [
-        "Jedes Shadowfield verhindert automatisch einen Schadenspunkt und fällt anschliessend aus. Für durch Shadowfields verhinderten Schaden werden keine Rüstungswürfe abgelegt und keine Beschussmarken zugeteilt. Sobald alle Shadowfields eines Fahrzeugs oder einer Kriegsmaschine ausgeschaltet sind, kann es normal beschädigt werden und für erzielte Treffer dürfen Schutzwürfe abgelegt werden. Treffer im Nahkampf ignorieren Shadowfields; Einheiten, die ihren Feuergefechtswert verwenden, müssen jedoch erst alle Shadowfields ausschalten, bevor sie Schaden verursachen können. Solange ein Fahrzeug oder eine Kriegsmaschine mindestens ein funktionierendes Shadowfield hat, gilt es als verborgen (1.8.2); jeder Beschuss einschliesslich Flugabwehr ohne die Fähigkeit Ignore Cover erleidet dadurch einen Trefferwurfmodifikator von -1."
+        "Jedes Shadowfield verhindert automatisch einen Schadenspunkt und fällt anschliessend aus. Für durch Shadowfields verhinderten Schaden werden keine Rüstungswürfe abgelegt und keine Beschussmarken zugeteilt. Sobald alle Shadowfields eines Fahrzeugs oder einer Kriegsmaschine ausgeschaltet sind, kann es normal beschädigt werden und für erzielte Treffer dürfen Schutzwürfe abgelegt werden. Treffer im Nahkampf ignorieren Shadowfields; Einheiten, die ihren Feuergefechtswert verwenden, müssen jedoch erst alle Shadowfields ausschalten, bevor sie Schaden verursachen können. Solange ein Fahrzeug oder eine Kriegsmaschine mindestens ein funktionierendes Shadowfield hat, gilt es als verborgen (1.8.2); jeder Beschuss einschliesslich Flugabwehr ohne die Fähigkeit Deckung ignorieren erleidet dadurch einen Trefferwurfmodifikator von -1."
       ]
     },
     {
@@ -520,37 +520,37 @@
     {
       "title": "May not Garrison (Saim-Hann)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur War Walkers und Saim-Hann Hornets Missionsziele als Garnison besetzen."
+        "Im Epic-Turnierszenario dürfen nur War Geländegängigs und Saim-Hann Hornets Missionsziele als Garnison besetzen."
       ]
     },
     {
       "title": "May not Garrison (Iyanden)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Walkers Missionsziele als Garnison besetzen."
+        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Geländegängigs Missionsziele als Garnison besetzen."
       ]
     },
     {
       "title": "May not Garrison (Biel-Tan)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Walkers Missionsziele als Garnison besetzen."
+        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Geländegängigs Missionsziele als Garnison besetzen."
       ]
     },
     {
       "title": "May not Garrison (Ulthwé)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Walkers Missionsziele als Garnison besetzen."
+        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Geländegängigs Missionsziele als Garnison besetzen."
       ]
     },
     {
       "title": "May not Garrison (Mymeara)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur Ghost Walkers, Wasp Walkers und Hornets als Garnison aufgestellt werden."
+        "Im Epic-Turnierszenario dürfen nur Ghost Geländegängigs, Wasp Geländegängigs und Hornets als Garnison aufgestellt werden."
       ]
     },
     {
       "title": "May not Garrison (Lugganath)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur Ghost Walkers und Wasp Walkers Missionsziele als Garnison besetzen."
+        "Im Epic-Turnierszenario dürfen nur Ghost Geländegängigs und Wasp Geländegängigs Missionsziele als Garnison besetzen."
       ]
     },
     {
@@ -595,9 +595,9 @@
       "title": "Holofields (x)",
       "description": [
         "Holofields verleihen einen Schutzwurf mit dem Wert \u003ci\u003ex\u003c/i\u003e. Dieser Schutzwurf darf immer abgelegt werden, auch gegen Waffen mit den Fähigkeiten Macro Weapon oder Titan Killer.",
-        "Hat eine Einheit Verstärkte Panzerung, darf sie ihren Wiederholungswurf verwenden, ausser bei Treffern durch Lance-, Macro-Weapon- oder Titan-Killer-Angriffe; der Wiederholungswurf verwendet dann jedoch den Rüstungswert der Einheit. Durch Holofields abgewehrte Treffer erzeugen keine Beschussmarken, auch wenn sie Disrupt besitzen.",
+        "Hat eine Einheit Verstärkte Panzerung, darf sie ihren Wiederholungswurf verwenden, ausser bei Treffern durch Lance-, Makrowaffe- oder Titan-Killer-Angriffe; der Wiederholungswurf verwendet dann jedoch den Rüstungswert der Einheit. Durch Holofields abgewehrte Treffer erzeugen keine Beschussmarken, auch wenn sie Versprengen besitzen.",
         "Gegen Titan-Killer-Angriffe, die zusätzlichen Schaden verursachen, wird nur ein Holofield-Schutzwurf abgelegt. Ist er erfolgreich, erleidet die Einheit keinen Schaden; misslingt er, erleidet sie den gesamten Schaden.",
-        "Holofield-Schutzwürfe können durch Modifikatoren wie den Schutzwurfmodifikator von -1 durch Kreuzfeuer oder Waffen mit der Fähigkeit Sniper verschlechtert werden. Hat eine Einheit mit Holofield auch einen Schutzwurf durch Deckung, muss sie wählen, welchen Schutzwurf sie verwendet."
+        "Holofield-Schutzwürfe können durch Modifikatoren wie den Schutzwurfmodifikator von -1 durch Kreuzfeuer oder Waffen mit der Fähigkeit Scharfschütze verschlechtert werden. Hat eine Einheit mit Holofield auch einen Schutzwurf durch Deckung, muss sie wählen, welchen Schutzwurf sie verwendet."
       ]
     },
     {
@@ -852,7 +852,7 @@
     {
       "title": "Changer of Ways",
       "description": [
-        "Verbände mit Thousand-Sons-Dämonenprinzen und Scarab Occult Terminators dürfen nur INF-Einheiten sowie AV-Einheiten mit Walker enthalten und müssen das Spiel in Reserve beginnen. Sie dürfen das Schlachtfeld nur durch einen Warp Rift betreten."
+        "Verbände mit Thousand-Sons-Dämonenprinzen und Scarab Occult Terminators dürfen nur INF-Einheiten sowie AV-Einheiten mit Geländegängig enthalten und müssen das Spiel in Reserve beginnen. Sie dürfen das Schlachtfeld nur durch einen Warp Rift betreten."
       ]
     },
     {
@@ -1084,7 +1084,7 @@
     {
       "title": "Necron Portals",
       "description": [
-        "Necron-Portale dürfen nur von INF sowie von AV- oder LV-Einheiten mit \u003ci\u003eWalker\u003c/i\u003e verwendet werden. Jedes Portal darf pro Runde entweder zum Betreten oder zum Verlassen des Schlachtfelds verwendet werden, aber nicht für beides.",
+        "Necron-Portale dürfen nur von INF sowie von AV- oder LV-Einheiten mit \u003ci\u003eGeländegängig\u003c/i\u003e verwendet werden. Jedes Portal darf pro Runde entweder zum Betreten oder zum Verlassen des Schlachtfelds verwendet werden, aber nicht für beides.",
         "Ein Verband in Reserve darf im Rahmen jeder bewegungserlaubenden Aktion durch eine Einheit mit \u003ci\u003ePortal\u003c/i\u003e ins Spiel kommen. Miss seine Bewegung vom Mittelpunkt des Missionsziels (bei einem Tomb Complex) oder von der Kante der Einheit aus. Verbände dürfen das Spielfeld auch durch ein Portal verlassen und in die Reserve zurückkehren. Ein Portal kann Einheiten außerdem ähnlich wie ein Lufttransporter aufnehmen. Endet die Aktion einer Einheit mit \u003ci\u003ePortal\u003c/i\u003e innerhalb von 5 cm zu allen Einheiten eines befreundeten Verbands, darf der Necron-Spieler das Portal aktivieren, um diesen Verband in Reserve zu versetzen. Aufgeriebene Einheiten mit \u003ci\u003ePortal\u003c/i\u003e dürfen nicht auf diese Weise Verbände aufnehmen.",
         "Wenn ein Verband in Reserve versetzt wird, darf er sofort durch ein anderes \u003ci\u003ePortal\u003c/i\u003e wieder ins Spiel kommen oder in Reserve bleiben. Das Betreten oder Verlassen eines \u003ci\u003ePortals\u003c/i\u003e erfordert eine vollständige Bewegung: Ein Verband mit einer Doppelaktion darf das Schlachtfeld also mit der ersten Bewegung verlassen und mit der zweiten durch ein anderes \u003ci\u003ePortal\u003c/i\u003e wieder betreten. Bei Vorrücken oder einer Offensive darf ein Verband jedoch nicht im Rahmen derselben Bewegung ein Portal betreten und ein anderes verlassen. Einheiten, die sich am Ende einer Bewegung außerhalb der Formation befinden, werden zerstört. Ein durch ein \u003ci\u003ePortal\u003c/i\u003e aufgenommener Verband muss in Reserve bleiben, bis er aktiviert werden kann, um ins Spiel zurückzukehren. Er darf in derselben Runde wieder aktiviert werden, in der er aufgenommen wurde, sofern er davor noch nicht aktiviert worden war.",
         "Jedes Mal, wenn ein Verband ein \u003ci\u003ePortal\u003c/i\u003e einer aufgeriebenen Einheit verwendet, erhält er eine Beschussmarke. Dies gilt auch für aufgeriebene Verbände, die ein aufgeriebenes Portal verwenden; dabei geht eine Einheit verloren, sofern nicht alle Einheiten Furchtlos sind.",
@@ -1134,11 +1134,11 @@
       ]
     },
     {
-      "title": "Super-Expendable",
+      "title": "Super-Entbehrlich",
       "description": [
-        "Ein Verband erhält keine Beschussmarke, wenn eine Einheit mit Super-Expendable zerstört wird. Dies gilt auch für die zusätzliche Beschussmarke beim ersten Verlust durch Kreuzfeuer und für Einheiten, die nach einer Bewegung zerstört werden, weil sie sich ausserhalb der Formation befinden. Wird eine Super-Expendable-Einheit von einer Waffe mit Disrupt getroffen, verursacht sie keine Beschussmarke.",
-        "Im Nahkampf getötete Super-Expendable-Einheiten werden bei der Ermittlung des Ergebnisses nicht mitgezählt.",
-        "Verbände, die ausschliesslich aus Verbrauchbar- und/oder Super-Expendable-Einheiten bestehen, profitieren nicht von den obigen Regeln."
+        "Ein Verband erhält keine Beschussmarke, wenn eine Einheit mit Super-Entbehrlich zerstört wird. Dies gilt auch für die zusätzliche Beschussmarke beim ersten Verlust durch Kreuzfeuer und für Einheiten, die nach einer Bewegung zerstört werden, weil sie sich ausserhalb der Formation befinden. Wird eine Super-Entbehrlich-Einheit von einer Waffe mit Versprengen getroffen, verursacht sie keine Beschussmarke.",
+        "Im Nahkampf getötete Super-Entbehrlich-Einheiten werden bei der Ermittlung des Ergebnisses nicht mitgezählt.",
+        "Verbände, die ausschliesslich aus Verbrauchbar- und/oder Super-Entbehrlich-Einheiten bestehen, profitieren nicht von den obigen Regeln."
       ]
     },
     {
@@ -1186,7 +1186,7 @@
     {
       "title": "Speed Freeks Warlord",
       "description": [
-        "Jede Speed-Freaks-Armee muss einen kostenlosen Supreme Commander namens Mekboy Bad Ork Biker enthalten. Der Mekboy-Bad-Ork-Biker-Einheit dürfen keine Punkte berechnet werden. Sie darf einem beliebigen Ork-Verband der Armee hinzugefügt werden."
+        "Jede Speed-Freaks-Armee muss einen kostenlosen Oberbefehlshaber namens Mekboy Bad Ork Biker enthalten. Der Mekboy-Bad-Ork-Biker-Einheit dürfen keine Punkte berechnet werden. Sie darf einem beliebigen Ork-Verband der Armee hinzugefügt werden."
       ]
     },
     {
@@ -1299,7 +1299,7 @@
     {
       "title": "Hydra Vanguard Organisms",
       "description": [
-        "Nur Spawn Nests, Genestealer Swarms und Infiltrator Swarms dürfen als Garnison aufgestellt werden."
+        "Nur Spawn Nests, Genestealer Swarms und Infiltratoren Swarms dürfen als Garnison aufgestellt werden."
       ]
     },
     {
@@ -1333,7 +1333,7 @@
     {
       "title": "Brood Brothers",
       "description": [
-        "Solange ein Verband einen Genestealer Patriarch, Genestealer Primus, Genestealer Magus oder Hybrid Iconward enthält, verursachen Einheiten desselben Verbands mit der Sonderregel \u003ci\u003eBrood Brothers\u003c/i\u003e weder bei ihrer Zerstörung noch bei einem Treffer durch eine Waffe mit der Sonderregel \u003ci\u003eDisrupt\u003c/i\u003e Beschussmarken. Dies gilt auch für die zusätzliche Beschussmarke beim ersten Verlust durch Kreuzfeuer und für Einheiten, die nach einer Bewegung zerstört werden, weil sie sich ausserhalb der Formation befinden. Im Nahkampf getötete Einheiten mit \u003ci\u003eBrood Brothers\u003c/i\u003e werden bei der Ermittlung des Ergebnisses mitgezählt."
+        "Solange ein Verband einen Genestealer Patriarch, Genestealer Primus, Genestealer Magus oder Hybrid Iconward enthält, verursachen Einheiten desselben Verbands mit der Sonderregel \u003ci\u003eBrood Brothers\u003c/i\u003e weder bei ihrer Zerstörung noch bei einem Treffer durch eine Waffe mit der Sonderregel \u003ci\u003eVersprengen\u003c/i\u003e Beschussmarken. Dies gilt auch für die zusätzliche Beschussmarke beim ersten Verlust durch Kreuzfeuer und für Einheiten, die nach einer Bewegung zerstört werden, weil sie sich ausserhalb der Formation befinden. Im Nahkampf getötete Einheiten mit \u003ci\u003eBrood Brothers\u003c/i\u003e werden bei der Ermittlung des Ergebnisses mitgezählt."
       ]
     },
     {

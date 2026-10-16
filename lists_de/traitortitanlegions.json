@@ -11,7 +11,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -21,7 +21,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -49,9 +49,9 @@
         "specialRules": [
           "Damage Capacity 3",
           "Void Shields 2",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker"
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "The unit takes a point of damage."
@@ -70,9 +70,9 @@
         "specialRules": [
           "Damage Capacity 4",
           "Void Shields 1",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker"
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "The unit takes a point of damage."
@@ -93,9 +93,9 @@
         "specialRules": [
           "Damage Capacity 3",
           "Void Shields 2",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Must be armed with either Death Storm or Plasma Furnace"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
@@ -116,9 +116,9 @@
         "specialRules": [
           "Damage Capacity 3",
           "Void Shields 2",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker"
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "The unit takes a point of damage."
@@ -145,9 +145,9 @@
         "specialRules": [
           "Damage Capacity 6",
           "Void Shields 4",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker"
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
@@ -168,9 +168,9 @@
         "specialRules": [
           "Damage Capacity 6",
           "Void Shields 4",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker"
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
@@ -193,9 +193,9 @@
         "specialRules": [
           "Damage Capacity 6",
           "Void Shields 4",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Must be armed with either Hex Cannon, Turbo Blaster or Plasma Cremator"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -217,9 +217,9 @@
         "specialRules": [
           "Damage Capacity 7",
           "Void Shields 3",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Must be armed with either Rot Cannon, Turbo Blaster or Plasma Cremator"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -242,9 +242,9 @@
         "specialRules": [
           "Damage Capacity 6",
           "Void Shields 4",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Must be armed with either Hex Cannon, Turbo Blaster or Plasma Cremator"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -266,9 +266,9 @@
         "specialRules": [
           "Damage Capacity 6",
           "Void Shields 4",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Must be armed with either Hex Cannon, Turbo Blaster or Coruscant Hail"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -292,9 +292,9 @@
           "Split Fire",
           "Damage Capacity 8",
           "Void Shields 6",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker"
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -319,9 +319,9 @@
           "Split Fire",
           "Damage Capacity 8",
           "Void Shields 6",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Must be armed with either a Beam of Ecstasy, Plasma Incinerator, Cyclone Cannon or Beam Blaster"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -346,9 +346,9 @@
           "Split Fire",
           "Damage Capacity 9",
           "Void Shields 5",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Must be armed with either a Plasma Incinerator, Cyclone Cannon or Beam Blaster"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -374,9 +374,9 @@
           "Split Fire",
           "Damage Capacity 8",
           "Void Shields 6",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Must be armed with either a Hellstrike Cannon, Plasma Incinerator, Cyclone Cannon or Beam Blaster"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -400,9 +400,9 @@
           "Split Fire",
           "Damage Capacity 8",
           "Void Shields 6",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Must be armed with either two Tzeentch Cannons, two Plasma Incinerators or two Beam Blasters"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -426,9 +426,9 @@
           "Split Fire",
           "Damage Capacity 10",
           "Void Shields 8",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -452,9 +452,9 @@
           "Split Fire",
           "Damage Capacity 11",
           "Void Shields 7",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -478,9 +478,9 @@
           "Split Fire",
           "Damage Capacity 10",
           "Void Shields 8",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
@@ -503,9 +503,9 @@
           "Split Fire",
           "Damage Capacity 10",
           "Void Shields 8",
-          "Fearless",
-          "Reinforced Armour",
-          "Walker",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."

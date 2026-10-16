@@ -20,7 +20,7 @@
         "Captain",
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assaults",
         "Death Company Marines",
         "Devastators",
@@ -171,7 +171,7 @@
           "units": "Four Scouts plus transport",
           "extraUnits": [
             "Razorbacks",
-            "Snipers"
+            "Scharfschützes"
           ],
           "points": 150
         }
@@ -251,7 +251,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]
@@ -263,7 +263,7 @@
       },
       {
         "name": "Honor Guards",
-        "description": "Bei einem Verband mit einem Supreme Commander-Charakter: Ersetze bis zu 2 Assaults oder Tacticals durch Sanguinary Guards.",
+        "description": "Bei einem Verband mit einem Oberbefehlshaber-Charakter: Ersetze bis zu 2 Assaults oder Tacticals durch Sanguinary Guards.",
         "points": "25 points each"
       },
       {
@@ -282,8 +282,8 @@
         "points": "25 points each"
       },
       {
-        "name": "Snipers",
-        "description": "Gib allen Scouts im Verband die Sonderregel „Sniper“ für ihre Heavy Bolters.",
+        "name": "Scharfschützes",
+        "description": "Gib allen Scouts im Verband die Sonderregel „Scharfschütze“ für ihre Heavy Bolters.",
         "points": "25 points"
       },
       {

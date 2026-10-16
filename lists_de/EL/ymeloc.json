@@ -49,7 +49,7 @@
           "Holofields (x)",
           "Lance",
           "Shield Piercer",
-          "Shield Disruptor"
+          "Shield Versprengenor"
       ]
     },
     {
@@ -108,7 +108,7 @@
       "description": "Für jede Yme-Loc Vaulhost dürfen bis zu zwei Yme-Loc-Troupes gewählt werden.",
       "formations": [
         {
-          "name": "Mounted Aspect Warrior Troupe",
+          "name": "Beritten Aspect Warrior Troupe",
           "units": "Drei Wave Serpents und sechs Aspektkrieger-Einheiten aus folgender Auswahl: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
           "extraUnits": [
             "Exarch"
@@ -116,7 +116,7 @@
           "points": 325
         },
         {
-          "name": "Mounted Guardian Troupe",
+          "name": "Beritten Guardian Troupe",
           "units": "Zwei Wave Serpents, zwei Falcons, ein Farseer, fünf Guardians",
           "extraUnits": [
             "Heavy Weapons"

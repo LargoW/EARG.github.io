@@ -19,7 +19,7 @@
     {
       "from": "SM.json",
       "units": [
-        "Great Wolf Supreme Commander",
+        "Great Wolf Oberbefehlshaber",
         "Wolf Lord Captain",
         "Wolf Standard Bearer",
         "Blood Claw Assaults",
@@ -80,7 +80,7 @@
             "Exterminators",
             "Fenrisian Wolves",
             "Heavy Transports",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 275
         },
@@ -128,7 +128,7 @@
             "Exterminators",
             "Fenrisian Wolves",
             "Heavy Transports",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 275
         },
@@ -137,7 +137,7 @@
           "units": "One Wolf Lord Captain, four Thunderwolf Cavalry",
           "extraUnits": [
             "Fenrisian Wolves",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 275
         },
@@ -146,7 +146,7 @@
           "units": "One Wolf Lord Captain, four Wolf Guard Terminators plus transport",
           "extraUnits": [
             "Dreadnoughts",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 375
         },
@@ -320,8 +320,8 @@
         "points": "25 points"
       },
       {
-        "name": "0-1 Supreme Commander",
-        "description": "Replace a Wolf Lord Captain with a Great Wolf Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
+        "description": "Replace a Wolf Lord Captain with a Great Wolf Oberbefehlshaber",
         "points": "50 points"
       }
     ]

@@ -10,7 +10,7 @@
     "Baran Regimental HQ",
     "Siegemasters",
     "Courage, Discipline and Loyalty",
-    "Tunnelers",
+    "Tunnelgräbers",
     "Fortified Positions"
   ],
   "usage": [
@@ -26,7 +26,7 @@
         "Siege Infantry",
         "Sappers",
         "Death Riders",
-        "Snipers",
+        "Scharfschützes",
         "Ogryns",
         "Thudd Gun",
         "Rapier",
@@ -75,7 +75,7 @@
           "units": "One Baran Siegemaster with a Commissar, nine Siege Infantry",
           "extraUnits": [
               "40cm of Razor Wire, and 4cm of Trenches for each unit of INF in the formation: 50 points. Replace 24cm of Trenches with two Bunkers: 25 points",
-              "Five Siege Infantry, or two Snipers, or two Sappers, or two Ogryns: 50 points",
+              "Five Siege Infantry, or two Scharfschützes, or two Sappers, or two Ogryns: 50 points",
               "Four Rapiers, or three Mole Launcher Squads, or three Thudd Guns, or two Medusa Guns with two Gun Emplacements, or one Deathstrike: 75 points",
               "One Defense Laser, or two Malcadors, or two Malcador Defenders: 150 points"
           ],
@@ -86,7 +86,7 @@
           "units": "One Baran Commander with a Commissar, nine Siege Infantry",
           "extraUnits": [
               "40cm of Razor Wire, and 4cm of Trenches for each unit of INF in the formation: 50 points. Replace 24cm of Trenches with two Bunkers: 25 points",
-              "Five Siege Infantry, or two Snipers, or two Sappers, or two Ogryns: 50 points",
+              "Five Siege Infantry, or two Scharfschützes, or two Sappers, or two Ogryns: 50 points",
               "Four Rapiers, or three Mole Launcher Squads, or three Thudd Guns, or two Medusa Guns with two Gun Emplacements, or one Deathstrike: 75 points",
               "One Defense Laser, or two Malcadors, or two Malcador Defenders: 150 points"
           ],

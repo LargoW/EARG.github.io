@@ -16,9 +16,9 @@
                 "Shuriken Cannon"
             ],
             "specialRules": [
-                "Supreme Commander",
-                "Invulnerable Save",
-                "Inspiring",
+                "Oberbefehlshaber",
+                "Unmodifizierter Rettungswurf",
+                "Inspirierend",
                 "Wind-Swift"
             ]
         },
@@ -32,11 +32,11 @@
             "weapons": [
             ],
             "specialRules": [
-                "Jump Packs",
+                "Sprungmodule",
                 "Teleport",
-                "Supreme Commander",
-                "Invulnerable Save",
-                "Inspiring"
+                "Oberbefehlshaber",
+                "Unmodifizierter Rettungswurf",
+                "Inspirierend"
             ]
         },
         {
@@ -46,8 +46,8 @@
                 "Eldar Power Weapon"
             ],
             "specialRules": [
-                "Supreme Commander",
-                "Invulnerable Save"
+                "Oberbefehlshaber",
+                "Unmodifizierter Rettungswurf"
             ]
         },
         {
@@ -64,7 +64,7 @@
                 "n/a"
             ],
             "specialRules": [
-                "Supreme Commander"
+                "Oberbefehlshaber"
             ]
         },
         {
@@ -79,9 +79,9 @@
                 "Psychic Powers"
             ],
             "specialRules": [
-                "Supreme Commander",
+                "Oberbefehlshaber",
                 "Farsight",
-                "Invulnerable Save"
+                "Unmodifizierter Rettungswurf"
             ],
             "notes": "Der Seer Council kann verwendet werden, um den Avatar zu beschwören."
         },
@@ -108,11 +108,11 @@
             ],
             "specialRules": [
                 "Damage Capacity 3",
-                "Inspiring",
-                "Fearless",
+                "Inspirierend",
+                "Furchtlos",
                 "Commander",
-                "Invulnerable Save",
-                "Walker"
+                "Unmodifizierter Rettungswurf",
+                "Geländegängig"
             ],
             "crit": "The Avatar is destroyed. All Craftworld Eldar formations (friend and foe) with a line of sight to the Avatar receive one Blast Marker."
         },
@@ -127,12 +127,12 @@
                 "Starlance|0-1"
             ],
             "specialRules": [
-                "Inspiring"
+                "Inspirierend"
             ],
             "notes": "Dire Avengers, Swooping Hawks und Warp Spiders haben eine Exarch-Fernkampfwaffe. Howling Banshees und Striking Scorpions haben eine Exarch-Nahkampfwaffe. Dark Reapers haben einen Reaper Launcher, Fire Dragons eine Firepike und Shining Spears eine Starlance."
         },
         {
-            "name": "Saim-Hann Mounted Farseer",
+            "name": "Saim-Hann Beritten Farseer",
             "type": "INF",
             "speed": 35,
             "armour": 4,
@@ -145,8 +145,8 @@
             "specialRules": [
                 "Commander",
                 "Farsight",
-                "Mounted",
-                "Skimmer",
+                "Beritten",
+                "Antigrav",
                 "Wind-Swift"
             ],
             "notes": "Der berittene Farseer kann verwendet werden, um den Avatar zu beschwören."
@@ -220,7 +220,7 @@
             ]
         },
         {
-            "name": "Corsair Ghost Walkers",
+            "name": "Corsair Ghost Geländegängigs",
             "type": "INF",
             "speed": 30,
             "armour": 6,
@@ -232,11 +232,11 @@
             ],
             "specialRules": [
                 "Scouts",
-                "Jump Packs"
+                "Sprungmodule"
             ]
         },
         {
-            "name": "Corsair Wasp Walker",
+            "name": "Corsair Wasp Geländegängig",
             "type": "LV",
             "speed": 35,
             "armour": 6,
@@ -246,9 +246,9 @@
                 "Twin Starcannon"
             ],
             "specialRules": [
-                "Scout",
-                "Walker",
-                "Jump Packs"
+                "Aufklärer",
+                "Geländegängig",
+                "Sprungmodule"
             ]
         },
         {
@@ -262,8 +262,8 @@
                 "Twin Shuriken Catapult"
             ],
             "specialRules": [
-                "Mounted",
-                "Skimmer"
+                "Beritten",
+                "Antigrav"
             ]
         },
         {
@@ -277,8 +277,8 @@
                 "Shuriken Cannon"
             ],
             "specialRules": [
-                "Mounted",
-                "Skimmer"
+                "Beritten",
+                "Antigrav"
             ]
         },
         {
@@ -292,8 +292,8 @@
                 "Shuriken Cannon"
             ],
             "specialRules": [
-                "Mounted",
-                "Skimmer",
+                "Beritten",
+                "Antigrav",
                 "Wind-Swift"
             ]
         },
@@ -305,12 +305,12 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Sniper Rifle"
+                "Scharfschütze Rifle"
             ],
             "specialRules": [
-                "Mounted",
-                "Skimmer",
-                "Scout",
+                "Beritten",
+                "Antigrav",
+                "Aufklärer",
                 "Wind-Swift"
             ]
         },
@@ -375,8 +375,8 @@
                 "Shuriken Pistols"
             ],
             "specialRules": [
-                "First Strike",
-                "Infiltrators"
+                "Erstschlag",
+                "Infiltratorens"
             ]
         },
         {
@@ -391,8 +391,8 @@
                 "Twin Shuriken Catapult"
             ],
             "specialRules": [
-                "Mounted",
-                "Skimmer"
+                "Beritten",
+                "Antigrav"
             ]
         },
         {
@@ -406,8 +406,8 @@
                 "Lasblasters"
             ],
             "specialRules": [
-                "Jump packs",
-                "Scout",
+                "Sprungmodule",
+                "Aufklärer",
                 "Teleport"
             ]
         },
@@ -423,7 +423,7 @@
             ],
             "specialRules": [
                 "Teleport",
-                "Jump packs"
+                "Sprungmodule"
             ]
         },
         {
@@ -437,8 +437,8 @@
                 "Death Spinners"
             ],
             "specialRules": [
-                "First Strike",
-                "Jump Packs"
+                "Erstschlag",
+                "Sprungmodule"
             ]
         },
         {
@@ -451,7 +451,7 @@
                 "Wraith Blades"
             ],
             "specialRules": [
-                "Fearless"
+                "Furchtlos"
             ],
             "notes": "Zählt beim Transport als eine Einheit Wraithguards."
         },
@@ -466,7 +466,7 @@
                 "Wraith Cannons"
             ],
             "specialRules": [
-                "Fearless"
+                "Furchtlos"
             ]
         },
         {
@@ -480,7 +480,7 @@
                 "D-Scythes"
             ],
             "specialRules": [
-                "Fearless"
+                "Furchtlos"
             ]
         },
         {
@@ -494,7 +494,7 @@
                 "Scatter Laser"
             ],
             "specialRules": [
-                "Skimmer"
+                "Antigrav"
             ]
         },
         {
@@ -508,7 +508,7 @@
                 "Scatter Laser"
             ],
             "specialRules": [
-                "Skimmer",
+                "Antigrav",
                 "Wind-Swift"
             ]
         },
@@ -524,12 +524,12 @@
                 "Twin Splinter Rifle"
             ],
             "specialRules": [
-                "Skimmer",
-                "Transport may carry one unit of INF without Jump Packs or Mounted."
+                "Antigrav",
+                "Transport may carry one unit of INF without Sprungmodule or Beritten."
             ]
         },
         {
-            "name": "War Walker",
+            "name": "War Geländegängig",
             "type": "LV",
             "speed": 20,
             "armour": 5,
@@ -540,8 +540,8 @@
                 "Eldar Missile Launcher"
             ],
             "specialRules": [
-                "Scout",
-                "Walker"
+                "Aufklärer",
+                "Geländegängig"
             ]
         },
         {
@@ -555,8 +555,8 @@
                 "Twin Hornet Pulse Laser"
             ],
             "specialRules": [
-                "Skimmer",
-                "Scout"
+                "Antigrav",
+                "Aufklärer"
             ]
         },
         {
@@ -570,8 +570,8 @@
                 "Twin Hornet Pulse Laser"
             ],
             "specialRules": [
-                "Skimmer",
-                "Scout",
+                "Antigrav",
+                "Aufklärer",
                 "Wind-Swift"
             ]
         },
@@ -587,11 +587,11 @@
                 "Singing Spear"
             ],
             "specialRules": [
-                "Supreme Commander",
+                "Oberbefehlshaber",
                 "Farsight",
-                "Fearless",
-                "Reinforced Armour",
-                "Walker"
+                "Furchtlos",
+                "Verstärkte Panzerung",
+                "Geländegängig"
             ],
             "notes": "Der Wraithseer kann verwendet werden, um den Avatar zu beschwören."
         },
@@ -607,9 +607,9 @@
                 "Twin Bright Lance"
             ],
             "specialRules": [
-                "Fearless",
-                "Reinforced Armour",
-                "Walker"
+                "Furchtlos",
+                "Verstärkte Panzerung",
+                "Geländegängig"
             ]
         },
         {
@@ -623,8 +623,8 @@
                 "Twin Shuriken Cannon"
             ],
             "specialRules": [
-                "Reinforced Armour",
-                "Skimmer",
+                "Verstärkte Panzerung",
+                "Antigrav",
                 "Transport"
             ],
             "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Swooping Hawks, Wraithblades oder Wraithguards. Wraithblades und Wraithguards belegen jeweils 2 Plätze."
@@ -641,7 +641,7 @@
                 "Scatter Laser"
             ],
             "specialRules": [
-                "Skimmer",
+                "Antigrav",
                 "Transport"
             ],
             "notes": "Kann bis zu 1 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
@@ -657,7 +657,7 @@
                 "Prism Cannon"
             ],
             "specialRules": [
-                "Skimmer"
+                "Antigrav"
             ]
         },
         {
@@ -671,7 +671,7 @@
                 "Warp Hunter D-Cannon"
             ],
             "specialRules": [
-                "Skimmer"
+                "Antigrav"
             ]
         },
         {
@@ -685,7 +685,7 @@
                 "Night Spinner"
             ],
             "specialRules": [
-                "Skimmer"
+                "Antigrav"
             ]
         },
         {
@@ -699,7 +699,7 @@
                 "Firestorm Battery"
             ],
             "specialRules": [
-                "Skimmer",
+                "Antigrav",
                 "Transport"
             ],
             "notes": "Kann bis zu 1 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
@@ -717,9 +717,9 @@
             ],
             "specialRules": [
                 "Damage Capacity: 2",
-                "Reinforced Armour",
+                "Verstärkte Panzerung",
                 "Holofield (5+)",
-                "Skimmer"
+                "Antigrav"
             ],
             "crit": "The Lynx is destroyed. Any units within 5cm take a hit on 6+."
         },
@@ -737,9 +737,9 @@
             ],
             "specialRules": [
                 "Damage Capacity: 3",
-                "Reinforced Armour",
+                "Verstärkte Panzerung",
                 "Holofield (4+)",
-                "Skimmer"
+                "Antigrav"
             ],
             "crit": "The Scorpion is destroyed. Any units within 5cm take a hit on 6+."
         },
@@ -757,9 +757,9 @@
             ],
             "specialRules": [
                 "Damage Capacity: 3",
-                "Reinforced Armour",
+                "Verstärkte Panzerung",
                 "Holofield (4+)",
-                "Skimmer"
+                "Antigrav"
             ],
             "crit": "The Cobra is destroyed. Any units within 5cm take a hit on 6+."
         },
@@ -777,9 +777,9 @@
             ],
             "specialRules": [
                 "Damage Capacity: 3",
-                "Reinforced Armour",
+                "Verstärkte Panzerung",
                 "Holofield (4+)",
-                "Skimmer"
+                "Antigrav"
             ],
             "crit": "The Deathstalker is destroyed. Any units within 5cm take a hit on 6+."
         },
@@ -796,10 +796,10 @@
             ],
             "specialRules": [
                 "Damage Capacity: 3",
-                "Reinforced Armour",
+                "Verstärkte Panzerung",
                 "Holofield (4+)",
                 "Webway Portal",
-                "Skimmer"
+                "Antigrav"
             ],
             "crit": "The Storm Serpent is destroyed. Any units within 5cm take a hit on 6+."
         },
@@ -815,8 +815,8 @@
             ],
             "specialRules": [
                 "Damage Capacity: 3",
-                "Reinforced Armour",
-                "Skimmer"
+                "Verstärkte Panzerung",
+                "Antigrav"
             ],
             "crit": "The Void Spinner is destroyed. Any units within 5cm take a hit on 6+."
         },
@@ -833,8 +833,8 @@
             ],
             "specialRules": [
                 "Holofield (3+)",
-                "Fearless",
-                "Walker",
+                "Furchtlos",
+                "Geländegängig",
                 "Teleport"
             ],
             "notes": "Skathach Wraithknights sind entweder mit einer Twin Deathshroud Cannon oder einer Twin Inferno Lance bewaffnet."
@@ -854,11 +854,11 @@
             ],
             "specialRules": [
                 "Holofield (3+)",
-                "Reinforced Armour (Scattershield)",
-                "Fearless",
-                "Walker"
+                "Verstärkte Panzerung (Scattershield)",
+                "Furchtlos",
+                "Geländegängig"
             ],
-            "notes": "Muss entweder mit Twin Heavy Wraithcannons, Ghostglaive und Scattershield oder einer Suncannon bewaffnet sein. Sonderregel [*]: Der Scattershield verleiht dem Modell die Sonderregel Reinforced Armour."
+            "notes": "Muss entweder mit Twin Heavy Wraithcannons, Ghostglaive und Scattershield oder einer Suncannon bewaffnet sein. Sonderregel [*]: Der Scattershield verleiht dem Modell die Sonderregel Verstärkte Panzerung."
         },
         {
             "name": "Revenant Titan",
@@ -873,10 +873,10 @@
             ],
             "specialRules": [
                 "Damage Capacity: 3",
-                "Fearless",
+                "Furchtlos",
                 "Holofield (3+)",
                 "Jump Pack",
-                "Walker"
+                "Geländegängig"
             ],
             "crit": "The Revenant Titan’s Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
         },
@@ -894,11 +894,11 @@
             ],
             "specialRules": [
                 "Damage Capacity: 6",
-                "Fearless",
+                "Furchtlos",
                 "Holofield (3+)",
-                "Leader",
-                "Reinforced Armour",
-                "Walker"
+                "Anführer",
+                "Verstärkte Panzerung",
+                "Geländegängig"
             ],
             "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
         },
@@ -923,11 +923,11 @@
             ],
             "specialRules": [
                 "Damage Capacity: 6",
-                "Fearless",
+                "Furchtlos",
                 "Holofield (3+)",
-                "Leader",
-                "Reinforced Armour",
-                "Walker"
+                "Anführer",
+                "Verstärkte Panzerung",
+                "Geländegängig"
             ],
             "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
         },
@@ -945,13 +945,13 @@
             ],
             "specialRules": [
                 "Damage Capacity: 6",
-                "Fearless",
+                "Furchtlos",
                 "Holofield (3+)",
-                "Inspiring",
+                "Inspirierend",
                 "Farsight",
-                "Leader",
-                "Reinforced Armour",
-                "Walker"
+                "Anführer",
+                "Verstärkte Panzerung",
+                "Geländegängig"
             ],
             "crit": "The Warlock Titan’s Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
         }

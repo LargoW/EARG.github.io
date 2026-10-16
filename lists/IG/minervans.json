@@ -76,7 +76,7 @@
           "extraUnits": [
             "Replace seven Leman Russ with seven Leman Russ Thunderers: Free",
             "Replace the Leman Russ Vanquisher with a Leman Russ Thunderer: Free",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Flak",
             "Hellhounds"
           ],
@@ -87,7 +87,7 @@
           "units": "Three Baneblades, Stormblades, Stormswords, and/or Shadowswords, one with a Commissar-Captain",
           "extraUnits": [
             "Upgrade one Baneblade to a Stormhammer: 25 points",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Flak",
             "Leman Russ"
           ],
@@ -98,7 +98,7 @@
           "units": "Six Basilisks, one with a Commissar-Captain",
           "extraUnits": [
             "Replace six Basilisks with six Manticores: 50 points",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Flak"
           ],
           "points": 400
@@ -219,7 +219,7 @@
     "description": "Each upgrade may be taken once per formation.",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Replace one Commissar-Captain in the army with a Lord Commissar",
         "points": "75 points"
       },

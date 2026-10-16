@@ -76,7 +76,7 @@
           "extraUnits": [
             "Ersetze seven Leman Russ durch seven Leman Russ Thunderers: Free",
             "Ersetze den Leman Russ Vanquisher durch a Leman Russ Thunderer: Free",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Flak",
             "Hellhounds"
           ],
@@ -87,7 +87,7 @@
           "units": "Three Baneblades, Stormblades, Stormswords, and/or Shadowswords, one with a Commissar-Captain",
           "extraUnits": [
             "Werte 1 Baneblade zu einem Stormhammer: 25 Punkte auf",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Flak",
             "Leman Russ"
           ],
@@ -98,7 +98,7 @@
           "units": "Six Basilisks, one with a Commissar-Captain",
           "extraUnits": [
             "Ersetze 6 Basilisks durch 6 Manticores: 50 Punkte",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Flak"
           ],
           "points": 400
@@ -219,7 +219,7 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Ersetze 1 Commissar-Captain in der Armee durch a Lord Commissar",
         "points": "75 points"
       },

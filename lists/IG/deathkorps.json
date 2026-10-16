@@ -14,7 +14,7 @@
     {
       "from": "IG.json",
       "units": [
-        "DKoK Supreme Commander",
+        "DKoK Oberbefehlshaber",
         "DKoK Commander",
         "Commissar",
         "Assault Infantry",
@@ -23,7 +23,7 @@
         "Grenadiers",
         "Thudd Gun",
         "Rapier",
-        "Snipers",
+        "Scharfschützes",
         "Armoured Sentinel",
         "Medusa Gun",
         "Earthshaker Gun",
@@ -46,7 +46,7 @@
       ],
       "unitRules": [
         "Heavy Armoured Vehicle (H-AV)",
-        "Shield Disruptor"
+        "Shield Versprengenor"
       ]
     },
     {
@@ -76,7 +76,7 @@
       "formations": [
         {
           "name": "0-1 Death Korps Regimental HQ",
-          "units": "One DKoK Supreme Commander with a Commissar, nine Assault Infantry, one Gorgon",
+          "units": "One DKoK Oberbefehlshaber with a Commissar, nine Assault Infantry, one Gorgon",
           "extraUnits": [
             "Add ten Assault Infantry and one Gorgon: 250 points",
             "Leman Russ",
@@ -120,7 +120,7 @@
           "units": "DKoK Commander with Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
           "extraUnits": [
             "Add four Rapiers and 16cm Trenches, or three Thudd Guns and 12cm Trenches: 75 points",
-            "Add up to two Snipers: 25 points each"
+            "Add up to two Scharfschützes: 25 points each"
           ],
           "points": 225
         },

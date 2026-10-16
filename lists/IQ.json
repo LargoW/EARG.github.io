@@ -11,7 +11,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -22,7 +22,7 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -33,7 +33,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -47,10 +47,10 @@
           "Ardent Blade"
         ],
         "specialRules": [
-          "Fearless",
-          "Leader",
-          "Jump Packs",
-          "Invulnerable Save"
+          "Furchtlos",
+          "Anführer",
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -65,10 +65,10 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
-          "Scout",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Furchtlos",
+          "Aufklärer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -84,9 +84,9 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Scout",
-          "Invulnerable Save"
+          "Anführer",
+          "Aufklärer",
+          "Unmodifizierter Rettungswurf"
 
         ]
       },
@@ -103,10 +103,10 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
+          "Oberbefehlshaber",
+          "Furchtlos",
           "Teleport Homer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -123,10 +123,10 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Fearless",
+          "Anführer",
+          "Furchtlos",
           "Teleport Homer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -140,7 +140,7 @@
           "Meltaguns"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -155,9 +155,9 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Furchtlos",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -173,9 +173,9 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Fearless",
-          "Invulnerable Save"
+          "Anführer",
+          "Furchtlos",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -216,7 +216,7 @@
           "Auto Pistols"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -229,8 +229,8 @@
           "Fangs"
         ],
         "specialRules": [
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Machine Spirit",
           "Ponderous"
         ]
@@ -276,7 +276,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -305,7 +305,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -319,7 +319,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Infiltrators"
+          "Infiltratorens"
         ]
       },
       {
@@ -332,10 +332,10 @@
           "Combat Flails"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Fearless",
+          "Infiltratorens",
+          "Furchtlos",
           "Machine Spirit",
-          "Expendable"
+          "Entbehrlich"
         ]
       },
       {
@@ -348,8 +348,8 @@
           "Assassin Weapons"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Invulnerable Save"
+          "Infiltratorens",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -375,7 +375,7 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -389,7 +389,7 @@
           "Flamer"
         ],
         "specialRules": [],
-        "notes": "May transport two infantry units without Mounted or Jump Packs."
+        "notes": "May transport two infantry units without Beritten or Sprungmodule."
       },
       {
         "name": "Penitent Engine",
@@ -403,10 +403,10 @@
           "Power Saws"
         ],
         "specialRules": [
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Machine Spirit",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -421,9 +421,9 @@
           "Penitent Flails"
         ],
         "specialRules": [
-          "Infiltrators",
+          "Infiltratorens",
           "Faithful",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -438,11 +438,11 @@
           "Penitent Flails"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Fearless",
-          "Invulnerable Save",
-          "Inspiring",
-          "Walker"
+          "Infiltratorens",
+          "Furchtlos",
+          "Unmodifizierter Rettungswurf",
+          "Inspirierend",
+          "Geländegängig"
         ]
       },
       {
@@ -501,7 +501,7 @@
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted."
+        "notes": "May transport two infantry units without Sprungmodule or Beritten."
       },
       {
         "name": "Arbites Repressor",
@@ -514,10 +514,10 @@
           "Twin Heavy Stubber"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Mounted or Jet Packs."
+        "notes": "May transport two infantry units without Beritten or Jet Packs."
       },
       {
         "name": "Sororitas Repressor",
@@ -531,10 +531,10 @@
         ],
         "specialRules": [
           "Faithful",
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Mounted or Jet Packs."
+        "notes": "May transport two infantry units without Beritten or Jet Packs."
       },
       {
         "name": "Sororitas Immolator",
@@ -550,7 +550,7 @@
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport one infantry unit without Mounted or Jet Packs."
+        "notes": "May transport one infantry unit without Beritten or Jet Packs."
       },
       {
         "name": "Sororitas Stormlord",
@@ -567,10 +567,10 @@
         "specialRules": [
           "Damage Capacity 3",
           "Faithful",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Jump Pack or Mounted, two may fire from the firing deck and participate with FF during assaults.",
+        "notes": "May transport eight infantry units without Jump Pack or Beritten, two may fire from the firing deck and participate with FF during assaults.",
         "crit": "The Stormlord is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the unit."
       },
       {
@@ -587,11 +587,11 @@
         "specialRules": [
           "Damage Capacity 4",
           "Void Shields 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Mounted or Jet Packs.",
+        "notes": "May transport eight infantry units without Beritten or Jet Packs.",
         "crit": "The Emperor's Chapel takes one additional damage. D3 transported units takes a hit."
       },
       {
@@ -612,12 +612,12 @@
           "Void Shields 6",
           "God Machine",
           "Split Fire",
-          "Reinforced Armour",
-          "Fearless",
+          "Verstärkte Panzerung",
+          "Furchtlos",
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Mounted or Jet Packs.",
+        "notes": "May transport eight infantry units without Beritten or Jet Packs.",
         "crit": "The Cathedral of the God-Emperor takes D3 additional damage, and D6 transported units takes a hit."
       }
     ]

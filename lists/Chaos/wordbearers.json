@@ -107,7 +107,7 @@
           "name": "Word Bearers Retinue",
           "units": "One Word Bearer Coryphaus, six Chaos Space Marines, Daemonic Pact",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Transport",
             "Havocs",
@@ -173,7 +173,7 @@
           "extraUnits": [
             "Replace one Chaos Terminators unit with two Daemonkin: Free",
             "Replace three Chaos Land Raiders with three Chaos Dreadnoughts: Free",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Stalker",
             "Predators"
@@ -288,7 +288,7 @@
         "points": "50 points"
       },
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "options": [
           {
             "description": "Choose one of the following:"

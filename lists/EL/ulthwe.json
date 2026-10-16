@@ -38,7 +38,7 @@
         "Warp Spiders",
         "Wraithguards",
         "Vyper",
-        "War Walker",
+        "War Geländegängig",
         "Wraithlord",
         "Wave Serpent",
         "Falcon",
@@ -56,7 +56,7 @@
         "Holofields (x)",
         "Lance",
         "Shield Piercer",
-        "Shield Disruptor"
+        "Shield Versprengenor"
       ]
     },
     {
@@ -106,7 +106,7 @@
           "points": 175
         },
         {
-          "name": "Mounted Black Guardian Warhost",
+          "name": "Beritten Black Guardian Warhost",
           "units": "Two Farseers, six Eldar Guardians and four Wave Serpents",
           "extraUnits": [
             "Seer Council",
@@ -122,10 +122,10 @@
       "description": "Up to two Ulthwé Line Troupes for each Ulthwé Warhost",
       "formations": [
           {
-            "name": "War Walkers",
-            "units": "Four War Walkers",
+            "name": "War Geländegängigs",
+            "units": "Four War Geländegängigs",
             "extraUnits": [
-                "Add up to two War Walkers: 25 points each"
+                "Add up to two War Geländegängigs: 25 points each"
             ],
             "points": 150
           },

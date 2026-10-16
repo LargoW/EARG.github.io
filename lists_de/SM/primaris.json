@@ -21,7 +21,7 @@
         "Captain",
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assault Intercessor",
         "Intercessor",
         "Inceptor",
@@ -31,7 +31,7 @@
         "Suppressor",
         "Reiver",
         "Eliminator",
-        "Infiltrator",
+        "Infiltratoren",
         "Eradicator",
         "Invader",
         "Invictor Warsuit",
@@ -64,7 +64,7 @@
             "Close Support",
             "Commander",
             "Transports",
-            "Walkers"
+            "Geländegängigs"
           ],
           "points": 250
         }
@@ -98,8 +98,8 @@
           "points": 250
         },
         {
-          "name": "Infiltrator Squad",
-          "units": "Four Infiltrators",
+          "name": "Infiltratoren Squad",
+          "units": "Four Infiltratorens",
           "extraUnits": [
             "Commander"
           ],
@@ -117,7 +117,7 @@
             "Close Support",
             "Commander",
             "Transports",
-            "Walkers"
+            "Geländegängigs"
           ],
           "points": 250
         },
@@ -193,7 +193,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]
@@ -213,7 +213,7 @@
         ]
       },
       {
-        "name": "Walkers",
+        "name": "Geländegängigs",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {

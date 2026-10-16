@@ -17,10 +17,10 @@
           "Omnissian Axe"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
-          "Fearless",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Inspirierend",
+          "Furchtlos",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -36,8 +36,8 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Invulnerable Save"
+          "Anführer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -75,7 +75,7 @@
           "Galvanic Rifles"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -97,9 +97,9 @@
             "n/a"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Commander",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -137,11 +137,11 @@
           "Voltagheist Field"
         ],
         "specialRules": [
-          "Expendable"
+          "Entbehrlich"
         ]
       },
       {
-        "name": "Sicarian Infiltrators",
+        "name": "Sicarian Infiltratorens",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -152,8 +152,8 @@
           "Taser Goad"
         ],
         "specialRules": [
-          "First Strike",
-          "Infiltrators"
+          "Erstschlag",
+          "Infiltratorens"
         ]
       },
       {
@@ -166,7 +166,7 @@
           "Transonic Blades"
         ],
         "specialRules": [
-          "Infiltrators"
+          "Infiltratorens"
         ]
       },
       {
@@ -182,8 +182,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -198,8 +198,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -228,8 +228,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -247,8 +247,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -264,9 +264,9 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
-          "Skimmer",
+          "Furchtlos",
+          "Entbehrlich",
+          "Antigrav",
           "Ponderous"
         ]
       },
@@ -283,10 +283,10 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -301,8 +301,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -334,8 +334,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable"
+          "Furchtlos",
+          "Entbehrlich"
         ],
         "notes": "Entweder mit Zwillings-Laserkanone oder Zwillings-Schwerem Bolter bewaffnet. Tarantulas mit Zwillings-Schwerem Bolter erhalten einen Feuergefechtswert von 4+."
       },
@@ -350,8 +350,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable"
+          "Furchtlos",
+          "Entbehrlich"
         ]
       },
       {
@@ -388,7 +388,7 @@
           "Twin Autocannon"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -402,8 +402,8 @@
           "Taser Lance"
         ],
         "specialRules": [
-          "Scout",
-          "Walker"
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -420,7 +420,7 @@
           "Icarus Array|0-1|"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Muss zwischen Eradication Beamer, Twin Heavy Phosphor Blaster, Icarus Array und Neutron Laser wählen. Onager Dunecrawlers mit Eradication Beamer erhalten einen Feuergefechtswert von 4+."
       },
@@ -511,8 +511,8 @@
           "Bolters"
         ],
         "specialRules": [
-          "Thick Rear Armour",
-          "Tunneler",
+          "Verstärkte Heckpanzerung",
+          "Tunnelgräber",
           "Transport"
         ],
         "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Muss das Spiel in Reserve beginnen und darf das Schlachtfeld nur durch Tunnelbewegung betreten."
@@ -530,7 +530,7 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -546,7 +546,7 @@
           "Plasma Cannon|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -562,7 +562,7 @@
           "Plasma Cannon|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -589,8 +589,8 @@
         "specialRules": [
           "Damage Capacity 2",
           "Void Shields 2",
-          "Reinforced Armour",
-          "Fearless"
+          "Verstärkte Panzerung",
+          "Furchtlos"
         ],
         "notes": "Mit einer einzelnen Kampfwaffe bewaffnet. Kann zu einer Unterstützungswaffe aufgewertet werden.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
@@ -615,8 +615,8 @@
         "specialRules": [
           "Damage Capacity 2",
           "Void Shields 2",
-          "Reinforced Armour",
-          "Fearless"
+          "Verstärkte Panzerung",
+          "Furchtlos"
         ],
         "notes": "Mit einer einzelnen Kampfwaffe bewaffnet.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
@@ -634,15 +634,15 @@
           ">Ordinatus Armageddon<",
           "Nova Cannon||FxF",
           ">Ordinatus Mars<",
-          "Sonic Disruptor||FxF",
+          "Sonic Versprengenor||FxF",
           ">Ordinatus Golgotha<",
           "Hellfire Missile|6|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
           "Void Shields 4",
-          "Reinforced Armour",
-          "Fearless"
+          "Verstärkte Panzerung",
+          "Furchtlos"
         ],
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 4+"
       },
@@ -658,8 +658,8 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
-          "Walker",
+          "Verstärkte Panzerung",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "Kann 10 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Jeder Praetorian Combat Servitor zählt als zwei Einheiten.",
@@ -676,8 +676,8 @@
         ],
         "specialRules": [
           "Damage capacity: 2",
-          "Reinforced Armour",
-          "Tunneler",
+          "Verstärkte Panzerung",
+          "Tunnelgräber",
           "Transport"
         ],
         "notes": "Kann sechs Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."

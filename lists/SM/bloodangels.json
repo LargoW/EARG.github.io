@@ -20,7 +20,7 @@
         "Captain",
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assaults",
         "Death Company Marines",
         "Devastators",
@@ -171,7 +171,7 @@
           "units": "Four Scouts plus transport",
           "extraUnits": [
             "Razorbacks",
-            "Snipers"
+            "Scharfschützes"
           ],
           "points": 150
         }
@@ -251,7 +251,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]
@@ -263,7 +263,7 @@
       },
       {
         "name": "Honor Guards",
-        "description": "In a formation containing a Supreme Commander character: replace up to two Assaults or Tacticals with Sanguinary Guards",
+        "description": "In a formation containing a Oberbefehlshaber character: replace up to two Assaults or Tacticals with Sanguinary Guards",
         "points": "25 points each"
       },
       {
@@ -282,8 +282,8 @@
         "points": "25 points each"
       },
       {
-        "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Heavy Bolters",
+        "name": "Scharfschützes",
+        "description": "Give all Scouts in the formation 'Scharfschütze' on their Heavy Bolters",
         "points": "25 points"
       },
       {

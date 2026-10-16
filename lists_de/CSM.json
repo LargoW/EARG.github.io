@@ -11,8 +11,8 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -22,9 +22,9 @@
             "Doom Siren"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Daemonic Focus",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -34,10 +34,10 @@
           "Servo Arm"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Battlefield Repairs",
           "Bionics",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -47,9 +47,9 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Daemonic Pact",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -59,9 +59,9 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Inspirierend",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -71,10 +71,10 @@
           "Daemonic Bolt"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
+          "Oberbefehlshaber",
+          "Inspirierend",
           "Augment Summoning (+2D3)",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -85,8 +85,8 @@
           "Daemon Weapon"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Invulnerable Save"
+          "Oberbefehlshaber",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -96,11 +96,11 @@
           "Daemonic Bolt"
         ],
         "specialRules": [
-          "Inspiring",
-          "Supreme Commander",
+          "Inspirierend",
+          "Oberbefehlshaber",
           "Heralds of Truth",
           "Augment Summoning (+D3)",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -111,8 +111,8 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Invulnerable Save"
+          "Anführer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -124,8 +124,8 @@
         "specialRules": [
             "Daemonic Focus",
             "Commander",
-          "Leader",
-          "Invulnerable Save"
+          "Anführer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -135,10 +135,10 @@
           "Servo Arm"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Battlefield Repairs",
           "Bionics",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -149,8 +149,8 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Invulnerable Save"
+          "Anführer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -161,9 +161,9 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
+          "Anführer",
           "Daemonic Pact",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -174,8 +174,8 @@
         ],
         "specialRules": [
           "Commander",
-          "Inspiring",
-          "Invulnerable Save"
+          "Inspirierend",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -186,8 +186,8 @@
           "Daemon Weapon"
         ],
         "specialRules": [
-          "Leader",
-          "Invulnerable Save"
+          "Anführer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -197,8 +197,8 @@
           "Warp Bolt"
         ],
         "specialRules": [
-          "Leader",
-          "Invulnerable Save"
+          "Anführer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
             {
@@ -210,8 +210,8 @@
         "specialRules": [
           "Heralds of Truth",
           "Augment Summoning (+D3)",
-          "Leader",
-          "Invulnerable Save"
+          "Anführer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -222,8 +222,8 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader",
-          "Invulnerable Save"
+          "Anführer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -234,7 +234,7 @@
         ],
         "specialRules": [
           "Augment Summoning (+2D3)",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "notes": "Darf geopfert werden. Vor dem Wurf für die Beschwörungspunkte des Verbands wird die Fähigkeit Augment Summoning (+2D3) dieser Einheit durch Augment Summoning (+6) ersetzt. Nach diesem Wurf wird die Einheit mit dem Champion zerstört; Schutzwürfe sind nicht zulässig. Eine auf diese Weise geopferte Einheit verursacht keinen Beschussmarker."
       },
@@ -246,7 +246,7 @@
         ],
         "specialRules": [
           "Commander",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -258,8 +258,8 @@
         "specialRules": [
           "Augment Summoning (+1)",
           "Daemonic Focus",
-          "Invulnerable Save",
-          "Leader"
+          "Unmodifizierter Rettungswurf",
+          "Anführer"
         ]
       },
             {
@@ -271,7 +271,7 @@
         "specialRules": [
           "Augment Summoning (+D3)",
           "Daemonic Focus",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -286,13 +286,13 @@
           "Æther Blade"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Reinforced Armour",
+          "Oberbefehlshaber",
+          "Verstärkte Panzerung",
           "Jump Pack",
           "Teleport",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -307,14 +307,14 @@
           "Warp Talons"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Reinforced Armour",
+          "Oberbefehlshaber",
+          "Verstärkte Panzerung",
           "Jump Pack",
           "Teleport",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
           "Daemonic Pact",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
             {
@@ -329,14 +329,14 @@
           "Æther Blade"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Heralds of Truth",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Jump Pack",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
           "Augment Summoning (+D3)",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -351,13 +351,13 @@
           "Rapturous Blade"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Reinforced Armour",
+          "Oberbefehlshaber",
+          "Verstärkte Panzerung",
           "Jump Pack",
           "Teleport",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -372,13 +372,13 @@
           "Blade of Rot"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Reinforced Armour",
+          "Oberbefehlshaber",
+          "Verstärkte Panzerung",
           "Jump Pack",
           "Teleport",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -393,13 +393,13 @@
           "Æther Blade"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Reinforced Armour",
+          "Oberbefehlshaber",
+          "Verstärkte Panzerung",
           "Jump Pack",
           "Teleport",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -415,13 +415,13 @@
           "Bedlam Staff"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Reinforced Armour",
+          "Oberbefehlshaber",
+          "Verstärkte Panzerung",
           "Jump Pack",
           "Warp Rift",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -553,7 +553,7 @@
           "Autocannon"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -564,10 +564,10 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Sniper Rifles"
+          "Scharfschütze Rifles"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -583,8 +583,8 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Infiltrators",
-          "Scout",
+          "Infiltratorens",
+          "Aufklärer",
           "Sabotage"
         ]
       },
@@ -600,7 +600,7 @@
           "Chainswords"
         ],
         "specialRules": [
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -615,7 +615,7 @@
           "Chainswords"
         ],
         "specialRules": [
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -630,7 +630,7 @@
           "Iconoclast Axes"
         ],
         "specialRules": [
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -644,7 +644,7 @@
           "Rad Missile Launchers"
         ],
         "specialRules": [
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -658,7 +658,7 @@
           "Rad Missile Launchers"
         ],
         "specialRules": [
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -673,7 +673,7 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -687,7 +687,7 @@
           "Blastmaster"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -701,7 +701,7 @@
           "Blastmaster|3|"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -716,7 +716,7 @@
           "Plague Knives"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -731,7 +731,7 @@
           "Chain Axes"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -745,7 +745,7 @@
           "Inferno Bolters"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -761,8 +761,8 @@
         ],
         "specialRules": [
           "Teleport",
-          "Jump Packs",
-          "Fearless"
+          "Sprungmodule",
+          "Furchtlos"
         ],
         "notes": "Muss das Spiel in Reserve beginnen und darf das Spielfeld nur durch Teleportieren betreten. Kann nicht transportiert werden."
       },
@@ -777,9 +777,9 @@
           "Daemonic Claws"
         ],
         "specialRules": [
-          "Fearless",
-          "Infiltrators",
-          "Invulnerable Save"
+          "Furchtlos",
+          "Infiltratorens",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -794,9 +794,9 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -811,9 +811,9 @@
           "Lightning Claws"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -828,9 +828,9 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -846,9 +846,9 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -863,10 +863,10 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -881,10 +881,10 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -899,10 +899,10 @@
           "Lightning Claws"
         ],
         "specialRules": [
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Teleport",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -917,10 +917,10 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Warp Rift",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -934,9 +934,9 @@
           "Manifested Body Weapons"
         ],
         "specialRules": [
-          "Fearless",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Teleport"
         ]
       },
@@ -950,9 +950,9 @@
           "Manifested Melee Weapons"
         ],
         "specialRules": [
-          "Fearless",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Teleport"
         ]
       },
@@ -967,8 +967,8 @@
           "Sorcerous Bolts"
         ],
         "specialRules": [
-          "Jump Packs",
-          "Invulnerable Save"
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -983,7 +983,7 @@
           "Chainswords"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -1009,8 +1009,8 @@
           "Chain Axes"
         ],
         "specialRules": [
-          "Fearless",
-          "Mounted"
+          "Furchtlos",
+          "Beritten"
         ]
       },
       {
@@ -1025,10 +1025,10 @@
           "Juggernaut"
         ],
         "specialRules": [
-          "Fearless",
-          "Mounted",
-          "Walker",
-          "Invulnerable Save"
+          "Furchtlos",
+          "Beritten",
+          "Geländegängig",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -1057,7 +1057,7 @@
           "Combi-Bolter"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators und Obliterators) ohne Sprungmodule oder Beritten transportieren."
@@ -1151,8 +1151,8 @@
           "Twin Heavy Bolter"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Chaos Terminators und Obliterators zählen jeweils als 2 Einheiten."
@@ -1170,8 +1170,8 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
@@ -1188,8 +1188,8 @@
           "Blastmaster"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 1 Sirenshriek-Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
@@ -1206,9 +1206,9 @@
           "Twin Heavy Bolter"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Walker",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Geländegängig",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 1 Blightlord-Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
@@ -1224,9 +1224,9 @@
           "Reaper Autocannon|2|"
         ],
         "specialRules": [
-          "Walker",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Geländegängig",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 2 Terminators, Mutilators oder 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
@@ -1243,8 +1243,8 @@
           "Heavy Warpflamer"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 1 Terminator oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
@@ -1313,7 +1313,7 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1369,7 +1369,7 @@
           "Demolisher"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1397,7 +1397,7 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1411,7 +1411,7 @@
           "Demolisher"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1450,8 +1450,8 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1466,7 +1466,7 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1481,8 +1481,8 @@
           "Twin Lascannon"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1496,8 +1496,8 @@
           "Dreadnought Chainfist|2|"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1513,8 +1513,8 @@
           "Siege Drill"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1530,7 +1530,7 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1545,8 +1545,8 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1561,8 +1561,8 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1577,8 +1577,8 @@
           "Twin Heavy Flamer"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Kann 4 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminators zählen jeweils als 2 Einheiten."
@@ -1595,9 +1595,9 @@
           "Lascannon|2|"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
-          "Walker"
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
+          "Geländegängig"
         ]
       },
       {
@@ -1614,7 +1614,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       }

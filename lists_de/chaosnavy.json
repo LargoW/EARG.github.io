@@ -38,7 +38,7 @@
           "AC Piston-Driven Claws"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -51,7 +51,7 @@
           "AC Piston-Driven Claws"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -63,7 +63,7 @@
           "AC Flame Cannon||FxF"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -77,7 +77,7 @@
           "AC Twin Lascannon||FxF"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
     },
       {
@@ -92,7 +92,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "crit": "The Harbringer Bomber is destroyed."
       },
@@ -108,7 +108,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "crit": "The Blightbringer Bomber is destroyed."
       },
@@ -140,7 +140,7 @@
           "Damage Capacity 2",
           "Planetfall",
           "Stubborn",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann vier Infanterieeinheiten ohne Beritten transportieren; Terminatoren, Dämonenprinzen, Chaosbruten, große Mutanten und Cybots zählen jeweils als zwei Einheiten. Gilt beim Transport als Chaos-Thunderhawk.",
@@ -158,7 +158,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Fire Raptor is destroyed."
       },
@@ -178,7 +178,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann acht Infanterieeinheiten transportieren; Terminatoren, Dämonenprinzen, Chaosbruten, große Mutanten und Cybots zählen jeweils als zwei Einheiten.",
@@ -200,7 +200,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 8 Infanterieeinheiten transportieren; Terminators, Daemon Princes, Chaos Spawn, Big Mutants und Dreadnoughts zählen jeweils als 2 Einheiten.",
@@ -223,7 +223,7 @@
           "Damage Capacity 2",
           "Stubborn",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 8 Infanterieeinheiten transportieren; Terminators, Daemon Princes, Chaos Spawn, Big Mutants und Dreadnoughts zählen jeweils als 2 Einheiten.",
@@ -243,8 +243,8 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Fearless",
-          "Reinforced Armour",
+          "Furchtlos",
+          "Verstärkte Panzerung",
           "Planetfall",
           "Transport"
         ],

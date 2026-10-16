@@ -137,7 +137,7 @@
           "points": 175
         },
         {
-          "name": "Recon Skimmer Group",
+          "name": "Recon Antigrav Group",
           "units": "Any six of the following units: Piranha, Tetra",
           "extraUnits": [
             "Add up to two Piranhas: 25 points each"
@@ -219,7 +219,7 @@
     "items": [
       {
         "name": "Bonded Team",
-        "description": "Give the formation Leader (this special ability is not added to any one specific unit)",
+        "description": "Give the formation Anführer (this special ability is not added to any one specific unit)",
         "points": "25 points"
       },
       {

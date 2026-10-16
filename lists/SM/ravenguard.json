@@ -19,7 +19,7 @@
         "Captain",
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assaults",
         "Assault Bikes",
         "Raven Guard Scouts",
@@ -162,11 +162,11 @@
           "points": 200
         },
         {
-          "name": "Scout",
+          "name": "Aufklärer",
           "units": "Four Raven Guard Scouts plus transport",
           "extraUnits": [
             "Land Speeders",
-            "Snipers",
+            "Scharfschützes",
             "Razorbacks"
           ],
           "points": 150
@@ -237,7 +237,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]
@@ -271,8 +271,8 @@
         "points": "25 points each"
       },
       {
-        "name": "Snipers",
-        "description": "All Scouts in the formation gain the 'Sniper' special rule on their Heavy Bolters",
+        "name": "Scharfschützes",
+        "description": "All Scouts in the formation gain the 'Scharfschütze' special rule on their Heavy Bolters",
         "points": "25 points"
       },
       {

@@ -15,7 +15,7 @@
     {
       "from": "IG.json",
       "units": [
-        "Cadian Supreme Commander",
+        "Cadian Oberbefehlshaber",
         "Cadian Commander",
         "Commissar",
         "Whiteshields",
@@ -78,7 +78,7 @@
       "formations": [
         {
           "name": "0–1 Regimental HQ",
-          "units": "One Cadian Supreme Commander with a Commissar, eight Kasrkin, one Stormlord.",
+          "units": "One Cadian Oberbefehlshaber with a Commissar, eight Kasrkin, one Stormlord.",
           "extraUnits": [
             "Werte the Stormlord zu einem Leviathan: 125 Punkte auf",
             "Leman Russ",

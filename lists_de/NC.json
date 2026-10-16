@@ -15,9 +15,9 @@
           "Staff of Radiance"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
-          "Inspiring",
+          "Oberbefehlshaber",
+          "Furchtlos",
+          "Inspirierend",
           "Regeneration",
           "Enduring"
         ]
@@ -33,12 +33,12 @@
           "Staff of Radiance"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
-          "Inspiring",
+          "Oberbefehlshaber",
+          "Furchtlos",
+          "Inspirierend",
           "Regeneration",
-          "Mounted",
-          "Skimmer",
+          "Beritten",
+          "Antigrav",
           "Enduring"
         ]
       },
@@ -53,7 +53,7 @@
           "Staff of Light"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Commander",
           "Regeneration"
         ]
@@ -69,11 +69,11 @@
           "Staff of Light"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Commander",
           "Regeneration",
-          "Mounted",
-          "Skimmer"
+          "Beritten",
+          "Antigrav"
         ]
       },
       {
@@ -88,7 +88,7 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Expendable",
+          "Entbehrlich",
           "Regeneration"
         ]
       },
@@ -102,7 +102,7 @@
           "Claws"
         ],
         "specialRules": [
-          "Infiltrators",
+          "Infiltratorens",
           "Regeneration",
           "Teleport"
         ],
@@ -147,10 +147,10 @@
           "Tomb Spyder Claws"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Regeneration",
-          "Leader",
-          "Infiltrators"
+          "Anführer",
+          "Infiltratorens"
         ]
       },
       {
@@ -162,10 +162,10 @@
           "Swarm Attack"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Machine Spirit",
-          "Expendable",
-          "Infiltrators",
+          "Entbehrlich",
+          "Infiltratorens",
           "Regeneration"
         ]
       },
@@ -179,12 +179,12 @@
           "Wraith Claws"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Machine Spirit",
-          "Expendable",
-          "Scout",
+          "Entbehrlich",
+          "Aufklärer",
           "Regeneration",
-          "Infiltrators"
+          "Infiltratorens"
         ]
       },
       {
@@ -198,9 +198,9 @@
           "Gauss Cannons"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Regeneration",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -214,9 +214,9 @@
           "Heavy Gauss Cannons"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Regeneration",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -231,7 +231,7 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Scout",
+          "Aufklärer",
           "Teleport"
         ]
       },
@@ -247,8 +247,8 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Mounted",
-          "Skimmer"
+          "Beritten",
+          "Antigrav"
         ]
       },
       {
@@ -262,9 +262,9 @@
           "Rods of Covenant"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Regeneration",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -279,10 +279,10 @@
           "Gauss Flux Arc"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Living Metal",
           "Portal",
-          "Skimmer",
+          "Antigrav",
           "Teleport"
         ]
       },
@@ -298,9 +298,9 @@
           "Gravity Pulse"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Living Metal",
-          "Skimmer",
+          "Antigrav",
           "Teleport"
         ]
       },
@@ -315,8 +315,8 @@
           "Gauss Flayers Array"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer",
+          "Verstärkte Panzerung",
+          "Antigrav",
           "Enduring"
         ],
         "notes": "Transport: 2 Infanterieeinheiten"
@@ -333,8 +333,8 @@
           "Tesla Cannon"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer",
+          "Verstärkte Panzerung",
+          "Antigrav",
           "Enduring"
         ]
       },
@@ -349,11 +349,11 @@
           "Gauss Cannons"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer",
+          "Verstärkte Panzerung",
+          "Antigrav",
           "Enduring",
           "Commander",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -368,8 +368,8 @@
           "Gauss Flayers Array"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer",
+          "Verstärkte Panzerung",
+          "Antigrav",
           "Enduring"
         ]
       },
@@ -385,8 +385,8 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Walker",
-          "Infiltrators"
+          "Geländegängig",
+          "Infiltratorens"
         ]
       },
       {
@@ -401,12 +401,12 @@
           "Titanic Forelimbs"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Machine Spirit",
-          "Expendable",
+          "Entbehrlich",
           "Regeneration",
-          "Walker",
-          "Infiltrators"
+          "Geländegängig",
+          "Infiltratorens"
         ]
       },
       {
@@ -420,7 +420,7 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Fearless",
+          "Furchtlos",
           "Machine Spirit",
           "Teleport"
         ]
@@ -438,10 +438,10 @@
           "Pyreshards"
         ],
         "specialRules": [
-          "Walker",
-          "Leader",
+          "Geländegängig",
+          "Anführer",
           "Commander",
-          "Inspiring",
+          "Inspirierend",
           "Regeneration"
         ],
         "notes": "Wird der C'tan-Splitter aufgerieben, wird er sofort zerstört, verursacht jedoch keine zusätzlichen Beschussmarken."
@@ -458,7 +458,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Fearless",
+          "Furchtlos",
           "Machine Spirit",
           "Living Metal",
           "Teleport",
@@ -479,10 +479,10 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Fearless",
+          "Furchtlos",
           "Portal",
           "Living Metal",
-          "Skimmer",
+          "Antigrav",
           "Teleport",
           "Transport",
           "Enduring"
@@ -501,9 +501,9 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Fearless",
+          "Furchtlos",
           "Living Metal",
-          "Support Craft",
+          "Hilfstransportschiff",
           "Enduring"
         ],
         "crit": "The Æonic Orb is destroyed. All units within 5cm suffer a hit."
@@ -521,10 +521,10 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Fearless",
+          "Furchtlos",
           "Living Metal",
           "Portal",
-          "Skimmer",
+          "Antigrav",
           "Enduring"
         ],
         "crit": "The Abattoir's Portal is destroyed. Subsequent critical hits cause one additional damage."

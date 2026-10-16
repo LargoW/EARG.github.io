@@ -107,7 +107,7 @@
           "extraUnits": [
             "Ersetze 4 Thousand Sons Marines durch 4 Thousand Sons Havocs: 50 Punkte",
             "Ersetze bis zu 3 Rubric Marines durch Thousand Sons Dreadnoughts: 25 Punkte pro Stück",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Champion of Chaos",
             "Thousand Sons Transport",
@@ -120,7 +120,7 @@
           "name": "Thousand Sons Terminators",
           "units": "One Aspiring Sorcerer, four Scarab Occult Terminators, Daemonic Pact",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Champion of Chaos",
             "Dreadnoughts"
@@ -170,7 +170,7 @@
           "name": "Disc Riders",
           "units": "One Aspiring Sorcerer, six Sorcerer Disc Riders, Daemonic Pact",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Champion of Chaos"
           ],
@@ -249,7 +249,7 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {

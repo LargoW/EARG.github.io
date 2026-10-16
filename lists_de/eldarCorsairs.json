@@ -12,8 +12,8 @@
         ],
         "specialRules": [
           "Commander",
-          "Inspiring",
-          "Leader"
+          "Inspirierend",
+          "Anführer"
         ]
       },
       {
@@ -26,7 +26,7 @@
         "weapons": [
           "Shuriken Catapults"
         ],
-        "specialRules": ["Jump packs"]
+        "specialRules": ["Sprungmodule"]
       },
       {
         "name": "Corsair Veteran",
@@ -39,22 +39,22 @@
           "Shuriken Pistols",
           "Eldar Power Weapon"
         ],
-        "specialRules": ["Jump packs"]
+        "specialRules": ["Sprungmodule"]
       },
       {
-        "name": "Ghostwalker",
+        "name": "GhostGeländegängig",
         "type": "INF",
         "speed": 20,
         "armour": 6,
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Ghostwalker Long Rifles"
+          "GhostGeländegängig Long Rifles"
         ],
-        "specialRules": ["Jump packs", "Scout"]
+        "specialRules": ["Sprungmodule", "Aufklärer"]
       },
       {
-        "name": "Corsair Wasp Walker",
+        "name": "Corsair Wasp Geländegängig",
         "type": "LV",
         "speed": 20,
         "armour": 5,
@@ -64,8 +64,8 @@
           "Starcannon|2"
         ],
         "specialRules": [
-          "Walker",
-          "Jump Packs"
+          "Geländegängig",
+          "Sprungmodule"
         ]
       },
       {
@@ -80,10 +80,10 @@
           "Twin Splinter Rifle"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
-        "notes": "Kann eine Einheit Corsair Warriors, Corsair Veterans oder Ghostwalkers transportieren."
+        "notes": "Kann eine Einheit Corsair Warriors, Corsair Veterans oder GhostGeländegängigs transportieren."
       },
       {
         "name": "Corsair Nightwing Interceptor",
@@ -95,7 +95,7 @@
           "AC Bright Lance|2"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -112,10 +112,10 @@
         "specialRules": [
           "Damage Capacity: 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Kann bis zu acht der folgenden Einheiten transportieren: Corsair Warriors, Corsair Veterans, Ghostwalker oder Corsair Wasp Walker. Corsair Wasp Walker belegen jeweils zwei Plätze.",
+        "notes": "Kann bis zu acht der folgenden Einheiten transportieren: Corsair Warriors, Corsair Veterans, GhostGeländegängig oder Corsair Wasp Geländegängig. Corsair Wasp Geländegängig belegen jeweils zwei Plätze.",
         "crit": "The Vampire Raider and all units on board are destroyed."
       }
     ]

@@ -11,10 +11,10 @@
           "Agonizer"
         ],
         "specialRules": [
-          "Fearless",
-          "Supreme Commander",
-          "Invulnerable Save",
-          "Inspiring"
+          "Furchtlos",
+          "Oberbefehlshaber",
+          "Unmodifizierter Rettungswurf",
+          "Inspirierend"
         ]
       },
       {
@@ -24,9 +24,9 @@
           "Agonizer"
         ],
         "specialRules": [
-          "Invulnerable Save",
-          "Leader",
-          "Inspiring"
+          "Unmodifizierter Rettungswurf",
+          "Anführer",
+          "Inspirierend"
         ]
       },
       {
@@ -36,7 +36,7 @@
           "Monomolecular Blade"
         ],
         "specialRules": [
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -47,8 +47,8 @@
           "Scissor Hands"
         ],
         "specialRules": [
-          "Leader",
-          "Invulnerable Save"
+          "Anführer",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -63,7 +63,7 @@
           "Klaives"
         ],
         "specialRules": [
-            "Infiltrators"
+            "Infiltratorens"
         ]
       },
       {
@@ -92,8 +92,8 @@
           "Mandrake Blades"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratorens",
+          "Aufklärer"
         ]
       },
       {
@@ -108,7 +108,7 @@
           "Splinter Cannon"
         ],
         "specialRules": [
-          "Jump Packs",
+          "Sprungmodule",
           "Teleport",
           "Wind-Swift"
         ]
@@ -125,7 +125,7 @@
           "Poison Blades"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -138,8 +138,8 @@
           "Poison Blades"
         ],
         "specialRules": [
-          "Fearless",
-          "Expendable"
+          "Furchtlos",
+          "Entbehrlich"
         ]
       },
       {
@@ -152,8 +152,8 @@
           "Grotesques Blades"
         ],
         "specialRules": [
-          "Fearless",
-          "Expendable"
+          "Furchtlos",
+          "Entbehrlich"
         ]
       },
       {
@@ -168,9 +168,9 @@
           "Paralyzer"
         ],
         "specialRules": [
-          "Fearless",
-          "Reinforced Armour",
-          "Walker"
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ]
       },
       {
@@ -185,9 +185,9 @@
           "Perditor Claws"
         ],
         "specialRules": [
-          "Fearless",
-          "Reinforced Armour",
-          "Walker"
+          "Furchtlos",
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ]
       },
       {
@@ -201,8 +201,8 @@
           "Wych Weapons"
         ],
         "specialRules": [
-          "Invulnerable Save",
-          "Infiltrators"
+          "Unmodifizierter Rettungswurf",
+          "Infiltratorens"
         ]
       },
       {
@@ -215,7 +215,7 @@
           "Claws"
         ],
         "specialRules": [
-          "First Strike"
+          "Erstschlag"
         ]
       },
       {
@@ -230,7 +230,7 @@
           "Splinter Pods"
         ],
         "specialRules": [
-          "Jump Packs",
+          "Sprungmodule",
           "Scouts"
         ]
       },
@@ -246,8 +246,8 @@
           "Blades"
         ],
         "specialRules": [
-          "Skimmer",
-          "Mounted"
+          "Antigrav",
+          "Beritten"
         ]
       },
       {
@@ -262,7 +262,7 @@
           "Twin Splinter Rifle"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport",
           "Wind-Swift"
         ],
@@ -279,7 +279,7 @@
           "Dark Lance"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport",
           "Wind-Swift"
         ],
@@ -297,7 +297,7 @@
           "Splinter Blast"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Wind-Swift"
         ]
       },
@@ -312,7 +312,7 @@
           "Storm Vortex Projector"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Wind-Swift"
         ]
       },
@@ -327,7 +327,7 @@
           "Pulse Disintegrator|2|"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Wind-Swift",
           "Transport"
         ],
@@ -348,7 +348,7 @@
         "specialRules": [
             "Damage Capacity 3",
             "Shadowfields 2",
-            "Skimmer",
+            "Antigrav",
             "Transport",
             "Wind-Swift"
         ],
@@ -370,7 +370,7 @@
         "specialRules": [
           "Damage Capacity 3",
           "Shadowfields 2",
-            "Skimmer",
+            "Antigrav",
             "Wind-Swift"
         ],
         "crit": "The Vessel of Pain is destroyed. All units within 5cm take a hit on 6+."
@@ -389,10 +389,10 @@
         "specialRules": [
           "Damage Capacity 4",
           "Shadowfields 3",
-          "Fearless",
-          "Jump Packs",
-          "Reinforced Armour",
-          "Walker"
+          "Furchtlos",
+          "Sprungmodule",
+          "Verstärkte Panzerung",
+          "Geländegängig"
         ],
         "crit": "The Tormentor Titan takes one additional damage and loses any remaining Shadowfields."
       },
@@ -411,9 +411,9 @@
           "Damage Capacity 5",
           "Shadowfields 4",
           "Planetfall",
-          "Support Craft",
-          "Reinforced Armour",
-          "Fearless",
+          "Hilfstransportschiff",
+          "Verstärkte Panzerung",
+          "Furchtlos",
           "Transport"
         ],
         "notes": "Kann bis zu zehn Infanterieeinheiten transportieren. Grotesken zählen jeweils als zwei Einheiten. Zusätzlich kann es bis zu fünf leichte oder gepanzerte Fahrzeuge oder ein Vessel of Pain oder eine Barge of Pleasure transportieren.",

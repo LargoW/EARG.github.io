@@ -82,7 +82,7 @@
           "units": "One Night Lords Captain, six Raptors",
           "extraUnits": [
             "Füge bis zu 2 Raptors hinzu: 30 Punkte pro Stück",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer"
           ],
           "points": 275
@@ -113,7 +113,7 @@
           "units": "One Night Lords Captain, four Atramentar Terminators",
           "extraUnits": [
             "Füge 2 Chaos Spartan Assault Tanks hinzu: 150 Punkte",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Dreadnoughts",
             "Dreadclaws"
@@ -137,7 +137,7 @@
           "name": "Terror Company",
           "units": "One Night Lords Captain, four Night Lords Assault Marines, two Night Lords Dreadnoughts",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Dreadnoughts",
             "Dreadclaws"
@@ -149,7 +149,7 @@
           "units": "One Night Lords Captain, six Chaos Space Marines, three Chaos Rhinos",
           "extraUnits": [
             "Ersetze 3 Chaos Rhinos durch 3 Chaos Land Raiders: 125 Punkte",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Stalker"
           ],
@@ -159,7 +159,7 @@
           "name": "Attack Company",
           "units": "One Night Lords Captain, six Chaos Attack Bikes",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Stalker"
           ],
@@ -217,7 +217,7 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "(0–1 pro Armee) Supreme Commander",
+        "name": "(0–1 pro Armee) Oberbefehlshaber",
         "options": [
           {
             "description": "Wähle eine der folgenden Optionen:"

@@ -15,11 +15,11 @@
     {
       "from": "IG.json",
       "units": [
-        "Catachan Supreme Commander",
+        "Catachan Oberbefehlshaber",
         "Catachan Commander",
         "Catachan Infantry",
         "Flakk Team",
-        "Snipers",
+        "Scharfschützes",
         "Ogryns",
         "Death World Veterans",
         "Catachan Sentinel",
@@ -40,7 +40,7 @@
         "Shadowsword"
       ],
       "unitRules": [
-                    "Shield Disruptor"
+                    "Shield Versprengenor"
       ]
     },
     {
@@ -61,7 +61,7 @@
       "formations": [
         {
           "name": "Catachan Regimental HQ",
-          "units": "One Catachan Supreme Commander, seven Catachan Infantry",
+          "units": "One Catachan Oberbefehlshaber, seven Catachan Infantry",
           "extraUnits": [
             "Death World Transport (Compulsory)",
             "Flakk Teams",
@@ -148,8 +148,8 @@
           "points": 200
         },
         {
-          "name": "Sniper Platoon",
-          "units": "Four Snipers, two Death World Chimeras",
+          "name": "Scharfschütze Platoon",
+          "units": "Four Scharfschützes, two Death World Chimeras",
           "extraUnits": [
           ],
           "points": 150

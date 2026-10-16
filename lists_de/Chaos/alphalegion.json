@@ -104,7 +104,7 @@
           "extraUnits": [
             "Ersetze 4 Alpha Legion Marines durch 4 Alpha Legion Havocs: 50 Punkte",
             "Füge bis zu 2 Alpha Legion Land Raiders hinzu: 50 Punkte pro Stück",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Dreadnoughts",
             "Vindicators",
             "Predators"
@@ -121,7 +121,7 @@
             "Füge bis zu 3 Chaos Hounds hinzu: 10 Punkte pro Stück",
             "Füge 1 Chaos Spawn hinzu: 35 points",
             "Füge 1 Hydra hinzu: 50 Punkte",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 225
         }
@@ -135,7 +135,7 @@
           "name": "Destroyers",
           "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Destroyers",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Predators"
           ],
           "points": 200
@@ -144,7 +144,7 @@
           "name": "Headhunters",
           "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Headhunters plus transport",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Vindicators"
           ],
           "points": 250
@@ -153,7 +153,7 @@
           "name": "Terminators",
           "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Lernaean Terminators plus transport",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Dreadnoughts"
           ],
           "points": 275
@@ -253,7 +253,7 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
@@ -261,7 +261,7 @@
             "points": "100 points"
           },
           {
-            "description": "„I'm Alpharius!“ Die Armee profitiert von der Sonderregel Supreme Commander, solange sich mindestens ein Alpha Legion Lord auf dem Schlachtfeld befindet. Der Verband muss einen Alpha Legion Lord enthalten.",
+            "description": "„I'm Alpharius!“ Die Armee profitiert von der Sonderregel Oberbefehlshaber, solange sich mindestens ein Alpha Legion Lord auf dem Schlachtfeld befindet. Der Verband muss einen Alpha Legion Lord enthalten.",
             "points": "75 points"
           }
         ]

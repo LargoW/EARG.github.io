@@ -38,7 +38,7 @@
         "Warp Spiders",
         "Wraithguards",
         "Vyper",
-        "War Walker",
+        "War Geländegängig",
         "Wraithlord",
         "Wave Serpent",
         "Falcon",
@@ -57,7 +57,7 @@
         "Holofields (x)",
         "Lance",
         "Shield Piercer",
-        "Shield Disruptor"
+        "Shield Versprengenor"
       ]
     },
     {
@@ -94,7 +94,7 @@
       "description": "Für jede Aspekt- oder berittene Aspekt-Warhost darf bis zu eine Guardian Warhost gewählt werden.",
       "formations": [
         {
-          "name": "Mounted Aspect Warrior Warhost",
+          "name": "Beritten Aspect Warrior Warhost",
           "units": "Vier Wave Serpents und acht Aspektkrieger-Einheiten aus folgender Auswahl: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions oder Swooping Hawks. Die Formation darf keine unterschiedlichen Aspekte mischen.",
           "extraUnits": [
             "Autarch",
@@ -139,10 +139,10 @@
             "points": 100
           },
           {
-            "name": "War Walker Troupe",
-            "units": "Vier War Walkers",
+            "name": "War Geländegängig Troupe",
+            "units": "Vier War Geländegängigs",
             "extraUnits": [
-                "Füge bis zu zwei War Walkers hinzu: 25 Punkte pro Stück"
+                "Füge bis zu zwei War Geländegängigs hinzu: 25 Punkte pro Stück"
             ],
             "points": 150
           },

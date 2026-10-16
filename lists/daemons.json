@@ -17,14 +17,14 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Reinforced Armour",
-          "Invulnerable Save",
-          "Leader",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
+          "Anführer",
           "Commander",
-          "Inspiring",
+          "Inspirierend",
           "Daemonic Focus",
           "Warp Rift",
-          "Walker",
+          "Geländegängig",
           "Augment Summoning (+D3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
@@ -42,11 +42,11 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
-          "Invulnerable Save",
-          "Inspiring",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
+          "Inspirierend",
           "Daemonic Focus",
-          "Walker",
+          "Geländegängig",
           "Augment Summoning (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
@@ -64,7 +64,7 @@
         ],
         "specialRules": [
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -81,7 +81,7 @@
         ],
         "specialRules": [
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -95,8 +95,8 @@
           "Piercing Claws"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -109,8 +109,8 @@
           "Claws"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -123,10 +123,10 @@
           "Barbed Claws"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save",
-          "Mounted",
-          "Walker"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf",
+          "Beritten",
+          "Geländegängig"
         ]
       },
       {
@@ -142,14 +142,14 @@
         ],
         "specialRules": [
           "Damage Capacity 5",
-          "Reinforced Armour",
-          "Invulnerable Save",
-          "Leader",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
+          "Anführer",
           "Commander",
-          "Inspiring",
+          "Inspirierend",
           "Daemonic Focus",
           "Warp Rift",
-          "Walker",
+          "Geländegängig",
           "Augment Summoning (+D3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
@@ -167,11 +167,11 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Reinforced Armour",
-          "Invulnerable Save",
-          "Inspiring",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
+          "Inspirierend",
           "Daemonic Focus",
-          "Walker",
+          "Geländegängig",
           "Augment Summoning (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
@@ -189,7 +189,7 @@
         ],
         "specialRules": [
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -206,9 +206,9 @@
         ],
         "specialRules": [
           "Daemonic Focus",
-          "Mounted",
-          "Jump Packs",
-          "Invulnerable Save",
+          "Beritten",
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -222,8 +222,8 @@
           "Plagueswords"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -236,8 +236,8 @@
           "Slobbering Affection"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -252,10 +252,10 @@
           "Blight Fly"
         ],
         "specialRules": [
-          "Expendable",
-          "Mounted",
-          "Jump Packs",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Beritten",
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -271,14 +271,14 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Reinforced Armour",
-          "Invulnerable Save",
-          "Leader",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
+          "Anführer",
           "Commander",
-          "Inspiring",
+          "Inspirierend",
           "Daemonic Focus",
           "Warp Rift",
-          "Walker",
+          "Geländegängig",
           "Jump Pack",
           "Augment Summoning (+D3)"
         ],
@@ -297,11 +297,11 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
-          "Invulnerable Save",
-          "Inspiring",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
+          "Inspirierend",
           "Daemonic Focus",
-          "Walker",
+          "Geländegängig",
           "Jump Pack",
           "Augment Summoning (+1)"
         ],
@@ -319,8 +319,8 @@
         ],
         "specialRules": [
             "Daemonic Focus",
-            "Infiltrators",
-          "Invulnerable Save",
+            "Infiltratorens",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -335,10 +335,10 @@
           "Juggernaut"
         ],
         "specialRules": [
-          "Mounted",
-          "Walker",
+          "Beritten",
+          "Geländegängig",
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -352,8 +352,8 @@
           "Hellblades"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -366,8 +366,8 @@
           "Claws and Fangs"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -380,10 +380,10 @@
           "Juggernaut"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save",
-          "Mounted",
-          "Walker"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf",
+          "Beritten",
+          "Geländegängig"
         ]
       },
       {
@@ -399,14 +399,14 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Reinforced Armour",
-          "Invulnerable Save",
-          "Leader",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
+          "Anführer",
           "Commander",
-          "Inspiring",
+          "Inspirierend",
           "Daemonic Focus",
           "Warp Rift",
-          "Walker",
+          "Geländegängig",
           "Jump Pack",
           "Augment Summoning (+D3)"
         ],
@@ -425,11 +425,11 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
-          "Invulnerable Save",
-          "Inspiring",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
+          "Inspirierend",
           "Daemonic Focus",
-          "Walker",
+          "Geländegängig",
           "Jump Pack",
           "Augment Summoning (+1)"
         ],
@@ -447,7 +447,7 @@
         ],
         "specialRules": [
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -462,9 +462,9 @@
           "Violet Fire of Tzeentch"
         ],
         "specialRules": [
-          "Jump Packs",
+          "Sprungmodule",
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -479,8 +479,8 @@
           "Sorcerous Bolts"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -494,8 +494,8 @@
           "Flames of Tzeentch"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -508,9 +508,9 @@
           "Claws and Fangs"
         ],
         "specialRules": [
-          "Expendable",
-          "Jump Packs",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -523,8 +523,8 @@
           "Claws"
         ],
         "specialRules": [
-          "Expendable",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -538,9 +538,9 @@
         ],
         "specialRules": [
           "In Midnight Clad",
-          "Expendable",
-          "Jump Packs",
-          "Invulnerable Save"
+          "Entbehrlich",
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -556,9 +556,9 @@
         ],
         "specialRules": [
           "Daemonic Focus",
-          "Infiltrators",
-          "Walker",
-          "Invulnerable Save"
+          "Infiltratorens",
+          "Geländegängig",
+          "Unmodifizierter Rettungswurf"
         ]
       }
     ]

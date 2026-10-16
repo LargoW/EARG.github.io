@@ -31,7 +31,7 @@
         "Chaos Spawn",
         "Technical",
         "Land Transporter",
-        "Poxwalkers of Nurgle"
+        "PoxGeländegängigs of Nurgle"
       ],
       "unitRules": [
       "Fickle Masters",
@@ -181,8 +181,8 @@
           "points": 325
         },
         {
-          "name": "Poxwalkers of Nurgle",
-          "units": "Seven Poxwalkers",
+          "name": "PoxGeländegängigs of Nurgle",
+          "units": "Seven PoxGeländegängigs",
           "points": 100
         },
         {
@@ -252,7 +252,7 @@
     "description": "Jede Aufwertung darf pro Verband nur einmal gewählt werden. Höchstens 4 verschiedene Aufwertungen pro Verband.",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
