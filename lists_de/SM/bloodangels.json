@@ -4,10 +4,10 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_BloodAngels",
-  "intro": "The following army list allows you to field an army based on the Blood Angels Space Marine chapter or any of its successor chapters. The Blood Angels are well-known across the galaxy for their bloodthirsty nature in battle, and feared for the curse of the flawed gene-seed they carry.",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Blood Angels detachments and Aircraft formations.",
+  "intro": "Diese Armeeliste ermöglicht es dir, eine Armee des Space-Marine-Ordens Blood Angels oder eines seiner Nachfolgeorden aufzustellen. Die Blood Angels sind in der ganzen Galaxis für ihre Blutgier im Kampf bekannt und wegen des Fluchs ihres fehlerhaften Gensaat-Erbes gefürchtet.",
+  "strategy": "Space-Marine-Armeen haben einen Strategiewert von 5.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
+  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Blood Angels-Kontingente und Flugzeugverbände.",
   "specialRules": [
     "Space Marine Transports",
     "Blood Angels Rhinos",
@@ -71,15 +71,15 @@
   ],
   "sections": [
     {
-      "name": "Blood Angels Core Detachments",
+      "name": "Blood Angels Kernkontingente",
       "description": "Es muss ein Death Company-Verband aufgestellt werden.",
       "formations": [
         {
           "name": "1 Death Company",
           "units": "One Chaplain, four Death Company Marines plus transport (Drop Pods or on foot only)",
           "extraUnits": [
-            "Add two Death Company Marines: 75 points",
-            "Add up to two Death Company Dreadnoughts: 75 points each"
+            "Füge 2 Death Company Marines hinzu: 75 Punkte",
+            "Füge bis zu 2 Death Company Dreadnoughts hinzu: 75 Punkte pro Stück"
           ],
           "points": 250
         },
@@ -117,19 +117,19 @@
           "extraUnits": [
             "Commander",
             "Dreadnoughts",
-            "Replace one Assault Terminator with three Stormravens or three Land Raiders: 100 points, or add two Land Raider Redeemers: 100 points"
+            "Ersetze 1 Assault Terminator durch 3 Stormravens oder 3 Land Raiders: 100 Punkte, oder add 2 Land Raider Redeemers: 100 Punkte"
           ],
           "points": 325
         }
       ]
     },
     {
-      "name": "Blood Angels Support Detachments",
+      "name": "Blood Angels Unterstützungskontingente",
       "description": "Pro Kernkontingent dürfen bis zu zwei Unterstützungskontingente aufgestellt werden.",
       "formations": [
         {
           "name": "Baal Predators",
-          "units": "Any four of the following units: Baal Predator Hades, Baal Predator Infernus",
+          "units": "Beliebige vier der folgenden Einheiten: Baal Predator Hades, Baal Predator Infernus",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -160,7 +160,7 @@
         },
         {
           "name": "Land Speeder",
-          "units": "Any five of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "name": "Blood Angels Navy & Titan Legion Allies",
+      "name": "Blood Angels Flotte & Titan Legion Verbündete",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
@@ -195,7 +195,7 @@
           "name": "0-1 Orbital Support",
           "units": "One Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Replace the Vanguard Class Light Cruiser with a Strike Cruiser: 50 points, or a Battle Barge: 125 points"
+            "Ersetze den Vanguard Class Light Cruiser durch a Strike Cruiser: 50 Punkte, oder a Battle Barge: 125 Punkte"
           ],
           "points": 150
         },
@@ -203,7 +203,7 @@
           "name": "Warhounds",
           "units": "One Warhound Titan",
           "extraUnits": [
-            "Add an additional Warhound Titan: 200 points"
+            "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
           ],
           "points": 275
         }
@@ -211,36 +211,36 @@
     }
   ],
   "upgrades": {
-    "title": "Blood Angels Upgrades",
-    "description": "Each upgrade may be taken once per detachment.",
+    "title": "Blood Angels Aufwertungen",
+    "description": "Jede Aufwertung darf pro Kontingent nur einmal gewählt werden.",
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Add any one of the following units to the formation",
+        "description": "Füge eine beliebige der folgenden Einheiten zum Verband hinzu",
         "options": [
           {
-            "description": "Add one Hunter",
+            "description": "Füge 1 Hunter hinzu",
             "points": "75 points"
           },
           {
-            "description": "Add one Stalker",
+            "description": "Füge 1 Stalker hinzu",
             "points": "50 points"
           }
         ]
       },
       {
         "name": "Assaults",
-        "description": "Add two Assaults to the formation",
+        "description": "Füge 2 Assaults zum Verband hinzu",
         "points": "75 points"
       },
       {
         "name": "Attack Bikes",
-        "description": "Replace any number of Assault Bikes with an equal number of Attack Bikes or Melta Bikes",
+        "description": "Ersetze beliebig viele Assault Bikes durch dieselbe Anzahl an Attack Bikes oder Melta Bikes",
         "points": "Free"
       },
       {
         "name": "Commander",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {
             "description": "Captain, Librarian",
@@ -258,42 +258,42 @@
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Dreadnoughts or Furioso Dreadnoughts to the formation",
+        "description": "Füge bis zu 2 Dreadnoughts oder Furioso Dreadnoughts zum Verband hinzu",
         "points": "50 points each"
       },
       {
         "name": "Honor Guards",
-        "description": "In a formation containing a Supreme Commander character: replace up to two Assaults or Tacticals with Sanguinary Guards",
+        "description": "Bei einem Verband mit einem Supreme Commander-Charakter: Ersetze bis zu 2 Assaults oder Tacticals durch Sanguinary Guards.",
         "points": "25 points each"
       },
       {
-        "name": "Land Raider Transport",
-        "description": "Add any number of Land Raiders and/or Land Raider Redeemers, up to the number required to transport the formation",
+        "name": "Land Raider-Transporter",
+        "description": "Füge beliebig viele Land Raiders und/oder Land Raider Redeemers, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": "50 points each"
       },
       {
         "name": "Predators",
-        "description": "Add two Baal Predator Hades or two Baal Predator Infernus",
+        "description": "Füge 2 Baal Predator Hades oder 2 Baal Predator Infernus hinzu",
         "points": "75 points"
       },
       {
         "name": "Razorbacks",
-        "description": "Add any number of Blood Angels Razorbacks, up to the number required to transport the formation",
+        "description": "Füge beliebig viele Blood Angels Razorbacks, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": "25 points each"
       },
       {
         "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Heavy Bolters",
+        "description": "Gib allen Scouts im Verband die Sonderregel „Sniper“ für ihre Heavy Bolters.",
         "points": "25 points"
       },
       {
         "name": "Stormraven Transports",
-        "description": "Add any number of Stormravens, up to the number required to transport the formation",
+        "description": "Füge beliebig viele Stormravens, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": "50 points each"
       },
       {
         "name": "Typhoons",
-        "description": "Replace up to five Land Speeders with an equal number of Land Speeder Typhoons",
+        "description": "Ersetze bis zu 5 Land Speeders durch dieselbe Anzahl an Land Speeder Typhoons",
         "points": "10 points each"
       }
     ]

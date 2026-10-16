@@ -4,8 +4,8 @@
   "version": "1.0.Beta-4",
   "release": "2022-09-29",
   "armyforge": "EAR_ImperialGuard_DKoK",
-  "strategy": "DKoK armies have a Strategy Rating of 2.",
-  "Initiative": "Collegia Titanica formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "DKoK-Armeen haben einen Strategiewert von 2.",
+  "Initiative": "Verbände der Collegia Titanica haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Courage, Discipline and Loyalty",
     "Fortified Positions"
@@ -72,13 +72,13 @@
   ],
   "sections": [
     {
-      "name": "DKoK Core Companies",
+      "name": "DKoK Kernkompanien",
       "formations": [
         {
           "name": "0-1 Death Korps Regimental HQ",
           "units": "One DKoK Supreme Commander with a Commissar, nine Assault Infantry, one Gorgon",
           "extraUnits": [
-            "Add ten Assault Infantry and one Gorgon: 250 points",
+            "Füge ten Assault Infantry und 1 Gorgon hinzu: 250 Punkte",
             "Leman Russ",
             "Bane Wolves"
           ],
@@ -104,8 +104,8 @@
       ]
     },
     {
-      "name": "DKoK Support Formations",
-      "description": "Pro Company Verband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
+      "name": "DKoK Unterstützungsverbände",
+      "description": "Pro Kompanie-Verband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Leman Russ Squadron",
@@ -119,8 +119,8 @@
           "name": "Siege Infantry Company",
           "units": "DKoK Commander with Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
           "extraUnits": [
-            "Add four Rapiers and 16cm Trenches, or three Thudd Guns and 12cm Trenches: 75 points",
-            "Add up to two Snipers: 25 points each"
+            "Füge 4 Rapiers und 16cm Trenches, oder 3 Thudd Guns und 12cm Trenches hinzu: 75 Punkte",
+            "Füge bis zu 2 Snipers hinzu: 25 Punkte pro Stück"
           ],
           "points": 225
         },
@@ -128,8 +128,8 @@
           "name": "Artillery Emplacement",
           "units": "Four Medusa Guns, four Gun Emplacements",
           "extraUnits": [
-            "Replace four Gun Emplacements with four Trojans: Free",
-            "Replace four Medusa Guns with four Earthshaker Guns: 50 points"
+            "Ersetze 4 Gun Emplacements durch 4 Trojans: Free",
+            "Ersetze 4 Medusa Guns durch 4 Earthshaker Guns: 50 Punkte"
           ],
           "points": 225
         },
@@ -137,7 +137,7 @@
           "name": "Flak Emplacement",
           "units": "Four Heavy AA Guns, four Gun Emplacements",
           "upgrades": [
-            "Replace four Gun Emplacements with four Trojans: Free"
+            "Ersetze 4 Gun Emplacements durch 4 Trojans: Free"
           ],
           "points": 175
         },
@@ -166,7 +166,7 @@
           "name": "Super-Heavy Platoon",
           "units": "One Baneblade or Stormsword",
           "extraUnits": [
-              "Replace a Baneblade with a Shadowsword: 25 points"
+              "Ersetze 1 Baneblade durch a Shadowsword: 25 Punkte"
           ],
           "points": 175
         },
@@ -181,7 +181,7 @@
           "name": "Grenadier Company",
           "units": "One DKoK Commander with a Commissar, seven Grenadiers, four Storm Chimeras",
           "extraUnits": [
-            "Replace four Storm Chimeras with a Gorgon: Free",
+            "Ersetze 4 Storm Chimeras durch a Gorgon: Free",
             "Bane Wolf"
           ],
           "points": 325
@@ -196,15 +196,15 @@
       ]
     },
     {
-      "name": "Collegia Titanica & Imperial Navy Allies",
-      "description": "Up to a third of the points available may be spent on Collegia Titanica & Imperial Navy formations",
+      "name": "Collegia Titanica & Imperial Flotte Verbündete",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für Verbände der Collegia Titanica und der Imperialen Flotte ausgegeben werden.",
       "formations": [
         {
           "name": "Warhounds",
           "units": "One Warhound Titan",
           "points": 275,
           "extraUnits": [
-            "Add an additional Warhound Titan: 200 points"
+            "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
           ]
         },
         {
@@ -222,24 +222,24 @@
           "units": "One Lunar Class Cruiser",
           "points": 125,
           "upgrades": [
-            "Replace the Cruiser with an Emperor Class Battleship: 50 points"
+            "Ersetze den Cruiser durch an Emperor Class Battleship: 50 Punkte"
           ]
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "DKoK Upgrades",
+    "title": "DKoK Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Bane Wolf",
-        "description": "Add up to three Bane Wolves",
+        "description": "Füge bis zu 3 Bane Wolves hinzu",
         "points": "25 points each"
       },
       {
         "name": "Leman Russ",
-        "description": "Add three Leman Russ, three Leman Russ Thunderers, or three Leman Russ Annihilators",
+        "description": "Füge 3 Leman Russ, 3 Leman Russ Thunderers, oder 3 Leman Russ Annihilators hinzu",
         "points": "150 points"
       }
     ]

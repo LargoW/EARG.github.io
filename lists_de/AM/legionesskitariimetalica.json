@@ -4,12 +4,12 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_LegionesSkitariiMetalica",
-  "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica formations have an Initiative Rating of 1+. All other formations have a Initiative Rating of 2+.",
+  "strategy": "Die Legiones Skitarii haben einen Strategiewert von 3.",
+  "Initiative": "Verbände der Collegia Titanica haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Skitarii of the Adeptus Mechancius"
+    "Diese Armeeliste ermöglicht es dir, eine Armee der Skitarii des Adeptus Mechanicus aufzustellen."
   ],
   "units": [
     {
@@ -70,14 +70,14 @@
   ],
   "sections": [
     {
-      "name": "Legiones Metalica Core Formations",
+      "name": "Legiones Metalica Kernverbände",
       "formations": [
         {
           "name": "Hypaspist Maniple",
           "units": "One Magos, nine Hypaspists",
           "extraUnits": [
-            "Replace three Hypaspists with three Rapiers: Free",
-            "Replace two Hypaspists with two Sagitarii: 25 points",
+            "Ersetze 3 Hypaspists durch 3 Rapiers: Free",
+            "Ersetze 2 Hypaspists durch 2 Sagitarii: 25 Punkte",
             "Minoris",
             "Supreme Commander",
             "Hypaspist Transport",
@@ -88,15 +88,15 @@
       ]
     },
     {
-      "name": "Legiones Metalica Line Formations",
+      "name": "Legiones Metalica Linienverbände",
       "description": "Pro Kernverband dürfen bis zu drei Metalica Line Verbände aufgestellt werden.",
       "formations": [
         {
           "name": "Ballistae Cohort",
           "units": "Four Sagitarii",
           "extraUnits": [
-            "Replace one unit of Sagitarii with three Rapiers: 25 points",
-            "Add enought Chimeras or Chimedons to transport the formation with no space left over: 25 points each",
+            "Ersetze 1 Einheit von Sagitarii durch 3 Rapiers: 25 Punkte",
+            "Füge enought Chimeras oder Chimedons to transport the formation mit no space left over hinzu: 25 Punkte pro Stück",
             "Hydra"
           ],
           "points": 150
@@ -105,7 +105,7 @@
           "name": "Kastelan Maniple",
           "units": "One Tech-Priest, five Kastelan Robots",
           "extraUnits": [
-            "Add up to two Kastelan Robots for 25 points each"
+            "Füge bis zu 2 Kastelan Robots for 25 Punkte pro Stück hinzu"
           ],
           "points": 175
         },
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "name": "Forge World Navy, Collegia Titanica and Questoris Mechanicus Support",
+      "name": "Forge-World-Flotte, Collegia-Titanica- und Questoris-Mechanicus-Unterstützung",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
@@ -198,17 +198,17 @@
     }
   ],
   "upgrades": {
-    "title": "Legiones Metalica Upgrades",
+    "title": "Legiones Metalica Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",
-        "description": "Replace the Magos with an Magos Dominus",
+        "description": "Ersetze den Magos durch an Magos Dominus",
         "points": "75 points"
       },
       {
-        "name": "Hypaspist Transport",
-        "description": "Add one Gorgon, five Chimeras, or five Chimedons",
+        "name": "Hypaspist-Transporter",
+        "description": "Füge 1 Gorgon, 5 Chimeras, oder 5 Chimedons hinzu",
         "options": [
           {
             "description": "One Gorgon",
@@ -226,32 +226,32 @@
       },
       {
         "name": "Hydra",
-        "description": "Add one Hydra",
+        "description": "Füge 1 Hydra hinzu",
         "points": "50 points"
       },
       {
         "name": "Minoris",
-        "description": "Add one Ordinatus Minoris",
+        "description": "Füge 1 Ordinatus Minoris hinzu",
         "points": "125 points"
       },
       {
         "name": "Minoris Support Weapon",
-        "description": "Upgrade one Minoris to carry a Support Weapon",
+        "description": "Werte 1 Minoris to carry a Support Weapon",
         "points": "25 points"
       },
       {
         "name": "Ordinatus Mars",
-        "description": "Replace the Ordinatus Armageddon with an Ordinatus Mars (Sonic Disruptor)",
+        "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Mars (Sonic Disruptor)",
         "points": "Free"
       },
       {
         "name": "Ordinatus Golgotha",
-        "description": "Replace the Ordinatus Armageddon with an Ordinatus Golgotha (Hellfire Missiles)",
+        "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Golgotha (Hellfire Missiles)",
         "points": "50 points"
       },
       {
         "name": "Tank Hunter",
-        "description": "Upgrade both Warhounds to Tank Hunter Configuration",
+        "description": "Werte beide Warhounds to Tank Hunter Configuration",
         "points": "50 points"
       }
     ]

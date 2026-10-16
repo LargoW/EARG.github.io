@@ -14,7 +14,7 @@
         "specialRules": [
           "Supreme Commander"
         ],
-        "notes": "Has 'Ore Dakka if added to a WE unit, or Power Claw if added to an INF unit"
+        "notes": "Erhält bei Auswahl für eine WE-Einheit \u0027Ore Dakka oder bei Auswahl für eine INF-Einheit eine Power Claw."
       },
       {
         "name": "Mekboy Bad Ork Bikerboy",
@@ -64,7 +64,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Replace one Big Gun weapon with either a Soopagun or Weirdboy Tower. Alternatively the unit may be given [*] D3+1 power fields"
+        "notes": "Ersetze eine Big-Gun-Waffe entweder durch eine Soopagun oder einen Weirdboy Tower. Alternativ kann die Einheit [*] D3+1 Schpezialkraftfelder erhalten."
       },
       {
         "name": "Speed Freek Oddboy",
@@ -286,7 +286,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "One unit of Kommandos. Units may Shoot and Firefight while being transported"
+        "notes": "1 Einheit Kommandos. Einheiten dürfen während des Transports schießen und an Feuergefechten teilnehmen."
       },
       {
         "name": "Warbuggy",
@@ -326,7 +326,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz or Nobz. Units may Shoot and Firefight while being transported, unless an enemy model is in base contact with the transport."
+        "notes": "1 Einheit Boyz oder Nobz. Einheiten dürfen während des Transports schießen und an Feuergefechten teilnehmen, sofern sich kein gegnerisches Modell in Basekontakt mit dem Transporter befindet."
       },
       {
         "name": "Mekboy Speedsta",
@@ -356,7 +356,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Two units of Boyz, Nobz, Flash Gitz, Kommandos or Grotz. Big Gunz takes two spaces each. May carry one unit of Grotz in addition to any other units transported"
+        "notes": "2 Einheiten Boyz, Nobz, Flash Gitz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten darf 1 Einheit Grotz mitgeführt werden."
       },
       {
         "name": "Gunwagon",
@@ -371,7 +371,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Flash Gitz, Kommandos or Grotz"
+        "notes": "1 Einheit Boyz, Nobz, Flash Gitz, Kommandos oder Grotz."
       },
       {
         "name": "Speed Freek Gunwagon",
@@ -386,7 +386,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Kommandos or Grotz"
+        "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
       },
       {
         "name": "Looted Leman Russ/Land Raider",
@@ -402,7 +402,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Kommandos or Grotz"
+        "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
       },
       {
         "name": "Looted Vindicator/Thunderer",
@@ -444,7 +444,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Flash Gitz, Kommandos or Grotz"
+        "notes": "1 Einheit Boyz, Nobz, Flash Gitz, Kommandos oder Grotz."
       },
       {
         "name": "Speed Freek Flakwagon",
@@ -459,7 +459,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Kommandos or Grotz"
+        "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
       },
       {
         "name": "Looted Hydra/Stalker",
@@ -474,7 +474,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Kommandos or Grotz"
+        "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
       },
       {
         "name": "Killa Kan",
@@ -541,7 +541,7 @@
           "Walker",
           "‘Ere we Go"
         ],
-        "notes": "Armed with either three Big Gunz, or two Big Guns and a Kombat 'Ammer"
+        "notes": "Bewaffnet entweder mit drei Big Gunz oder mit zwei Big Guns und einem Kombat \u0027Ammer."
       },
       {
         "name": "Battlefortress",
@@ -558,7 +558,7 @@
           "Damage Capacity 3",
           "Transport"
         ],
-        "notes": "Eight Boyz, Flash Gitz, Nobz, Kommandos, Grotz. Big Gunz takes two spaces each. May carry four units of Grotz in addition to any other units transported.",
+        "notes": "8 Boyz, Flash Gitz, Nobz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grotz-Einheiten mitgeführt werden.",
         "crit": "The Battlefortress is destroyed, all units being carried are killed unless roll they a 6+."
       },
       {
@@ -576,7 +576,7 @@
           "Damage Capacity 3",
           "Transport"
         ],
-        "notes": "Four Boyz, Nobz, Flash Gitz, Kommandos, Grotz. Big Gunz takes two spaces each. May carry two units of Grotz in addition to any other units transported.",
+        "notes": "4 Boyz, Nobz, Flash Gitz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 2 Grotz-Einheiten mitgeführt werden.",
         "crit": "The Gunfortress is destroyed, all units being carried are killed unless roll they a 6+."
       },
       {
@@ -880,7 +880,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "Ten Killa Kans, Warbikes, Boyz, Nobz, Kommandos, Stormboyz, Grotz. Big Gunz, Warbuggies, Skorchas, Deff Dreads takes two spaces each. May carry four units of Grotz in addition to any other units transported",
+        "notes": "10 Killa Kans, Warbikes, Boyz, Nobz, Kommandos, Stormboyz oder Grotz. Big Gunz, Warbuggies, Skorchas und Deff Dreads belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grotz-Einheiten mitgeführt werden.",
         "crit": "The Landa and all units being transported are destroyed."
       },
       {
@@ -899,7 +899,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "Ten Killa Kans, Boyz, Nobz, Kommandos, Stormboyz, Grotz. Deff Dreads and Mega Dreads takes two spaces each. [*] Must start the game loaded into a Blood Axes Kill Kroozer or Battlekroozer. May only enter the game through Planetfall",
+        "notes": "10 Killa Kans, Boyz, Nobz, Kommandos, Stormboyz oder Grotz. Deff Dreads und Mega Dreads belegen jeweils 2 Plätze. [*] Muss das Spiel an Bord eines Blood Axes Kill Kroozer oder Battlekroozer beginnen und darf das Spiel nur durch Planetare Landung betreten.",
         "crit": "The Drop Rok and all units being transported are destroyed"
       },
       {
@@ -932,7 +932,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one Drop Rok and the units carried on it"
+        "notes": "Kann 1 Drop Rok und die darin mitgeführten Einheiten transportieren."
       },
       {
         "name": "Battlekroozer",
@@ -968,7 +968,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport four Drop Roks and the units carried on them"
+        "notes": "Kann 4 Drop Roks und die darin mitgeführten Einheiten transportieren."
       },
 
       {
@@ -1114,7 +1114,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry one unit of Junkas or Nobs. Units may Shoot and Firefight while being transported, unless an enemy model is in base contact with the transport."
+        "notes": "Kann 1 Einheit Junkas oder Nobs transportieren. Einheiten dürfen während des Transports schießen und an Feuergefechten teilnehmen, sofern sich kein gegnerisches Modell in Basekontakt mit dem Transporter befindet."
       },
       {
         "name": "Squiggoth",
@@ -1133,7 +1133,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May carry up to four of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry up to two Grotz in addition to any other units"
+        "notes": "Kann bis zu 4 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 2 Grotz mitgeführt werden."
       },
       {
         "name": "Squiggoth Supa-Lobba",
@@ -1185,7 +1185,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May carry up to eight of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry up to four Grotz in addition to any other units.",
+        "notes": "Kann bis zu 8 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 4 Grotz mitgeführt werden.",
         "crit": "The Gargantuan Squiggoth is killed."
       },
       {
@@ -1206,7 +1206,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May carry up to sixteen of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry up to six Grotz in addition to any other units.",
+        "notes": "Kann bis zu 16 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 6 Grotz mitgeführt werden.",
         "crit": "The Orkeosaurus takes one additional damage, and D3 random units being transported takes a hit."
       },
       {

@@ -4,10 +4,10 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_IronHands",
-  "intro": "The following army list allows you to field an army based on the Iron Hands Space Marine chapter or any of its successor chapters. The Iron Hands are notable for their heavy use of bionics and their reverence for all things mechanical, and thus their close ties to the Adeptus Mechanicus.",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Iron Hands detachments and aircraft formations.",
+  "intro": "Diese Armeeliste ermöglicht es dir, eine Armee des Space-Marine-Ordens Iron Hands oder eines seiner Nachfolgeorden aufzustellen. Die Iron Hands sind für ihren umfangreichen Einsatz von Bionik und ihre Verehrung aller mechanischen Dinge bekannt, was ihre enge Verbindung zum Adeptus Mechanicus erklärt.",
+  "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
+  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Iron Hands-Kontingente und Flugzeugverbände.",
   "specialRules": [
     "Space Marine Transports",
     "They Shall Know No Fear"
@@ -68,11 +68,11 @@
   ],
   "sections": [
     {
-      "name": "Iron Hands Core Detachments",
+      "name": "Iron Hands Kernkontingente",
       "formations": [
         {
           "name": "Dreadnought Clan",
-          "units": "One Iron Hands Captain or Techmarine, four Tacticals plus transport, and any two of the following: Dreadnought, Hellfire Dreadnought, Siege Dreadnought",
+          "units": "Ein Iron Hands Captain oder Techmarine, 4 Tacticals plus Transporter und 2 beliebige der folgenden Einheiten: Dreadnought, Hellfire Dreadnought, Siege Dreadnought",
           "extraUnits": [
             "Anti-Air",
             "Supreme Commander",
@@ -86,7 +86,7 @@
         },
         {
           "name": "Mechanized Clan",
-          "units": "One Iron Hands Captain or Techmarine, four Tacticals plus transport, and any two of the following: Predator Annihilator, Predator Destructor or Vindicator",
+          "units": "Ein Iron Hands Captain oder Techmarine, 4 Tacticals plus Transporter und 2 beliebige der folgenden Einheiten: Predator Annihilator, Predator Destructor oder Vindicator",
           "extraUnits": [
             "Anti-Air",
             "Supreme Commander",
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "name": "Iron Hands Support Detachments",
+      "name": "Iron Hands Unterstützungskontingente",
       "description": "Pro Kernkontingent dürfen zwei Unterstützungskontingente aufgestellt werden",
       "formations": [
         {
@@ -116,7 +116,7 @@
           "name": "Land Raiders",
           "units": "Three Land Raiders",
           "extraUnits": [
-            "Add one Land Raider: 50 points",
+            "Füge 1 Land Raider hinzu: 50 Punkte",
             "Helios",
             "Anti-Air",
             "Vindicators"
@@ -158,7 +158,7 @@
           "name": "Whirlwinds",
           "units": "Three Whirlwinds",
           "extraUnits": [
-            "Add one Whirlwind to the formation: 50 points",
+            "Füge 1 Whirlwind zum Verband hinzu: 50 Punkte",
             "Anti-Air"
           ],
           "points": 225
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "name": "Iron Hands Navy & Collegia Titanica Allies",
+      "name": "Iron Hands Flotte & Collegia Titanica Verbündete",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
@@ -191,7 +191,7 @@
           "name": "Warhound Pack",
           "units": "Two Warhounds - Standard or Support Configuration",
           "extraUnits": [
-            "Upgrade both Warhounds to the Tank Hunter Configuration: 50 points"
+            "Werte beide Warhounds zum Tank Hunter Configuration: 50 Punkte auf"
           ],
           "points": 475
         },
@@ -204,70 +204,70 @@
     }
   ],
   "upgrades": {
-    "title": "Iron Hands Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+    "title": "Iron Hands Aufwertungen",
+    "description": "Jede Aufwertung darf pro Kontingent nur einmal gewählt werden.",
     "items": [
       {
         "name": "Anti-Air",
         "options": [
           {
-            "description": "Choose one of the following:"
+            "description": "Wähle eine der folgenden Optionen:"
           },
           {
-            "description": "Add one Hunter to the formation",
+            "description": "Füge 1 Hunter zum Verband hinzu",
             "points": "75 points"
           },
           {
-            "description": "Add two Hunters to the formation",
+            "description": "Füge 2 Hunters zum Verband hinzu",
             "points": "125 points"
           },
           {
-            "description": "Add up to two Stalkers to the formation",
+            "description": "Füge bis zu 2 Stalkers zum Verband hinzu",
             "points": "50 points each"
           }
         ]
       },
       {
         "name": "Battle Barge",
-        "description": "Replace the Strike Cruiser with a Battle Barge",
+        "description": "Ersetze den Strike Cruiser durch a Battle Barge",
         "points": "75 points"
       },
       {
         "name": "Devastators",
-        "description": "Replace all Tacticals in the formation with Iron Hands Devastators",
+        "description": "Ersetze all Tacticals im Verband durch Iron Hands Devastators",
         "points": "50 points"
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add any two of the following: Dreadnought, Hellfire Dreadnought or Siege Dreadnought",
+        "description": "Füge 2 beliebige der folgenden Einheiten hinzu: Dreadnought, Hellfire Dreadnought oder Siege Dreadnought.",
         "points": "50 points each"
       },
       {
         "name": "Ironclad Dreadnoughts",
-        "description": "Replace up to two Dreadnoughts with Ironclad Dreadnoughts",
+        "description": "Ersetze bis zu 2 Dreadnoughts durch Ironclad Dreadnoughts",
         "points": "25 points each"
       },
       {
         "name": "Venerable Dreadnought",
-        "description": "Add a Venerable Dreadnought character to a Dreadnought of any configuration",
+        "description": "Füge 1 Venerable Dreadnought character zu einem Dreadnought in beliebiger Konfiguration hinzu",
         "points": "50 points"
       },
       {
         "name": "Helios",
-        "description": "Upgrade any number of Land Raiders to Land Raider Helios",
+        "description": "Werte beliebig viele Land Raiders to Land Raider Helios",
         "points": "25 points each"
       },
       {
-        "name": "Supreme Commander (0-1 per army)",
-        "description": "Replace an Iron Hands Captain with an Iron Hands Supreme Commander",
+        "name": "Supreme Commander (0–1 pro Armee)",
+        "description": "Ersetze 1 Iron Hands Captain durch an Iron Hands Supreme Commander",
         "points": "50 points"
       },
       {
         "name": "Transports",
-        "description": "Add any number of Razorbacks or Land Raider variants, up to the number required to transport the formation",
+        "description": "Füge beliebig viele Razorbacks oder Land Raider variants, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "options": [
           {
-            "description": "The formation may take Siege Rhinos instead of Rhinos",
+            "description": "Der Verband darf Siege Rhinos statt Rhinos einsetzen.",
             "points": "25 points"
           },
           {
@@ -294,7 +294,7 @@
       },
       {
         "name": "Vindicators",
-        "description": "Add up to two Vindicators",
+        "description": "Füge bis zu 2 Vindicators hinzu",
         "points": [
           "50 points for one",
           "75 points for two"

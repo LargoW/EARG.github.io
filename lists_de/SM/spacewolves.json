@@ -4,9 +4,9 @@
   "version": "1.0.beta",
   "release": "2024-01-10",
   "armyforge": "EAR_AdeptusAstartes_SpaceWolves",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Space Wolves Packs and Aircraft formations. <i>Pack Mentality</i> applies to all Core and Elite Packs.",
+  "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
+  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Space-Wolves-Packs und Flugzeugverbände. <i>Pack Mentality</i> gilt für alle Kern- und Elite-Packs.",
   "specialRules": [
     "Pack Mentality",
     "Space Marine Transports",
@@ -69,7 +69,7 @@
   ],
   "sections": [
     {
-      "name": "Space Wolves Core Packs",
+      "name": "Space Wolves Kern-Packs",
       "formations": [
         {
           "name": "Hunting Pack",
@@ -88,7 +88,7 @@
           "name": "Blood Claw Assault Pack",
           "units": "Six Blood Claw Assaults",
           "extraUnits": [
-            "Add 'plus transport' to the formation: 25 points",
+            "Füge 'plus transport' zum Verband hinzu: 25 Punkte",
             "Dreadnoughts",
             "Fenrisian Wolves",
             "Wolf Lord Captain"
@@ -116,8 +116,8 @@
       ]
     },
     {
-      "name": "Space Wolf Elite Packs",
-      "description": "Du darfst nicht mehr Elite Packs of any ein type als Hunting Packs aufstellen.",
+      "name": "Space Wolf Elite-Packs",
+      "description": "Du darfst nicht mehr Elite-Packs eines Typs als Hunting Packs aufstellen.",
       "formations": [
         {
           "name": "Long Fang Pack",
@@ -162,21 +162,21 @@
       ]
     },
     {
-      "name": "Space Wolf Support Packs",
-      "description": "Pro Core Pack darf ein Support Pack aufgestellt werden",
+      "name": "Space Wolf Unterstützungs-Packs",
+      "description": "Pro Kern-Pack darf ein Unterstützungs-Pack aufgestellt werden.",
       "formations": [
         {
           "name": "Land Raiders",
           "units": "Three Land Raiders",
           "extraUnits": [
-            "Add one Land Raider: 50 points",
+            "Füge 1 Land Raider hinzu: 50 Punkte",
             "Anti-Air"
           ],
           "points": 275
         },
         {
           "name": "Land Speeders",
-          "units": "Any five of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "name": "Space Wolf Navy & Collegia Titanica Allies",
+      "name": "Space Wolf Flotte & Collegia Titanica Verbündete",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
@@ -241,7 +241,7 @@
           "name": "Warhounds",
           "units": "One Warhound Titan",
           "extraUnits": [
-            "Add one additional Warhound Titan: 200 points"
+            "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
           ],
           "points": 275
         }
@@ -249,12 +249,12 @@
     }
   ],
   "upgrades": {
-    "title": "Space Wolf Upgrades",
-    "description": "Each upgrade may be taken once per pack",
+    "title": "Space Wolf Aufwertungen",
+    "description": "Jede Aufwertung darf pro Pack nur einmal gewählt werden.",
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Add any one of the following units to the formation",
+        "description": "Füge eine beliebige der folgenden Einheiten zum Verband hinzu",
         "options": [
           {
             "description": "Hunter",
@@ -268,12 +268,12 @@
       },
       {
         "name": "Battle Barge",
-        "description": "Replace the Strike Cruiser with a Battle Barge",
+        "description": "Ersetze den Strike Cruiser durch a Battle Barge",
         "points": "75 points"
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two of the following units to the formation",
+        "description": "Füge bis zu 2 der folgenden Einheiten zum Verband hinzu.",
         "options": [
           {
             "description": "Dreadnought",
@@ -287,17 +287,17 @@
       },
       {
         "name": "Exterminators",
-        "description": "Add up to two Leman Russ Exterminators",
+        "description": "Füge bis zu 2 Leman Russ Exterminators hinzu",
         "points": "50 points each"
       },
       {
         "name": "Fenrisian Wolves",
-        "description": "Add up to two Fenrisian Wolves",
+        "description": "Füge bis zu 2 Fenrisian Wolves hinzu",
         "points": "25 points each"
       },
       {
         "name": "Heavy Transports",
-        "description": "Add any number of Razorbacks or Land Raiders, up to the number required to transport the formation",
+        "description": "Füge beliebig viele Razorbacks oder Land Raiders, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "options": [
           {
             "description": "Razorback",
@@ -311,17 +311,17 @@
       },
       {
         "name": "Typhoons",
-        "description": "Replace up to five Land Speeders with an equal number of Land Speeder Typhoons",
+        "description": "Ersetze bis zu 5 Land Speeders durch dieselbe Anzahl an Land Speeder Typhoons",
         "points": "10 points each"
       },
       {
         "name": "Wolf Lord Captain",
-        "description": "Add one Wolf Lord Captain to the formation",
+        "description": "Füge 1 Wolf Lord Captain zum Verband hinzu",
         "points": "25 points"
       },
       {
         "name": "0-1 Supreme Commander",
-        "description": "Replace a Wolf Lord Captain with a Great Wolf Supreme Commander",
+        "description": "Ersetze 1 Wolf Lord Captain durch a Great Wolf Supreme Commander",
         "points": "50 points"
       }
     ]

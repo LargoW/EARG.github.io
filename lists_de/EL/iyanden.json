@@ -4,9 +4,9 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Eldar_Iyanden",
-  "intro": "The following army list allows you to field an Eldar army form the Iyanden Craftworld.",
-  "strategy": "Craftworld Iyanden armies have a Strategy Rating of 4.",
-  "Initiative": "Aspect Warrior formations, Titans, Wraithknights and the Avatar have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "intro": "Mit der folgenden Armeeliste kannst du eine Eldar-Armee des Weltenschiffs Iyanden aufstellen.",
+  "strategy": "Armeen des Weltenschiffs Iyanden haben einen Strategiewert von 4.",
+  "Initiative": "Aspect Warrior formations, Titanen, Wraithknights und der Avatar haben einen Initiativewert von 1+. Alle anderen Formationen haben einen Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Iyanden)",
     "May not Garrison (Iyanden)",
@@ -74,41 +74,41 @@
   ],
   "sections": [
     {
-      "name": "Iyanden Special",
+      "name": "Iyanden-Spezialregeln",
       "formations": [
         {
           "name": " 1 Avatar",
-          "units": "One Avatar",
+          "units": "Ein Avatar",
           "points": 0
         },
         {
           "name": "0-1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
           "points": 50
         }
       ]
     },
     {
-      "name": "Iyanden Wraithhosts",
+      "name": "Iyanden-Wraithhosts",
       "formations": [
         {
           "name": "Spirit Guard Wraithhost",
-          "units": "One Wraithguards with a Spiritseer character, three Wraithguards",
+          "units": "Ein Wraithguards with a Spiritseer character, drei Wraithguards",
           "extraUnits": [
             "Wraithguards",
             "Wraithlords",
-            "Add four Wave Serpents: 150 points (may only be taken if the entire formation can fit inside)",
+            "Füge vier Wave Serpents hinzu: 150 Punkte (may only be taken if die gesamte Formation can fit inside)",
             "Wraithseer"
           ],
           "points": 250
         },
         {
           "name": "Spirit Blade Wraithhost",
-          "units": "One Wraithblades with a Spiritseer character, three Wraithblades",
+          "units": "Ein Wraithblades with a Spiritseer character, drei Wraithblades",
           "extraUnits": [
             "Wraithguards",
             "Wraithlords",
-            "Add four Wave Serpents: 150 points (may only be taken if the entire formation can fit inside)",
+            "Füge vier Wave Serpents hinzu: 150 Punkte (may only be taken if die gesamte Formation can fit inside)",
             "Wraithseer"
           ],
           "points": 200
@@ -116,21 +116,21 @@
       ]
     },
     {
-      "name": "Iyanden Troupes",
-      "description": "Up to two for each Iyanden Wraithhost taken",
+      "name": "Iyanden-Troupes",
+      "description": "Bis zu zwei für jede gewählte Iyanden Wraithhost.",
       "formations": [
           {
             "name": "Guardians",
-            "units": "One Farseer unit and seven Guardians",
+            "units": "Ein Farseer Einheit und sieben Guardians",
             "extraUnits": [
               "Heavy Weapons, Support Weapons, Wraithguards, Wraithblades, Wraithlords.",
-              "Add four Wave Serpents: 150 points (may only be taken if the entire formation can fit inside)"
+              "Füge vier Wave Serpents hinzu: 150 Punkte (may only be taken if die gesamte Formation can fit inside)"
             ],
             "points": 150
         },
         {
           "name": "Aspect Warrior Troupe",
-          "units": "Six Aspect Warriors chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks, Warp Spiders",
+          "units": "Sechs Aspektkrieger aus folgender Auswahl: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks, Warp Spiders",
           "extraUnits": [
             "Exarch"
           ],
@@ -138,52 +138,52 @@
         },
         {
           "name": "Engines of Vaul Troupe",
-          "units": "One Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul aus folgender Auswahl: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
-            "Add up to two additional Engines of Vaul (Cobra, Scorpion, Storm Serpent): 200 points each"
+            "Füge bis zu zwei zusätzliche Engines of Vaul hinzu: 200 Punkte pro Stück (Cobra, Scorpion oder Storm Serpent)."
           ],
           "points": 250
         },
         {
           "name": "Swords of Vaul",
-          "units": "Five Falcons",
+          "units": "Fünf Falcons",
           "extraUnits": [
-            "Replace up to two Falcons with Firestorms: Free"
+            "Ersetze bis zu two Falcons durch Firestorms: kostenlos"
           ],
           "points": 250
         },
         {
           "name": "Fire Prism Troupe",
-          "units": "Three Fire Prisms",
+          "units": "Drei Fire Prisms",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Night Spinner Troupe",
-          "units": "Three Night Spinners",
+          "units": "Drei Night Spinners",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Rangers",
-          "units": "Four Eldar Rangers",
+          "units": "Vier Eldar Rangers",
           "extraUnits": [
           ],
           "points": 100
         },
         {
           "name": "War Walker Troupe",
-          "units": "Four War Walkers",
+          "units": "Vier War Walkers",
           "extraUnits": [
-              "Add up to two War Walkers: 25 points each"
+              "Füge bis zu zwei War Walkers hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
         },
       {
         "name": "Spirit Walker Troupe",
-        "units": "Four Wraithlords",
+        "units": "Vier Wraithlords",
         "extraUnits": [
         ],
         "points": 250
@@ -191,20 +191,20 @@
       ]
     },
     {
-      "name": "Iyanden Aircraft, Spacecraft and Titans",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Iyanden-Flugzeuge, Raumschiffe und Titanen",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Formationen ausgegeben werden.",
       "formations": [
         {
           "name": "Nightwing Aerie",
-          "units": "Two Nightwing Interceptors",
+          "units": "Zwei Nightwing Interceptors",
           "extraUnits": [
-            "Add one Nightwing Interceptor: 75 Points"
+            "Füge 1 Nightwing Interceptor hinzu: 75 Punkte"
           ],
           "points": 225
         },
         {
           "name": "Hemlock Aerie",
-          "units": "Two Hemlock Wraithfighters",
+          "units": "Zwei Hemlock Wraithfighters",
           "extraUnits": [
           ],
           "points": 250
@@ -212,37 +212,37 @@
 
         {
           "name": "Vampire",
-          "units": "One Vampire Raider",
+          "units": "Ein Vampire Raider",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Wraithknights",
-          "units": "Two Wraithknights (may not mix configurations)",
+          "units": "Zwei Wraithknights (darf nicht mischen configurations)",
           "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "Revenants",
-          "units": "Two Revenant Titans",
+          "units": "Zwei Revenant Titans",
           "extraUnits": [
           ],
           "points": 650
         },
         {
           "name": "Phantom",
-          "units": "One Phantom Titan",
+          "units": "Ein Phantom Titan",
           "extraUnits": [
           ],
           "points": 700
         },
         {
           "name": "0-1 Spacecraft",
-          "units": "One Wraithship",
+          "units": "Ein Wraithship",
           "extraUnits": [
-            "Replace with a Dragonship: 150 Points"
+            "Ersetze durch ein Dragonship: 150 Punkte"
           ],
           "points": 150
         }
@@ -255,42 +255,42 @@
     "items": [
       {
         "name": "0-1 Wraithseer",
-        "description": "Replace one Spiritseer character and its unit with a Wraithseer",
+        "description": "Ersetze einen Spiritseer und seine Einheit durch einen Wraithseer",
         "points": "100 points"
       },
       {
         "name": "Exarch",
-        "description": "Add one Eldar Exarch character to an Eldar Aspect Warrior unit",
+        "description": "Füge 1 Eldar Exarch character to an Eldar Aspect Warrior unit hinzu",
         "points": "25 points"
       },
       {
         "name": "Vypers",
-        "description": "Replace any number of Eldar Jetbikes with Eldar Vypers",
+        "description": "Ersetze any number of Eldar Jetbikes durch Eldar Vypers",
         "points": "Free"
       },
       {
         "name": "Heavy Weapons",
-        "description": "Replace up to three Eldar Guardians with Eldar Heavy Weapon Platforms",
+        "description": "Ersetze bis zu drei Eldar Guardians durch Eldar Heavy Weapon Platforms",
         "points": "Free"
       },
       {
         "name": "Support Weapons",
-        "description": "Replace up to three Eldar Guardians with with Eldar Support Weapon Platforms (all armed with the same weapon).",
+        "description": "Ersetze bis zu drei Eldar Guardians durch with Eldar Support Weapon Platforms (all armed durch the same weapon).",
         "points": "25 points each"
       },
       {
         "name": "Wraithguard",
-        "description": "Add two Eldar Wraithguards",
+        "description": "Füge zwei Eldar Wraithguards hinzu",
         "points": "75 points"
       },
       {
         "name": "Wraithblades",
-        "description": "Add two Eldar Wraithblades",
+        "description": "Füge zwei Eldar Wraithblades hinzu",
         "points": "50 points"
       },
       {
         "name": "Wraithlords",
-        "description": "Add up to three Eldar Wraithlords",
+        "description": "Füge bis zu drei Eldar Wraithlords hinzu",
         "points": "50 points each"
       }
     ]

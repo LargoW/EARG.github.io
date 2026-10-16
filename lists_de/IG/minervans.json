@@ -4,8 +4,8 @@
   "version": "1.0.Beta-2",
   "release": "2022-09-29",
   "armyforge": "EAR_ImperialGuard_Minervans",
-  "strategy": "Minervan Tank Legion armies have a Strategy Rating of 2.",
-  "Initiative": "All formations have an Initiative Rating of 2+.",
+  "strategy": "Minervan Tank Legion-Armeen haben einen Strategiewert von 2.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Courage, Discipline and Loyalty"
   ],
@@ -68,14 +68,14 @@
   ],
   "sections": [
     {
-      "name": "Minervan Company Formations",
+      "name": "Minervan Kompanie Verbände",
       "formations": [
         {
           "name": "Minervan Tank Company",
           "units": "One Leman Russ Vanquisher with a Commissar-Captain, seven Leman Russ",
           "extraUnits": [
-            "Replace seven Leman Russ with seven Leman Russ Thunderers: Free",
-            "Replace the Leman Russ Vanquisher with a Leman Russ Thunderer: Free",
+            "Ersetze seven Leman Russ durch seven Leman Russ Thunderers: Free",
+            "Ersetze den Leman Russ Vanquisher durch a Leman Russ Thunderer: Free",
             "Supreme Commander",
             "Flak",
             "Hellhounds"
@@ -86,7 +86,7 @@
           "name": "Minervan Super-Heavy Company",
           "units": "Three Baneblades, Stormblades, Stormswords, and/or Shadowswords, one with a Commissar-Captain",
           "extraUnits": [
-            "Upgrade one Baneblade to a Stormhammer: 25 points",
+            "Werte 1 Baneblade zu einem Stormhammer: 25 Punkte auf",
             "Supreme Commander",
             "Flak",
             "Leman Russ"
@@ -97,7 +97,7 @@
           "name": "Artillery Company",
           "units": "Six Basilisks, one with a Commissar-Captain",
           "extraUnits": [
-            "Replace six Basilisks with six Manticores: 50 points",
+            "Ersetze 6 Basilisks durch 6 Manticores: 50 Punkte",
             "Supreme Commander",
             "Flak"
           ],
@@ -106,14 +106,14 @@
       ]
     },
     {
-      "name": "Minervan Support Formations",
-      "description": "Pro Minervan Company dürfen bis zu drei Unterstützungsverbände aufgestellt werden.",
+      "name": "Minervan Unterstützungsverbände",
+      "description": "Pro Minervan-Kompanie dürfen bis zu drei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Leman Russ Squadron",
           "units": "Four Leman Russ",
           "extraUnits": [
-            "Replace four Leman Russ with four Leman Russ Executioners, four Leman Russ Exterminators, four Leman Russ Demolishers, four Leman Russ Punishers, four Leman Russ Thunderers, or four Leman Russ Conquerors",
+            "Ersetze 4 Leman Russ durch 4 Leman Russ Executioners, 4 Leman Russ Exterminators, 4 Leman Russ Demolishers, 4 Leman Russ Punishers, 4 Leman Russ Thunderers, oder 4 Leman Russ Conquerors",
             "Hellhounds",
             "Flak"
           ],
@@ -132,7 +132,7 @@
           "name": "Artillery Battery",
           "units": "Three Basilisks, three Bombards or four Medusa",
           "extraUnits": [
-            "Replace three Basilisks with three Manticores: 25 points"
+            "Ersetze 3 Basilisks durch 3 Manticores: 25 Punkte"
           ],
           "points": 225
         },
@@ -154,7 +154,7 @@
           "name": "Super-Heavy Platoon",
           "units": "One Baneblade, Stormsword, Shadowsword, or Stormblade",
           "extraUnits": [
-              "Replace a Baneblade with a Shadowsword: 25 points"
+              "Ersetze 1 Baneblade durch a Shadowsword: 25 Punkte"
           ],
           "points": 175
         },
@@ -182,14 +182,14 @@
       ]
     },
     {
-      "name": "Collegia Titanica and Imperial Navy Formations",
+      "name": "Collegia-Titanica- und Imperial-Flottenverbände",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Collegia Titanica und der Imperiale Flotte Verbände ausgegeben werden",
       "formations": [
         {
           "name": "Warhounds",
           "units": "One Warhound Titan",
           "extraUnits": [
-            "Add an additional Warhound Titan: 200 points"
+            "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
           ],
           "points": 275
         },
@@ -208,39 +208,39 @@
           "units": "One Lunar Class Cruiser",
           "points": 125,
           "extraUnits": [
-            "Replace the Lunar Class Cruiser with an Emperor Class Battleship: 50 points"
+            "Ersetze den Lunar Class Cruiser durch an Emperor Class Battleship: 50 Punkte"
           ]
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Minervan Tank Legion Upgrades",
+    "title": "Minervan Tank Legion Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",
-        "description": "Replace one Commissar-Captain in the army with a Lord Commissar",
+        "description": "Ersetze 1 Commissar-Captain in der Armee durch a Lord Commissar",
         "points": "75 points"
       },
       {
         "name": "Griffons",
-        "description": "Add three Griffons",
+        "description": "Füge 3 Griffons hinzu",
         "points": "50 points"
       },
       {
         "name": "Leman Russ",
-        "description": "Add three Leman Russ, Leman Russ Executioners, Leman Russ Exterminators, Leman Russ Demolishers, Leman Russ Punishers, Leman Russ Thunderers, or Leman Russ Conquerors",
+        "description": "Füge 3 Leman Russ, Leman Russ Executioners, Leman Russ Exterminators, Leman Russ Demolishers, Leman Russ Punishers, Leman Russ Thunderers, oder Leman Russ Conquerors hinzu",
         "points": "150 points"
       },
       {
         "name": "Hellhounds",
-        "description": "Add up to three Hellhounds",
+        "description": "Füge bis zu 3 Hellhounds hinzu",
         "points": "25 points each"
       },
       {
         "name": "Flak",
-        "description": "Add one Hydra",
+        "description": "Füge 1 Hydra hinzu",
         "points": "50 points"
       }
     ]

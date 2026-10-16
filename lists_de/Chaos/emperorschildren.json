@@ -4,9 +4,9 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_EmperorsChildren",
-  "intro": "The following army list allows you to field an army based on the Emperor's Children Traitor Legion. The Emperor's Children are a fast moving, agile army relying on daemons to bolster their relatively small formations.",
-  "strategy": "Chaos Space Marine armies have a Strategy Rating of 4.",
-  "Initiative": "All Emperor's Children Core, Support and the Chosen formation have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "intro": "Diese Armeeliste ermöglicht es dir, eine Armee der Verräterlegion Emperor's Children aufzustellen. Die Emperor's Children sind eine schnelle, bewegliche Armee, die ihre relativ kleinen Verbände durch Dämonen verstärkt.",
+  "strategy": "Chaos Space Marine-Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Alle Emperor's-Children-Kern- und Unterstützungsverbände sowie der Chosen-Verband haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Summoning",
     "Emperor's Children Summoning Rules",
@@ -81,7 +81,7 @@
   ],
   "sections": [
     {
-      "name": "Emperor's Children Core Formations",
+      "name": "Emperor's Children Kernverbände",
       "formations": [
         {
           "name": "Emperor's Children Retinue",
@@ -112,14 +112,14 @@
       }      ]
     },
     {
-      "name": "Emperor's Children Elite Formations",
+      "name": "Emperor's Children Eliteverbände",
       "description": "Pro Kernverband darf ein Eliteverband aufgestellt werden",
       "formations": [
         {
           "name": "Chosen",
           "units": "Four Chosen, two Emperor's Children Rhinos, Daemonic Pact",
           "extraUnits": [
-              "Replace two Emperor's Children Rhinos with two Emperor's Children Dreadnoughts: 75 points"
+              "Ersetze 2 Emperor's Children Rhinos durch 2 Emperor's Children Dreadnoughts: 75 Punkte"
           ],
           "points": 175
       },
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "name": "Emperor's Children Support Formations",
+      "name": "Emperor's Children Unterstützungsverbände",
       "description": "Pro Kernverband dürfen zwei Unterstützungsverbände aufgestellt werden",
       "formations": [
         {
@@ -156,7 +156,7 @@
           "name": "Armoured Company",
           "units": "Four Emperor's Children Predators",
           "extraUnits": [
-            "Replace four Emperor's Children Predators with four Emperor's Children Land Raiders: 50 points",
+            "Ersetze 4 Emperor's Children Predators durch 4 Emperor's Children Land Raiders: 50 Punkte",
             "Stalker"
           ],
           "points": 225
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "Dark Mechanicus Daemon Engines and Chaos Navy",
+      "name": "Dark-Mechanicus-Dämonenmaschinen und Chaos-Flotte",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "name": "Daemon Pool",
+      "name": "Dämonenpool",
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
@@ -232,75 +232,75 @@
     }
   ],
   "upgrades": {
-    "title": "Emperor's Children Upgrades",
+    "title": "Emperor's Children Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
         {
           "name": "Battleship",
-          "description": "Replace the Devastation Class Cruiser with a Despoiler Class Battleship",
+          "description": "Ersetze den Devastation Class Cruiser durch a Despoiler Class Battleship",
           "points": "50 points"
         },
       {
         "name": "0-1 Supreme Commander",
-        "description": "Choose one of the following:",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Replace the Noise Lord with a Noise Warlord",
+            "description": "Ersetze den Noise Lord durch a Noise Warlord",
             "points": "50 points"
           },
           {
-            "description": "Replace the Noise Lord and its unit with a Daemon Prince of Slaanesh",
+            "description": "Ersetze den Noise Lord und seine Einheit durch einen Daemon Prince of Slaanesh.",
             "points": "100 points"
           }
         ]
       },
       {
-        "name": "Retinue Transport",
-        "description": "Add Rhinos or Land Raiders to the formation, up to the number required to transport all infantry units in the formation",
+        "name": "Retinue-Transporter",
+        "description": "Füge Rhinos oder Land Raiders zum Verband, bis zu die erforderliche Anzahl um die gesamte Infanterie zu transportieren Einheiten im Verband hinzu",
         "options": [
           {
-            "description": "Add up to three Emperor's Children Rhinos",
+            "description": "Füge bis zu 3 Emperor's Children Rhinos hinzu",
             "points": "10 points each"
           },
           {
-            "description": "Add up to three Emperor's Children Land Raiders",
+            "description": "Füge bis zu 3 Emperor's Children Land Raiders hinzu",
             "points": "50 points each"
           }
         ]
       },
       {
-        "name": "Terminator Transport",
-        "description": "Replace one Sirenshriek Terminator with three Emperor's Children Land Raiders",
+        "name": "Terminator-Transporter",
+        "description": "Ersetze 1 Sirenshriek Terminator durch 3 Emperor's Children Land Raiders",
         "points": "100 points"
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Emperor's Children Dreadnoughts to the formation",
+        "description": "Füge bis zu 2 Emperor's Children Dreadnoughts zum Verband hinzu",
         "points": "50 points each"
       },
       {
         "name": "Champion",
-        "description": "Add one Champion of Chaos character to the formation",
+        "description": "Füge einen Champion of Chaos-Charakter zum Verband hinzu.",
         "points": "50 points"
       },
       {
         "name": "Stalker",
-        "description": "Add one Chaos Stalker to the formation",
+        "description": "Füge 1 Chaos Stalker zum Verband hinzu",
         "points": "50 points"
       },
       {
         "name": "Predators",
-        "description": "Add up to two Emperor's Children Predators",
+        "description": "Füge bis zu 2 Emperor's Children Predators hinzu",
         "points": "50 points each"
       },
       {
         "name": "Dreadclaws",
-        "description": "Transport a formation containing only infantry units and Dreadnoughts in Dreadclaws (formation must be deployed on a spacecraft)",
+        "description": "Transportiere einen Verband, der ausschließlich Infanterieeinheiten und Dreadnoughts enthält, in Dreadclaws (der Verband muss auf einem Raumschiff aufgestellt werden).",
         "points": "5 points per unit"
       },
       {
         "name": "Noise Marine Havocs",
-        "description": "Replace three Noise Marines with three Noise Marine Havocs",
+        "description": "Ersetze 3 Noise Marines durch 3 Noise Marine Havocs",
         "points": "25 points"
       }
     ]

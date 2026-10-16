@@ -3,13 +3,13 @@
   "army": "Legiones Skitarii: Mars",
   "version": "0.7.0",
   "release": "2022-04-01",
-  "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica formations have an Initiative Rating of 1+. All other formations have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
+  "strategy": "Die Legiones Skitarii haben einen Strategiewert von 3.",
+  "Initiative": "Verbände der Collegia Titanica haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+. Außerdem unterliegt der Questoris-Banner-Verband der Sonderregel „Chivalry“. ",
   "specialRules": [
     "Tunnelers"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Skitarii of the Adeptus Mechancius"
+    "Diese Armeeliste ermöglicht es dir, eine Armee der Skitarii des Adeptus Mechanicus aufzustellen."
   ],
   "units": [
     {
@@ -71,15 +71,15 @@
   ],
   "sections": [
     {
-      "name": "Legiones Mars Core Formations",
+      "name": "Legiones Mars Kernverbände",
       "formations": [
         {
           "name": "Vanguard Maniple",
           "units": "One Magos, nine Skitarii Vanguards",
           "extraUnits": [
-            "Replace four Skitarii Vanguards with four Rapiers: Free",
-            "Add up to two Onager Dunecrawlers: 50 points each",
-            "Add up to two Skorpius Disintegrators: 50 points each",
+            "Ersetze 4 Skitarii Vanguards durch 4 Rapiers: Free",
+            "Füge bis zu 2 Onager Dunecrawlers hinzu: 50 Punkte pro Stück",
+            "Füge bis zu 2 Skorpius Disintegrators hinzu: 50 Punkte pro Stück",
             "Supreme Commander",
             "Vanguard Transport"
           ],
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": "Legiones Mars Line Formations",
+      "name": "Legiones Mars Linienverbände",
       "description": "Pro Kernverband dürfen bis zu drei Mars Line Verbände aufgestellt werden.",
       "formations": [
         {
@@ -107,7 +107,7 @@
           "name": "Ranger Cohort",
           "units": "Four Skitarii Rangers",
           "extraUnits": [
-            "Add two Scorpius Duneriders, or three Rapiers: 50 points"
+            "Füge 2 Scorpius Duneriders, oder 3 Rapiers hinzu: 50 Punkte"
           ],
           "points": 150
         },
@@ -115,7 +115,7 @@
           "name": "Kastelan Maniple",
           "units": "One Tech-Priest, five Kastelan Robots",
           "extraUnits": [
-            "Add up to two Kastelan Robots for 25 points each"
+            "Füge bis zu 2 Kastelan Robots for 25 Punkte pro Stück hinzu"
           ],
           "points": 175
         },
@@ -134,7 +134,7 @@
           "name": "Skorpius Maniple",
           "units": "Four Skorpius Disintegrators",
           "extraUnits": [
-            "Add up to two Skorpius Disintegrators: 50 points each"
+            "Füge bis zu 2 Skorpius Disintegrators hinzu: 50 Punkte pro Stück"
           ],
           "points": 225
         },
@@ -142,7 +142,7 @@
           "name": "Minoris Cohort",
           "units": "Two Ordinatus Minoris",
           "extraUnits": [
-            "Add one Ordinatus Minoris: 125 points",
+            "Füge 1 Ordinatus Minoris hinzu: 125 Punkte",
             "Support Weapon"
           ],
           "points": 325
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "Forge World Navy, Collegia Titanica and Questoris Mechanicus Support",
+      "name": "Forge-World-Flotte, Collegia-Titanica- und Questoris-Mechanicus-Unterstützung",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
@@ -197,23 +197,23 @@
     }
   ],
   "upgrades": {
-    "title": "Legiones Mars Upgrades",
+    "title": "Legiones Mars Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",
         "options": [
           {
-            "description": "Replace the Magos with a Magos Dominus",
+            "description": "Ersetze den Magos durch a Magos Dominus",
             "points": "75 points"
           }
         ]
       },
       {
-        "name": "Vanguard Transport",
+        "name": "Vanguard-Transporter",
         "options": [
           {
-            "description": "Add one Gorgon, five Skorpius Duneriders, or five Termites (must enter the battlefield by tunneling)",
+            "description": "Füge 1 Gorgon, 5 Skorpius Duneriders, oder 5 Termites (muss durch Graben das Schlachtfeld betreten) hinzu",
             "points": [
               "Termites: 75 points",
               "Gorgon: 100 points",
@@ -226,7 +226,7 @@
         "name": "Minoris Support Weapon",
         "options": [
           {
-            "description": "Upgrade one Minoris to carry a Support Weapon",
+            "description": "Werte 1 Minoris to carry a Support Weapon",
             "points": "25 points"
           }
         ]
@@ -235,7 +235,7 @@
         "name": "Ordinatus Mars",
         "options": [
           {
-            "description": "Replace the Ordinatus Armageddon with an Ordinatus Mars (Sonic Disruptor)",
+            "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Mars (Sonic Disruptor)",
             "points": "Free"
           }
         ]
@@ -244,7 +244,7 @@
         "name": "Ordinatus Golgotha",
         "options": [
           {
-            "description": "Replace the Ordinatus Armageddon with an Ordinatus Golgotha (Hellfire Missiles)",
+            "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Golgotha (Hellfire Missiles)",
             "points": "50 points"
           }
         ]
@@ -253,7 +253,7 @@
         "name": "Tank Hunter",
         "options": [
           {
-            "description": "Upgrade both Warhounds to Tank Hunter Configuration",
+            "description": "Werte beide Warhounds to Tank Hunter Configuration",
             "points": "50 points"
           }
         ]

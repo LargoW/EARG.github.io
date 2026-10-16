@@ -4,8 +4,8 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_WorldEaters",
-  "strategy": "Chaos Space Marine armies have a Strategy Rating of 4.",
-  "Initiative": "All World Eaters Core and Elite formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Chaos Space Marine-Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Alle Kern- und Eliteverbände der World Eaters haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Summoning",
     "World Eaters Summoning Rules",
@@ -14,7 +14,7 @@
     "World Eaters Characters"
   ],
   "intro": [
-    "The following army list allows you to field an army based on the World Eaters Traitor Legion. The World Eaters cast away most of their long ranged weaponry to specialize in close combat as favored by their deity."
+    "Diese Armeeliste ermöglicht es dir, eine Armee der Verräterlegion World Eaters aufzustellen. Die World Eaters verzichten auf den Großteil ihrer Fernkampfwaffen, um sich auf den Nahkampf zu spezialisieren, wie es ihre Gottheit verlangt."
   ],
   "units": [
     {
@@ -87,13 +87,13 @@
   ],
   "sections": [
     {
-      "name": "World Eaters Core Formations",
+      "name": "World Eaters Kernverbände",
       "formations": [
         {
           "name": "World Eaters Retinue",
           "units": "One Chaos Lord, four Khorne Berzerkers, four World Eaters Assault Marines, four World Eaters Rhinos, Daemonic Pact",
           "extraUnits": [
-            "Add two Berzerker Dreadnoughts: 75 points",
+            "Füge 2 Berzerker Dreadnoughts hinzu: 75 Punkte",
             "Supreme Commander",
             "Berzerker Transport",
             "Champion",
@@ -107,7 +107,7 @@
           "name": "Skullseeker Terminators",
           "units": "One Chaos Lord, four Skullseeker Terminators, Daemonic Pact",
           "extraUnits": [
-            "Add up to two Mutilators: 50 points each",
+            "Füge bis zu 2 Mutilators hinzu: 50 Punkte pro Stück",
             "Supreme Commander",
             "Skullseeker Transport",
             "Champion",
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "World Eaters Elite Formations",
+      "name": "World Eaters Eliteverbände",
       "description": "Pro Kernverband darf ein Eliteverband aufgestellt werden.",
       "formations": [
         {
@@ -132,7 +132,7 @@
           "name": "Chaos Space Marines",
           "units": "Six Chaos Space Marines, three World Eaters Rhinos, Daemonic Pact",
           "extraUnits": [
-            "Replace three World Eaters Rhinos with three Chaos Land Raiders: 125 points",
+            "Ersetze 3 World Eaters Rhinos durch 3 Chaos Land Raiders: 125 Punkte",
             "Stalker",
             "Vindicators"
           ],
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "World Eaters Support Formations",
+      "name": "World Eaters Unterstützungsverbände",
       "description": "Pro Kernverband dürfen zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
@@ -175,7 +175,7 @@
           "name": "Khorne Defiler Pack",
           "units": "Four Slaughterfiends",
           "extraUnits": [
-              "Add up to three Slaughterfiends: 50 points each"
+              "Füge bis zu 3 Slaughterfiends hinzu: 50 Punkte pro Stück"
           ],
           "points": 250
         },
@@ -196,14 +196,14 @@
       ]
     },
     {
-      "name": "War Engines and Chaos Navy Formations",
+      "name": "Kriegsmaschinen- und Chaos-Flottenverbände",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
           "name": "Greater Brass Scorpions",
           "units": "One Greater Brass Scorpion",
           "extraUnits": [
-            "Add up to two Greater Brass Scorpions: 175 points each"
+            "Füge bis zu 2 Greater Brass Scorpions hinzu: 175 Punkte pro Stück"
           ],
           "points": 225
         },
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "name": "Daemon Pool",
+      "name": "Dämonenpool",
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
@@ -259,77 +259,77 @@
     }
   ],
   "upgrades": {
-    "title": "World Eaters Upgrades",
+    "title": "World Eaters Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Battleship",
-        "description": "Replace the Devastation Class Cruiser with a Despoiler Class Battleship",
+        "description": "Ersetze den Devastation Class Cruiser durch a Despoiler Class Battleship",
         "points": "50 points"
       },
       {
         "name": "0-1 Supreme Commander",
-        "description": "Choose one of the following:",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Replace the Chaos Lord with a Warlord",
+            "description": "Ersetze den Chaos Lord durch a Warlord",
             "points": "50 points"
           },
           {
-            "description": "Replace the Chaos Lord and its unit with a Daemon Prince of Khorne",
+            "description": "Ersetze den Chaos Lord und seine Einheit durch einen Daemon Prince of Khorne.",
             "points": "100 points"
           }
         ]
       },
       {
-        "name": "Berzerker Transport",
+        "name": "Berzerker-Transporter",
         "options": [
           {
-            "description": "Replace four Chaos Rhinos with Dreadclaws",
+            "description": "Ersetze 4 Chaos Rhinos durch Dreadclaws",
             "points": "Free"
           },
           {
-            "description": "Replace four Chaos Rhinos with two Chaos Spartan Assault Tanks",
+            "description": "Ersetze 4 Chaos Rhinos durch 2 Chaos Spartan Assault Tanks",
             "points": "100 points"
           }
         ]
       },
       {
-        "name": "Skullseeker Transport",
+        "name": "Skullseeker-Transporter",
         "options": [
           {
-            "description": "Add Dreadclaws to the formation",
+            "description": "Füge Dreadclaws zum Verband hinzu",
             "points": "Free"
           },
           {
-            "description": "Add two Chaos Spartan Assault Tanks",
+            "description": "Füge 2 Chaos Spartan Assault Tanks hinzu",
             "points": "100 points"
           }
         ]
       },
       {
         "name": "Daemonic Pact",
-        "description": "Add Daemonic Pact to the formation, and one point to the Lesser Daemon Pool",
+        "description": "Füge Daemonic Pact zum Verband, und 1 point zum Lesser Daemon Pool hinzu",
         "points": "25 points"
       },
       {
         "name": "Stalker",
-        "description": "Add one Chaos Stalker to the formation",
+        "description": "Füge 1 Chaos Stalker zum Verband hinzu",
         "points": "50 points"
       },
       {
         "name": "Champion",
-        "description": "Add one Champion of Chaos character to the formation",
+        "description": "Füge einen Champion of Chaos-Charakter zum Verband hinzu.",
         "points": "50 points"
       },
       {
         "name": "Icon Bearer",
-        "description": "Add one Icon Bearer character",
+        "description": "Füge 1 Icon Bearer character hinzu",
         "points": "25 points"
       },
       {
         "name": "Vindicators",
-        "description": "Add two World Eaters Vindicators",
+        "description": "Füge 2 World Eaters Vindicators hinzu",
         "points": "50 points"
       }
     ]

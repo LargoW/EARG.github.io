@@ -3,8 +3,8 @@
   "army": "Night Lords",
   "version": "Alpha 0.6.0",
   "release": "2022-04-01",
-  "strategy": "Chaos Space Marine armies have a Strategy Rating of 4.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
+  "strategy": "Chaos Space Marine-Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
   "specialRules": [
     "In Midnight Clad",
     "Summoning",
@@ -14,7 +14,7 @@
     "Night Lords Characters"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Night Lords, using their preferred operational methods."
+    "Diese Armeeliste ermöglicht es dir, eine Armee der Night Lords nach ihren bevorzugten Einsatzmethoden aufzustellen."
   ],
   "units": [
     {
@@ -75,13 +75,13 @@
   ],
   "sections": [
     {
-      "name": "Night Lords Core Formations",
+      "name": "Night Lords Kernverbände",
       "formations": [
         {
           "name": "Night Raptor Company",
           "units": "One Night Lords Captain, six Raptors",
           "extraUnits": [
-            "Add up to two Raptors: 30 points each",
+            "Füge bis zu 2 Raptors hinzu: 30 Punkte pro Stück",
             "Supreme Commander",
             "Icon Bearer"
           ],
@@ -90,14 +90,14 @@
       ]
     },
     {
-      "name": "Night Lords Elite Formations",
+      "name": "Night Lords Eliteverbände",
       "description": "Pro Night Lords Kernverband darf bis zu ein Eliteverband aufgestellt werden",
       "formations": [
         {
           "name": "Chosen",
           "units": "Four Night Lords Chosen, two Chaos Rhinos",
           "extraUnits": [
-            "Replace two Chaos Rhinos with four Chaos Tarantulas: 25 points"
+            "Ersetze 2 Chaos Rhinos durch 4 Chaos Tarantulas: 25 Punkte"
           ],
           "points": 175
         },
@@ -112,7 +112,7 @@
           "name": "Terminator Company",
           "units": "One Night Lords Captain, four Atramentar Terminators",
           "extraUnits": [
-            "Add two Chaos Spartan Assault Tanks: 150 points",
+            "Füge 2 Chaos Spartan Assault Tanks hinzu: 150 Punkte",
             "Supreme Commander",
             "Icon Bearer",
             "Dreadnoughts",
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Night Lords Support Formations",
+      "name": "Night Lords Unterstützungsverbände",
       "description": "Pro Night Lords Kernverband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
@@ -148,7 +148,7 @@
           "name": "Support Company",
           "units": "One Night Lords Captain, six Chaos Space Marines, three Chaos Rhinos",
           "extraUnits": [
-            "Replace three Chaos Rhinos with three Chaos Land Raiders: 125 points",
+            "Ersetze 3 Chaos Rhinos durch 3 Chaos Land Raiders: 125 Punkte",
             "Supreme Commander",
             "Icon Bearer",
             "Stalker"
@@ -168,8 +168,8 @@
       ]
     },
     {
-      "name": "Night Lords Static Defenses and Navy",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände. Höchstens ein Tarantula Verband pro Chosen Verband ausgegeben werden.",
+      "name": "Night-Lords-Verteidigungsanlagen und -Flotte",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. Pro Chosen-Verband ist höchstens ein Tarantula-Verband zulässig.",
       "formations": [
         {
           "name": "Tarantula",
@@ -201,55 +201,55 @@
       ]
     },
     {
-      "name": "Daemon Pool",
+      "name": "Dämonenpool",
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool points. Add one for each Daemonic Pact in the army.",
+          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool. Für jeden Daemonic Pact in der Armee kommt ein Punkt hinzu.",
           "points": 20
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Night Lords Upgrades",
+    "title": "Night Lords Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "(0-1 per army) Supreme Commander",
+        "name": "(0–1 pro Armee) Supreme Commander",
         "options": [
           {
-            "description": "Choose one of the following:"
+            "description": "Wähle eine der folgenden Optionen:"
           },
           {
-            "description": "Replace the Night Lords Captain with a Night Lords First Captain",
+            "description": "Ersetze den Night Lords Captain durch a Night Lords First Captain",
             "points": "50 points"
           },
           {
-            "description": "Replace the Night Lords Captain and its unit with a Night Lords Daemon Prince",
+            "description": "Ersetze den Night Lords Captain und its Einheit durch a Night Lords Daemon Prince",
             "points": "100 points"
           }
         ]
       },
       {
         "name": "Icon Bearer",
-        "description": "Add an Icon Bearer to the formation",
+        "description": "Füge 1 Icon Bearer zum Verband hinzu",
         "points": "25 points"
       },
       {
         "name": "Dreadclaws",
-        "description": "Transport a formation containing only infantry units and Dreadnoughts in Drop Pods (formation must be deployed on a spacecraft)",
+        "description": "Transportiere einen Verband, der ausschließlich Infanterieeinheiten und Dreadnoughts enthält, in Drop Pods (der Verband muss auf einem Raumschiff aufgestellt werden).",
         "points": "10 points per unit"
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Night Lords Dreadnoughts",
+        "description": "Füge bis zu 2 Night Lords Dreadnoughts hinzu",
         "points": "50 points each"
       },
       {
         "name": "Stalker",
-        "description": "Add one Chaos Stalker",
+        "description": "Füge 1 Chaos Stalker hinzu",
         "points": "50 points"
       }
     ]

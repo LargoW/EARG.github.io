@@ -4,10 +4,10 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_ImperialFists",
-  "intro": "The following army list allows you to field an army based on the Imperial Fists Space Marine chapter or any of its successor chapters. The Imperial Fists specializes in siege warfare.",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "Tarantula and Hyperios Emplacement formations have an Initiative Rating of 2+. All other formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all non-'Machine Spirit' Imperial Fists detachments.",
+  "intro": "Diese Armeeliste ermöglicht es dir, eine Armee des Space-Marine-Ordens Imperial Fists oder eines seiner Nachfolgeorden aufzustellen. Die Imperial Fists sind auf Belagerungskriegsführung spezialisiert.",
+  "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
+  "Initiative": "Tarantula- und Hyperios-Emplacement-Verbände haben einen Initiativwert von 2+. Alle übrigen Verbände haben einen Initiativwert von 1+.",
+  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle non-'Machine Spirit' Imperial Fists-Kontingente.",
   "specialRules": [
     "Imperial Fists Transports",
     "They Shall Know No Fear",
@@ -77,7 +77,7 @@
   ],
   "sections": [
     {
-      "name": "Imperial Fists Core Detachments",
+      "name": "Imperial Fists Kernkontingente",
       "formations": [
         {
           "name": "Devastators",
@@ -120,14 +120,14 @@
       ]
     },
     {
-      "name": "Imperial Fists Support Detachments",
+      "name": "Imperial Fists Unterstützungskontingente",
       "description": "Pro Kernkontingent dürfen bis zu zwei Unterstützungskontingente aufgestellt werden.",
       "formations": [
           {
             "name": "Land Raiders",
             "units": "Three Land Raiders",
             "extraUnits": [
-              "Add one Land Raider: 50 points",
+              "Füge 1 Land Raider hinzu: 50 Punkte",
               "Achilles",
               "Anti-Air",
               "Vindicators"
@@ -145,7 +145,7 @@
         },
         {
           "name": "Land Speeders",
-          "units": "Any five of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -155,7 +155,7 @@
           "name": "Scouts",
           "units": "Four Scouts plus transport",
           "extraUnits": [
-            "May take Siege Rhinos instead of normal Rhinos: 25 points",
+            "May take Siege Rhinos instead of normal Rhinos: 25 Punkte",
             "Razorbacks",
             "Snipers",
             "Vindicators"
@@ -188,7 +188,7 @@
           "name": "Whirlwinds",
           "units": "Four Whirlwinds",
           "extraUnits": [
-            "Add two Whirlwinds: 75 points",
+            "Füge 2 Whirlwinds hinzu: 75 Punkte",
             "Anti-Air"
           ],
           "points": 275
@@ -197,15 +197,15 @@
           "name": "0-1 Fellblade Relics",
           "units": "One Fellblade",
           "extraUnits": [
-            "Add one Fellblade: 300 points"
+            "Füge 1 Fellblade hinzu: 300 Punkte"
           ],
           "points": 300
         }
       ]
     },
     {
-      "name": "Imperial Fists Static Defenses, Navy & Titan Legion Allies",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände. Up to ein Tarantula or Hyperios Verband pro Aufklärungskontingent ausgegeben werden.",
+      "name": "Imperial Fists Statische Verteidigungsanlagen, Flotte & Titan Legion Verbündete",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. Pro Aufklärungskontingent darf höchstens ein Tarantula- oder Hyperios-Verband aufgestellt werden.",
       "formations": [
         {
           "name": "Bastion",
@@ -216,7 +216,7 @@
         },
         {
           "name": "Fortifications",
-          "units": "Two Bunkers, and 40cm Trenches and/or Minefields (exact proportions to be decided at the start of the game, before deploying objectives.)",
+          "units": "2 Bunkers sowie 40 cm Schützengräben und/oder Minenfelder (die genaue Aufteilung wird zu Beginn des Spiels vor dem Aufstellen der Missionsziele festgelegt).",
           "points": 50
         },
         {
@@ -243,26 +243,26 @@
     }
   ],
   "upgrades": {
-    "title": "Imperial Fists Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+    "title": "Imperial Fists Aufwertungen",
+    "description": "Jede Aufwertung darf pro Kontingent nur einmal gewählt werden.",
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Add any one of the following units to the formation",
+        "description": "Füge eine beliebige der folgenden Einheiten zum Verband hinzu",
         "options": [
           {
-            "description": "Add one Hunter",
+            "description": "Füge 1 Hunter hinzu",
             "points": "75 points"
           },
           {
-            "description": "Add one Stalker",
+            "description": "Füge 1 Stalker hinzu",
             "points": "50 points"
           }
         ]
       },
       {
         "name": "Commander",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {
             "description": "Captain, Librarian",
@@ -284,29 +284,29 @@
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add any two of the following: Dreadnought, Hellfire Dreadnought, Siege Dreadnought",
+        "description": "Füge 2 beliebige der folgenden Einheiten hinzu: Dreadnought, Hellfire Dreadnought, Siege Dreadnought.",
         "points": [
           "50 points each"
         ]
       },
       {
-        "name": "Land Raider Transport",
-        "description": "Add any number of Land Raiders or Land Raider Crusaders, up to the number required to transport the formation",
+        "name": "Land Raider-Transporter",
+        "description": "Füge beliebig viele Land Raiders oder Land Raider Crusaders, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": "50 points each"
       },
       {
         "name": "Razorbacks",
-        "description": "Add any number of Razorbacks, up to the number required to transport the formation",
+        "description": "Füge beliebig viele Razorbacks, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": "25 points each"
       },
       {
         "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Heavy Bolters",
+        "description": "Gib allen Scouts im Verband die Sonderregel „Sniper“ für ihre Heavy Bolters.",
         "points": "25 points"
       },
       {
         "name": "Siege Equipment",
-        "description": "The formation may take Siege Rhinos instead of normal Rhinos, or replace 'plus transport' with Space Marine Rapiers or Space Marine Thunderfires",
+        "description": "Der Verband darf statt normaler Rhinos Siege Rhinos einsetzen oder „plus transport“ durch Space Marine Rapiers oder Space Marine Thunderfires ersetzen.",
         "points": [
           "25 points for Siege Rhinos",
           "25 points for two Rapiers or two Thunderfires",
@@ -315,12 +315,12 @@
       },
       {
         "name": "Typhoons",
-        "description": "Replace up to five Land Speeders with an equal number of Land Speeder Typhoons",
+        "description": "Ersetze bis zu 5 Land Speeders durch dieselbe Anzahl an Land Speeder Typhoons",
         "points": "10 points each"
       },
       {
         "name": "Vindicators",
-        "description": "Add up to two Vindicators",
+        "description": "Füge bis zu 2 Vindicators hinzu",
         "points": [
           "50 points each",
           "75 points per pair"

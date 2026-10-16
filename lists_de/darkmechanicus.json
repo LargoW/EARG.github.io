@@ -734,7 +734,7 @@
           "Invulnerable Save",
           "Daemon Engine (Slaanesh)"
         ],
-        "notes": "May step over units and pieces of terrain that that are lower than the unit’s knees and less than 2cm wide.",
+        "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "The Questor takes a point of damage."
       },
       {
@@ -757,7 +757,7 @@
           "Invulnerable Save",
           "Daemon Engine (Slaanesh)"
         ],
-        "notes": "May step over units and pieces of terrain that that are lower than the unit’s knees and less than 2cm wide.",
+        "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "The Subjugator takes a point of damage."
       },
       {

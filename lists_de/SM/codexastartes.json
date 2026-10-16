@@ -3,11 +3,11 @@
   "army": "Codex Astartes",
   "version": "1.0.beta",
   "release": "2022-04-01",
-  "intro": "The Codex Astartes army list allows you to field an army based on one of the Space Marine Chapters that follows the teachings of the Codex Astartes. The list has a flexible structure to allow you to build an army that represents your favorite Space Marine Chapter on the battlefield.",
+  "intro": "Die Armeeliste des Codex Astartes ermöglicht es dir, eine Armee aus einem der Space-Marine-Orden aufzustellen, die den Lehren des Codex Astartes folgen. Ihr flexibler Aufbau erlaubt es dir, eine Armee deines bevorzugten Space-Marine-Ordens auf dem Schlachtfeld zusammenzustellen.",
   "armyforge": "EAR_AdeptusAstartes_CodexAstartes",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "The Thunderbolt and Marauder Squadron formations have an Initiative Rating of 2+. All other formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Codex Astartes Detachments and Space Marine Aircraft formations.",
+  "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
+  "Initiative": "Die Verbände der Thunderbolt- und Marauder-Staffeln haben einen Initiativwert von 2+. Alle übrigen Verbände haben einen Initiativwert von 1+.",
+  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Codex-Astartes-Detachements und Space-Marine-Flugzeugverbände.",
   "specialRules": [
     "Space Marine Transports",
     "They Shall Know No Fear"
@@ -73,7 +73,7 @@
   ],
   "sections": [
     {
-      "name": "Codex Astartes Detachments",
+      "name": "Codex Astartes Kontingente",
       "description": "Pro Nicht-Aufklärungskontingent dürfen bis zu ein Aufklärungskontingent aufgestellt werden.",
       "formations": [
         {
@@ -111,14 +111,14 @@
           "name": "Land Raiders",
           "units": "Three Land Raiders",
           "extraUnits": [
-            "Add one Land Raider: 50 points",
+            "Füge 1 Land Raider hinzu: 50 Punkte",
             "Anti-Air"
           ],
           "points": 275
         },
         {
           "name": "Land Speeders",
-          "units": "Any five of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "name": "Codex Astartes Navy, Imperial Aircraft & Collegia Titanica Allies",
+      "name": "Codex Astartes Flotte, Imperial Flugzeuge & Collegia Titanica Verbündete",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
@@ -222,7 +222,7 @@
           "name": "Warhounds",
           "units": "One Warhound Titan",
           "extraUnits": [
-            "Add an additional Warhound Titan: 200 points"
+            "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
           ],
           "points": 275
         },
@@ -237,36 +237,36 @@
     }
   ],
   "upgrades": {
-    "title": "Codex Astartes Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+    "title": "Codex Astartes Aufwertungen",
+    "description": "Jede Aufwertung darf pro Kontingent nur einmal gewählt werden.",
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Add any one of the following units to the formation",
+        "description": "Füge eine beliebige der folgenden Einheiten zum Verband hinzu",
         "options": [
           {
-            "description": "Add one Hunter",
+            "description": "Füge 1 Hunter hinzu",
             "points": "75 points"
           },
           {
-            "description": "Add one Stalker",
+            "description": "Füge 1 Stalker hinzu",
             "points": "50 points"
           }
         ]
       },
       {
         "name": "Attack Bikes",
-        "description": "Replace any number of Assault Bikes with an equal number of Attack Bikes",
+        "description": "Ersetze beliebig viele Assault Bikes durch dieselbe Anzahl an Attack Bikes",
         "points": "Free"
       },
       {
         "name": "Battle Barge",
-        "description": "Replace the Strike Cruiser with a Battle Barge",
+        "description": "Ersetze den Strike Cruiser durch a Battle Barge",
         "points": "75 points"
       },
       {
         "name": "Commander",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {
             "description": "Captain, Librarian",
@@ -284,34 +284,34 @@
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add any two of the following: Dreadnought, Hellfire Dreadnought",
+        "description": "Füge 2 beliebige der folgenden Einheiten hinzu: Dreadnought, Hellfire Dreadnought.",
         "points": [
           "50 points each"
         ]
       },
       {
-        "name": "Land Raider Transport",
-        "description": "Add any number of Land Raiders, up to the number required to transport the formation",
+        "name": "Land Raider-Transporter",
+        "description": "Füge beliebig viele Land Raiders, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": "50 points each"
       },
       {
         "name": "Razorbacks",
-        "description": "Add any number of Razorbacks, up to the number required to transport the formation",
+        "description": "Füge beliebig viele Razorbacks, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": "25 points each"
       },
       {
         "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Heavy Bolters",
+        "description": "Gib allen Scouts im Verband die Sonderregel „Sniper“ für ihre Heavy Bolters.",
         "points": "25 points"
       },
       {
         "name": "Typhoons",
-        "description": "Replace up to five Land Speeders with an equal number of Land Speeder Typhoons",
+        "description": "Ersetze bis zu 5 Land Speeders durch dieselbe Anzahl an Land Speeder Typhoons",
         "points": "10 points each"
       },
       {
         "name": "Vindicators",
-        "description": "Add up to two Vindicators",
+        "description": "Füge bis zu 2 Vindicators hinzu",
         "points": [
           "50 points each",
           "75 points per pair"

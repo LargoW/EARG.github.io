@@ -4,9 +4,9 @@
   "version": "1.0.Beta",
   "release": "2024-04-15",
   "armyforge": "EAR_Eldar_Exodites",
-  "intro": "The following army list allows you to field an Exodite Eldar army.",
-  "strategy": "Exodite armies have a strategy rating of 4.",
-  "Initiative": "All formations have an initiative rating of 2+. The Dragon Knight, Wind Knight, and Exodite Knight Warhosts are subject to the Bravery special rule.",
+  "intro": "Mit der folgenden Armeeliste kannst du eine Exoditen-Eldar-Armee aufstellen.",
+  "strategy": "Exoditen-Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Alle Formationen haben einen Initiativewert von 2+. Die Dragon Knight-, Wind Knight- und Exodite Knight Warhosts unterliegen der Sonderregel Bravery.",
   "specialRules": [
     "Farsight",
     "Eternal Drake",
@@ -65,139 +65,139 @@
   ],
   "sections": [
     {
-      "name": "Exodite Special",
+      "name": "Exoditen-Spezialregeln",
       "formations": [
         {
           "name": "Dragon Prince (0-1 per army)",
-          "units": "Replace on Dragonlord in the army with a Dragon Prince",
+          "units": "Ersetze einen Dragonlord in der Armee durch einen Dragon Prince",
           "points": "50 points"
         },
         {
           "name": "Eternal Drake (0-1 per army)",
-          "units": "One Eternal Drake",
+          "units": "Ein Eternal Drake",
           "points": 50
         },
         {
           "name": "Wraithgate (0-1 per army)",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
           "points": "Free"
         }
       ]
     },
     {
-      "name": "Exodite Warhost Formations",
+      "name": "Exoditen-Warhost-Formationen",
       "formations": [
         {
           "name": "Dragon Knight Warhost",
-          "units": "One Dragonlord and eight Dragon Knights",
+          "units": "Ein Dragonlord und acht Dragon Knights",
           "points": "300",
           "extraUnits": [
             "Dragon Prince",
-            "Add one Worldsinger character for 25 points",
-            "Replace two Dragon Knights with two Skyward Dragons for 25 points, or replace up to two Dragon Knights with Bloodfang Megadons for 25 points each"
+            "Füge einen Worldsinger-Charakter hinzu: 25 Punkte",
+            "Ersetze zwei Dragon Knights durch zwei Skyward Dragons: 25 Punkte. Alternativ kannst du bis zu zwei Dragon Knights durch Bloodfang Megadons ersetzen: 25 Punkte pro Stück."
           ]
         },
         {
           "name": "Wind Knight Warhost",
-          "units": "One Dragonlord and eight Wind Knights",
+          "units": "Ein Dragonlord und acht Wind Knights",
           "points": "300",
           "extraUnits": [
             "Dragon Prince",
-            "Add one Worldsinger character for 25 points"
+            "Füge einen Worldsinger-Charakter hinzu: 25 Punkte"
           ]
         }
       ]
     },
     {
-      "name": "Exodite Support Formations",
-      "description": "Up to three support formations per warhost formation",
+      "name": "Exodite Unterstützungsformationen",
+      "description": "Bis zu drei Unterstützungsformationen pro Warhost-Formation.",
       "formations": [
         {
           "name": "Dragon Outriders",
-          "units": "Four Dragon Outriders",
+          "units": "Vier Dragon Outriders",
           "points": "125"
         },
         {
           "name": "Skyward Dragon Troupe",
-          "units": "Five Skyward Dragons",
+          "units": "Fünf Skyward Dragons",
           "points": "200",
           "extraUnits": [
-            "Replace two Skyward Dragons with two Bloodfang Megadons for 25 points"
+            "Ersetze zwei Skyward Dragons durch zwei Bloodfang Megadons: 25 Punkte."
           ]
         },
         {
           "name": "Exodite Militia Troupe",
-          "units": "Eight Exodite Militia and a Worldsinger",
+          "units": "Acht Exodite Militia und a Worldsinger",
           "points": "175",
           "extraUnits": [
-            "Replace up to three Exodite Militia with Exodite Weapons Platforms for 25 points each",
-            "Add two Exodite Wraithguards: 75 points"
+            "Ersetze bis zu drei Exodite Militia durch Exodite Weapons Platforms: 25 Punkte pro Stück.",
+            "Füge zwei Exodite Wraithguards hinzu: 75 Punkte"
           ]
         },
         {
           "name": "Voidprism Troupe",
-          "units": "Four Voidprism Megadons",
+          "units": "Vier Voidprism Megadons",
           "points": "225",
           "extraUnits": [
           ]
         },
         {
           "name": "Great Megadon Troupe",
-          "units": "One Great Megadon",
+          "units": "Ein Great Megadon",
           "points": "175",
           "extraUnits": [
-            "Add up to two Great Megadons for 125 points each"
+            "Füge bis zu zwei Great Megadons hinzu: 125 Punkte pro Stück"
           ]
         },
         {
           "name": "Colossal Carnosaur",
-          "units": "One Colossal Carnosaur",
+          "units": "Ein Colossal Carnosaur",
           "points": "350"
         }
       ]
     },
     {
-      "name": "Eldar Knight & Corsairs support",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Unterstützung durch Eldar-Ritter und Korsaren",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Formationen ausgegeben werden.",
       "formations": [
         {
           "name": "Corsairs Raiding Party",
-          "units": "Four Corsair Warriors and one Felarch",
+          "units": "Vier Corsair Warriors und ein Felarch",
           "extraUnits": [
-            "Add up to two Corsair Wasp Walkers for 25 points each",
-            "Add up to two Corsair Veterans for 25 points each",
-            "Add up to two Ghostwalkers for 25 points each",
-            "Add enough Corsair Venoms to transport the formation for 25 points each. The entire formation must be transported if any Venoms are added."
+            "Füge bis zu zwei Corsair Wasp Walkers hinzu: 25 Punkte pro Stück",
+            "Füge bis zu zwei Corsair Veterans hinzu: 25 Punkte pro Stück",
+            "Füge bis zu zwei Ghostwalkers hinzu: 25 Punkte pro Stück",
+            "Füge ausreichend Corsair Venoms hinzu, um die gesamte Formation zu transportieren: 25 Punkte pro Stück. Wenn Venoms hinzugefügt werden, muss die gesamte Formation transportiert werden."
           ],
           "points": 150
         },
         {
           "name": "Corsair Vampire (0-1 per raiding party)",
-          "units": "One Corsair Vampire Raider",
+          "units": "Ein Corsair Vampire Raider",
           "extraUnits": [
           ],
           "points": 200
         },
                 {
           "name": "Corsair Nightwings",
-          "units": "Two Nightwing Interceptors",
+          "units": "Zwei Nightwing Interceptors",
           "extraUnits": [
-            "Add one Nightwing Interceptor: 75 Points"
+            "Füge 1 Nightwing Interceptor hinzu: 75 Punkte"
           ],
           "points": 225
         },
         {
           "name": "Corsairs Fire Support (0-1 per raiding party)",
-          "units": "Four Corsair Wasp Walkers",
+          "units": "Vier Corsair Wasp Walkers",
           "points": 150
         },
         {
           "name": "Exodite Knight Warhost",
-          "units": "Two Fire Gale, or two Bright Stallion, or two Towering Destroyer Knights",
+          "units": "Zwei Fire Gale, oder zwei Bright Stallion, oder zwei Towering Destroyer Knights",
           "points": 275,
           "extraUnits": [
-            "Add one Knight of the same configuration to the formation: 100 points",
-            "Add one Worldsinger character for 50 points"
+            "Füge einen Knight derselben Konfiguration zur Formation hinzu: 100 Punkte",
+            "Füge einen Worldsinger-Charakter hinzu: 50 Punkte"
           ]
         }
       ]

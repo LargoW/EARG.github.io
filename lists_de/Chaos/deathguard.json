@@ -4,8 +4,8 @@
   "version": "1.0.Beta-4",
   "release": "2023-01-28",
   "armyforge": "EAR_Chaos_DeathGuard",
-  "strategy": "Chaos Space Marine armies have a Strategy Rating of 4.",
-  "Initiative": "Death Guard Core, Elite, and Traitor Titan formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Chaos Space Marine-Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Death-Guard-Kern-, Elite- und Traitor-Titan-Verbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Summoning",
     "Death Guard Summoning Rules",
@@ -13,7 +13,7 @@
     "Death Guard Characters"
   ],
   "intro": [
-    "The following army list allows you to field an army based on the Death Guard Traitor Legion. The Death Guard is a slow moving force of relentless infantry, backed up by powerful daemon engines using toxic weaponry to destroy their enemies."
+    "Diese Armeeliste ermöglicht es dir, eine Armee der Verräterlegion Death Guard aufzustellen. Die Death Guard ist eine langsam vorrückende Streitmacht aus unerbittlicher Infanterie, unterstützt von mächtigen Dämonenmaschinen, die ihre Feinde mit Giftwaffen vernichten."
   ],
   "units": [
     {
@@ -98,7 +98,7 @@
   ],
   "sections": [
     {
-      "name": "Death Guard Core Formations",
+      "name": "Death Guard Kernverbände",
       "formations": [
         {
           "name": "Death Guard Retinue",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "name": "Death Guard Elite Formations",
+      "name": "Death Guard Eliteverbände",
       "description": "Pro Kernverband darf ein Eliteverband aufgestellt werden",
       "formations": [
         {
@@ -150,8 +150,8 @@
           "name": "Armoured Company",
           "units": "Five Death Guard Vindicators",
           "extraUnits": [
-            "Replace five Death Guard Vindicators with four Death Guard Land Raiders: 25 points",
-            "Add two Death Guard Vindicators: 80 points",
+            "Ersetze 5 Death Guard Vindicators durch 4 Death Guard Land Raiders: 25 Punkte",
+            "Füge 2 Death Guard Vindicators hinzu: 80 points",
             "Stalker"
           ],
           "points": 250
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "name": "Death Guard Support Formations",
+      "name": "Death Guard Unterstützungsverbände",
       "description": "Pro Kernverband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "name": "Traitor Titans and Chaos Navy",
+      "name": "Traitor Titans und Chaos-Flotte",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "name": "Daemon Pool",
+      "name": "Dämonenpool",
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
@@ -250,97 +250,97 @@
     }
   ],
   "upgrades": {
-    "title": "Death Guard Upgrades",
+    "title": "Death Guard Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",
-        "description": "Choose one of the following:",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Replace the Chaos Lord with a Warlord",
+            "description": "Ersetze den Chaos Lord durch a Warlord",
             "points": "50 points"
           },
           {
-            "description": "Replace the Chaos Lord and its unit with a Daemon Prince of Nurgle",
+            "description": "Ersetze den Chaos Lord und seine Einheit durch einen Daemon Prince of Nurgle.",
             "points": "100 points"
           }
         ]
       },
       {
-        "name": "Retinue Transport",
-        "description": "Choose one of the following:",
+        "name": "Retinue-Transporter",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Add four Death Guard Rhinos",
+            "description": "Füge 4 Death Guard Rhinos hinzu",
             "points": "50 points"
           },
           {
-            "description": "Add a Plague Tower",
+            "description": "Füge 1 Plague Tower hinzu",
             "points": "150 points"
         },
           {
-            "description": "Add four Death Guard Land Raiders",
+            "description": "Füge 4 Death Guard Land Raiders hinzu",
             "points": "200 points"
           }
         ]
       },
       {
-        "name": "Terminator Transport",
-        "description": "Choose one of the following:",
+        "name": "Terminator-Transporter",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Replace one Blightlord Terminator with three Death Guard Land Raiders",
+            "description": "Ersetze 1 Blightlord Terminator durch 3 Death Guard Land Raiders",
             "points": "100 points"
         },
         {
-          "description": "Add a Plague Tower",
+          "description": "Füge 1 Plague Tower hinzu",
           "points": "150 points"
       }
         ]
       },
       {
-        "name": "Havoc Transport",
-        "description": "Choose one of the following:",
+        "name": "Havoc-Transporter",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Add two Death Guard Rhinos",
+            "description": "Füge 2 Death Guard Rhinos hinzu",
             "points": "25 points"
           },
           {
-            "description": "Add two Death Guard Land Raiders",
+            "description": "Füge 2 Death Guard Land Raiders hinzu",
             "points": "100 points"
           }
         ]
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Dreadnoughts to the formation",
+        "description": "Füge bis zu 2 Dreadnoughts zum Verband hinzu",
         "points": "50 points each"
       },
       {
         "name": "Champion",
-        "description": "Add one Champion of Chaos character to the formation",
+        "description": "Füge einen Champion of Chaos-Charakter zum Verband hinzu.",
         "points": "50 points"
       },
       {
         "name": "Icon Bearer",
-        "description": "Add one Icon Bearer character",
+        "description": "Füge 1 Icon Bearer character hinzu",
         "points": "25 points"
       },
       {
         "name": "Stalker",
-        "description": "Add one Death Guard Stalker to the formation",
+        "description": "Füge 1 Death Guard Stalker zum Verband hinzu",
         "points": "50 points"
       },
       {
         "name": "Vindicators",
-        "description": "Add up to 2 Death Guard Vindicators",
+        "description": "Füge bis zu 2 Death Guard Vindicators hinzu",
         "points": "40 points each"
       },
       {
         "name": "Havocs",
-        "description": "Replace three Chaos Space Marines with three Havocs",
+        "description": "Ersetze 3 Chaos Space Marines durch 3 Havocs",
         "points": "35 points"
       }
     ]

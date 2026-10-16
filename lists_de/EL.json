@@ -83,7 +83,7 @@
                 "Farsight",
                 "Invulnerable Save"
             ],
-            "notes": "The Seer Council can be used to summon the Avatar."
+            "notes": "Der Seer Council kann verwendet werden, um den Avatar zu beschwören."
         },
         {
             "name": "Spiritseer",
@@ -94,7 +94,7 @@
                 "Commander",
                 "Farsight"
             ],
-            "notes": "Units with a Spiritseer can be used to summon the Avatar."
+            "notes": "Einheiten mit einem Spiritseer können verwendet werden, um den Avatar zu beschwören."
         },
         {
             "name": "Avatar",
@@ -129,7 +129,7 @@
             "specialRules": [
                 "Inspiring"
             ],
-            "notes": "Dire Avengers, Swooping Hawks and Warp Spiders have an Exarch Ranged Weapon. Howling Banshees and Striking Scorpions have an Exarch Close Combat Weapon. Dark Reapers have a Reaper Launcher, Fire Dragons have a Firepike and Shining Spears have a Starlance."
+            "notes": "Dire Avengers, Swooping Hawks und Warp Spiders haben eine Exarch-Fernkampfwaffe. Howling Banshees und Striking Scorpions haben eine Exarch-Nahkampfwaffe. Dark Reapers haben einen Reaper Launcher, Fire Dragons eine Firepike und Shining Spears eine Starlance."
         },
         {
             "name": "Saim-Hann Mounted Farseer",
@@ -149,7 +149,7 @@
                 "Skimmer",
                 "Wind-Swift"
             ],
-            "notes": "The Mounted Farseer can be used to summon the Avatar."
+            "notes": "Der berittene Farseer kann verwendet werden, um den Avatar zu beschwören."
         },
         {
             "name": "Eldar Farseer",
@@ -166,7 +166,7 @@
                 "Farsight",
                 "Commander"
             ],
-            "notes": "The Farseer can be used to summon the Avatar."
+            "notes": "Der Farseer kann verwendet werden, um den Avatar zu beschwören."
         },
         {
             "name": "Eldar Guardians",
@@ -202,7 +202,7 @@
                 "Vibro Cannon|0-1",
                 "Support D-Cannon|0-1"
             ],
-            "notes": "Armed with either a Vibro Cannon or a Support D-Cannon"
+            "notes": "Bewaffnet entweder mit einer Vibro Cannon oder einer Support D-Cannon."
         },
         {
             "name": "Eldar Rangers",
@@ -453,7 +453,7 @@
             "specialRules": [
                 "Fearless"
             ],
-            "notes": "Counts as a unit of Wraithguards for the purposes of being transported."
+            "notes": "Zählt beim Transport als eine Einheit Wraithguards."
         },
         {
             "name": "Wraithguards",
@@ -593,7 +593,7 @@
                 "Reinforced Armour",
                 "Walker"
             ],
-            "notes": "The Wraithseer can be used to summon the Avatar."
+            "notes": "Der Wraithseer kann verwendet werden, um den Avatar zu beschwören."
         },
         {
             "name": "Wraithlord",
@@ -627,7 +627,7 @@
                 "Skimmer",
                 "Transport"
             ],
-            "notes": "May carry up to two of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Swooping Hawks, Wraithblades or Wraithguards. Wraithblades and Wraithguards take two spaces each."
+            "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Swooping Hawks, Wraithblades oder Wraithguards. Wraithblades und Wraithguards belegen jeweils 2 Plätze."
         },
         {
             "name": "Falcon",
@@ -644,7 +644,7 @@
                 "Skimmer",
                 "Transport"
             ],
-            "notes": "May carry up to one of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers or Swooping Hawks."
+            "notes": "Kann bis zu 1 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
         },
         {
             "name": "Fire Prism",
@@ -702,7 +702,7 @@
                 "Skimmer",
                 "Transport"
             ],
-            "notes": "May carry up to one of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers or Swooping Hawks."
+            "notes": "Kann bis zu 1 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
         },
         {
             "name": "Lynx",
@@ -837,7 +837,7 @@
                 "Walker",
                 "Teleport"
             ],
-            "notes": "Skathach Wraithknights are armed with either a Twin Deathshroud Cannon or Twin Inferno Lance."
+            "notes": "Skathach Wraithknights sind entweder mit einer Twin Deathshroud Cannon oder einer Twin Inferno Lance bewaffnet."
         },
         {
             "name": "Wraithknight",
@@ -858,7 +858,7 @@
                 "Fearless",
                 "Walker"
             ],
-            "notes": "Must be armed with either Twin Heavy Wraithcannons, Ghostglaive and Scattershield, or a Suncannon. Spec[*]: Scattershield grants the model Reinforced Armour."
+            "notes": "Muss entweder mit Twin Heavy Wraithcannons, Ghostglaive und Scattershield oder einer Suncannon bewaffnet sein. Sonderregel [*]: Der Scattershield verleiht dem Modell die Sonderregel Reinforced Armour."
         },
         {
             "name": "Revenant Titan",

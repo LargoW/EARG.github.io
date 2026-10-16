@@ -74,7 +74,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has a Missile Launcher"
+        "notes": "Jede zweite Einheit (aufgerundet) ist mit einem Missile Launcher bewaffnet."
       },
       {
         "name": "Squat Berserkers",
@@ -211,7 +211,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Squat Warlord, Grand Warlord, and Squat Thunderfire units takes two spaces each. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
+        "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Squat Warlord, Grand Warlord und Squat Thunderfire-Einheiten belegen jeweils 2 Plätze. Beim Transport von Squat Thunderfires wird die Geschwindigkeit der Squat Rhinos auf 20 cm reduziert."
       },
       {
         "name": "Land Raider",
@@ -229,7 +229,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Squat Warlord and Grand Warlord units takes two spaces each."
+        "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Squat Warlord- und Grand-Warlord-Einheiten belegen jeweils 2 Plätze."
       },
       {
         "name": "Squat Thunderfire",
@@ -269,7 +269,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "[*] Bronze Raven Gunships are Bombers that may also perform the 'Intercept' action."
+        "notes": "[*] Bronze Raven Gunships sind Bomber, die auch die Aktion „Abfangen“ durchführen dürfen."
       },
       {
         "name": "Overlord Dirigible",
@@ -304,7 +304,7 @@
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Squat Warlord units takes two spaces each."
+        "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Squat Warlord-Einheiten belegen jeweils 2 Plätze."
       },
       {
         "name": "Hellbore",
@@ -323,7 +323,7 @@
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Packs or Mounted. Squat Warlord units takes two spaces each.",
+        "notes": "Kann 12 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Squat Warlord-Einheiten belegen jeweils 2 Plätze.",
         "crit": "The Hellbore is destroyed."
       },
       {
@@ -363,7 +363,7 @@
           "Fearless",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Packs or Mounted. Up to two units may shoot and FF from the Leviathan's fighting platform",
+        "notes": "Kann 12 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Bis zu 2 Einheiten dürfen von der Kampfplattform des Leviathan aus schießen und sich mit ihrem FF an Feuergefechten beteiligen.",
         "crit": "The Leviathan is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the Leviathan."
       },
       {
@@ -433,7 +433,7 @@
           "Reinforced Armour",
           "Fearless"
         ],
-        "notes": "[*]Each Berserker Battle Car may transport one unit of Squat Berserkers. It is allowed to firefight while being transported inside the Land Train.",
+        "notes": "[*] Jeder Berserker Battle Car darf 1 Einheit Squat Berserkers transportieren. Diese darf während des Transports im Land Train an Feuergefechten teilnehmen.",
         "crit": "The last Battle Car in the train is destroyed. If no Battle Cars remain the Land Train engine is destroyed."
       }
     ]

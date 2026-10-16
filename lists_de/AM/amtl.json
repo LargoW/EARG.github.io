@@ -4,8 +4,8 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_AMTL",
-  "strategy": "Collegia Titanica armies have a Strategy Rating of 3.",
-  "Initiative": "Battle Titan formations and the Warhounds formation have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
+  "strategy": "Collegia Titanica-Armeen haben einen Strategiewert von 3.",
+  "Initiative": "Battle-Titan-Verbände und der Warhounds-Verband haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+. Außerdem unterliegt der Questoris-Banner-Verband der Sonderregel „Chivalry“.",
   "specialRules": [
   ],
   "units": [
@@ -72,7 +72,7 @@
   ],
   "sections": [
     {
-      "name": "Battle Titan Formations",
+      "name": "Battle Titan Verbände",
       "formations": [
         {
           "name": "0-1 Emperor Titan",
@@ -101,14 +101,14 @@
       ]
     },
     {
-      "name": "Recon Formations",
-      "description": "Pro Battle Titan Verband dürfen bis zu zwei Recon Verbände aufgestellt werden",
+      "name": "Aufklärungsverbände",
+      "description": "Pro Battle-Titan-Verband dürfen bis zu zwei Aufklärungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Warhounds",
           "units": "One Warhound Titan, of either Standard or Support configuration",
           "extraUnits": [
-            "Add one Warhound Titan of the same configuration: 200 points",
+            "Füge 1 Warhound Titan of the same configuration hinzu: 200 Punkte",
             "Veteran Princeps",
             "Tank Hunter Configuration"
           ],
@@ -124,15 +124,15 @@
       ]
     },
     {
-      "name": "Support Formations",
+      "name": "Unterstützungsverbände",
       "description": "Pro Battle Titan Verband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden",
       "formations": [
         {
           "name": "Secutarii Titan Guard",
           "units": "One Secutarii Axiarch, eight Secutarii Hoplites or eight Secutarii Pelasts",
           "extraUnits": [
-            "Add two Electro-Priests: 25 points",
-            "Replace two Secutarii Hoplites or Pelasts with three Chimeras or three Chimedons: 25 points"
+            "Füge 2 Electro-Priests hinzu: 25 Punkte",
+            "Ersetze 2 Secutarii Hoplites oder Pelasts durch 3 Chimeras oder 3 Chimedons: 25 Punkte"
           ],
           "points": 175
         },
@@ -140,7 +140,7 @@
           "name": "Kastelan Maniple",
           "units": "Five Kastelan Robots, one Tech-Priest",
           "extraUnits": [
-            "Add up to two Kastelan Robots: 25 points each"
+            "Füge bis zu 2 Kastelan Robots hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         },
@@ -155,15 +155,15 @@
           "name": "Minoris",
           "units": "Ordinatus Minoris",
           "extraUnits": [
-              "Add one Ordinatus Minoris: 125 points"
+              "Füge 1 Ordinatus Minoris hinzu: 125 Punkte"
           ],
           "points": 200
         }
       ]
     },
     {
-      "name": "Adeptus Mechanicus Navy",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Flotte des Adeptus Mechanicus Verbände. Up to ein Lysander Fighter pro Warmonger Titan or Anvilus Carapace Landing Pad ausgegeben werden.",
+      "name": "Adeptus Mechanicus Flotte",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für Verbände der Flotte des Adeptus Mechanicus ausgegeben werden. Pro Warmonger Titan oder Anvilus Carapace Landing Pad darf höchstens ein Lysander Fighter aufgestellt werden.",
       "formations": [
         {
           "name": "Lysander Fighter",
@@ -184,22 +184,22 @@
     }
   ],
   "upgrades": {
-    "title": "Titan Legion Upgrades",
+    "title": "Titan Legion Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Legate",
-        "description": "Add one Legate to the formation",
+        "description": "Füge 1 Legate zum Verband hinzu",
         "points": "50 points"
       },
       {
         "name": "Veteran Princeps",
-        "description": "Add one Veteran Princeps to the formation. May not be combined with Legate",
+        "description": "Füge einen Veteran Princeps zum Verband hinzu. Nicht mit einem Legate kombinierbar.",
         "points": "25 points"
       },
       {
         "name": "Tank Hunter",
-        "description": "Upgrade all Warhounds in the formation to the Tank Hunter Configuration",
+        "description": "Werte alle Warhounds im Verband zum Tank Hunter Configuration",
         "points": "25 points each"
       }
     ]

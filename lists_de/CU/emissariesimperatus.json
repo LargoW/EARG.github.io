@@ -3,13 +3,13 @@
   "army": "Emissaries Imperatus",
   "version": "1.1",
   "release": "2022-04-01",
-  "strategy": "Adeptus Custodes armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
+  "strategy": "Adeptus-Custodes-Armeen haben einen Strategiewert von 5.",
+  "Initiative": "Alle Formationen haben einen Initiativewert von 1+.",
   "specialRules": [
     "Adeptus Custodians"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Adeptus Custodes. All Units are subject to the 'Adeptus Custodians' special rule with the exception of Sisters of Silence."
+    "Mit der folgenden Armeeliste kannst du eine Adeptus-Custodes-Armee aufstellen. Für alle Einheiten außer den Sisters of Silence gilt die Sonderregel 'Adeptus Custodians'."
   ],
   "units": [
     {
@@ -50,11 +50,11 @@
   ],
   "sections": [
     {
-      "name": "Adeptus Custodes Core Detachments",
+      "name": "Adeptus-Custodes-Kern-Detachments",
       "formations": [
         {
           "name": "Custodes Guardian Squad",
-          "units": "Two Sagittarum plus either Two Guardian OR Two Sentinel Guard and 2 Venerable Land Raiders or 2 Coronus",
+          "units": "Zwei Sagittarum sowie entweder zwei Guardian oder zwei Sentinel Guard und zwei Venerable Land Raiders oder zwei Coronus",
           "upgrades": [
             "Commander"
           ],
@@ -63,8 +63,8 @@
       ]
     },
     {
-      "name": "Adeptus Custodes Elite Detachments",
-      "description": "One elite detachment may be taken per core detachments",
+      "name": "Adeptus-Custodes-Elite-Detachments",
+      "description": "Pro Kerndetachment darf ein Elite-Detachment gewählt werden.",
       "formations": [
         {
           "name": "Warden Wing",
@@ -78,7 +78,7 @@
         },
         {
           "name": "Dreadnaught Wing",
-          "units": "3 of the following in any combination: Contemptor Dreadnought Achilles or Telemon Heavy Dreadnoughts",
+          "units": "3 aus folgender Auswahl in any combination: Contemptor Dreadnought Achilles oder Telemon Heavy Dreadnoughts",
           "upgrades": [
             "Dreadnaught"
           ],
@@ -86,7 +86,7 @@
         },
         {
           "name": "Aquilon Custodians",
-          "units": "Four Aquilon Terminators",
+          "units": "Vier Aquilon Terminators",
           "upgrades": [
             "Commander",
             "Dreadnaught",
@@ -97,12 +97,12 @@
       ]
     },
     {
-      "name": "Adeptus Custodes Support Detachments",
-      "description": "Two Support Detachments may be taken per Core Detachment",
+      "name": "Adeptus-Custodes-Unterstützungs-Detachments",
+      "description": "Pro Kerndetachment dürfen zwei Unterstützungs-Detachments gewählt werden.",
       "formations": [
         {
           "name": "Venatari Wing",
-          "units": "Five Venatari",
+          "units": "Fünf Venatari",
           "upgrades": [
             "Commander"
           ],
@@ -110,7 +110,7 @@
         },
         {
           "name": "Kataphractoi",
-          "units": "Six Vertus Praetors",
+          "units": "Sechs Vertus Praetors",
           "upgrades": [
             "Commander"
           ],
@@ -118,21 +118,21 @@
         },
         {
           "name": "Pallas Amour",
-          "units": "Four Pallas tanks",
+          "units": "Vier Pallas tanks",
           "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Caladius Armour",
-          "units": "Three Caladius tanks",
+          "units": "Drei Caladius tanks",
           "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Null Maiden Cadre",
-          "units": "Six Sisters of Silence units and 3 Null-Maiden Rhinos",
+          "units": "Sechs Sisters of Silence Einheiten und 3 Null-Maiden Rhinos",
           "upgrades": [
             "Null-Maiden Hunter"
           ],
@@ -141,17 +141,17 @@
       ]
     },
     {
-      "name": "Adeptus Custodes Aerial Transport & Imperial Allies",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Lufttransport und imperiale Verbündete der Adeptus Custodes",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Formationen ausgegeben werden.",
       "formations": [
         {
           "name": "Orion Assault Ship",
-          "units": "One Orion Assault Ship",
+          "units": "Ein Orion Assault Ship",
           "points": 225
         },
         {
           "name": "Adeptus Astartes Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         }
       ]
@@ -163,7 +163,7 @@
     "items": [
       {
         "name": "Commander",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge any one aus folgender Auswahl characters to any unit in die Formation hinzu",
         "options": [
           {
             "description": "Captain General, Oblivion Kinght Centura",
@@ -177,12 +177,12 @@
       },
       {
         "name": "Null-Maiden Hunter",
-        "description": "Add one Null-Maiden Hunter",
+        "description": "Füge 1 Null-Maiden Hunter hinzu",
         "points": "75 points each"
       },
       {
         "name": "Dreadnaught",
-        "description": "Add up to two of the following Dreadnaughts to the formation",
+        "description": "Füge bis zu zwei aus folgender Auswahl Dreadnaughts zur Formation hinzu",
         "options": [
           {
             "description": "Contemptor Dreadnought Achilles",
@@ -196,7 +196,7 @@
       },
       {
         "name": "Transport",
-        "description": "Add enough of the following to trasnport the entire foramtion.",
+        "description": "Füge enough aus folgender Auswahl to trasnport the entire foramtion hinzu.",
         "options": [
           {
             "description": "Venerable Land Raiders",

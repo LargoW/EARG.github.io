@@ -4,8 +4,8 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_AlphaLegion",
-  "strategy": "Chaos Space Marine armies have a Strategy Rating of 4. Alpha Legion armies are also subject to 'The Harrowing' special rule.",
-  "Initiative": "Cultist Coven and Cultist Support formations have an Initiative Rating of 2+. All other formations have an Initiative Rating of 1+.",
+  "strategy": "Chaos-Space-Marine-Armeen haben einen Strategiewert von 4. Außerdem unterliegen Alpha-Legion-Armeen der Sonderregel „The Harrowing“.",
+  "Initiative": "Cultist-Coven- und Cultist-Unterstützungsverbände haben einen Initiativwert von 2+. Alle übrigen Verbände haben einen Initiativwert von 1+.",
   "specialRules": [
     "The Harrowing",
     "Alpha Legion Transports",
@@ -14,7 +14,7 @@
     "Fickle Masters"
   ],
   "intro": [
-    "The following army list allows you to field an army based on the Alpha Legion with Traitor Imperial Guard allies."
+    "Diese Armeeliste ermöglicht es dir, eine Armee der Alpha Legion mit Verbündeten der Verräter-Imperialen-Armee aufzustellen."
   ],
   "units": [
     {
@@ -95,15 +95,15 @@
   ],
   "sections": [
     {
-      "name": "Alpha Legion Core Formations",
+      "name": "Alpha Legion Kernverbände",
       "description": "Pro Alpha Legion Marines Verband darf bis zu ein Cultist Coven Verband aufgestellt werden",
       "formations": [
         {
           "name": "Alpha Legion Marines",
           "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Marines plus transport",
           "extraUnits": [
-            "Replace four Alpha Legion Marines with four Alpha Legion Havocs: 50 points",
-            "Add up to two Alpha Legion Land Raiders: 50 points each",
+            "Ersetze 4 Alpha Legion Marines durch 4 Alpha Legion Havocs: 50 Punkte",
+            "Füge bis zu 2 Alpha Legion Land Raiders hinzu: 50 Punkte pro Stück",
             "Supreme Commander",
             "Dreadnoughts",
             "Vindicators",
@@ -115,12 +115,12 @@
           "name": "Cultist Coven",
           "units": "One Aspiring Champion, nine Cultists and/or Mutants",
           "extraUnits": [
-            "Add a Daemonic Icon to the Aspiring Champion: 25 points",
-            "Add enough Land Transporters to transport the formation: 10 points each",
-            "Replace any number of Land Transporters with Chimeras: 15 points each",
-            "Add up to three Chaos Hounds: 10 points each",
-            "Add one Chaos Spawn: 35 points",
-            "Add one Hydra: 50 points",
+            "Füge 1 Daemonic Icon zum Aspiring Champion hinzu: 25 Punkte",
+            "Füge genügend Land Transporters hinzu, um den Verband zu transportieren: 10 Punkte pro Stück",
+            "Ersetze beliebig viele Land Transporters durch Chimeras: 15 Punkte pro Stück",
+            "Füge bis zu 3 Chaos Hounds hinzu: 10 Punkte pro Stück",
+            "Füge 1 Chaos Spawn hinzu: 35 points",
+            "Füge 1 Hydra hinzu: 50 Punkte",
             "Supreme Commander"
           ],
           "points": 225
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "name": "Alpha Legion Elite Detachments",
+      "name": "Alpha Legion Elitekontingente",
       "description": "Pro Alpha Legion Marines Verband dürfen bis zu ein Alpha Legion Elitekontingent aufgestellt werden.",
       "formations": [
         {
@@ -169,14 +169,14 @@
       ]
     },
     {
-      "name": "Cultist Support Formations",
-      "description": "Pro Cultist Coven dürfen bis zu zwei Cultist Support-Verbände aufgestellt werden",
+      "name": "Cultist Unterstützungsverbände",
+      "description": "Pro Cultist-Coven-Verband dürfen bis zu zwei Cultist-Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Rough Rider Platoon",
           "units": "Six Rough Riders",
           "extraUnits": [
-            "Add a Daemonic Icon: 75 points"
+            "Füge 1 Daemonic Icon hinzu: 75 Punkte"
           ],
           "points": 150
         },
@@ -204,8 +204,8 @@
       ]
     },
     {
-      "name": "Alpha Legion Navy",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Alpha Legion Navy ausgegeben werden.",
+      "name": "Alpha Legion Flotte",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für die Alpha-Legion-Flotte ausgegeben werden.",
       "formations": [
         {
           "name": "Storm Eagle",
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "name": "Daemon Pool",
+      "name": "Dämonenpool",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -249,36 +249,36 @@
     }
   ],
   "upgrades": {
-    "title": "Alpha Legion Upgrades",
+    "title": "Alpha Legion Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",
-        "description": "Choose one of the following options:",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Upgrade the Aspiring Champion to a Daemon Prince",
+            "description": "Werte den Aspiring Champion zu einem Daemon Prince",
             "points": "100 points"
           },
           {
-            "description": "'I'm Alpharius!' The army benefits from the Supreme Commander rule as long as there is at least one Alpha Legion Lord on the battlefield. Formation must contain an Alpha Legion Lord.",
+            "description": "„I'm Alpharius!“ Die Armee profitiert von der Sonderregel Supreme Commander, solange sich mindestens ein Alpha Legion Lord auf dem Schlachtfeld befindet. Der Verband muss einen Alpha Legion Lord enthalten.",
             "points": "75 points"
           }
         ]
       },
       {
         "name": "Vindicators",
-        "description": "Add up to two Alpha Legion Vindicators",
+        "description": "Füge bis zu 2 Alpha Legion Vindicators hinzu",
         "points": "35 points each"
       },
       {
         "name": "Predators",
-        "description": "Add up to two Alpha Legion Predators",
+        "description": "Füge bis zu 2 Alpha Legion Predators hinzu",
         "points": "50 points each"
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Alpha Legion Dreadnoughts",
+        "description": "Füge bis zu 2 Alpha Legion Dreadnoughts hinzu",
         "points": "50 points each"
       }
     ]

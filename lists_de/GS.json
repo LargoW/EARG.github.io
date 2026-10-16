@@ -241,7 +241,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted. Hybrid Aberrants and Genestealer Patriarch counts as two units."
+        "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Hybrid Aberrants und der Genestealer Patriarch zählen jeweils als 2 Einheiten."
       },
       {
         "name": "Coven Thunderbolt Fighter",
@@ -424,7 +424,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Cult Baneblade",

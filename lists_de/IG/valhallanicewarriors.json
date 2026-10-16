@@ -3,15 +3,15 @@
   "army": "Valhallan Ice Warriors",
   "version": "0.6.0",
   "release": "2022-04-01",
-  "strategy": "Valhallan Ice Warrior armies have a Strategy Rating of 2.",
-  "Initiative": "Ministorum Mission formations have an Initiative Rating of 1+. All other formations have a Initiative Rating of 2+.",
+  "strategy": "Valhallan Ice Warrior-Armeen haben einen Strategiewert von 2.",
+  "Initiative": "Ministorum Mission-Verbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Courage, Discipline and Loyalty",
     "Grim Demeanour",
     "Fortified Positions"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Valhallan Ice Warriors"
+    "Diese Armeeliste ermöglicht es dir, eine Armee der Valhallan Ice Warriors aufzustellen."
   ],
   "units": [
     {
@@ -64,7 +64,7 @@
   ],
   "sections": [
     {
-      "name": "Valhallan Core Company Formations",
+      "name": "Valhallan Kernkompanie-Verbände",
       "formations": [
         {
           "name": "Valhallan Regimental HQ",
@@ -97,7 +97,7 @@
           "name": "Artillery Company",
           "units": "One Ministorum Priest, six Basilisks",
           "extraUnits": [
-            "Replace six Basilisks with six Manticores: 50 points",
+            "Ersetze 6 Basilisks durch 6 Manticores: 50 Punkte",
             "Flak"
           ],
           "points": 400
@@ -105,8 +105,8 @@
       ]
     },
     {
-      "name": "Valhallan Support Formations",
-      "description": "Pro Core Company dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
+      "name": "Valhallan Unterstützungsverbände",
+      "description": "Pro Kernkompanie dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Heavy Tank Platoon",
@@ -156,8 +156,8 @@
       ]
     },
     {
-      "name": "Adeptus Ministorum and Imperial Navy Allies",
-      "description": "Bis zu ein Viertel der verfügbaren Punkte darf für Adeptus Ministorum, Tunnelers and Imperiale Flotte Allies ausgegeben werden",
+      "name": "Adeptus-Ministorum- und Imperial-Flottenverbündete",
+      "description": "Bis zu einem Viertel der verfügbaren Punkte darf für Verbände des Adeptus Ministorum, Tunnelers und der Imperialen Flotte ausgegeben werden.",
       "formations": [
         {
           "name": "Ministorum Mission",
@@ -181,21 +181,21 @@
           "units": "One Lunar Class Cruiser",
           "points": 125,
           "extraUnits": [
-            "Replace the Cruiser with an Emperor Class Battleship: 50 points"
+            "Ersetze den Cruiser durch an Emperor Class Battleship: 50 Punkte"
           ]
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Valhallan Upgrades",
-    "description": "Each upgrade may be taken once per formation. Max three upgrades per Company.",
+    "title": "Valhallan Aufwertungen",
+    "description": "Jede Aufwertung darf pro Verband einmal gewählt werden. Pro Kompanie sind höchstens 3 Aufwertungen erlaubt.",
     "items": [
       {
         "name": "Valhallan Griffons",
         "options": [
           {
-            "description": "Add three Valhallan Griffons",
+            "description": "Füge 3 Valhallan Griffons hinzu",
             "points": "100 points"
           }
         ]
@@ -204,7 +204,7 @@
         "name": "Ogryns",
         "options": [
           {
-            "description": "Add up to two Ogryns",
+            "description": "Füge bis zu 2 Ogryns hinzu",
             "points": "25 points each"
           }
         ]
@@ -213,7 +213,7 @@
         "name": "Flak",
         "options": [
           {
-            "description": "Add a Hydra to the formation",
+            "description": "Füge 1 Hydra zum Verband hinzu",
             "points": "50 points"
           }
         ]
@@ -222,7 +222,7 @@
         "name": "Fire Support",
         "options": [
           {
-            "description": "Add two or four Fire Support Squads",
+            "description": "Füge 2 oder 4 Fire Support Squads hinzu",
             "points": "50 points for two, 100 points for four"
           }
         ]
@@ -231,7 +231,7 @@
         "name": "Snipers",
         "options": [
           {
-            "description": "Add up to two Snipers",
+            "description": "Füge bis zu 2 Snipers hinzu",
             "points": "25 points each"
           }
         ]
@@ -247,7 +247,7 @@
       },
       {
         "name": "Stormlord",
-        "description": "Replace two Valhallan Infantry units with one Stormlord (may not be combined with other upgrades)",
+        "description": "Ersetze 2 Valhallan-Infanterieeinheiten durch 1 Stormlord (nicht mit anderen Aufwertungen kombinierbar).",
         "points": "125 points"
       }
     ]

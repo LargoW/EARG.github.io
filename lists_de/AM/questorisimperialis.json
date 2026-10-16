@@ -4,8 +4,8 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_KnightWorld",
-  "strategy": "Knight World armies have a Strategy Rating of 2.",
-  "Initiative": "All formations have an Initiative Rating of 2+. In addition, all Knight Household formations are subject to the 'Bravery' special rule.",
+  "strategy": "Knight World-Armeen haben einen Strategiewert von 2.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 2+. Außerdem unterliegen alle Knight-Household-Verbände der Sonderregel „Bravery“. ",
   "specialRules": [
     "Bravery",
     "Fortified Positions"
@@ -57,7 +57,7 @@
   ],
   "sections": [
     {
-      "name": "Knight World Core Households",
+      "name": "Knight World Kernhauss",
       "formations": [
         {
           "name": "Paladin Household",
@@ -72,8 +72,8 @@
       ]
     },
     {
-      "name": "Knight World Support Households",
-      "description": "Pro Core Household dürfen bis zu zwei Support Households aufgestellt werden.",
+      "name": "Knight World Unterstützungshäuser",
+      "description": "Pro Kernhaus dürfen bis zu zwei Unterstützungshäuser aufgestellt werden.",
       "formations": [
         {
           "name": "Castellan Household",
@@ -114,8 +114,8 @@
       ]
     },
     {
-      "name": "Knight World Retainer Formations",
-      "description": "Pro Core or Support Household dürfen bis zu ein Retainer Verband aufgestellt werden.",
+      "name": "Knight World Gefolgsverbände",
+      "description": "Pro Kern- oder Unterstützungshaus darf bis zu ein Gefolgsverband aufgestellt werden.",
       "formations": [
         {
           "name": "Planetary Defense Platoon",
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "name": "Imperial Navy Formations",
+      "name": "Imperial Flotte Verbände",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Imperiale Flotte Verbände ausgegeben werden.",
       "formations": [
         {
@@ -168,52 +168,52 @@
     }
   ],
   "upgrades": {
-    "title": "Knight World Upgrades",
+    "title": "Knight World Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Seneschal",
-        "description": "Add a Seneschal to the formation",
+        "description": "Füge 1 Seneschal zum Verband hinzu",
         "points": "25 points"
       },
       {
         "name": "0-1 Knight-Baron",
-        "description": "Replace the Seneschal and its Knight with a Knight-Baron",
+        "description": "Ersetze den Seneschal und its Knight durch a Knight-Baron",
         "points": "50 points"
       },
             {
         "name": "Knight-Paladins",
-        "description": "Add up to two Knight-Paladins",
+        "description": "Füge bis zu 2 Knight-Paladins hinzu",
         "points": "75 points each"
       },
       {
         "name": "Knight-Castellans",
-        "description": "Add up to two Knight-Castellans of any configuration",
+        "description": "Füge bis zu 2 Knight-Castellans in beliebiger Konfiguration hinzu",
         "points": "125 points each"
       },
       {
         "name": "Knight-Lancer",
-        "description": "Add up to two Knight-Lancers",
+        "description": "Füge bis zu 2 Knight-Lancers hinzu",
         "points": "100 points each"
       },
       {
         "name": "Knight-Wardens",
-        "description": "Add up to two Knight-Wardens of any configuration",
+        "description": "Füge bis zu 2 Knight-Wardens in beliebiger Konfiguration hinzu",
         "points": "75 points each"
       },
       {
         "name": "Knight-Errants",
-        "description": "Add up to two Knight-Errants",
+        "description": "Füge bis zu 2 Knight-Errants hinzu",
         "points": "100 points each"
       },
       {
         "name": "Land Transporters",
-        "description": "Add four Land Transporters (may have no other upgrades)",
+        "description": "Füge 4 Land Transporters hinzu (keine weiteren Aufwertungen möglich).",
         "points": "25 points"
       },
       {
         "name": "Support Weapons",
-        "description": "Add three Rapiers or two Thudd Guns",
+        "description": "Füge 3 Rapiers oder 2 Thudd Guns hinzu",
         "points": "50 points"
       },
       {

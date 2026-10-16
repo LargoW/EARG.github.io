@@ -1,10 +1,10 @@
 {
-  "fraction": "Eldar / Harlequins",
+  "fraction": "Eldar / Harlekine",
   "army": "Craftworld Lugganath",
   "version": "0.6.2",
   "release": "2022-04-01",
-  "strategy": "Eldar armies have a Strategy Rating of 4.",
-  "Initiative": "Aspect Warriors, Harlequins, Crimson Hunters, Skathach Wraithknights and the Avatar formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Eldar-Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Aspektkrieger, Harlequine, Crimson Hunters, Skathach Wraithknights und Avatar-Formationen haben einen Initiativewert von 1+. Alle anderen Formationen haben einen Initiativewert von 2+.",
   "specialRules": [
       "Avatar (Lugganath)",
     "May not Garrison (Lugganath)",
@@ -17,7 +17,7 @@
     "Masters of the Webway"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Craftworld Lugganath, with Corsair support and Harlequin allies from the Masque of the Veiled Path."
+    "Mit der folgenden Armeeliste kannst du eine Armee des Weltenschiffs Lugganath mit Unterstützung durch Korsaren und Verbündeten der Masque of the Veiled Path aufstellen."
   ],
   "units": [
     {
@@ -90,30 +90,30 @@
   ],
   "sections": [
     {
-      "name": "Craftworld Lugganath Specials",
+      "name": "Spezialregeln des Weltenschiffs Lugganath",
       "formations": [
         {
           "name": "0-1 Avatar",
-          "units": "One Avatar",
+          "units": "Ein Avatar",
           "points": 50
         },
         {
           "name": "1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
           "extraUnits": [
-            "Add an additional Wraithgate: 75 points"
+            "Füge eine zusätzliche Wraithgate hinzu: 75 Punkte"
           ],
           "points": 0
         }
       ]
     },
     {
-      "name": "Craftworld Lugganath Warhosts/Wraithhosts",
-      "description": "Up to one Lugganath Wraithhost for each Lugganath Warhost",
+      "name": "Lugganath-Warhosts/Wraithhosts",
+      "description": "Für jede Lugganath Warhost darf bis zu eine Lugganath Wraithhost gewählt werden.",
       "formations": [
         {
           "name": "Lugganath Warhost",
-          "units": "One Farseer, four Guardians, five Venoms",
+          "units": "Ein Farseer, vier Guardians, fünf Venoms",
           "extraUnits": [
             "Autarch",
             "Windriders"
@@ -122,7 +122,7 @@
         },
         {
           "name": "Lugganath Wraithhost",
-          "units": "One Spiritseer, four Wraithreapers, four Wave Serpents",
+          "units": "Ein Spiritseer, vier Wraithreapers, vier Wave Serpents",
           "extraUnits": [
           ],
           "points": 375
@@ -130,20 +130,20 @@
       ]
     },
     {
-      "name": "Craftworld Lugganath Troupes",
-      "description": "Up to one Lugganath Troupe for each Lugganath Warhost/Wraithhost",
+      "name": "Lugganath-Troupes",
+      "description": "Für jede Lugganath Warhost/Wraithhost darf bis zu eine Lugganath Troupe gewählt werden.",
       "formations": [
         {
           "name": "Corsair Scouts",
-          "units": "Four Ghost Walkers",
+          "units": "Vier Ghost Walkers",
           "extraUnits": [
-            "Replace four Ghost Walkers with four Wasp Walkers: Free"
+            "Ersetze four Ghost Walkers durch four Wasp Walkers: kostenlos"
           ],
           "points": 150
         },
         {
           "name": "Mounted Aspect Warrior Troupe",
-          "units": "Three Wave Serpents and six Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
+          "units": "Drei Wave Serpents und sechs Aspektkrieger-Einheiten aus folgender Auswahl: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
           "extraUnits": [
             "Autarch",
             "Exarch"
@@ -152,73 +152,73 @@
         },
         {
           "name": "Fire Prism Troupe",
-          "units": "Three Fire Prisms",
+          "units": "Drei Fire Prisms",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Swords of Vaul",
-          "units": "Five Falcons",
+          "units": "Fünf Falcons",
           "extraUnits": [
-            "Replace up to two Falcons with Firestorms: Free",
+            "Ersetze bis zu two Falcons durch Firestorms: kostenlos",
             "OR",
-            "Add five Guardians to the formation: 50 points"
+            "Füge fünf Guardians zur Formation hinzu: 50 Punkte"
           ],
           "points": 250
         },
         {
           "name": "Engines of Vaul",
-          "units": "Any one of the following units: Cobra, Storm Serpent, Scorpion",
+          "units": "Eine beliebige Einheit aus folgender Auswahl: Cobra, Storm Serpent oder Scorpion",
           "extraUnits": [
-            "Add up to any two of the following units for 200 points each: Cobra, Storm Serpent, Scorpion"
+            "Füge bis zu zwei Einheiten aus folgender Auswahl hinzu: Cobra, Storm Serpent oder Scorpion: 200 Punkte pro Stück"
           ],
           "points": 250
         }
       ]
     },
     {
-      "name": "Masque of the Veiled Path Saedaths",
-      "description": "Up to one Veiled Path Saedath for each Lugganath Warhost/Wraithhost",
+      "name": "Saedaths der Masque of the Veiled Path",
+      "description": "Für jede Lugganath Warhost/Wraithhost darf bis zu eine Veiled Path Saedath gewählt werden.",
       "formations": [
         {
           "name": "Cegorach's Escape",
-          "units": "One Harlequin Avatar, two Harlequin Troupes, one Death Jesters, three Starweavers",
+          "units": "Ein Harlequin Avatar, zwei Harlequin Troupes, ein Death Jesters, drei Starweavers",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Serpent's Scales",
-          "units": "One Harlequin Avatar, three Skyweavers, two Voidweavers",
+          "units": "Ein Harlequin Avatar, drei Skyweavers, zwei Voidweavers",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Devourer's Hunt",
-          "units": "One Master Mime, six Mimes",
+          "units": "Ein Master Mime, sechs Mimes",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Cegorach's Revenge",
-          "units": "One Harlequin Avatar, two Harlequin Troupes, two Death Jesters, four Starweavers, three Skyweavers",
+          "units": "Ein Harlequin Avatar, zwei Harlequin Troupes, zwei Death Jesters, vier Starweavers, drei Skyweavers",
           "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "0-1 Devourer's Feast",
-          "units": "One Master Mime, one Solitaire, eight Mimes",
+          "units": "Ein Master Mime, ein Solitaire, acht Mimes",
           "extraUnits": [
           ],
           "points": 350
         },
         {
           "name": "0-1 Ynnead's Dream",
-          "units": "One Harlequin Avatar, one Shadowseer, three Harlequin Troupes, three Death Jesters, six Starweavers",
+          "units": "Ein Harlequin Avatar, ein Shadowseer, drei Harlequin Troupes, drei Death Jesters, sechs Starweavers",
           "extraUnits": [
           ],
           "points": 450
@@ -226,42 +226,42 @@
       ]
     },
     {
-      "name": "Craftworld Lugganath Aircraft, Spacecraft and Titans",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Lugganath-Flugzeuge, Raumschiffe und Titanen",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Formationen ausgegeben werden.",
       "formations": [
           {
             "name": "Skathach Wraithknights",
-            "units": "Two Skathach Wraithknights (may not mix configurations)",
+            "units": "Zwei Skathach Wraithknights (darf nicht mischen configurations)",
             "extraUnits": [
             ],
             "points": 350
           },
         {
           "name": "Crimson Aerie",
-          "units": "Two Nightshade Interceptors",
+          "units": "Zwei Nightshade Interceptors",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Hemlock Aerie",
-          "units": "Two Hemlock Wraithfighters",
+          "units": "Zwei Hemlock Wraithfighters",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Corsair Vampire Hunter",
-          "units": "One Corsair Vampire Hunter",
+          "units": "Ein Corsair Vampire Hunter",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "0-1 Spacecraft",
-          "units": "One Wraithship",
+          "units": "Ein Wraithship",
           "extraUnits": [
-            "Replace with a Dragonship: 125 Points"
+            "Ersetze durch ein Dragonship: 125 Punkte"
           ],
           "points": 175
         }
@@ -274,17 +274,17 @@
     "items": [
       {
         "name": "0-1 Autarch",
-        "description": "Add an Eldar Autarch character to a Farseer or Aspect Warriors unit",
+        "description": "Füge an Eldar Autarch character to a Farseer oder Aspect Warriors unit hinzu",
         "points": "75 points"
       },
       {
         "name": "Exarch",
-        "description": "Add one Exarch character to an Aspect Warrior unit",
+        "description": "Füge 1 Exarch character to an Aspect Warrior unit hinzu",
         "points": "25 points"
       },
       {
         "name": "Windriders",
-        "description": "Add up to three Vypers or Eldar Jetbikes",
+        "description": "Füge bis zu drei Vypers oder Eldar Jetbikes hinzu",
         "points": "25 points each"
       }
     ]

@@ -491,7 +491,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May transport one unit of Gun Drones."
+        "notes": "Kann 1 Einheit Gun Drones transportieren."
       },
       {
         "name": "Ion Hammerhead",
@@ -509,7 +509,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May transport one unit of Gun Drones."
+        "notes": "Kann 1 Einheit Gun Drones transportieren."
       },
       {
         "name": "Rail Hammerhead",

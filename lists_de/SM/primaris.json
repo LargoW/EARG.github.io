@@ -4,10 +4,10 @@
   "version": "1.0.beta",
   "release": "2022-05-28",
   "armyforge": "EAR_AdeptusAstartes_Primaris",
-  "intro": "The following army...",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Primaris detachments and aircraft formations.",
+  "intro": "Diese Armeeliste ermöglicht es dir, eine Armee der Primaris Space Marines aufzustellen.",
+  "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
+  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Primaris-Kontingente und Flugzeugverbände.",
   "specialRules": [
     "They Shall Know No Fear"
   ],
@@ -55,7 +55,7 @@
   ],
   "sections": [
     {
-      "name": "Primaris Core Detachments",
+      "name": "Primaris Kernkontingente",
       "formations": [
         {
           "name": "Battle Line Squad",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Primaris Elite Detachments",
+      "name": "Primaris Elitekontingente",
       "formations": [
         {
           "name": "Inceptor Squad",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "Primaris Support Detachments",
+      "name": "Primaris Unterstützungskontingente",
       "formations": [
         {
           "name": "Fire Support Squad",
@@ -134,7 +134,7 @@
           "units": "Four Outriders",
           "extraUnits": [
             "Commander",
-            "Add two Invaders: 75 points"
+            "Füge 2 Invaders hinzu: 75 Punkte"
           ],
           "points": 250
         },
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Codex Astartes Navy, Primaris Super Heavies",
+      "name": "Codex Astartes Flotte, Primaris Super Heavies",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
@@ -172,17 +172,17 @@
     }
   ],
   "upgrades": {
-    "title": "Primaris Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+    "title": "Primaris Aufwertungen",
+    "description": "Jede Aufwertung darf pro Kontingent nur einmal gewählt werden.",
     "items": [
       {
         "name": "Close Support",
-        "description": "Add up to two Gladiator Valiants",
+        "description": "Füge bis zu 2 Gladiator Valiants hinzu",
         "points": "50 points each"
       },
       {
         "name": "Commander",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {
             "description": "Captain, Librarian",
@@ -200,7 +200,7 @@
       },
       {
         "name": "Transports",
-        "description": "Add any number of Impulsors or Repulsors, up to the number required to transport the formation",
+        "description": "Füge beliebig viele Impulsors oder Repulsors, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "options": [
           {
             "description": "Repulsors",
@@ -214,14 +214,14 @@
       },
       {
         "name": "Walkers",
-        "description": "Choose one of the following",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Add up to two Redemptor Dreadnoughts",
+            "description": "Füge bis zu 2 Redemptor Dreadnoughts hinzu",
             "points": "75 points each"
           },
           {
-            "description": "Add up to two Invictor Warsuits",
+            "description": "Füge bis zu 2 Invictor Warsuits hinzu",
             "points": "50 points each"
           }
         ]

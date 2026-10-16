@@ -4,13 +4,13 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_QuestorisMechanicus",
-  "strategy": "Questoris Mechanicus armies have a Strategy Rating of 3.",
-  "Initiative": "All formations have an Initiative Rating of 2+. In addition, all Knight Banner formations are subject to the 'Chivalry' special rule.",
+  "strategy": "Questoris Mechanicus-Armeen haben einen Strategiewert von 3.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 2+. Außerdem unterliegen alle Knight-Banner-Verbände der Sonderregel „Chivalry“. ",
   "specialRules": [
     "Chivalry"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Questoris Mechanicus of the Adeptus Mechancius"
+    "Diese Armeeliste ermöglicht es dir, eine Armee des Questoris Mechanicus des Adeptus Mechanicus aufzustellen."
   ],
   "units": [
     {
@@ -68,15 +68,15 @@
   ],
   "sections": [
     {
-      "name": "Core Banners",
-      "description": "Pro Questoris Banner darf bis zu ein Dominus Banner aufgestellt werden",
+      "name": "Kernbanner",
+      "description": "Pro Questoris Banner darf bis zu ein Dominus Banner aufgestellt werden.",
       "formations": [
         {
           "name": "Questoris",
           "units": "Two Questoris Knight-Paladins, Crusaders, Errants, Wardens or Gallants. May not mix configurations",
           "extraUnits": [
-            "Add one Questoris Knight of the same configuration: 125 points",
-            "Add one Twin Icarus Autocannon to each Questoris Knight in a formation with Knight-Paladins, Crusaders or Errants: 25 points",
+            "Füge 1 Questoris Knight of the same configuration hinzu: 125 Punkte",
+            "Füge 1 Twin Icarus Autocannon to je Questoris Knight in a formation mit Knight-Paladins, Crusaders oder Errants hinzu: 25 Punkte",
             "Seneschal",
             "Lord Seneschal"
           ],
@@ -94,14 +94,14 @@
       ]
     },
     {
-      "name": "Recon Banners",
-      "description": "Pro Core Banner darf bis zu ein Recon Banner aufgestellt werden",
+      "name": "Aufklärungsbanner",
+      "description": "Pro Kernbanner darf bis zu ein Aufklärungsbanner aufgestellt werden.",
       "formations": [
         {
           "name": "Cerastus",
           "units": "One Cerastus Knight",
           "extraUnits": [
-            "Add one Cerastus Knight of the same configuration: 175 points",
+            "Füge 1 Cerastus Knight of the same configuration hinzu: 175 Punkte",
             "Seneschal"
           ],
           "points": 225
@@ -110,16 +110,16 @@
           "name": "Armiger",
           "units": "Four Knight-Warglaives or three Knight-Helverins",
           "extraUnits": [
-            "Add one Armiger Knight of the same configuration: 50 points",
-            "Add one Knight-Preceptor with a Seneschal: 175 points"
+            "Füge 1 Armiger Knight of the same configuration hinzu: 50 Punkte",
+            "Füge 1 Knight-Preceptor mit a Seneschal hinzu: 175 Punkte"
           ],
           "points": 200
         }
       ]
     },
     {
-      "name": "Relic Banners",
-      "description": "Pro part of 1500 Punkte in the army dürfen bis zu ein Relic Banner aufgestellt werden.",
+      "name": "Relic Banner",
+      "description": "Pro angefangene 1.500 Punkte der Armee darf ein Relic Banner aufgestellt werden.",
       "formations": [
         {
           "name": "Armiger Reliquae",
@@ -132,7 +132,7 @@
           "name": "Questoris Reliquae",
           "units": "One Questoris Relic Knight-Styrix or Knight-Magaera",
           "extraUnits": [
-            "Add one Questoris Relic Knight of the same configuration: 175 points",
+            "Füge 1 Questoris Relic Knight of the same configuration hinzu: 175 Punkte",
             "Seneschal"
           ],
           "points": 200
@@ -148,7 +148,7 @@
           "name": "Acastus Reliquae",
           "units": "One Acastus Relic Knight-Porphyrion or Knight-Asterius",
           "extraUnits": [
-            "Add one Acastus Relic Knight of the same configuaration: 225 points",
+            "Füge 1 Acastus Relic Knight of the same configuaration hinzu: 225 Punkte",
             "Seneschal"
           ],
           "points": 300
@@ -156,14 +156,14 @@
       ]
     },
     {
-      "name": "Mechanicus Allies",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Forge World allies ausgegeben werden.",
+      "name": "Mechanicus Verbündete",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für Verbündete der Forge World ausgegeben werden.",
       "formations": [
         {
           "name": "Skitarii Maniple",
           "units": "Magos, nine Hypaspists, one Gorgon",
           "extraUnits": [
-            "Replace the Gorgon with five Skorpius Duneriders: Free"
+            "Ersetze den Gorgon durch 5 Skorpius Duneriders: Free"
           ],
           "points": 325
         },
@@ -176,7 +176,7 @@
           "name": "Skorpius Maniple",
           "units": "Four Skorpius Disintegrators",
           "extraUnits": [
-            "Add up to two Skorpius Disintegrators: 50 points each"
+            "Füge bis zu 2 Skorpius Disintegrators hinzu: 50 Punkte pro Stück"
           ],
           "points": 225
         },
@@ -194,17 +194,17 @@
     }
   ],
   "upgrades": {
-    "title": "Questoris Mechanicus Upgrades",
+    "title": "Questoris Mechanicus Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Seneschal",
-        "description": "Add one Seneschal to the formation",
+        "description": "Füge 1 Seneschal zum Verband hinzu",
         "points": "25 points"
       },
       {
-        "name": "Lord Seneschal (0-1 per Army)",
-        "description": "Replace the Seneschal with a Lord Seneschal",
+        "name": "Lord Seneschal (0–1 pro Armee)",
+        "description": "Ersetze den Seneschal durch a Lord Seneschal",
         "points": "50 points"
       }
     ]

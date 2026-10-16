@@ -4,8 +4,8 @@
   "version": "1.0.Beta",
   "release": "2023-07-02",
   "armyforge": "EAR_ImperialGuard_Elysian",
-  "strategy": "Elysian Drop Troops armies have a Strategy Rating of 3.",
-  "Initiative": "All formations have a Initiative of 2+.",
+  "strategy": "Elysian Drop Troops-Armeen haben einen Strategiewert von 3.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Courage, Discipline and Loyalty",
     "Air Superiority",
@@ -64,7 +64,7 @@
   ],
   "sections": [
     {
-      "name": "Elysian Core Formations",
+      "name": "Elysian Kernverbände",
       "formations": [
         {
           "name": "0-1 Regimental HQ",
@@ -89,14 +89,14 @@
       ]
     },
     {
-      "name": "Elysian Support Formations",
-      "description": "Pro Core Company dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
+      "name": "Elysian Unterstützungsverbände",
+      "description": "Pro Kernkompanie dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Drop Sentinel Squadron",
           "units": "Six Drop Sentinels",
           "extraUnits": [
-            "Add three Sky Talons: 75 points"
+            "Füge 3 Sky Talons hinzu: 75 Punkte"
           ],
           "points": 175
         },
@@ -104,8 +104,8 @@
           "name": "Sentinel Squadron",
           "units": "Four Sentinels",
           "extraUnits": [
-            "Replace all Sentinels with Armoured Sentinels: 25 points",
-            "Replace all Sentinels with Support Sentinels: 50 points"
+            "Ersetze all Sentinels durch Armoured Sentinels: 25 Punkte",
+            "Ersetze all Sentinels durch Support Sentinels: 50 Punkte"
           ],
           "points": 100
         },
@@ -123,7 +123,7 @@
           "name": "Tauros Venator Squadron",
           "units": "Four Tauros Venators",
           "extraUnits": [
-            "Add up to two Tauros Venators: 25 points each"
+            "Füge bis zu 2 Tauros Venators hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
         },
@@ -140,8 +140,8 @@
       ]
     },
     {
-      "name": "Static Defenses & Imperial Navy Allies",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. Up to ein Tarantula Verband pro Tauros Recon or Venator Squadron",
+      "name": "Statische Verteidigungsanlagen & Imperial Flotte Verbündete",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. Pro Tauros-Aufklärungs- oder Venator-Schwadron darf höchstens ein Tarantula-Verband aufgestellt werden.",
       "formations": [
         {
           "name": "Tarantula",
@@ -173,29 +173,29 @@
           "units": "One Lunar Class Cruiser",
           "points": 150,
           "extraUnits": [
-            "Replace the Lunar Class Cruiser with an Emperor Class Battleship: 25 points"
+            "Ersetze den Lunar Class Cruiser durch an Emperor Class Battleship: 25 Punkte"
           ]
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Elysian Upgrades",
+    "title": "Elysian Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Drop Sentinels",
-        "description": "Replace two Elysian Drop Troops with two Drop Sentinels and one Sky Talon",
+        "description": "Ersetze 2 Elysian Drop Troops durch 2 Drop Sentinels und 1 Sky Talon",
         "points": "Free"
       },
       {
         "name": "Fire Support",
-        "description": "Replace two Elysian Drop Troops with two Elysian Fire Support Squads",
+        "description": "Ersetze 2 Elysian Drop Troops durch 2 Elysian Fire Support Squads",
         "points": "25 points"
       },
       {
         "name": "Infantry Platoon",
-        "description": "Add two Elysian Drop Troops",
+        "description": "Füge 2 Elysian Drop Troops hinzu",
         "points": "75 points"
       }
     ]

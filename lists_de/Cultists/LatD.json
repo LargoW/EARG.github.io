@@ -4,15 +4,15 @@
   "version": "1.0.Beta-2",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_LatD",
-  "strategy": "Lost and the Damned armies have a Strategy Rating of 1.",
-  "Initiative": "Chaos Space Marine formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Lost and the Damned-Armeen haben einen Strategiewert von 1.",
+  "Initiative": "Chaos Space Marine-Verbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Summoning",
     "Lost and the Damned Summoning Rules",
     "LatD Eternal Animosity"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Lost and the Damned, the Cultists of Chaos."
+    "Diese Armeeliste ermöglicht es dir, eine Armee auf Grundlage der Lost and the Damned, der Chaos-Kultisten, aufzustellen."
   ],
   "units": [
     {
@@ -100,7 +100,7 @@
   ],
   "sections": [
     {
-      "name": "Cultist Coven Formations",
+      "name": "Cultist Coven Verbände",
       "formations": [
         {
           "name": "Cultist Coven",
@@ -113,14 +113,14 @@
       ]
     },
     {
-      "name": "Chaos, Dark Mechanicus and Infestation Support Covens",
-      "description": "Pro Cultist Coven. Army dürfen nicht gemischt werden Nurgle/Tzeentch or Slaanesh/Khorne Verbände. Support Covens are 0-1 pro part of 1500 Punkte in the army dürfen zwei Support Coven Verbände aufgestellt werden",
+      "name": "Chaos-, Dark-Mechanicus- und Infestations-Unterstützungszirkel",
+      "description": "Nurgle/Tzeentch-Verbände dürfen nicht mit Slaanesh/Khorne-Verbänden in derselben Armee gemischt werden. Pro angefangene 1.500 Punkte der Armee dürfen bis zu zwei Unterstützungszirkel aufgestellt werden; dabei gilt eine Begrenzung von 0–1 pro Cultist-Coven-Armee.",
       "formations": [
         {
           "name": "Chaos Space Marines of Chaos Undivided",
           "units": "Six Chaos Space Marines, three Chaos Rhinos, Daemonic Pact",
           "extraUnits": [
-            "Add one Champion of Chaos: 50 points"
+            "Füge 1 Champion of Chaos hinzu: 50 Punkte"
           ],
           "points": 275
         },
@@ -154,7 +154,7 @@
           "name": "Questors of Slaanesh",
           "units": "One Questor",
           "upgrades": [
-            "Add one Questor: 200 points"
+            "Füge 1 Questor hinzu: 200 Punkte"
           ],
           "points": 275
         },
@@ -162,7 +162,7 @@
           "name": "Subjugators of Slaanesh",
           "units": "One Subjugator",
           "upgrades": [
-            "Add one Subjugator: 200 points"
+            "Füge 1 Subjugator hinzu: 200 Punkte"
           ],
           "points": 275
         },
@@ -224,14 +224,14 @@
           "name": "Firelords of Tzeentch",
           "units": "Two Firelords",
           "upgrades": [
-            "Add one Firelord: 100 points"
+            "Füge 1 Firelord hinzu: 100 Punkte"
           ],
           "points": 250
         }
       ]
     },
     {
-      "name": "Daemon Pool",
+      "name": "Dämonenpool",
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
@@ -248,66 +248,66 @@
     }
   ],
   "upgrades": {
-    "title": "Lost and the Damned Upgrades",
-    "description": "Each upgrade may be taken once per formation. Max 4 different upgrades per formation.",
+    "title": "Aufwertungen für Lost and the Damned",
+    "description": "Jede Aufwertung darf pro Verband nur einmal gewählt werden. Höchstens 4 verschiedene Aufwertungen pro Verband.",
     "items": [
       {
         "name": "0-1 Supreme Commander",
-        "description": "Choose one of the following:",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Add an Arch-Heretic character to a Demagogue or Aspiring Champion in the army",
+            "description": "Füge 1 Arch-Heretic character zu einem Demagogue oder Aspiring Champion in der Armee hinzu",
             "points": "50 points"
           },
           {
-            "description": "Replace an Aspiring Champion with a Daemon Prince",
+            "description": "Ersetze 1 Aspiring Champion durch einen Daemon Prince",
             "points": "100 points"
           }
         ]
       },
       {
         "name": "Demagogue",
-        "description": "Replace the Aspiring Champion with a Demagogue",
+        "description": "Ersetze den Aspiring Champion durch a Demagogue",
         "points": "25 points"
       },
       {
         "name": "Icon Bearer",
-        "description": "Add one Icon Bearer character",
+        "description": "Füge 1 Icon Bearer character hinzu",
         "points": "25 points"
       },
       {
         "name": "Cultists/Mutants",
-        "description": "Add up to four Cultists/Mutants",
+        "description": "Füge bis zu 4 Cultists/Mutants hinzu",
         "points": "10 points each"
       },
       {
         "name": "Big Mutants",
-        "description": "Replace up to four Cultists/Mutants with Big Mutants",
+        "description": "Ersetze bis zu 4 Cultists/Mutants durch Big Mutants",
         "points": "15 points each"
       },
       {
         "name": "Chaos Spawn",
-        "description": "Add one Chaos Spawn",
+        "description": "Füge 1 Chaos Spawn hinzu",
         "points": "35 points"
       },
       {
         "name": "Chaos Hounds",
-        "description": "Add up to three Chaos Hounds",
+        "description": "Füge bis zu 3 Chaos Hounds hinzu",
         "points": "10 points each"
       },
       {
         "name": "Chaos Altar",
-        "description": "Add one Chaos Altar",
+        "description": "Füge 1 Chaos Altar hinzu",
         "points": "150 points"
       },
       {
         "name": "Technicals",
-        "description": "Add up to four Technicals",
+        "description": "Füge bis zu 4 Technicals hinzu",
         "points": "20 points each"
       },
       {
         "name": "Land Transporters",
-        "description": "Add enough Land Transporters to transport the formation",
+        "description": "Füge genügend Land Transporters hinzu, um den Verband zu transportieren",
         "points": "10 points each"
       }
     ]

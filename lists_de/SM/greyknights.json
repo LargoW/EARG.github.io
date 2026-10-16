@@ -3,9 +3,9 @@
   "army": "Blood Ravens",
   "version": "0.5.0",
   "release": "2022-04-01",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all formations.",
+  "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
+  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Verbände.",
   "specialRules": [
     "Space Marine Transports",
     "Grey Knights Transports",
@@ -61,14 +61,14 @@
   ],
   "sections": [
     {
-      "name": "Blood Ravens Formations",
-      "description": "Es muss ein Orbital Support-Verband aufgestellt werden.",
+      "name": "Blood Ravens Verbände",
+      "description": "Es muss ein Orbital-Unterstützungsverband aufgestellt werden.",
       "formations": [
         {
           "name": "1 Orbital Support",
           "units": "Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Replace the Light Cruiser with a Grey Knights Strike Cruiser: 75 points"
+            "Ersetze den Light Cruiser durch a Grey Knights Strike Cruiser: 75 Punkte"
           ],
           "points": 150
         },
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "name": "Grey Knights Detachments",
+      "name": "Grey Knights Kontingente",
       "description": "Pro Blood Ravens Kontingent darf ein Grey Knights Kontingent aufgestellt werden",
       "formations": [
         {
@@ -163,14 +163,14 @@
           "name": "Dreadknights",
           "units": "Two Nemesis Dreadknights",
           "extraUnits": [
-          "Add one additional Nemesis Dreadknight: 100 points"
+          "Füge 1 additional Nemesis Dreadknight hinzu: 100 Punkte"
           ],
           "points": 250
         }
       ]
     },
     {
-      "name": "Blood Ravens Aircraft",
+      "name": "Blood Ravens Flugzeuge",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
@@ -197,15 +197,15 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "(0-1 per army) Supreme Commander",
-        "description": "Replace a Blood Ravens Librarian with a Blood Ravens Supreme Commander, or a Justicar with a Grey Knights Grand Master",
+        "name": "(0–1 pro Armee) Supreme Commander",
+        "description": "Ersetze 1 Blood Ravens Librarian durch a Blood Ravens Supreme Commander, oder a Justicar durch a Grey Knights Grand Master",
         "points": [
           "50 points"
         ]
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Dreadnoughts or Hellfire Dreadnoughts",
+        "description": "Füge bis zu 2 Dreadnoughts oder Hellfire Dreadnoughts hinzu",
         "points": [
           "50 points each",
           "75 points per pair"
@@ -213,7 +213,7 @@
       },
       {
         "name": "Land Raiders",
-        "description": "Add any number of Land Raiders or Land Raider Helios (Whirlwind or Hyperios), up to the number required to transport the formation",
+        "description": "Füge beliebig viele Land Raiders oder Land Raider Helios (Whirlwind oder Hyperios), bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": [
           "Land Raiders: 50 points",
           "Land Raider Helios: 75 points"
@@ -221,14 +221,14 @@
       },
             {
         "name": "Vortimer Razorbacks",
-        "description": "Add up to three Vortimer Razorbacks, up to the number required to transport the formation",
+        "description": "Füge bis zu 3 Vortimer Razorbacks, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": [
           "25 points each"
         ]
       },
             {
         "name": "Grey Knights Support",
-        "description": "Add one of the following options to the formation",
+        "description": "Füge eine der folgenden Optionen zum Verband hinzu.",
         "points": [
           "Up to two Doomglaive Dreadnoughts: 50 points each",
           "Up to two Vortimer Land Raiders: 50 points each",

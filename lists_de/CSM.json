@@ -236,7 +236,7 @@
           "Augment Summoning (+2D3)",
           "Invulnerable Save"
         ],
-        "notes": "May be sacrificed. Before rolling its formations summoning points this unit’s Augment Summoning (+2D3) ability is changed to Augment Summoning (+6). After this roll the unit with the Champion is destroyed with no saves allowed. A unit sacrificed in this way does not cause a Blast Marker."
+        "notes": "Darf geopfert werden. Vor dem Wurf für die Beschwörungspunkte des Verbands wird die Fähigkeit Augment Summoning (+2D3) dieser Einheit durch Augment Summoning (+6) ersetzt. Nach diesem Wurf wird die Einheit mit dem Champion zerstört; Schutzwürfe sind nicht zulässig. Eine auf diese Weise geopferte Einheit verursacht keinen Beschussmarker."
       },
       {
         "name": "Night Lords Sergeant",
@@ -764,7 +764,7 @@
           "Jump Packs",
           "Fearless"
         ],
-        "notes": "Must start the game in the reserves, and may only enter the battlefield by Teleportation. May not be transported."
+        "notes": "Muss das Spiel in Reserve beginnen und darf das Spielfeld nur durch Teleportieren betreten. Kann nicht transportiert werden."
       },
       {
         "name": "Daemonkin",
@@ -1044,7 +1044,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators and Obliterators) without Jump Packs or Mounted."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminators und Obliterators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Chaos Siege Rhino",
@@ -1060,7 +1060,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators and Obliterators) without Jump Packs or Mounted."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminators und Obliterators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Alpha Legion Rhino",
@@ -1076,7 +1076,7 @@
           "Stubborn",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Death Guard Rhino",
@@ -1091,7 +1091,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Emperor's Children Rhino",
@@ -1106,7 +1106,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "World Eaters Rhino",
@@ -1121,7 +1121,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Thousand Sons Rhino",
@@ -1137,7 +1137,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Chaos Land Raider",
@@ -1155,7 +1155,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Chaos Terminators, Obliterators counts as two units each."
+        "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Chaos Terminators und Obliterators zählen jeweils als 2 Einheiten."
       },
       {
         "name": "Alpha Legion Land Raider",
@@ -1174,7 +1174,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Emperor's Children Land Raider",
@@ -1192,7 +1192,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Sirenshriek Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "Kann 1 Sirenshriek-Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Death Guard Land Raider",
@@ -1211,7 +1211,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Blightlord Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "Kann 1 Blightlord-Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "World Eaters Land Raider",
@@ -1229,7 +1229,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport two Terminators, Mutilators, or three infantry units without Jump Packs or Mounted."
+        "notes": "Kann 2 Terminators, Mutilators oder 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Thousand Sons Land Raider",
@@ -1247,7 +1247,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Terminator or two infantry units without Jump Packs or Mounted."
+        "notes": "Kann 1 Terminator oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Chaos Predator",
@@ -1581,7 +1581,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport four infantry units without Jump Packs or Mounted. Terminators count as two units each."
+        "notes": "Kann 4 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminators zählen jeweils als 2 Einheiten."
       },
       {
         "name": "Chaos Typhon Heavy Siege Tank",

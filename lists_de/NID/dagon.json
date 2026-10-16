@@ -4,8 +4,8 @@
   "version": "1.0.beta-4",
   "release": "2024-05-21",
   "armyforge": "EAR_Tyranid_HiveFleetDagon",
-  "strategy": "Tyranid armies have a Strategy Rating of 1.",
-  "Initiative": "The Nexus Swarm has an Initiative Rating of 1+. All other Tyranid formations have an Initiative Rating of 2+. In addition, all formations are subject to the 'Hive Mind' special rule.",
+  "strategy": "Tyraniden-Armeen haben einen Strategiewert von 1.",
+  "Initiative": "Der Nexus-Schwarm hat einen Initiativewert von 1+. Alle anderen Tyraniden-Formationen haben einen Initiativewert von 2+. Außerdem unterliegen alle Formationen der Sonderregel 'Hive Mind'.",
   "specialRules": [
     "Synapse",
     "Hive Mind Locus",
@@ -74,96 +74,96 @@
   ],
   "sections": [
     {
-      "name": "Primary Synapse Swarms",
+      "name": "Primäre Synapsenschwärme",
       "formations": [
         {
           "name": "0-1 Nexus Swarm",
-          "units": "One Dagon Dominatrix",
+          "units": "Ein Dagon Dominatrix",
           "extraUnits": [
-            "One to four Instinctive Swarms"
+            "Ein bis vier Instinctive Swarms"
           ],
           "points": 400
         },
         {
           "name": "Tyrant Swarm",
-          "units": "One Hive Tyrant",
+          "units": "Ein Hive Tyrant",
           "extraUnits": [
-            "Two to four Instinctive Swarms",
-            "Replace the Hive Tyrant with a Hive Tyrant Shrike: Free",
+            "Zwei bis vier Instinctive Swarms",
+            "Ersetze den Hive Tyrant durch einen Hive Tyrant Shrike: kostenlos",
             "0-1 Hive Tyrant in the army may be replaced with the Dagon Overlord: 75 points",
-            "Replace the Dagon Overlord with a Dagon Overlord Shrike: Free",
-            "Transport the formation in a Mycetic Spore (all units must be able to be transported) and deploy via planetary assault rules from a Razorfiend or Hive Ship: 50 points"
+            "Ersetze den Dagon Overlord durch einen Dagon Overlord Shrike: kostenlos",
+            "Transportiere die Formation in einer Mycetic Spore (alle Einheiten müssen transportiert werden können) und setze sie gemäß den Planetary-Assault-Regeln von einer Razorfiend oder einem Hive Ship aus ein: 50 Punkte"
           ],
           "points": 125
         },
         {
           "name": "Assault Swarm",
-          "units": "Two Tyranid Warriors",
+          "units": "Zwei Tyranid Warriors",
           "extraUnits": [
-            "One to two Instinctive Swarms",
+            "Ein bis zwei Instinctive Swarms",
             "1+ Gaunts, Gargoyles, or Bio-Support must be chosen",
-            "Replace two Tyranid Warriors with Tyranid Warrior Shrikes: Free",
-            "Replace two Tyranid Warriors with Zoanthropes: 25pts",
-            "Transport the formation in a Mycetic Spore (all units must be able to be transported) and deploy via planetary assault rules from a Razorfiend or Hive Ship: 50 points"
+            "Ersetze two Tyranid Warriors durch Tyranid Warrior Shrikes: kostenlos",
+            "Ersetze two Tyranid Warriors durch Zoanthropes: 25pts",
+            "Transportiere die Formation in einer Mycetic Spore (alle Einheiten müssen transportiert werden können) und setze sie gemäß den Planetary-Assault-Regeln von einer Razorfiend oder einem Hive Ship aus ein: 50 Punkte"
           ],
           "points": 100
         }
       ]
     },
     {
-      "name": "Secondary Synapse Swarms",
-      "description": "Up to one Secondary Synapse Swarm for each Primary Synapse Swarm.",
+      "name": "Sekundäre Synapsenschwärme",
+      "description": "Pro Primary Synapse Swarm darf bis zu ein Secondary Synapse Swarm gewählt werden.",
       "formations": [
         {
           "name": "Nest Swarm",
-          "units": "One Hive Nest",
+          "units": "Ein Hive Nest",
           "extraUnits": [
-            "One to two Instinctive Swarms chosen from Gaunts, Gargoyles, Bio-Support, or Bio-Artillery"
+            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Bio-Support, or Bio-Artillery"
           ],
           "points": 150
         },
         {
           "name": "Breacher Swarm",
-          "units": "One Hierodule Prime (Barbed or Scythed)",
+          "units": "Ein Hierodule Prime (Barbed oder Scythed)",
           "extraUnits": [
-            "One to two Instinctive Swarms chosen from Gaunts, Gargoyles, Burrower, Carnifex or Bio-Attack"
+            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Burrower, Carnifex or Bio-Attack"
           ],
           "points": 125
         },
         {
           "name": "Infestation Swarm",
-          "units": "Three Ravener Alphas or one Trygon Prime",
+          "units": "Drei Ravener Alphas oder ein Trygon Prime",
           "extraUnits": [
-            "One to two Burrower Instinctive Swarms"
+            "Ein bis zwei Burrower Instinctive Swarms"
           ],
           "points": 150
         },
         {
           "name": "Harasser Swarm",
-          "units": "One Harridan",
+          "units": "Ein Harridan",
           "extraUnits": [
             "Zero to two Instinctive Swarms chosen from Gargoyles or Bio-Flyers",
-            "Add one Harridan: 100 points"
+            "Füge 1 Harridan hinzu: 100 Punkte"
           ],
           "points": 175
         }
       ]
     },
     {
-      "name": "Common Independent Swarms",
-      "description": "Up to one Common Independent Swarm for each Primary Synapse Swarm. No more than a third of the army.",
+      "name": "Häufige unabhängige Schwärme",
+      "description": "Pro Primary Synapse Swarm darf bis zu ein Common Independent Swarm gewählt werden. Diese Formationen dürfen höchstens ein Drittel der Armee ausmachen.",
       "formations": [
         {
           "name": "Genestealer Swarm",
-          "units": "One Brood Lord, six Genestealers",
+          "units": "Ein Brood Lord, sechs Genestealers",
           "extraUnits": [
-            "Add up to three Genestealers: 25 points each"
+            "Füge bis zu drei Genestealers hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         },
         {
           "name": "Lictor Swarm",
-          "units": "Four Lictors",
+          "units": "Vier Lictors",
           "extraUnits": [
           ],
           "points": 225
@@ -171,22 +171,22 @@
       ]
     },
     {
-      "name": "Rare Independent Swarms",
-      "description": "Up to one Rare Independent Swarm for each Primary Synapse Swarm. No more than a third of the army.",
+      "name": "Seltene unabhängige Schwärme",
+      "description": "Pro Primary Synapse Swarm darf bis zu ein Rare Independent Swarm gewählt werden. Diese Formationen dürfen höchstens ein Drittel der Armee ausmachen.",
       "formations": [
         {
           "name": "Bio-Titan",
-          "units": "One Hierophant Bio-Titan",
+          "units": "Ein Hierophant Bio-Titan",
           "extraUnits": [
-            "Replace the Hierophant with a Hydraphant Bio-Titan: 100 points"
+            "Ersetze den Hierophant durch einen Hydraphant Bio-Titan: 100 Punkte"
           ],
           "points": 325
         },
         {
           "name": "Bio-Vessel",
-          "units": "One Razorfiend",
+          "units": "Ein Razorfiend",
           "extraUnits": [
-            "Replace the Razorfiend with a Hive Ship: Free"
+            "Ersetze die Razorfiend durch ein Hive Ship: kostenlos"
           ],
           "points": 150
         }

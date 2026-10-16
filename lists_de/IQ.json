@@ -534,7 +534,7 @@
           "Walker",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Mounted or Jet Packs."
+        "notes": "Kann 2 Infanterieeinheiten ohne Beritten oder Jet Packs transportieren."
       },
       {
         "name": "Sororitas Immolator",
@@ -617,7 +617,7 @@
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Mounted or Jet Packs.",
+        "notes": "Kann 8 Infanterieeinheiten ohne Beritten oder Jet Packs transportieren.",
         "crit": "The Cathedral of the God-Emperor takes D3 additional damage, and D6 transported units takes a hit."
       }
     ]

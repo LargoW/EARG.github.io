@@ -4,9 +4,9 @@
   "version": "1.0.Beta-2",
   "release": "2022-04-28",
   "armyforge": "EAR_Ork_FeralOrk",
-  "intro": "Unlike the very rigid formations used by the Imperium, Ork formations vary widely in both size and composition. The rules for creating Ork formations reflect this. The most common type of Ork formation is the warband. Other more specialised formations do exist, such as Kults of Speed and Blitz Brigades. The different types of Ork formations you may choose are shown on the army list that follows.</p><p>Some Ork formations come in different sizes: Normal, Big & 'Uge. A Big formation is double in size and a 'Uge formation is triple. If there is a limitation to formation upgrades, then the limit is doubled for a big formation and tripled for a ’uge formation. For example, a normal sized Kult of Speed can include 0–1 Oddboy, a big Kult of Speed can include 0–2, and a 'Uge Kult of Speed can include 0–3.",
-  "strategy": "Snakebite Clan armies have a Strategy Rating of 3.",
-  "Initiative": "All formations have an Initiative Rating of 3+.",
+  "intro": "Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Kults of Speed und Blitz Brigades. Die verfügbaren Ork-Verbände sind in der folgenden Armeeliste aufgeführt.</p><p>Einige Ork-Verbände gibt es in verschiedenen Größen: Normal, Big und 'Uge. Ein Big-Verband ist doppelt so groß, ein 'Uge-Verband dreimal so groß. Begrenzungen für Aufwertungen werden bei einem Big-Verband verdoppelt und bei einem 'Uge-Verband verdreifacht. So kann eine normale Kult of Speed beispielsweise 0–1 Oddboy enthalten, eine Big-Kult of Speed 0–2 und eine 'Uge-Kult of Speed 0–3.",
+  "strategy": "Snakebite Clan-Armeen haben einen Strategiewert von 3.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 3+.",
   "specialRules": [
     "Snakebite Clan Warlords",
     "Mob Rule",
@@ -46,22 +46,22 @@
   ],
   "sections": [
     {
-      "name": "Snakebites War Hordes",
+      "name": "Snakebites Kriegshorden",
       "formations": [
         {
           "name": "Snakebites Warband",
           "units": "Two Brutes, six Huntas and three Grotz",
           "extraUnits": [
-            "Any number of Huntas: 15 points each",
-            "Any number of Wildboyz: 15 points each",
-            "Any number of Boarboyz: 25 points each",
-            "Add up to three Squig Katapults: 25 points each",
-            "Any number of Huntas + Grotz: 35 points",
-            "Add one unit of Brutes: 35 points each",
-            "Add one Wyrdboy to a unit of Brutes: 25 points each",
-            "Add up to two Squiggoth Flakkas: 40 points each",
-            "Add three Squiggoth Supa-Lobbas: 100 points",
-            "Add enough Squiggoths to transport the entire formation: 30 points each, one Gargantuan Squiggoth: 100 points or one Orkeosaurus: 175 points"
+            "beliebig viele Huntas: 15 Punkte pro Stück",
+            "beliebig viele Wildboyz: 15 Punkte pro Stück",
+            "beliebig viele Boarboyz: 25 Punkte pro Stück",
+            "Füge bis zu 3 Squig Katapults hinzu: 25 Punkte pro Stück",
+            "beliebig viele Huntas + Grotz: 35 points",
+            "Füge 1 Einheit von Brutes hinzu: 35 Punkte pro Stück",
+            "Füge 1 Wyrdboy zu einem Einheit von Brutes hinzu: 25 Punkte pro Stück",
+            "Füge bis zu 2 Squiggoth Flakkas hinzu: 40 Punkte pro Stück",
+            "Füge 3 Squiggoth Supa-Lobbas hinzu: 100 Punkte",
+            "Füge enough Squiggoths to transport the entire formation hinzu: 30 Punkte pro Stück, 1 Gargantuan Squiggoth: 100 Punkte oder 1 Orkeosaurus: 175 Punkte"
           ],
           "pointsOptions": [
             {
@@ -82,8 +82,8 @@
           "name": "Boarboyz Horde",
           "units": "One Pigdok, eight Boarboyz",
           "extraUnits": [
-            "Any number of Boarboyz: 25 points each",
-            "Add up to one Wyrdboy: 25 points"
+            "beliebig viele Boarboyz: 25 Punkte pro Stück",
+            "Füge bis zu 1 Wyrdboy hinzu: 25 Punkte"
           ],
           "pointsOptions": [
             {
@@ -103,16 +103,16 @@
       ]
     },
     {
-      "name": "Snakebites Support Mobs",
-      "description": "Pro Snakebites War Horde darf ein Snakebites Support Mob aufgestellt werden",
+      "name": "Snakebites Unterstützungs-Mobs",
+      "description": "Pro Snakebites War Horde darf ein Snakebites-Unterstützungs-Mob aufgestellt werden.",
       "formations": [
         {
           "name": "Junka Brigade",
           "units": "One Brutes, five Junkas and six Junkatrukks ",
           "extraUnits": [
-            "Any number of Junkas + Junkatrukk: 30 points",
-            "Add one Brutes + Junkatrukk: 50 points",
-            "Add one Wyrdboy to a unit of Brutes: 25 points"
+            "beliebig viele Junkas + Junkatrukk: 30 points",
+            "Füge 1 Brutes + Junkatrukk hinzu: 50 Punkte",
+            "Füge 1 Wyrdboy zu einem Einheit von Brutes hinzu: 25 Punkte"
           ],
           "pointsOptions": [
             {
@@ -129,7 +129,7 @@
           "name": "Lobba Mob",
           "units": "Six Lobbas",
           "extraUnits": [
-            "Add up to one unit of Brutes: 35 points"
+            "Füge bis zu 1 Einheit von Brutes hinzu: 35 points"
           ],
           "points": 150
         },
@@ -137,8 +137,8 @@
           "name": "Madboyz Mob",
           "units": "Six Madboyz",
           "extraUnits": [
-            "Add up to six Madboyz: 25 points each",
-            "Add up to three Wyrdboys: 25 points each"
+            "Füge bis zu 6 Madboyz hinzu: 25 Punkte pro Stück",
+            "Füge bis zu 3 Wyrdboys hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
         },
@@ -146,7 +146,7 @@
           "name": "Trappas Mob",
           "units": "Eight Trappas",
           "extraUnits": [
-            "Add any number of Trappas: 25 points each"
+            "Füge beliebig viele Trappas hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         },
@@ -154,12 +154,12 @@
           "name": "Wildboyz Mob",
           "units": "One Brute, seven Wildboyz",
           "extraUnits": [
-            "Any number of Wildboyz: 15 points each",
-            "Add one Brutes: 35 points each",
-            "Add one Wyrdboy to a unit of Brutes: 25 points",
-            "Add up to two Squiggoth Flakkas: 40 points each",
-            "Add three Squiggoth Supa-Lobbas: 100 points",
-            "Add enough Squiggoths to transport the entire formation: 30 points each, one Gargantuan Squiggoth: 100 points or one Orkeosaurus: 175 points"
+            "beliebig viele Wildboyz: 15 Punkte pro Stück",
+            "Füge 1 Brutes hinzu: 35 Punkte pro Stück",
+            "Füge 1 Wyrdboy zu einem Einheit von Brutes hinzu: 25 Punkte",
+            "Füge bis zu 2 Squiggoth Flakkas hinzu: 40 Punkte pro Stück",
+            "Füge 3 Squiggoth Supa-Lobbas hinzu: 100 Punkte",
+            "Füge enough Squiggoths to transport the entire formation hinzu: 30 Punkte pro Stück, 1 Gargantuan Squiggoth: 100 Punkte oder 1 Orkeosaurus: 175 Punkte"
           ],
           "pointsOptions": [
             {
@@ -176,13 +176,13 @@
   },
     {
       "name": "Snakebites Gargants",
-      "description": "Up to 25% of the verfügbaren Punkte may be spent on diese Verbände",
+      "description": "Bis zu 25 % der verfügbaren Punkte dürfen für diese Verbände ausgegeben werden.",
       "formations": [
           {
             "name": "Snakebites Gargant Mob",
             "units": "One Steam Gargant",
             "extraUnits": [
-                "Add one Steam Gargant: 175 points"
+                "Füge 1 Steam Gargant hinzu: 175 Punkte"
             ],
             "points": 225
           }

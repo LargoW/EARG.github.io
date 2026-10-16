@@ -3,13 +3,13 @@
   "army": "Catachan Jungle Fighters",
   "version": "0.7.2",
   "release": "2022-04-01",
-  "strategy": "Catachan Jungle Fighter armies have a Strategy Rating of 3.",
-  "Initiative": "All formations have an Initiative Rating of 2+.",
+  "strategy": "Catachan Jungle Fighter-Armeen haben einen Strategiewert von 3.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Catachan Commanders"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Catachan Jungle Fighters Regiment"
+    "Diese Armeeliste ermöglicht es dir, eine Armee eines Regiments der Catachan Jungle Fighters aufzustellen."
   ],
   "units": [
     {
@@ -57,7 +57,7 @@
   ],
   "sections": [
     {
-      "name": "Catachan Core Companies",
+      "name": "Catachan Kernkompanien",
       "formations": [
         {
           "name": "Catachan Regimental HQ",
@@ -84,8 +84,8 @@
       ]
     },
     {
-      "name": "Catachan Support Formations",
-      "description": "Pro Core Company dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
+      "name": "Catachan Unterstützungsverbände",
+      "description": "Pro Kernkompanie dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Leman Russ Platoon",
@@ -99,7 +99,7 @@
           "name": "Vulture Squadron",
           "units": "Four Vultures",
           "extraUnits": [
-            "Replace one Vulture with two Vendettas: 25 points"
+            "Ersetze 1 Vulture durch 2 Vendettas: 25 Punkte"
           ],
           "points": 300
         },
@@ -129,7 +129,7 @@
           "name": "Catachan Super-Heavy Platoon",
           "units": "One Hellhammer or Stormblade",
           "extraUnits": [
-            "Add two Ogryns: 50 points each"
+            "Füge 2 Ogryns hinzu: 50 Punkte pro Stück"
           ],
           "points": 200
         },
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "Imperial Navy Formations",
+      "name": "Imperial Flotte Verbände",
       "description": "Bis zu ein Viertel der verfügbaren Punkte darf für Imperiale Flotte Verbände ausgegeben werden",
       "formations": [
         {
@@ -182,21 +182,21 @@
           "units": "One Lunar Class Cruiser",
           "points": 125,
           "extraUnits": [
-            "Replace the Cruiser with an Emperor Class Battleship: 50 points"
+            "Ersetze den Cruiser durch an Emperor Class Battleship: 50 Punkte"
           ]
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Catachan Upgrades",
+    "title": "Catachan Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Flakk Teams",
         "options": [
           {
-            "description": "Replace up to two Catachan Infantry with Flakk Teams",
+            "description": "Ersetze bis zu 2 Catachan Infantry durch Flakk Teams",
             "points": "25 points each"
           }
         ]
@@ -205,7 +205,7 @@
         "name": "Ogryns",
         "options": [
           {
-            "description": "Add up to two Ogryns, each with a Deathworld Chimera. Formation may not be transported in Valkyries.",
+            "description": "Füge bis zu 2 Ogryns hinzu, jeweils mit einer Deathworld Chimera. Der Verband darf nicht in Valkyries transportiert werden.",
             "points": "50 points each"
           }
         ]
@@ -214,7 +214,7 @@
         "name": "Devil Dogs",
         "options": [
           {
-            "description": "Add up to two Devil Dogs",
+            "description": "Füge bis zu 2 Devil Dogs hinzu",
             "points": "25 points each"
           }
         ]
@@ -223,28 +223,28 @@
         "name": "Flak",
         "options": [
           {
-            "description": "Add one Hydra",
+            "description": "Füge 1 Hydra hinzu",
             "points": "50 points"
           }
         ]
       },
       {
-        "name": "Death World Transport",
+        "name": "Death-World-Transporter",
         "options": [
           {
-            "description": "Choose one of the following:",
+            "description": "Wähle eine der folgenden Optionen:",
             "points": ""
           },
           {
-            "description": "Add enough Death World Chimeras to transport the entire formation with no space left over",
+            "description": "Füge genügend Death World Chimeras hinzu, um den gesamten Verband ohne freie Transportkapazität zu transportieren",
             "points": "25 points each"
           },
           {
-            "description": "Add four Valkyries",
+            "description": "Füge 4 Valkyries hinzu",
             "points": "150 points"
           },
           {
-            "description": "Add three Valkyries and two Vendettas",
+            "description": "Füge 3 Valkyries und 2 Vendettas hinzu",
             "points": "175 points"
           }
         ]

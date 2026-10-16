@@ -4,10 +4,10 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_DarkAngels",
-  "intro": "The following army list allows you to field an army based on the Dark Angels Space Marine chapter or any of its successor chapters.",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Dark Angels detachments.",
+  "intro": "Diese Armeeliste ermöglicht es dir, eine Armee des Space-Marine-Ordens Dark Angels oder eines seiner Nachfolgeorden aufzustellen.",
+  "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
+  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Dark Angels-Kontingente.",
   "specialRules": [
     "Teleport Homer",
     "Space Marine Transports",
@@ -58,7 +58,7 @@
   ],
   "sections": [
     {
-      "name": "Dark Angels Core Detachments",
+      "name": "Dark Angels Kernkontingente",
       "formations": [
         {
           "name": "Ravenwing Attack",
@@ -92,14 +92,14 @@
       ]
     },
     {
-      "name": "Dark Angels Support Detachments",
+      "name": "Dark Angels Unterstützungskontingente",
       "description": "Pro Kernkontingent dürfen drei Unterstützungskontingente aufgestellt werden",
       "formations": [
         {
           "name": "Land Raiders",
           "units": "Three Land Raiders",
           "extraUnits": [
-            "Add one Land Raider: 50 points",
+            "Füge 1 Land Raider hinzu: 50 Punkte",
             "Anti-Air"
           ],
           "points": 275
@@ -177,14 +177,14 @@
           "name": "0-1 Dreadwing Relics",
           "units": "One Glaive",
           "extraUnits": [
-            "Add one Glaive: 300 points"
+            "Füge 1 Glaive hinzu: 300 Punkte"
           ],
           "points": 300
         }
       ]
     },
     {
-      "name": "Ravenwing Aircraft & Dark Angels Swordwing",
+      "name": "Ravenwing Flugzeuge & Dark Angels Swordwing",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. ein Swordwing Unterstützungsverbände muss aufgestellt werden",
       "formations": [
         {
@@ -209,22 +209,22 @@
     }
   ],
   "upgrades": {
-    "title": "Dark Angels Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+    "title": "Dark Angels Aufwertungen",
+    "description": "Jede Aufwertung darf pro Kontingent nur einmal gewählt werden.",
     "items": [
       {
         "name": "Attack Bikes",
-        "description": "Replace any number of Assault Bikes with an equal number of Attack Bikes",
+        "description": "Ersetze beliebig viele Assault Bikes durch dieselbe Anzahl an Attack Bikes",
         "points": "Free"
       },
       {
         "name": "Deathwing Knights",
-        "description": "Replace one unit of Terminators with Deathwing Knights",
+        "description": "Ersetze 1 Einheit von Terminators durch Deathwing Knights",
         "points": "25 points"
       },
       {
         "name": "Vindicators",
-        "description": "Add up to two Vindicators",
+        "description": "Füge bis zu 2 Vindicators hinzu",
         "points": [
           "50 points for one",
           "75 points for two"
@@ -232,12 +232,12 @@
       },
       {
         "name": "Strike Cruiser",
-        "description": "Replace the Hunter Class Destroyer with a Strike Cruiser",
+        "description": "Ersetze den Hunter Class Destroyer durch a Strike Cruiser",
         "points": "125 points"
       },
       {
         "name": "Commander",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {
             "description": "Dark Angels Captain, Librarian",
@@ -255,40 +255,40 @@
       },
       {
         "name": "Anti-Air",
-        "description": "Choose one of the following options",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Add one Hunter",
+            "description": "Füge 1 Hunter hinzu",
             "points": "75 points"
           },
           {
-            "description": "Add one Stalker",
+            "description": "Füge 1 Stalker hinzu",
             "points": "50 points"
           },
           {
-            "description": "Add two Mortis Dreadnoughts",
+            "description": "Füge 2 Mortis Dreadnoughts hinzu",
             "points": "100 points"
           }
         ]
       },
       {
         "name": "Land Raiders",
-        "description": "Add any number of Land Raiders, up to the number required to transport the formation",
+        "description": "Füge beliebig viele Land Raiders, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": "50 points each"
       },
       {
         "name": "Razorbacks",
-        "description": "Add any number of Razorbacks, up to the number required to transport the formation",
+        "description": "Füge beliebig viele Razorbacks, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
         "points": "25 points each"
       },
       {
         "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Heavy Bolters",
+        "description": "Gib allen Scouts im Verband die Sonderregel „Sniper“ für ihre Heavy Bolters.",
         "points": "25 points"
       },
       {
         "name": "Venegance",
-        "description": "Replace four Ravenwing Land Speeder Tornado with four Ravenwing Land Speeder Venegance",
+        "description": "Ersetze 4 Ravenwing Land Speeder Tornado durch 4 Ravenwing Land Speeder Venegance",
         "points": "50 points"
       }
     ]

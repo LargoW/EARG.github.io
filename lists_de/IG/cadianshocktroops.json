@@ -3,13 +3,13 @@
   "army": "Cadian Shock Troops",
   "version": "0.6.2",
   "release": "2022-04-01",
-  "strategy": "Cadian Shock Troops armies have a Strategy Rating of 2.",
-  "Initiative": "Collegia Titanica formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Cadian Shock Troops-Armeen haben einen Strategiewert von 2.",
+  "Initiative": "Verbände der Collegia Titanica haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Courage, Discipline and Loyalty"
   ],
   "usage": [
-    "The following army list allows you to field an army based on a Cadian Shock Troops Regiment"
+    "Diese Armeeliste ermöglicht es dir, eine Armee eines Regiments der Cadian Shock Troops aufzustellen."
   ],
   "units": [
     {
@@ -74,13 +74,13 @@
   ],
   "sections": [
     {
-      "name": "Cadian Core Company Formations",
+      "name": "Cadian Kernkompanie-Verbände",
       "formations": [
         {
           "name": "0–1 Regimental HQ",
           "units": "One Cadian Supreme Commander with a Commissar, eight Kasrkin, one Stormlord.",
           "extraUnits": [
-            "Upgrade the Stormlord to an Leviathan: 125 points",
+            "Werte the Stormlord zu einem Leviathan: 125 Punkte auf",
             "Leman Russ",
             "Super-Heavy Tank"
           ],
@@ -105,8 +105,8 @@
       ]
     },
     {
-      "name": "Cadian Support Formations",
-      "description": "Pro Cadian Core Company Verband dürfen bis zu drei Cadian Unterstützungsverbände aufgestellt werden.",
+      "name": "Cadian Unterstützungsverbände",
+      "description": "Pro Cadian-Kernkompanie-Verband dürfen bis zu drei Cadian-Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
           "name": "Kasrkin Platoon",
@@ -133,7 +133,7 @@
           "name": "Artillery Battery",
           "units": "Three Basilisks, three Bombards or four Medusa",
           "extraUnits": [
-            "Add one Deathstrike: 75 points"
+            "Füge 1 Deathstrike hinzu: 75 Punkte"
           ],
           "points": 225
         },
@@ -149,7 +149,7 @@
           "units": "Six Hellhounds",
           "points": 250,
           "upgrades": [
-            "Add one Hydra: 50 points"
+            "Füge 1 Hydra hinzu: 50 Punkte"
           ]
         },
         {
@@ -157,7 +157,7 @@
           "units": "Six Leman Russ, Leman Russ Demolishers or Leman Russ Punishers",
           "points": 375,
           "upgrades": [
-            "Add one Hydra: 50 points"
+            "Füge 1 Hydra hinzu: 50 Punkte"
           ]
         },
         {
@@ -171,14 +171,14 @@
           "name": "Super-Heavy Platoon",
           "units": "One Baneblade, Stormblade or Stormsword",
           "upgrades": [
-            "Upgrade one Baneblade, Stormblade or Stormsword to a Shadowsword: 25 points"
+            "Werte 1 Baneblade, Stormblade oder Stormsword zu einem Shadowsword: 25 Punkte auf"
           ],
           "points": 175
         }
       ]
     },
     {
-      "name": "Collegia Titanica and Imperial Navy Formations",
+      "name": "Collegia-Titanica- und Imperial-Flottenverbände",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Collegia Titanica und der Imperiale Flotte Verbände ausgegeben werden",
       "formations": [
         {
@@ -208,21 +208,21 @@
           "units": "One Lunar Class Cruiser",
           "points": 150,
           "upgrades": [
-            "Replace with an Emperor Class Battleship: 50 points"
+            "Ersetze durch an Emperor Class Battleship: 50 Punkte"
           ]
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Cadian Upgrades",
+    "title": "Cadian Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Leman Russ",
         "options": [
           {
-            "description": "Three Leman Russ, three Leman Russ Demolishers, or three Leman Russ Punishers",
+            "description": "Drei Leman Russ, drei Leman Russ Demolishers oder drei Leman Russ Punishers",
             "points": "125 points"
           }
         ]
@@ -231,7 +231,7 @@
         "name": "Super-Heavy Tank",
         "options": [
           {
-            "description": "One Baneblade, Stormblade, Stormsword or Shadowsword",
+            "description": "Ein Baneblade, Stormblade, Stormsword oder Shadowsword",
             "points": "125 points"
           }
         ]

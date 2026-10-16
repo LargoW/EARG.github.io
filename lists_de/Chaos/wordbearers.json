@@ -4,8 +4,8 @@
   "version": "1.0.Beta",
   "release": "2024-04-15",
   "armyforge": "EAR_Chaos_WordBearers",
-  "strategy": "Word Bearer armies have a Strategy Rating of 3.",
-  "Initiative": "The Word Bearers Retinue and all Word Bearers Elite formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Word Bearer-Armeen haben einen Strategiewert von 3.",
+  "Initiative": "Die Word-Bearers-Retinue und alle Word-Bearers-Elite-Verbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Summoning",
     "Word Bearers Summoning Rules",
@@ -13,7 +13,7 @@
     "Word Bearers Characters"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Word Bearers, using their preferred operational methods."
+    "Diese Armeeliste ermöglicht es dir, eine Armee der Word Bearers nach ihren bevorzugten Einsatzmethoden aufzustellen."
   ],
   "units": [
     {
@@ -100,7 +100,7 @@
   ],
   "sections": [
     {
-      "name": "Word Bearers Core Formations",
+      "name": "Word Bearers Kernverbände",
       "description": "Pro Word Bearer Retinue dürfen bis zu zwei Cultist Hosts aufgestellt werden.",
       "formations": [
         {
@@ -123,19 +123,19 @@
           "units": "One Word Bearer Coryphaus, ten Cultists, Daemonic Pact",
           "extraUnits": [
             "Icon Bearer",
-            "Replace up to two Cultists with Mutants: Free",
-            "Replace up to two Cultists with Chaos Hounds: Free",
-            "Replace up to two Cultists with Chaos Spawn: 25 points each",
-            "Add enough Land Transporters to transport the formation with no space left over: 10 points each",
-            "Add one Chaos Altar: 150 points"
+            "Ersetze bis zu 2 Cultists durch Mutants: Free",
+            "Ersetze bis zu 2 Cultists durch Chaos Hounds: Free",
+            "Ersetze bis zu 2 Cultists durch Chaos Spawn: 25 Punkte pro Stück",
+            "Füge genügend Land Transporters hinzu, um den Verband zu transportieren mit no space left over hinzu: 10 Punkte pro Stück",
+            "Füge 1 Chaos Altar hinzu: 150 Punkte"
           ],
           "points": 225
         }
       ]
     },
     {
-      "name": "Word Bearers Elite Formations",
-      "description": "Pro Word Bearers Retinue dürfen bis zu ein Eliteverband aufgestellt werden.",
+      "name": "Word Bearers Eliteverbände",
+      "description": "Pro Word Bearers Retinue darf bis zu ein Eliteverband aufgestellt werden.",
       "formations": [
         {
           "name": "Iconoclasts",
@@ -150,8 +150,8 @@
           "name": "Havocs",
           "units": "One Word Bearer Coryphaus, four Havocs, two Chaos Rhinos, Daemonic Pact",
           "extraUnits": [
-            "Replace two Havocs with two Daemonkin: Free",
-            "Replace two Chaos Rhinos with Chaos Land Raiders, two Chaos Dreadnoughts: 75 points",
+            "Ersetze 2 Havocs durch 2 Daemonkin: Free",
+            "Ersetze 2 Chaos Rhinos durch Chaos Land Raiders, 2 Chaos Dreadnoughts: 75 Punkte",
             "Icon Bearer",
             "Predators",
             "Stalker"
@@ -162,7 +162,7 @@
           "name": "Armoured Company",
           "units": "Four Chaos Predators",
           "extraUnits": [
-            "Replace four Chaos Predators with four Chaos Vindicators (Free), or four Chaos Land Raiders (75 points)",
+            "Ersetze 4 Chaos Predators durch 4 Chaos Vindicators (Free), oder 4 Chaos Land Raiders (75 Punkte)",
             "Stalker"
           ],
           "points": 200
@@ -171,8 +171,8 @@
           "name": "The Anointed",
           "units": "One Word Bearer Coryphaus, three Chaos Terminators, three Chaos Land Raiders, Daemonic Pact",
           "extraUnits": [
-            "Replace one Chaos Terminators unit with two Daemonkin: Free",
-            "Replace three Chaos Land Raiders with three Chaos Dreadnoughts: Free",
+            "Ersetze 1 Chaos Terminators unit durch 2 Daemonkin: Free",
+            "Ersetze 3 Chaos Land Raiders durch 3 Chaos Dreadnoughts: Free",
             "Supreme Commander",
             "Icon Bearer",
             "Stalker",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "name": "Daemon Engine Formations",
+      "name": "Dämonenmaschinen Verbände",
       "description": "Pro Cultist Host Verband dürfen bis zu ein Daemon Engine Verband aufgestellt werden.",
       "formations": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "name": "War Engines & Chaos Navy",
+      "name": "Kriegsmaschinen & Chaos Flotte",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
@@ -262,12 +262,12 @@
       ]
     },
     {
-      "name": "Daemon Pool",
+      "name": "Dämonenpool",
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool points. Add one for each Daemonic Pact in the army.",
+          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool. Für jeden Daemonic Pact in der Armee kommt ein Punkt hinzu.",
           "points": 20
         },
         {
@@ -279,75 +279,75 @@
     }
   ],
   "upgrades": {
-    "title": "Word Bearers Upgrades",
+    "title": "Word Bearers Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Battleship",
-        "description": "Replace the Devastation Class Cruiser with a Despoiler Class Battleship",
+        "description": "Ersetze den Devastation Class Cruiser durch a Despoiler Class Battleship",
         "points": "50 points"
       },
       {
         "name": "0-1 Supreme Commander",
         "options": [
           {
-            "description": "Choose one of the following:"
+            "description": "Wähle eine der folgenden Optionen:"
           },
           {
-            "description": "Add a Dark Apostle to the formation",
+            "description": "Füge 1 Dark Apostle zum Verband hinzu",
             "points": "50 points"
           },
           {
-            "description": "Add a Daemon Prince unit to the formation",
+            "description": "Füge 1 Daemon Prince Einheit zum Verband hinzu",
             "points": "100 points"
           }
         ]
       },
       {
-        "name": "Transport",
+        "name": "Transporter",
         "options": [
           {
-            "description": "Add up to three Chaos Rhinos",
+            "description": "Füge bis zu 3 Chaos Rhinos hinzu",
             "points": "10 points each"
           },
           {
-            "description": "Add up to three Chaos Land Raiders",
+            "description": "Füge bis zu 3 Chaos Land Raiders hinzu",
             "points": "50 points each"
           },
           {
-            "description": "(No more than needed to transport the formation with no space left over)",
+            "description": "(Nur so viele wie für den Transport des Verbands erforderlich, ohne freie Transportkapazität.)",
             "points": ""
           }
         ]
       },
       {
         "name": "Icon Bearer",
-        "description": "Add one Icon Bearer character",
+        "description": "Füge 1 Icon Bearer character hinzu",
         "points": "25 points"
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to three Chaos Dreadnoughts",
+        "description": "Füge bis zu 3 Chaos Dreadnoughts hinzu",
         "points": "50 points each"
       },
       {
         "name": "Stalker",
-        "description": "Add one Chaos Stalker",
+        "description": "Füge 1 Chaos Stalker hinzu",
         "points": "50 points"
       },
       {
         "name": "Predators",
-        "description": "Add up to two Chaos Predators",
+        "description": "Füge bis zu 2 Chaos Predators hinzu",
         "points": "50 points each"
       },
       {
         "name": "Havocs",
-        "description": "Replace two Chaos Space Marines with two Havocs",
+        "description": "Ersetze 2 Chaos Space Marines durch 2 Havocs",
         "points": "25 points"
       },
       {
         "name": "Possessed",
-        "description": "Replace two Chaos Space Marines with two Daemonkin",
+        "description": "Ersetze 2 Chaos Space Marines durch 2 Daemonkin",
         "points": "25 points"
       }
     ]

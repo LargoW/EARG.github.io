@@ -615,7 +615,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport up to four units of Gargoyles.",
+        "notes": "Kann bis zu 4 Gargoyle-Einheiten transportieren.",
         "crit": "The Harridan is killed."
       },
       {
@@ -800,7 +800,7 @@
           "Reinforced Armour",
           "Regeneration"
         ],
-        "notes": "May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
+        "notes": "Kann Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, sofern es niedriger als der Körper und höchstens 2 cm breit ist.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
       },
       {
@@ -823,7 +823,7 @@
           "Reinforced Armour",
           "Regeneration"
         ],
-        "notes": "May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
+        "notes": "Kann Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, sofern es niedriger als der Körper und höchstens 2 cm breit ist.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
       }
     ]

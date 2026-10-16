@@ -4,9 +4,9 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_BlackLegion",
-  "intro": "The Black Legion is meant to cover a wide variety of Undivided Chaos Space Marine Warbands and armies, and thus has access to a wider variety of unit types than other CSM lists.",
-  "strategy": "Chaos Space Marine armies have a Strategy Rating of 4.",
-  "Initiative": "All Black Legion Core, Elite and Support formations, as well as all Traitor Titan formations, have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "intro": "Die Armeeliste der Black Legion deckt ein breites Spektrum an Chaos-Space-Marine-Kriegsbanden und -Armeen des ungeteilten Chaos ab und bietet daher Zugriff auf mehr Einheitentypen als andere CSM-Listen.",
+  "strategy": "Chaos Space Marine-Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Kern-, Elite- und Unterstützungsverbände der Black Legion sowie alle Verräter-Titanenverbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Summoning",
     "Black Legion Summoning Rules",
@@ -101,7 +101,7 @@
   ],
   "sections": [
     {
-      "name": "Black Legion Core Formations",
+      "name": "Black Legion Kernverbände",
       "formations": [
         {
           "name": "Black Legion Retinue",
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "name": "Black Legion Elite Formations",
+      "name": "Black Legion Eliteverbände",
       "description": "Pro Kernverband darf ein Eliteverband aufgestellt werden",
       "formations": [
         {
           "name": "Chosen",
           "units": "Four Chosen, two Chaos Rhinos",
           "extraUnits": [
-            "Replace two Chaos Rhinos with two Chaos Dreadnoughts: 75 points",
+            "Ersetze 2 Chaos Rhinos durch 2 Chaos Dreadnoughts: 75 Punkte",
             "Daemonic Pact"
           ],
           "points": 150
@@ -154,14 +154,14 @@
       ]
     },
     {
-      "name": "Black Legion Support Formations",
+      "name": "Black Legion Unterstützungsverbände",
       "description": "Pro Kernverband dürfen zwei Unterstützungsverbände aufgestellt werden",
       "formations": [
         {
           "name": "Raptor Cult",
           "units": "One Chaos Lord or Sorcerer Lord, four Raptors",
           "extraUnits": [
-            "Add up to four Raptors: 30 points each",
+            "Füge bis zu 4 Raptors hinzu: 30 Punkte pro Stück",
             "Daemonic Pact"
           ],
           "points": 175
@@ -170,7 +170,7 @@
           "name": "Armoured Company",
           "units": "Four Chaos Predators",
           "extraUnits": [
-            "Replace four Chaos Predators with four Chaos Land Raiders: 75 points",
+            "Ersetze 4 Chaos Predators durch 4 Chaos Land Raiders: 75 Punkte",
             "Stalker",
             "Vindicators"
           ],
@@ -180,7 +180,7 @@
           "name": "Havocs",
           "units": "One Chaos Lord or Sorcerer Lord, four Havocs, two Chaos Rhinos",
           "extraUnits": [
-            "Replace two Chaos Rhinos with Chaos Land Raiders: 75 points",
+            "Ersetze 2 Chaos Rhinos durch Chaos Land Raiders: 75 Punkte",
             "Daemonic Pact",
             "Stalker",
             "Vindicators"
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "name": "Dark Mechanicus Daemon Engines, Traitor Titans and Chaos Navy",
+      "name": "Dark-Mechanicus-Dämonenmaschinen, Traitor Titans und Chaos-Flotte",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "name": "Daemon Pool",
+      "name": "Dämonenpool",
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
@@ -278,31 +278,31 @@
     }
   ],
   "upgrades": {
-    "title": "Black Legion Upgrades",
+    "title": "Black Legion Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "Battleship",
-        "description": "Replace the Devastation Class Cruiser with a Despoiler Class Battleship",
+        "description": "Ersetze den Devastation Class Cruiser durch a Despoiler Class Battleship",
         "points": "50 points"
       },
       {
-        "name": "Supreme Commander (0-1 per army)",
-        "description": "Choose one of the following:",
+        "name": "Supreme Commander (0–1 pro Armee)",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Replace the Chaos Lord with a Warlord",
+            "description": "Ersetze den Chaos Lord durch a Warlord",
             "points": "50 points"
           },
           {
-            "description": "Replace the Chaos Lord & unit with a Daemon Prince",
+            "description": "Ersetze den Chaos Lord & Einheit durch einen Daemon Prince",
             "points": "100 points"
           }
         ]
       },
       {
-        "name": "Transport",
-        "description": "Add Chaos Rhinos or Chaos Land Raiders, up to the number required to transport all infantry units in the formation",
+        "name": "Transporter",
+        "description": "Füge Chaos Rhinos oder Chaos Land Raiders, bis zu die erforderliche Anzahl um die gesamte Infanterie zu transportieren Einheiten im Verband hinzu",
         "options": [
           {
             "description": "Chaos Rhinos (Retinue only)",
@@ -316,52 +316,52 @@
       },
       {
         "name": "Daemonic Pact",
-        "description": "Add Daemonic Pact to the formation, and one point to the Lesser Daemon Pool",
+        "description": "Füge Daemonic Pact zum Verband, und 1 point zum Lesser Daemon Pool hinzu",
         "points": "25 points"
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Chaos Dreadnoughts",
+        "description": "Füge bis zu 2 Chaos Dreadnoughts hinzu",
         "points": "50 points each"
       },
       {
         "name": "Champion",
-        "description": "Add one Champion of Chaos",
+        "description": "Füge einen Champion of Chaos hinzu.",
         "points": "50 points"
       },
       {
         "name": "Cult Marines",
-        "description": "Replace four Chaos Space Marines with four Noise Marines, Khorne Berzerkers, Plague Marines or Rubric Marines.",
+        "description": "Ersetze 4 Chaos Space Marines durch 4 Noise Marines, Khorne Berzerkers, Plague Marines oder Rubric Marines.",
         "points": "50 points"
       },
       {
         "name": "Icon Bearer",
-        "description": "Add one Icon Bearer character",
+        "description": "Füge 1 Icon Bearer character hinzu",
         "points": "25 points"
       },
       {
         "name": "Stalker",
-        "description": "Add one Chaos Stalker",
+        "description": "Füge 1 Chaos Stalker hinzu",
         "points": "50 points"
       },
       {
         "name": "Dreadclaws",
-        "description": "Transport a formation containing only infantry units and Dreadnoughts in Dreadclaws (formation must be deployed on a spacecraft)",
+        "description": "Transportiere einen Verband, der ausschließlich Infanterieeinheiten und Dreadnoughts enthält, in Dreadclaws (der Verband muss auf einem Raumschiff aufgestellt werden).",
         "points": "5 points per unit"
       },
       {
         "name": "Vindicators",
-        "description": "Add up to two Chaos Vindicators",
+        "description": "Füge bis zu 2 Chaos Vindicators hinzu",
         "points": "35 points each"
       },
       {
         "name": "Havocs",
-        "description": "Replace four Chaos Space Marines with four Havocs",
+        "description": "Ersetze 4 Chaos Space Marines durch 4 Havocs",
         "points": "50 points"
       },
       {
         "name": "Obliterators",
-        "description": "Add up to two Obliterators",
+        "description": "Füge bis zu 2 Obliterators hinzu",
         "points": "75 points each"
       }
     ]

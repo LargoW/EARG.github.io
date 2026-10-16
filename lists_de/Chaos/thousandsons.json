@@ -4,8 +4,8 @@
   "version": "1.0.Beta-3",
   "release": "2023-01-28",
   "armyforge": "EAR_Chaos_ThousandSons",
-  "strategy": "Chaos Space Marine armies have a Strategy Rating of 4.",
-  "Initiative": "The Thousand Sons Retinue, Havocs, Terminators, Armoured Company, Disc Riders, and Warphound formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Chaos Space Marine-Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Die Thousand-Sons-Retinue-, Havoc-, Terminator-, Armoured-Company-, Disc-Rider- und Warphound-Verbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
     "Changer of Ways",
     "Fickle Masters",
@@ -14,7 +14,7 @@
     "Thousand Sons Characters"
   ],
   "intro": [
-    "The following army list allows you to field an army based on the Thousand Sons Traitor Legion. The Thousand Sons make extensive use of Sorcerers leading squads of unrelenting Rubric Marines into battle, and may utilize powerful Warp Rifts to enter the Battlefield."
+    "Diese Armeeliste ermöglicht es dir, eine Armee der Verräterlegion Thousand Sons aufzustellen. Die Thousand Sons setzen umfassend auf Hexer, die unerbittliche Trupps aus Rubricae in die Schlacht führen, und können mächtige Warprisse nutzen, um das Schlachtfeld zu betreten."
   ],
   "units": [
     {
@@ -98,15 +98,15 @@
   ],
   "sections": [
     {
-      "name": "Thousand Sons Core Formations",
-      "description": "Pro Thousand Sons Retinue dürfen bis zu ein Thousand Sons Terminators Verband aufgestellt werden.",
+      "name": "Thousand Sons Kernverbände",
+      "description": "Pro Thousand Sons Retinue darf bis zu ein Thousand Sons Terminators-Verband aufgestellt werden.",
       "formations": [
         {
           "name": "Thousand Sons Retinue",
           "units": "One Aspiring Sorcerer, five Rubric Marines, four Thousand Sons Marines, Daemonic Pact",
           "extraUnits": [
-            "Replace four Thousand Sons Marines with four Thousand Sons Havocs: 50 points",
-            "Replace up to three Rubric Marines with Thousand Sons Dreadnoughts: 25 points each",
+            "Ersetze 4 Thousand Sons Marines durch 4 Thousand Sons Havocs: 50 Punkte",
+            "Ersetze bis zu 3 Rubric Marines durch Thousand Sons Dreadnoughts: 25 Punkte pro Stück",
             "Supreme Commander",
             "Icon Bearer",
             "Champion of Chaos",
@@ -130,14 +130,14 @@
       ]
     },
     {
-      "name": "Thousand Sons Support Formations",
+      "name": "Thousand Sons Unterstützungsverbände",
       "description": "Pro Thousand Sons Kernverband dürfen bis zu drei aufgestellt werden.",
       "formations": [
         {
           "name": "Tzaangor Host",
           "units": "One Chaos Spawn, eight Tzaangors, Daemonic Pact",
           "extraUnits": [
-            "Replace the Chaos Spawn with a Mutalith Warp Beast: 50 points"
+            "Ersetze den Chaos Spawn durch a Mutalith Warp Beast: 50 Punkte"
           ],
           "points": 200
         },
@@ -152,7 +152,7 @@
           "name": "Armoured Company",
           "units": "Four Thousand Sons Predators",
           "extraUnits": [
-            "Replace four Thousand Sons Predators with four Thousand Sons Land Raiders: 75 points"
+            "Ersetze 4 Thousand Sons Predators durch 4 Thousand Sons Land Raiders: 75 Punkte"
           ],
           "points": 225
         },
@@ -160,7 +160,7 @@
           "name": "Havocs",
           "units": "One Aspiring Sorcerer, four Thousand Sons Havocs, two Thousand Sons Rhinos, Daemonic Pact",
           "extraUnits": [
-            "Replace two Thousand Sons Rhinos with two Thousand Sons Dreadnoughts: 75 points",
+            "Ersetze 2 Thousand Sons Rhinos durch 2 Thousand Sons Dreadnoughts: 75 Punkte",
             "Icon Bearer",
             "Predators"
           ],
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "name": "Dark Mechanicus and Thousand Sons Navy",
+      "name": "Dark Mechanicus und Thousand Sons-Flotte",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
@@ -214,7 +214,7 @@
           "name": "Firelords of Tzeentch",
           "units": "Two Firelords",
           "extraUnits": [
-            "Add one Firelord: 100 points"
+            "Füge 1 Firelord hinzu: 100 Punkte"
           ],
           "points": 250
         },
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "name": "Daemon Pool",
+      "name": "Dämonenpool",
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
@@ -245,30 +245,30 @@
     }
   ],
   "upgrades": {
-    "title": "Thousand Sons Upgrades",
+    "title": "Thousand Sons Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "0-1 Supreme Commander",
-        "description": "Choose one of the following:",
+        "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Replace the Aspiring Sorcerer with an Exalted Sorcerer (Retinue and Disc Riders Only).",
+            "description": "Ersetze den Aspiring Sorcerer durch an Exalted Sorcerer (Retinue und Disc Riders Only).",
             "points": "50 points"
           },
           {
-            "description": "Replace the Aspiring Sorcerer and its unit with a Daemon Prince of Tzeentch (Terminators Only).",
+            "description": "Ersetze den Aspiring Sorcerer und seine Einheit durch einen Daemon Prince of Tzeentch (nur Terminators).",
             "points": "50 points"
           },
           {
-            "description": "Replace the Aspiring Sorcerer and its unit with a Daemon Prince of Tzeentch (Retinue and Disc Riders Only).",
+            "description": "Ersetze den Aspiring Sorcerer und seine Einheit durch einen Daemon Prince of Tzeentch (nur Retinue und Disc Riders).",
             "points": "100 points"
           }
         ]
       },
       {
-        "name": "Thousand Sons Transport",
-        "description": "Add transports to the formation, up to the number required to transport all infantry units in the formation",
+        "name": "Thousand-Sons-Transporter",
+        "description": "Füge dem Verband so viele Transporter hinzu, wie zum Transport aller Infanterieeinheiten des Verbands erforderlich sind",
         "options": [
           {
             "description": "Thousand Sons Rhinos",
@@ -282,22 +282,22 @@
       },
       {
         "name": "Champion of Chaos",
-        "description": "Add one Champion of Chaos to the formation",
+        "description": "Füge einen Champion of Chaos zum Verband hinzu.",
         "points": "50 points"
       },
       {
         "name": "Icon Bearer",
-        "description": "Add one Icon Bearer to the formation",
+        "description": "Füge 1 Icon Bearer zum Verband hinzu",
         "points": "25 points"
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Thousand Sons Dreadnoughts to the formation",
+        "description": "Füge bis zu 2 Thousand Sons Dreadnoughts zum Verband hinzu",
         "points": "50 points each"
       },
       {
         "name": "Predators",
-        "description": "Add up to two Thousand Sons Predators to the formation",
+        "description": "Füge bis zu 2 Thousand Sons Predators zum Verband hinzu",
         "points": "50 points each"
       }
     ]

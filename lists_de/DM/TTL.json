@@ -3,13 +3,13 @@
   "army": "Traitor Titan Legion",
   "version": "0.8.0",
   "release": "2022-04-01",
-  "strategy": "Dark Mechanicus armies have a Strategy Rating of 3.",
-  "Initiative": "All Battle Titan and Chaos Warhound formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Armeen des Dunklen Mechanicus haben einen Strategiewert von 3.",
+  "Initiative": "Alle Battle-Titan- und Chaos-Warhound-Formationen haben einen Initiativewert von 1+. Alle anderen Formationen haben einen Initiativewert von 2+.",
   "specialRules": [
     "TTL Eternal Animosity"
   ],
   "usage": [
-    "The following army list allows you to field an army from the Traitor Titan Legions with Dark Mechanicus support."
+    "Mit der folgenden Armeeliste kannst du eine Armee der Verräter-Titanenlegionen mit Unterstützung des Dunklen Mechanicus aufstellen."
   ],
   "units": [
     {
@@ -73,12 +73,12 @@
   ],
   "sections": [
     {
-      "name": "Battle Titan Formations",
-      "description": "Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations.",
+      "name": "Battle-Titan-Formationen",
+      "description": "Die Armee darf keine Formationen des Nurgle und Tzeentch oder des Slaanesh und Khorne miteinander kombinieren.",
       "formations": [
         {
           "name": "0-1 Chaos Emperor Titan",
-          "units": "One Chaos Emperor Titan*",
+          "units": "Ein Chaos Emperor Titan*",
           "extraUnits": [
             "Eye of the Gods",
             "Heralds of Chaos"
@@ -88,7 +88,7 @@
         },
         {
           "name": "Chaos Warlord Titan",
-          "units": "One Chaos Warlord Titan*",
+          "units": "Ein Chaos Warlord Titan*",
           "extraUnits": [
             "Eye of the Gods",
             "Heralds of Chaos"
@@ -98,7 +98,7 @@
         },
         {
           "name": "Chaos Reaver Titan",
-          "units": "One Chaos Reaver Titan*",
+          "units": "Ein Chaos Reaver Titan*",
           "extraUnits": [
             "Heralds of Chaos"
           ],
@@ -108,14 +108,14 @@
       ]
     },
     {
-      "name": "Support Formations",
-      "description": "Up to four for each Battle Titan. Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations.",
+      "name": "Unterstützungsformationen",
+      "description": "Für jeden Battle Titan dürfen bis zu vier Unterstützungsformationen gewählt werden. Die Armee darf keine Formationen des Nurgle und Tzeentch oder des Slaanesh und Khorne miteinander kombinieren.",
       "formations": [
         {
           "name": "Chaos Warhound",
-          "units": "One Chaos Warhound*",
+          "units": "Ein Chaos Warhound*",
           "extraUnits": [
-            "Add one Chaos Warhound of the same type: 200 points",
+            "Füge 1 Chaos Warhound desselben Typs hinzu: 200 Punkte",
             "Heralds of Chaos"
           ],
           "points": 275,
@@ -123,9 +123,9 @@
         },
         {
           "name": "Slaanesh Scout Titan",
-          "units": "One Slaanesh Scout Titan*",
+          "units": "Ein Slaanesh Scout Titan*",
           "extraUnits": [
-            "Add one Slaanesh Scout Titan of the same type: 200 points",
+            "Füge 1 Slaanesh Scout Titan desselben Typs hinzu: 200 Punkte",
             "Heralds of Chaos"
           ],
           "points": 275,
@@ -133,92 +133,92 @@
         },
         {
           "name": "Debasers of Slaanesh",
-          "units": "Four Debasers of Slaanesh",
+          "units": "Vier Debasers of Slaanesh",
           "extraUnits": [
-            "Add an additional Debaser: 50 points"
+            "Füge eine zusätzliche Debaser hinzu: 50 Punkte"
           ],
           "points": 225
         },
         {
           "name": "Slaughterfiends of Khorne",
-          "units": "Four Slaughterfiends of Khorne",
+          "units": "Vier Slaughterfiends of Khorne",
           "extraUnits": [
-            "Add an additional Slaughterfiend: 50 points"
+            "Füge eine zusätzliche Slaughterfiend hinzu: 50 Punkte"
           ],
           "points": 200
         },
         {
           "name": "Desecrators of Nurgle",
-          "units": "Four Desecrators of Nurgle",
+          "units": "Vier Desecrators of Nurgle",
           "extraUnits": [
-            "Add an additional Desecrator: 50 points"
+            "Füge eine zusätzliche Desecrator hinzu: 50 Punkte"
           ],
           "points": 225
         },
         {
           "name": "Decievers of Tzeentch",
-          "units": "Three Decievers of Tzeentch",
+          "units": "Drei Decievers of Tzeentch",
           "extraUnits": [
-            "Add an additional Deciever: 50 points"
+            "Füge eine zusätzliche Deciever hinzu: 50 Punkte"
           ],
           "points": 200
         },
         {
           "name": "Cerberites of Chaos Undivided",
-          "units": "Three Cerberites",
+          "units": "Drei Cerberites",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Maulerfiends of Chaos Undivided",
-          "units": "Four Maulerfiends",
+          "units": "Vier Maulerfiends",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Forgefiends of Chaos Undivided",
-          "units": "Three Forgefiends",
+          "units": "Drei Forgefiends",
           "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Defilers of Chaos Undivided",
-          "units": "Four Defilers of Chaos Undivided",
+          "units": "Vier Defilers of Chaos Undivided",
           "extraUnits": [
-            "Add an additional Defiler: 50 points"
+            "Füge eine zusätzliche Defiler hinzu: 50 Punkte"
           ],
           "points": 225
         },
         {
           "name": "Hell-Forge Maniple",
-          "units": "One Hellwright, eleven Chaos Squats",
+          "units": "Ein Hellwright, eleven Chaos Squats",
           "extraUnits": [
-            "Add six Chaos Rhinos: 50 points"
+            "Füge sechs Chaos Rhinos hinzu: 50 Punkte"
           ],
           "points": 225
         }
       ]
     },
     {
-      "name": "Chaos Navy",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Chaosflotte",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Formationen ausgegeben werden.",
       "formations": [
         {
           "name": "Heldrakes",
-          "units": "Two Heldrakes",
+          "units": "Zwei Heldrakes",
           "points": 225
         },
         {
           "name": "Harbringer",
-          "units": "One Harbringer Bomber",
+          "units": "Ein Harbringer Bomber",
           "points": 300
         },
         {
           "name": "0-1 Chaos Battleship",
-          "units": "One Despoiler Class Battleship",
+          "units": "Ein Despoiler Class Battleship",
           "extraUnits": [
           ],
           "points": 200
