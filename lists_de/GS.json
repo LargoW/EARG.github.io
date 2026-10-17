@@ -438,7 +438,7 @@
           "Maschinenkanone",
           "Belagerungskanone||FxF",
           "Laserkanone|2|FxF",
-          "Zwillings-Schwerbolter|3|FxF"
+          "Zwillings-Schwere Bolter|3|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -456,7 +456,7 @@
         "weapons": [
           "Stormblade-Blaster||FxF",
           "Laserkanone|2|FxF",
-          "Zwillings-Schwerbolter|2|FxF"
+          "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -473,7 +473,7 @@
         "ff": 5,
         "weapons": [
           "Volcano Kanone||FxF",
-          "Zwillings-Schwerbolter|2|FxF"
+          "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",

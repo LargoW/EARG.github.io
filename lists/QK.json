@@ -296,7 +296,7 @@
         "ff": 3,
         "weapons": [
           "Shieldbreaker Missiles|4|",
-          "Volcano Lance||FwA",
+          "Volcano Lanze||FwA",
           "Twin Siegebreaker Cannon||",
           "Plasma Decimator||FwA"
         ],
@@ -375,7 +375,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Cerastus Shock Lance"
+          "Cerastus Shock Lanze"
         ],
         "specialRules": [
           "Stubborn",
@@ -459,7 +459,7 @@
         "ff": 5,
         "weapons": [
           "Rapid Fire Battle Cannon",
-          "Shock Lance",
+          "Shock Lanze",
           "Knight Power Gauntlet"
         ],
         "specialRules": [
@@ -481,7 +481,7 @@
         "ff": 5,
         "weapons": [
           "Battle Cannon",
-          "Shock Lance",
+          "Shock Lanze",
           "Knight Chainsword"
         ],
         "specialRules": [
@@ -517,7 +517,7 @@
         "ff": 5,
         "weapons": [
           "Battle Cannon",
-          "Knight Power Lance"
+          "Knight Power Lanze"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -535,7 +535,7 @@
         "ff": 5,
         "weapons": [
           "Thermal Cannon",
-          "Shock Lance",
+          "Shock Lanze",
           "Knight Power Gauntlet"
         ],
         "specialRules": [

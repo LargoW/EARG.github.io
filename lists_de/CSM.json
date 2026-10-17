@@ -728,7 +728,7 @@
         "ff": 5,
         "weapons": [
           "Boltpistolen",
-          "Ketten-Äxte"
+          "Kettenäxte"
         ],
         "specialRules": [
           "Furchtlos"
@@ -1006,7 +1006,7 @@
         "ff": 5,
         "weapons": [
           "Boltpistolen",
-          "Ketten-Äxte"
+          "Kettenäxte"
         ],
         "specialRules": [
           "Furchtlos",
@@ -1148,7 +1148,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone|2|",
-          "Zwillings-Schwerbolter"
+          "Zwillings-Schwere Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1166,7 +1166,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone|2|",
-          "Zwillings-Schwerbolter"
+          "Zwillings-Schwere Bolter"
         ],
         "specialRules": [
           "Stubborn",
@@ -1203,7 +1203,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone|2|",
-          "Zwillings-Schwerbolter"
+          "Zwillings-Schwere Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1508,7 +1508,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Zwillings-Schwerbolter",
+          "Zwillings-Schwere Bolter",
           "Schwerer Flammenwerfer",
           "Belagerungsbohrer"
         ],
@@ -1609,7 +1609,7 @@
         "ff": 4,
         "weapons": [
           "Belagerungs-Kanone||FxF",
-          "Zwillings-Schwerbolter|3|FxF",
+          "Zwillings-Schwere Bolter|3|FxF",
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [

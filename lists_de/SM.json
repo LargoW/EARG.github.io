@@ -402,7 +402,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Dragonfire-Schwerbolter",
+          "Dragonfire-Schwere Bolter",
           "Frag Kanone"
         ]
       },
@@ -484,7 +484,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Dragonfire-Schwerbolter"
+          "Dragonfire-Schwere Bolter"
         ]
       },
       {
@@ -707,7 +707,7 @@
         "weapons": [
           "Raketenwerfer",
           "Laserkanone",
-          "Zwillings-Schwerbolter"
+          "Zwillings-Schwere Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -745,7 +745,7 @@
         "specialRules": [
           "Infiltratorens",
           "Teleport",
-          "Lightning Charge"
+          "Sturmangriff"
         ]
       },
       {
@@ -761,7 +761,7 @@
         ],
         "specialRules": [
           "Sprungmodule",
-          "Lightning Charge"
+          "Sturmangriff"
         ]
       },
       {
@@ -937,7 +937,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Dragonfire-Schwerbolter"
+          "Dragonfire-Schwere Bolter"
         ],
         "specialRules": [
           "Teleport Homer",
@@ -1077,7 +1077,7 @@
         "ff": 5,
         "weapons": [
           "Sturmkanone",
-          "Dragonfire-Schwerbolter"
+          "Dragonfire-Schwere Bolter"
         ],
         "specialRules": [
           "Aufklärer",
@@ -1416,7 +1416,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Zwillings-Schwerbolter",
+          "Zwillings-Schwere Bolter",
           "Schwerer Flammenwerfer",
           "Belagerungsbohrer"
         ],
@@ -1580,7 +1580,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Zwillings-Dragonfire-Schwerbolter"
+          "Zwillings-Dragonfire-Schwere Bolter"
         ],
         "specialRules": [
           "Transport"
@@ -1807,7 +1807,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone|2",
-          "Zwillings-Schwerbolter"
+          "Zwillings-Schwere Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1843,7 +1843,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone|2",
-          "Zwillings-Schwerbolter"
+          "Zwillings-Schwere Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1972,7 +1972,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Zwillings-Dragonfire-Schwerbolter",
+          "Zwillings-Dragonfire-Schwere Bolter",
           "Hurrikanbolter|2"
         ],
         "specialRules": [
@@ -2010,7 +2010,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Vierlings-Schwerbolter|2"
+          "Vierlings-Schwere Bolter|2"
         ],
         "specialRules": [
           "Extended Command",
@@ -2047,7 +2047,7 @@
         "ff": 4,
         "weapons": [
           "Hyperios Werfer",
-          "Zwillings-Schwerbolter|2|",
+          "Zwillings-Schwere Bolter|2|",
           "Rapier Laserzerstörer|0-2|",
           "Donnerfeuerkanone|0-2|"
         ],
@@ -2071,7 +2071,7 @@
           "Beschleuniger Kanone",
           "Vierlings-Laserkanone|2|FxF",
           "Belagerungskanone||FxF",
-          "Zwillings-Schwerbolter||FxF"
+          "Zwillings-Schwere Bolter||FxF"
         ],
         "specialRules": [
           "Damage Capacity: 4",
@@ -2089,7 +2089,7 @@
         "weapons": [
           "Volkite-Karronade",
           "Vierlings-Laserkanone|2|FxF",
-          "Zwillings-Schwerbolter||FxF"
+          "Zwillings-Schwere Bolter||FxF"
         ],
         "specialRules": [
           "Damage Capacity: 4",
@@ -2106,7 +2106,7 @@
         "ff": 3,
         "weapons": [
           "Zwillings-Laserkanone|2",
-          "AC-Zwillings-Dragonfire-Schwerbolter|3"
+          "AC-Zwillings-Dragonfire-Schwere Bolter|3"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -2149,7 +2149,7 @@
         "ff": 4,
         "weapons": [
           "Blackstar-Hurrikanbolter||FxF",
-          "AC-Zwillings-Schwerbolter||",
+          "AC-Zwillings-Schwere Bolter||",
           "Zwillings-Helfrost Kanone||"
         ],
         "specialRules": [
@@ -2169,7 +2169,7 @@
         "weapons": [
           "AC Helfrost Zerstörer||FxF",
           "Blackstar-Hurrikanbolter||FxF",
-          "AC-Zwillings-Schwerbolter||"
+          "AC-Zwillings-Schwere Bolter||"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -2184,7 +2184,7 @@
         "armour": 5,
         "weapons": [
           "AC Zwillings-Sturmkanone||FwA",
-          "AC-Zwillings-Schwerbolter||FxF"
+          "AC-Zwillings-Schwere Bolter||FxF"
         ]
       },
       {
@@ -2194,7 +2194,7 @@
         "armour": 5,
         "weapons": [
           "AC Zwillings-Sturmkanone||FwA",
-          "AC-Zwillings-Dragonfire-Schwerbolter||FxF"
+          "AC-Zwillings-Dragonfire-Schwere Bolter||FxF"
         ]
       },
       {
@@ -2257,7 +2257,7 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC-Zwillings-Schwerbolter||FxF",
+          "AC-Zwillings-Schwere Bolter||FxF",
           "Blackstar-Hurrikanbolter||FxF"
         ],
         "specialRules": [
@@ -2286,7 +2286,7 @@
         "weapons": [
           "AC-Zwillings-Avenger-Bolterkanone||FxF",
           "AC-Raketenbatterie||FxF",
-          "AC-Vierlings-Schwerbolter-Türme||"
+          "AC-Vierlings-Schwere Bolter-Türme||"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -2303,7 +2303,7 @@
         "ff": 4,
         "weapons": [
           "AC-Hurrikanbolter||FxF",
-          "AC-Zwillings-Schwerbolter||FxF",
+          "AC-Zwillings-Schwere Bolter||FxF",
           "Vengeance Werfer||"
         ],
         "specialRules": [
@@ -2324,7 +2324,7 @@
         "ff": 4,
         "weapons": [
           "AC-Hurrikanbolter|2|FxF",
-          "AC-Zwillings-Schwerbolter||FxF",
+          "AC-Zwillings-Schwere Bolter||FxF",
           "Vengeance Werfer||FxF"
         ],
         "specialRules": [
@@ -2346,9 +2346,9 @@
         "ff": 4,
         "weapons": [
           "Kampfkanone||FxF",
-          "AC-Zwillings-Schwerbolter|2|FxF",
-          "AC-Zwillings-Schwerbolter||Left",
-          "AC-Zwillings-Schwerbolter||Right"
+          "AC-Zwillings-Schwere Bolter|2|FxF",
+          "AC-Zwillings-Schwere Bolter||Left",
+          "AC-Zwillings-Schwere Bolter||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -2367,8 +2367,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC-Vierlings-Schwerbolter||Left",
-          "AC-Vierlings-Schwerbolter||Right"
+          "AC-Vierlings-Schwere Bolter||Left",
+          "AC-Vierlings-Schwere Bolter||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -2387,8 +2387,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC-Zwillings-Schwerbolter|2|Left",
-          "AC-Zwillings-Schwerbolter|2|Right"
+          "AC-Zwillings-Schwere Bolter|2|Left",
+          "AC-Zwillings-Schwere Bolter|2|Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -2407,8 +2407,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC-Zwillings-Dragonfire-Schwerbolter|2|Left",
-          "AC-Zwillings-Dragonfire-Schwerbolter|2|Right"
+          "AC-Zwillings-Dragonfire-Schwere Bolter|2|Left",
+          "AC-Zwillings-Dragonfire-Schwere Bolter|2|Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -2448,9 +2448,9 @@
         "armour": 4,
         "weapons": [
           "Kampfkanone||FxF",
-          "AC-Zwillings-Schwerbolter|2|FxF",
-          "AC-Zwillings-Schwerbolter||Left",
-          "AC-Zwillings-Schwerbolter||Right",
+          "AC-Zwillings-Schwere Bolter|2|FxF",
+          "AC-Zwillings-Schwere Bolter||Left",
+          "AC-Zwillings-Schwere Bolter||Right",
           "AC Bombe Racks||FxF"
         ],
         "specialRules": [
@@ -2468,7 +2468,7 @@
         "ff": 3,
         "weapons": [
           "Zwillings-Laserkanone|2",
-          "AC-Zwillings-Schwerbolter|3"
+          "AC-Zwillings-Schwere Bolter|3"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -2921,7 +2921,7 @@
         "weapons": [
           "Makro-Beschleunigerkanone",
           "Plasma-Auslöscher|2|FxF",
-          "Zwillings-Schwerbolter||FxF"
+          "Zwillings-Schwere Bolter||FxF"
         ],
         "specialRules": [
           "Damage Capacity: 4",

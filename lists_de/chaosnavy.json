@@ -133,7 +133,7 @@
         "ff": 4,
         "weapons": [
           "AC-Hurrikanbolter||FxF",
-          "AC-Zwillings-Schwerbolter||FxF",
+          "AC-Zwillings-Schwere Bolter||FxF",
           "Vengeance Werfer||"
         ],
         "specialRules": [
@@ -154,7 +154,7 @@
         "weapons": [
           "AC-Zwillings-Avenger-Bolterkanone||FxF",
           "AC-Raketenbatterie||FxF",
-          "AC-Vierlings-Schwerbolter-Türme||"
+          "AC-Vierlings-Schwere Bolter-Türme||"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -171,9 +171,9 @@
         "ff": 4,
         "weapons": [
           "Kampfkanone||FxF",
-          "AC-Zwillings-Schwerbolter|2|FxF",
-          "AC-Zwillings-Schwerbolter||Left",
-          "AC-Zwillings-Schwerbolter||Right"
+          "AC-Zwillings-Schwere Bolter|2|FxF",
+          "AC-Zwillings-Schwere Bolter||Left",
+          "AC-Zwillings-Schwere Bolter||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -215,9 +215,9 @@
         "ff": 4,
         "weapons": [
           "Kampfkanone||FxF",
-          "AC-Zwillings-Schwerbolter|2|FxF",
-          "AC-Zwillings-Schwerbolter||Left",
-          "AC-Zwillings-Schwerbolter||Right"
+          "AC-Zwillings-Schwere Bolter|2|FxF",
+          "AC-Zwillings-Schwere Bolter||Left",
+          "AC-Zwillings-Schwere Bolter||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -238,8 +238,8 @@
         "ff": 3,
         "weapons": [
           "Blackstar-Hurrikanbolter|3|FxF",
-          "AC-Zwillings-Schwerbolter|2|Left",
-          "AC-Zwillings-Schwerbolter|2|Right"
+          "AC-Zwillings-Schwere Bolter|2|Left",
+          "AC-Zwillings-Schwere Bolter|2|Right"
         ],
         "specialRules": [
           "Damage Capacity 3",

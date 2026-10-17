@@ -746,7 +746,7 @@
         "specialRules": [
           "Infiltratorens",
           "Teleport",
-          "Lightning Charge"
+          "Sturmangriff"
         ]
       },
       {
@@ -762,7 +762,7 @@
         ],
         "specialRules": [
           "Sprungmodule",
-          "Lightning Charge"
+          "Sturmangriff"
         ]
       },
       {

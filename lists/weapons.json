@@ -831,26 +831,26 @@
             ]
         },
         {
-            "name": "AC Twin Bright Lance",
+            "name": "AC Twin Bright Lanze",
             "modes": [
                 {
                     "firepower": "AT4+/AA5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "FxF"
                     ]
                 }
             ]
         },
         {
-            "name": "AC Bright Lance",
+            "name": "AC Bright Lanze",
             "modes": [
                 {
                     "firepower": "AT5+/AA6+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "FxF"
                     ]
                 }
@@ -868,26 +868,26 @@
             ]
         },
         {
-            "name": "AC Dark Lance",
+            "name": "AC Dark Lanze",
             "modes": [
                 {
                     "firepower": "AT5+/AA6+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "FxF"
                     ]
                 }
             ]
         },
         {
-            "name": "AC Twin Dark Lance",
+            "name": "AC Twin Dark Lanze",
             "modes": [
                 {
                     "firepower": "AT4+/AA5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "FxF"
                     ]
                 }
@@ -1131,7 +1131,7 @@
             ]
         },
         {
-            "name": "AC Twin Void Lance",
+            "name": "AC Twin Void Lanze",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -1161,7 +1161,7 @@
                     "firepower": "2BP",
                     "range": 15,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "FxF"
                     ]
                 }
@@ -1443,7 +1443,7 @@
             ]
         },
         {
-            "name": "Achilles Power Lance",
+            "name": "Achilles Power Lanze",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -2553,25 +2553,25 @@
             ]
         },
         {
-            "name": "Bright Lance",
+            "name": "Bright Lanze",
             "modes": [
                 {
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
         },
         {
-            "name": "Twin Bright Lance",
+            "name": "Twin Bright Lanze",
             "modes": [
                 {
                     "firepower": "AT4+",
                     "range": 30,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -2720,21 +2720,21 @@
             ]
         },
         {
-            "name": "Cerastus Shock Lance",
+            "name": "Cerastus Shock Lanze",
             "modes": [
                 {
                     "firepower": "Small Arms",
                     "specialRules": [
                         "EA(+1)",
-                        "Lightning Charge",
-                        "Lance"
+                        "Sturmangriff",
+                        "Lanze"
                     ]
                 },
                 {
                     "firepower": "Small Arms",
                     "join": "and",
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 },
                 {
@@ -2742,15 +2742,15 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "Lightning Charge",
-                        "Lance"
+                        "Sturmangriff",
+                        "Lanze"
                     ]
                 },
                 {
                     "firepower": "Assault Weapons",
                     "join": "and",
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -3365,38 +3365,38 @@
             ]
         },
         {
-            "name": "Dark Lance",
+            "name": "Dark Lanze",
             "modes": [
                 {
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
         },
         {
-            "name": "Dark Lance L",
+            "name": "Dark Lanze L",
             "modes": [
                 {
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "Left"
                     ]
                 }
             ]
         },
         {
-            "name": "Dark Lance R",
+            "name": "Dark Lanze R",
             "modes": [
                 {
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "Right"
                     ]
                 }
@@ -3459,7 +3459,7 @@
             ]
         },
         {
-            "name": "Twin Inferno Lance",
+            "name": "Twin Inferno Lanze",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -4836,7 +4836,7 @@
                     "range": 15,
                     "specialRules": [
                         "D",
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -5477,7 +5477,7 @@
             ]
         },
         {
-            "name": "Twin Heavy Phantom Lance",
+            "name": "Twin Heavy Phantom Lanze",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -6040,7 +6040,7 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "Lightning Charge"
+                        "Sturmangriff"
                     ]
                 }
             ]
@@ -6051,20 +6051,20 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "Lightning Charge"
+                        "Sturmangriff"
                     ]
                 }
             ]
         },
         {
-            "name": "Wraithbone Lance",
+            "name": "Wraithbone Lanze",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "Lance",
-                        "Lightning Charge"
+                        "Lanze",
+                        "Sturmangriff"
                     ]
                 }
             ]
@@ -6454,14 +6454,14 @@
             ]
         },
         {
-            "name": "Knight Power Lance",
+            "name": "Knight Power Lanze",
             "modes": [
                 {
                     "firepower": "Small Arms",
                     "specialRules": [
                         "EA(+1)",
-                        "Lance",
-                        "Lightning Charge"
+                        "Lanze",
+                        "Sturmangriff"
                     ]
                 },
                 {
@@ -6469,14 +6469,14 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "Lance",
-                        "Lightning Charge"
+                        "Lanze",
+                        "Sturmangriff"
                     ]
                 }
             ]
         },
         {
-            "name": "Knight Psychic Lance",
+            "name": "Knight Psychic Lanze",
             "modes": [
                 {
                     "firepower": "1BP",
@@ -6720,7 +6720,7 @@
                     "firepower": "AT2+",
                     "range": 90,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -6732,7 +6732,7 @@
                     "firepower": "2x AT4+",
                     "range": 60,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "IC"
                     ]
                 }
@@ -7019,7 +7019,7 @@
                     "firepower": "3x AT2+",
                     "range": 90,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -7677,7 +7677,7 @@
                     "firepower": "AT3+",
                     "range": 75,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "D"
                     ]
                 }
@@ -7690,7 +7690,7 @@
                     "firepower": "AT3+",
                     "range": 90,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "D"
                     ]
                 }
@@ -7703,7 +7703,7 @@
                     "firepower": "AT2+",
                     "range": 90,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "D"
                     ]
                 }
@@ -7925,7 +7925,7 @@
             ]
         },
         {
-            "name": "Phantom Lance",
+            "name": "Phantom Lanze",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -7937,7 +7937,7 @@
             ]
         },
         {
-            "name": "Twin Phantom Lance",
+            "name": "Twin Phantom Lanze",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -8520,13 +8520,13 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
         },
         {
-            "name": "Trike Power Lance",
+            "name": "Trike Power Lanze",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -8666,19 +8666,19 @@
                     "firepower": "AP4+/AT4+/AA5+",
                     "range": 75,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
         },
         {
-            "name": "Prism Lance",
+            "name": "Prism Lanze",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+/AA5+",
                     "range": 45,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -8721,7 +8721,7 @@
                     "firepower": "AP5+/AT4+",
                     "range": 30,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -8733,14 +8733,14 @@
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 },
                 {
                     "firepower": "Small Arms",
                     "join": "and",
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -8776,7 +8776,7 @@
                     "firepower": "2x AT3+/AT5+",
                     "range": 60,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -9014,7 +9014,7 @@
             ]
         },
         {
-            "name": "Psychic Lance",
+            "name": "Psychic Lanze",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -9062,7 +9062,7 @@
                     "firepower": "4x AP6+/AT5+",
                     "range": 45,
                     "specialRules": [
-                    "Lance"
+                    "Lanze"
                     ]
                 }
             ]
@@ -9264,7 +9264,7 @@
                     "firepower": "AT4+",
                     "range": 75,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 },
                 {
@@ -9806,13 +9806,13 @@
             ]
         },
         {
-            "name": "Shock Lance",
+            "name": "Shock Lanze",
             "modes": [
                 {
                     "firepower": "Small Arms",
                     "specialRules": [
                         "EA(+1)",
-                        "Lightning Charge"
+                        "Sturmangriff"
                     ]
                 }
             ]
@@ -10227,7 +10227,7 @@
             ]
         },
         {
-            "name": "Sonic Lance",
+            "name": "Sonic Lanze",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -10619,7 +10619,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -10864,7 +10864,7 @@
             ]
         },
         {
-            "name": "Taser Lance",
+            "name": "Taser Lanze",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -11104,7 +11104,7 @@
             ]
         },
         {
-            "name": "Thermal Lance",
+            "name": "Thermal Lanze",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -12225,7 +12225,7 @@
             ]
         },
         {
-            "name": "Venatari Lance",
+            "name": "Venatari Lanze",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -12307,7 +12307,7 @@
             ]
         },
         {
-            "name": "Twin Shadow Lance",
+            "name": "Twin Shadow Lanze",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -12342,13 +12342,13 @@
             ]
         },
         {
-            "name": "Volcano Lance",
+            "name": "Volcano Lanze",
             "modes": [
                 {
                     "firepower": "AT2+",
                     "range": 60,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -13002,7 +13002,7 @@
                     "firepower": "AT4+",
                     "range": 15,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -13014,7 +13014,7 @@
                     "firepower": "AT3+",
                     "range": 15,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -13026,7 +13026,7 @@
                     "firepower": "AT3+",
                     "range": 60,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -13146,16 +13146,16 @@
       "description": "Indirect Fire"
     },
     {
-      "name": "Lightning Charge",
-      "description": "Lightning Charge"
+      "name": "Sturmangriff",
+      "description": "Sturmangriff"
     },
     {
       "name": "Left",
       "description": "Left Arc"
     },
     {
-      "name": "Lance",
-      "description": "Lance"
+      "name": "Lanze",
+      "description": "Lanze"
     },
     {
       "name": "MW",

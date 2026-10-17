@@ -837,7 +837,7 @@
                     "firepower": "AT4+/AA5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "FxF"
                     ]
                 }
@@ -850,7 +850,7 @@
                     "firepower": "AT5+/AA6+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "FxF"
                     ]
                 }
@@ -874,7 +874,7 @@
                     "firepower": "AT5+/AA6+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "FxF"
                     ]
                 }
@@ -887,7 +887,7 @@
                     "firepower": "AT4+/AA5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "FxF"
                     ]
                 }
@@ -1161,7 +1161,7 @@
                     "firepower": "2BP",
                     "range": 15,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "FxF"
                     ]
                 }
@@ -2437,7 +2437,7 @@
             ]
         },
         {
-            "name": "Dragonfire-Schwerbolter",
+            "name": "Dragonfire-Schwere Bolter",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -2448,7 +2448,7 @@
             ]
         },
         {
-            "name": "Zwillings-Dragonfire-Schwerbolter",
+            "name": "Zwillings-Dragonfire-Schwere Bolter",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -2459,7 +2459,7 @@
             ]
         },
         {
-            "name": "AC-Zwillings-Dragonfire-Schwerbolter",
+            "name": "AC-Zwillings-Dragonfire-Schwere Bolter",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -2511,7 +2511,7 @@
             ]
         },
         {
-            "name": "Stormhammer-Schwerbolterbatterie",
+            "name": "Stormhammer schwere Bolter Batterie",
             "modes": [
                 {
                     "firepower": "3x AP3+",
@@ -2559,7 +2559,7 @@
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -2571,7 +2571,7 @@
                     "firepower": "AT4+",
                     "range": 30,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -2726,15 +2726,15 @@
                     "firepower": "Small Arms",
                     "specialRules": [
                         "EA(+1)",
-                        "Lightning Charge",
-                        "Lance"
+                        "Sturmangriff",
+                        "Lanze"
                     ]
                 },
                 {
                     "firepower": "Small Arms",
                     "join": "and",
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 },
                 {
@@ -2742,21 +2742,21 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "Lightning Charge",
-                        "Lance"
+                        "Sturmangriff",
+                        "Lanze"
                     ]
                 },
                 {
                     "firepower": "Assault Weapons",
                     "join": "and",
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
         },
         {
-            "name": "Ketten-Äxte",
+            "name": "Kettenäxte",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -3351,7 +3351,7 @@
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -3363,7 +3363,7 @@
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "Left"
                     ]
                 }
@@ -3376,7 +3376,7 @@
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "Right"
                     ]
                 }
@@ -4816,7 +4816,7 @@
                     "range": 15,
                     "specialRules": [
                         "D",
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -5187,7 +5187,7 @@
             ]
         },
         {
-            "name": "Mehrere Zwillings-Schwerbolter",
+            "name": "Mehrere Zwillings-Schwere Bolter",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -6020,7 +6020,7 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "Lightning Charge"
+                        "Sturmangriff"
                     ]
                 }
             ]
@@ -6031,7 +6031,7 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "Lightning Charge"
+                        "Sturmangriff"
                     ]
                 }
             ]
@@ -6043,8 +6043,8 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "Lance",
-                        "Lightning Charge"
+                        "Lanze",
+                        "Sturmangriff"
                     ]
                 }
             ]
@@ -6440,8 +6440,8 @@
                     "firepower": "Small Arms",
                     "specialRules": [
                         "EA(+1)",
-                        "Lance",
-                        "Lightning Charge"
+                        "Lanze",
+                        "Sturmangriff"
                     ]
                 },
                 {
@@ -6449,8 +6449,8 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "Lance",
-                        "Lightning Charge"
+                        "Lanze",
+                        "Sturmangriff"
                     ]
                 }
             ]
@@ -6700,7 +6700,7 @@
                     "firepower": "AT2+",
                     "range": 90,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -6712,7 +6712,7 @@
                     "firepower": "2x AT4+",
                     "range": 60,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "IC"
                     ]
                 }
@@ -6999,7 +6999,7 @@
                     "firepower": "3x AT2+",
                     "range": 90,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -7657,7 +7657,7 @@
                     "firepower": "AT3+",
                     "range": 75,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "D"
                     ]
                 }
@@ -7670,7 +7670,7 @@
                     "firepower": "AT3+",
                     "range": 90,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "D"
                     ]
                 }
@@ -7683,7 +7683,7 @@
                     "firepower": "AT2+",
                     "range": 90,
                     "specialRules": [
-                        "Lance",
+                        "Lanze",
                         "D"
                     ]
                 }
@@ -8500,7 +8500,7 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -8646,7 +8646,7 @@
                     "firepower": "AP4+/AT4+/AA5+",
                     "range": 75,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -8658,7 +8658,7 @@
                     "firepower": "AP4+/AT4+/AA5+",
                     "range": 45,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -8701,7 +8701,7 @@
                     "firepower": "AP5+/AT4+",
                     "range": 30,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -8713,14 +8713,14 @@
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 },
                 {
                     "firepower": "Small Arms",
                     "join": "and",
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -8756,7 +8756,7 @@
                     "firepower": "2x AT3+/AT5+",
                     "range": 60,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -9042,7 +9042,7 @@
                     "firepower": "4x AP6+/AT5+",
                     "range": 45,
                     "specialRules": [
-                    "Lance"
+                    "Lanze"
                     ]
                 }
             ]
@@ -9244,7 +9244,7 @@
                     "firepower": "AT4+",
                     "range": 75,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 },
                 {
@@ -9792,7 +9792,7 @@
                     "firepower": "Small Arms",
                     "specialRules": [
                         "EA(+1)",
-                        "Lightning Charge"
+                        "Sturmangriff"
                     ]
                 }
             ]
@@ -10599,7 +10599,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -11674,7 +11674,7 @@
             ]
         },
         {
-            "name": "AC-Zwillings-Schwerbolter",
+            "name": "AC-Zwillings-Schwere Bolter",
             "modes": [
                 {
                     "firepower": "AP4+/AA5+",
@@ -11683,7 +11683,7 @@
             ]
         },
         {
-            "name": "AC-Vierlings-Schwerbolter",
+            "name": "AC-Vierlings-Schwere Bolter",
             "modes": [
                 {
                     "firepower": "AP3+/AA5+",
@@ -11692,7 +11692,7 @@
             ]
         },
         {
-            "name": "AC-Vierlings-Schwerbolter-Türme",
+            "name": "AC-Vierlings-Schwere Bolter-Türme",
             "modes": [
                 {
                     "firepower": "AA4+",
@@ -11701,7 +11701,7 @@
             ]
         },
         {
-            "name": "AC-Zwillings-Dragonfire-Schwerbolter",
+            "name": "AC-Zwillings-Dragonfire-Schwere Bolter",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -11710,7 +11710,7 @@
             ]
         },
         {
-            "name": "Zwillings-Schwerbolter",
+            "name": "Zwillings-Schwere Bolter",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -11719,7 +11719,7 @@
             ]
         },
         {
-            "name": "Vierlings-Schwerbolter",
+            "name": "Vierlings-Schwere Bolter",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -12328,7 +12328,7 @@
                     "firepower": "AT2+",
                     "range": 60,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -12982,7 +12982,7 @@
                     "firepower": "AT4+",
                     "range": 15,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -12994,7 +12994,7 @@
                     "firepower": "AT3+",
                     "range": 15,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -13006,7 +13006,7 @@
                     "firepower": "AT3+",
                     "range": 60,
                     "specialRules": [
-                        "Lance"
+                        "Lanze"
                     ]
                 }
             ]
@@ -13126,16 +13126,16 @@
       "description": "Indirect Fire"
     },
     {
-      "name": "Lightning Charge",
-      "description": "Lightning Charge"
+      "name": "Sturmangriff",
+      "description": "Sturmangriff"
     },
     {
       "name": "Left",
       "description": "Left Arc"
     },
     {
-      "name": "Lance",
-      "description": "Lance"
+      "name": "Lanze",
+      "description": "Lanze"
     },
     {
       "name": "MW",

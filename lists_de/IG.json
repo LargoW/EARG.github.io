@@ -1624,7 +1624,7 @@
           "Maschinenkanone",
           "Belagerungskanone||FxF",
           "Laserkanone|2|FxF",
-          "Zwillings-Schwerbolter|3|FxF"
+          "Zwillings-Schwere Bolter|3|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1643,7 +1643,7 @@
           "Schildbrecher-Raketen",
           "Maschinenkanone",
           "Belagerungskanone||FxF",
-          "Zwillings-Schwerbolter|3|FxF",
+          "Zwillings-Schwere Bolter|3|FxF",
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
@@ -1661,7 +1661,7 @@
         "ff": 4,
         "weapons": [
           "Vulcan-Megabolter||FxF",
-          "Zwillings-Schwerbolter||FxF",
+          "Zwillings-Schwere Bolter||FxF",
           "Zwillings-Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
@@ -1681,7 +1681,7 @@
         "ff": 4,
         "weapons": [
           "Tremor Kanone||FxF",
-          "Zwillings-Schwerbolter|2|FxF"
+          "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1699,7 +1699,7 @@
         "ff": 5,
         "weapons": [
           "Volcano Kanone||FxF",
-          "Zwillings-Schwerbolter|2|FxF"
+          "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1717,7 +1717,7 @@
         "weapons": [
           "Stormblade-Blaster||FxF",
           "Laserkanone|2|FxF",
-          "Zwillings-Schwerbolter|3|FxF"
+          "Zwillings-Schwere Bolter|3|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1734,7 +1734,7 @@
         "ff": 4,
         "weapons": [
           "Belagerungs-Kanone||FxF",
-          "Zwillings-Schwerbolter|3|FxF",
+          "Zwillings-Schwere Bolter|3|FxF",
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
@@ -1754,7 +1754,7 @@
           "Zwillings-Ragnarok Kampfkanone||",
           "Zwillings-Ragnarok Kampfkanone||FxF",
           "Vierlings-Laserkanone||FxF",
-          "Vierlings-Schwerbolter|2|FwA"
+          "Vierlings-Schwere Bolter|2|FwA"
         ],
         "specialRules": [
           "Damage Capacity 3",

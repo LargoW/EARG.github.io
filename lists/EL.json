@@ -604,7 +604,7 @@
             "ff": 4,
             "weapons": [
                 "Eldar Power Fist",
-                "Twin Bright Lance"
+                "Twin Bright Lanze"
             ],
             "specialRules": [
                 "Furchtlos",
@@ -712,7 +712,7 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Sonic Lance",
+                "Sonic Lanze",
                 "Shuriken Cannon"
             ],
             "specialRules": [
@@ -828,7 +828,7 @@
             "ff": 3,
             "weapons": [
                 "Twin Deathshroud Cannon|0-1|",
-                "Twin Inferno Lance|0-1|",
+                "Twin Inferno Lanze|0-1|",
                 "Twin Shuriken Cannon"
             ],
             "specialRules": [
@@ -837,7 +837,7 @@
                 "Geländegängig",
                 "Teleport"
             ],
-            "notes": "Skathach Wraithknights are armed with either a Twin Deathshroud Cannon or Twin Inferno Lance."
+            "notes": "Skathach Wraithknights are armed with either a Twin Deathshroud Cannon or Twin Inferno Lanze."
         },
         {
             "name": "Wraithknight",
@@ -939,7 +939,7 @@
             "cc": 3,
             "ff": 3,
             "weapons": [
-                "Psychic Lance",
+                "Psychic Lanze",
                 "Eldar Titan Power Fist",
                 "Twin Eldar Missile Launcher|2|"
             ],

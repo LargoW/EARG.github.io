@@ -8,7 +8,7 @@
         "name": "Dragon Prince",
         "type": "CH",
         "weapons": [
-          "Wraithbone Lance"
+          "Wraithbone Lanze"
         ],
         "specialRules": [
           "Inspirierend",
@@ -20,7 +20,7 @@
         "name": "Dragonlord",
         "type": "CH",
         "weapons": [
-          "Wraithbone Lance"
+          "Wraithbone Lanze"
         ],
         "specialRules": [
           "Inspirierend",
@@ -161,7 +161,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Prism Lance"
+          "Prism Lanze"
         ],
         "specialRules": [
           "Geländegängig"
@@ -174,7 +174,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lance",
+          "Knight Psychic Lanze",
           "Knight Pulse Laser"
         ],
         "specialRules": [
@@ -191,7 +191,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lance"
+          "Knight Psychic Lanze"
         ],
         "specialRules": [
           "Holofield (4+)",
@@ -207,7 +207,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lance",
+          "Knight Psychic Lanze",
           "Scatter Laser",
           "Knight Close Combat Weapons"
         ],

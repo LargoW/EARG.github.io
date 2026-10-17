@@ -417,7 +417,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Zwillings-Schwerbolter",
+          "Zwillings-Schwere Bolter",
           "Penitent Flegel"
         ],
         "specialRules": [
@@ -434,7 +434,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerbolter",
+          "Zwillings-Schwere Bolter",
           "Penitent Flegel"
         ],
         "specialRules": [
@@ -561,7 +561,7 @@
         "ff": 4,
         "weapons": [
           "Vulcan-Megabolter||FxF",
-          "Zwillings-Schwerbolter||FxF",
+          "Zwillings-Schwere Bolter||FxF",
           "Zwillings-Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [

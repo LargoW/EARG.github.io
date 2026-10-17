@@ -104,7 +104,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Dark Lance",
+          "Dark Lanze",
           "Splinter Cannon"
         ],
         "specialRules": [
@@ -276,7 +276,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Dark Lance"
+          "Dark Lanze"
         ],
         "specialRules": [
           "Antigrav",
@@ -293,7 +293,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Dark Lance|2|",
+          "Dark Lanze|2|",
           "Splinter Blast"
         ],
         "specialRules": [
@@ -341,7 +341,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Dark Lance|2|FxF",
+          "Dark Lanze|2|FxF",
           "Splinter Blast",
           "Splinter Cannon|2|FwA"
         ],
@@ -363,7 +363,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Phantom Lance||FxF",
+          "Phantom Lanze||FxF",
           "Desolator||FwA",
           "Splinter Cannon|2|FwA"
         ],
@@ -383,7 +383,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Shadow Lance|2|",
+          "Twin Shadow Lanze|2|",
           "Tormentor Blades"
         ],
         "specialRules": [
@@ -403,7 +403,7 @@
         "armour": 5,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Phantom Lance||FxF",
+          "Twin Heavy Phantom Lanze||FxF",
           "Splinter Storm",
           "Disintegrator Array"
         ],

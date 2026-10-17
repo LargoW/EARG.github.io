@@ -122,7 +122,7 @@
       ]
     },
     {
-      "title": "Lightning Charge",
+      "title": "Sturmangriff",
       "description": [
         "Die Waffe oder Einheit erhält <i>Erstschlag</i> bei Offensiven, die von ihrem Verband eingeleitet werden."
       ]
@@ -595,15 +595,15 @@
       "title": "Holofields (x)",
       "description": [
         "Holofields verleihen einen Schutzwurf mit dem Wert \u003ci\u003ex\u003c/i\u003e. Dieser Schutzwurf darf immer abgelegt werden, auch gegen Waffen mit den Fähigkeiten Macro Weapon oder Titan Killer.",
-        "Hat eine Einheit Verstärkte Panzerung, darf sie ihren Wiederholungswurf verwenden, ausser bei Treffern durch Lance-, Makrowaffe- oder Titan-Killer-Angriffe; der Wiederholungswurf verwendet dann jedoch den Rüstungswert der Einheit. Durch Holofields abgewehrte Treffer erzeugen keine Beschussmarken, auch wenn sie Versprengen besitzen.",
+        "Hat eine Einheit Verstärkte Panzerung, darf sie ihren Wiederholungswurf verwenden, ausser bei Treffern durch Lanze-, Makrowaffe- oder Titan-Killer-Angriffe; der Wiederholungswurf verwendet dann jedoch den Rüstungswert der Einheit. Durch Holofields abgewehrte Treffer erzeugen keine Beschussmarken, auch wenn sie Versprengen besitzen.",
         "Gegen Titan-Killer-Angriffe, die zusätzlichen Schaden verursachen, wird nur ein Holofield-Schutzwurf abgelegt. Ist er erfolgreich, erleidet die Einheit keinen Schaden; misslingt er, erleidet sie den gesamten Schaden.",
         "Holofield-Schutzwürfe können durch Modifikatoren wie den Schutzwurfmodifikator von -1 durch Kreuzfeuer oder Waffen mit der Fähigkeit Scharfschütze verschlechtert werden. Hat eine Einheit mit Holofield auch einen Schutzwurf durch Deckung, muss sie wählen, welchen Schutzwurf sie verwendet."
       ]
     },
     {
-      "title": "Lance",
+      "title": "Lanze",
       "description": [
-        "Einheiten mit Verstärkter Panzerung dürfen misslungene Rüstungswürfe nicht wiederholen, wenn sie von einer Waffe mit der Fähigkeit Lance getroffen werden."
+        "Einheiten mit Verstärkter Panzerung dürfen misslungene Rüstungswürfe nicht wiederholen, wenn sie von einer Waffe mit der Fähigkeit Lanze getroffen werden."
       ]
     },
     {
