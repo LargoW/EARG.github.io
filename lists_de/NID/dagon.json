@@ -101,7 +101,7 @@
           "units": "Zwei Tyranid Warriors",
           "extraUnits": [
             "Ein bis zwei Instinctive Swarms",
-            "1+ Gaunts, Gargoyles, or Bio-Support must be chosen",
+            "1+ Gaunts, Gargoyles, oder Bio-Support must be chosen",
             "Ersetze two Tyranid Warriors durch Tyranid Warrior Shrikes: kostenlos",
             "Ersetze two Tyranid Warriors durch Zoanthropes: 25pts",
             "Transportiere die Formation in einer Mycetic Spore (alle Einheiten müssen transportiert werden können) und setze sie gemäß den Planetary-Assault-Regeln von einer Razorfiend oder einem Hive Ship aus ein: 50 Punkte"
@@ -118,7 +118,7 @@
           "name": "Nest Swarm",
           "units": "Ein Hive Nest",
           "extraUnits": [
-            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Bio-Support, or Bio-Artillery"
+            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Bio-Support, oder Bio-Artillery"
           ],
           "points": 150
         },
@@ -126,7 +126,7 @@
           "name": "Breacher Swarm",
           "units": "Ein Hierodule Prime (Barbed oder Scythed)",
           "extraUnits": [
-            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Burrower, Carnifex or Bio-Attack"
+            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Burrower, Carnifex oder Bio-Attack"
           ],
           "points": 125
         },
@@ -142,7 +142,7 @@
           "name": "Harasser Swarm",
           "units": "Ein Harridan",
           "extraUnits": [
-            "Zero to two Instinctive Swarms chosen from Gargoyles or Bio-Flyers",
+            "Zero to two Instinctive Swarms chosen from Gargoyles oder Bio-Flyers",
             "Füge 1 Harridan hinzu: 100 Punkte"
           ],
           "points": 175
@@ -199,7 +199,7 @@
     "items": [
       {
         "name": "Gaunts",
-        "description": "Five Termagants, five Barbgaunts, or five Hormagaunts",
+        "description": "Five Termagants, five Barbgaunts, oder five Hormagaunts",
         "points": "75 points"
       },
       {
@@ -214,12 +214,12 @@
       },
       {
         "name": "Bio-Flyers",
-        "description": "Three Harpies or three Hive Crones",
+        "description": "Three Harpies oder three Hive Crones",
         "points": "100 points"
       },
       {
         "name": "Carnifex",
-        "description": "two Barbed Carnifex or two Screamer-Killer Carnifex",
+        "description": "two Barbed Carnifex oder two Screamer-Killer Carnifex",
         "points": "75 points"
       },
       {
@@ -229,17 +229,17 @@
       },
       {
         "name": "Bio-Attack",
-        "description": "Two Haruspex, two Exocrines, or two Malefactors",
+        "description": "Two Haruspex, two Exocrines, oder two Malefactors",
         "points": "75 points"
       },
       {
         "name": "Breacher",
-        "description": "One Barbed Hierodule or one Scythed Hierodule",
+        "description": "One Barbed Hierodule oder one Scythed Hierodule",
         "points": "125 points"
       },
       {
         "name": "Burrower",
-        "description": "Two Trygons or five Raveners",
+        "description": "Two Trygons oder five Raveners",
         "points": "100 points"
       }
     ]

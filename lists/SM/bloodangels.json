@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_BloodAngels",
-  "intro": "The following army list allows you to field an army based on the Blood Angels Space Marine chapter or any of its successor chapters. The Blood Angels are well-known across the galaxy for their bloodthirsty nature in battle, and feared for the curse of the flawed gene-seed they carry.",
+  "intro": "The following army list allows you to field an army based on the Blood Angels Space Marine chapter oder any of its successor chapters. The Blood Angels are well-known across the galaxy for their bloodthirsty nature in battle, and feared for the curse of the flawed gene-seed they carry.",
   "strategy": "Space Marine armies have a Strategy Rating of 5.",
   "Initiative": "All formations have an Initiative Rating of 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Blood Angels detachments and Aircraft formations.",
@@ -65,7 +65,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     }
   ],
@@ -76,7 +76,7 @@
       "formations": [
         {
           "name": "1 Death Company",
-          "units": "One Chaplain, four Death Company Marines plus transport (Drop Pods or on foot only)",
+          "units": "One Chaplain, four Death Company Marines plus transport (Drop Pods oder on foot only)",
           "extraUnits": [
             "Add two Death Company Marines: 75 points",
             "Add up to two Death Company Dreadnoughts: 75 points each"
@@ -117,7 +117,7 @@
           "extraUnits": [
             "Befehlshaber",
             "Dreadnoughts",
-            "Replace one Assault Terminator with three Stormravens or three Land Raiders: 100 points, or add two Land Raider Redeemers: 100 points"
+            "Replace one Assault Terminator with three Stormravens oder three Land Raiders: 100 points, oder add two Land Raider Redeemers: 100 points"
           ],
           "points": 325
         }
@@ -195,7 +195,7 @@
           "name": "0-1 Orbital Support",
           "units": "One Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Replace the Vanguard Class Light Cruiser with a Strike Cruiser: 50 points, or a Battle Barge: 125 points"
+            "Replace the Vanguard Class Light Cruiser with a Strike Cruiser: 50 points, oder a Battle Barge: 125 points"
           ],
           "points": 150
         },
@@ -235,7 +235,7 @@
       },
       {
         "name": "Attack Bikes",
-        "description": "Replace any number of Assault Bikes with an equal number of Attack Bikes or Melta Bikes",
+        "description": "Replace any number of Assault Bikes with an equal number of Attack Bikes oder Melta Bikes",
         "points": "Free"
       },
       {
@@ -258,22 +258,22 @@
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Dreadnoughts or Furioso Dreadnoughts to the formation",
+        "description": "Add up to two Dreadnoughts oder Furioso Dreadnoughts to the formation",
         "points": "50 points each"
       },
       {
         "name": "Honor Guards",
-        "description": "In a formation containing a Oberbefehlshaber character: replace up to two Assaults or Tacticals with Sanguinary Guards",
+        "description": "In a formation containing a Oberbefehlshaber character: replace up to two Assaults oder Tacticals with Sanguinary Guards",
         "points": "25 points each"
       },
       {
         "name": "Land Raider Transport",
-        "description": "Add any number of Land Raiders and/or Land Raider Redeemers, up to the number required to transport the formation",
+        "description": "Add any number of Land Raiders und/oder Land Raider Redeemers, up to the number required to transport the formation",
         "points": "50 points each"
       },
       {
         "name": "Predators",
-        "description": "Add two Baal Predator Hades or two Baal Predator Infernus",
+        "description": "Add two Baal Predator Hades oder two Baal Predator Infernus",
         "points": "75 points"
       },
       {

@@ -82,7 +82,7 @@
           "extraUnits": [
             "Zwei bis vier Instinctive Swarms",
             "Ersetze einen Hive Tyrant durch einen Hive Tyrant Shrike: kostenlos",
-            "0-1 Hive Tyrant in the army may be replaced with a Swarmlord or a Swarmlord Shrike: 75 points"
+            "0-1 Hive Tyrant in the army may be replaced with a Swarmlord oder a Swarmlord Shrike: 75 points"
           ],
           "points": 125
         },
@@ -91,7 +91,7 @@
           "units": "Zwei Tyranid Warriors",
           "extraUnits": [
             "Ein bis zwei Instinctive Swarms",
-            "1+ Gaunts, Gargoyles or Bio-Support must be chosen",
+            "1+ Gaunts, Gargoyles oder Bio-Support must be chosen",
             "Ersetze two Tyranid Warriors durch Tyranid Warrior Shrikes: kostenlos",
             "Ersetze two Tyranid Warriors durch Zoanthropes: 25pts"
           ],
@@ -117,7 +117,7 @@
           "units": "Ein Hive Harridan",
           "extraUnits": [
             "Füge 1 Hive Harridan hinzu: 100 Punkte",
-            "Zero to two Instinctive Swarms chosen from Gargoyles or Bio-Flyers"
+            "Zero to two Instinctive Swarms chosen from Gargoyles oder Bio-Flyers"
           ],
           "points": 175
         },
@@ -125,7 +125,7 @@
           "name": "Spawn Nest",
           "units": "Ein Spawn Nest",
           "extraUnits": [
-            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Bio-Artillery, Bio-Support or Nest-Guard"
+            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Bio-Artillery, Bio-Support oder Nest-Guard"
           ],
           "points": 150
         }
@@ -185,12 +185,12 @@
     "items": [
       {
         "name": "Gaunts",
-        "description": "Five Termagants, Hormagaunts and/or Barbgaunts",
+        "description": "Five Termagants, Hormagaunts und/oder Barbgaunts",
         "points": "75 points"
       },
       {
         "name": "Bio-Support",
-        "description": "Four Biovores and/or Pyrovores",
+        "description": "Four Biovores und/oder Pyrovores",
         "points": "75 points"
       },
       {
@@ -200,22 +200,22 @@
       },
       {
         "name": "Bio-Flyers",
-        "description": "Three Harpies or three Hive Crones",
+        "description": "Three Harpies oder three Hive Crones",
         "points": "100 points"
       },
       {
         "name": "Carnifex",
-        "description": "Two Barbed Carnifex or two Screamer-Killer Carnifex",
+        "description": "Two Barbed Carnifex oder two Screamer-Killer Carnifex",
         "points": "75 points"
       },
       {
         "name": "Bio-Attack",
-        "description": "Two Exocrines or two Malefactors",
+        "description": "Two Exocrines oder two Malefactors",
         "points": "75 points"
       },
       {
         "name": "Bio-Artillery",
-        "description": "Three Dactylis, or two Tyrannofexes",
+        "description": "Three Dactylis, oder two Tyrannofexes",
         "points": "125 points"
       },
       {

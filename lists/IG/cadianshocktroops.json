@@ -56,7 +56,7 @@
         "Reaver Titan"
       ],
       "unitRules": [
-        "Void Shields",
+        "Null Schilde",
         "Independent"
       ]
     },
@@ -131,7 +131,7 @@
         },
         {
           "name": "Artillery Battery",
-          "units": "Three Basilisks, three Bombards or four Medusa",
+          "units": "Three Basilisks, three Bombards oder four Medusa",
           "extraUnits": [
             "Add one Deathstrike: 75 points"
           ],
@@ -154,7 +154,7 @@
         },
         {
           "name": "Leman Russ Platoon",
-          "units": "Six Leman Russ, Leman Russ Demolishers or Leman Russ Punishers",
+          "units": "Six Leman Russ, Leman Russ Demolishers oder Leman Russ Punishers",
           "points": 375,
           "upgrades": [
             "Add one Hydra: 50 points"
@@ -169,9 +169,9 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade, Stormblade or Stormsword",
+          "units": "One Baneblade, Stormblade oder Stormsword",
           "upgrades": [
-            "Upgrade one Baneblade, Stormblade or Stormsword to a Shadowsword: 25 points"
+            "Upgrade one Baneblade, Stormblade oder Stormsword to a Shadowsword: 25 points"
           ],
           "points": 175
         }
@@ -222,7 +222,7 @@
         "name": "Leman Russ",
         "options": [
           {
-            "description": "Three Leman Russ, three Leman Russ Demolishers, or three Leman Russ Punishers",
+            "description": "Three Leman Russ, three Leman Russ Demolishers, oder three Leman Russ Punishers",
             "points": "125 points"
           }
         ]
@@ -231,7 +231,7 @@
         "name": "Super-Heavy Tank",
         "options": [
           {
-            "description": "One Baneblade, Stormblade, Stormsword or Shadowsword",
+            "description": "One Baneblade, Stormblade, Stormsword oder Shadowsword",
             "points": "125 points"
           }
         ]

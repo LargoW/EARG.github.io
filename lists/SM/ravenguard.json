@@ -4,7 +4,7 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_Ravenguard",
-  "intro": "The following army list allows you to field an army based on the Raven Guard Space Marine chapter or any of its successor chapters. The Raven Guard specialise in guerrilla warfare, moving behind enemy lines with unrivalled stealth, and striking with precise application of force.",
+  "intro": "The following army list allows you to field an army based on the Raven Guard Space Marine chapter oder any of its successor chapters. The Raven Guard specialise in guerrilla warfare, moving behind enemy lines with unrivalled stealth, and striking with precise application of force.",
   "strategy": "Space Marine armies have a Strategy Rating of 5.",
   "Initiative": "All formations have an Initiative Rating of 1+.",
   "specialRules": [
@@ -56,7 +56,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     }
   ],
@@ -244,7 +244,7 @@
       },
       {
         "name": "Land Speeder Variants",
-        "description": "Replace any number of Land Speeders with an equal number of Land Speeder Typhoons or Land Speeder Tempests",
+        "description": "Replace any number of Land Speeders with an equal number of Land Speeder Typhoons oder Land Speeder Tempests",
         "points": "10 points each"
       },
       {

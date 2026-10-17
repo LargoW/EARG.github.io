@@ -23,7 +23,7 @@
             ]
         },
         {
-            "name": "ARMS (choose one)",
+            "name": "Arme (wähle eine)",
             "modes": [
                 {
                 }
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "name": "CARAPACE (choose one)",
+            "name": "Rumpfbewaffung (wähle eine)",
             "modes": [
                 {
                 }
@@ -305,7 +305,7 @@
                 {
                     "firepower": "MW2+",
                     "specialRules": [
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -467,7 +467,7 @@
                     "specialRules": [
                         "MW",
                         "IC",
-                        "Shield Versprengenor"
+                        "Schildbrecher"
                     ]
                 }
             ]
@@ -534,7 +534,7 @@
             "name": "AC Flakka-Dakka Turrets",
             "modes": [
                 {
-                    "firepower": "D3+1x AP5+/AA6+",
+                    "firepower": "W3+1x AP5+/AA6+",
                     "range": 15,
                     "specialRules": [
                     ]
@@ -935,7 +935,7 @@
                     "range": 15,
                     "specialRules": [
                         "TK(1)",
-                        "Shield Versprengenor",
+                        "Schildbrecher",
                         "FxF"
                     ]
                 }
@@ -1112,7 +1112,7 @@
                     "firepower": "MW3+",
                     "range": 45,
                     "specialRules": [
-                        "TK(D3)",
+                        "TK(W3)",
                         "FxF"
                     ]
                 }
@@ -1137,7 +1137,7 @@
                     "firepower": "AT3+",
                     "range": 30,
                     "specialRules": [
-                        "Shield Versprengenor",
+                        "Schildbrecher",
                         "FxF"
                     ]
                 }
@@ -1282,7 +1282,7 @@
                     "range": 60,
                     "specialRules": [
                         "TK(1)",
-                        "Shield Versprengenor"
+                        "Schildbrecher"
                     ]
                 }
             ]
@@ -1545,10 +1545,10 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3+3)"
+                        "TK(W3+3)"
                     ]
                 }
             ]
@@ -1576,7 +1576,7 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "TK(1)"
                     ]
@@ -1675,7 +1675,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -1922,7 +1922,7 @@
                     "firepower": "MW2+",
                     "range": 75,
                     "specialRules": [
-                        "TK(D3+1)"
+                        "TK(W3+1)"
                     ]
                 }
             ]
@@ -1957,7 +1957,7 @@
                     "firepower": "MW2+",
                     "range": 90,
                     "specialRules": [
-                        "TK(D6)"
+                        "TK(W6)"
                     ]
                 }
             ]
@@ -1993,7 +1993,7 @@
                     "firepower": "MW2+",
                     "range": 90,
                     "specialRules": [
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -2005,7 +2005,7 @@
                     "firepower": "MW2+",
                     "range": 90,
                     "specialRules": [
-                        "TK(D3+1)"
+                        "TK(W3+1)"
                     ]
                 }
             ]
@@ -2812,7 +2812,7 @@
                 },
                 {
                     "firepower": "Small Arms",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                     ]
                 }
@@ -2845,13 +2845,13 @@
                     "firepower": "MW3+",
                     "range": 30,
                     "specialRules": [
-                        "TK(D3+1)",
-                        "Shield Piercer"
+                        "TK(W3+1)",
+                        "Schildbohrer"
                     ]
                 },
                 {
                     "firepower": "3BP",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "MW",
                         "IC"
@@ -3097,7 +3097,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -3224,7 +3224,7 @@
                 },
                 {
                     "firepower": "Small Arms",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "MW"
                     ]
@@ -3239,7 +3239,7 @@
                     "range": 15,
                     "specialRules": [
                         "TK(1)",
-                        "Shield Versprengenor"
+                        "Schildbrecher"
                     ]
                 }
             ]
@@ -3251,7 +3251,7 @@
                     "firepower": "MW3+",
                     "range": 30,
                     "specialRules": [
-                        "Shield Piercer"
+                        "Schildbohrer"
                     ]
                 },
                 {
@@ -3259,7 +3259,7 @@
                     "join": "and",
                     "specialRules": [
                         "MW",
-                        "Shield Piercer"
+                        "Schildbohrer"
                     ]
                 }
             ]
@@ -3276,7 +3276,7 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "EA(+1)",
                         "FS"
@@ -3502,7 +3502,7 @@
                     "firepower": "MW4+",
                     "range": 90,
                     "specialRules": [
-                        "TK(D6)"
+                        "TK(W6)"
                     ]
                 }
             ]
@@ -3514,7 +3514,7 @@
                     "firepower": "MW4+",
                     "range": "Unlimited",
                     "specialRules": [
-                        "TK(D6)"
+                        "TK(W6)"
                     ]
                 }
             ]
@@ -3632,7 +3632,7 @@
                     "firepower": "MW3+",
                     "range": 30,
                     "specialRules": [
-                        "Shield Piercer"
+                        "Schildbohrer"
                     ]
                 }
             ]
@@ -3657,12 +3657,12 @@
                     "firepower": "MW3+ FxF",
                     "range": 45,
                     "specialRules": [
-                        "TK(D3+1)"
+                        "TK(W3+1)"
                     ]
                 },
                 {
                     "firepower": "3BP FxF",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "MW",
                         "IC"
@@ -3700,7 +3700,7 @@
                     "specialRules": [
                         "SS",
                         "Ind",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -3747,7 +3747,7 @@
                     "firepower": "MW2+",
                     "range": 45,
                     "specialRules": [
-                        "TK(D3)",
+                        "TK(W3)",
                         "IC"
                     ]
                 }
@@ -3760,7 +3760,7 @@
                     "firepower": "MW2+",
                     "range": 45,
                     "specialRules": [
-                        "TK(D3)",
+                        "TK(W3)",
                         "IC"
                     ]
                 }
@@ -3778,7 +3778,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3+1)"
+                        "TK(W3+1)"
                     ]
                 }
             ]
@@ -3795,7 +3795,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3+3)"
+                        "TK(W3+3)"
                     ]
                 }
             ]
@@ -3918,7 +3918,7 @@
                 },
                 {
                     "firepower": "1BP",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "Ind"
                     ]
@@ -3934,7 +3934,7 @@
                 },
                 {
                     "firepower": "2BP",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "Ind"
                     ]
@@ -4475,7 +4475,7 @@
                 {
                     "firepower": "Small Arms",
                     "specialRules": [
-                        "EA(+D3)",
+                        "EA(+W3)",
                         "FS"
                     ]
                 }
@@ -4769,7 +4769,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -4859,8 +4859,8 @@
                     "firepower": "2x MW3+",
                     "range": 90,
                     "specialRules": [
-                        "TK(D3)",
-                        "Shield Piercer"
+                        "TK(W3)",
+                        "Schildbohrer"
                     ]
                 }
             ]
@@ -4872,8 +4872,8 @@
                     "firepower": "MW2+",
                     "range": 30,
                     "specialRules": [
-                        "TK(D3)",
-                        "Shield Piercer"
+                        "TK(W3)",
+                        "Schildbohrer"
                     ]
                 }
             ]
@@ -5082,7 +5082,7 @@
                     "range": 90,
                     "specialRules": [
                         "SS",
-                        "Shield Piercer"
+                        "Schildbohrer"
                     ]
                 }
             ]
@@ -5095,7 +5095,7 @@
                     "range": 90,
                     "specialRules": [
                         "SS",
-                        "Shield Piercer"
+                        "Schildbohrer"
                     ]
                 }
             ]
@@ -5438,7 +5438,7 @@
                     "firepower": "AP4+/AT5+",
                     "range": 15,
                     "specialRules": [
-                        "Shield Versprengenor"
+                        "Schildbrecher"
                     ]
                 }
             ]
@@ -5483,7 +5483,7 @@
                     "firepower": "MW2+",
                     "range": 60,
                     "specialRules": [
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -5508,7 +5508,7 @@
                     "firepower": "MW3+",
                     "range": 90,
                     "specialRules": [
-                        "TK(D6)"
+                        "TK(W6)"
                     ]
                 }
             ]
@@ -5780,7 +5780,7 @@
                     "firepower": "MW2+",
                     "range": 100,
                     "specialRules": [
-                        "TK(D6)"
+                        "TK(W6)"
                     ]
                 }
             ]
@@ -5860,7 +5860,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -5974,7 +5974,7 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "EA(+D3)"
+                        "EA(+W3)"
                     ]
                 }
             ]
@@ -6184,7 +6184,7 @@
                 },
                 {
                     "firepower": "1BP",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "Ind",
                         "D"
@@ -6417,7 +6417,7 @@
                     "firepower": "Assault Weapon",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -6484,7 +6484,7 @@
                     "specialRules": [
                         "IC",
                         "MW",
-                        "Shield Versprengenor"
+                        "Schildbrecher"
                     ]
                 },
                 {
@@ -6492,7 +6492,7 @@
                     "join": "and",
                     "specialRules": [
                         "MW",
-                        "Shield Versprengenor"
+                        "Schildbrecher"
                     ]
                 }
             ]
@@ -6774,7 +6774,7 @@
                     "firepower": "AT2+",
                     "range": 15,
                     "specialRules": [
-                        "Shield Versprengenor",
+                        "Schildbrecher",
                         "FwA"
                     ]
                 },
@@ -6838,7 +6838,7 @@
                     "firepower": "MW3+",
                     "range": 45,
                     "specialRules": [
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 },
                 {
@@ -6858,7 +6858,7 @@
                     "firepower": "MW3+",
                     "range": 45,
                     "specialRules": [
-                        "TK(D3)",
+                        "TK(W3)",
                         "FxF"
                     ]
                 },
@@ -6880,7 +6880,7 @@
                     "range": 45,
                     "specialRules": [
                         "D",
-                        "Shield Versprengenor"
+                        "Schildbrecher"
                     ]
                 }
             ]
@@ -6892,7 +6892,7 @@
                     "firepower": "MW4+",
                     "range": 45,
                     "specialRules": [
-                        "Shield Versprengenor"
+                        "Schildbrecher"
                     ]
                 }
             ]
@@ -7007,7 +7007,7 @@
                 {
                     "firepower": "Small Arms",
                     "specialRules": [
-                        "EA(+D3)"
+                        "EA(+W3)"
                     ]
                 }
             ]
@@ -7064,7 +7064,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(D3+1)"
+                        "TK(W3+1)"
                     ]
                 }
             ]
@@ -7158,7 +7158,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -7194,7 +7194,7 @@
                     "firepower": "MW2+",
                     "range": 30,
                     "specialRules": [
-                        "TK(D3)",
+                        "TK(W3)",
                         "FwA"
                     ]
                 },
@@ -7203,7 +7203,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -7215,7 +7215,7 @@
                     "firepower": "MW2+",
                     "range": 30,
                     "specialRules": [
-                        "TK(D3)",
+                        "TK(W3)",
                         "FxF"
                     ]
                 },
@@ -7224,7 +7224,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -7236,7 +7236,7 @@
                     "firepower": "2x MW2+",
                     "range": 30,
                     "specialRules": [
-                        "TK(D3)",
+                        "TK(W3)",
                         "FxF"
                     ]
                 },
@@ -7245,7 +7245,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -7479,7 +7479,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3+1)"
+                        "TK(W3+1)"
                     ]
                 }
             ]
@@ -7753,7 +7753,7 @@
                     "range": 100,
                     "specialRules": [
                         "TK(1)",
-                        "Shield Versprengenor"
+                        "Schildbrecher"
                     ]
                 }
             ]
@@ -7866,12 +7866,12 @@
                     "firepower": "MW3+",
                     "range": 60,
                     "specialRules": [
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 },
                 {
                     "firepower": "AA5+",
-                    "join": "or",
+                    "join": "oder",
                     "range": 60,
                     "specialRules": [
                         "MW"
@@ -7943,7 +7943,7 @@
                     "firepower": "MW2+",
                     "range": 45,
                     "specialRules": [
-                        "TK(D3+1)"
+                        "TK(W3+1)"
                     ]
                 }
             ]
@@ -8548,7 +8548,7 @@
             ]
         },
         {
-            "name": "D3+1 Power Fields",
+            "name": "W3+1 Power Fields",
             "modes": [
                 {
                     "firepower": "n/a",
@@ -8691,7 +8691,7 @@
                     "range": 120,
                     "specialRules": [
                         "TK(1)",
-                        "Shield Versprengenor"
+                        "Schildbrecher"
                     ]
                 }
             ]
@@ -8706,7 +8706,7 @@
                 {
                     "firepower": "2BP",
                     "range": 30,
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "MW",
                         "IC"
@@ -9021,8 +9021,8 @@
                     "range": 30,
                     "specialRules": [
                         "IC",
-                        "TK(D3)",
-                        "Shield Versprengenor"
+                        "TK(W3)",
+                        "Schildbrecher"
                     ]
                 },
                 {
@@ -9030,7 +9030,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -9047,7 +9047,7 @@
                 {
                     "firepower": "3BP",
                     "range": 60,
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "D",
                         "IC"
@@ -9270,7 +9270,7 @@
                 {
                     "firepower": "AP5+",
                     "range": 75,
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                     ]
                 }
@@ -9776,7 +9776,7 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -9799,7 +9799,7 @@
                     "firepower": "AT3+",
                     "range": 60,
                     "specialRules": [
-                        "Shield Piercer",
+                        "Schildbohrer",
                         "SS"
                     ]
                 }
@@ -10000,7 +10000,7 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -10439,13 +10439,13 @@
                     "firepower": "MW3+",
                     "range": 90,
                     "specialRules": [
-                        "TK(D6+1)",
+                        "TK(W6+1)",
                         "FxF"
                     ]
                 },
                 {
                     "firepower": "3BP",
-                    "join": "or",
+                    "join": "oder",
                     "range": 60,
                     "specialRules": [
                         "MW",
@@ -10568,7 +10568,7 @@
                     "firepower": "MW2+",
                     "range": 120,
                     "specialRules": [
-                        "TK(D3+1)"
+                        "TK(W3+1)"
                     ]
                 }
             ]
@@ -10790,7 +10790,7 @@
                     "firepower": "MW3+",
                     "range": 60,
                     "specialRules": [
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -10802,7 +10802,7 @@
                     "firepower": "MW2+",
                     "range": 60,
                     "specialRules": [
-                        "TK(D3+1)"
+                        "TK(W3+1)"
                     ]
                 }
             ]
@@ -10838,7 +10838,7 @@
                     "specialRules": [
                         "EA(+1)",
                         "TK(D2)",
-                        "Shield Piercer"
+                        "Schildbohrer"
                     ]
                 }
             ]
@@ -11159,7 +11159,7 @@
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)",
-                        "Shield Piercer"
+                        "Schildbohrer"
                     ]
                 }
             ]
@@ -11275,7 +11275,7 @@
                     "firepower": "Assault Weapon",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -11287,13 +11287,13 @@
                     "firepower": "MW3+",
                     "range": 45,
                     "specialRules": [
-                        "TK(D3+1)",
-                        "Shield Piercer"
+                        "TK(W3+1)",
+                        "Schildbohrer"
                     ]
                 },
                 {
                     "firepower": "3BP",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "MW",
                         "IC"
@@ -11308,7 +11308,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3+3)"
+                        "TK(W3+3)"
                     ]
                 }
             ]
@@ -11331,10 +11331,10 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(D3+3)"
+                        "TK(W3+3)"
                     ]
                 }
             ]
@@ -11428,7 +11428,7 @@
                     "firepower": "Assault Weapon",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -11451,7 +11451,7 @@
                     "firepower": "MW2+",
                     "range": 30,
                     "specialRules": [
-                        "Shield Piercer",
+                        "Schildbohrer",
                         "TK(1)"
                     ]
                 }
@@ -11814,7 +11814,7 @@
                     "firepower": "MW2+",
                     "range": 90,
                     "specialRules": [
-                        "TK(D6)"
+                        "TK(W6)"
                     ]
                 }
             ]
@@ -12242,7 +12242,7 @@
                     "firepower": "MW2+",
                     "range": 120,
                     "specialRules": [
-                        "TK(D6+1)"
+                        "TK(W6+1)"
                     ]
                 }
             ]
@@ -12272,7 +12272,7 @@
                     "range": 45,
                     "specialRules": [
                         "D",
-                        "Shield Piercer"
+                        "Schildbohrer"
                     ]
                 }
             ]
@@ -12336,7 +12336,7 @@
                     "firepower": "MW2+",
                     "range": 90,
                     "specialRules": [
-                        "TK(D3)"
+                        "TK(W3)"
                     ]
                 }
             ]
@@ -12469,7 +12469,7 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "or",
+                    "join": "oder",
                     "specialRules": [
                         "MW"
                     ]
@@ -12611,8 +12611,8 @@
                     "range": "Unlimited",
                     "specialRules": [
                         "SS",
-                        "TK(D3)",
-                        "Shield Piercer"
+                        "TK(W3)",
+                        "Schildbohrer"
                     ]
                 }
             ]
@@ -13118,8 +13118,8 @@
       "description": "Zusätzliche Angriffe +3"
     },
     {
-      "name": "EA(+D3)",
-      "description": "Zusätzliche Angriffe +D3"
+      "name": "EA(+W3)",
+      "description": "Zusätzliche Angriffe +W3"
     },
     {
       "name": "FS",
@@ -13178,8 +13178,8 @@
       "description": "Rear Arc"
     },
     {
-      "name": "Shield Versprengenor",
-      "description": "Shield Versprengenor"
+      "name": "Schildbrecher",
+      "description": "Schildbrecher"
     },
     {
       "name": "S",
@@ -13194,8 +13194,8 @@
       "description": "Einzelschuss"
     },
     {
-      "name": "Shield Piercer",
-      "description": "Shield Piercer"
+      "name": "Schildbohrer",
+      "description": "Schildbohrer"
     },
     {
       "name": "Psybolts",
@@ -13210,27 +13210,27 @@
       "description": "Titan Killer"
     },
     {
-      "name": "TK(D3+1)",
+      "name": "TK(W3+1)",
       "description": "Titan Killer"
     },
     {
-      "name": "TK(D3+3)",
+      "name": "TK(W3+3)",
       "description": "Titan Killer"
     },
     {
-      "name": "TK(D3)",
+      "name": "TK(W3)",
       "description": "Titan Killer"
     },
     {
-      "name": "TK(D6)",
+      "name": "TK(W6)",
       "description": "Titan Killer"
     },
     {
-      "name": "TK(D6+1)",
+      "name": "TK(W6+1)",
       "description": "Titan Killer"
     },
     {
-      "name": "TK(D6+2)",
+      "name": "TK(W6+2)",
       "description": "Titan Killer"
     },
     {

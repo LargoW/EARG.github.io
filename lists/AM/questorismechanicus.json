@@ -5,9 +5,9 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_QuestorisMechanicus",
   "strategy": "Questoris Mechanicus armies have a Strategy Rating of 3.",
-  "Initiative": "All formations have an Initiative Rating of 2+. In addition, all Knight Banner formations are subject to the 'Chivalry' special rule.",
+  "Initiative": "All formations have an Initiative Rating of 2+. In addition, all Knight Banner formations are subject to the 'Ritterlichkeit' special rule.",
   "specialRules": [
-    "Chivalry"
+    "Ritterlichkeit"
   ],
   "usage": [
     "The following army list allows you to field an army based on the Questoris Mechanicus of the Adeptus Mechancius"
@@ -40,12 +40,12 @@
         "Acastus Relic Knight-Asterius"
       ],
       "unitRules": [
-        "Stubborn",
-        "Ion Shield (x)",
+        "Starrköpfig",
+        "Ionen Schild (x)",
         "Ionic Flare Shield",
         "Heavy Armoured Vehicle (H-AV)",
-        "Shield Piercer",
-        "Shield Versprengenor",
+        "Schildbohrer",
+        "Schildbrecher",
         "Sturmangriff",
         "Lanze"
       ]
@@ -73,10 +73,10 @@
       "formations": [
         {
           "name": "Questoris",
-          "units": "Two Questoris Knight-Paladins, Crusaders, Errants, Wardens or Gallants. May not mix configurations",
+          "units": "Two Questoris Knight-Paladins, Crusaders, Errants, Wardens oder Gallants. May not mix configurations",
           "extraUnits": [
             "Add one Questoris Knight of the same configuration: 125 points",
-            "Add one Twin Icarus Autocannon to each Questoris Knight in a formation with Knight-Paladins, Crusaders or Errants: 25 points",
+            "Add one Twin Icarus Autocannon to each Questoris Knight in a formation with Knight-Paladins, Crusaders oder Errants: 25 points",
             "Seneschal",
             "Lord Seneschal"
           ],
@@ -108,7 +108,7 @@
         },
         {
           "name": "Armiger",
-          "units": "Four Knight-Warglaives or three Knight-Helverins",
+          "units": "Four Knight-Warglaives oder three Knight-Helverins",
           "extraUnits": [
             "Add one Armiger Knight of the same configuration: 50 points",
             "Add one Knight-Preceptor with a Seneschal: 175 points"
@@ -130,7 +130,7 @@
         },
         {
           "name": "Questoris Reliquae",
-          "units": "One Questoris Relic Knight-Styrix or Knight-Magaera",
+          "units": "One Questoris Relic Knight-Styrix oder Knight-Magaera",
           "extraUnits": [
             "Add one Questoris Relic Knight of the same configuration: 175 points",
             "Seneschal"
@@ -146,7 +146,7 @@
         },
         {
           "name": "Acastus Reliquae",
-          "units": "One Acastus Relic Knight-Porphyrion or Knight-Asterius",
+          "units": "One Acastus Relic Knight-Porphyrion oder Knight-Asterius",
           "extraUnits": [
             "Add one Acastus Relic Knight of the same configuaration: 225 points",
             "Seneschal"

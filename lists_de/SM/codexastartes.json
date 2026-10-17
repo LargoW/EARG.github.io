@@ -58,7 +58,7 @@
         "Reaver Titan"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     },
     {
@@ -126,7 +126,7 @@
         },
         {
           "name": "Predators",
-          "units": "Four Predator Destructors and/or Predator Annihilators",
+          "units": "Four Predator Destructors und/oder Predator Annihilators",
           "extraUnits": [
             "Anti-Air"
           ],

@@ -145,7 +145,7 @@
         },
         {
           "name": "Light Artillery Emplacement",
-          "units": "Four Rapiers, four Thudd Guns, or four Mole Launchers, with 16cm Trenches",
+          "units": "Four Rapiers, four Thudd Guns, oder four Mole Launchers, with 16cm Trenches",
           "extraUnits": [
               "Füge 4 Einheiten von the same type, 16cm Trenches, und a Commissar hinzu: 125 Punkte"
           ],

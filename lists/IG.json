@@ -835,7 +835,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Chimera",
@@ -851,7 +851,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Death World Chimera",
@@ -868,7 +868,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Hellhound",
@@ -927,7 +927,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Taurox",
@@ -943,7 +943,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten"
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten"
       },
       {
         "name": "Centaur",
@@ -956,7 +956,7 @@
           "Heavy Stubber"
         ],
         "specialRules": [
-          "Transport: One Infantry unit, and one Rapier or Thudd Gun"
+          "Transport: One Infantry unit, and one Rapier oder Thudd Gun"
         ]
       },
       {
@@ -970,7 +970,7 @@
           "Heavy Bolter"
         ],
         "specialRules": [
-          "Transport: One Earthshaker Gun or Heavy AA Gun"
+          "Transport: One Earthshaker Gun oder Heavy AA Gun"
         ]
       },
       {
@@ -1171,7 +1171,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Formation must start the game in the reserves, and may only enter the board by Tunneling. When resolving Tunnelgräbers, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, or within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
+        "notes": "Formation must start the game in the reserves, and may only enter the board by Tunneling. When resolving Tunnelgräbers, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, oder within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
       },
       {
         "name": "Ragnarok Heavy Tank",
@@ -1362,7 +1362,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport two infantry units or one Drop Sentinel. May not transport Ogryns."
+        "notes": "May transport two infantry units oder one Drop Sentinel. May not transport Ogryns."
       },
       {
         "name": "Sky Talon",
@@ -1378,7 +1378,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport one Leichte Fahrzeuge (LV) or two Drop Sentinels."
+        "notes": "May transport one Leichte Fahrzeuge (LV) oder two Drop Sentinels."
       },
       {
         "name": "Vulture",
@@ -1412,7 +1412,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "May transport two infantry units or one Drop Sentinel. May not transport Ogryns."
+        "notes": "May transport two infantry units oder one Drop Sentinel. May not transport Ogryns."
       },
       {
         "name": "Malcador",
@@ -1490,7 +1490,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry six infantry units without Sprungmodule or Beritten"
+        "notes": "May carry six infantry units without Sprungmodule oder Beritten"
       },
       {
         "name": "Minotaur",
@@ -1539,7 +1539,7 @@
           "Damage Capacity 2",
           "Verstärkte Panzerung"
         ],
-        "notes": "Must be equipped with either Twin Vanquisher Cannon or a Vulcan Mega-Bolter.",
+        "notes": "Must be equipped with either Twin Vanquisher Cannon oder a Vulcan Mega-Bolter.",
         "crit": "The Macharius is destroyed."
       },
       {
@@ -1609,7 +1609,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 infantry units without Jump Pack or Beritten.",
+        "notes": "May carry 10 infantry units without Jump Pack oder Beritten.",
         "crit": "The Gorgon is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -1669,7 +1669,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Pack or Beritten, two may fire from the firing deck and participate with FF during assaults.",
+        "notes": "May transport twelve infantry units without Jump Pack oder Beritten, two may fire from the firing deck and participate with FF during assaults.",
         "crit": "The Stormlord is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent hits destroys the unit."
       },
       {

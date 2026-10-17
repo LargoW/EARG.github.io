@@ -37,7 +37,7 @@
         "Coordinated Fire",
         "Guided Missiles",
         "Markerlights",
-        "Shield Versprengenor",
+        "Schildbrecher",
         "Tau Jet Packs",
         "Deflector Shield",
         "Heavy Armoured Vehicle (H-AV)"
@@ -71,7 +71,7 @@
         },
         {
           "name": "Heavy Battlesuit Cadre",
-          "units": "One Shas'el and Three XV104 Riptide Battlesuits, three XV107 R'Varna Battlesuits or three XV109 Y'Vahra Battlesuits",
+          "units": "One Shas'el and Three XV104 Riptide Battlesuits, three XV107 R'Varna Battlesuits oder three XV109 Y'Vahra Battlesuits",
           "extraUnits": [
             "Shas'o",
             "Heavy Battlesuits",
@@ -95,7 +95,7 @@
       "formations": [
         {
           "name": "Fire Warrior Strike Group",
-          "units": "Eight Fire Warriors, or six Fire Warriors and three Devilfish",
+          "units": "Eight Fire Warriors, oder six Fire Warriors and three Devilfish",
           "extraUnits": [
             "Broadsides",
             "Drones",
@@ -107,7 +107,7 @@
           "name": "Drone Group",
           "units": "Eight Gun Drones",
           "extraUnits": [
-            "Replace two Gun Drones with two Missile Drones or two Shield Drones (Free), or two Marker Drones (25 points)"
+            "Replace two Gun Drones with two Missile Drones oder two Shield Drones (Free), oder two Marker Drones (25 points)"
           ],
           "points": 150
         },
@@ -141,7 +141,7 @@
         },
         {
           "name": "KV128 Stormsurge Suit",
-          "units": "One KV128 Stormsurge Ballistic Suit (Standard or Support Configuration)",
+          "units": "One KV128 Stormsurge Ballistic Suit (Standard oder Support Configuration)",
           "points": 225
         },
         {
@@ -153,7 +153,7 @@
           "name": "Tiger Shark Squadron",
           "units": "Two Tiger Shark Bombers",
           "extraUnits": [
-            "Add six Gun Drones or six Missile Drones: 75 points"
+            "Add six Gun Drones oder six Missile Drones: 75 points"
           ],
           "points": 175
         },
@@ -192,7 +192,7 @@
         "description": "Add any one of the following upgrades to the formation",
         "options": [
           {
-            "description": "Two Gun Drones, Missile Drones or Shield Drones",
+            "description": "Two Gun Drones, Missile Drones oder Shield Drones",
             "points": "25 points"
           },
           {
@@ -208,7 +208,7 @@
       },
       {
         "name": "Heavy Battlesuits",
-        "description": "Add up to two XV104 Riptide Battlesuits, XV107 R'Varna Battlesuits, or XV109 Y'Vahra Battlesuits (the formation may not contain a mix of Heavy Battlesuits)",
+        "description": "Add up to two XV104 Riptide Battlesuits, XV107 R'Varna Battlesuits, oder XV109 Y'Vahra Battlesuits (the formation may not contain a mix of Heavy Battlesuits)",
         "points": "75 points each"
       }
     ]

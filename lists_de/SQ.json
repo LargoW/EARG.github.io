@@ -56,7 +56,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Omnissian Axt"
+          "Axt des Omnissiah"
         ],
         "specialRules": [
         ]
@@ -252,7 +252,7 @@
         "ff": 5,
         "weapons": [
           "Zwillings-Maschinenkanone",
-          "Ragnarok Kampfkanone"
+          "Ragnarok Kampfgeschütz"
         ],
         "specialRules": [
           "Scout, Antigrav"
@@ -278,7 +278,7 @@
         "armour": 3,
         "ff": 4,
         "weapons": [
-          "Ragnarok Kampfkanone|6|FxF",
+          "Ragnarok Kampfgeschütz|6|FxF",
           "Zwillings-Maschinenkanone|2|FxF",
           "Overlord Sperrfeuer||FxF",
           "Flakkanonen"
@@ -351,13 +351,13 @@
         "ff": 5,
         "weapons": [
           "Squat-Weltuntergangskanone||FxF",
-          "Ragnarok Kampfkanone",
+          "Ragnarok Kampfgeschütz",
           "Zwillings-Laserkanone|6|FxF",
           "Sturmbolter Batterie"
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Void Shields: 4",
+          "Null Schilde: 4",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Furchtlos",
@@ -375,12 +375,12 @@
         "ff": 5,
         "weapons": [
           "Salvenkanone und Drohnen||FxF",
-          "Ragnarok Kampfkanone",
+          "Ragnarok Kampfgeschütz",
           "AC-Zwillings-Shurikenkanone|6|FxF"
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Void Shields: 4",
+          "Null Schilde: 4",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Furchtlos"
@@ -396,14 +396,14 @@
         "ff": 4,
         "weapons": [
           "Squat-Weltuntergangskanone||FxF",
-          "Ragnarok Kampfkanone|4|FxF",
+          "Ragnarok Kampfgeschütz|4|FxF",
           "Belagerungskanone||FxF",
           "Plasma-Rakete|4|FwA",
           "Sturmbolter Batterie"
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Void Shields: 4",
+          "Null Schilde: 4",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Furchtlos"
@@ -419,7 +419,7 @@
         "ff": 4,
         "weapons": [
           "Squat-Mjolnir-Kanone||FxF",
-          "Ragnarok Kampfkanone|2|",
+          "Ragnarok Kampfgeschütz|2|",
           "Sturmbolter Batterie",
           "BATTLE CAR WEAPONS",
           "Berserker Kampf-Car",
@@ -429,7 +429,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 2 + the current number of Battle Cars",
-          "Void Shields: the current number of Battle Cars",
+          "Null Schilde: the current number of Battle Cars",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],

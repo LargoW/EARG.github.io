@@ -37,7 +37,7 @@
         "Coordinated Fire",
         "Guided Missiles",
         "Markerlights",
-        "Shield Versprengenor",
+        "Schildbrecher",
         "Tau Jet Packs",
         "Deflector Shield",
         "Heavy Armoured Vehicle (H-AV)"
@@ -192,7 +192,7 @@
         "description": "Füge any one aus folgender Auswahl upgrades zur Formation hinzu",
         "options": [
           {
-            "description": "Two Gun Drones, Missile Drones or Shield Drones",
+            "description": "Two Gun Drones, Missile Drones oder Shield Drones",
             "points": "25 points"
           },
           {

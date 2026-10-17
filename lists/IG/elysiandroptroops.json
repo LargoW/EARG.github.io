@@ -116,7 +116,7 @@
         },
         {
           "name": "Support Platoon",
-          "units": "Four Rapiers or four Elysian Mortar Squads plus transport",
+          "units": "Four Rapiers oder four Elysian Mortar Squads plus transport",
           "points": 225
         },
         {
@@ -141,7 +141,7 @@
     },
     {
       "name": "Static Defenses & Imperial Navy Allies",
-      "description": "Up to a third of the points available may be spent on these formations. Up to one Tarantula formation for each Tauros Recon or Venator Squadron",
+      "description": "Up to a third of the points available may be spent on these formations. Up to one Tarantula formation for each Tauros Recon oder Venator Squadron",
       "formations": [
         {
           "name": "Tarantula",

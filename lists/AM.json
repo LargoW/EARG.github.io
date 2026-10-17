@@ -337,7 +337,7 @@
           "Furchtlos",
           "Entbehrlich"
         ],
-        "notes": "Armed with either Twin Lascannon or Twin Heavy Bolter. Tarantulas armed with Twin Heavy Bolter have their firefight value increased to 4+."
+        "notes": "Armed with either Twin Lascannon oder Twin Heavy Bolter. Tarantulas armed with Twin Heavy Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Hyperios Sentry",
@@ -422,7 +422,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Must choose either an Eradication Beamer, Twin Heavy Phosphor Blaster, Icarus Array or Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
+        "notes": "Must choose either an Eradication Beamer, Twin Heavy Phosphor Blaster, Icarus Array oder Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
       },
       {
         "name": "Chimera",
@@ -438,7 +438,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Skorpius Dunerider",
@@ -453,7 +453,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Skorpius Disintegrator",
@@ -498,7 +498,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Termite",
@@ -515,7 +515,7 @@
           "Tunnelgräber",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Sprungmodule or Beritten. Must start the game in the reserves, and may only enter the battlefield through Tunneling."
+        "notes": "May transport two infantry units without Sprungmodule oder Beritten. Must start the game in the reserves, and may only enter the battlefield through Tunneling."
       },
       {
         "name": "Leman Russ",
@@ -588,7 +588,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -614,7 +614,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -640,7 +640,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -662,7 +662,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 infantry units without Jump Pack or Beritten. Praetorian Combat Servitor counts as two units each.",
+        "notes": "May carry 10 infantry units without Jump Pack oder Beritten. Praetorian Combat Servitor counts as two units each.",
         "crit": "The Gorgon is Immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -680,7 +680,7 @@
           "Tunnelgräber",
           "Transport"
         ],
-        "notes": "May transport six infantry units without Sprungmodule or Beritten."
+        "notes": "May transport six infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Lysander Fighter",
@@ -751,7 +751,7 @@
         "specialRules": [
           "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
         ],
-        "notes": "Is equipped with either Orbital Bombardment or two Pin Point attacks (may be chosen at the start of battle)"
+        "notes": "Is equipped with either Orbital Bombardment oder two Pin Point attacks (may be chosen at the start of battle)"
       }
     ]
   }

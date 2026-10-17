@@ -56,8 +56,8 @@
       "unitRules": [
         "Holofields (x)",
         "Lanze",
-        "Shield Piercer",
-        "Shield Versprengenor"
+        "Schildbohrer",
+        "Schildbrecher"
       ]
     },
     {
@@ -84,18 +84,18 @@
         },
         {
           "name": "0-1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked oder damaged in any way. ",
           "points": 50
         }
       ]
     },
     {
       "name": "Biel-Tan Warhosts",
-      "description": "Up to one Guardian Warhost may be taken for each Aspect or Beritten Aspect Warhost",
+      "description": "Up to one Guardian Warhost may be taken for each Aspect oder Beritten Aspect Warhost",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Warhost",
-          "units": "Four Wave Serpents and eight Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions or Swooping Hawks. The formation may not mix aspects.",
+          "units": "Four Wave Serpents and eight Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions oder Swooping Hawks. The formation may not mix aspects.",
           "extraUnits": [
             "Autarch",
             "Exarchs",
@@ -106,7 +106,7 @@
         },
         {
           "name": "Aspect Warrior Warhost",
-          "units": "Eight Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks or Warp Spiders. The formation may not mix aspects.",
+          "units": "Eight Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks oder Warp Spiders. The formation may not mix aspects.",
           "extraUnits": [
             "Autarch",
             "Exarchs"

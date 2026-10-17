@@ -4,7 +4,7 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_ImperialFists",
-  "intro": "The following army list allows you to field an army based on the Imperial Fists Space Marine chapter or any of its successor chapters. The Imperial Fists specializes in siege warfare.",
+  "intro": "The following army list allows you to field an army based on the Imperial Fists Space Marine chapter oder any of its successor chapters. The Imperial Fists specializes in siege warfare.",
   "strategy": "Space Marine armies have a Strategy Rating of 5.",
   "Initiative": "Tarantula and Hyperios Emplacement formations have an Initiative Rating of 2+. All other formations have an Initiative Rating of 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all non-'Machine Spirit' Imperial Fists detachments.",
@@ -71,7 +71,7 @@
           "Reaver Titan, Goth Class"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     }
   ],
@@ -137,7 +137,7 @@
 
         {
           "name": "Predators",
-          "units": "Four Predator Destructors and/or Predator Annihilators",
+          "units": "Four Predator Destructors und/oder Predator Annihilators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -175,7 +175,7 @@
         },
         {
           "name": "Centurions",
-          "units": "Four Assault and/or Devastator Centurions",
+          "units": "Four Assault und/oder Devastator Centurions",
           "extraUnits": [
             "Achilles",
             "Land Raider Transport",
@@ -205,7 +205,7 @@
     },
     {
       "name": "Imperial Fists Static Defenses, Navy & Titan Legion Allies",
-      "description": "Up to a third of the points available may be spent on these formations. Up to one Tarantula or Hyperios formation for each Scout detachment.",
+      "description": "Up to a third of the points available may be spent on these formations. Up to one Tarantula oder Hyperios formation for each Scout detachment.",
       "formations": [
         {
           "name": "Bastion",
@@ -216,7 +216,7 @@
         },
         {
           "name": "Fortifications",
-          "units": "Two Bunkers, and 40cm Trenches and/or Minefields (exact proportions to be decided at the start of the game, before deploying objectives.)",
+          "units": "Two Bunkers, and 40cm Trenches und/oder Minefields (exact proportions to be decided at the start of the game, before deploying objectives.)",
           "points": 50
         },
         {
@@ -291,7 +291,7 @@
       },
       {
         "name": "Land Raider Transport",
-        "description": "Add any number of Land Raiders or Land Raider Crusaders, up to the number required to transport the formation",
+        "description": "Add any number of Land Raiders oder Land Raider Crusaders, up to the number required to transport the formation",
         "points": "50 points each"
       },
       {
@@ -306,11 +306,11 @@
       },
       {
         "name": "Siege Equipment",
-        "description": "The formation may take Siege Rhinos instead of normal Rhinos, or replace 'plus transport' with Space Marine Rapiers or Space Marine Thunderfires",
+        "description": "The formation may take Siege Rhinos instead of normal Rhinos, oder replace 'plus transport' with Space Marine Rapiers oder Space Marine Thunderfires",
         "points": [
           "25 points for Siege Rhinos",
-          "25 points for two Rapiers or two Thunderfires",
-          "100 points for four Rapiers or four Thunderfires"
+          "25 points for two Rapiers oder two Thunderfires",
+          "100 points for four Rapiers oder four Thunderfires"
         ]
       },
       {

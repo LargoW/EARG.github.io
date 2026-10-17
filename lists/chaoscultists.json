@@ -222,7 +222,7 @@
         "specialRules": [
             "Transport"
         ],
-        "notes": "May transport two infantry units without Beritten or Sprungmodule."
+        "notes": "May transport two infantry units without Beritten oder Sprungmodule."
       },
       {
         "name": "Technical",
@@ -254,7 +254,7 @@
           "Furchtlos",
           "Inspirierend",
           "Daemonic Focus",
-          "Augmented Summoning (+D3)"
+          "Augmented Summoning (+W3)"
         ],
         "crit": "The Chaos Altar is destroyed. All units within 5cm suffers a MW hit on 6+."
       },
@@ -275,7 +275,7 @@
             "Furchtlos",
             "Inspirierend",
             "Daemonic Focus",
-            "Augmented Summoning (+D3)",
+            "Augmented Summoning (+W3)",
           "Chaos Gate"
         ],
         "crit": "The Warp Altar is destroyed. All Daemon Legion units within 5cm are destroyed, all other units within 5cm suffers a MW hit on 6+."

@@ -51,7 +51,7 @@
         "Subjugator"
       ],
       "unitRules": [
-        "Void Shields",
+        "Null Schilde",
         "Daemon Engine (x)",
         "Heavy Armoured Vehicle (H-AV)"
       ]
@@ -256,7 +256,7 @@
       },
       {
         "name": "Retinue Transport",
-        "description": "Add Rhinos or Land Raiders to the formation, up to the number required to transport all infantry units in the formation",
+        "description": "Add Rhinos oder Land Raiders to the formation, up to the number required to transport all infantry units in the formation",
         "options": [
           {
             "description": "Add up to three Emperor's Children Rhinos",

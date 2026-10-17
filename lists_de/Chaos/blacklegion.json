@@ -82,8 +82,8 @@
         "Chaos Warlord"
       ],
       "unitRules": [
-        "Void Shields",
-        "God Machine",
+        "Null Schilde",
+        "Göttermaschine",
         "Split Fire"
       ]
     },
@@ -105,7 +105,7 @@
       "formations": [
         {
           "name": "Black Legion Retinue",
-          "units": "One Chaos Lord or Sorcerer Lord, eight Chaos Space Marines",
+          "units": "One Chaos Lord oder Sorcerer Lord, eight Chaos Space Marines",
           "extraUnits": [
             "Oberbefehlshaber",
             "Transport",
@@ -138,7 +138,7 @@
         },
         {
           "name": "Chaos Terminators",
-          "units": "One Chaos Lord or Sorcerer Lord, four Chaos Terminators",
+          "units": "One Chaos Lord oder Sorcerer Lord, four Chaos Terminators",
           "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
@@ -159,7 +159,7 @@
       "formations": [
         {
           "name": "Raptor Cult",
-          "units": "One Chaos Lord or Sorcerer Lord, four Raptors",
+          "units": "One Chaos Lord oder Sorcerer Lord, four Raptors",
           "extraUnits": [
             "Füge bis zu 4 Raptors hinzu: 30 Punkte pro Stück",
             "Daemonic Pact"
@@ -178,7 +178,7 @@
         },
         {
           "name": "Havocs",
-          "units": "One Chaos Lord or Sorcerer Lord, four Havocs, two Chaos Rhinos",
+          "units": "One Chaos Lord oder Sorcerer Lord, four Havocs, two Chaos Rhinos",
           "extraUnits": [
             "Ersetze 2 Chaos Rhinos durch Chaos Land Raiders: 75 Punkte",
             "Daemonic Pact",
@@ -189,7 +189,7 @@
         },
         {
           "name": "Bike Company",
-          "units": "One Chaos Lord or Sorcerer Lord, eight Chaos Assault Bikes",
+          "units": "One Chaos Lord oder Sorcerer Lord, eight Chaos Assault Bikes",
           "extraUnits": [
             "Daemonic Pact",
             "Icon Bearer"

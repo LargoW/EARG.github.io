@@ -36,7 +36,7 @@
                 states.push('experimental');
             }
 
-            $.getJSON("lists/index.json", function (data) {
+            $.getJSON("lists_de/index.json", function (data) {
                 var filtered = data;
                 filtered.index.forEach(section =>
                     section.index.forEach(race => {

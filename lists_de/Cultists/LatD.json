@@ -59,7 +59,7 @@
       ],
       "unitRules": [
         "Regeneration",
-        "Void Shields",
+        "Null Schilde",
         "Daemon Engine (x)"
       ]
     },
@@ -104,7 +104,7 @@
       "formations": [
         {
           "name": "Cultist Coven",
-          "units": "One Aspiring Champion, nine Chaos Cultists and/or Mutants, Daemonic Pact",
+          "units": "One Aspiring Champion, nine Chaos Cultists und/oder Mutants, Daemonic Pact",
           "extraUnits": [
             "All"
           ],

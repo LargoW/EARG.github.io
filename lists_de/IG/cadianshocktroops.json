@@ -56,7 +56,7 @@
         "Reaver Titan"
       ],
       "unitRules": [
-        "Void Shields",
+        "Null Schilde",
         "Independent"
       ]
     },
@@ -131,7 +131,7 @@
         },
         {
           "name": "Artillery Battery",
-          "units": "Three Basilisks, three Bombards or four Medusa",
+          "units": "Three Basilisks, three Bombards oder four Medusa",
           "extraUnits": [
             "Füge 1 Deathstrike hinzu: 75 Punkte"
           ],
@@ -154,7 +154,7 @@
         },
         {
           "name": "Leman Russ Platoon",
-          "units": "Six Leman Russ, Leman Russ Demolishers or Leman Russ Punishers",
+          "units": "Six Leman Russ, Leman Russ Demolishers oder Leman Russ Punishers",
           "points": 375,
           "upgrades": [
             "Füge 1 Hydra hinzu: 50 Punkte"
@@ -169,7 +169,7 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade, Stormblade or Stormsword",
+          "units": "One Baneblade, Stormblade oder Stormsword",
           "upgrades": [
             "Werte 1 Baneblade, Stormblade oder Stormsword zu einem Shadowsword: 25 Punkte auf"
           ],

@@ -24,7 +24,7 @@
         ],
         "specialRules": [
           "Befehlshaber",
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
@@ -68,7 +68,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Befehlshaber",
           "Teleport Homer",
           "Anführer"
@@ -198,7 +198,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -211,7 +211,7 @@
         "specialRules": [
           "Unmodifizierter Rettungswurf",
           "Oberbefehlshaber",
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Teleport Homer"
         ]
       },
@@ -1538,7 +1538,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one infantry unit (except Terminators) without Sprungmodule or Beritten. Armed with either Twin Lascannon or Twin Heavy Bolter. Razorbacks armed with Twin Heavy Bolter have their firefight value increased to 4+."
+        "notes": "May transport one infantry unit (except Terminators) without Sprungmodule oder Beritten. Armed with either Twin Lascannon oder Twin Heavy Bolter. Razorbacks armed with Twin Heavy Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Blood Angels Razorback",
@@ -1571,7 +1571,7 @@
           "Transport",
           "Lucifer Pattern Engine"
         ],
-        "notes": "May transport one infantry unit (except Terminators) without Sprungmodule or Beritten. Armed with either Twin Lascannon or Twin Heavy Bolter. Razorbacks armed with Twin Heavy Bolter have their firefight value increased to 4+."
+        "notes": "May transport one infantry unit (except Terminators) without Sprungmodule oder Beritten. Armed with either Twin Lascannon oder Twin Heavy Bolter. Razorbacks armed with Twin Heavy Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Deathwatch Razorback",
@@ -1586,7 +1586,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one infantry unit (except a Terminator unit) without Sprungmodule or Beritten."
+        "notes": "May transport one infantry unit (except a Terminator unit) without Sprungmodule oder Beritten."
       },
       {
         "name": "Vortimer Razorback",
@@ -1603,7 +1603,7 @@
           "Faithful",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May transport one infantry unit (except a Terminator unit) without Sprungmodule or Beritten."
+        "notes": "May transport one infantry unit (except a Terminator unit) without Sprungmodule oder Beritten."
       },
       {
         "name": "Rhino",
@@ -1618,7 +1618,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Blood Angels Rhino",
@@ -1634,7 +1634,7 @@
           "Transport",
           "Lucifer Pattern Engine"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Siege Rhino",
@@ -1650,7 +1650,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Damocles Command Rhino",
@@ -1663,10 +1663,10 @@
           "Storm Bolter"
         ],
         "specialRules": [
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Transport"
         ],
-        "notes": "May transport one infantry unit (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport one infantry unit (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Grey Knights Rhino",
@@ -1683,7 +1683,7 @@
           "Faithful",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
             {
         "name": "Grey Knights Razorback",
@@ -1700,7 +1700,7 @@
           "Faithful",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Hunter",
@@ -1815,7 +1815,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Terminator unit oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Land Raider Redeemer",
@@ -1833,7 +1833,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Sprungmodule or Beritten; Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport three infantry units without Sprungmodule oder Beritten; Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Deathwing Land Raider",
@@ -1852,7 +1852,7 @@
           "Transport",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Terminator unit oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Vortimer Land Raider",
@@ -1872,7 +1872,7 @@
           "Transport",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Terminator unit oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Vortimer Land Raider Redeemer",
@@ -1892,7 +1892,7 @@
           "Transport",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May transport three infantry units without Sprungmodule or Beritten; Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport three infantry units without Sprungmodule oder Beritten; Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Land Raider Ares",
@@ -1929,7 +1929,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport one infantry unit without Sprungmodule or Beritten. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport one infantry unit without Sprungmodule oder Beritten. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Land Raider Anvilarum",
@@ -1945,7 +1945,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport one Dreadnought or two infantry units without Sprungmodule or Beritten. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport one Dreadnought oder two infantry units without Sprungmodule oder Beritten. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Land Raider Crusader",
@@ -1963,7 +1963,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Sprungmodule or Beritten. Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport three infantry units without Sprungmodule oder Beritten. Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Deathwatch Land Raider",
@@ -1982,7 +1982,7 @@
           "Teleport Homer",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Sprungmodule or Beritten. Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport three infantry units without Sprungmodule oder Beritten. Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Land Raider Helios",
@@ -2001,7 +2001,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "Armed with either a Hyperios or Whirlwind Launcher. May transport one infantry unit (except a Terminator unit) without Sprungmodule or Beritten. Counts as a Land Raider for the purposes of being transported."
+        "notes": "Armed with either a Hyperios oder Whirlwind Launcher. May transport one infantry unit (except a Terminator unit) without Sprungmodule oder Beritten. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Land Raider Prometheus",
@@ -2014,12 +2014,12 @@
           "Quad Heavy Bolter|2"
         ],
         "specialRules": [
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Terminator unit oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Land Raider Wrath of Mjalnar",
@@ -2037,7 +2037,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Terminator unit oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Bastion",
@@ -2058,7 +2058,7 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung"
         ],
-        "notes": "Must take either two Rapier Laser Destroyers or two Thunderfire Cannons. A Bastion counts as a ruins terrain piece once destroyed.",
+        "notes": "Must take either two Rapier Laser Destroyers oder two Thunderfire Cannons. A Bastion counts as a ruins terrain piece once destroyed.",
         "crit": "The Bastion takes an extra point of damage."
       },
       {
@@ -2116,7 +2116,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units, Attack Bikes or Dreadnoughts; Terminators and Dreadnoughts count as two units each; plus any six armoured vehicle units (except Dreadnoughts); Land Raiders count as one and a half units each, rounding up.",
+        "notes": "May transport twelve infantry units, Attack Bikes oder Dreadnoughts; Terminators and Dreadnoughts count as two units each; plus any six armoured vehicle units (except Dreadnoughts); Land Raiders count as one and a half units each, rounding up.",
         "crit": "The unit and all units being carried are destroyed. All units within 5cm suffer a hit."
       },
       {
@@ -2139,7 +2139,7 @@
           "Unmodifizierter Rettungswurf",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units or Dreadnoughts; Terminators and Dreadnoughts count as two units each; plus any six armoured vehicle units (except Dreadnoughts); Land Raiders count as one and a half units each, rounding up. Critical Hit Effect: The unit and all units being carried are destroyed. All units within 5cm suffer a hit on 4+."
+        "notes": "May transport twelve infantry units oder Dreadnoughts; Terminators and Dreadnoughts count as two units each; plus any six armoured vehicle units (except Dreadnoughts); Land Raiders count as one and a half units each, rounding up. Critical Hit Effect: The unit and all units being carried are destroyed. All units within 5cm suffer a hit on 4+."
       },
       {
         "name": "Stormwolf Assault Boat",
@@ -2230,7 +2230,7 @@
           "Descent of Angels",
           "Transport"
         ],
-        "notes": "May transport one Terminator or two infantry units without Beritten. May in addition transport one Dreadnought. Counts as a Drop Pod for the purpose of being transported."
+        "notes": "May transport one Terminator oder two infantry units without Beritten. May in addition transport one Dreadnought. Counts as a Drop Pod for the purpose of being transported."
       },
       {
         "name": "Corvus Blackstar Dropship",
@@ -2250,7 +2250,7 @@
           "Wings of the Sky Angel",
           "Transport"
         ],
-        "notes": "May transport three infantry units or Attack Bikes. Terminators count as one and a half units each, rounding up. May in addition transport one Dreadnought or Land Speeder."
+        "notes": "May transport three infantry units oder Attack Bikes. Terminators count as one and a half units each, rounding up. May in addition transport one Dreadnought oder Land Speeder."
       },
       {
         "name": "Ravenwing Nephilim",
@@ -2478,7 +2478,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units, Attack Bikes or Dreadnoughts; Terminators and Dreadnoughts count as two units each; plus any six armoured vehicle units (except H-AV, Dreadnoughts); Land Raiders count as one and a half units each, rounding up.",
+        "notes": "May transport twelve infantry units, Attack Bikes oder Dreadnoughts; Terminators and Dreadnoughts count as two units each; plus any six armoured vehicle units (except H-AV, Dreadnoughts); Land Raiders count as one and a half units each, rounding up.",
         "crit": "The Landing Craft and all units being carried are destroyed. All units within 5cm suffer a hit."
       },
       {
@@ -2533,7 +2533,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport 12 infantry units, Attack Bikes, or Dreadnoughts; plus five Leichte Fahrzeuges or armoured vehicle units (except Attack Bikes and Dreadnoughts); plus two Thunderhawks and enough Drop Pods to transport any other units being carried."
+        "notes": "May transport 12 infantry units, Attack Bikes, oder Dreadnoughts; plus five Leichte Fahrzeuges oder armoured vehicle units (except Attack Bikes and Dreadnoughts); plus two Thunderhawks and enough Drop Pods to transport any other units being carried."
       },
       {
         "name": "Strike Cruiser",
@@ -2551,7 +2551,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport 20 infantry units, Attack Bikes, or Dreadnoughts; plus 10 Leichte Fahrzeuges or armoured vehicle units (except Attack Bikes and Dreadnoughts); plus six Thunderhawks and enough Drop Pods or Landing Craft to transport any other units being carried."
+        "notes": "May transport 20 infantry units, Attack Bikes, oder Dreadnoughts; plus 10 Leichte Fahrzeuges oder armoured vehicle units (except Attack Bikes and Dreadnoughts); plus six Thunderhawks and enough Drop Pods oder Landing Craft to transport any other units being carried."
       },
       {
         "name": "Grey Knights Strike Cruiser",
@@ -2570,7 +2570,7 @@
           "Navis Nobilite",
           "Transport"
         ],
-        "notes": "May transport 20 infantry units, Attack Bikes, Dreadnoughts; plus 10 Leichte Fahrzeuges or armoured vehicle units (except Attack Bikes and Dreadnoughts) ; plus 6 Thunderhawks/Storm Eagles and enough Drop Pods or Landing Craft to transport any other units being carried."
+        "notes": "May transport 20 infantry units, Attack Bikes, Dreadnoughts; plus 10 Leichte Fahrzeuges oder armoured vehicle units (except Attack Bikes and Dreadnoughts) ; plus 6 Thunderhawks/Storm Eagles and enough Drop Pods oder Landing Craft to transport any other units being carried."
       },
       {
         "name": "Battle Barge",
@@ -2589,7 +2589,7 @@
           "Slow to Arrive (May only arrive from turn 2 onwards)",
           "Transport"
         ],
-        "notes": "May transport 30 infantry units, Attack Bikes, or Dreadnoughts; plus 20 armoured vehicle units (except Attack Bikes or Dreadnoughts); plus 9 Thunderhawks and enough Drop Pods or Landing Craft to transport any other units being carried."
+        "notes": "May transport 30 infantry units, Attack Bikes, oder Dreadnoughts; plus 20 armoured vehicle units (except Attack Bikes oder Dreadnoughts); plus 9 Thunderhawks and enough Drop Pods oder Landing Craft to transport any other units being carried."
       },
       {
         "name": "Drop Pod",
@@ -2608,7 +2608,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport one formation of only the following units: Tacticals, Devastators, Dreadnought, Sternguard Veterans, Wolf Guard Terminators, Grey Knights Strike Squad, Grey Knights Purgation Squad. After the Drop Pod lands, its Deathwind attacks all enemy units within 15cm. Each enemy formation attacked receives a Blast Marker for coming under fire, and an extra Blast Marker for each casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod or within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop pod models should be removed from the board once the formation they transport has disembarked."
+        "notes": "May transport one formation of only the following units: Tacticals, Devastators, Dreadnought, Sternguard Veterans, Wolf Guard Terminators, Grey Knights Strike Squad, Grey Knights Purgation Squad. After the Drop Pod lands, its Deathwind attacks all enemy units within 15cm. Each enemy formation attacked receives a Blast Marker for coming under fire, and an extra Blast Marker for each casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop pod models should be removed from the board once the formation they transport has disembarked."
       },
       {
         "name": "Intercessor",
@@ -2830,7 +2830,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Sprungmodule or Beritten. Aggressors and Eradicators counts as two units each."
+        "notes": "May transport two infantry units without Sprungmodule oder Beritten. Aggressors and Eradicators counts as two units each."
       },
       {
         "name": "Repulsor",
@@ -2847,7 +2847,7 @@
           "Reinforced Armor",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Sprungmodule or Beritten. Aggressors and Eradicators counts as two units each."
+        "notes": "May transport two infantry units without Sprungmodule oder Beritten. Aggressors and Eradicators counts as two units each."
       },
       {
         "name": "Gladiator, Lancer",
@@ -2928,7 +2928,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Astraeus is destroyed. All units within 5cm suffer a hit on a 5+."

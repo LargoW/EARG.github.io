@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_AMTL",
   "strategy": "Collegia Titanica armies have a Strategy Rating of 3.",
-  "Initiative": "Battle Titan formations and the Warhounds formation have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
+  "Initiative": "Battle Titan formations and the Warhounds formation have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Ritterlichkeit' special rule.",
   "specialRules": [
   ],
   "units": [
@@ -17,18 +17,18 @@
         "Warhound ",
         "Reaver Titan, Hun Class",
         "Reaver Titan, Goth Class",
-        "Warlord Titan, Deathbringer Class",
-        "Warlord Titan, Nemesis Class",
+        "Warlord Titan, Todbringer Klasse",
+        "Warlord Titan, Nemesis Klasse",
         "Imperator Titan",
         "Warmonger Titan"
       ],
       "unitRules": [
-        "Extended Command",
-        "Shield Versprengenor",
-        "Shield Piercer",
-        "God Machine",
+        "Erweiterte Befehlsreichweite",
+        "Schildbrecher",
+        "Schildbohrer",
+        "Göttermaschine",
         "Split Fire",
-        "Void Shields"
+        "Null Schilde"
       ]
     },
     {
@@ -64,9 +64,9 @@
       ],
       "unitRules": [
         "Heavy Armoured Vehicle (H-AV)",
-        "Chivalry",
-        "Stubborn",
-        "Ion Shield (x)"
+        "Ritterlichkeit",
+        "Starrköpfig",
+        "Ionen Schild (x)"
       ]
     }
   ],
@@ -76,7 +76,7 @@
       "formations": [
         {
           "name": "0-1 Emperor Titan",
-          "units": "One Imperator Titan or Warmonger Titan, Veteran Princeps",
+          "units": "One Imperator Titan oder Warmonger Titan, Veteran Princeps",
           "extraUnits": [
             "Legate"
           ],
@@ -84,7 +84,7 @@
         },
         {
           "name": "Warlord Titan",
-          "units": "One Warlord Titan (Deathbringer or Nemesis Class), Veteran Princeps",
+          "units": "One Warlord Titan (Deathbringer oder Nemesis Klasse), Veteran Princeps",
           "extraUnits": [
             "Legate"
           ],
@@ -92,7 +92,7 @@
         },
         {
           "name": "Reaver Titan",
-          "units": "One Reaver Titan (Hun or Goth Class)",
+          "units": "One Reaver Titan (Hun oder Goth Class)",
           "extraUnits": [
             "Veteran Princeps"
           ],
@@ -106,7 +106,7 @@
       "formations": [
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan, of either Standard or Support configuration",
+          "units": "One Warhound Titan, of either Standard oder Support configuration",
           "extraUnits": [
             "Add one Warhound Titan of the same configuration: 200 points",
             "Veteran Princeps",
@@ -129,10 +129,10 @@
       "formations": [
         {
           "name": "Secutarii Titan Guard",
-          "units": "One Secutarii Axiarch, eight Secutarii Hoplites or eight Secutarii Pelasts",
+          "units": "One Secutarii Axiarch, eight Secutarii Hoplites oder eight Secutarii Pelasts",
           "extraUnits": [
             "Add two Electro-Priests: 25 points",
-            "Replace two Secutarii Hoplites or Pelasts with three Chimeras or three Chimedons: 25 points"
+            "Replace two Secutarii Hoplites oder Pelasts with three Chimeras oder three Chimedons: 25 points"
           ],
           "points": 175
         },
@@ -163,7 +163,7 @@
     },
     {
       "name": "Adeptus Mechanicus Navy",
-      "description": "Up to a third of the points available may be spent on Adeptus Mechanicus Navy formations. Up to one Lysander Fighter for each Warmonger Titan or Anvilus Carapace Landing Pad.",
+      "description": "Up to a third of the points available may be spent on Adeptus Mechanicus Navy formations. Up to one Lysander Fighter for each Warmonger Titan oder Anvilus Carapace Landing Pad.",
       "formations": [
         {
           "name": "Lysander Fighter",
@@ -205,7 +205,7 @@
     ]
   },
   "about": [
-    "v1.0.Beta: Titan lists are at the edge of what the EA ruleset can handle, and the Collegia Titanica list is part of an attempt to make such lists less of a Draw or Loss kind of lists.",
-    "A (very) partial change-list involves changes to stat lines (making it easier to engage Titans in CC, fewer DC, Shield on certain Titans), pricing (generally cheaper), introducing new rules (Split Fire to give the largest titans more flexibility and moves them closer to how things work in A-T 2018. The God Machine rule to make it worth attacking them) and the Void Shield rule change (preventing big WE from completely recharging fully depleted VS with a single action)."
+    "v1.0.Beta: Titan lists are at the edge of what the EA ruleset can handle, and the Collegia Titanica list is part of an attempt to make such lists less of a Draw oder Loss kind of lists.",
+    "A (very) partial change-list involves changes to stat lines (making it easier to engage Titans in CC, fewer DC, Shield on certain Titans), pricing (generally cheaper), introducing new rules (Split Fire to give the largest titans more flexibility and moves them closer to how things work in A-T 2018. The Göttermaschine rule to make it worth attacking them) and the Null Schild rule change (preventing big WE from completely recharging fully depleted VS with a single action)."
   ]
 }

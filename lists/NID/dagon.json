@@ -92,7 +92,7 @@
             "Replace the Hive Tyrant with a Hive Tyrant Shrike: Free",
             "0-1 Hive Tyrant in the army may be replaced with the Dagon Overlord: 75 points",
             "Replace the Dagon Overlord with a Dagon Overlord Shrike: Free",
-            "Transport the formation in a Mycetic Spore (all units must be able to be transported) and deploy via planetary assault rules from a Razorfiend or Hive Ship: 50 points"
+            "Transport the formation in a Mycetic Spore (all units must be able to be transported) and deploy via planetary assault rules from a Razorfiend oder Hive Ship: 50 points"
           ],
           "points": 125
         },
@@ -101,10 +101,10 @@
           "units": "Two Tyranid Warriors",
           "extraUnits": [
             "One to two Instinctive Swarms",
-            "1+ Gaunts, Gargoyles, or Bio-Support must be chosen",
+            "1+ Gaunts, Gargoyles, oder Bio-Support must be chosen",
             "Replace two Tyranid Warriors with Tyranid Warrior Shrikes: Free",
             "Replace two Tyranid Warriors with Zoanthropes: 25pts",
-            "Transport the formation in a Mycetic Spore (all units must be able to be transported) and deploy via planetary assault rules from a Razorfiend or Hive Ship: 50 points"
+            "Transport the formation in a Mycetic Spore (all units must be able to be transported) and deploy via planetary assault rules from a Razorfiend oder Hive Ship: 50 points"
           ],
           "points": 100
         }
@@ -118,21 +118,21 @@
           "name": "Nest Swarm",
           "units": "One Hive Nest",
           "extraUnits": [
-            "One to two Instinctive Swarms chosen from Gaunts, Gargoyles, Bio-Support, or Bio-Artillery"
+            "One to two Instinctive Swarms chosen from Gaunts, Gargoyles, Bio-Support, oder Bio-Artillery"
           ],
           "points": 150
         },
         {
           "name": "Breacher Swarm",
-          "units": "One Hierodule Prime (Barbed or Scythed)",
+          "units": "One Hierodule Prime (Barbed oder Scythed)",
           "extraUnits": [
-            "One to two Instinctive Swarms chosen from Gaunts, Gargoyles, Burrower, Carnifex or Bio-Attack"
+            "One to two Instinctive Swarms chosen from Gaunts, Gargoyles, Burrower, Carnifex oder Bio-Attack"
           ],
           "points": 125
         },
         {
           "name": "Infestation Swarm",
-          "units": "Three Ravener Alphas or one Trygon Prime",
+          "units": "Three Ravener Alphas oder one Trygon Prime",
           "extraUnits": [
             "One to two Burrower Instinctive Swarms"
           ],
@@ -142,7 +142,7 @@
           "name": "Harasser Swarm",
           "units": "One Harridan",
           "extraUnits": [
-            "Zero to two Instinctive Swarms chosen from Gargoyles or Bio-Flyers",
+            "Zero to two Instinctive Swarms chosen from Gargoyles oder Bio-Flyers",
             "Add one Harridan: 100 points"
           ],
           "points": 175
@@ -199,7 +199,7 @@
     "items": [
       {
         "name": "Gaunts",
-        "description": "Five Termagants, five Barbgaunts, or five Hormagaunts",
+        "description": "Five Termagants, five Barbgaunts, oder five Hormagaunts",
         "points": "75 points"
       },
       {
@@ -214,12 +214,12 @@
       },
       {
         "name": "Bio-Flyers",
-        "description": "Three Harpies or three Hive Crones",
+        "description": "Three Harpies oder three Hive Crones",
         "points": "100 points"
       },
       {
         "name": "Carnifex",
-        "description": "two Barbed Carnifex or two Screamer-Killer Carnifex",
+        "description": "two Barbed Carnifex oder two Screamer-Killer Carnifex",
         "points": "75 points"
       },
       {
@@ -229,17 +229,17 @@
       },
       {
         "name": "Bio-Attack",
-        "description": "Two Haruspex, two Exocrines, or two Malefactors",
+        "description": "Two Haruspex, two Exocrines, oder two Malefactors",
         "points": "75 points"
       },
       {
         "name": "Breacher",
-        "description": "One Barbed Hierodule or one Scythed Hierodule",
+        "description": "One Barbed Hierodule oder one Scythed Hierodule",
         "points": "125 points"
       },
       {
         "name": "Burrower",
-        "description": "Two Trygons or five Raveners",
+        "description": "Two Trygons oder five Raveners",
         "points": "100 points"
       }
     ]

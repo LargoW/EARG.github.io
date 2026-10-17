@@ -65,7 +65,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     }
   ],
@@ -76,7 +76,7 @@
       "formations": [
         {
           "name": "1 Death Company",
-          "units": "One Chaplain, four Death Company Marines plus transport (Drop Pods or on foot only)",
+          "units": "One Chaplain, four Death Company Marines plus transport (Drop Pods oder on foot only)",
           "extraUnits": [
             "Füge 2 Death Company Marines hinzu: 75 Punkte",
             "Füge bis zu 2 Death Company Dreadnoughts hinzu: 75 Punkte pro Stück"

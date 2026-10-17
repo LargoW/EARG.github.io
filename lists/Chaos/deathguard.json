@@ -82,7 +82,7 @@
         "Repugnant Titan"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     },
     {
@@ -102,7 +102,7 @@
       "formations": [
         {
           "name": "Death Guard Retinue",
-          "units": "One Chaos Lord or Sorcerer Lord, four Plague Marines, three Chaos Space Marines, Daemonic Pact",
+          "units": "One Chaos Lord oder Sorcerer Lord, four Plague Marines, three Chaos Space Marines, Daemonic Pact",
           "extraUnits": [
             "Oberbefehlshaber",
             "Retinue Transport",
@@ -117,7 +117,7 @@
         },
         {
           "name": "Death Guard Terminators",
-          "units": "One Chaos Lord or Sorcerer Lord, four Blightlord Terminators, Daemonic Pact",
+          "units": "One Chaos Lord oder Sorcerer Lord, four Blightlord Terminators, Daemonic Pact",
           "extraUnits": [
             "Oberbefehlshaber",
             "Terminator Transport",
@@ -136,7 +136,7 @@
       "formations": [
         {
           "name": "Havocs",
-          "units": "One Chaos Lord or Sorcerer Lord, four Havocs, Daemonic Pact",
+          "units": "One Chaos Lord oder Sorcerer Lord, four Havocs, Daemonic Pact",
           "extraUnits": [
             "Havoc Transport",
             "Dreadnoughts",

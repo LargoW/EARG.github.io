@@ -750,7 +750,7 @@
           "Regeneration"
         ],
         "notes": "Darf Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, das niedriger als sein Körper und bis zu 2 cm breit ist.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
       },
       {
         "name": "Hydra Dominatrix",
@@ -779,7 +779,7 @@
           "Assisted Swarming"
         ],
         "notes": "Kann fünf Einheiten mit der Sonderregel „Gaunts“ transportieren. Darf Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, das niedriger als sein Körper und bis zu 2 cm breit ist.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
       },
       {
         "name": "Hierophant",
@@ -800,7 +800,7 @@
           "Regeneration"
         ],
         "notes": "Kann Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, sofern es niedriger als der Körper und höchstens 2 cm breit ist.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
       },
       {
         "name": "Hydraphant",
@@ -823,7 +823,7 @@
           "Regeneration"
         ],
         "notes": "Kann Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, sofern es niedriger als der Körper und höchstens 2 cm breit ist.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
       }
     ]
   }

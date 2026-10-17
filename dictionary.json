@@ -87,7 +87,7 @@
     { "deutsch": "Handfeuerwaffen", "englisch": "Small Arms" },
     { "deutsch": "Nahkampfwaffen", "englisch": "Close Combat Weapons" },
     { "deutsch": "Datenblatt", "englisch": "Datasheet" },
-    { "deutsch": "Armeeorganisationsplan", "englisch": "Army List" }
+    { "deutsch": "Armeeorganisationsplan", "englisch": "Armeeliste" }
   ],
   "Aktionen": [
     { "deutsch": "Vorrücken", "englisch": "Advance" },

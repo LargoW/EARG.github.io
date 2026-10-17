@@ -48,8 +48,8 @@
       "unitRules": [
           "Holofields (x)",
           "Lanze",
-          "Shield Piercer",
-          "Shield Versprengenor"
+          "Schildbohrer",
+          "Schildbrecher"
       ]
     },
     {
@@ -75,7 +75,7 @@
         },
         {
           "name": "0-1 Gate of Vaul",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Gate of Vaul, this counts as an objective marker and a Large Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Replace one objective marker in the Eldar player's half of the table with a Gate of Vaul, this counts as an objective marker and a Large Webway Portal which may not be attacked oder damaged in any way. ",
           "points": 100
         }
       ]

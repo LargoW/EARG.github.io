@@ -11,7 +11,7 @@
           "Large Rending Claws||EA(+1)"
         ],
         "specialRules": [
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Inspirierend",
           "Unmodifizierter Rettungswurf",
           "Verstärkte Panzerung",
@@ -26,7 +26,7 @@
         ],
         "specialRules": [
           "Befehlshaber",
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
@@ -194,7 +194,7 @@
           "Heavy Mining Laser|0-1",
           "Seismic Heavy Cannon|0-1"
         ],
-        "notes": "Armed with either a Heavy Mining Laser or a Seismic Heavy Cannon."
+        "notes": "Armed with either a Heavy Mining Laser oder a Seismic Heavy Cannon."
       },
       {
         "name": "Technical",
@@ -217,7 +217,7 @@
         "weapons": [
           "Heavy Stubber"
         ],
-        "notes": "May transport two infantry units without Beritten or Sprungmodule. Aberrants takes two spaces each."
+        "notes": "May transport two infantry units without Beritten oder Sprungmodule. Aberrants takes two spaces each."
       },
       {
         "name": "Coven Limousine",
@@ -232,7 +232,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Goliath Truck",
@@ -244,7 +244,7 @@
         "weapons": [
           "Seismic Heavy Cannon"
         ],
-        "notes": "May transport two infantry units without Sprungmodule or Beritten. Aberrants takes two spaces each."
+        "notes": "May transport two infantry units without Sprungmodule oder Beritten. Aberrants takes two spaces each."
       },
       {
         "name": "Goliath Rockgrinder",
@@ -259,7 +259,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "May transport two infantry unit without Sprungmodule or Beritten. Aberrants takes two spaces each."
+        "notes": "May transport two infantry unit without Sprungmodule oder Beritten. Aberrants takes two spaces each."
       },
       {
         "name": "Haul Truck Cannon",

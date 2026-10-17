@@ -956,7 +956,7 @@
           "Schwerer Stubber"
         ],
         "specialRules": [
-          "Transport: One Infantry unit, and one Rapier or Thudd Gun"
+          "Transport: One Infantry unit, and one Rapier oder Thudd Gun"
         ]
       },
       {
@@ -970,7 +970,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Transport: One Earthshaker Gun or Heavy AA Gun"
+          "Transport: One Earthshaker Gun oder Heavy AA Gun"
         ]
       },
       {
@@ -1181,7 +1181,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Ragnarok Kampfkanone",
+          "Ragnarok Kampfgeschütz",
           "Schwerer Stubber|2|"
         ],
         "specialRules": [
@@ -1197,7 +1197,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Kampfkanone",
+          "Kampfgeschütz",
           "Laserkanone",
           "Schwerer Bolter|2|"
         ],
@@ -1276,7 +1276,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Conqueror-Kanone",
+          "Conqueror Geschütz",
           "Schwerer Bolter|3|"
         ],
         "specialRules": [
@@ -1422,7 +1422,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Kampfkanone",
+          "Kampfgeschütz",
           "Schwerer Bolter|3|"
         ],
         "specialRules": [
@@ -1514,7 +1514,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Zwillings-Kampfkanone",
+          "Zwillings-Kampfgeschütz",
           "Zwillings-Schwerer Stubber",
           "Schwerer Bolter|2|"
         ],
@@ -1550,7 +1550,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Zwillings-Ragnarok Kampfkanone",
+          "Zwillings-Ragnarok Kampfgeschütz",
           "Zwillings-Schwerer Stubber|3|FxF"
         ],
         "specialRules": [
@@ -1751,8 +1751,8 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Zwillings-Ragnarok Kampfkanone||",
-          "Zwillings-Ragnarok Kampfkanone||FxF",
+          "Zwillings-Ragnarok Kampfgeschütz||",
+          "Zwillings-Ragnarok Kampfgeschütz||FxF",
           "Vierlings-Laserkanone||FxF",
           "Vierlings-Schwere Bolter|2|FwA"
         ],

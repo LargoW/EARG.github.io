@@ -107,14 +107,14 @@
         },
         {
           "name": "Sentry Battery",
-          "units": "Sechs Rapiers and/or Tarantulas",
+          "units": "Sechs Rapiers und/oder Tarantulas",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Light Artillery Battery",
-          "units": "Sechs Thudd Guns and/or Mole Mortars",
+          "units": "Sechs Thudd Guns und/oder Mole Mortars",
           "extraUnits": [
           ],
           "points": 200

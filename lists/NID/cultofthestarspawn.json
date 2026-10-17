@@ -58,8 +58,8 @@
           "name": "1 Nexus Brood",
           "units": "One Genestealer Patriarch, three Genestealers, three Hybrid Acolytes",
           "extraUnits": [
-            "Add four Coven Limousines (75 points) or four Coven Goliaths (125 points)",
-            "Replace three Genestealers with three Hybrid Acolytes, or three Hybrid Acolytes with three Genestealers: Free",
+            "Add four Coven Limousines (75 points) oder four Coven Goliaths (125 points)",
+            "Replace three Genestealers with three Hybrid Acolytes, oder three Hybrid Acolytes with three Genestealers: Free",
             "Hybrid Aberrants",
             "Coven Flak"
           ],
@@ -71,7 +71,7 @@
           "extraUnits": [
             "Add four Cult Infantry: 50 points",
             "Add two Cult Fire Support: 50 points",
-            "Add three Cult Leman Russ or Cult Leman Russ Demolishers: 150 points",
+            "Add three Cult Leman Russ oder Cult Leman Russ Demolishers: 150 points",
             "Add enough Cult Chimeras to transport the entire formation with no space left over: 25 points each",
             "Add one Cult Hydra: 50 points",
             "Add up to two Cult Hellhounds: 25 points each",
@@ -152,15 +152,15 @@
       "formations": [
         {
           "name": "Cult Super-Heavy Platoon",
-          "units": "One Coven Locus character, one Cult Baneblade or Cult Stormblade",
+          "units": "One Coven Locus character, one Cult Baneblade oder Cult Stormblade",
           "extraUnits": [
-            "Replace the Cult Baneblade or Cult Stormblade with a Cult Shadowsword: 25 points"
+            "Replace the Cult Baneblade oder Cult Stormblade with a Cult Shadowsword: 25 points"
           ],
           "points": 200
         },
         {
           "name": "Cult Leman Russ Platoon",
-          "units": "One Coven Locus character, six Cult Leman Russ or Cult Leman Russ Demolishers",
+          "units": "One Coven Locus character, six Cult Leman Russ oder Cult Leman Russ Demolishers",
           "extraUnits": [
           ],
           "points": 425

@@ -254,7 +254,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -277,7 +277,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -303,7 +303,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -323,7 +323,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -343,7 +343,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Anführer",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -358,7 +358,7 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Kampfkanone",
+          "Kampfgeschütz",
           "Reaper-Maschinenkanone",
           "Schwerer Flammenwerfer",
           "Kampfklauen"
@@ -506,7 +506,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Schnellfeuer Kampfkanone",
+          "Schnellfeuer Kampfgeschütz",
           "Reaper-Maschinenkanone",
           "Renegade Kettenschwert"
         ],
@@ -557,7 +557,7 @@
           "Hyperwellenhorn",
           "Donnerschlaghandschuh",
           ">Gilded King<",
-          "Schnellfeuer Kampfkanone",
+          "Schnellfeuer Kampfgeschütz",
           "Sturmfurie-Raketen",
           ">Hass auf Krastellan<",
           "Schwerer Neutronenlaser",
@@ -604,12 +604,12 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Kampfkanone|2|FxF",
+          "Kampfgeschütz|2|FxF",
           "Reaper-Maschinenkanone|4|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -630,14 +630,14 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)",
           "Transport"
         ],
         "notes": "Kann 14 Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Chaosbruten, Terminatoren und Cybots zählen jeweils als zwei Einheiten.",
-        "crit": "The Shrine of Chaos takes one additional damage. D3 transported units takes a hit."
+        "crit": "The Shrine of Chaos takes one additional damage. W3 transported units takes a hit."
       },
       {
         "name": "Debaser",
@@ -728,7 +728,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -751,7 +751,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -1008,7 +1008,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Kampfkanone|2|FxF",
+          "Kampfgeschütz|2|FxF",
           "Todessturm||FwA",
           "Kettenfaust"
         ],
@@ -1050,7 +1050,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Kampfkanone",
+          "Kampfgeschütz",
           "Zwillings-Schwerer Warpflamer",
           "Auge des Magnus",
           "Kampfklauen"
@@ -1089,7 +1089,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Schnellfeuer Kampfkanone||FwA",
+          "Schnellfeuer Kampfgeschütz||FwA",
           "Verderber-Gatlingkanone||FwA",
           "Hyperwellenhorn"
         ],

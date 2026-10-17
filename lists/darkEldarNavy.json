@@ -43,7 +43,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Shadowfields 1",
+          "Schattenfelder1",
           "Planetfall",
           "Transport"
         ],
@@ -67,7 +67,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry up to two Executioner Landing Modules and two Slavebringer Assault Boats, or up to six Slavebringer Assault Boats, plus the troops carried in them."
+        "notes": "May carry up to two Executioner Landing Modules and two Slavebringer Assault Boats, oder up to six Slavebringer Assault Boats, plus the troops carried in them."
       }
     ]
   }

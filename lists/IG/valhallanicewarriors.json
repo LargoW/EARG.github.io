@@ -127,7 +127,7 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade, Stormlord or Shadowsword",
+          "units": "One Baneblade, Stormlord oder Shadowsword",
           "extraUnits": [
           ],
           "points": 200
@@ -222,7 +222,7 @@
         "name": "Fire Support",
         "options": [
           {
-            "description": "Add two or four Fire Support Squads",
+            "description": "Add two oder four Fire Support Squads",
             "points": "50 points for two, 100 points for four"
           }
         ]

@@ -31,23 +31,23 @@
         "weapons": [
           "Höllensturmkanone||FwA",
           "Plasma-Annihilator||FwA",
-          "Quake Kanone||FxF",
+          "Tremorgeschütz||FxF",
           "Verteidigungslaser||",
-          "Kampfkanone|4|",
+          "Kampfgeschütz|4|",
           "Beinbastionen"
         ],
         "specialRules": [
           "Damage Capacity 10",
-          "Void Shields 8",
-          "God Machine",
+          "Null Schilde 8",
+          "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Leg Bastions: May transport up to ten infantry units without Sprungmodule or Beritten"
+          "[*]Leg Bastions: May transport up to ten infantry units without Sprungmodule oder Beritten"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Warmonger Titan",
@@ -57,25 +57,25 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Vengeance Kanone||FwA",
+          "Vergeltergeschütz||FwA",
           "Feuersturm-Batterie|8|FwA",
           "Vierlings-Hydra Maschinenkanone|4|",
-          "Head Geschütz||FxF",
+          "Kopf Geschütz||FxF",
           "Beinbastionen"
         ],
         "specialRules": [
           "Damage Capacity 10",
-          "Void Shields 8",
-          "God Machine",
+          "Null Schilde 8",
+          "Göttermaschine",
           "Split Fire",
           "Furchtlos",
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Leg Bastions: May transport up to ten infantry units without Sprungmodule or Beritten"
+          "[*]Leg Bastions: May transport up to ten infantry units without Sprungmodule oder Beritten"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Warmaster Titan",
@@ -87,20 +87,20 @@
         "weapons": [
           "Plasma-Zerstörer|2|FwA",
           "Apocalypse Raketenwerfer|2|FxF",
-          "Kampfkanone|2|",
+          "Kampfgeschütz|2|",
           "Anvilus Maschinenkanone Batterie|2|"
         ],
         "specialRules": [
           "Damage Capacity 9",
-          "Void Shields 7",
-          "God Machine",
+          "Null Schilde 7",
+          "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Warlord Titan",
@@ -117,25 +117,25 @@
         ],
         "specialRules": [
           "Damage Capacity 8",
-          "Void Shields 6",
-          "God Machine",
+          "Null Schilde 6",
+          "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Muss entweder mit Paired Turbo-Laser Destructors oder Paired Apocalypse Missile Launchers bewaffnet sein. Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
-        "name": "Warlord Titan, Deathbringer Class",
+        "name": "Warlord Titan, Todbringer Klasse",
         "type": "WE",
         "speed": 15,
         "armour": 4,
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "CARAPACE (choose one)",
+          "Rumpfbewaffung (wähle eine)",
           "Gekoppelte Turbolaser-Destruktoren|0-1|FxF",
           "Gekoppelte Apocalypse-Raketenwerfer|0-1|FxF",
           "Gekoppelter Gatling-Blaster|0-1|FxF",
@@ -152,49 +152,49 @@
         ],
         "specialRules": [
           "Damage Capacity 8",
-          "Void Shields 6",
-          "God Machine",
+          "Null Schilde 6",
+          "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
-        "name": "Warlord Titan, Nemesis Class",
+        "name": "Warlord Titan, Nemesis Klasse",
         "type": "WE",
         "speed": 15,
         "armour": 4,
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "CARAPACE (choose one)",
+          "Rumpfbewaffung (wähle eine)",
           "2x Sperrfeuer-Rakete|0-1|FxF",
           "2x Vortex-Rakete|0-1|FxF",
           "Gekoppelte Turbolaser-Destruktoren|0-1|FxF",
           "Gekoppelter Gatling-Blaster|0-1|FxF",
           "Gekoppelter Laserblaster|0-1|FxF",
           "Gekoppelte Titanen-Plasmakanonen|0-1|FxF",
-          "ARMS (choose one)",
+          "Arme (wähle eine)",
           "2x Volcano Kanone|0-1|FwA",
           "2x Titan Plasmakanone|0-1|FwA",
           "2x Plasma-Zerstörer|0-1|FwA",
-          "2x Quake Kanone|0-1|FwA",
+          "2x Tremorgeschütz|0-1|FwA",
           "2x Laserblaster|0-1|FwA"
         ],
         "specialRules": [
           "Damage Capacity 8",
-          "Void Shields 6",
-          "God Machine",
+          "Null Schilde 6",
+          "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Reaver Titan",
@@ -209,13 +209,13 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Reaver Titan ",
@@ -238,14 +238,14 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
           "[*]Anvilus Carapace Landing Pad: Gives all BP-type weapons in the formation 'Indirect Fire'"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Reaver Titan, Hun Class",
@@ -255,7 +255,7 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "CARAPACE (choose one)",
+          "Rumpfbewaffung (wähle eine)",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Vulcan-Megabolter|0-1|FxF",
           "Turbolaserzerstörer|0-1|FxF",
@@ -269,13 +269,13 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Reaver Titan, Goth Class",
@@ -285,7 +285,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "CARAPACE (choose one)",
+          "Rumpfbewaffung (wähle eine)",
           "Warp-Rakete|0-1|FxF",
           "Todesstoß-Rakete|0-1|FxF",
           "Titan Plasmakanone|0-1|FxF",
@@ -300,14 +300,14 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
           "[*]Anvilus Carapace Landing Pad: Gives all BP-type weapons in the formation 'Indirect Fire'. Allows the purchase of a Lysander Fighter"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Warbringer Titan",
@@ -318,8 +318,8 @@
         "ff": 3,
         "weapons": [
           "Anvilus Maschinenkanone Batterie|2|",
-          "CARAPACE (choose one)",
-          "Nemesis Quake Kanone|0-1|FxF",
+          "Rumpfbewaffung (wähle eine)",
+          "Nemesis Tremorgeschütz|0-1|FxF",
           "Volcano Kanone|0-1|FxF",
           "Plasma-Zerstörer|0-1|FxF",
           "ARMS (choose two. Max one 0-1)",
@@ -332,13 +332,13 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Warhound",
@@ -353,7 +353,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -381,7 +381,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"

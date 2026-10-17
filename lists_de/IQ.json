@@ -586,13 +586,13 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Faithful",
           "Transport"
         ],
         "notes": "Kann acht Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren.",
-        "crit": "The Emperor's Chapel takes one additional damage. D3 transported units takes a hit."
+        "crit": "The Emperor's Chapel takes one additional damage. W3 transported units takes a hit."
       },
       {
         "name": "Cathedral of the God-Emperor",
@@ -603,14 +603,14 @@
         "ff": 4,
         "weapons": [
           "Volcano Kanone||FxF",
-          "Kampfkanone|4|",
+          "Kampfgeschütz|4|",
           "Inferno-Kanone|4|",
           "Schwerer Bolter-Flugabwehrturm|2|"
         ],
         "specialRules": [
           "Damage Capacity 8",
-          "Void Shields 6",
-          "God Machine",
+          "Null Schilde 6",
+          "Göttermaschine",
           "Split Fire",
           "Verstärkte Panzerung",
           "Furchtlos",
@@ -618,7 +618,7 @@
           "Transport"
         ],
         "notes": "Kann 8 Infanterieeinheiten ohne Beritten oder Jet Packs transportieren.",
-        "crit": "The Cathedral of the God-Emperor takes D3 additional damage, and D6 transported units takes a hit."
+        "crit": "The Cathedral of the God-Emperor takes W3 additional damage, and W6 transported units takes a hit."
       }
     ]
   }

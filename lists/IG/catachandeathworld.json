@@ -40,7 +40,7 @@
         "Shadowsword"
       ],
       "unitRules": [
-                    "Shield Versprengenor"
+                    "Schildbrecher"
       ]
     },
     {
@@ -89,7 +89,7 @@
       "formations": [
         {
           "name": "Leman Russ Platoon",
-          "units": "Six Leman Russ, Leman Russ Demolishers, or Leman Russ Exterminators",
+          "units": "Six Leman Russ, Leman Russ Demolishers, oder Leman Russ Exterminators",
           "extraUnits": [
             "Flak"
           ],
@@ -127,7 +127,7 @@
         },
         {
           "name": "Catachan Super-Heavy Platoon",
-          "units": "One Hellhammer or Stormblade",
+          "units": "One Hellhammer oder Stormblade",
           "extraUnits": [
             "Add two Ogryns: 50 points each"
           ],

@@ -51,7 +51,7 @@
         "Battlefortresses and Gunfortresses",
         "‘Ere we Go",
         "Super-Entbehrlich",
-        "God Machine",
+        "Göttermaschine",
         "Split Fire"
       ]
     }
@@ -59,7 +59,7 @@
   "sections": [
     {
       "name": "Bad Moons Big Mob Gargants",
-      "description": "Army must contain at least one Mega Gargant or Great Gargant. The Big Mek will join a Mega Gargant if available, otherwise a Great Gargant",
+      "description": "Army must contain at least one Mega Gargant oder Great Gargant. The Big Mek will join a Mega Gargant if available, otherwise a Great Gargant",
       "formations": [
         {
           "name": "0-1 Mega Gargant",
@@ -73,7 +73,7 @@
           "name": "Great Gargant",
           "units": "One Great Gargant",
           "upgrades": [
-            "Add a 'Uge Banner of Gork (Inspirierend, 50 points) or a Big Banner of Mork (Anführer, 25 points. May not be combined with Big Mek)"
+            "Add a 'Uge Banner of Gork (Inspirierend, 50 points) oder a Big Banner of Mork (Anführer, 25 points. May not be combined with Big Mek)"
           ],
           "points": 750
         },
@@ -103,7 +103,7 @@
             "Add any number of Boyz + Grotz: 35 points each",
             "0-3 Stompas: 60 points each",
             "0-1 Battlefortress: 100 points",
-            "0-1 Add one Oddboy character to a Battlefortress, Big Gunz or Gunwagon unit: 50 points",
+            "0-1 Add one Oddboy character to a Battlefortress, Big Gunz oder Gunwagon unit: 50 points",
             "0-2 Flash Gitz: 35 points each"
           ],
           "points": 200
@@ -115,7 +115,7 @@
             "Add any number of Deffkoptas, Flakwagons, Gunwagons: 30 points each",
             "0-1 Flash Gitz: 35 points",
             "0-1 Gunfortress: 100 points",
-            "0-1 Add one Oddboy character to a Gunfortress or Gunwagon: 50 points"
+            "0-1 Add one Oddboy character to a Gunfortress oder Gunwagon: 50 points"
           ],
           "points": 150
         },
@@ -125,7 +125,7 @@
           "extraUnits": [
             "Add any number of Flakwagons, Gunwagons: 30 points each",
             "Add any number of Deffkoptas: 35 points each",
-            "0-1 Add one Oddboy character to a Gunfortress or Gunwagons unit: 50 points"
+            "0-1 Add one Oddboy character to a Gunfortress oder Gunwagons unit: 50 points"
           ],
           "points": 225
         },

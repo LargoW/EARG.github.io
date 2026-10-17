@@ -42,7 +42,7 @@
         "Assault Excavator"
       ],
       "unitRules": [
-        "Extended Command",
+        "Erweiterte Befehlsreichweite",
         "Honour Guard"
       ]
     },
@@ -121,7 +121,7 @@
         },
         {
           "name": "Shock Assault Coven",
-          "units": "One Hybrid Iconward, 4 Aberrants, and either 4 Goliath Trucks or 4 Goliath Rock Grinders",
+          "units": "One Hybrid Iconward, 4 Aberrants, and either 4 Goliath Trucks oder 4 Goliath Rock Grinders",
           "extraUnits": [
             "Coven Anführer",
             "Technicals"
@@ -215,7 +215,7 @@
       },
       {
         "name": "Acolyte Transports",
-        "description": "Add Land Transporters, Coven Limousines, Goliath Trucks or Goliath Rockgrinders to the formation, up to the number required to transport all infantry units in the formation",
+        "description": "Add Land Transporters, Coven Limousines, Goliath Trucks oder Goliath Rockgrinders to the formation, up to the number required to transport all infantry units in the formation",
         "options": [
           {
             "description": "Land Transporter (Acolyte Coven only)",
@@ -237,7 +237,7 @@
       },
       {
         "name": "Coven Anführer",
-        "description": "Replace a Hybrid Iconward with a Genestealer Primus or Genestealer Magus.",
+        "description": "Replace a Hybrid Iconward with a Genestealer Primus oder Genestealer Magus.",
         "options": [
           {
             "description": "Genestealer Primus",

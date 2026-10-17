@@ -99,7 +99,7 @@
           "Inspirierend",
           "Oberbefehlshaber",
           "Heralds of Truth",
-          "Augment Summoning (+D3)",
+          "Augment Summoning (+W3)",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -209,7 +209,7 @@
         ],
         "specialRules": [
           "Heralds of Truth",
-          "Augment Summoning (+D3)",
+          "Augment Summoning (+W3)",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -269,7 +269,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Augment Summoning (+D3)",
+          "Augment Summoning (+W3)",
           "Daemonic Focus",
           "Unmodifizierter Rettungswurf"
         ]
@@ -335,7 +335,7 @@
           "Jump Pack",
           "Furchtlos",
           "Daemonic Focus",
-          "Augment Summoning (+D3)",
+          "Augment Summoning (+W3)",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -435,7 +435,7 @@
           "Autocannon"
         ],
         "specialRules": [
-          "Stubborn"
+          "Starrköpfig"
         ]
       },
       {
@@ -539,7 +539,7 @@
           "Autocannon|2|"
         ],
         "specialRules": [
-          "Stubborn"
+          "Starrköpfig"
         ]
       },
       {
@@ -582,7 +582,7 @@
           "Banestrike Combi-Bolters"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Infiltratorens",
           "Aufklärer",
           "Sabotage"
@@ -672,7 +672,7 @@
           "Rad Missile Launchers"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Sprungmodule"
         ]
       },
@@ -845,7 +845,7 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Teleport",
           "Verstärkte Heckpanzerung"
@@ -1044,7 +1044,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators and Obliterators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators and Obliterators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Chaos Siege Rhino",
@@ -1060,7 +1060,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators and Obliterators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators and Obliterators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Alpha Legion Rhino",
@@ -1073,10 +1073,10 @@
           "Combi-Bolter"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Death Guard Rhino",
@@ -1091,7 +1091,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Emperor's Children Rhino",
@@ -1106,7 +1106,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "World Eaters Rhino",
@@ -1121,7 +1121,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Thousand Sons Rhino",
@@ -1137,7 +1137,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Chaos Land Raider",
@@ -1155,7 +1155,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Sprungmodule or Beritten. Chaos Terminators, Obliterators counts as two units each."
+        "notes": "May transport two infantry units without Sprungmodule oder Beritten. Chaos Terminators, Obliterators counts as two units each."
       },
       {
         "name": "Alpha Legion Land Raider",
@@ -1169,12 +1169,12 @@
           "Twin Heavy Bolter"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Terminator unit oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Emperor's Children Land Raider",
@@ -1192,7 +1192,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport one Sirenshriek Terminator unit or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Sirenshriek Terminator unit oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Death Guard Land Raider",
@@ -1211,7 +1211,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport one Blightlord Terminator unit or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Blightlord Terminator unit oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "World Eaters Land Raider",
@@ -1229,7 +1229,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport two Terminators, Mutilators, or three infantry units without Sprungmodule or Beritten."
+        "notes": "May transport two Terminators, Mutilators, oder three infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Thousand Sons Land Raider",
@@ -1247,7 +1247,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport one Terminator or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Terminator oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Chaos Predator",
@@ -1273,7 +1273,7 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Stubborn"
+          "Starrköpfig"
         ]
       },
       {
@@ -1312,7 +1312,7 @@
           "Heavy Bolter|3|"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung"
         ]
       },
@@ -1396,7 +1396,7 @@
           "Demolisher"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Geländegängig"
         ]
       },
@@ -1529,7 +1529,7 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Geländegängig"
         ]
       },
@@ -1581,7 +1581,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport four infantry units without Sprungmodule or Beritten. Terminators count as two units each."
+        "notes": "May transport four infantry units without Sprungmodule oder Beritten. Terminators count as two units each."
       },
       {
         "name": "Chaos Typhon Heavy Siege Tank",

@@ -57,10 +57,10 @@
           "Schnitter-Kettenspalter"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (4+)"
+          "Ionen Schild (4+)"
         ]
       },
       {
@@ -74,10 +74,10 @@
           "Zwillings-Maschinenkanone"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (4+)"
+          "Ionen Schild (4+)"
         ]
       },
       {
@@ -93,10 +93,10 @@
           "Gyges Belagerungsklaue|0-1|"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (4+)",
+          "Ionen Schild (4+)",
           "Ionic Flare Shield"
         ],
         "notes": "Muss entweder mit Lightning Locks oder mit Volkite Veuglaire und Gyges Siege Claw bewaffnet sein."
@@ -109,15 +109,15 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Schnellfeuer Kampfkanone",
+          "Schnellfeuer Kampfgeschütz",
           "Reaper-Kettenschwert"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -132,11 +132,11 @@
           "Reaper-Kettenschwert"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -147,15 +147,15 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Schnellfeuer Kampfkanone",
+          "Schnellfeuer Kampfgeschütz",
           "Rächer-Gatlingkanone"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -171,11 +171,11 @@
           "Reaper-Kettenschwert"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -191,11 +191,11 @@
           "Reaper-Kettenschwert"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -210,11 +210,11 @@
           "Donnerschlaghandschuh"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -236,12 +236,12 @@
           "Laserimpulsor"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -258,11 +258,11 @@
           "Hekaton Belagerungsklaue"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)",
+          "Ionen Schild (3+)",
           "Ionic Flare Shield"
         ]
       },
@@ -279,11 +279,11 @@
           "Reaper-Kettenschwert"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ion Shield (3+)",
+          "Ionen Schild (3+)",
           "Ionic Flare Shield"
         ]
       },
@@ -301,10 +301,10 @@
           "Plasma-Dezimator||FwA"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -321,10 +321,10 @@
           "Donnerwendel-Harpune"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -339,12 +339,12 @@
           "Reaper-Kettenfaust"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -359,12 +359,12 @@
           "Sturmkriegsklinge"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ]
       },
       {
@@ -378,12 +378,12 @@
           "Cerastus-Schocklanze"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (3+)",
+          "Ionen Schild (3+)",
           "Ionic Flare Shield"
         ]
       },
@@ -399,12 +399,12 @@
           "Atrapos-Laserschneider"
         ],
         "specialRules": [
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (3+)",
+          "Ionen Schild (3+)",
           "Ionic Flare Shield"
         ]
       },
@@ -422,10 +422,10 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ],
         "crit": "The Acastus Knight takes 1 additional damage."
       },
@@ -443,10 +443,10 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (3+)"
+          "Ionen Schild (3+)"
         ],
         "crit": "The Acastus Knight takes 1 additional damage."
       },
@@ -458,7 +458,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Schnellfeuer Kampfkanone",
+          "Schnellfeuer Kampfgeschütz",
           "Schocklanze",
           "Ritter-Energiehandschuh"
         ],
@@ -469,7 +469,7 @@
           "Furchtlos",
           "Geländegängig",
           "Inspirierend",
-          "Ion Shield (4+)"
+          "Ionen Schild (4+)"
         ]
       },
       {
@@ -480,14 +480,14 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kampfkanone",
+          "Kampfgeschütz",
           "Schocklanze",
           "Ritter-Kettenschwert"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionen Schild (4+)"
         ]
       },
       {
@@ -505,7 +505,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionen Schild (4+)"
         ]
       },
       {
@@ -516,14 +516,14 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kampfkanone",
+          "Kampfgeschütz",
           "Ritter-Energielanze"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ion Shield (4+)"
+          "Ionen Schild (4+)"
         ]
       },
       {
@@ -541,7 +541,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionen Schild (4+)"
         ]
       },
       {
@@ -558,7 +558,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionen Schild (4+)"
         ]
       },
       {
@@ -574,7 +574,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionen Schild (4+)"
         ]
       },
       {
@@ -591,7 +591,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ion Shield (4+)"
+          "Ionen Schild (4+)"
         ]
       }
     ]

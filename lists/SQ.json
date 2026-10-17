@@ -211,7 +211,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Sprungmodule or Beritten. Squat Warlord, Grand Warlord, and Squat Thunderfire units takes two spaces each. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
+        "notes": "May transport two infantry units without Sprungmodule oder Beritten. Squat Warlord, Grand Warlord, and Squat Thunderfire units takes two spaces each. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
       },
       {
         "name": "Land Raider",
@@ -229,7 +229,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Sprungmodule or Beritten. Squat Warlord and Grand Warlord units takes two spaces each."
+        "notes": "May transport two infantry units without Sprungmodule oder Beritten. Squat Warlord and Grand Warlord units takes two spaces each."
       },
       {
         "name": "Squat Thunderfire",
@@ -304,7 +304,7 @@
           "Tunnelgräber",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Sprungmodule or Beritten. Squat Warlord units takes two spaces each."
+        "notes": "May transport two infantry units without Sprungmodule oder Beritten. Squat Warlord units takes two spaces each."
       },
       {
         "name": "Hellbore",
@@ -323,7 +323,7 @@
           "Tunnelgräber",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Sprungmodule or Beritten. Squat Warlord units takes two spaces each.",
+        "notes": "May transport twelve infantry units without Sprungmodule oder Beritten. Squat Warlord units takes two spaces each.",
         "crit": "The Hellbore is destroyed."
       },
       {
@@ -357,13 +357,13 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Void Shields: 4",
+          "Null Schilde: 4",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Furchtlos",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Sprungmodule or Beritten. Up to two units may shoot and FF from the Leviathan's fighting platform",
+        "notes": "May transport twelve infantry units without Sprungmodule oder Beritten. Up to two units may shoot and FF from the Leviathan's fighting platform",
         "crit": "The Leviathan is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the Leviathan."
       },
       {
@@ -380,7 +380,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Void Shields: 4",
+          "Null Schilde: 4",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Furchtlos"
@@ -403,7 +403,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Void Shields: 4",
+          "Null Schilde: 4",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Furchtlos"
@@ -429,7 +429,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 2 + the current number of Battle Cars",
-          "Void Shields: the current number of Battle Cars",
+          "Null Schilde: the current number of Battle Cars",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],

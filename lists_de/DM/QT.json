@@ -46,9 +46,9 @@
          "Daemonic Focus",
         "Daemon Engine (x)",
         "Heavy Armoured Vehicle (H-AV)",
-        "Void Shields",
-        "Shield Piercer",
-        "Shield Versprengenor",
+        "Null Schilde",
+        "Schildbohrer",
+        "Schildbrecher",
         "Lanze"
       ]
     },
@@ -70,7 +70,7 @@
         "Chaos Warbringer"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     },
     {

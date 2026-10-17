@@ -57,12 +57,12 @@
           "name": "Evil Sunz Blitz Brigade",
           "units": "Any four of the following units: Deffkopta, Flakwagon, Gunwagon",
           "extraUnits": [
-            "Add any number of Flakwagons, Gunwagons or Deffkoptas: 30 points each",
-            "Add a Boyz unit to any Gunwagon or Flakwagon in the formation: 15 points each",
+            "Add any number of Flakwagons, Gunwagons oder Deffkoptas: 30 points each",
+            "Add a Boyz unit to any Gunwagon oder Flakwagon in the formation: 15 points each",
             "Replace any number of Gunwagons with Spleenrippas: 20 points each",
             "Replace one Gunwagon with a Mekboy Speedsta: 30 points",
-            "Add one Battlefortress or Gunfortress unit: 100 points",
-            "Add any number of Speed Freek Oddboy character to Battlefortress or Gunfortress unit (max one Oddboy per Fortress): 50 points each"
+            "Add one Battlefortress oder Gunfortress unit: 100 points",
+            "Add any number of Speed Freek Oddboy character to Battlefortress oder Gunfortress unit (max one Oddboy per Fortress): 50 points each"
           ],
           "pointsOptions": [
             {
@@ -81,13 +81,13 @@
         },
         {
           "name": "Evil Sunz Fortress Mob",
-          "units": "Two Battlefortress or Gunfortress units",
+          "units": "Two Battlefortress oder Gunfortress units",
           "extraUnits": [
             "Add any number of Boyz: 15 points each",
-            "Add any number of Flakwagons or Gunwagons: 30 points each",
+            "Add any number of Flakwagons oder Gunwagons: 30 points each",
             "Add up to two Nobz: 35 points each",
-            "Add any number of Speed Freek Oddboy character to Battlefortress or Gunfortress unit (max one Oddboy per Fortress): 50 points each",
-            "Add up to two Battlefortress or Gunfortress units: 100 points"
+            "Add any number of Speed Freek Oddboy character to Battlefortress oder Gunfortress unit (max one Oddboy per Fortress): 50 points each",
+            "Add up to two Battlefortress oder Gunfortress units: 100 points"
           ],
           "points": 250
         },
@@ -98,7 +98,7 @@
             "Add any number of Skorchas, Warbikes, Warbuggies: 25 points each",
             "Add any number of Flakwagons, Gunwagons: 30 points each",
             "Add any number of Deffkoptas: 35 points each",
-            "Add up to two Nob Warbikes (35 points each) or Mekboy Speedstas (50 points each)"
+            "Add up to two Nob Warbikes (35 points each) oder Mekboy Speedstas (50 points each)"
           ],
           "pointsOptions": [
             {
@@ -117,13 +117,13 @@
         },
         {
           "name": "Evil Sunz Warband",
-          "units": "One Nobz, three Boyz, four Speed Freek Trukks, plus four Warbikes, Skorchas and/or Warbuggies",
+          "units": "One Nobz, three Boyz, four Speed Freek Trukks, plus four Warbikes, Skorchas und/oder Warbuggies",
           "extraUnits": [
             "Replace one unit of Nobz and one Speed Freek Trukk with one Nob Warbikes unit: Free",
             "Add any number of Boyz and Speed Freek Trukk: 25 points each",
             "Add any number of Skorchas, Warbikes, Warbuggies: 25 points each",
             "Add any number of Flakwagons: 30 points each",
-            "Add one Nob Warbikes (35 points) or Mekboy Speedsta (50 points)"
+            "Add one Nob Warbikes (35 points) oder Mekboy Speedsta (50 points)"
           ],
           "pointsOptions": [
             {

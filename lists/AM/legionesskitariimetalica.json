@@ -39,7 +39,7 @@
       "unitRules": [
         "Machine Spirit",
         "Ponderous",
-        "Shield Versprengenor"
+        "Schildbrecher"
       ]
     },
     {
@@ -49,7 +49,7 @@
       ],
       "unitRules": [
         "Bravery",
-        "Ion Shield (x)",
+        "Ionen Schild (x)",
         "Sturmangriff",
         "Heavy Armoured Vehicle (H-AV)"
       ]
@@ -62,8 +62,8 @@
         "Warlord Titan"
       ],
       "unitRules": [
-        "Void Shields",
-        "God Machine",
+        "Null Schilde",
+        "Göttermaschine",
         "Split Fire"
       ]
     }
@@ -96,7 +96,7 @@
           "units": "Four Sagitarii",
           "extraUnits": [
             "Replace one unit of Sagitarii with three Rapiers: 25 points",
-            "Add enought Chimeras or Chimedons to transport the formation with no space left over: 25 points each",
+            "Add enought Chimeras oder Chimedons to transport the formation with no space left over: 25 points each",
             "Hydra"
           ],
           "points": 150
@@ -125,7 +125,7 @@
         },
         {
           "name": "Cataphractii Maniple",
-          "units": "Six Leman Russ, Leman Russ Demolishers or Leman Russ Executioners",
+          "units": "Six Leman Russ, Leman Russ Demolishers oder Leman Russ Executioners",
           "extraUnits": [
             "Hydra"
           ],
@@ -164,7 +164,7 @@
         },
         {
           "name": "Warhound Pack",
-          "units": "Two Warhound Scout Titans, both of either Standard or Support Configuration",
+          "units": "Two Warhound Scout Titans, both of either Standard oder Support Configuration",
           "extraUnits": [
             "Tank Hunter Configuration"
           ],
@@ -208,7 +208,7 @@
       },
       {
         "name": "Hypaspist Transport",
-        "description": "Add one Gorgon, five Chimeras, or five Chimedons",
+        "description": "Add one Gorgon, five Chimeras, oder five Chimedons",
         "options": [
           {
             "description": "One Gorgon",

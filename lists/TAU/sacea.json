@@ -78,7 +78,7 @@
         },
         {
           "name": "Fire Warrior Strike Cadre",
-          "units": "Eight Fire Warriors, or six Fire Warriors and three Devilfish.",
+          "units": "Eight Fire Warriors, oder six Fire Warriors and three Devilfish.",
           "extraUnits": [
             "Broadsides",
             "Ethereal",
@@ -100,9 +100,9 @@
       "formations": [
         {
           "name": "Hammerhead Group",
-          "units": "Four Ion or four Fusion Hammerheads",
+          "units": "Four Ion oder four Fusion Hammerheads",
           "extraUnits": [
-            "Replace four Ion or Fusion Hammerheads with four Rail Hammerheads: 25 points",
+            "Replace four Ion oder Fusion Hammerheads with four Rail Hammerheads: 25 points",
             "Gun Drones",
             "Hammerheads",
             "Piranhas",
@@ -234,7 +234,7 @@
       },
       {
         "name": "Crisis Suits",
-        "description": "Add two or four XV8 Crisis Battlesuits",
+        "description": "Add two oder four XV8 Crisis Battlesuits",
         "points": [
           "75 points for two",
           "150 points for four"
@@ -283,7 +283,7 @@
             "points": "75 points"
           },
           {
-            "description": "Add up to two Rail Hammerheads, or add up to two Fusion Hammerheads",
+            "description": "Add up to two Rail Hammerheads, oder add up to two Fusion Hammerheads",
             "points": "50 points each"
           }
         ]

@@ -74,7 +74,7 @@
       "formations": [
         {
           "name": "0-1 Officio Assassinorum",
-          "units": "Once per battle, during an Assault that the Deathwatch player initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, and have the 'Scharfschütze' and 'Erstschlag' special rules. Any damage caused by these hits counts towards combat resolution (unless the target is Super-Entbehrlich).",
+          "units": "Once per battle, during an Assault that the Deathwatch player initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with W3 hits. These hits counts as being from CC, and have the 'Scharfschütze' and 'Erstschlag' special rules. Any damage caused by these hits counts towards combat resolution (unless the target is Super-Entbehrlich).",
           "points": 50
         }
       ]
@@ -157,13 +157,13 @@
           "name": "Planetary Defense Platoon",
           "units": "Eight PDF Infantry, four Land Transporters",
           "extraUnits": [
-            "Replace four Land Transporters with three Thudd Guns or three Flakk Teams: 25 points"
+            "Replace four Land Transporters with three Thudd Guns oder three Flakk Teams: 25 points"
           ],
           "points": 200
         },
         {
           "name": "Leman Russ Squadron",
-          "units": "Four Leman Russ or four Leman Russ Thunderers",
+          "units": "Four Leman Russ oder four Leman Russ Thunderers",
           "extraUnits": [
           ],
           "points": 275
@@ -202,7 +202,7 @@
     "items": [
       {
         "name": "0-1 Oberbefehlshaber",
-        "description": "Replace an Ordo Xenos Inquisitor with an Ordo Xenos Inquisitor Lord, or a Watch Sergeant with a Watch Befehlshaber",
+        "description": "Replace an Ordo Xenos Inquisitor with an Ordo Xenos Inquisitor Lord, oder a Watch Sergeant with a Watch Befehlshaber",
         "points": [
           "Inquisitor Lord: 50 points",
           "Watch Befehlshaber: 100 points"
@@ -210,7 +210,7 @@
       },
       {
         "name": "Deathwatch Specialists",
-        "description": "Add a Librarian or Chaplain to the formation.",
+        "description": "Add a Librarian oder Chaplain to the formation.",
         "points": [
           "Librarian: 25 points",
           "Chaplain: 50 points"
@@ -218,7 +218,7 @@
       },
       {
         "name": "Deathwatch Support",
-        "description": "Add either one Deathwatch Dreadnought or a Land Raider Crusader to the formation.",
+        "description": "Add either one Deathwatch Dreadnought oder a Land Raider Crusader to the formation.",
         "points": "50 points"
       }
     ]

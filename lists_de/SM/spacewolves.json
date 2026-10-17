@@ -54,7 +54,7 @@
         "Drop Pod"
       ],
       "unitRules": [
-        "Extended Command"
+        "Erweiterte Befehlsreichweite"
       ]
     },
     {
@@ -63,7 +63,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     }
   ],
@@ -184,7 +184,7 @@
         },
         {
           "name": "Predators",
-          "units": "Four Predator Annihilators and/or Predator Destructors",
+          "units": "Four Predator Annihilators und/oder Predator Destructors",
           "extraUnits": [
             "Anti-Air"
           ],

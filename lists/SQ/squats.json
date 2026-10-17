@@ -66,7 +66,7 @@
           "name": "Warrior Brotherhood",
           "units": "Squat Hearthguards, nine Squat Warriors",
           "extraUnits": [
-            "Replace two Squat Warriors with two Rapiers, or two Thunderers: 25 points",
+            "Replace two Squat Warriors with two Rapiers, oder two Thunderers: 25 points",
             "Add four Squat Warriors: 75 points",
             "Warlord",
             "Warrior Transport",
@@ -107,14 +107,14 @@
         },
         {
           "name": "Sentry Battery",
-          "units": "Six Rapiers and/or Tarantulas",
+          "units": "Six Rapiers und/oder Tarantulas",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Light Artillery Battery",
-          "units": "Six Thudd Guns and/or Mole Mortars",
+          "units": "Six Thudd Guns und/oder Mole Mortars",
           "extraUnits": [
           ],
           "points": 200
@@ -222,12 +222,12 @@
       },
       {
         "name": "Living Ancestor",
-        "description": "Add a Living Ancestor to an Overlord Dirigible, Leviathan, Cyclops, Colossus or Land Train.",
+        "description": "Add a Living Ancestor to an Overlord Dirigible, Leviathan, Cyclops, Colossus oder Land Train.",
         "points": "25 points"
       },
       {
         "name": "Thunderer Transport",
-        "description": "Replace two Squat Rhinos with two Termites or two Land Raiders.",
+        "description": "Replace two Squat Rhinos with two Termites oder two Land Raiders.",
         "options": [
           {
             "description": "Termites",

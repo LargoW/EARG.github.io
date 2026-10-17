@@ -14,7 +14,7 @@
         "ff": 4,
         "weapons": [
           "Solar-Atomisierer",
-          "Omnissian Axt"
+          "Axt des Omnissiah"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -32,7 +32,7 @@
         "ff": 4,
         "weapons": [
           "Solar-Atomisierer",
-          "Omnissian Axt"
+          "Axt des Omnissiah"
         ],
         "specialRules": [
           "Befehlshaber",
@@ -211,7 +211,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Omnissian Axt"
+          "Axt des Omnissiah"
         ],
         "specialRules": []
       },
@@ -492,7 +492,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Conqueror-Kanone",
+          "Conqueror Geschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -525,7 +525,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Kampfkanone",
+          "Kampfgeschütz",
           "Laserkanone",
           "Schwerer Bolter|2|"
         ],
@@ -583,12 +583,12 @@
           "Gatling-Blaster|0-1|FxF",
           ">Support Weapons<",
           "Plasma-Zerstörer|0-1|FxF",
-          "Quake Kanone|0-1|FxF",
+          "Tremorgeschütz|0-1|FxF",
           "Volcano Kanone|0-1|FxF"
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -614,7 +614,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -640,7 +640,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],

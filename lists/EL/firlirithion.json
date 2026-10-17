@@ -38,8 +38,8 @@
       "unitRules": [
           "Holofields (x)",
           "Lanze",
-          "Shield Piercer",
-          "Shield Versprengenor",
+          "Schildbohrer",
+          "Schildbrecher",
           "Heavy Armoured Vehicle (H-AV)"
       ]
     },
@@ -67,7 +67,7 @@
         },
         {
           "name": "0-1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked oder damaged in any way. ",
           "points": 50
         }
       ]
@@ -108,7 +108,7 @@
     },
     {
       "name": "Fir Lirithion Troupes",
-      "description": "Up to three Troupes for each Battle or Scout Titan formation.",
+      "description": "Up to three Troupes for each Battle oder Scout Titan formation.",
       "formations": [
         {
           "name": "Wraithknight Troupe",

@@ -52,7 +52,7 @@
       ],
       "unitRules": [
         "Teleport Homer",
-        "Extended Command",
+        "Erweiterte Befehlsreichweite",
         "Faithful",
         "Psybolts",
         "Navis Nobilite"
@@ -198,14 +198,14 @@
     "items": [
       {
         "name": "(0-1 per army) Oberbefehlshaber",
-        "description": "Replace a Blood Ravens Librarian with a Blood Ravens Oberbefehlshaber, or a Justicar with a Grey Knights Grand Master",
+        "description": "Replace a Blood Ravens Librarian with a Blood Ravens Oberbefehlshaber, oder a Justicar with a Grey Knights Grand Master",
         "points": [
           "50 points"
         ]
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Dreadnoughts or Hellfire Dreadnoughts",
+        "description": "Add up to two Dreadnoughts oder Hellfire Dreadnoughts",
         "points": [
           "50 points each",
           "75 points per pair"
@@ -213,7 +213,7 @@
       },
       {
         "name": "Land Raiders",
-        "description": "Add any number of Land Raiders or Land Raider Helios (Whirlwind or Hyperios), up to the number required to transport the formation",
+        "description": "Add any number of Land Raiders oder Land Raider Helios (Whirlwind oder Hyperios), up to the number required to transport the formation",
         "points": [
           "Land Raiders: 50 points",
           "Land Raider Helios: 75 points"

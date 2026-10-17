@@ -81,7 +81,7 @@
         },
         {
           "name": "Evil Sunz Fortress Mob",
-          "units": "Two Battlefortress or Gunfortress units",
+          "units": "Two Battlefortress oder Gunfortress units",
           "extraUnits": [
             "Füge beliebig viele Boyz hinzu: 15 Punkte pro Stück",
             "Füge beliebig viele Flakwagons oder Gunwagons hinzu: 30 Punkte pro Stück",
@@ -117,7 +117,7 @@
         },
         {
           "name": "Evil Sunz Warband",
-          "units": "One Nobz, three Boyz, four Speed Freek Trukks, plus four Warbikes, Skorchas and/or Warbuggies",
+          "units": "One Nobz, three Boyz, four Speed Freek Trukks, plus four Warbikes, Skorchas und/oder Warbuggies",
           "extraUnits": [
             "Ersetze 1 Einheit von Nobz und 1 Speed Freek Trukk durch 1 Nob Warbikes unit: Free",
             "Füge beliebig viele Boyz und Speed Freek Trukk hinzu: 25 Punkte pro Stück",

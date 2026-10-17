@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_DarkAngels",
-  "intro": "The following army list allows you to field an army based on the Dark Angels Space Marine chapter or any of its successor chapters.",
+  "intro": "The following army list allows you to field an army based on the Dark Angels Space Marine chapter oder any of its successor chapters.",
   "strategy": "Space Marine armies have a Strategy Rating of 5.",
   "Initiative": "All formations have an Initiative Rating of 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Dark Angels detachments.",
@@ -133,7 +133,7 @@
     },
     {
       "name": "Predators",
-      "units": "Four Predator Destructors and/or Predator Annihilators",
+      "units": "Four Predator Destructors und/oder Predator Annihilators",
       "extraUnits": [
         "Anti-Air"
       ],

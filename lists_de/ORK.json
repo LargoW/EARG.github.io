@@ -48,10 +48,10 @@
         "weapons": [
           "Supa-Zzap-Geschütz|0-1|",
           "Superknarre|0-1|",
-          "D3+1 Energiefelder|0-1|"
+          "W3+1 Energiefelder|0-1|"
         ],
         "specialRules": [
-          "Replace one Big Gun weapon with either a Supa-Zzap-Gun or a Soopagun, alternatively the unit may be given D3+1 power fields"
+          "Replace one Big Gun weapon with either a Supa-Zzap-Gun oder a Soopagun, alternatively the unit may be given W3+1 power fields"
         ]
       },
       {
@@ -60,22 +60,22 @@
         "weapons": [
           "Superknarre|0-1|",
           "Weirdboy-Turm|0-1|",
-          "D3+1 Energiefelder|0-1|"
+          "W3+1 Energiefelder|0-1|"
         ],
         "specialRules": [
         ],
-        "notes": "Ersetze eine Big-Gun-Waffe entweder durch eine Soopagun oder einen Weirdboy Tower. Alternativ kann die Einheit [*] D3+1 Schpezialkraftfelder erhalten."
+        "notes": "Ersetze eine Big-Gun-Waffe entweder durch eine Soopagun oder einen Weirdboy Tower. Alternativ kann die Einheit [*] W3+1 Schpezialkraftfelder erhalten."
       },
       {
         "name": "Speed Freek Oddboy",
         "type": "CH",
         "weapons": [
           "Hebewerfer|0-1|",
-          "D3+1 Energiefelder|0-1|",
+          "W3+1 Energiefelder|0-1|",
           "Deff-Rolla \u0026 frischer Anstrich|0-1|"
         ],
         "specialRules": [
-          "The unit either replaces a Big Gun with a Lifta Droppa, or [*] adds D3+1 Power Fields, or [**] is equipped with a Deff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
+          "The unit either replaces a Big Gun with a Lifta Droppa, oder [*] adds W3+1 Power Fields, oder [**] is equipped with a Deff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
         ]
       },
       {
@@ -340,7 +340,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "D3 Power Fields"
+          "W3 Power Fields"
         ]
       },
       {
@@ -426,7 +426,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Kampfkanone"
+          "Kampfgeschütz"
         ],
         "specialRules": [
         ]
@@ -679,7 +679,7 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either three Soopaguns or two Soopaguns and either Supa-Zzap-Gun or a Mega-Choppa"
+          "Armed with either three Soopaguns oder two Soopaguns and either Supa-Zzap-Gun oder a Mega-Choppa"
         ],
         "crit": "The Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
       },
@@ -731,12 +731,12 @@
         "specialRules": [
           "Damage Capacity 10",
           "Power Fields 1D3+6",
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either two Twin Soopaguns or one Twin Soopagun and a Lifta-Droppa"
+          "Armed with either two Twin Soopaguns oder one Twin Soopagun and a Lifta-Droppa"
         ],
         "crit": "The Great Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
       },
@@ -766,7 +766,7 @@
         "specialRules": [
           "Damage Capacity 10",
           "Power Fields 1D3+6",
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -792,7 +792,7 @@
         "specialRules": [
           "Damage Capacity 13",
           "Power Fields 1D3+9",
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Geländegängig",
           "Furchtlos",
@@ -1207,7 +1207,7 @@
           "Transport"
         ],
         "notes": "Kann bis zu 16 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 6 Grotz mitgeführt werden.",
-        "crit": "The Orkeosaurus takes one additional damage, and D3 random units being transported takes a hit."
+        "crit": "The Orkeosaurus takes one additional damage, and W3 random units being transported takes a hit."
       },
       {
         "name": "Steam Gargant",

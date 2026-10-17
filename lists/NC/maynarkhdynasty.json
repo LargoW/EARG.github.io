@@ -81,7 +81,7 @@
             "Overlord",
             "Canoptek Wraiths",
             "Canoptek Spyder",
-            "Replace three Necron Warriors with three Pariahs or three Immortals: 50 points"
+            "Replace three Necron Warriors with three Pariahs oder three Immortals: 50 points"
           ],
           "points": 300
         }
@@ -153,13 +153,13 @@
           "name": "Megalith Conduit",
           "units": "One Megalith",
           "extraUnits": [
-            "Add up to two Obelisks (50 points each) and/or Monoliths (75 points each)"
+            "Add up to two Obelisks (50 points each) und/oder Monoliths (75 points each)"
           ],
           "points": 350
         },
         {
           "name": "0–1 Harvester Engine",
-          "units": "Either an Æonic Orb or an Abbatoir",
+          "units": "Either an Æonic Orb oder an Abbatoir",
           "extraUnits": [
           ],
           "points": 450
@@ -194,7 +194,7 @@
     "items": [
       {
         "name": "0-1 Overlord",
-        "description": "Either replace one Necron Lord with a Necron Overlord, or replace a Necron Destroyer Lord with a Necron Destroyer Overlord",
+        "description": "Either replace one Necron Lord with a Necron Overlord, oder replace a Necron Destroyer Lord with a Necron Destroyer Overlord",
         "points": "75 points"
       },
       {

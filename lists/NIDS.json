@@ -750,8 +750,8 @@
           "Verstärkte Panzerung",
           "Regeneration"
         ],
-        "notes": "May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "notes": "May step over units and impassable oder dangerous terrain that is lower than its body and up to 2cm wide.",
+        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
       },
       {
         "name": "Hydra Dominatrix",
@@ -779,8 +779,8 @@
           "Augmented Swarming(+1)",
           "Assisted Swarming"
         ],
-        "notes": "May transport five units with the 'Gaunts' special rule. May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "notes": "May transport five units with the 'Gaunts' special rule. May step over units and impassable oder dangerous terrain that is lower than its body and up to 2cm wide.",
+        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
       },
       {
         "name": "Hierophant",
@@ -800,8 +800,8 @@
           "Verstärkte Panzerung",
           "Regeneration"
         ],
-        "notes": "May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "notes": "May step over units and impassable oder dangerous terrain that is lower than its body and up to 2cm wide.",
+        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
       },
       {
         "name": "Hydraphant",
@@ -823,8 +823,8 @@
           "Verstärkte Panzerung",
           "Regeneration"
         ],
-        "notes": "May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
-        "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
+        "notes": "May step over units and impassable oder dangerous terrain that is lower than its body and up to 2cm wide.",
+        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
       }
     ]
   }

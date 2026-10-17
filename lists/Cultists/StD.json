@@ -90,7 +90,7 @@
       ],
       "unitRules": [
         "Regeneration",
-        "Void Shields",
+        "Null Schilde",
         "Daemon Engine (x)",
         "Heavy Armoured Vehicle (H-AV)"
       ]
@@ -177,7 +177,7 @@
     },
     {
       "name": "Slaves to Darkness Chaos Allies",
-      "description": "Up to a third of the points available may be spent on Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch or Slaanesh/Khorne formations in the army.",
+      "description": "Up to a third of the points available may be spent on Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations in the army.",
       "formations": [
         {
           "name": "Hell Blade Squadron",
@@ -258,7 +258,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points. Add one point to the Lesser Daemon pool for each Daemonic Icon or Daemonic Pact in the army.",
+      "description": "Any amount may be spent on Daemon Pool points. Add one point to the Lesser Daemon pool for each Daemonic Icon oder Daemonic Pact in the army.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -276,7 +276,7 @@
         "name": "Daemonic Icon",
         "options": [
           {
-            "description": "Add one Daemonic Icon to a Fallen Befehlshaber or Daemon Prince",
+            "description": "Add one Daemonic Icon to a Fallen Befehlshaber oder Daemon Prince",
             "points": "25 points"
           },
           {
@@ -326,7 +326,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Add one or three Leman Russ, Leman Russ Demolishers or Leman Russ Thunderers",
+        "description": "Add one oder three Leman Russ, Leman Russ Demolishers oder Leman Russ Thunderers",
         "options": [
           {
             "description": "One Leman Russ variant",

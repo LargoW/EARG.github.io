@@ -125,7 +125,7 @@
           "Präzisionsschuss|0-1|"
         ],
         "specialRules": [
-          "Is equipped with either Orbital Bombardment or one Pin Point attack (may be chosen at the start of battle)"
+          "Is equipped with either Orbital Bombardment oder one Pin Point attack (may be chosen at the start of battle)"
         ]
       },
       {
@@ -143,7 +143,7 @@
           "Präzisionsschuss|0-1 2|"
         ],
         "specialRules": [
-          "Is equipped with either Orbital Bombardment or two Pin Point attacks (may be chosen at the start of battle)",
+          "Is equipped with either Orbital Bombardment oder two Pin Point attacks (may be chosen at the start of battle)",
           "Transport"
         ],
         "notes": "Kann bis zu zwölf Vampires und alle darin transportierten Einheiten mitführen."

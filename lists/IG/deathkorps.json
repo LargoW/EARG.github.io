@@ -46,7 +46,7 @@
       ],
       "unitRules": [
         "Heavy Armoured Vehicle (H-AV)",
-        "Shield Versprengenor"
+        "Schildbrecher"
       ]
     },
     {
@@ -55,7 +55,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     },
     {
@@ -109,7 +109,7 @@
       "formations": [
         {
           "name": "Leman Russ Squadron",
-          "units": "Four Leman Russ, Leman Russ Thunderers, or Leman Russ Annihilators",
+          "units": "Four Leman Russ, Leman Russ Thunderers, oder Leman Russ Annihilators",
           "extraUnits": [
             "Bane Wolves"
           ],
@@ -119,7 +119,7 @@
           "name": "Siege Infantry Company",
           "units": "DKoK Befehlshaber with Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
           "extraUnits": [
-            "Add four Rapiers and 16cm Trenches, or three Thudd Guns and 12cm Trenches: 75 points",
+            "Add four Rapiers and 16cm Trenches, oder three Thudd Guns and 12cm Trenches: 75 points",
             "Add up to two Scharfschützes: 25 points each"
           ],
           "points": 225
@@ -164,7 +164,7 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade or Stormsword",
+          "units": "One Baneblade oder Stormsword",
           "extraUnits": [
               "Replace a Baneblade with a Shadowsword: 25 points"
           ],
@@ -239,7 +239,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Add three Leman Russ, three Leman Russ Thunderers, or three Leman Russ Annihilators",
+        "description": "Add three Leman Russ, three Leman Russ Thunderers, oder three Leman Russ Annihilators",
         "points": "150 points"
       }
     ]

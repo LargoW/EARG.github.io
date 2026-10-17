@@ -13,7 +13,7 @@
     "They Shall Know No Fear"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Iron Hands, or one of their successor chapters, using their preferred operational methods."
+    "The following army list allows you to field an army based on the Iron Hands, oder one of their successor chapters, using their preferred operational methods."
   ],
   "units": [
     {
@@ -50,7 +50,7 @@
       ],
       "unitRules": [
         "Bionics",
-        "Extended Command",
+        "Erweiterte Befehlsreichweite",
         "Battlefield Repairs",
         "Lanze"
       ]
@@ -62,7 +62,7 @@
         "Warhound "
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     }
   ],
@@ -125,7 +125,7 @@
         },
         {
           "name": "Predators",
-          "units": "Four Predator Destructors and/or Predator Annihilators",
+          "units": "Four Predator Destructors und/oder Predator Annihilators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -189,7 +189,7 @@
         },
         {
           "name": "Warhound Pack",
-          "units": "Two Warhounds - Standard or Support Configuration",
+          "units": "Two Warhounds - Standard oder Support Configuration",
           "extraUnits": [
             "Werte beide Warhounds zum Tank Hunter Configuration: 50 Punkte auf"
           ],

@@ -139,7 +139,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Stubborn",
+          "Starrköpfig",
           "Verstärkte Panzerung",
           "Transport"
         ],
@@ -170,7 +170,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Kampfkanone||FxF",
+          "Kampfgeschütz||FxF",
           "AC-Zwillings-Schwere Bolter|2|FxF",
           "AC-Zwillings-Schwere Bolter||Left",
           "AC-Zwillings-Schwere Bolter||Right"
@@ -214,14 +214,14 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Kampfkanone||FxF",
+          "Kampfgeschütz||FxF",
           "AC-Zwillings-Schwere Bolter|2|FxF",
           "AC-Zwillings-Schwere Bolter||Left",
           "AC-Zwillings-Schwere Bolter||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Stubborn",
+          "Starrköpfig",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"

@@ -75,9 +75,9 @@
           "units": "One Baran Siegemaster with a Commissar, nine Siege Infantry",
           "extraUnits": [
               "40cm of Razor Wire, and 4cm of Trenches for each unit of INF in the formation: 50 points. Replace 24cm of Trenches with two Bunkers: 25 points",
-              "Five Siege Infantry, or two Scharfschützes, or two Sappers, or two Ogryns: 50 points",
-              "Four Rapiers, or three Mole Launcher Squads, or three Thudd Guns, or two Medusa Guns with two Gun Emplacements, or one Deathstrike: 75 points",
-              "One Defense Laser, or two Malcadors, or two Malcador Defenders: 150 points"
+              "Five Siege Infantry, oder two Scharfschützes, oder two Sappers, oder two Ogryns: 50 points",
+              "Four Rapiers, oder three Mole Launcher Squads, oder three Thudd Guns, oder two Medusa Guns with two Gun Emplacements, oder one Deathstrike: 75 points",
+              "One Defense Laser, oder two Malcadors, oder two Malcador Defenders: 150 points"
           ],
           "points": 225
         },
@@ -86,9 +86,9 @@
           "units": "One Baran Befehlshaber with a Commissar, nine Siege Infantry",
           "extraUnits": [
               "40cm of Razor Wire, and 4cm of Trenches for each unit of INF in the formation: 50 points. Replace 24cm of Trenches with two Bunkers: 25 points",
-              "Five Siege Infantry, or two Scharfschützes, or two Sappers, or two Ogryns: 50 points",
-              "Four Rapiers, or three Mole Launcher Squads, or three Thudd Guns, or two Medusa Guns with two Gun Emplacements, or one Deathstrike: 75 points",
-              "One Defense Laser, or two Malcadors, or two Malcador Defenders: 150 points"
+              "Five Siege Infantry, oder two Scharfschützes, oder two Sappers, oder two Ogryns: 50 points",
+              "Four Rapiers, oder three Mole Launcher Squads, oder three Thudd Guns, oder two Medusa Guns with two Gun Emplacements, oder one Deathstrike: 75 points",
+              "One Defense Laser, oder two Malcadors, oder two Malcador Defenders: 150 points"
           ],
           "points": 175
       }
@@ -110,7 +110,7 @@
           "name": "Macharius Company",
           "units": "One Macharius Command with a Commissar, two Macharius",
           "extraUnits": [
-              "Add up to three Hellhounds, Bane Wolves, or Devil Dogs: 25 points each"
+              "Add up to three Hellhounds, Bane Wolves, oder Devil Dogs: 25 points each"
           ],
           "points": 350
         },
@@ -131,7 +131,7 @@
           "name": "Howitzer Emplacement",
           "units": "Three Howitzers, three Gun Emplacements",
           "extraUnits": [
-              "Add three Howitzers and three Gun Emplacements (100 points), or add a Commissar, six Howitzers, and six Gun Emplacements (200 points)",
+              "Add three Howitzers and three Gun Emplacements (100 points), oder add a Commissar, six Howitzers, and six Gun Emplacements (200 points)",
               "Add one Heavy AA Gun and one Gun Emplacement: 50 points"
           ],
           "points": 175
@@ -145,7 +145,7 @@
         },
         {
           "name": "Light Artillery Emplacement",
-          "units": "Four Rapiers, four Thudd Guns, or four Mole Launchers, with 16cm Trenches",
+          "units": "Four Rapiers, four Thudd Guns, oder four Mole Launchers, with 16cm Trenches",
           "extraUnits": [
               "Add four units of the same type, 16cm Trenches, and a Commissar: 125 points"
           ],
@@ -155,7 +155,7 @@
           "name": "Griffon Battery",
           "units": "Three Griffons",
           "extraUnits": [
-              "Add up to three Hellhounds, Bane Wolves, or Devil Dogs: 25 points each"
+              "Add up to three Hellhounds, Bane Wolves, oder Devil Dogs: 25 points each"
           ],
           "points": 175
         },
@@ -164,7 +164,7 @@
           "units": "Six Death Riders",
           "extraUnits": [
               "Add six Death Riders and a Commissar: 100 points",
-              "Add up to three Hellhounds, Bane Wolves, or Devil Dogs: 25 points each"
+              "Add up to three Hellhounds, Bane Wolves, oder Devil Dogs: 25 points each"
           ],
           "points": 150
         },
@@ -172,7 +172,7 @@
           "name": "Siege Recon Squadron",
           "units": "Four Siegfried Light Tanks",
           "extraUnits": [
-              "Add up to three Hellhounds, Bane Wolves, or Devil Dogs: 25 points each"
+              "Add up to three Hellhounds, Bane Wolves, oder Devil Dogs: 25 points each"
           ],
           "points": 125
       },

@@ -24,7 +24,7 @@
         ],
         "specialRules": [
           "Befehlshaber",
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
@@ -67,7 +67,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Befehlshaber",
           "Teleport Homer",
           "Anführer"
@@ -197,7 +197,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -210,7 +210,7 @@
         "specialRules": [
           "Unmodifizierter Rettungswurf",
           "Oberbefehlshaber",
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Teleport Homer"
         ]
       },
@@ -1662,7 +1662,7 @@
           "Sturmbolter"
         ],
         "specialRules": [
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Transport"
         ],
         "notes": "Kann 1 Infanterieeinheit (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
@@ -2013,7 +2013,7 @@
           "Vierlings-Schwere Bolter|2"
         ],
         "specialRules": [
-          "Extended Command",
+          "Erweiterte Befehlsreichweite",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Transport"
@@ -2345,7 +2345,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Kampfkanone||FxF",
+          "Kampfgeschütz||FxF",
           "AC-Zwillings-Schwere Bolter|2|FxF",
           "AC-Zwillings-Schwere Bolter||Left",
           "AC-Zwillings-Schwere Bolter||Right"
@@ -2447,7 +2447,7 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "Kampfkanone||FxF",
+          "Kampfgeschütz||FxF",
           "AC-Zwillings-Schwere Bolter|2|FxF",
           "AC-Zwillings-Schwere Bolter||Left",
           "AC-Zwillings-Schwere Bolter||Right",
@@ -2925,7 +2925,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Astraeus is destroyed. All units within 5cm suffer a hit on a 5+."

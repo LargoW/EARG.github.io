@@ -198,7 +198,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten. Hybrid Aberrants and Genestealer Patriarch counts as two units."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten. Hybrid Aberrants and Genestealer Patriarch counts as two units."
       },
       {
         "name": "Coven Technical",
@@ -241,7 +241,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten. Hybrid Aberrants and Genestealer Patriarch counts as two units."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten. Hybrid Aberrants and Genestealer Patriarch counts as two units."
       },
       {
         "name": "Coven Thunderbolt Fighter",
@@ -408,7 +408,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Cult Land Transporter",
@@ -424,7 +424,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule or Beritten."
+        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Cult Baneblade",

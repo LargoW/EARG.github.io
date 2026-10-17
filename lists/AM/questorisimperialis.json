@@ -25,7 +25,7 @@
         "Knight-Errant"
       ],
       "unitRules": [
-        "Ion Shield (x)",
+        "Ionen Schild (x)",
         "Sturmangriff",
         "Heavy Armoured Vehicle (H-AV)",
         "Lanze"
@@ -115,7 +115,7 @@
     },
     {
       "name": "Knight World Retainer Formations",
-      "description": "Up to one Retainer Formation for each Core or Support Household.",
+      "description": "Up to one Retainer Formation for each Core oder Support Household.",
       "formations": [
         {
           "name": "Planetary Defense Platoon",
@@ -213,7 +213,7 @@
       },
       {
         "name": "Support Weapons",
-        "description": "Add three Rapiers or two Thudd Guns",
+        "description": "Add three Rapiers oder two Thudd Guns",
         "points": "50 points"
       },
       {

@@ -36,7 +36,7 @@
       ],
       "unitRules": [
         "Sabotage",
-        "Stubborn"
+        "Starrköpfig"
       ]
     },
     {
@@ -100,7 +100,7 @@
       "formations": [
         {
           "name": "Alpha Legion Marines",
-          "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Marines plus transport",
+          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Alpha Legion Marines plus transport",
           "extraUnits": [
             "Replace four Alpha Legion Marines with four Alpha Legion Havocs: 50 points",
             "Add up to two Alpha Legion Land Raiders: 50 points each",
@@ -113,7 +113,7 @@
         },
         {
           "name": "Cultist Coven",
-          "units": "One Aspiring Champion, nine Cultists and/or Mutants",
+          "units": "One Aspiring Champion, nine Cultists und/oder Mutants",
           "extraUnits": [
             "Add a Daemonic Icon to the Aspiring Champion: 25 points",
             "Add enough Land Transporters to transport the formation: 10 points each",
@@ -133,7 +133,7 @@
       "formations": [
         {
           "name": "Destroyers",
-          "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Destroyers",
+          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Alpha Legion Destroyers",
           "extraUnits": [
             "Oberbefehlshaber",
             "Predators"
@@ -142,7 +142,7 @@
         },
         {
           "name": "Headhunters",
-          "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Headhunters plus transport",
+          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Alpha Legion Headhunters plus transport",
           "extraUnits": [
             "Oberbefehlshaber",
             "Vindicators"
@@ -151,7 +151,7 @@
         },
         {
           "name": "Terminators",
-          "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Lernaean Terminators plus transport",
+          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Lernaean Terminators plus transport",
           "extraUnits": [
             "Oberbefehlshaber",
             "Dreadnoughts"

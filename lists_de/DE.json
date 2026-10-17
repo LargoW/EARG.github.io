@@ -347,7 +347,7 @@
         ],
         "specialRules": [
             "Damage Capacity 3",
-            "Shadowfields 2",
+            "Schattenfelder2",
             "Antigrav",
             "Transport",
             "Wind-Swift"
@@ -369,7 +369,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Shadowfields 2",
+          "Schattenfelder2",
             "Antigrav",
             "Wind-Swift"
         ],
@@ -388,7 +388,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Shadowfields 3",
+          "Schattenfelder3",
           "Furchtlos",
           "Sprungmodule",
           "Verstärkte Panzerung",
@@ -409,7 +409,7 @@
         ],
         "specialRules": [
           "Damage Capacity 5",
-          "Shadowfields 4",
+          "Schattenfelder4",
           "Planetfall",
           "Hilfstransportschiff",
           "Verstärkte Panzerung",
@@ -417,7 +417,7 @@
           "Transport"
         ],
         "notes": "Kann bis zu zehn Infanterieeinheiten transportieren. Grotesken zählen jeweils als zwei Einheiten. Zusätzlich kann es bis zu fünf leichte oder gepanzerte Fahrzeuge oder ein Vessel of Pain oder eine Barge of Pleasure transportieren.",
-        "crit": "The Executioner takes an additional damage. D3 random units inside takes a hit."
+        "crit": "The Executioner takes an additional damage. W3 random units inside takes a hit."
       }
     ]
   }

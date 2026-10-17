@@ -71,7 +71,7 @@
           "Reaver Titan, Goth Class"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     }
   ],
@@ -137,7 +137,7 @@
 
         {
           "name": "Predators",
-          "units": "Four Predator Destructors and/or Predator Annihilators",
+          "units": "Four Predator Destructors und/oder Predator Annihilators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -175,7 +175,7 @@
         },
         {
           "name": "Centurions",
-          "units": "Four Assault and/or Devastator Centurions",
+          "units": "Four Assault und/oder Devastator Centurions",
           "extraUnits": [
             "Achilles",
             "Land Raider Transport",
@@ -309,8 +309,8 @@
         "description": "Der Verband darf statt normaler Rhinos Siege Rhinos einsetzen oder „plus transport“ durch Space Marine Rapiers oder Space Marine Thunderfires ersetzen.",
         "points": [
           "25 points for Siege Rhinos",
-          "25 points for two Rapiers or two Thunderfires",
-          "100 points for four Rapiers or four Thunderfires"
+          "25 points for two Rapiers oder two Thunderfires",
+          "100 points for four Rapiers oder four Thunderfires"
         ]
       },
       {

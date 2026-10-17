@@ -46,7 +46,7 @@
       ],
       "unitRules": [
         "Heavy Armoured Vehicle (H-AV)",
-        "Shield Versprengenor"
+        "Schildbrecher"
       ]
     },
     {
@@ -55,7 +55,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     },
     {
@@ -109,7 +109,7 @@
       "formations": [
         {
           "name": "Leman Russ Squadron",
-          "units": "Four Leman Russ, Leman Russ Thunderers, or Leman Russ Annihilators",
+          "units": "Four Leman Russ, Leman Russ Thunderers, oder Leman Russ Annihilators",
           "extraUnits": [
             "Bane Wolves"
           ],
@@ -164,7 +164,7 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade or Stormsword",
+          "units": "One Baneblade oder Stormsword",
           "extraUnits": [
               "Ersetze 1 Baneblade durch a Shadowsword: 25 Punkte"
           ],

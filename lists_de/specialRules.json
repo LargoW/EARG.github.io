@@ -3,7 +3,7 @@
     {
       "title": "Heavy Armoured Vehicle (H-AV)",
       "description": [
-        "Einheiten des Typs H-AV können zwei Schadenspunkte erleiden, bevor sie zerstört werden, und zählen für Überzahl, Beschussmarken, die Anzahl der Angriffe im Nahkampf, die Trefferverteilung und die maximale Anzahl von Einheiten in Basekontakt als zwei Einheiten. Wenn H-AVs von Waffen getroffen werden, die mehrere Schadenspunkte verursachen (z. B. TK(D3)), gelten sie als WE. Außerdem können H-AVs kritisch getroffen werden. Wird ein Kritischer Treffer gewürfelt, wird die Einheit ohne weitere Auswirkungen zerstört. H-AVs können durch Punktziel-Angriffe anvisiert werden; diese zielen jedoch nicht auf einzelne Modelle. Stattdessen werden die Treffer innerhalb des Verbands zufällig verteilt. In allen anderen Belangen werden H-AVs wie normale gepanzerte Fahrzeuge behandelt."
+        "Einheiten des Typs H-AV können zwei Schadenspunkte erleiden, bevor sie zerstört werden, und zählen für Überzahl, Beschussmarken, die Anzahl der Angriffe im Nahkampf, die Trefferverteilung und die maximale Anzahl von Einheiten in Basekontakt als zwei Einheiten. Wenn H-AVs von Waffen getroffen werden, die mehrere Schadenspunkte verursachen (z. B. TK(W3)), gelten sie als WE. Außerdem können H-AVs kritisch getroffen werden. Wird ein Kritischer Treffer gewürfelt, wird die Einheit ohne weitere Auswirkungen zerstört. H-AVs können durch Punktziel-Angriffe anvisiert werden; diese zielen jedoch nicht auf einzelne Modelle. Stattdessen werden die Treffer innerhalb des Verbands zufällig verteilt. In allen anderen Belangen werden H-AVs wie normale gepanzerte Fahrzeuge behandelt."
       ]
     },
     {
@@ -13,20 +13,20 @@
       ]
     },
     {
-      "title": "Void Shields",
+      "title": "Null Schilde",
       "description": [
-        "Jeder Leere Schild verhindert automatisch einen Schadenspunkt und fällt anschliessend aus. Für durch Leere Schilde verhinderten Schaden werden keine Rüstungswürfe abgelegt und keine Beschussmarken zugeteilt. Sobald alle Schilde ausgeschaltet sind, kann die Kriegsmaschine normal beschädigt werden und für erzielte Treffer dürfen Schutzwürfe abgelegt werden. Treffer im Nahkampf ignorieren Leere Schilde; Einheiten, die ihren Feuergefechtswert verwenden, müssen jedoch zunächst alle Schilde ausschalten, bevor sie den Titanen beschädigen können.",
+        "Jeder Null Schild verhindert automatisch einen Schadenspunkt und fällt anschliessend aus. Für durch Leere Schilde verhinderten Schaden werden keine Rüstungswürfe abgelegt und keine Beschussmarken zugeteilt. Sobald alle Schilde ausgeschaltet sind, kann die Kriegsmaschine normal beschädigt werden und für erzielte Treffer dürfen Schutzwürfe abgelegt werden. Treffer im Nahkampf ignorieren Leere Schilde; Einheiten, die ihren Feuergefechtswert verwenden, müssen jedoch zunächst alle Schilde ausschalten, bevor sie den Titanen beschädigen können.",
         "Ausgeschaltete Leere Schilde können repariert werden. Jede Kriegsmaschine kann in der Endphase jeder Runde einen ausgefallenen Leeren Schild reparieren.",
         "Wenn sich eine Kriegsmaschine sammelt (durch die Aktion Halten oder Ordnen), kann sie den Wurf sowohl zum Reparieren Leerer Schilde als auch zum Entfernen von Beschussmarken verwenden. Zum Wiederherstellen Leerer Schilde darf jedoch nur die Hälfte der erzielten Punkte ausgegeben werden (Bruchteile werden aufgerundet). Bei einem Wurf von 3 kannst du beispielsweise drei Beschussmarken entfernen oder zwei Leere Schilde reparieren und eine Beschussmarke entfernen."
       ]
     },
     {
-      "title": "God Machine",
+      "title": "Göttermaschine",
       "description": [
-        "Kriegsmaschinen mit mindestens 8 DC unterliegen den Sonderregeln God Machine und Split Fire.",
+        "Kriegsmaschinen mit mindestens 8 DC unterliegen den Sonderregeln Göttermaschine und Split Fire.",
         "Die Erhabenheit dieser ehrfurchtgebietenden Konstrukte hat ihren Preis: Sollte eine solche Verkörperung der Macht ins Wanken geraten oder zerstört werden, werden die zu ihrer Unterstützung herbeigeeilten Streitkräfte schwer erschüttert.",
-        "Aus diesem Grund erhält jeder befreundete Verband eine Beschussmarke, sobald eine Einheit mit der Sonderregel God Machine aufgerieben wird (auch wenn sie bereits aufgerieben ist und eine Offensive verliert). Wird eine Einheit mit der Sonderregel God Machine zerstört, erhalten alle befreundeten Verbände auf dem Schlachtfeld D3 Beschussmarken.",
-        "Einheiten mit der Sonderregel God Machine sind selbst immun gegen diesen Effekt."
+        "Aus diesem Grund erhält jeder befreundete Verband eine Beschussmarke, sobald eine Einheit mit der Sonderregel Göttermaschine aufgerieben wird (auch wenn sie bereits aufgerieben ist und eine Offensive verliert). Wird eine Einheit mit der Sonderregel Göttermaschine zerstört, erhalten alle befreundeten Verbände auf dem Schlachtfeld W3 Beschussmarken.",
+        "Einheiten mit der Sonderregel Göttermaschine sind selbst immun gegen diesen Effekt."
       ]
     },
     {
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "title": "Shield Versprengenor",
+      "title": "Schildbrecher",
       "description": [
         "Jeder Schadenspunkt eines Treffers mit \u003ci\u003eShield Versprengenor\u003c/i\u003e schaltet zwei \u003ci\u003ePowerfields\u003c/i\u003e, \u003ci\u003eShadowfields\u003c/i\u003e oder \u003ci\u003eVoid Shields\u003c/i\u003e aus. Wird eine Einheit getroffen, der nur noch ein Feld verbleibt, wird dieses ausgeschaltet; überschüssiger Schaden wird nicht übertragen. Treffer mit \u003ci\u003eShield Versprengenor\u003c/i\u003e ignorieren ausserdem \u003ci\u003eDeflector Shields\u003c/i\u003e und \u003ci\u003eIon Shields\u003c/i\u003e."
       ]
@@ -84,19 +84,19 @@
       ]
     },
     {
-      "title": "Chivalry",
+      "title": "Ritterlichkeit",
       "description": [
         "Alle Ritterverbände erhalten einen Modifikator von +1 auf ihren Aktionstest, wenn sie eine Offensive oder einen Eilschritt durchführen, sowie +1 auf ihre Sammeltests."
       ]
     },
     {
-      "title": "Stubborn",
+      "title": "Starrköpfig",
       "description": [
-        "Jeder Verband, in dem sich mindestens eine Einheit mit Stubborn befindet, verringert den durch Beschussmarken verursachten Schaden, solange der Verband aufgerieben ist, um eins; verringert die Anzahl zusätzlicher Treffer durch einen verlorenen Nahkampf um eins; benötigt eine zusätzliche Beschussmarke, bevor er aufgerieben wird; und darf bei der Ermittlung der Unterdrückung eine Beschussmarke ignorieren."
+        "Jeder Verband, in dem sich mindestens eine Einheit mit Starrköpfig befindet, verringert den durch Beschussmarken verursachten Schaden, solange der Verband aufgerieben ist, um eins; verringert die Anzahl zusätzlicher Treffer durch einen verlorenen Nahkampf um eins; benötigt eine zusätzliche Beschussmarke, bevor er aufgerieben wird; und darf bei der Ermittlung der Unterdrückung eine Beschussmarke ignorieren."
       ]
     },
     {
-      "title": "Ion Shield (x)",
+      "title": "Ionen Schild (x)",
       "description": [
         "Ritter verwenden Ionenschilde, um Beschuss- und Feuergefechtsangriffe abzulenken. Wird ein Ritter von Fernbeschuss getroffen, darf er statt seines Rüstungswerts einen Schutzwurf mit dem in Klammern angegebenen Wert ablegen.",
         "Dieser Schutzwurf wird niemals modifiziert und ist von Treffern durch Makrowaffen, Lanzen und Titanenkiller unberührt (jeder Schadenspunkt eines Titanenkiller-Treffers muss einzeln abgewehrt werden; Treffer mit der Sonderregel Versprengen wirken normal). Verfügt die Einheit zusätzlich über Verstärkte Panzerung, darf sie einen misslungenen Schutzwurf mit ihrem Rüstungswert wiederholen, sofern der Treffer nicht von einer Makrowaffe, Lanze oder Titanenkillerwaffe verursacht wurde.",
@@ -110,9 +110,9 @@
       ]
     },
     {
-      "title": "Shield Piercer",
+      "title": "Schildbohrer",
       "description": [
-        "Waffen mit der Sonderregel <i>Shield Piercer</i> ignorieren Deflektorschilde, Ionenschilde, Energiefelder, Schattenfelder und Leere Schilde (Schattenfelder bieten weiterhin Deckung gegen Beschuss)."
+        "Waffen mit der Sonderregel <i>Schildbohrer</i> ignorieren Deflektorschilde, Ionenschilde, Energiefelder, Schattenfelder und Leere Schilde (Schattenfelder bieten weiterhin Deckung gegen Beschuss)."
       ]
     },
     {
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "title": "Extended Command",
+      "title": "Erweiterte Befehlsreichweite",
       "description": [
         "Verbände mit mindestens einer Einheit mit der Fähigkeit \u003ci\u003eExtended Command\u003c/i\u003e vergrössern die Reichweite, innerhalb derer Kommandeure in ihrem Verband andere Verbände bei einem gemeinsamen Angriff zum Folgen auffordern können, von 5 cm auf 15 cm (siehe 2.1.2)."
       ]
@@ -424,7 +424,7 @@
     {
       "title": "Shadowfields",
       "description": [
-        "Jedes Shadowfield verhindert automatisch einen Schadenspunkt und fällt anschliessend aus. Für durch Shadowfields verhinderten Schaden werden keine Rüstungswürfe abgelegt und keine Beschussmarken zugeteilt. Sobald alle Shadowfields eines Fahrzeugs oder einer Kriegsmaschine ausgeschaltet sind, kann es normal beschädigt werden und für erzielte Treffer dürfen Schutzwürfe abgelegt werden. Treffer im Nahkampf ignorieren Shadowfields; Einheiten, die ihren Feuergefechtswert verwenden, müssen jedoch erst alle Shadowfields ausschalten, bevor sie Schaden verursachen können. Solange ein Fahrzeug oder eine Kriegsmaschine mindestens ein funktionierendes Shadowfield hat, gilt es als verborgen (1.8.2); jeder Beschuss einschliesslich Flugabwehr ohne die Fähigkeit Deckung ignorieren erleidet dadurch einen Trefferwurfmodifikator von -1."
+        "Jedes Shadowfield verhindert automatisch einen Schadenspunkt und fällt anschliessend aus. Für durch Schattenfelderverhinderten Schaden werden keine Rüstungswürfe abgelegt und keine Beschussmarken zugeteilt. Sobald alle Schattenfeldereines Fahrzeugs oder einer Kriegsmaschine ausgeschaltet sind, kann es normal beschädigt werden und für erzielte Treffer dürfen Schutzwürfe abgelegt werden. Treffer im Nahkampf ignorieren Shadowfields; Einheiten, die ihren Feuergefechtswert verwenden, müssen jedoch erst alle Schattenfelderausschalten, bevor sie Schaden verursachen können. Solange ein Fahrzeug oder eine Kriegsmaschine mindestens ein funktionierendes Shadowfield hat, gilt es als verborgen (1.8.2); jeder Beschuss einschliesslich Flugabwehr ohne die Fähigkeit Deckung ignorieren erleidet dadurch einen Trefferwurfmodifikator von -1."
       ]
     },
     {
@@ -955,9 +955,9 @@
       "description": [
         "In der Strategiephase würfelt der Spieler der Daemonic Incursion 2d6 und verwendet den höheren Wert. Addiere ausserdem beide Würfel und sieh das Ergebnis in folgender Tabelle nach:",
         "(2-3) *Chaotisches Ebben* Alle Einheiten der Dämonenlegion (Freund und Feind) verlieren für den Rest der Runde Unverwundbar.",
-        "(4-5) *Die Winde lassen nach* Alle Spieler, die Dämonen beschwören können, verlieren 1D3 Punkte aus ihrem Pool der niederen Dämonen. Spieler der Daemonic Incursion verlieren zusätzlich D3. Ist der Pool leer, geschieht nichts.",
+        "(4-5) *Die Winde lassen nach* Alle Spieler, die Dämonen beschwören können, verlieren 1D3 Punkte aus ihrem Pool der niederen Dämonen. Spieler der Daemonic Incursion verlieren zusätzlich W3. Ist der Pool leer, geschieht nichts.",
         "(6-8) *Auge des Sturms* Es geschieht nichts.",
-        "(9-10) *Die Winde nehmen zu* Alle Spieler, die Dämonen beschwören können, erhalten 1D3 Punkte für ihren Pool der niederen Dämonen. Spieler der Daemonic Incursion erhalten zusätzlich D3.",
+        "(9-10) *Die Winde nehmen zu* Alle Spieler, die Dämonen beschwören können, erhalten 1D3 Punkte für ihren Pool der niederen Dämonen. Spieler der Daemonic Incursion erhalten zusätzlich W3.",
         "(11-12) *Chaotischer Ansturm* Alle Einheiten der Dämonenlegion (Freund und Feind) verbessern Unverwundbar für den Rest der Runde auf 5+."
       ]
     },
@@ -1013,7 +1013,7 @@
     {
       "title": "Sabotage",
       "description": [
-        "Vor dem Wurf für die erste Runde und vor Teleportationen darf der Spieler für jeden Verband mit mindestens einer Einheit mit der Sonderregel Sabotage einen gegnerischen Verband auswählen (beide Verbände müssen auf dem Schlachtfeld aufgestellt sein) und einen D6 würfeln.",
+        "Vor dem Wurf für die erste Runde und vor Teleportationen darf der Spieler für jeden Verband mit mindestens einer Einheit mit der Sonderregel Sabotage einen gegnerischen Verband auswählen (beide Verbände müssen auf dem Schlachtfeld aufgestellt sein) und einen W6 würfeln.",
         "Bei einem Wurf von 2-5 beginnt der gegnerische Verband mit einer Beschussmarke. Bei einer 6 beginnt er mit d3 Beschussmarken. Bei einer 1 erhält der Verband mit Sabotage eine Beschussmarke. Kein Verband darf mehr als einmal Ziel von Sabotage sein, auch wenn der erste Wurf eine 1 ergibt."
       ]
     },
@@ -1156,7 +1156,7 @@
     {
       "title": "Mob Rule",
       "description": [
-        "Orks glauben, dass sie immer eine Chance auf den Sieg haben, solange noch eine ganze Menge von ihnen gemeinsam kämpfen (am besten etwas mehr, als sie zählen können), ganz gleich, wie schlecht die Chancen stehen. Deshalb erhalten Ork-Verbände mit mehr als fünf Einheiten (also mehr, als an einer Hand abzählbar sind; Grotz und Big Gunz werden nicht mitgezählt) einen Modifikator von +1 auf Sammelwürfe. Verbände mit mehr als 10 solchen Einheiten erhalten einen Modifikator von +2. Für diese Regel zählt jeder Punkt anfangs vorhandener Schadenskapazität einer Kriegsmaschine als eine Einheit. Kriegsmaschinen mit der Sonderregel God Machine gelten immer als hätten sie mehr als 10 Einheiten."
+        "Orks glauben, dass sie immer eine Chance auf den Sieg haben, solange noch eine ganze Menge von ihnen gemeinsam kämpfen (am besten etwas mehr, als sie zählen können), ganz gleich, wie schlecht die Chancen stehen. Deshalb erhalten Ork-Verbände mit mehr als fünf Einheiten (also mehr, als an einer Hand abzählbar sind; Grotz und Big Gunz werden nicht mitgezählt) einen Modifikator von +1 auf Sammelwürfe. Verbände mit mehr als 10 solchen Einheiten erhalten einen Modifikator von +2. Für diese Regel zählt jeder Punkt anfangs vorhandener Schadenskapazität einer Kriegsmaschine als eine Einheit. Kriegsmaschinen mit der Sonderregel Göttermaschine gelten immer als hätten sie mehr als 10 Einheiten."
       ]
     },
     {

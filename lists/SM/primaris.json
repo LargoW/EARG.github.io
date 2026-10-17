@@ -49,7 +49,7 @@
       "unitRules": [
         "Lanze",
         "Overlord Insertion",
-        "Void Shields"
+        "Null Schilde"
       ]
     }
   ],
@@ -59,7 +59,7 @@
       "formations": [
         {
           "name": "Battle Line Squad",
-          "units": "Four Intercessors, Assault Intercessors or Hellblasters",
+          "units": "Four Intercessors, Assault Intercessors oder Hellblasters",
           "extraUnits": [
             "Close Support",
             "Befehlshaber",
@@ -112,7 +112,7 @@
       "formations": [
         {
           "name": "Fire Support Squad",
-          "units": "Three Aggressors or three Eradicators",
+          "units": "Three Aggressors oder three Eradicators",
           "extraUnits": [
             "Close Support",
             "Befehlshaber",
@@ -140,14 +140,14 @@
         },
         {
           "name": "Storm Speeders",
-          "units": "Three Storm Speeders, Hammerstrike or Thunderstrike configuration",
+          "units": "Three Storm Speeders, Hammerstrike oder Thunderstrike configuration",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Gladiators",
-          "units": "Four Gladiators, Lancer or Reaper configuration",
+          "units": "Four Gladiators, Lancer oder Reaper configuration",
           "extraUnits": [
           ],
           "points": 250
@@ -200,7 +200,7 @@
       },
       {
         "name": "Transports",
-        "description": "Add any number of Impulsors or Repulsors, up to the number required to transport the formation",
+        "description": "Add any number of Impulsors oder Repulsors, up to the number required to transport the formation",
         "options": [
           {
             "description": "Repulsors",

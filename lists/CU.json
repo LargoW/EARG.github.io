@@ -243,7 +243,7 @@
           "Verstärkte Panzerung",
           "Antigrav"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Terminator unit oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Custodian Land Raider",
@@ -261,7 +261,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport one Terminator unit oder two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Null-Maiden Rhino",
@@ -277,7 +277,7 @@
           "Furchtlos",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
       },
       {
         "name": "Null-Maiden Hunter",
@@ -311,7 +311,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport eight infantry units or Dreadnaughts. Terminators and Dreadnoughts count as two units each. Critical Hit Effect: The unit and all units being carried are destroyed."
+        "notes": "May transport eight infantry units oder Dreadnaughts. Terminators and Dreadnoughts count as two units each. Critical Hit Effect: The unit and all units being carried are destroyed."
       }
     ]
   }

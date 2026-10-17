@@ -54,7 +54,7 @@
       "formations": [
         {
           "name": "Custodes Guardian Squad",
-          "units": "Two Sagittarum plus either Two Guardian OR Two Sentinel Guard and 2 Venerable Land Raiders or 2 Coronus",
+          "units": "Two Sagittarum plus either Two Guardian OR Two Sentinel Guard and 2 Venerable Land Raiders oder 2 Coronus",
           "upgrades": [
             "Befehlshaber"
           ],
@@ -78,7 +78,7 @@
         },
         {
           "name": "Dreadnaught Wing",
-          "units": "3 of the following in any combination: Contemptor Dreadnought Achilles or Telemon Heavy Dreadnoughts",
+          "units": "3 of the following in any combination: Contemptor Dreadnought Achilles oder Telemon Heavy Dreadnoughts",
           "upgrades": [
             "Dreadnaught"
           ],

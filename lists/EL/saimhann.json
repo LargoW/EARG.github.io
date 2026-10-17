@@ -54,8 +54,8 @@
         "unitRules": [
             "Holofields (x)",
             "Lanze",
-            "Shield Piercer",
-            "Shield Versprengenor",
+            "Schildbohrer",
+            "Schildbrecher",
             "Wind-Swift"
         ]
     },
@@ -83,7 +83,7 @@
         },
         {
           "name": "0-1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked oder damaged in any way. ",
           "points": 50
         }
       ]
@@ -96,7 +96,7 @@
                 "name": "Wild Rider Warhost",
                 "units": "Eight Saim-Hann Wild Riders, Saim-Hann Beritten Farseer",
                 "extraUnits": [
-                    "Replace up to three Wild Riders with Saim-Hann Vypers and/or Shroud Runners: Free",
+                    "Replace up to three Wild Riders with Saim-Hann Vypers und/oder Shroud Runners: Free",
                     "(0-1 per army) Replace one unit of Wild Riders with a Wild Rider Chieftain: 50 points",
                     "Add up to two Saim-Hann Hornets: 50 points each"
                 ],
@@ -106,14 +106,14 @@
                 "name": "Beritten Guardian Warhost",
                 "units": "Three Wave Serpents, Farseer, five Guardians",
                 "extraUnits": [
-                    "Replace two Eldar Guardians with two Eldar Heavy Weapon Platforms (Free) or one Wraithguards (25 points)",
+                    "Replace two Eldar Guardians with two Eldar Heavy Weapon Platforms (Free) oder one Wraithguards (25 points)",
                     "Add one Firestorm: 50 points"
                 ],
                 "points": 250
             },
             {
                 "name": "Aspect Warrior Warhost",
-                "units": "Eight Shining Spears and/or Swooping Hawks",
+                "units": "Eight Shining Spears und/oder Swooping Hawks",
                 "extraUnits": [
                     "Add up to two Exarchs: 25 points each"
                 ],
@@ -130,7 +130,7 @@
                 "name": "Wild Rider Troupe",
                 "units": "Six Saim-Hann Wild Riders",
                 "extraUnits": [
-                    "Replace up to three Wild Riders with Saim-Hann Vypers and/or Shroud Runners: Free",
+                    "Replace up to three Wild Riders with Saim-Hann Vypers und/oder Shroud Runners: Free",
                     "Add up to two Saim-Hann Hornets: 50 points each"
                 ],
                 "points": 200
@@ -147,7 +147,7 @@
                 "name": "Engines of Vaul",
                 "units": "One Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
                 "extraUnits": [
-                    "Add up to two Cobra, Scorpion, and/or Storm Serpent: 200 points each"
+                    "Add up to two Cobra, Scorpion, und/oder Storm Serpent: 200 points each"
                 ],
                 "points": 250
             },

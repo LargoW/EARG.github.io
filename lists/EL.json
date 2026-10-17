@@ -202,7 +202,7 @@
                 "Vibro Cannon|0-1",
                 "Support D-Cannon|0-1"
             ],
-            "notes": "Armed with either a Vibro Cannon or a Support D-Cannon"
+            "notes": "Armed with either a Vibro Cannon oder a Support D-Cannon"
         },
         {
             "name": "Eldar Rangers",
@@ -525,7 +525,7 @@
             ],
             "specialRules": [
                 "Antigrav",
-                "Transport may carry one unit of INF without Sprungmodule or Beritten."
+                "Transport may carry one unit of INF without Sprungmodule oder Beritten."
             ]
         },
         {
@@ -627,7 +627,7 @@
                 "Antigrav",
                 "Transport"
             ],
-            "notes": "May carry up to two of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Swooping Hawks, Wraithblades or Wraithguards. Wraithblades and Wraithguards take two spaces each."
+            "notes": "May carry up to two of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Swooping Hawks, Wraithblades oder Wraithguards. Wraithblades and Wraithguards take two spaces each."
         },
         {
             "name": "Falcon",
@@ -644,7 +644,7 @@
                 "Antigrav",
                 "Transport"
             ],
-            "notes": "May carry up to one of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers or Swooping Hawks."
+            "notes": "May carry up to one of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
         },
         {
             "name": "Fire Prism",
@@ -702,7 +702,7 @@
                 "Antigrav",
                 "Transport"
             ],
-            "notes": "May carry up to one of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers or Swooping Hawks."
+            "notes": "May carry up to one of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
         },
         {
             "name": "Lynx",
@@ -837,7 +837,7 @@
                 "Geländegängig",
                 "Teleport"
             ],
-            "notes": "Skathach Wraithknights are armed with either a Twin Deathshroud Cannon or Twin Inferno Lanze."
+            "notes": "Skathach Wraithknights are armed with either a Twin Deathshroud Cannon oder Twin Inferno Lanze."
         },
         {
             "name": "Wraithknight",
@@ -858,7 +858,7 @@
                 "Furchtlos",
                 "Geländegängig"
             ],
-            "notes": "Must be armed with either Twin Heavy Wraithcannons, Ghostglaive and Scattershield, or a Suncannon. Spec[*]: Scattershield grants the model Verstärkte Panzerung."
+            "notes": "Must be armed with either Twin Heavy Wraithcannons, Ghostglaive and Scattershield, oder a Suncannon. Spec[*]: Scattershield grants the model Verstärkte Panzerung."
         },
         {
             "name": "Revenant Titan",

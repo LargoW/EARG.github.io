@@ -5,9 +5,9 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_QuestorisMechanicus",
   "strategy": "Questoris Mechanicus-Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Alle Verbände haben einen Initiativwert von 2+. Außerdem unterliegen alle Knight-Banner-Verbände der Sonderregel „Chivalry“. ",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 2+. Außerdem unterliegen alle Knight-Banner-Verbände der Sonderregel „Ritterlichkeit“. ",
   "specialRules": [
-    "Chivalry"
+    "Ritterlichkeit"
   ],
   "usage": [
     "Diese Armeeliste ermöglicht es dir, eine Armee des Questoris Mechanicus des Adeptus Mechanicus aufzustellen."
@@ -40,12 +40,12 @@
         "Acastus Relic Knight-Asterius"
       ],
       "unitRules": [
-        "Stubborn",
-        "Ion Shield (x)",
+        "Starrköpfig",
+        "Ionen Schild (x)",
         "Ionic Flare Shield",
         "Heavy Armoured Vehicle (H-AV)",
-        "Shield Piercer",
-        "Shield Versprengenor",
+        "Schildbohrer",
+        "Schildbrecher",
         "Sturmangriff",
         "Lanze"
       ]
@@ -73,7 +73,7 @@
       "formations": [
         {
           "name": "Questoris",
-          "units": "Two Questoris Knight-Paladins, Crusaders, Errants, Wardens or Gallants. May not mix configurations",
+          "units": "Two Questoris Knight-Paladins, Crusaders, Errants, Wardens oder Gallants. May not mix configurations",
           "extraUnits": [
             "Füge 1 Questoris Knight of the same configuration hinzu: 125 Punkte",
             "Füge 1 Twin Icarus Autocannon to je Questoris Knight in a formation mit Knight-Paladins, Crusaders oder Errants hinzu: 25 Punkte",
@@ -108,7 +108,7 @@
         },
         {
           "name": "Armiger",
-          "units": "Four Knight-Warglaives or three Knight-Helverins",
+          "units": "Four Knight-Warglaives oder three Knight-Helverins",
           "extraUnits": [
             "Füge 1 Armiger Knight of the same configuration hinzu: 50 Punkte",
             "Füge 1 Knight-Preceptor mit a Seneschal hinzu: 175 Punkte"
@@ -130,7 +130,7 @@
         },
         {
           "name": "Questoris Reliquae",
-          "units": "One Questoris Relic Knight-Styrix or Knight-Magaera",
+          "units": "One Questoris Relic Knight-Styrix oder Knight-Magaera",
           "extraUnits": [
             "Füge 1 Questoris Relic Knight of the same configuration hinzu: 175 Punkte",
             "Seneschal"
@@ -146,7 +146,7 @@
         },
         {
           "name": "Acastus Reliquae",
-          "units": "One Acastus Relic Knight-Porphyrion or Knight-Asterius",
+          "units": "One Acastus Relic Knight-Porphyrion oder Knight-Asterius",
           "extraUnits": [
             "Füge 1 Acastus Relic Knight of the same configuaration hinzu: 225 Punkte",
             "Seneschal"

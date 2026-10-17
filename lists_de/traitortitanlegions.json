@@ -48,7 +48,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -69,7 +69,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 1",
+          "Null Schilde 1",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -92,11 +92,11 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Death Storm or Plasma Furnace"
+          "Must be armed with either Death Storm oder Plasma Furnace"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "The unit takes a point of damage."
@@ -115,7 +115,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -133,24 +133,24 @@
         "weapons": [
           "Anvilus Maschinenkanone Batterie",
           "Schwanzgeschütz",
-          "CARAPACE (choose one)",
+          "Rumpfbewaffung (wähle eine)",
           "Corruptos Chaos Kanone|0-1|FxF",
           "Plasma-Verbrenner|0-1|FxF",
           "Cyclone Kanone|0-1|FxF",
-          "ARMS (choose one)",
+          "Arme (wähle eine)",
           "2x Turboblaster||FwA",
           "2x Hex Kanone||FwA",
           "2x Plasma-Kremator||FwA"
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Chaos Reaver",
@@ -167,13 +167,13 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a D6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
         "name": "Reviler Titan",
@@ -192,11 +192,11 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Hex Cannon, Turbo Blaster or Plasma Cremator"
+          "Must be armed with either Hex Cannon, Turbo Blaster oder Plasma Cremator"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -216,11 +216,11 @@
         ],
         "specialRules": [
           "Damage Capacity 7",
-          "Void Shields 3",
+          "Null Schilde 3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Rot Cannon, Turbo Blaster or Plasma Cremator"
+          "Must be armed with either Rot Cannon, Turbo Blaster oder Plasma Cremator"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -241,11 +241,11 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Hex Cannon, Turbo Blaster or Plasma Cremator"
+          "Must be armed with either Hex Cannon, Turbo Blaster oder Plasma Cremator"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -265,11 +265,11 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Hex Cannon, Turbo Blaster or Coruscant Hail"
+          "Must be armed with either Hex Cannon, Turbo Blaster oder Coruscant Hail"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -288,10 +288,10 @@
           "Kampfkopf"
         ],
         "specialRules": [
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Damage Capacity 8",
-          "Void Shields 6",
+          "Null Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -315,14 +315,14 @@
           "Lustpeitsche"
         ],
         "specialRules": [
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Damage Capacity 8",
-          "Void Shields 6",
+          "Null Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either a Beam of Ecstasy, Plasma Incinerator, Cyclone Cannon or Beam Blaster"
+          "Must be armed with either a Beam of Ecstasy, Plasma Incinerator, Cyclone Cannon oder Beam Blaster"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -342,14 +342,14 @@
           "Seuchenflegel"
         ],
         "specialRules": [
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Damage Capacity 9",
-          "Void Shields 5",
+          "Null Schilde 5",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either a Plasma Incinerator, Cyclone Cannon or Beam Blaster"
+          "Must be armed with either a Plasma Incinerator, Cyclone Cannon oder Beam Blaster"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -370,14 +370,14 @@
           "Verdammnisfaust"
         ],
         "specialRules": [
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Damage Capacity 8",
-          "Void Shields 6",
+          "Null Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either a Hellstrike Cannon, Plasma Incinerator, Cyclone Cannon or Beam Blaster"
+          "Must be armed with either a Hellstrike Cannon, Plasma Incinerator, Cyclone Cannon oder Beam Blaster"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -396,14 +396,14 @@
           "Flak-Flammenkanone|3|"
         ],
         "specialRules": [
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Damage Capacity 8",
-          "Void Shields 6",
+          "Null Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either two Tzeentch Cannons, two Plasma Incinerators or two Beam Blasters"
+          "Must be armed with either two Tzeentch Cannons, two Plasma Incinerators oder two Beam Blasters"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -419,13 +419,13 @@
           "Plasma-Annihilator||FwA",
           "Schallvernichter|2|FxF",
           "Tempel der Versuchung",
-          "Kampfkanone|4|"
+          "Kampfgeschütz|4|"
         ],
         "specialRules": [
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Damage Capacity 10",
-          "Void Shields 8",
+          "Null Schilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
@@ -445,13 +445,13 @@
           "Devourer Kanone||FwA",
           "Schwerer Seuchenmörser|2|FxF",
           "Tempel der Verwesung",
-          "Kampfkanone|4|"
+          "Kampfgeschütz|4|"
         ],
         "specialRules": [
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Damage Capacity 11",
-          "Void Shields 7",
+          "Null Schilde 7",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
@@ -470,14 +470,14 @@
           "Höllensturmkanone||FwA",
           "Plasma-Annihilator||FwA",
           "Tempel des Zorns",
-          "Kampfkanone|4|",
+          "Kampfgeschütz|4|",
           "Zerfleischer"
         ],
         "specialRules": [
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Damage Capacity 10",
-          "Void Shields 8",
+          "Null Schilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
@@ -499,10 +499,10 @@
           "Flak-Flammenkanone|4|"
         ],
         "specialRules": [
-          "God Machine",
+          "Göttermaschine",
           "Split Fire",
           "Damage Capacity 10",
-          "Void Shields 8",
+          "Null Schilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",

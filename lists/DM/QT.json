@@ -46,9 +46,9 @@
          "Daemonic Focus",
         "Daemon Engine (x)",
         "Heavy Armoured Vehicle (H-AV)",
-        "Void Shields",
-        "Shield Piercer",
-        "Shield Versprengenor",
+        "Null Schilde",
+        "Schildbohrer",
+        "Schildbrecher",
         "Lanze"
       ]
     },
@@ -70,7 +70,7 @@
         "Chaos Warbringer"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     },
     {
@@ -93,7 +93,7 @@
           "units": "One Hellwright, eleven Chaos Squats",
           "extraUnits": [
             "Replace four Chaos Squats with four Phospexors: 25 points",
-            "Add two Krios Lightning, two Krios Venators, or one Ordinatus Hereticus: 125 points",
+            "Add two Krios Lightning, two Krios Venators, oder one Ordinatus Hereticus: 125 points",
             "Arch-Heretek",
             "The Kaban Machine",
             "Hell-Forge Transport"
@@ -104,7 +104,7 @@
     },
     {
       "name": "Daemonic Banner Formations",
-      "description": "Up to three for each Hell-Forge Core formation. Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations.",
+      "description": "Up to three for each Hell-Forge Core formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations.",
       "formations": [
         {
           "name": "Hell-Knights of Slaanesh",
@@ -172,9 +172,9 @@
         },
         {
           "name": "Armigers of Chaos Undivided",
-          "units": "Daemonic Pact, four Knight-Doomglaives or four Knight-Perfidors",
+          "units": "Daemonic Pact, four Knight-Doomglaives oder four Knight-Perfidors",
           "extraUnits": [
-            "Add an additional Knight-Doomglaive or Knight-Perfidor (formation may not mix configurations): 50 points"
+            "Add an additional Knight-Doomglaive oder Knight-Perfidor (formation may not mix configurations): 50 points"
           ],
           "points": 250
         }
@@ -204,7 +204,7 @@
           "name": "0-1 Ordinatus Hereticus Majoris",
           "units": "One Ordinatus Retlaxi",
           "extraUnits": [
-            "Upgrade the Ordinatus Retlaxi to an Ordinatus Temporia (25 points) or Ordinatus Cyclothrathe (50 points)",
+            "Upgrade the Ordinatus Retlaxi to an Ordinatus Temporia (25 points) oder Ordinatus Cyclothrathe (50 points)",
             "Oberbefehlshaber"
           ],
           "points": 425
@@ -251,7 +251,7 @@
     "items": [
       {
         "name": "(0-1 per army) Oberbefehlshaber",
-        "description": "Add an Arch-Heretek to a Hellwright unit or an Ordinatus Hereticus Majoris",
+        "description": "Add an Arch-Heretek to a Hellwright unit oder an Ordinatus Hereticus Majoris",
         "points": "100 points"
       },
       {

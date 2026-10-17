@@ -53,8 +53,8 @@
       "unitRules": [
           "Holofields (x)",
           "Lanze",
-          "Shield Piercer",
-          "Shield Versprengenor"
+          "Schildbohrer",
+          "Schildbrecher"
 
       ]
     },
@@ -99,7 +99,7 @@
         },
         {
           "name": "1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked oder damaged in any way. ",
           "extraUnits": [
             "Add an additional Wraithgate: 75 points"
           ],
@@ -274,7 +274,7 @@
     "items": [
       {
         "name": "0-1 Autarch",
-        "description": "Add an Eldar Autarch character to a Farseer or Aspect Warriors unit",
+        "description": "Add an Eldar Autarch character to a Farseer oder Aspect Warriors unit",
         "points": "75 points"
       },
       {
@@ -284,7 +284,7 @@
       },
       {
         "name": "Windriders",
-        "description": "Add up to three Vypers or Eldar Jetbikes",
+        "description": "Add up to three Vypers oder Eldar Jetbikes",
         "points": "25 points each"
       }
     ]

@@ -51,7 +51,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Void Shields"
+        "Null Schilde"
       ]
     },
     {
@@ -84,7 +84,7 @@
         },
         {
           "name": "Minervan Super-Heavy Company",
-          "units": "Three Baneblades, Stormblades, Stormswords, and/or Shadowswords, one with a Commissar-Captain",
+          "units": "Three Baneblades, Stormblades, Stormswords, und/oder Shadowswords, one with a Commissar-Captain",
           "extraUnits": [
             "Werte 1 Baneblade zu einem Stormhammer: 25 Punkte auf",
             "Oberbefehlshaber",
@@ -130,7 +130,7 @@
         },
         {
           "name": "Artillery Battery",
-          "units": "Three Basilisks, three Bombards or four Medusa",
+          "units": "Three Basilisks, three Bombards oder four Medusa",
           "extraUnits": [
             "Ersetze 3 Basilisks durch 3 Manticores: 25 Punkte"
           ],
@@ -152,7 +152,7 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade, Stormsword, Shadowsword, or Stormblade",
+          "units": "One Baneblade, Stormsword, Shadowsword, oder Stormblade",
           "extraUnits": [
               "Ersetze 1 Baneblade durch a Shadowsword: 25 Punkte"
           ],

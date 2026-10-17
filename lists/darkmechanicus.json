@@ -153,7 +153,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Sprungmodule or Beritten."
+        "notes": "May transport two infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Hell-Rhino",
@@ -168,7 +168,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one infantry unit without Sprungmodule or Beritten."
+        "notes": "May transport one infantry unit without Sprungmodule oder Beritten."
       },
       {
         "name": "Macrocarid Exploitator",
@@ -186,7 +186,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Sprungmodule or Beritten."
+        "notes": "May transport three infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Triaros Armoured Despoiler",
@@ -202,7 +202,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport six infantry units without Sprungmodule or Beritten."
+        "notes": "May transport six infantry units without Sprungmodule oder Beritten."
       },
       {
         "name": "Krios Lightning",
@@ -254,7 +254,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -277,11 +277,11 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator or Twin Hades Autocannon.",
+        "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator oder Twin Hades Autocannon.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+."
       },
       {
@@ -303,7 +303,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -323,7 +323,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 4",
+          "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -343,7 +343,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Anführer",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -609,7 +609,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -630,14 +630,14 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)",
           "Transport"
         ],
-        "notes": "May transport fourteen infantry units without Beritten or Jet Packs. Chaos Spawn, Terminators and Dreadnoughts count as two units each.",
-        "crit": "The Shrine of Chaos takes one additional damage. D3 transported units takes a hit."
+        "notes": "May transport fourteen infantry units without Beritten oder Jet Packs. Chaos Spawn, Terminators and Dreadnoughts count as two units each.",
+        "crit": "The Shrine of Chaos takes one additional damage. W3 transported units takes a hit."
       },
       {
         "name": "Debaser",
@@ -728,7 +728,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -751,7 +751,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
