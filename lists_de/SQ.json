@@ -114,7 +114,7 @@
         "ff": 3,
         "weapons": [
           "Mehrere Laserkanonen",
-          "Multiple Schwere Bolter"
+          "Mehrere schwere Bolter"
         ],
         "specialRules": [
         ]
@@ -222,7 +222,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone|2",
-          "Zwillings-Schwerer Bolter"
+          "Zwillings-Schwerbolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -238,7 +238,7 @@
         "armour": 5,
         "ff": 6,
         "weapons": [
-          "Squat Thunderfire Kanonen"
+          "Squat-Donnerfeuerkanonen"
         ],
         "specialRules": [
         ]
@@ -264,7 +264,7 @@
         "speed": "Bomber[*]",
         "armour": 5,
         "weapons": [
-          "AC Zwillings-Laserkanone||FxF",
+          "Blackstar-Hurrikanbolter||FxF",
           "AC Raketenwerfer|3|"
         ],
         "specialRules": [
@@ -281,7 +281,7 @@
           "Ragnarok Kampfkanone|6|FxF",
           "Zwillings-Maschinenkanone|2|FxF",
           "Overlord Sperrfeuer||FxF",
-          "Flak Kanonen"
+          "Flakkanonen"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -334,7 +334,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Squat Mega Kanone"
+          "Squat-Megakanone"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -350,7 +350,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Squat Doomsday Kanone||FxF",
+          "Squat-Weltuntergangskanone||FxF",
           "Ragnarok Kampfkanone",
           "Zwillings-Laserkanone|6|FxF",
           "Sturmbolter Batterie"
@@ -374,9 +374,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Hellfury Kanone||FxF",
+          "Salvenkanone und Drohnen||FxF",
           "Ragnarok Kampfkanone",
-          "Doomstorm Rakete|6|FxF"
+          "AC-Zwillings-Shurikenkanone|6|FxF"
         ],
         "specialRules": [
           "Damage Capacity: 5",
@@ -395,10 +395,10 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Squat Doomsday Kanone||FxF",
+          "Squat-Weltuntergangskanone||FxF",
           "Ragnarok Kampfkanone|4|FxF",
           "Belagerungskanone||FxF",
-          "Plasma Rakete|4|FwA",
+          "Plasma-Rakete|4|FwA",
           "Sturmbolter Batterie"
         ],
         "specialRules": [
@@ -418,7 +418,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Squat Mjolnir Kanone||FxF",
+          "Squat-Mjolnir-Kanone||FxF",
           "Ragnarok Kampfkanone|2|",
           "Sturmbolter Batterie",
           "BATTLE CAR WEAPONS",

@@ -10,7 +10,7 @@
         "speed": "Fighter-Bomber",
         "armour": 6,
         "weapons": [
-          "AC Zwillings-Laserkanone||FxF",
+          "Blackstar-Hurrikanbolter||FxF",
           "AC Underwing Raketen||FxF"
         ],
         "specialRules": [
@@ -22,7 +22,7 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Zwillings-Laserkanone||FxF",
+          "Blackstar-Hurrikanbolter||FxF",
           "AC Maschinenkanone"
         ],
         "specialRules": [
@@ -47,9 +47,9 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Avenger Bolter Kanone||FxF",
-          "AC Zwillings-Laserkanone||FxF",
-          "AC Schwerer Stubber Turm"
+          "AC-Avenger-Bolterkanone||FxF",
+          "Blackstar-Hurrikanbolter||FxF",
+          "AC-Schwerer-Stubber-Turm"
         ],
         "specialRules": [
         ]
@@ -60,9 +60,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Zwillings-Laserkanone||FxF",
+          "Blackstar-Hurrikanbolter||FxF",
           "AC Bombe Racks||FxF",
-          "AC Zwillings-Schwerer Bolter Turm|2|"
+          "AC-Zwillings-Schwerbolterturm|2|"
         ],
         "specialRules": [
         ]
@@ -74,9 +74,9 @@
         "armour": 4,
         "weapons": [
           "AC Zwillings-Maschinenkanone|3|FxF",
-          "AC Rakete Batterie||FxF",
+          "AC-Raketenbatterie||FxF",
           "AC Zwillings-Sturmkanone Turm||",
-          "AC Zwillings-Schwerer Bolter Turm||"
+          "AC-Zwillings-Schwerbolterturm||"
         ],
         "specialRules": [
         ]
@@ -87,9 +87,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Zwillings-Laserkanone||FxF",
+          "Blackstar-Hurrikanbolter||FxF",
           "AC Colossus Bombe||FxF",
-          "AC Zwillings-Schwerer Bolter Turm|2|"
+          "AC-Zwillings-Schwerbolterturm|2|"
         ],
         "specialRules": [
         ]

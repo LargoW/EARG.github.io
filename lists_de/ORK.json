@@ -25,7 +25,7 @@
         "ff": 5,
         "weapons": [
           "Kustom-Blasta",
-          "Choppa Klingen"
+          "Choppa-Klingen"
         ],
         "specialRules": [
           "Beritten",
@@ -82,7 +82,7 @@
         "name": "Wyrdboy",
         "type": "CH",
         "weapons": [
-          "Faust of Gork"
+          "Faust des Gork"
         ],
         "specialRules": [
         ]
@@ -118,7 +118,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Grot-Knarren and Knives"
+          "Grot-Knarren und Messer"
         ],
         "specialRules": [
           "Super-Entbehrlich",
@@ -336,7 +336,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Kustom Kanone"
+          "Kustom-Kanone"
         ],
         "specialRules": [
           "Anführer",
@@ -439,7 +439,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Flak Geschütz"
+          "Flakgeschütz"
         ],
         "specialRules": [
           "Transport"
@@ -454,7 +454,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Flak Geschütz"
+          "Flakgeschütz"
         ],
         "specialRules": [
           "Transport"
@@ -469,7 +469,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Flak Geschütz"
+          "Flakgeschütz"
         ],
         "specialRules": [
           "Transport"
@@ -588,7 +588,7 @@
         "ff": 4,
         "weapons": [
           "Groß Geschütz",
-          "Flak Geschütz|3|"
+          "Flakgeschütz|3|"
         ],
         "specialRules": [
           "Damage Capacity 3"
@@ -603,7 +603,7 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Skullhamma Kanone||FxF",
+          "Höllenzornkanone||FxF",
           "Groß Geschütz||FxF",
           "Skorcha|2|FxF"
         ],
@@ -643,13 +643,13 @@
         "weapons": [
           "'ED (choose one)",
           "Blick des Mork|0-1|",
-          "Blick of Gork|0-1|",
+          "Blick des Gork|0-1|",
           "ARMS (choose two)",
           "Superknarre|1-2|FxF",
           "Killa-Spalta|0-1|FxF",
           "BELLY (choose one)",
           "Superknarre|0-1|FxF",
-          "Dakka Kanone|0-1|FxF"
+          "Dakka-Kanone|0-1|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -693,10 +693,10 @@
         "weapons": [
           "'ED (choose one)",
           "Blick des Mork|0-1|",
-          "Blick of Gork|0-1|",
+          "Blick des Gork|0-1|",
           "ARMS (choose two)",
           "Superknarre|0-2|FxF",
-          "Dakka Kanone|0-2|FxF",
+          "Dakka-Kanone|0-2|FxF",
           "Megaspalta|0-2|",
           "Zzap-Geschütz|0-2|FxF",
           "BELLY (choose one)",
@@ -751,10 +751,10 @@
           "Groß Geschütz|2|",
           "'ED (choose one)",
           "Blick des Mork|0-1|",
-          "Blick of Gork|0-1|",
+          "Blick des Gork|0-1|",
           "ARMS (choose two)",
           "Zwillings-Soopagun|0-2|FxF",
-          "Dakka-Dakka Kanone|0-2|FxF",
+          "Dakka-Dakka-Kanone|0-2|FxF",
           "Mega-Lobba|0-2|FxF",
           "Hebewerfer|0-1|",
           "BELLY (choose one)",
@@ -784,7 +784,7 @@
         "weapons": [
           "Groß Geschütz|4|",
           "Weirdboy-Turm",
-          "2x Grot-Guided Rakete||FwA",
+          "2x Grot-gelenkte Rakete||FwA",
           "Zwillings-Supa-Zzap-Geschütz||FwA",
           "Soopagunz Belly Batterie||FxF",
           "Kampfarme"
@@ -818,7 +818,7 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Zwillings-Supa Knarre|2|FxF"
+          "AC-Zwillings-Supa-Knarre|2|FxF"
         ],
         "specialRules": [
         ]
@@ -830,7 +830,7 @@
         "armour": 5,
         "weapons": [
           "AC Flakka",
-          "AC Zwillings-Supa Knarre||FxF",
+          "AC-Zwillings-Supa-Knarre||FxF",
           "AC Boom Bomben||FxF"
         ],
         "specialRules": [
@@ -843,7 +843,7 @@
         "armour": 4,
         "weapons": [
           "AC Flakka",
-          "AC Zwillings-Kustom Mega-Kanone||FxF"
+          "AC-Zwillings-Kustom-Megakanone||FxF"
         ],
         "specialRules": [
           "Power Fields 1D3"
@@ -855,8 +855,8 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Flakka-Dakka",
-          "AC Blasta Bomben||FxF"
+          "AC-Flakka-Dakka",
+          "AC-Blasta-Bomben||FxF"
         ],
         "specialRules": [
           "Damage Capacity 2"
@@ -871,7 +871,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Flakka-Dakka Türme",
+          "AC-Flakka-Dakka-Türme",
           "AC-Panzerknacker-Raketen|2|FxF"
         ],
         "specialRules": [
@@ -1126,7 +1126,7 @@
         "weapons": [
           "Groß Geschütz",
           "Zwillings-Große Knarre|2|",
-          "Zähne and Hörner"
+          "Zähne und Hörner"
         ],
         "specialRules": [
           "‘Ere we Go",
@@ -1144,7 +1144,7 @@
         "ff": 5,
         "weapons": [
           "Supa-Lobba",
-          "Zähne and Hörner"
+          "Zähne und Hörner"
         ],
         "specialRules": [
           "‘Ere we Go",
@@ -1159,9 +1159,9 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Flak Geschütz",
+          "Flakgeschütz",
           "Zwillings-Große Knarre|2|",
-          "Zähne and Hörner"
+          "Zähne und Hörner"
         ],
         "specialRules": [
           "‘Ere we Go",
@@ -1177,7 +1177,7 @@
         "ff": 5,
         "weapons": [
           "Zwillings-Große Knarre|3|",
-          "Fangzähne and Hörner",
+          "Fangzähne und Hörner",
           "Supa-Lobba"
         ],
         "specialRules": [

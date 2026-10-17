@@ -315,7 +315,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Skull Kanone"
+          "Schädelkanone"
         ],
         "specialRules": [
             "Daemonic Focus",
@@ -331,7 +331,7 @@
         "armour": 4,
         "cc": 2,
         "weapons": [
-          "Schwert of Blood",
+          "Schwert des Blutes",
           "Juggernaut"
         ],
         "specialRules": [
@@ -363,7 +363,7 @@
         "armour": 5,
         "cc": 2,
         "weapons": [
-          "Klauen and Fangzähne"
+          "Klauen und Fangzähne"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -505,7 +505,7 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Klauen and Fangzähne"
+          "Klauen und Fangzähne"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -551,7 +551,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Harvester Kanone",
+          "Ernterkanone",
           "Warpschwert"
         ],
         "specialRules": [

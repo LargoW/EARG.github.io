@@ -12,7 +12,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Stab of Radiance"
+          "Strahlenstab"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -30,7 +30,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Stab of Radiance"
+          "Strahlenstab"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -116,7 +116,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Gauss Blaster"
+          "Gauss-Blaster"
         ],
         "specialRules": [
           "Regeneration"
@@ -176,7 +176,7 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Wraith Klauen"
+          "Phantomklauen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -195,7 +195,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Gauss Kanonen"
+          "Gauss-Kanonen"
         ],
         "specialRules": [
           "Beritten",
@@ -211,7 +211,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schwerer Gauss Kanonen"
+          "Schwere Gauss-Kanonen"
         ],
         "specialRules": [
           "Beritten",
@@ -275,7 +275,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Particle Peitsche",
+          "Teilchenpeitsche",
           "Gauss-Flussbogen"
         ],
         "specialRules": [
@@ -294,8 +294,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Particle Flegel",
-          "Gravity Impuls"
+          "Teilchenflegel",
+          "Gravitationsimpuls"
         ],
         "specialRules": [
           "Furchtlos",
@@ -312,7 +312,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Gauss Flayers Batterie"
+          "Gauss-Flayer-Batterie"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -346,7 +346,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Gauss Kanonen"
+          "Gauss-Kanonen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -365,7 +365,7 @@
         "ff": 5,
         "weapons": [
           "Necron Doomsday Kanone",
-          "Gauss Flayers Batterie"
+          "Gauss-Flayer-Batterie"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -416,7 +416,7 @@
         "armour": 4,
         "ff": 5,
         "weapons": [
-          "Gauss-Exterminator"
+          "Gauss-Vernichter"
         ],
         "specialRules": [
           "Regeneration",
@@ -433,7 +433,7 @@
         "cc": 4,
         "ff": 2,
         "weapons": [
-          "Transdimensional Bolter",
+          "Transdimensionaler Bolter",
           "Entropische Berührung",
           "Feuersplitter"
         ],
@@ -453,7 +453,7 @@
         "armour": 4,
         "ff": 4,
         "weapons": [
-          "Particle Beschleuniger",
+          "Teilchenbeschleuniger",
           "Gauss-Flussbogen"
         ],
         "specialRules": [
@@ -474,7 +474,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Particle Peitsche|2|",
+          "Teilchenpeitsche|2|",
           "Gauss-Flussbogen"
         ],
         "specialRules": [
@@ -516,8 +516,8 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Gauss Flux Batterie",
-          "Harvester Ranken"
+          "Gauss-Flussbatterie",
+          "Ernteranken"
         ],
         "specialRules": [
           "Damage Capacity 6",

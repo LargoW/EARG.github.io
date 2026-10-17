@@ -110,7 +110,7 @@
         "ff": 5,
         "weapons": [
           "Arcane Kanonen|2|FwA",
-          "Blick of Tzeentch||FwA",
+          "Blick des Tzeentch||FwA",
           "Dämon Maw"
         ],
         "specialRules": [
@@ -132,7 +132,7 @@
         "ff": 3,
         "weapons": [
           "Anvilus Maschinenkanone Batterie",
-          "Guntail",
+          "Schwanzgeschütz",
           "CARAPACE (choose one)",
           "Corruptos Chaos Kanone|0-1|FxF",
           "Plasma-Verbrenner|0-1|FxF",
@@ -162,7 +162,7 @@
         "weapons": [
           "Todessturm|2|FwA",
           "Verdammnisbrenner||FxF",
-          "Guntail",
+          "Schwanzgeschütz",
           "Kampfkopf"
         ],
         "specialRules": [
@@ -208,11 +208,11 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Rot Kanone|0-1|FwA",
+          "Fäulniskanone|0-1|FwA",
           "Turboblaster|0-1|FwA",
           "Plasma-Kremator|0-1|FwA",
-          "Plague Mörser||FxF",
-          "Plague Flegel"
+          "Seuchenmörser||FxF",
+          "Seuchenflegel"
         ],
         "specialRules": [
           "Damage Capacity 7",
@@ -237,7 +237,7 @@
           "Plasma-Kremator|0-1|FwA",
           "Verdammnisbrenner||FxF",
           "Verdammnisklaue",
-          "Guntail"
+          "Schwanzgeschütz"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -260,7 +260,7 @@
           "Hex Kanone|0-1|FwA",
           "Turboblaster|0-1|FwA",
           "Coruscant Hail|0-1|FwA",
-          "Strahl of Change||FwA",
+          "Strahl der Veränderung||FwA",
           "Flak-Flammenkanone"
         ],
         "specialRules": [
@@ -281,9 +281,9 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Kanone of Chaos||FwA",
-          "Havoc Sperrfeuer Rakete|6|FxF",
-          "Guntail",
+          "Kanone des Chaos||FwA",
+          "Havoc-Sperrfeuer-Rakete|6|FxF",
+          "Schwanzgeschütz",
           "Verdammnisfaust",
           "Kampfkopf"
         ],
@@ -306,10 +306,10 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Strahl of Ecstasy|0-1|FwA",
+          "Strahl der Ekstase|0-1|FwA",
           "Plasma-Verbrenner|0-1|FwA",
           "Cyclone Kanone|0-1|FwA",
-          "Strahl Blaster|0-1|FwA",
+          "Strahlblaster|0-1|FwA",
           "Gekoppelte Schallverwüster||FxF",
           "Musk Flegel",
           "Lustpeitsche"
@@ -336,10 +336,10 @@
         "weapons": [
           "Plasma-Verbrenner|0-1|FwA",
           "Cyclone Kanone|0-1|FwA",
-          "Strahl Blaster|0-1|FwA",
-          "Schwerer Plague Mörser||FxF",
+          "Strahlblaster|0-1|FwA",
+          "Schwerer Seuchenmörser||FxF",
           "Corruption Kanone||FxF",
-          "Plague Flegel"
+          "Seuchenflegel"
         ],
         "specialRules": [
           "God Machine",
@@ -361,12 +361,12 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Hellstrike Kanone|0-1|FwA",
+          "Höllenschlagkanone|0-1|FwA",
           "Plasma-Verbrenner|0-1|FwA",
           "Cyclone Kanone|0-1|FwA",
-          "Strahl Blaster|0-1|FwA",
-          "Havoc Sperrfeuer Rakete|6|FxF",
-          "Guntail",
+          "Strahlblaster|0-1|FwA",
+          "Havoc-Sperrfeuer-Rakete|6|FxF",
+          "Schwanzgeschütz",
           "Verdammnisfaust"
         ],
         "specialRules": [
@@ -391,8 +391,8 @@
         "weapons": [
           "Tzeentch Kanone|0-2|FwA",
           "Plasma-Verbrenner|0-2|FwA",
-          "Strahl Blaster|0-2|FwA",
-          "Strahl of Change||FxF",
+          "Strahlblaster|0-2|FwA",
+          "Strahl der Veränderung||FxF",
           "Flak-Flammenkanone|3|"
         ],
         "specialRules": [
@@ -415,7 +415,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Strahl of Rapture||FwA",
+          "Strahl der Verzückung||FwA",
           "Plasma-Annihilator||FwA",
           "Schallvernichter|2|FxF",
           "Tempel der Versuchung",
@@ -443,7 +443,7 @@
         "weapons": [
           "Fäulnissturm||FwA",
           "Devourer Kanone||FwA",
-          "Schwerer Plague Mörser|2|FxF",
+          "Schwerer Seuchenmörser|2|FxF",
           "Tempel der Verwesung",
           "Kampfkanone|4|"
         ],
@@ -467,7 +467,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Hellstorm Kanone||FwA",
+          "Höllensturmkanone||FwA",
           "Plasma-Annihilator||FwA",
           "Tempel des Zorns",
           "Kampfkanone|4|",
@@ -493,8 +493,8 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Zwillings-Strahl of Change||FwA",
-          "Havoc Warp Rakete|8|FwA",
+          "Zwillings-Strahl der Veränderung||FwA",
+          "Havoc-Warp-Rakete|8|FwA",
           "Tempel der Wandlung",
           "Flak-Flammenkanone|4|"
         ],

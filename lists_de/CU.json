@@ -46,7 +46,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Adrastus Bolter Caliver"
+          "Adrastus-Bolterkaliver"
         ],
         "notes": "Verstärkte Panzerung"
       },
@@ -70,7 +70,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Sentinel War Klinge"
+          "Sentinel-Kriegsklinge"
         ],
         "notes": "Verstärkte Panzerung"
       },
@@ -114,7 +114,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Lastrum Sturmbolter",
+          "Lastrum-Sturmbolter",
           "Energie-Waffen"
         ],
         "specialRules": [
@@ -148,8 +148,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Lastrum Bolter Kanone",
-          "Energie-Lances"
+          "Lastrum-Bolterkanone",
+          "AC-Zwillings-Laserkanone"
         ],
         "specialRules": [
           "Aufklärer",
@@ -165,7 +165,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Lastrum Sturmbolter",
+          "Lastrum-Sturmbolter",
           "Achilles Energielanze"
         ],
         "specialRules": [
@@ -184,7 +184,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Spiculus Bolter Werfer",
+          "Spiculus-Bolterwerfer",
           "Telemon-Faust|2|"
         ],
         "specialRules": [
@@ -220,7 +220,7 @@
         "ff": 4,
         "weapons": [
           "Zwillingsverbunden Iliastus Accelator Kanone",
-          "Zwillingsverbunden Lastrum Bolter Kanone"
+          "Zwillingsverbundene Lastrum-Bolterkanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -237,7 +237,7 @@
         "ff": 4,
         "weapons": [
           "Zwillingsverbunden Arachnus Blaze Kanone",
-          "Zwillingsverbunden Lastrum Bolter Kanone"
+          "Zwillingsverbundene Lastrum-Bolterkanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -254,7 +254,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone|2",
-          "Zwillings-Schwerer Bolter"
+          "Zwillings-Schwerbolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -301,9 +301,9 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "AC Zwillingsverbunden Lastrum Bolter Kanone|2|FxF",
+          "AC-zwillingsverbundene Lastrum-Bolterkanone|2|FxF",
           "AC Arachnus Schwerer Blaze Kanone|2|FxF",
-          "AC Spiculus Schwerer Bolter Werfer|2|FxF"
+          "AC-Spiculus-Schwerbolterwerfer|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 2",

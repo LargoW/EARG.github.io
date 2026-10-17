@@ -68,7 +68,7 @@
         "name": "Grand Apostle",
         "type": "CH",
         "weapons": [
-          "Dämonisch Bolter"
+          "Dämonischer Bolter"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -93,7 +93,7 @@
         "name": "Dark Apostle",
         "type": "CH",
         "weapons": [
-          "Dämonisch Bolter"
+          "Dämonischer Bolter"
         ],
         "specialRules": [
           "Inspirierend",
@@ -194,7 +194,7 @@
         "name": "Sorcerer Lord",
         "type": "CH",
         "weapons": [
-          "Warp Bolter"
+          "Warp-Bolter"
         ],
         "specialRules": [
           "Anführer",
@@ -218,7 +218,7 @@
         "name": "Alpha Legion Sorcerer",
         "type": "CH",
         "weapons": [
-          "Warp Bolter"
+          "Warp-Bolter"
         ],
         "specialRules": [
           "Befehlshaber",
@@ -282,7 +282,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Warp Bolter",
+          "Warp-Bolter",
           "Æther Klinge"
         ],
         "specialRules": [
@@ -303,8 +303,8 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Warp Bolter",
-          "Warp Krallen"
+          "Warp-Bolter",
+          "Warp-Klauen"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -325,7 +325,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Warp Bolter",
+          "Warp-Bolter",
           "Æther Klinge"
         ],
         "specialRules": [
@@ -347,7 +347,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Dämonisch Bolter",
+          "Dämonischer Bolter",
           "Rapturous Klinge"
         ],
         "specialRules": [
@@ -369,7 +369,7 @@
         "ff": 3,
         "weapons": [
           "Seuchenböe",
-          "Klinge of Rot"
+          "Klinge der Fäulnis"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -457,7 +457,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Soulreaper Kanone"
+          "Seelenschnitterkanone"
         ]
       },
       {
@@ -468,7 +468,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasma Geschütze",
+          "Plasmageschütze",
           "Ketten-Glaives"
         ]
       },
@@ -480,7 +480,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Bolter and Boarding Schilde"
+          "Bolter und Enterungsschilde"
         ]
       },
       {
@@ -491,7 +491,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasma Geschütze",
+          "Plasmageschütze",
           "Ketten-Glaives"
         ]
       },
@@ -525,7 +525,7 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Soulreaper Kanone|2|"
+          "Seelenschnitterkanone|2|"
         ]
       },
       {
@@ -579,7 +579,7 @@
         "ff": 4,
         "weapons": [
           "Schwerer Bolter",
-          "Banestrike Combi-Bolter"
+          "Banestrike-Kombibolter"
         ],
         "specialRules": [
           "Stubborn",
@@ -596,7 +596,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Plasma Pistolen",
+          "Plasmapistolen",
           "Kettenschwerter"
         ],
         "specialRules": [
@@ -611,7 +611,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Plasma Geschütze",
+          "Plasmageschütze",
           "Kettenschwerter"
         ],
         "specialRules": [
@@ -641,7 +641,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Rad Rakete Werfer"
+          "Radium-Raketenwerfer"
         ],
         "specialRules": [
           "Sprungmodule"
@@ -655,7 +655,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Rad Rakete Werfer"
+          "Radium-Raketenwerfer"
         ],
         "specialRules": [
           "Sprungmodule"
@@ -669,7 +669,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Rad Rakete Werfer"
+          "Radium-Raketenwerfer"
         ],
         "specialRules": [
           "Stubborn",
@@ -757,7 +757,7 @@
         "ff": 6,
         "weapons": [
           "Warpschrei",
-          "Warp Krallen"
+          "Warp-Klauen"
         ],
         "specialRules": [
           "Teleport",
@@ -790,7 +790,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Reaper Maschinenkanone|2|",
+          "Reaper-Maschinenkanone|2|",
           "Energie-Waffen"
         ],
         "specialRules": [
@@ -808,7 +808,7 @@
         "ff": 4,
         "weapons": [
           "Kombibolter",
-          "Lightning Klauen"
+          "Blitzklauen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -824,7 +824,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Cyclone Rakete Werfer",
+          "Cyclone-Raketenwerfer",
           "Energie-Waffen"
         ],
         "specialRules": [
@@ -877,7 +877,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Reaper Maschinenkanone|2|",
+          "Reaper-Maschinenkanone|2|",
           "Energie-Waffen"
         ],
         "specialRules": [
@@ -896,7 +896,7 @@
         "ff": 3,
         "weapons": [
           "Kombimelter",
-          "Lightning Klauen"
+          "Blitzklauen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -994,7 +994,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Reaper Maschinenkanone"
+          "Reaper-Maschinenkanone"
         ]
       },
       {
@@ -1148,7 +1148,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone|2|",
-          "Zwillings-Schwerer Bolter"
+          "Zwillings-Schwerbolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1166,7 +1166,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone|2|",
-          "Zwillings-Schwerer Bolter"
+          "Zwillings-Schwerbolter"
         ],
         "specialRules": [
           "Stubborn",
@@ -1203,7 +1203,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone|2|",
-          "Zwillings-Schwerer Bolter"
+          "Zwillings-Schwerbolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1221,7 +1221,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Reaper Maschinenkanone|2|"
+          "Reaper-Maschinenkanone|2|"
         ],
         "specialRules": [
           "Geländegängig",
@@ -1297,7 +1297,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Laserkanone",
-          "Zwillings-Warpflamer"
+          "Flammensturmkanone"
         ]
       },
       {
@@ -1352,7 +1352,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Medusa Phospex Geschütz",
+          "Medusa-Phospex-Geschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1446,7 +1446,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Reaper Maschinenkanone",
+          "Reaper-Maschinenkanone",
           "Energiefaust"
         ],
         "specialRules": [
@@ -1462,7 +1462,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Reaper Maschinenkanone",
+          "Reaper-Maschinenkanone",
           "Energiefaust"
         ],
         "specialRules": [
@@ -1508,7 +1508,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Zwillings-Schwerer Bolter",
+          "Zwillings-Schwerbolter",
           "Schwerer Flammenwerfer",
           "Belagerungsbohrer"
         ],
@@ -1573,7 +1573,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Zwillings-Reaper Maschinenkanone|2|",
+          "Zwillings-Reaper-Maschinenkanone|2|",
           "Zwillings-Schwerer Flammenwerfer"
         ],
         "specialRules": [
@@ -1609,8 +1609,8 @@
         "ff": 4,
         "weapons": [
           "Belagerungs-Kanone||FxF",
-          "Zwillings-Schwerer Bolter|3|FxF",
-          "Schwerer Flammenwerfer |2|"
+          "Zwillings-Schwerbolter|3|FxF",
+          "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",

@@ -94,7 +94,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Warp Bolter",
+          "Warp-Bolter",
           "Æther Klinge"
         ],
         "specialRules": [
@@ -157,7 +157,7 @@
         "ff": 5,
         "weapons": [
           "Schwerer Stubber|2|",
-          "Massiv Nahkampfwaffen"
+          "Massive Nahkampfwaffen"
         ],
         "specialRules": [
         ],
@@ -201,7 +201,7 @@
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Klauen and Fangzähne"
+          "Klauen und Fangzähne"
         ],
         "specialRules": [
           "Entbehrlich"
@@ -231,7 +231,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer Stubber Turm"
+          "Zwillings-Schwerer-Stubber-Turm"
         ],
         "specialRules": [
         ]

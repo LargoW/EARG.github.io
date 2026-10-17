@@ -12,8 +12,8 @@
         "armour": 6,
         "weapons": [
           "AC Ionenkanone",
-          "AC Zwillings-Raketen-Pod",
-          "AC Zwillings-Burst Kanone"
+          "AC-Zwillings-Raketenbehälter",
+          "Eldar-Energielanzen"
         ],
         "specialRules": [
         ]
@@ -24,8 +24,8 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Vierlings-Ionen Turm",
-          "AC Zwillings-Burst Kanone"
+          "Flakk-Raketenwerfer",
+          "Eldar-Energielanzen"
         ],
         "specialRules": [
         ]
@@ -36,9 +36,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Impuls Bombe Generator",
-          "AC Zwillings-Raketen-Pod",
-          "AC Zwillings-Burst Kanone"
+          "AC-Impulsbombengenerator",
+          "AC-Zwillings-Raketenbehälter",
+          "Eldar-Energielanzen"
         ],
         "specialRules": [
         ]
@@ -49,9 +49,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Zwillings-Ionenkanone",
-          "AC Zwillings-Raketen-Pod",
-          "AC Seeker Raketen"
+          "Höllenschneider-Kampfklaue",
+          "AC-Zwillings-Raketenbehälter",
+          "AC-Zielsuchraketen"
         ],
         "specialRules": [
           "Transport"
@@ -64,10 +64,10 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Zwillings-Railcannon",
-          "AC Zwillings-Raketen-Pod",
-          "AC Seeker Raketen",
-          "AC Zwillings-Burst Kanone"
+          "AC-Zwillings-Schienenkanone",
+          "AC-Zwillings-Raketenbehälter",
+          "AC-Zielsuchraketen",
+          "Eldar-Energielanzen"
         ],
         "specialRules": [
         ]
@@ -80,9 +80,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Zwillings-Raketen-Pod",
-          "AC Seeker Raketen",
-          "AC Zwillings-Burst Kanone"
+          "AC-Zwillings-Raketenbehälter",
+          "AC-Zielsuchraketen",
+          "Eldar-Energielanzen"
         ],
         "specialRules": [
           "Planetfall",

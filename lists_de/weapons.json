@@ -9,7 +9,7 @@
             ]
         },
         {
-            "name": "and one of the following",
+            "name": "und eine der folgenden Optionen",
             "modes": [
                 {
                 }
@@ -142,14 +142,14 @@
             ]
         },
         {
-            "name": "\u003eHatred of Krastellan\u003c",
+            "name": "\u003eHass auf Krastellan\u003c",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "\u003eLitany of Destruction\u003c",
+            "name": "\u003eLitanei der Zerstörung\u003c",
             "modes": [
                 {
                 }
@@ -344,7 +344,7 @@
             ]
         },
         {
-            "name": "AC Avenger Bolter Kanone",
+            "name": "AC-Avenger-Bolterkanone",
             "modes": [
                 {
                     "firepower": "3x AP6+/AT6+",
@@ -355,7 +355,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Avenger Bolter Kanone",
+            "name": "AC-Zwillings-Avenger-Bolterkanone",
             "modes": [
                 {
                     "firepower": "3x AP5+/AT5+",
@@ -400,7 +400,7 @@
             ]
         },
         {
-            "name": "AC Blackstar Raketen",
+            "name": "AC-Blackstar-Raketen",
             "modes": [
                 {
                     "firepower": "1BP",
@@ -413,7 +413,7 @@
             ]
         },
         {
-            "name": "AC Blasta Bomben",
+            "name": "AC-Blasta-Bomben",
             "modes": [
                 {
                     "firepower": "D3BP",
@@ -473,7 +473,7 @@
             ]
         },
         {
-            "name": "AC Combi-Bolter",
+            "name": "AC-Kombibolter",
             "modes": [
                 {
                     "firepower": "AA5+",
@@ -520,7 +520,7 @@
             ]
         },
         {
-            "name": "AC Flakka-Dakka",
+            "name": "AC-Flakka-Dakka",
             "modes": [
                 {
                     "firepower": "D3x AP5+/AA6+",
@@ -531,7 +531,7 @@
             ]
         },
         {
-            "name": "AC Flakka-Dakka Türme",
+            "name": "AC-Flakka-Dakka-Türme",
             "modes": [
                 {
                     "firepower": "D3+1x AP5+/AA6+",
@@ -576,7 +576,7 @@
             ]
         },
         {
-            "name": "AC Schwerer Stubber Turm",
+            "name": "AC-Schwerer-Stubber-Turm",
             "modes": [
                 {
                     "firepower": "AA6+",
@@ -587,7 +587,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Schwerer Stubber Turm",
+            "name": "AC-Zwillings-Schwerer-Stubber-Turm",
             "modes": [
                 {
                     "firepower": "AA5+",
@@ -598,7 +598,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Supa Knarre",
+            "name": "AC-Zwillings-Supa-Knarre",
             "modes": [
                 {
                     "firepower": "AP6+/AT6+/AA6+",
@@ -621,7 +621,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Ionenkanone",
+            "name": "AC-Zwillings-Ionenkanone",
             "modes": [
                 {
                     "firepower": "AP3+/AT4+/AA4+",
@@ -666,7 +666,7 @@
             ]
         },
         {
-            "name": "AC Impuls Bombe Generator",
+            "name": "AC-Impulsbombengenerator",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -691,7 +691,7 @@
             ]
         },
         {
-            "name": "AC Vierlings-Ionen Turm",
+            "name": "AC-Vierlings-Ionenturm",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA4+",
@@ -703,7 +703,7 @@
             ]
         },
         {
-            "name": "AC Reaper Maschinenkanone",
+            "name": "AC-Reaper-Maschinenkanone",
             "modes": [
                 {
                     "firepower": "AP4+/AT6+/AA6+",
@@ -714,7 +714,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Reaper Maschinenkanone",
+            "name": "AC-Zwillings-Reaper-Maschinenkanone",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+/AA6+",
@@ -737,7 +737,7 @@
             ]
         },
         {
-            "name": "AC Seeker Raketen",
+            "name": "AC-Zielsuchraketen",
             "modes": [
                 {
                     "firepower": "AT6+",
@@ -857,7 +857,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Burst Kanone",
+            "name": "AC-Zwillings-Salvenkanone",
             "modes": [
                 {
                     "firepower": "AA6+",
@@ -906,7 +906,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Schwerer Bolter Turm",
+            "name": "AC-Zwillings-Schwerbolterturm",
             "modes": [
                 {
                     "firepower": "AA5+",
@@ -954,7 +954,7 @@
             ]
         },
         {
-            "name": "AC Havoc Werfer",
+            "name": "AC-Havoc-Werfer",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -965,7 +965,7 @@
             ]
         },
         {
-            "name": "AC Hurricane Bolter",
+            "name": "AC-Hurrikanbolter",
             "modes": [
                 {
                     "firepower": "AP5+/AA5+",
@@ -976,7 +976,7 @@
             ]
         },
         {
-            "name": "Blackstar Hurricane Bolter",
+            "name": "Blackstar-Hurrikanbolter",
             "modes": [
                 {
                     "firepower": "AP5+/AA5+",
@@ -1029,7 +1029,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Laserkanone",
+            "name": "AC-Zwillings-Laserkanone",
             "modes": [
                 {
                     "firepower": "AT4+/AA4+",
@@ -1040,7 +1040,7 @@
             ]
         },
         {
-            "name": "AC Vierlings-Laserkanone",
+            "name": "AC-Vierlings-Laserkanone",
             "modes": [
                 {
                     "firepower": "AT3+/AA4+",
@@ -1051,7 +1051,7 @@
             ]
         },
         {
-            "name": "AC Spiculus Schwerer Bolter Werfer",
+            "name": "AC-Spiculus-Schwerbolterwerfer",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+/AA5+",
@@ -1060,7 +1060,7 @@
             ]
         },
         {
-            "name": "AC Zwillingsverbunden Lastrum Bolter Kanone",
+            "name": "AC-zwillingsverbundene Lastrum-Bolterkanone",
             "modes": [
                 {
                     "firepower": "2x AP4+/AT6+/AA5+",
@@ -1070,7 +1070,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Raketen-Pod",
+            "name": "AC-Zwillings-Raketenbehälter",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -1094,7 +1094,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Shurikenkanone",
+            "name": "AC-Zwillings-Shurikenkanone",
             "modes": [
                 {
                     "firepower": "AP4+/AA5+",
@@ -1106,7 +1106,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Railcannon",
+            "name": "AC-Zwillings-Schienenkanone",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -1131,7 +1131,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Void Lance",
+            "name": "AC-Zwillings-Leerenlanze",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -1155,7 +1155,7 @@
             ]
         },
         {
-            "name": "AC Void Minen",
+            "name": "AC-Leerenminen",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -1177,7 +1177,7 @@
             ]
         },
         {
-            "name": "AC Rakete Batterie",
+            "name": "AC-Raketenbatterie",
             "modes": [
                 {
                     "firepower": "2x AT5+",
@@ -1275,7 +1275,7 @@
             ]
         },
         {
-            "name": "Kaban Konversions Beamer",
+            "name": "Kaban-Konversionsstrahler",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -1288,7 +1288,7 @@
             ]
         },
         {
-            "name": "Kaban Versprengenor",
+            "name": "Kaban-Versprengenor",
             "modes": [
                 {
                     "firepower": "4x AP5+/AT6+",
@@ -1300,7 +1300,7 @@
             ]
         },
         {
-            "name": "Kaban Guntails",
+            "name": "Kaban-Schwanzgeschütze",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -1311,7 +1311,7 @@
             ]
         },
         {
-            "name": "Karacnos Mörser Batterie",
+            "name": "Karacnos-Mörserbatterie",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -1335,7 +1335,7 @@
             ]
         },
         {
-            "name": "Adrastus Bolter Caliver",
+            "name": "Adrastus-Bolterkaliver",
             "modes": [
                 {
                     "firepower": "2x AP5+",
@@ -1596,7 +1596,7 @@
             ]
         },
         {
-            "name": "Ancient Waffen",
+            "name": "Uralte Waffen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -1617,7 +1617,7 @@
             ]
         },
         {
-            "name": "Multi-Barreled Maschinenkanone",
+            "name": "Mehrläufige Maschinenkanone",
             "modes": [
                 {
                     "firepower": "2x AP5+/AT6+",
@@ -1646,7 +1646,7 @@
             ]
         },
         {
-            "name": "Avenger Gatlingkanone",
+            "name": "Rächer-Gatlingkanone",
             "modes": [
                 {
                     "firepower": "6x AP6+/AT6+",
@@ -1658,7 +1658,7 @@
             ]
         },
         {
-            "name": "Avenger Shuriken Katapulte",
+            "name": "Avenger-Shurikenkatapulte",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -1702,7 +1702,7 @@
             ]
         },
         {
-            "name": "Banestrike Combi-Bolter",
+            "name": "Banestrike-Kombibolter",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -1713,7 +1713,7 @@
             ]
         },
         {
-            "name": "2x Sperrfeuer Rakete",
+            "name": "2x Sperrfeuer-Rakete",
             "modes": [
                 {
                     "firepower": "6BP",
@@ -1870,7 +1870,7 @@
             ]
         },
         {
-            "name": "Strahl Blaster",
+            "name": "Strahlblaster",
             "modes": [
                 {
                     "firepower": "5x AP5+/AT3+",
@@ -1892,7 +1892,7 @@
             ]
         },
         {
-            "name": "Strahl of Change",
+            "name": "Strahl der Veränderung",
             "modes": [
                 {
                     "firepower": "2x MW3+",
@@ -1904,7 +1904,7 @@
             ]
         },
         {
-            "name": "Zwillings-Strahl of Change",
+            "name": "Zwillings-Strahl der Veränderung",
             "modes": [
                 {
                     "firepower": "2x MW2+",
@@ -1916,7 +1916,7 @@
             ]
         },
         {
-            "name": "Strahl of Ecstasy",
+            "name": "Strahl der Ekstase",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -1940,7 +1940,7 @@
             ]
         },
         {
-            "name": "Strahl of Energie",
+            "name": "Strahl der Energie",
             "modes": [
                 {
                     "firepower": "MW5+",
@@ -1951,7 +1951,7 @@
             ]
         },
         {
-            "name": "Strahl of Rapture",
+            "name": "Strahl der Verzückung",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -2067,7 +2067,7 @@
             ]
         },
         {
-            "name": "Bio-Säure-Gift Pods",
+            "name": "Bio-Säure-Giftkapseln",
             "modes": [
                 {
                     "firepower": "1BP",
@@ -2080,7 +2080,7 @@
             ]
         },
         {
-            "name": "Bio-Electric Feld",
+            "name": "Bioelektrisches Feld",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -2090,7 +2090,7 @@
             ]
         },
         {
-            "name": "Gaunt Bio-Kanone",
+            "name": "Gaunt-Biokanone",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -2123,7 +2123,7 @@
             ]
         },
         {
-            "name": "Bio-Energy Impuls",
+            "name": "Bioenergieimpuls",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -2165,7 +2165,7 @@
             ]
         },
         {
-            "name": "Bio-Plasmic Kanone",
+            "name": "Bioplasmakanone",
             "modes": [
                 {
                     "firepower": "2x MW5+",
@@ -2207,7 +2207,7 @@
             ]
         },
         {
-            "name": "Bio-Titan Bio-Kanone",
+            "name": "Bio-Titan-Biokanone",
             "modes": [
                 {
                     "firepower": "4x AP3+/AT4+",
@@ -2218,7 +2218,7 @@
             ]
         },
         {
-            "name": "Bio-Titan Bio-Kanone",
+            "name": "Bio-Titan-Biokanone",
             "modes": [
                 {
                     "firepower": "4x AP3+/AT4+",
@@ -2261,7 +2261,7 @@
             ]
         },
         {
-            "name": "Klinge of Rot",
+            "name": "Klinge der Fäulnis",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -2437,7 +2437,7 @@
             ]
         },
         {
-            "name": "Dragonfire Schwerer Bolter",
+            "name": "Dragonfire-Schwerbolter",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -2448,7 +2448,7 @@
             ]
         },
         {
-            "name": "Zwillings-Dragonfire Schwerer Bolter",
+            "name": "Zwillings-Dragonfire-Schwerbolter",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -2459,7 +2459,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Dragonfire Schwerer Bolter",
+            "name": "AC-Zwillings-Dragonfire-Schwerbolter",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -2493,7 +2493,7 @@
             ]
         },
         {
-            "name": "Schwerer Bolter Batterie",
+            "name": "Batterie schwerer Bolter",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -2611,7 +2611,7 @@
             ]
         },
         {
-            "name": "Burst Kanone and Drohnen",
+            "name": "Salvenkanone und Drohnen",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -2663,7 +2663,7 @@
             ]
         },
         {
-            "name": "Kanone of Chaos",
+            "name": "Kanone des Chaos",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -2720,7 +2720,7 @@
             ]
         },
         {
-            "name": "Cerastus Schock Lance",
+            "name": "Cerastus-Schocklanze",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -2870,26 +2870,6 @@
             ]
         },
         {
-            "name": "Kombibolter",
-            "modes": [
-                {
-                    "firepower": "Small Arms",
-                    "specialRules": [
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Kombimelter",
-            "modes": [
-                {
-                    "firepower": "Small Arms",
-                    "specialRules": [
-                    ]
-                }
-            ]
-        },
-        {
             "name": "Kombimelter",
             "modes": [
                 {
@@ -2911,7 +2891,7 @@
             ]
         },
         {
-            "name": "Conflagration Kanone",
+            "name": "Feuersturmkanone",
             "modes": [
                 {
                     "firepower": "1BP",
@@ -2935,7 +2915,7 @@
             ]
         },
         {
-            "name": "Corruptor Gatlingkanone",
+            "name": "Verderber-Gatlingkanone",
             "modes": [
                 {
                     "firepower": "6x AP6+/AT6+",
@@ -3025,7 +3005,7 @@
             ]
         },
         {
-            "name": "Cyclone Rakete Werfer",
+            "name": "Cyclone-Raketenwerfer",
             "modes": [
                 {
                     "firepower": "3x AP5+/AT6+",
@@ -3055,7 +3035,7 @@
             ]
         },
         {
-            "name": "Groß Klauen",
+            "name": "Große Klauen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -3067,7 +3047,7 @@
             ]
         },
         {
-            "name": "Massiv Klauen",
+            "name": "Massive Klauen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -3079,7 +3059,7 @@
             ]
         },
         {
-            "name": "Massiv Scything Krallen",
+            "name": "Massive Sensenklauen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -3091,7 +3071,7 @@
             ]
         },
         {
-            "name": "Monstrous Klauen",
+            "name": "Monströse Klauen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -3103,7 +3083,7 @@
             ]
         },
         {
-            "name": "Ripping Klauen",
+            "name": "Reißende Klauen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -3114,7 +3094,7 @@
             ]
         },
         {
-            "name": "Klauen and Fangzähne",
+            "name": "Klauen und Fangzähne",
             "modes": [
                 {
                     "firepower": "Assault Weapons"
@@ -3122,7 +3102,7 @@
             ]
         },
         {
-            "name": "Krootox Klauen",
+            "name": "Krootox-Klauen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -3182,7 +3162,7 @@
             ]
         },
         {
-            "name": "Conqueror Kanone",
+            "name": "Conqueror-Kanone",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+",
@@ -3245,7 +3225,7 @@
             ]
         },
         {
-            "name": "Warp Hunter D-Kanone",
+            "name": "Warpjäger-D-Kanone",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -3286,7 +3266,7 @@
         },
 
         {
-            "name": "Dämonisch Bolter",
+            "name": "Dämonischer Bolter",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -3343,7 +3323,7 @@
             ]
         },
         {
-            "name": "Dakka Kanone",
+            "name": "Dakka-Kanone",
             "modes": [
                 {
                     "firepower": "6x AP5+/AT5+",
@@ -3354,7 +3334,7 @@
             ]
         },
         {
-            "name": "Dakka-Dakka Kanone",
+            "name": "Dakka-Dakka-Kanone",
             "modes": [
                 {
                     "firepower": "9x AP5+/AT5+",
@@ -3447,7 +3427,7 @@
             ]
         },
         {
-            "name": "Zwillings-Deathshroud Kanone",
+            "name": "Zwillings-Todeshüllenkanone",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -3459,7 +3439,7 @@
             ]
         },
         {
-            "name": "Zwillings-Inferno Lance",
+            "name": "Zwillings-Inferno-Lanze",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -3484,7 +3464,7 @@
             ]
         },
         {
-            "name": "Verteidigungs Laser",
+            "name": "Verteidigungslaser",
             "modes": [
                 {
                     "firepower": "MW2+/AA5+",
@@ -3496,7 +3476,7 @@
             ]
         },
         {
-            "name": "Retrofitted Verteidigungs Laser",
+            "name": "Nachgerüsteter Verteidigungslaser",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -3508,7 +3488,7 @@
             ]
         },
         {
-            "name": "Planetary Verteidigungs Laser",
+            "name": "Planetarer Verteidigungslaser",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -3626,7 +3606,7 @@
             ]
         },
         {
-            "name": "Support D-Kanone",
+            "name": "Unterstützungs-D-Kanone",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -3692,7 +3672,7 @@
             ]
         },
         {
-            "name": "Deathstrike Rakete",
+            "name": "Todesstoß-Rakete",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -3861,7 +3841,7 @@
             ]
         },
         {
-            "name": "Squat Mjolnir Kanone",
+            "name": "Squat-Mjolnir-Kanone",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -3873,7 +3853,7 @@
             ]
         },
         {
-            "name": "Squat Doomsday Kanone",
+            "name": "Squat-Weltuntergangskanone",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -3896,7 +3876,7 @@
             ]
         },
         {
-            "name": "Doomstrike Rakete",
+            "name": "Verdammnisschlag-Rakete",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -4101,7 +4081,7 @@
             ]
         },
         {
-            "name": "Eye of Magnus",
+            "name": "Auge des Magnus",
             "modes": [
                 {
                     "firepower": "2x AP6+/AT6+/AA6+",
@@ -4112,7 +4092,7 @@
             ]
         },
         {
-            "name": "Exarch Close Combat Waffe",
+            "name": "Exarch-Nahkampfwaffe",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -4123,7 +4103,7 @@
             ]
         },
         {
-            "name": "Exarch Ranged Waffe",
+            "name": "Exarch-Fernkampfwaffe",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -4200,7 +4180,7 @@
             ]
         },
         {
-            "name": "Great Wolf Klaue",
+            "name": "Klaue des Großen Wolfs",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -4235,7 +4215,7 @@
             ]
         },
         {
-            "name": "Firestorm Batterie",
+            "name": "Feuersturm-Batterie",
             "modes": [
                 {
                     "firepower": "2× AP5+/AT5+/AA4+",
@@ -4246,7 +4226,7 @@
             ]
         },
         {
-            "name": "Faust of Gork",
+            "name": "Faust des Gork",
             "modes": [
                 {
                     "firepower": "MW5+/AA6+",
@@ -4258,7 +4238,7 @@
             ]
         },
         {
-            "name": "Flak Geschütz",
+            "name": "Flakgeschütz",
             "modes": [
                 {
                     "firepower": "2x AP6+/AT6+/AA6+",
@@ -4280,7 +4260,7 @@
             ]
         },
         {
-            "name": "Flak Kanonen",
+            "name": "Flakkanonen",
             "modes": [
                 {
                     "firepower": "AA5+",
@@ -4291,7 +4271,7 @@
             ]
         },
         {
-            "name": "Flakk Raketenwerfer",
+            "name": "Flakk-Raketenwerfer",
             "modes": [
                 {
                     "firepower": "AP5+/AA6+",
@@ -4404,7 +4384,7 @@
             ]
         },
         {
-            "name": "Flamestorm Kanone ",
+            "name": "Flammensturmkanone",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -4416,7 +4396,7 @@
             ]
         },
         {
-            "name": "Flamestorm Kanone",
+            "name": "Flammensturmkanone",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -4513,7 +4493,7 @@
             ]
         },
         {
-            "name": "Fusion Geschütze",
+            "name": "Fusionsgeschütze",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -4555,7 +4535,7 @@
             ]
         },
         {
-            "name": "Gatling-Psi-Silencer",
+            "name": "Gatling-Psilencer",
             "modes": [
                 {
                     "firepower": "2x AP4+/AT5+",
@@ -4617,7 +4597,7 @@
             ]
         },
         {
-            "name": "Gauss Blaster",
+            "name": "Gauss-Blaster",
             "modes": [
                 {
                     "firepower": "2x AP5+/AT5+",
@@ -4628,7 +4608,7 @@
             ]
         },
         {
-            "name": "Gauss Kanonen",
+            "name": "Gauss-Kanonen",
             "modes": [
                 {
                     "firepower": "2x AP5+/AT5+",
@@ -4650,7 +4630,7 @@
             ]
         },
         {
-            "name": "Gauss Flayers Batterie",
+            "name": "Gauss-Flayer-Batterie",
             "modes": [
                 {
                     "firepower": "2x AP4+/AT6+",
@@ -4672,7 +4652,7 @@
             ]
         },
         {
-            "name": "Gauss Flux Batterie",
+            "name": "Gauss-Flussbatterie",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -4683,7 +4663,7 @@
             ]
         },
         {
-            "name": "Gauss-Exterminator",
+            "name": "Gauss-Vernichter",
             "modes": [
                 {
                     "firepower": "AT5+/AA5+",
@@ -4730,7 +4710,7 @@
             ]
         },
         {
-            "name": "Blick of Gork",
+            "name": "Blick des Gork",
             "modes": [
                 {
                     "firepower": "3x AP5+/AT5+",
@@ -4741,7 +4721,7 @@
             ]
         },
         {
-            "name": "Blick of Tzeentch",
+            "name": "Blick des Tzeentch",
             "modes": [
                 {
                     "firepower": "3x MW4+",
@@ -4793,7 +4773,7 @@
             ]
         },
         {
-            "name": "Gravity Impuls",
+            "name": "Gravitationsimpuls",
             "modes": [
                 {
                     "firepower": "AA6+",
@@ -4829,7 +4809,7 @@
             ]
         },
         {
-            "name": "Graviton Geschütze",
+            "name": "Graviton-Geschütze",
             "modes": [
                 {
                     "firepower": "2x AP5+/AT5+",
@@ -4866,7 +4846,7 @@
             ]
         },
         {
-            "name": "Graviton Singularity Kanone",
+            "name": "Graviton-Singularitätskanone",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -4903,7 +4883,7 @@
             ]
         },
         {
-            "name": "2x Grot-Guided Rakete",
+            "name": "2x Grot-gelenkte Rakete",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -4927,7 +4907,7 @@
             ]
         },
         {
-            "name": "Guntail",
+            "name": "Schwanzgeschütz",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+",
@@ -4978,7 +4958,7 @@
             ]
         },
         {
-            "name": "Hail of Barbed Speere",
+            "name": "Hagel aus Stachelspeeren",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -5026,7 +5006,7 @@
             ]
         },
         {
-            "name": "Harvester Ranken",
+            "name": "Ernteranken",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -5038,7 +5018,7 @@
             ]
         },
         {
-            "name": "Harvester Kanone",
+            "name": "Ernterkanone",
             "modes": [
                 {
                     "firepower": "3x AP5+/AT6+/AA6+",
@@ -5049,7 +5029,7 @@
             ]
         },
         {
-            "name": "Havoc Sperrfeuer Rakete",
+            "name": "Havoc-Sperrfeuer-Rakete",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -5062,7 +5042,7 @@
             ]
         },
         {
-            "name": "4x Havoc Sperrfeuer Rakete",
+            "name": "4x Havoc-Sperrfeuer-Rakete",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -5075,7 +5055,7 @@
             ]
         },
         {
-            "name": "Havoc Warp Rakete",
+            "name": "Havoc-Warp-Rakete",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -5143,7 +5123,7 @@
             ]
         },
         {
-            "name": "Lightning Klauen",
+            "name": "Blitzklauen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -5198,7 +5178,7 @@
             ]
         },
         {
-            "name": "Multiple Schwere Bolter",
+            "name": "Mehrere schwere Bolter",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -5207,7 +5187,7 @@
             ]
         },
         {
-            "name": "Mehrfach-Zwillingsschwerer Bolter",
+            "name": "Mehrere Zwillings-Schwerbolter",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -5234,7 +5214,7 @@
             ]
         },
         {
-            "name": "Laserkanone Batterie",
+            "name": "Laserkanonenbatterie",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -5243,7 +5223,7 @@
             ]
         },
         {
-            "name": "Schwerer Bolter AA Turm",
+            "name": "Schwerer Bolter-Flugabwehrturm",
             "modes": [
                 {
                     "firepower": "AP5+/AA5+",
@@ -5285,7 +5265,7 @@
             ]
         },
         {
-            "name": "Schwerer Gauss Kanonen",
+            "name": "Schwere Gauss-Kanonen",
             "modes": [
                 {
                     "firepower": "AP5+/AT3+",
@@ -5315,7 +5295,7 @@
             ]
         },
         {
-            "name": "Schwerer Flammenwerfer ",
+            "name": "Schwerer Flammenwerfer",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -5432,7 +5412,7 @@
             ]
         },
         {
-            "name": "Ionic Discharge Kanone",
+            "name": "Ionenentladungskanone",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -5444,7 +5424,7 @@
             ]
         },
         {
-            "name": "Schwerer Mining Laser",
+            "name": "Schwerer Bergbaulaser",
             "modes": [
                 {
                     "firepower": "AT4+",
@@ -5477,7 +5457,7 @@
             ]
         },
         {
-            "name": "Zwillings-Schwerer Phantom Lance",
+            "name": "Zwillings-Schwere Phantomlanze",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -5489,7 +5469,7 @@
             ]
         },
         {
-            "name": "Schwerer Plague Mörser",
+            "name": "Schwerer Seuchenmörser",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -5502,7 +5482,7 @@
             ]
         },
         {
-            "name": "Schwerer Railcannon",
+            "name": "Schwere Schienenkanone",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -5550,7 +5530,7 @@
             ]
         },
         {
-            "name": "Zwillings-Schwerer Stubber Turm",
+            "name": "Zwillings-Schwerer-Stubber-Turm",
             "modes": [
                 {
                     "firepower": "AP5+/AA6+",
@@ -5578,7 +5558,7 @@
             ]
         },
         {
-            "name": "Zwillings-Warpflamer",
+            "name": "Zwillings-Warpflammenwerfer",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -5695,7 +5675,7 @@
             ]
         },
         {
-            "name": "Hellfire Kanone",
+            "name": "Höllenfeuerkanone",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -5704,7 +5684,7 @@
             ]
         },
         {
-            "name": "Hellfire Rakete",
+            "name": "Höllenfeuer-Rakete",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -5774,7 +5754,7 @@
             ]
         },
         {
-            "name": "Hellfury Kanone",
+            "name": "Höllenzornkanone",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -5806,7 +5786,7 @@
             ]
         },
         {
-            "name": "Hellhammer Kanone",
+            "name": "Hellhammer-Kanone",
             "modes": [
                 {
                     "firepower": "AP2+/AT2+",
@@ -5830,7 +5810,7 @@
             ]
         },
         {
-            "name": "Zwillings-Hellmaw",
+            "name": "Zwillings-Höllenschlund",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -5854,7 +5834,7 @@
             ]
         },
         {
-            "name": "Hellslicer Kampf-Klaue",
+            "name": "Höllenschneider-Kampfklaue",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -5866,7 +5846,7 @@
             ]
         },
         {
-            "name": "Hellstorm Kanone",
+            "name": "Höllensturmkanone",
             "modes": [
                 {
                     "firepower": "10BP",
@@ -5877,7 +5857,7 @@
             ]
         },
         {
-            "name": "Hellstrike Kanone",
+            "name": "Höllenschlagkanone",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -5890,7 +5870,7 @@
             ]
         },
         {
-            "name": "Hellstrike Raketen",
+            "name": "Höllenschlagraketen",
             "modes": [
                 {
                     "firepower": "AT2+",
@@ -6024,7 +6004,7 @@
             ]
         },
         {
-            "name": "Hunter Raketen",
+            "name": "Jägerraketen",
             "modes": [
                 {
                     "firepower": "AA5+",
@@ -6057,7 +6037,7 @@
             ]
         },
         {
-            "name": "Wraithbone-Lanze",
+            "name": "Phantomknochenlanze",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -6257,7 +6237,7 @@
             ]
         },
         {
-            "name": "Inferno Kanone ",
+            "name": "Inferno-Kanone",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -6277,7 +6257,7 @@
             ]
         },
         {
-            "name": "Ionen Beschleuniger",
+            "name": "Ionenbeschleuniger",
             "modes": [
                 {
                     "firepower": "2x AP5+/AT5+",
@@ -6299,7 +6279,7 @@
             ]
         },
         {
-            "name": "Phased Ionen Geschütze",
+            "name": "Phasen-Ionengeschütze",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -6321,7 +6301,7 @@
             ]
         },
         {
-            "name": "Zwillings-Phased Plasma Fusil",
+            "name": "Zwillings-Phasen-Plasmafusil",
             "modes": [
                 {
                     "firepower": "AP3+/AT4+",
@@ -6332,7 +6312,7 @@
             ]
         },
         {
-            "name": "Ironstorm Raketen-Pod",
+            "name": "Ironstorm-Raketenbehälter",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -6454,7 +6434,7 @@
             ]
         },
         {
-            "name": "Knight Energielanze",
+            "name": "Ritter-Energielanze",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -6476,7 +6456,7 @@
             ]
         },
         {
-            "name": "Knight Psionische Lanze",
+            "name": "Ritter-Psioniklanze",
             "modes": [
                 {
                     "firepower": "1BP",
@@ -6498,7 +6478,7 @@
             ]
         },
         {
-            "name": "Knight Kettenschwert",
+            "name": "Ritter-Kettenschwert",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -6510,7 +6490,7 @@
             ]
         },
         {
-            "name": "Knight Energie-Gauntlet",
+            "name": "Ritter-Energiehandschuh",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -6522,7 +6502,7 @@
             ]
         },
         {
-            "name": "Kroot Bolter Thrower",
+            "name": "Kroot-Bolterwerfer",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -6533,7 +6513,7 @@
             ]
         },
         {
-            "name": "Kroot Geschütz",
+            "name": "Kroot-Geschütz",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -6544,7 +6524,7 @@
             ]
         },
         {
-            "name": "Kroot Gewehre",
+            "name": "Kroot-Gewehre",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -6571,7 +6551,7 @@
             ]
         },
         {
-            "name": "Kustom Kanone",
+            "name": "Kustom-Kanone",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -6582,7 +6562,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Kustom Mega-Kanone",
+            "name": "AC-Zwillings-Kustom-Megakanone",
             "modes": [
                 {
                     "firepower": "3x AP6+/AT4+",
@@ -6683,7 +6663,7 @@
             ]
         },
         {
-            "name": "Paired Laser Blaster",
+            "name": "Gekoppelter Laserblaster",
             "modes": [
                 {
                     "firepower": "10x AP5+/AT3+",
@@ -6726,7 +6706,7 @@
             ]
         },
         {
-            "name": "Laserzerstörer Batterie",
+            "name": "Laserzerstörer-Batterie",
             "modes": [
                 {
                     "firepower": "2x AT4+",
@@ -6788,7 +6768,7 @@
             ]
         },
         {
-            "name": "Lastrum Bolter Kanone",
+            "name": "Lastrum-Bolterkanone",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -6799,7 +6779,7 @@
             ]
         },
         {
-            "name": "Lastrum Sturmbolter",
+            "name": "Lastrum-Sturmbolter",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -6810,7 +6790,7 @@
             ]
         },
         {
-            "name": "Lastrum Sturmbolter",
+            "name": "Lastrum-Sturmbolter",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -6873,7 +6853,7 @@
             ]
         },
         {
-            "name": "Lightning Kanone",
+            "name": "Blitzkanone",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -6991,7 +6971,7 @@
             ]
         },
         {
-            "name": "Paired Gatling Blaster",
+            "name": "Gekoppelter Gatling-Blaster",
             "modes": [
                 {
                     "firepower": "8x AP4+/AT4+",
@@ -7025,7 +7005,7 @@
             ]
         },
         {
-            "name": "Massiv Nahkampfwaffen",
+            "name": "Massive Nahkampfwaffen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -7131,7 +7111,7 @@
             ]
         },
         {
-            "name": "Squat Mega Kanone",
+            "name": "Squat-Megakanone",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -7176,7 +7156,7 @@
             ]
         },
         {
-            "name": "Melta Bomben",
+            "name": "Melterbomben",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -7209,7 +7189,7 @@
             ]
         },
         {
-            "name": "Titan Meltakanone ",
+            "name": "Titan-Meltakanone",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -7230,7 +7210,7 @@
             ]
         },
         {
-            "name": "Paired Titan Melta Kanonen",
+            "name": "Gekoppelte Titanen-Melterkanonen",
             "modes": [
                 {
                     "firepower": "2x MW2+",
@@ -7251,7 +7231,7 @@
             ]
         },
         {
-            "name": "Melta Schneider",
+            "name": "Melterschneider",
             "modes": [
                 {
                     "firepower": "Assault Weapon",
@@ -7307,7 +7287,7 @@
             ]
         },
         {
-            "name": "Medusa Phospex Geschütz",
+            "name": "Medusa-Phospex-Geschütz",
             "modes": [
                 {
                     "firepower": "AP3+/AT4+",
@@ -7527,7 +7507,7 @@
             ]
         },
         {
-            "name": "Multi-Rakete Pod",
+            "name": "Mehrfachraketenbehälter",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -7559,7 +7539,7 @@
             ]
         },
         {
-            "name": "Force Halberd and Energiefaust",
+            "name": "Krafthellebarde und Energiefaust",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -7578,7 +7558,7 @@
             ]
         },
         {
-            "name": "Nemesis Dämon Hammer",
+            "name": "Nemesis-Dämonenhammer",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -7710,7 +7690,7 @@
             ]
         },
         {
-            "name": "Neutron Blaster",
+            "name": "Neutronenblaster",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -7721,7 +7701,7 @@
             ]
         },
         {
-            "name": "Nexus Rakete Batterie",
+            "name": "Nexus-Raketenbatterie",
             "modes": [
                 {
                     "firepower": "5x MW5+",
@@ -7746,7 +7726,7 @@
             ]
         },
         {
-            "name": "Nova Kanone",
+            "name": "Novakanone",
             "modes": [
                 {
                     "firepower": "4x MW2+",
@@ -7860,7 +7840,7 @@
             ]
         },
         {
-            "name": "Particle Beschleuniger",
+            "name": "Teilchenbeschleuniger",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -7891,7 +7871,7 @@
             ]
         },
         {
-            "name": "Particle Flegel",
+            "name": "Teilchenflegel",
             "modes": [
                 {
                     "firepower": "AP3+/AT4+",
@@ -7902,7 +7882,7 @@
             ]
         },
         {
-            "name": "Particle Peitsche",
+            "name": "Teilchenpeitsche",
             "modes": [
                 {
                     "firepower": "AP3+/AT4+",
@@ -7978,7 +7958,7 @@
             ]
         },
         {
-            "name": "Plague Kanone",
+            "name": "Seuchenkanone",
             "modes": [
                 {
                     "firepower": "2 × AP3+/AT5+/AA5+",
@@ -7989,7 +7969,7 @@
             ]
         },
         {
-            "name": "Plague Katapult",
+            "name": "Seuchenkatapult",
             "modes": [
                 {
                     "firepower": "1BP",
@@ -8002,7 +7982,7 @@
             ]
         },
         {
-            "name": "Plague Flegel",
+            "name": "Seuchenflegel",
             "modes": [
                 {
                     "firepower": "2x AP2+",
@@ -8022,7 +8002,7 @@
             ]
         },
         {
-            "name": "Plague Mörser",
+            "name": "Seuchenmörser",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -8102,7 +8082,7 @@
             ]
         },
         {
-            "name": "Stormspear Rakete Pod",
+            "name": "Stormspear-Raketenbehälter",
             "modes": [
                 {
                     "firepower": "AT5+/AT5+",
@@ -8181,7 +8161,7 @@
             ]
         },
         {
-            "name": "Paired Titan Plasma Kanonen",
+            "name": "Gekoppelte Titanen-Plasmakanonen",
             "modes": [
                 {
                     "firepower": "6x MW2+",
@@ -8205,7 +8185,7 @@
             ]
         },
         {
-            "name": "2x Plasma Zerstörer",
+            "name": "2x Plasma-Zerstörer",
             "modes": [
                 {
                     "firepower": "4x MW3+",
@@ -8217,7 +8197,7 @@
             ]
         },
         {
-            "name": "Plasma Zerstörer",
+            "name": "Plasma-Zerstörer",
             "modes": [
                 {
                     "firepower": "4x MW3+",
@@ -8241,7 +8221,7 @@
             ]
         },
         {
-            "name": "Plasma Zerstörer",
+            "name": "Plasma-Zerstörer",
             "modes": [
                 {
                     "firepower": "AP3+/AT3+",
@@ -8284,7 +8264,7 @@
             ]
         },
         {
-            "name": "Plasma Geschütz",
+            "name": "Plasmageschütz",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+",
@@ -8295,7 +8275,7 @@
             ]
         },
         {
-            "name": "Plasma Geschütze",
+            "name": "Plasmageschütze",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+",
@@ -8318,7 +8298,7 @@
             ]
         },
         {
-            "name": "Plasma Rakete",
+            "name": "Plasma-Rakete",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -8331,7 +8311,7 @@
             ]
         },
         {
-            "name": "Doomstorm Rakete",
+            "name": "Verdammnissturm-Rakete",
             "modes": [
                 {
                     "firepower": "AT2+",
@@ -8343,7 +8323,7 @@
             ]
         },
         {
-            "name": "Plasma Pistolen",
+            "name": "Plasmapistolen",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -8353,7 +8333,7 @@
             ]
         },
         {
-            "name": "Plasma Sturm-Batterie",
+            "name": "Plasma-Sturmbatterie",
             "modes": [
                 {
                     "firepower": "2x AP5+/AT5+",
@@ -8364,7 +8344,7 @@
             ]
         },
         {
-            "name": "Plasma Krallen",
+            "name": "Plasmaklauen",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+",
@@ -8432,7 +8412,7 @@
             ]
         },
         {
-            "name": "Grot-Knarren and Knives",
+            "name": "Grot-Knarren und Messer",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -8442,7 +8422,7 @@
             ]
         },
         {
-            "name": "Phospex Werfer",
+            "name": "Phospex-Werfer",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+",
@@ -8491,7 +8471,7 @@
             ]
         },
         {
-            "name": "Choppa Klingen",
+            "name": "Choppa-Klingen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -8515,7 +8495,7 @@
             ]
         },
         {
-            "name": "Eldar Energie-Lances",
+            "name": "Eldar-Energielanzen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -8537,7 +8517,7 @@
             ]
         },
         {
-            "name": "Energie-Lances",
+            "name": "Energielanzen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -8795,7 +8775,7 @@
             ]
         },
         {
-            "name": "Pus Werfer Pod",
+            "name": "Pustelwerfer-Kapsel",
             "modes": [
                 {
                     "firepower": "1BP",
@@ -8831,7 +8811,7 @@
             ]
         },
         {
-            "name": "Zwillings-Psycannon",
+            "name": "Zwillings-Psikanone",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -8843,7 +8823,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Psycannon",
+            "name": "AC-Zwillings-Psikanone",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -8880,7 +8860,7 @@
             ]
         },
         {
-            "name": "Impuls Blaster",
+            "name": "Impulsblaster",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -8891,7 +8871,7 @@
             ]
         },
         {
-            "name": "Impuls Blastcannon",
+            "name": "Impuls-Druckwellenkanone",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -8902,7 +8882,7 @@
             ]
         },
         {
-            "name": "Impuls Karabiner",
+            "name": "Impuls-Karabiner",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -8914,7 +8894,7 @@
             ]
         },
         {
-            "name": "Impuls Driver Kanone",
+            "name": "Impuls-Treiberkanone",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -8925,7 +8905,7 @@
             ]
         },
         {
-            "name": "Impuls Desintegrator",
+            "name": "Impuls-Desintegrator",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -8947,7 +8927,7 @@
             ]
         },
         {
-            "name": "Ionen Gewehre",
+            "name": "Ionengewehre",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -8980,7 +8960,7 @@
             ]
         },
         {
-            "name": "Knight Impulslaser",
+            "name": "Ritter-Impulslaser",
             "modes": [
                 {
                     "firepower": "2x AT3+",
@@ -8991,7 +8971,7 @@
             ]
         },
         {
-            "name": "Knight Close Combat Waffen",
+            "name": "Ritter-Nahkampfwaffen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -9036,7 +9016,7 @@
             ]
         },
         {
-            "name": "Impuls Ordnance Multi-Driver",
+            "name": "Impuls-Artillerie-Mehrfachtreiber",
             "modes": [
                 {
                     "firepower": "6BP",
@@ -9056,7 +9036,7 @@
             ]
         },
         {
-            "name": "Impuls Submunition Kanonen",
+            "name": "Impuls-Streumunitionskanonen",
             "modes": [
                 {
                     "firepower": "4x AP6+/AT5+",
@@ -9107,7 +9087,7 @@
             ]
         },
         {
-            "name": "Punisher Gatlingkanone",
+            "name": "Bestrafungs-Gatlingkanone",
             "modes": [
                 {
                     "firepower": "3x AP6+/AT6+",
@@ -9197,7 +9177,7 @@
             ]
         },
         {
-            "name": "Rad Rakete Werfer",
+            "name": "Radium-Raketenwerfer",
             "modes": [
                 {
                     "firepower": "AP4+/AT6+",
@@ -9339,7 +9319,7 @@
             ]
         },
         {
-            "name": "Reaper Maschinenkanone",
+            "name": "Reaper-Maschinenkanone",
             "modes": [
                 {
                     "firepower": "AP4+/AT6+",
@@ -9348,7 +9328,7 @@
             ]
         },
         {
-            "name": "Zwillings-Reaper Maschinenkanone",
+            "name": "Zwillings-Reaper-Maschinenkanone",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+",
@@ -9357,7 +9337,7 @@
             ]
         },
         {
-            "name": "Zwillings-Reaper Maschinenkanone Turm",
+            "name": "Zwillings-Reaper-Maschinenkanonenturm",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+/AA5+",
@@ -9377,7 +9357,7 @@
             ]
         },
         {
-            "name": "Reaper Kettenfaust",
+            "name": "Reaper-Kettenfaust",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -9396,7 +9376,7 @@
             ]
         },
         {
-            "name": "Reaper Kettenschwert",
+            "name": "Reaper-Kettenschwert",
             "modes": [
                 {
                     "firepower": "Assault Weapon",
@@ -9408,7 +9388,7 @@
             ]
         },
         {
-            "name": "Reaper Werfer",
+            "name": "Reaper-Werfer",
             "modes": [
                 {
                     "firepower": "AP3+/AT6+",
@@ -9475,7 +9455,7 @@
             ]
         },
         {
-            "name": "Ripper Geschütze",
+            "name": "Ripper-Geschütze",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -9502,7 +9482,7 @@
             ]
         },
         {
-            "name": "Ripper Tentakel",
+            "name": "Ripper-Tentakel",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -9532,7 +9512,7 @@
             ]
         },
         {
-            "name": "Rakete Werfer",
+            "name": "Raketenwerfer",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -9546,7 +9526,7 @@
             ]
         },
         {
-            "name": "Rakete Pods",
+            "name": "Raketenbehälter",
             "modes": [
                 {
                     "firepower": "1BP",
@@ -9570,7 +9550,7 @@
             ]
         },
         {
-            "name": "Rot Kanone",
+            "name": "Fäulniskanone",
             "modes": [
                 {
                     "firepower": "4x AP3+/AT5+",
@@ -9653,7 +9633,7 @@
             ]
         },
         {
-            "name": "Scorpion Kanone",
+            "name": "Scorpion-Kanone",
             "modes": [
                 {
                     "firepower": "3x AP3+/AT5+",
@@ -9664,7 +9644,7 @@
             ]
         },
         {
-            "name": "Scorpion Klauen",
+            "name": "Scorpion-Klauen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -9676,7 +9656,7 @@
             ]
         },
         {
-            "name": "Scout Turbo-Laser Zerstörer",
+            "name": "Späher-Turbolaserzerstörer",
             "modes": [
                 {
                     "firepower": "4x AP5+/AT3+",
@@ -9708,7 +9688,7 @@
             ]
         },
         {
-            "name": "Seeker Raketen",
+            "name": "Zielsuchraketen",
             "modes": [
                 {
                     "firepower": "AT6+",
@@ -9720,7 +9700,7 @@
             ]
         },
         {
-            "name": "Sentinel War Klinge",
+            "name": "Sentinel-Kriegsklinge",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -9782,7 +9762,7 @@
             ]
         },
         {
-            "name": "Shards of Licht",
+            "name": "Lichtsplitter",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -9793,7 +9773,7 @@
             ]
         },
         {
-            "name": "Shieldbreaker Raketen",
+            "name": "Schildbrecher-Raketen",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -9806,7 +9786,7 @@
             ]
         },
         {
-            "name": "Schock Lance",
+            "name": "Schocklanze",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -9882,7 +9862,7 @@
             ]
         },
         {
-            "name": "Shuriken Katapulte",
+            "name": "Shuriken-Katapulte",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -9892,7 +9872,7 @@
             ]
         },
         {
-            "name": "Shuriken Pistolen",
+            "name": "Shuriken-Pistolen",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -9977,7 +9957,7 @@
             ]
         },
         {
-            "name": "Silenced Burst Kanonen",
+            "name": "Gedämpfte Salvenkanonen",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -10063,7 +10043,7 @@
             ]
         },
         {
-            "name": "Skull Kanone",
+            "name": "Schädelkanone",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+",
@@ -10075,7 +10055,7 @@
             ]
         },
         {
-            "name": "Skullhamma Kanone",
+            "name": "Skullhamma-Kanone",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -10313,7 +10293,7 @@
             ]
         },
         {
-            "name": "Soulreaper Kanone",
+            "name": "Seelenschnitterkanone",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+",
@@ -10324,7 +10304,7 @@
             ]
         },
         {
-            "name": "Spiculus Bolter Werfer",
+            "name": "Spiculus-Bolterwerfer",
             "modes": [
                 {
                     "firepower": "2x AP5+/AA6+",
@@ -10509,7 +10489,7 @@
             ]
         },
         {
-            "name": "Spore Minen",
+            "name": "Sporenminen",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -10541,7 +10521,7 @@
             ]
         },
         {
-            "name": "Impaler Kanone",
+            "name": "Pfählerkanone",
             "modes": [
                 {
                     "firepower": "AP6+/AT3+",
@@ -10593,7 +10573,7 @@
             ]
         },
         {
-            "name": "Stab of Radiance",
+            "name": "Strahlenstab",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -10625,7 +10605,7 @@
             ]
         },
         {
-            "name": "Sternguard Bolter",
+            "name": "Veteranengarde-Bolter",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -10699,7 +10679,7 @@
             ]
         },
         {
-            "name": "Drilldozer Klinge",
+            "name": "Drilldozer-Klinge",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -10819,7 +10799,7 @@
             ]
         },
         {
-            "name": "Schwert of Blood",
+            "name": "Schwert des Blutes",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -10896,7 +10876,7 @@
             ]
         },
         {
-            "name": "Zähne and Hörner",
+            "name": "Zähne und Hörner",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -10908,7 +10888,7 @@
             ]
         },
         {
-            "name": "Fangzähne and Hörner",
+            "name": "Fangzähne und Hörner",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -11165,7 +11145,7 @@
             ]
         },
         {
-            "name": "Squat Thunderfire Kanonen",
+            "name": "Squat-Donnerfeuerkanonen",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+/AA4+",
@@ -11188,7 +11168,7 @@
             ]
         },
         {
-            "name": "Bolter and Boarding Schilde",
+            "name": "Bolter und Enterungsschilde",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -11198,7 +11178,7 @@
             ]
         },
         {
-            "name": "Donnerhammer and Sturm-Schild",
+            "name": "Donnerhammer und Sturmschild",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -11210,7 +11190,7 @@
             ]
         },
         {
-            "name": "Streitkolben of Absolution und Sturmschilde",
+            "name": "Streitkolben der Absolution und Sturmschilde",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -11221,7 +11201,7 @@
             ]
         },
         {
-            "name": "Flegel of the Unforgiven",
+            "name": "Flegel der Unversöhnlichen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -11340,7 +11320,7 @@
             ]
         },
         {
-            "name": "Terrebrax Phospex Batterie",
+            "name": "Terrebrax-Phospex-Batterie",
             "modes": [
                 {
                     "firepower": "6BP",
@@ -11445,7 +11425,7 @@
             ]
         },
         {
-            "name": "Transdimensional Bolter",
+            "name": "Transdimensionaler Bolter",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -11499,7 +11479,7 @@
             ]
         },
         {
-            "name": "AC Laser Zerstörer",
+            "name": "AC-Laserzerstörer",
             "modes": [
                 {
                     "firepower": "2x AP5+/AT3+",
@@ -11508,7 +11488,7 @@
             ]
         },
         {
-            "name": "Laser Zerstörer",
+            "name": "Laserzerstörer",
             "modes": [
                 {
                     "firepower": "2x AP5+/AT3+",
@@ -11517,7 +11497,7 @@
             ]
         },
         {
-            "name": "Turbo-Laser Zerstörer",
+            "name": "Turbolaserzerstörer",
             "modes": [
                 {
                     "firepower": "4x AP5+/AT3+",
@@ -11553,7 +11533,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Laserkanone",
+            "name": "AC-Zwillings-Laserkanone",
             "modes": [
                 {
                     "firepower": "AT4+/AA4+",
@@ -11629,7 +11609,7 @@
             ]
         },
         {
-            "name": "Dual Boltpistolen",
+            "name": "Zwillings-Boltpistolen",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -11672,7 +11652,7 @@
             ]
         },
         {
-            "name": "Zwillings-Fusion Blaster",
+            "name": "Zwillings-Fusionsblaster",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -11683,7 +11663,7 @@
             ]
         },
         {
-            "name": "Zwillings-Fusion Kanone",
+            "name": "Zwillings-Fusionskanone",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -11694,7 +11674,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Schwerer Bolter",
+            "name": "AC-Zwillings-Schwerbolter",
             "modes": [
                 {
                     "firepower": "AP4+/AA5+",
@@ -11703,7 +11683,7 @@
             ]
         },
         {
-            "name": "AC Vierlings-Schwerer Bolter",
+            "name": "AC-Vierlings-Schwerbolter",
             "modes": [
                 {
                     "firepower": "AP3+/AA5+",
@@ -11712,7 +11692,7 @@
             ]
         },
         {
-            "name": "AC Vierlings-Schwerer Bolter Türme",
+            "name": "AC-Vierlings-Schwerbolter-Türme",
             "modes": [
                 {
                     "firepower": "AA4+",
@@ -11721,7 +11701,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Dragonfire Schwerer Bolter",
+            "name": "AC-Zwillings-Dragonfire-Schwerbolter",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -11730,7 +11710,7 @@
             ]
         },
         {
-            "name": "Zwillings-Schwerer Bolter",
+            "name": "Zwillings-Schwerbolter",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -11739,7 +11719,7 @@
             ]
         },
         {
-            "name": "Vierlings-Schwerer Bolter",
+            "name": "Vierlings-Schwerbolter",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -11767,7 +11747,7 @@
             ]
         },
         {
-            "name": "Zwillings-Schwerer Flammenwerfer  ",
+            "name": "Zwillings-Schwerer Flammenwerfer",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -11796,7 +11776,7 @@
             ]
         },
         {
-            "name": "Zwillings-Schwerer Phosphor Blaster",
+            "name": "Schwerer Zwillings-Phosphorblaster",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+",
@@ -11808,7 +11788,7 @@
             ]
         },
         {
-            "name": "Zwillings-Schwerer Railcannon",
+            "name": "Zwillings-Schwere Schienenkanone",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -11916,7 +11896,7 @@
             ]
         },
         {
-            "name": "Zwillingsverbunden Lastrum Bolter Kanone",
+            "name": "Zwillingsverbundene Lastrum-Bolterkanone",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -11927,7 +11907,7 @@
             ]
         },
         {
-            "name": "Zwillings-Burst Kanone",
+            "name": "Zwillings-Salvenkanone",
             "modes": [
                 {
                     "firepower": "AP5+/AA6+",
@@ -11950,7 +11930,7 @@
             ]
         },
         {
-            "name": "Raketen-Pod",
+            "name": "Raketenbehälter",
             "modes": [
                 {
                     "firepower": "AP6+/AT6+",
@@ -11961,7 +11941,7 @@
             ]
         },
         {
-            "name": "Zwillings-Raketen-Pod",
+            "name": "Zwillings-Raketenbehälter",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -12015,7 +11995,7 @@
             ]
         },
         {
-            "name": "Zwillings-Plasma Gewehr",
+            "name": "Zwillings-Plasmagewehr",
             "modes": [
                 {
                     "firepower": "AP4+/AT6+",
@@ -12071,7 +12051,7 @@
             ]
         },
         {
-            "name": "Zwillings-Licht Schienenkanone",
+            "name": "Zwillings-Lichtschienenkanone",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -12103,7 +12083,7 @@
             ]
         },
         {
-            "name": "Zwillings-Siegebreaker Kanone",
+            "name": "Zwillings-Belagerungsbrecherkanone",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+",
@@ -12162,7 +12142,7 @@
             ]
         },
         {
-            "name": "Zwillings-Typhoon Rakete",
+            "name": "Zwillings-Typhoon-Rakete",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+",
@@ -12307,7 +12287,7 @@
             ]
         },
         {
-            "name": "Zwillings-Shadow Lance",
+            "name": "Zwillings-Schattenlanze",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -12573,7 +12553,7 @@
             ]
         },
         {
-            "name": "Warp Bolter",
+            "name": "Warp-Bolter",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -12604,7 +12584,7 @@
             ]
         },
         {
-            "name": "Warp Rakete",
+            "name": "Warp-Rakete",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -12630,7 +12610,7 @@
             ]
         },
         {
-            "name": "Warp Krallen",
+            "name": "Warp-Klauen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -12738,7 +12718,7 @@
             ]
         },
         {
-            "name": "2x Vortex Rakete",
+            "name": "2x Vortex-Rakete",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -12753,7 +12733,7 @@
             ]
         },
         {
-            "name": "Wraith Klingen",
+            "name": "Phantomklingen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -12765,7 +12745,7 @@
             ]
         },
         {
-            "name": "Wraith Kanone",
+            "name": "Phantomkanone",
             "modes": [
                 {
                     "firepower": "MW5+",
@@ -12781,7 +12761,7 @@
             ]
         },
         {
-            "name": "Wraith Kanonen",
+            "name": "Phantomkanonen",
             "modes": [
                 {
                     "firepower": "2x MW5+",
@@ -12797,7 +12777,7 @@
             ]
         },
         {
-            "name": "Wraith Klauen",
+            "name": "Phantomklauen",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -12820,7 +12800,7 @@
             ]
         },
         {
-            "name": "Zwillings-Schwerer Wraithcannons",
+            "name": "Zwillings-Schwere Phantomkanonen",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -12913,7 +12893,7 @@
             ]
         },
         {
-            "name": " Plasma-Verbrenner",
+            "name": "Plasma-Verbrenner",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+",
@@ -12938,7 +12918,7 @@
             ]
         },
         {
-            "name": "Flammen Gauntlet",
+            "name": "Flammenstulpe",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -12957,7 +12937,7 @@
             ]
         },
         {
-            "name": "Beschleuniger Maschinenkanone",
+            "name": "Beschleuniger-Maschinenkanone",
             "modes": [
                 {
                     "firepower": "AP3+/AT3+",
@@ -12966,7 +12946,7 @@
             ]
         },
         {
-            "name": "Bolter Scharfschütze Rife",
+            "name": "Bolter-Scharfschützengewehr",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -12978,7 +12958,7 @@
             ]
         },
         {
-            "name": "Onslaught Gatlingkanone",
+            "name": "Ansturm-Gatlingkanone",
             "modes": [
                 {
                     "firepower": "3x AP6+/AT6+",
@@ -12987,7 +12967,7 @@
             ]
         },
         {
-            "name": "Onslaught Schwerer Gatlingkanone",
+            "name": "Schwere Ansturm-Gatlingkanone",
             "modes": [
                 {
                     "firepower": "3x AP5+/AT5+",
@@ -13032,7 +13012,7 @@
             ]
         },
         {
-            "name": "Icarus Rakete Pods",
+            "name": "Icarus-Raketenbehälter",
             "modes": [
                 {
                     "firepower": "AA5+",
@@ -13041,7 +13021,7 @@
             ]
         },
         {
-            "name": "Stormfury Raketen",
+            "name": "Sturmfurie-Raketen",
             "modes": [
                 {
                     "firepower": "2x AT4+",
@@ -13050,7 +13030,7 @@
             ]
         },
         {
-            "name": "Hammerstrike Werfer",
+            "name": "Hammerschlagwerfer",
             "modes": [
                 {
                     "firepower": "2x AP4+/AT5+",
@@ -13075,7 +13055,7 @@
             ]
         },
         {
-            "name": "Macro-Beschleuniger Kanone",
+            "name": "Makro-Beschleunigerkanone",
             "modes": [
                 {
                     "firepower": "2x MW3+",

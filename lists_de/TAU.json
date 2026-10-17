@@ -64,7 +64,7 @@
         "ff": 5,
         "weapons": [
           "Impulsgewehre",
-          "Impuls Karabiner"
+          "Impuls-Karabiner"
         ],
         "specialRules": [
         ]
@@ -77,7 +77,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Impuls Blaster|2"
+          "Impulsblaster|2"
         ],
         "specialRules": [
         ]
@@ -90,8 +90,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Ionen Gewehre",
-          "Impuls Karabiner"
+          "Skullhamma-Kanone",
+          "Impuls-Karabiner"
         ],
         "specialRules": [
         ]
@@ -104,7 +104,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Raketen-Pod"
+          "Raketenbehälter"
         ],
         "specialRules": [
           "Tau Jet Packs"
@@ -159,7 +159,7 @@
         "ff": 5,
         "weapons": [
           "Schienengewehre",
-          "Impuls Karabiner"
+          "Impuls-Karabiner"
         ],
         "specialRules": [
           "Coordinated Fire",
@@ -175,9 +175,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Zwillings-Raketen-Pod",
-          "Zwillings-Plasma Gewehr",
-          "Zwillings-Fusion Blaster"
+          "Zwillings-Raketenbehälter",
+          "Zwillings-Plasmagewehr",
+          "Zwillings-Fusionsblaster"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -192,8 +192,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Zwillings-Plasma Gewehr",
-          "Zwillings-Fusion Blaster"
+          "Zwillings-Plasmagewehr",
+          "Zwillings-Fusionsblaster"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -209,7 +209,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Silenced Burst Kanonen"
+          "Gedämpfte Salvenkanonen"
         ],
         "specialRules": [
           "Erstschlag",
@@ -280,7 +280,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Neutron Blaster"
+          "Neutronenblaster"
         ],
         "specialRules": [
           "Sprungmodule"
@@ -294,7 +294,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kroot Gewehre"
+          "Kroot-Gewehre"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -309,7 +309,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kroot Gewehre"
+          "Kroot-Gewehre"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -337,8 +337,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kroot Geschütz",
-          "Krootox Klauen"
+          "Kroot-Geschütz",
+          "Krootox-Klauen"
         ],
         "specialRules": [
         ]
@@ -351,7 +351,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Kroot Bolter Thrower",
+          "Kroot-Bolterwerfer",
           "Knarloc Klauen"
         ],
         "specialRules": [
@@ -365,7 +365,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Phased Ionen Geschütze"
+          "Phasen-Ionengeschütze"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -402,7 +402,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Licht Schienenkanone",
+          "Zwillings-Lichtschienenkanone",
           "Intelligentes Raketensystem"
         ],
         "specialRules": [
@@ -418,8 +418,8 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Burst Kanone and Drohnen",
-          "Seeker Raketen"
+          "Zwillings-Belagerungsbrecherkanone",
+          "Zielsuchraketen"
         ],
         "specialRules": [
           "Antigrav"
@@ -450,8 +450,8 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Burst Kanone and Drohnen",
-          "Seeker Raketen"
+          "Zwillings-Belagerungsbrecherkanone",
+          "Zielsuchraketen"
         ],
         "specialRules": [
           "Antigrav",
@@ -467,7 +467,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Zwillings-Licht Schienenkanone"
+          "Zwillings-Lichtschienenkanone"
         ],
         "specialRules": [
           "Antigrav",
@@ -483,9 +483,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Raketen-Pod|2|",
+          "Zwillings-Raketenbehälter|2|",
           "Intelligentes Raketensystem",
-          "Seeker Raketen"
+          "Zielsuchraketen"
         ],
         "specialRules": [
           "Antigrav",
@@ -503,7 +503,7 @@
         "weapons": [
           "Ionenkanone",
           "Intelligentes Raketensystem",
-          "Seeker Raketen"
+          "Zielsuchraketen"
         ],
         "specialRules": [
           "Antigrav",
@@ -521,7 +521,7 @@
         "weapons": [
           "Schwerer Schienenkanone",
           "Intelligentes Raketensystem",
-          "Seeker Raketen"
+          "Zielsuchraketen"
         ],
         "specialRules": [
           "Antigrav"
@@ -535,9 +535,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Fusion Kanone",
+          "Zwillings-Fusionskanone",
           "Intelligentes Raketensystem",
-          "Seeker Raketen"
+          "Zielsuchraketen"
         ],
         "specialRules": [
           "Antigrav"
@@ -552,8 +552,8 @@
         "ff": 5,
         "weapons": [
           "Intelligentes Raketensystem",
-          "Seeker Raketen|2|",
-          "Hunter Raketen|2|"
+          "Zielsuchraketen|2|",
+          "Jägerraketen|2|"
         ],
         "specialRules": [
           "Antigrav",
@@ -568,7 +568,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Impuls Submunition Kanonen"
+          "Impuls-Streumunitionskanonen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -583,7 +583,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Ionen Beschleuniger",
+          "Ionenbeschleuniger",
           "Zwillings-Intelligentes Raketensystem",
           "Geschwindigkeitspeiler"
         ],
@@ -602,7 +602,7 @@
         "ff": 5,
         "weapons": [
           "Plasmaflammenwerfer",
-          "Ionic Discharge Kanone"
+          "Ionenentladungskanone"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -620,11 +620,11 @@
         "ff": 5,
         "weapons": [
           ">Standard Configuration<",
-          "Impuls Driver Kanone||FwA",
+          "Impuls-Treiberkanone||FwA",
           "Zerstörer Raketen|2|",
           "Geschwindigkeitspeiler",
           ">Support Configuration<",
-          "Impuls Blastcannon||FwA",
+          "Impuls-Druckwellenkanone||FwA",
           "Zwillings-Intelligentes Raketensystem|2|",
           "Geschwindigkeitspeiler"
         ],
@@ -644,11 +644,11 @@
         "ff": 5,
         "weapons": [
           "Tri-axis Ionenkanone|2|FwA",
-          "Zwillings-Burst Kanone|2|",
+          "Hellhammer-Kanone|2|",
           "Zwillings-Intelligentes Raketensystem|2|",
-          "Nexus Rakete Batterie|0-1|",
-          "Schwerer Railcannon|0-1|FwA",
-          "Impuls Ordnance Multi-Driver|0-1|FwA"
+          "Nexus-Raketenbatterie|0-1|",
+          "Schwere Schienenkanone|0-1|FwA",
+          "Impuls-Artillerie-Mehrfachtreiber|0-1|FwA"
         ],
         "specialRules": [
           "Damage Capacity: 5",
@@ -666,11 +666,11 @@
         "armour": 5,
         "ff": 4,
         "weapons": [
-          "Zwillings-Schwerer Railcannon||FxF",
+          "Zwillings-Schwere Schienenkanone||FxF",
           "Schwerer Ionen Phalanx||FxF",
-          "Zwillings-Raketen-Pod",
-          "Seeker Raketen|2|",
-          "Zwillings-Burst Kanone|4|"
+          "Zwillings-Raketenbehälter",
+          "Zielsuchraketen|2|",
+          "Hellhammer-Kanone|4|"
         ],
         "specialRules": [
           "Damage Capacity: 6",

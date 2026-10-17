@@ -8,7 +8,7 @@
         "name": "Dragon Prince",
         "type": "CH",
         "weapons": [
-          "Wraithbone-Lanze"
+          "Phantomknochenlanze"
         ],
         "specialRules": [
           "Inspirierend",
@@ -20,7 +20,7 @@
         "name": "Dragonlord",
         "type": "CH",
         "weapons": [
-          "Wraithbone-Lanze"
+          "Phantomknochenlanze"
         ],
         "specialRules": [
           "Inspirierend",
@@ -47,7 +47,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Eldar Energie-Lances"
+          "Zwillings-Höllenschlund"
         ],
         "specialRules": [
           "Beritten",
@@ -107,7 +107,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Shuriken Katapulte"
+          "Shuriken-Katapulte"
         ],
         "specialRules": [
         ]
@@ -119,7 +119,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Support D-Kanone|0-1",
+          "Unterstützungs-D-Kanone|0-1",
           "Schattenweber|0-1"
         ],
         "notes": "Mit einer Unterstützungs-D-Kanone oder einem Shadow Weaver bewaffnet."
@@ -132,7 +132,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Wraith Kanonen"
+          "Phantomkanonen"
         ],
         "specialRules": [
           "Furchtlos"
@@ -174,8 +174,8 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Knight Psionische Lanze",
-          "Knight Impulslaser"
+          "Ritter-Psioniklanze",
+          "Ritter-Impulslaser"
         ],
         "specialRules": [
           "Holofield (4+)",
@@ -191,7 +191,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Knight Psionische Lanze"
+          "Ritter-Psioniklanze"
         ],
         "specialRules": [
           "Holofield (4+)",
@@ -207,9 +207,9 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Knight Psionische Lanze",
+          "Ritter-Psioniklanze",
           "Streulaser",
-          "Knight Close Combat Waffen"
+          "Ritter-Nahkampfwaffen"
         ],
         "specialRules": [
           "Holofield (4+)",

@@ -24,7 +24,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Shuriken Katapulte"
+          "Shuriken-Katapulte"
         ],
         "specialRules": ["Sprungmodule"]
       },
@@ -36,7 +36,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Shuriken Pistolen",
+          "Shuriken-Pistolen",
           "Eldar Energiewaffe"
         ],
         "specialRules": ["Sprungmodule"]
@@ -91,7 +91,7 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Zwillings-Shurikenkanone",
+          "Höllenfeuerkanone",
           "AC Laserlanze|2"
         ],
         "specialRules": [

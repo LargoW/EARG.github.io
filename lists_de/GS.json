@@ -208,7 +208,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer Stubber Turm"
+          "Zwillings-Schwerer-Stubber-Turm"
         ],
         "specialRules": [
         ]
@@ -235,7 +235,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schwerer Mining Laser"
+          "Schwerer Bergbaulaser"
         ],
         "specialRules": [
           "Geländegängig",
@@ -438,7 +438,7 @@
           "Maschinenkanone",
           "Belagerungskanone||FxF",
           "Laserkanone|2|FxF",
-          "Zwillings-Schwerer Bolter|3|FxF"
+          "Zwillings-Schwerbolter|3|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -456,7 +456,7 @@
         "weapons": [
           "Stormblade-Blaster||FxF",
           "Laserkanone|2|FxF",
-          "Zwillings-Schwerer Bolter|2|FxF"
+          "Zwillings-Schwerbolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -473,7 +473,7 @@
         "ff": 5,
         "weapons": [
           "Volcano Kanone||FxF",
-          "Zwillings-Schwerer Bolter|2|FxF"
+          "Zwillings-Schwerbolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",

@@ -53,7 +53,7 @@
             "name": "Court of the Young King",
             "type": "CH",
             "weapons": [
-                "Ancient Waffen"
+                "Uralte Waffen"
             ]
         },
         {
@@ -118,10 +118,10 @@
             "name": "Eldar Exarch",
             "type": "CH",
             "weapons": [
-                "Exarch Ranged Waffe|0-1",
-                "Exarch Close Combat Waffe|0-1",
+                "Exarch-Fernkampfwaffe|0-1",
+                "Exarch-Nahkampfwaffe|0-1",
                 "Feuerpike|0-1",
-                "Reaper Werfer|0-1",
+                "Reaper-Werfer|0-1",
                 "Sternenlanze|0-1"
             ],
             "specialRules": [
@@ -158,7 +158,7 @@
             "ff": 5,
             "weapons": [
                 "Witch Klingen",
-                "Shuriken Pistolen"
+                "Shuriken-Pistolen"
             ],
             "specialRules": [
                 "Farsight",
@@ -173,7 +173,7 @@
             "cc": 6,
             "ff": 4,
             "weapons": [
-                "Shuriken Katapulte"
+                "Shuriken-Katapulte"
             ],
             "specialRules": [
             ]
@@ -198,7 +198,7 @@
             "ff": 5,
             "weapons": [
                 "Vibro Kanone|0-1",
-                "Support D-Kanone|0-1"
+                "Unterstützungs-D-Kanone|0-1"
             ],
             "notes": "Bewaffnet entweder mit einer Vibro Cannon oder einer Support D-Cannon."
         },
@@ -211,7 +211,7 @@
             "ff": 5,
             "weapons": [
                 "Langgewehre",
-                "Shuriken Pistolen"
+                "Shuriken-Pistolen"
             ],
             "specialRules": [
                 "Scouts"
@@ -226,7 +226,7 @@
             "ff": 5,
             "weapons": [
                 "Langgewehre",
-                "Shuriken Pistolen"
+                "Shuriken-Pistolen"
             ],
             "specialRules": [
                 "Scouts",
@@ -320,7 +320,7 @@
             "cc": 5,
             "ff": 4,
             "weapons": [
-                "Avenger Shuriken Katapulte"
+                "Avenger-Shurikenkatapulte"
             ],
             "specialRules": [
             ]
@@ -333,7 +333,7 @@
             "cc": 5,
             "ff": 5,
             "weapons": [
-                "Fusion Geschütze"
+                "Fusionsgeschütze"
             ]
         },
         {
@@ -344,7 +344,7 @@
             "cc": 5,
             "ff": 4,
             "weapons": [
-                "Reaper Werfer"
+                "Reaper-Werfer"
             ]
         },
         {
@@ -356,7 +356,7 @@
             "ff": 5,
             "weapons": [
                 "Mandiblaster",
-                "Shuriken Pistolen"
+                "Shuriken-Pistolen"
             ],
             "specialRules": [
             ]
@@ -370,7 +370,7 @@
             "ff": 5,
             "weapons": [
                 "Bansheemaske",
-                "Shuriken Pistolen"
+                "Shuriken-Pistolen"
             ],
             "specialRules": [
                 "Erstschlag",
@@ -385,7 +385,7 @@
             "cc": 4,
             "ff": 5,
             "weapons": [
-                "Eldar Energie-Lances",
+                "Zwillings-Höllenschlund",
                 "Zwillings-Shurikenkatapult"
             ],
             "specialRules": [
@@ -446,7 +446,7 @@
             "armour": 3,
             "cc": 3,
             "weapons": [
-                "Wraith Klingen"
+                "Phantomklingen"
             ],
             "specialRules": [
                 "Furchtlos"
@@ -461,7 +461,7 @@
             "cc": 4,
             "ff": 4,
             "weapons": [
-                "Wraith Kanonen"
+                "Phantomkanonen"
             ],
             "specialRules": [
                 "Furchtlos"
@@ -581,7 +581,7 @@
             "cc": 3,
             "ff": 4,
             "weapons": [
-                "Wraith Kanone",
+                "Phantomkanone",
                 "Singing Speer"
             ],
             "specialRules": [
@@ -666,7 +666,7 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Warp Hunter D-Kanone"
+                "Warpjäger-D-Kanone"
             ],
             "specialRules": [
                 "Antigrav"
@@ -694,7 +694,7 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Firestorm Batterie"
+                "Zwillings-Salvenkanone"
             ],
             "specialRules": [
                 "Antigrav",
@@ -825,8 +825,8 @@
             "cc": 4,
             "ff": 3,
             "weapons": [
-                "Zwillings-Deathshroud Kanone|0-1|",
-                "Zwillings-Inferno Lance|0-1|",
+                "Zwillings-Todeshüllenkanone|0-1|",
+                "Zwillings-Inferno-Lanze|0-1|",
                 "Zwillings-Shurikenkanone"
             ],
             "specialRules": [
@@ -845,7 +845,7 @@
             "cc": 3,
             "ff": 4,
             "weapons": [
-                "Zwillings-Schwerer Wraithcannons|0-1|",
+                "Zwillings-Schwere Phantomkanonen|0-1|",
                 "Geistergleve und Streuschild|0-1|",
                 "Sonnenkanone|0-1|",
                 "Zwillings-Shurikenkanone"

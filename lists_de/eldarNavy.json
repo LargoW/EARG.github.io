@@ -11,7 +11,7 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Zwillings-Shurikenkanone",
+          "Höllenfeuerkanone",
           "AC Laserlanze|2"
         ],
         "specialRules": [
@@ -35,7 +35,7 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Zwillings-Shurikenkanone",
+          "Höllenfeuerkanone",
           "AC Impulslaser",
           "AC Spinner Batterie"
         ],

@@ -10,7 +10,7 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Reaper Maschinenkanone|2|FxF"
+          "AC-Reaper-Maschinenkanone|2|FxF"
         ],
         "specialRules": [
         ]
@@ -21,8 +21,8 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Havoc Werfer||FxF",
-          "AC Zwillings-Laserkanone||FxF",
+          "AC-Havoc-Werfer||FxF",
+          "Blackstar-Hurrikanbolter||FxF",
           "AC Incendiary Bomben||FxF"
         ],
         "specialRules": [
@@ -74,7 +74,7 @@
         "weapons": [
           "AC Incendiary Bomben||FxF",
           "AC Flammen Kanone||FxF",
-          "AC Zwillings-Laserkanone||FxF"
+          "Blackstar-Hurrikanbolter||FxF"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -87,8 +87,8 @@
         "armour": 4,
         "weapons": [
           "AC Schwerer Incendiary Bomben||FxF",
-          "AC Zwillings-Reaper Maschinenkanone|2|FxF",
-          "AC Combi-Bolter|2|"
+          "AC-Zwillings-Reaper-Maschinenkanone|2|FxF",
+          "AC-Kombibolter|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -103,8 +103,8 @@
         "armour": 4,
         "weapons": [
           "AC Blight Bomben||FxF",
-          "AC Zwillings-Reaper Maschinenkanone|2|FxF",
-          "AC Combi-Bolter|2|"
+          "AC-Zwillings-Reaper-Maschinenkanone|2|FxF",
+          "AC-Kombibolter|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -118,7 +118,7 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Vierlings-Laserkanone||FxF",
+          "AC-Hurrikanbolter||FxF",
           "AC Xiphon Rotary Raketenwerfer||FxF"
         ],
         "specialRules": [
@@ -132,8 +132,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Vierlings-Laserkanone||FxF",
-          "AC Zwillings-Schwerer Bolter||FxF",
+          "AC-Hurrikanbolter||FxF",
+          "AC-Zwillings-Schwerbolter||FxF",
           "Vengeance Werfer||"
         ],
         "specialRules": [
@@ -152,9 +152,9 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Zwillings-Avenger Bolter Kanone||FxF",
-          "AC Rakete Batterie||FxF",
-          "AC Vierlings-Schwerer Bolter Türme||"
+          "AC-Zwillings-Avenger-Bolterkanone||FxF",
+          "AC-Raketenbatterie||FxF",
+          "AC-Vierlings-Schwerbolter-Türme||"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -171,9 +171,9 @@
         "ff": 4,
         "weapons": [
           "Kampfkanone||FxF",
-          "AC Zwillings-Schwerer Bolter|2|FxF",
-          "AC Zwillings-Schwerer Bolter||Left",
-          "AC Zwillings-Schwerer Bolter||Right"
+          "AC-Zwillings-Schwerbolter|2|FxF",
+          "AC-Zwillings-Schwerbolter||Left",
+          "AC-Zwillings-Schwerbolter||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -192,10 +192,10 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Laser Zerstörer||FxF",
-          "AC Reaper Maschinenkanone|2|FxF",
-          "AC Reaper Maschinenkanone||Left",
-          "AC Reaper Maschinenkanone||Right"
+          "AC-Laserzerstörer||FxF",
+          "AC-Reaper-Maschinenkanone|2|FxF",
+          "AC-Reaper-Maschinenkanone||Left",
+          "AC-Reaper-Maschinenkanone||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -215,9 +215,9 @@
         "ff": 4,
         "weapons": [
           "Kampfkanone||FxF",
-          "AC Zwillings-Schwerer Bolter|2|FxF",
-          "AC Zwillings-Schwerer Bolter||Left",
-          "AC Zwillings-Schwerer Bolter||Right"
+          "AC-Zwillings-Schwerbolter|2|FxF",
+          "AC-Zwillings-Schwerbolter||Left",
+          "AC-Zwillings-Schwerbolter||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -237,9 +237,9 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "AC Zwillings-Laserkanone|3|FxF",
-          "AC Zwillings-Schwerer Bolter|2|Left",
-          "AC Zwillings-Schwerer Bolter|2|Right"
+          "Blackstar-Hurrikanbolter|3|FxF",
+          "AC-Zwillings-Schwerbolter|2|Left",
+          "AC-Zwillings-Schwerbolter|2|Right"
         ],
         "specialRules": [
           "Damage Capacity 3",

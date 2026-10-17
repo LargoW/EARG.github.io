@@ -75,7 +75,7 @@
         "ff": 5,
         "weapons": [
           "Energiewaffe",
-          "Plasma Geschütz|2|"
+          "Plasmageschütz|2|"
         ],
         "specialRules": [
           "Oberbefehlshaber"
@@ -248,7 +248,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasma Geschütz|2|"
+          "Plasmageschütz|2|"
         ],
         "specialRules": [
           "Befehlshaber"
@@ -262,7 +262,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasma Geschütz|2|"
+          "Plasmageschütz|2|"
         ],
         "specialRules": [
           "Aufklärer",
@@ -421,7 +421,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Flakk Raketenwerfer|2|"
+          "Laserkanonenbatterie|2|"
         ],
         "specialRules": [
         ]
@@ -434,7 +434,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Ripper Geschütze",
+          "Ripper-Geschütze",
           "Ogryn Waffen"
         ],
         "specialRules": [
@@ -557,7 +557,7 @@
         "ff": 5,
         "weapons": [
           "Schwerer Flammenwerfer",
-          "Melta Bomben"
+          "Melterbomben"
         ],
         "specialRules": [
           "Geländegängig (also works against enemy fortifications)"
@@ -571,7 +571,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasma Geschütze"
+          "Plasmageschütze"
         ],
         "specialRules": [
           "Aufklärer"
@@ -585,7 +585,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasma Geschütze"
+          "Plasmageschütze"
         ],
         "specialRules": [
           "Grav-Chutes",
@@ -747,7 +747,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Multi-Rakete Pod"
+          "Mehrfachraketenbehälter"
         ],
         "specialRules": [
           "Geländegängig"
@@ -786,7 +786,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer Stubber Turm"
+          "Zwillings-Schwerer-Stubber-Turm"
         ],
         "specialRules": [
         ]
@@ -981,7 +981,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Deathstrike Rakete",
+          "Todesstoß-Rakete",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -993,7 +993,7 @@
         "speed": "Immobile",
         "armour": 5,
         "weapons": [
-          "Deathstrike Rakete|2"
+          "Todesstoß-Rakete|2"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -1143,7 +1143,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rakete Werfer",
+          "Raketenwerfer",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1245,7 +1245,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Plasma Zerstörer",
+          "Plasma-Zerstörer",
           "Laserkanone",
           "Plasmakanone|2|"
         ],
@@ -1276,7 +1276,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Conqueror Kanone",
+          "Conqueror-Kanone",
           "Schwerer Bolter|3|"
         ],
         "specialRules": [
@@ -1338,7 +1338,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Punisher Gatlingkanone",
+          "Bestrafungs-Gatlingkanone",
           "Laserkanone",
           "Schwerer Bolter|2|"
         ],
@@ -1354,7 +1354,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rakete Pods",
+          "Raketenbehälter",
           "Multilaser",
           "Schwerer Bolter|2|"
         ],
@@ -1388,7 +1388,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Hellstrike Raketen|2|",
+          "Höllenschlagraketen|2|",
           "Zwillings-Maschinenkanone",
           "Schwerer Bolter"
         ],
@@ -1405,7 +1405,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Laserkanone Batterie",
+          "Verdammnissturm-Rakete",
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
@@ -1456,7 +1456,7 @@
         "ff": 4,
         "weapons": [
           "Belagerungskanone",
-          "Schwerer Bolter Batterie"
+          "Batterie schwerer Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1584,7 +1584,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Planetary Verteidigungs Laser",
+          "Planetarer Verteidigungslaser",
           "Zwillings-Schwerer Stubber|3|"
         ],
         "specialRules": [
@@ -1624,7 +1624,7 @@
           "Maschinenkanone",
           "Belagerungskanone||FxF",
           "Laserkanone|2|FxF",
-          "Zwillings-Schwerer Bolter|3|FxF"
+          "Zwillings-Schwerbolter|3|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1640,10 +1640,10 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Hellhammer Kanone",
+          "Schildbrecher-Raketen",
           "Maschinenkanone",
           "Belagerungskanone||FxF",
-          "Zwillings-Schwerer Bolter|3|FxF",
+          "Zwillings-Schwerbolter|3|FxF",
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
@@ -1661,8 +1661,8 @@
         "ff": 4,
         "weapons": [
           "Vulcan-Megabolter||FxF",
-          "Zwillings-Schwerer Bolter||FxF",
-          "Zwillings-Schwerer Flammenwerfer  |2|"
+          "Zwillings-Schwerbolter||FxF",
+          "Zwillings-Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1681,7 +1681,7 @@
         "ff": 4,
         "weapons": [
           "Tremor Kanone||FxF",
-          "Zwillings-Schwerer Bolter|2|FxF"
+          "Zwillings-Schwerbolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1699,7 +1699,7 @@
         "ff": 5,
         "weapons": [
           "Volcano Kanone||FxF",
-          "Zwillings-Schwerer Bolter|2|FxF"
+          "Zwillings-Schwerbolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1717,7 +1717,7 @@
         "weapons": [
           "Stormblade-Blaster||FxF",
           "Laserkanone|2|FxF",
-          "Zwillings-Schwerer Bolter|3|FxF"
+          "Zwillings-Schwerbolter|3|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1734,8 +1734,8 @@
         "ff": 4,
         "weapons": [
           "Belagerungs-Kanone||FxF",
-          "Zwillings-Schwerer Bolter|3|FxF",
-          "Schwerer Flammenwerfer |2|"
+          "Zwillings-Schwerbolter|3|FxF",
+          "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1754,7 +1754,7 @@
           "Zwillings-Ragnarok Kampfkanone||",
           "Zwillings-Ragnarok Kampfkanone||FxF",
           "Vierlings-Laserkanone||FxF",
-          "Vierlings-Schwerer Bolter|2|FwA"
+          "Vierlings-Schwerbolter|2|FwA"
         ],
         "specialRules": [
           "Damage Capacity 3",

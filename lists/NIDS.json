@@ -249,7 +249,7 @@
         "speed": 20,
         "cc": 5,
         "weapons": [
-          "Ripping Claws"
+          "Reißende Claws"
         ],
         "specialRules": [
           "Gaunts",
@@ -445,7 +445,7 @@
         "ff": 5,
         "weapons": [
           "Venom Cannon",
-          "Ripping Claws"
+          "Reißende Claws"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -815,7 +815,7 @@
           "Bio-Plasma Burst",
           "Hail of Barbed Spears",
           "Ripper Tentacles",
-          "Monstrous Claws"
+          "Monströse Claws"
         ],
         "specialRules": [
           "Damage Capacity: 6",

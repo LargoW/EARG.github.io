@@ -415,7 +415,7 @@
         "ff": "5+/4",
         "weapons": [
           "Auslöschungsstrahler|0-1|",
-          "Zwillings-Schwerer Phosphor Blaster|0-1|",
+          "Schwerer Zwillings-Phosphorblaster|0-1|",
           "Neutronenlaser|0-1|",
           "Icarus Batterie|0-1|"
         ],
@@ -492,7 +492,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Conqueror Kanone",
+          "Conqueror-Kanone",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -557,7 +557,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Plasma Zerstörer",
+          "Plasma-Zerstörer",
           "Laserkanone",
           "Plasmakanone|2|"
         ],
@@ -575,14 +575,14 @@
         "weapons": [
           "Zwillings-Schwerer Stubber|2|",
           ">Battle Weapons<",
-          "Turbo-Laser Zerstörer|0-1|FxF",
+          "Turbolaserzerstörer|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Schwerer Icarus Batterie|0-1|",
           "Titan Plasmakanone|0-1|FxF",
-          "Titan Meltakanone |0-1|",
+          "Titan-Meltakanone|0-1|",
           "Gatling-Blaster|0-1|FxF",
           ">Support Weapons<",
-          "Plasma Zerstörer|0-1|FxF",
+          "Plasma-Zerstörer|0-1|FxF",
           "Quake Kanone|0-1|FxF",
           "Volcano Kanone|0-1|FxF"
         ],
@@ -605,11 +605,11 @@
         "weapons": [
           "Zwillings-Schwerer Stubber|2|",
           ">Battle Weapons<",
-          "Turbo-Laser Zerstörer|0-1|FxF",
+          "Turbolaserzerstörer|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Schwerer Icarus Batterie|0-1|",
           "Titan Plasmakanone|0-1|FxF",
-          "Titan Meltakanone |0-1|",
+          "Titan-Meltakanone|0-1|",
           "Gatling-Blaster|0-1|FxF"
         ],
         "specialRules": [
@@ -632,11 +632,11 @@
           "Zwillings-Schwerer Stubber|2|",
           "Laserkanone|2|",
           ">Ordinatus Armageddon<",
-          "Nova Kanone||FxF",
+          "Novakanone||FxF",
           ">Ordinatus Mars<",
           "Schall-Versprengenor||FxF",
           ">Ordinatus Golgotha<",
-          "Hellfire Rakete|6|FxF"
+          "Höllenfeuer-Rakete|6|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -700,9 +700,9 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Avenger Bolter Kanone||FxF",
+          "AC-Avenger-Bolterkanone||FxF",
           "AC Zwillings-Maschinenkanone||FxF",
-          "AC Schwerer Stubber Turm"
+          "AC-Schwerer-Stubber-Turm"
         ],
         "specialRules": [
         ]
@@ -713,8 +713,8 @@
         "armour": 5,
         "weapons": [
           "AC Phosphorblaster|FxF",
-          "AC Zwillings-Laserkanone|FxF",
-          "AC Zwillings-Schwerer Stubber Turm"
+          "Blackstar-Hurrikanbolter|FxF",
+          "AC-Zwillings-Schwerer-Stubber-Turm"
         ],
         "specialRules": [
         ]

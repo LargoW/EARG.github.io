@@ -103,7 +103,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Phospex Werfer"
+          "Phospex-Werfer"
         ],
         "specialRules": []
       },
@@ -115,7 +115,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Zwillings-Reaper Maschinenkanone",
+          "Zwillings-Reaper-Maschinenkanone",
           "Energiefaust"
         ],
         "specialRules": [
@@ -132,7 +132,7 @@
         "armour": 5,
         "ff": 4,
         "weapons": [
-          "Reaper Maschinenkanone"
+          "Reaper-Maschinenkanone"
         ],
         "specialRules": [
           "Machine Spirit",
@@ -212,7 +212,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Lightning Kanone"
+          "Blitzkanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -248,9 +248,9 @@
           "Zwillings-Hades Maschinenkanone|0-1|",
           ">Support Weapons<",
           "Plasma-Verbrenner|0-1|FxF",
-          "Kanone of Chaos|0-1|FxF",
+          "Kanone des Chaos|0-1|FxF",
           "Cyclone Kanone|0-1|FxF",
-          "4x Havoc Sperrfeuer Rakete|0-1|FwA"
+          "4x Havoc-Sperrfeuer-Rakete|0-1|FwA"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -295,7 +295,7 @@
           "Schwerer Bolter|2|",
           "Laserkanone|2|",
           ">Ordinatus Cyclothrathe<",
-          "Terrebrax Phospex Batterie||FxF",
+          "Terrebrax-Phospex-Batterie||FxF",
           ">Ordinatus Retlaxi<",
           "Graviton-Singularitätsstrahler||FxF",
           ">Ordinatus Temporia<",
@@ -319,7 +319,7 @@
         "weapons": [
             "Schwerer Bolter|2|",
             "Laserkanone|2|",
-          "Terrebrax Phospex Batterie||FxF"
+          "Terrebrax-Phospex-Batterie||FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -337,9 +337,9 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Kaban Versprengenor||FwA",
-          "Kaban Konversions Beamer||FwA",
-          "Kaban Guntails"
+          "Kaban-Versprengenor||FwA",
+          "Kaban-Konversionsstrahler||FwA",
+          "Kaban-Schwanzgeschütze"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -359,7 +359,7 @@
         "ff": 3,
         "weapons": [
           "Kampfkanone",
-          "Reaper Maschinenkanone",
+          "Reaper-Maschinenkanone",
           "Schwerer Flammenwerfer",
           "Kampfklauen"
         ],
@@ -379,7 +379,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Hellfire Kanone"
+          "Laserzerstörer-Batterie"
         ],
         "specialRules": [
           "Furchtlos",
@@ -430,7 +430,7 @@
         "ff": 5,
         "weapons": [
           "Lasher Ranken",
-          "Melta Schneider"
+          "Melterschneider"
         ],
         "specialRules": [
           "Furchtlos",
@@ -487,7 +487,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Zwillings-Reaper Maschinenkanone",
+          "Zwillings-Reaper-Maschinenkanone",
           "Schwerer Stubber"
         ],
         "specialRules": [
@@ -507,7 +507,7 @@
         "ff": 4,
         "weapons": [
           "Schnellfeuer Kampfkanone",
-          "Reaper Maschinenkanone",
+          "Reaper-Maschinenkanone",
           "Renegade Kettenschwert"
         ],
         "specialRules": [
@@ -527,9 +527,9 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Lightning Kanone",
+          "Blitzkanone",
           "Pulsar-Füsil",
-          "Zwillings-Siegebreaker Kanone|2|FwA",
+          "Verdammnisschlag-Rakete|2|FwA",
           "Hyperwellenhorn"
         ],
         "specialRules": [
@@ -551,19 +551,19 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Zwillings-Reaper Maschinenkanone",
+          "Zwillings-Reaper-Maschinenkanone",
           "Renegade Kettenschwert",
           ">Incarnate Slaughter<",
           "Hyperwellenhorn",
           "Donnerschlaghandschuh",
           ">Gilded King<",
           "Schnellfeuer Kampfkanone",
-          "Ironstorm Raketen-Pod",
-          ">Hatred of Krastellan<",
+          "Sturmfurie-Raketen",
+          ">Hass auf Krastellan<",
           "Schwerer Neutronenlaser",
-          ">Litany of Destruction<",
-          "Laser Zerstörer",
-          "Stormspear Rakete Pod"
+          ">Litanei der Zerstörung<",
+          "Laserzerstörer",
+          "Stormspear-Raketenbehälter"
         ],
         "specialRules": [
           "Furchtlos",
@@ -585,7 +585,7 @@
         "ff": 5,
         "weapons": [
           "Decimator Kanone||FxF",
-          "Zwillings-Reaper Maschinenkanone|4|FxF"
+          "Zwillings-Reaper-Maschinenkanone|4|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -605,7 +605,7 @@
         "ff": 3,
         "weapons": [
           "Kampfkanone|2|FxF",
-          "Reaper Maschinenkanone|4|FxF"
+          "Reaper-Maschinenkanone|4|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -747,7 +747,7 @@
         "weapons": [
           "Tormentor Kanonen",
           "Verdammnissirene",
-          "Hellslicer Kampf-Klaue|2|"
+          "Ionengewehre|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -768,8 +768,8 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Zwillings-Reaper Maschinenkanone",
-          "Plague Kanone",
+          "Zwillings-Reaper-Maschinenkanone",
+          "Seuchenkanone",
           "Kampfklauen"
         ],
         "specialRules": [
@@ -788,7 +788,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Reaper Maschinenkanone",
+          "Reaper-Maschinenkanone",
           "Maw Kanone"
         ],
         "specialRules": [
@@ -806,7 +806,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Plague Katapult",
+          "Seuchenkatapult",
           "Vomit Kanone"
         ],
         "specialRules": [
@@ -825,7 +825,7 @@
         "weapons": [
           "Pus Kanone||",
           "Laserkanone|2|FxF",
-          "Zwillings-Schwerer Bolter|3|FxF",
+          "Zwillings-Schwerbolter|3|FxF",
           "Bile Kanone",
           "Nurglinge"
         ],
@@ -846,8 +846,8 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Laser Zerstörer||FwA",
-          "Pus Werfer Pod||FwA",
+          "Laserzerstörer||FwA",
+          "Pustelwerfer-Kapsel||FwA",
           "Renegade Kettenschwert"
         ],
         "specialRules": [
@@ -869,7 +869,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Plague Mörser||FxF",
+          "Seuchenmörser||FxF",
           "Belagerungskanone|2|FxF",
           "Bile Kanone",
           "Nurglinge"
@@ -893,7 +893,7 @@
         "ff": 4,
         "weapons": [
           "Schwerer Kanone",
-          "Reaper Maschinenkanone",
+          "Reaper-Maschinenkanone",
           "Kampfklauen"
         ],
         "specialRules": [
@@ -912,7 +912,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Hellfire Kanone"
+          "Laserzerstörer-Batterie"
         ],
         "specialRules": [
           "Furchtlos",
@@ -962,7 +962,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Stormspear Rakete Pod",
+          "Stormspear-Raketenbehälter",
           "Verdammnishandschuh",
           "Renegade Kettenschwert"
         ],
@@ -985,10 +985,10 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Scorpion Kanone||FwA",
+          "Scorpion-Kanone||FwA",
           "Belagerungskanone||FxF",
-          "Zwillings-Hellmaw||FxF",
-          "Scorpion Klauen"
+          "AC-Vierlings-Laserkanone||FxF",
+          "Scorpion-Klauen"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -1029,9 +1029,9 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Hellstrike Kanone||FxF",
-          "Hellfire Kanone|2|FxF",
-          "Zwillings-Reaper Maschinenkanone Turm|2|"
+          "Höllenschlagkanone||FxF",
+          "Laserzerstörer-Batterie|2|FxF",
+          "Zwillings-Reaper-Maschinenkanonenturm|2|"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -1052,7 +1052,7 @@
         "weapons": [
           "Kampfkanone",
           "Zwillings-Schwerer Warpflamer",
-          "Eye of Magnus",
+          "Auge des Magnus",
           "Kampfklauen"
         ],
         "specialRules": [
@@ -1072,7 +1072,7 @@
         "ff": 4,
         "weapons": [
           "Arcane Kanonen",
-          "Strahl of Energie"
+          "Strahl der Energie"
         ],
         "specialRules": [
           "Furchtlos",
@@ -1090,7 +1090,7 @@
         "ff": 4,
         "weapons": [
           "Schnellfeuer Kampfkanone||FwA",
-          "Corruptor Gatlingkanone||FwA",
+          "Verderber-Gatlingkanone||FwA",
           "Hyperwellenhorn"
         ],
         "specialRules": [
@@ -1134,7 +1134,7 @@
         "weapons": [
           "Tzeentchs Warpflamme",
           "Arcane Kanonen|3|",
-          "Strahl of Energie|2|"
+          "Strahl der Energie|2|"
         ],
         "specialRules": [
           "Damage Capacity 6",

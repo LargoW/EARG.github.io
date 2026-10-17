@@ -324,7 +324,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Impuls Desintegrator|2|"
+          "Impuls-Desintegrator|2|"
         ],
         "specialRules": [
           "Antigrav",
@@ -383,7 +383,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Zwillings-Shadow Lance|2|",
+          "Zwillings-Schattenlanze|2|",
           "Tormentor Klingen"
         ],
         "specialRules": [
@@ -403,7 +403,7 @@
         "armour": 5,
         "ff": 4,
         "weapons": [
-          "Zwillings-Schwerer Phantom Lance||FxF",
+          "Zwillings-Schwere Phantomlanze||FxF",
           "Splittersturm",
           "Desintegrator Batterie"
         ],

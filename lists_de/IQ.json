@@ -186,7 +186,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasma Geschütze"
+          "Plasmageschütze"
         ],
         "specialRules": [
         ]
@@ -301,7 +301,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Dual Boltpistolen"
+          "Zwillings-Boltpistolen"
         ],
         "specialRules": [
           "Faithful",
@@ -417,7 +417,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Zwillings-Schwerer Bolter",
+          "Zwillings-Schwerbolter",
           "Penitent Flegel"
         ],
         "specialRules": [
@@ -434,7 +434,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer Bolter",
+          "Zwillings-Schwerbolter",
           "Penitent Flegel"
         ],
         "specialRules": [
@@ -561,8 +561,8 @@
         "ff": 4,
         "weapons": [
           "Vulcan-Megabolter||FxF",
-          "Zwillings-Schwerer Bolter||FxF",
-          "Zwillings-Schwerer Flammenwerfer  |2|"
+          "Zwillings-Schwerbolter||FxF",
+          "Zwillings-Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -604,8 +604,8 @@
         "weapons": [
           "Volcano Kanone||FxF",
           "Kampfkanone|4|",
-          "Inferno Kanone |4|",
-          "Schwerer Bolter AA Turm|2|"
+          "Inferno-Kanone|4|",
+          "Schwerer Bolter-Flugabwehrturm|2|"
         ],
         "specialRules": [
           "Damage Capacity 8",

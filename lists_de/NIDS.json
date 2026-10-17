@@ -66,7 +66,7 @@
         "ff": 5,
         "weapons": [
           "Gift Kanone",
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Assisted Swarming",
@@ -88,7 +88,7 @@
         "ff": 5,
         "weapons": [
           "Gift Kanone",
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Assisted Swarming",
@@ -111,7 +111,7 @@
         "ff": 5,
         "weapons": [
           "Gift Kanone",
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Synapse",
@@ -130,7 +130,7 @@
         "ff": 5,
         "weapons": [
           "Gift Kanone",
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Synapse",
@@ -237,7 +237,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Gaunt Bio-Kanone"
+          "Gaunt-Biokanone"
         ],
         "specialRules": [
           "Gaunts"
@@ -249,7 +249,7 @@
         "speed": 20,
         "cc": 5,
         "weapons": [
-          "Ripping Klauen"
+          "Reißende Klauen"
         ],
         "specialRules": [
           "Gaunts",
@@ -292,7 +292,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Spore Minen"
+          "Sporenminen"
         ],
         "specialRules": [
         ]
@@ -337,7 +337,7 @@
         "cc": 2,
         "ff": 6,
         "weapons": [
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Regeneration",
@@ -384,7 +384,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Bio-Säure-Gift Pods"
+          "Bio-Säure-Giftkapseln"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -398,7 +398,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Bio-Plasmic Kanone"
+          "Bioplasmakanone"
         ],
         "specialRules": [
             "Verstärkte Panzerung"
@@ -413,7 +413,7 @@
         "ff": 5,
         "weapons": [
           "Säure Jets",
-          "Massiv Klauen"
+          "Massive Klauen"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -428,7 +428,7 @@
         "ff": 5,
         "weapons": [
           "Frag Stacheln",
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -445,7 +445,7 @@
         "ff": 5,
         "weapons": [
           "Gift Kanone",
-          "Ripping Klauen"
+          "Reißende Klauen"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -461,7 +461,7 @@
         "ff": 5,
         "weapons": [
           "Bioplasma",
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
            "Infiltratorens",
@@ -476,7 +476,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Impaler Kanone"
+          "Pfählerkanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -491,7 +491,7 @@
         "ff": 5,
         "weapons": [
           "Frag Stacheln",
-          "Groß Klauen",
+          "Große Klauen",
           "Gauntbeutel"
         ],
         "specialRules": [
@@ -525,8 +525,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Bio-Electric Feld",
-          "Massiv Scything Krallen"
+          "Bioelektrisches Feld",
+          "Massive Sensenklauen"
         ],
         "specialRules": [
           "Damage Capacity: 4",
@@ -546,8 +546,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Bio-Electric Feld",
-          "Groß Klauen"
+          "Bioelektrisches Feld",
+          "Große Klauen"
         ],
         "specialRules": [
           "Synapse",
@@ -564,8 +564,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Bio-Electric Feld",
-          "Groß Klauen"
+          "Bioelektrisches Feld",
+          "Große Klauen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -582,7 +582,7 @@
         "weapons": [
           "Bio-Kanone",
           "Tentakliden",
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -605,7 +605,7 @@
         "weapons": [
           "Drool Kanone|2|",
           "Tentakliden",
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -627,7 +627,7 @@
         "ff": 5,
         "weapons": [
           "Zwillings-Bio-Kanone",
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -646,7 +646,7 @@
         "ff": 5,
         "weapons": [
           "Zwillings-Bio-Kanone",
-          "Groß Klauen"
+          "Große Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -663,7 +663,7 @@
         "ff": 5,
         "weapons": [
           "Pyro-Säure",
-          "Massiv Scything Krallen"
+          "Massive Sensenklauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -682,7 +682,7 @@
         "ff": 5,
         "weapons": [
           "Pyro-Säure",
-          "Massiv Scything Krallen"
+          "Massive Sensenklauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -733,10 +733,10 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Kanone",
+          "Bio-Titan-Biokanone",
           "Bioplasmastrahl",
           "Bioplasma-Salve",
-          "Massiv Scything Krallen"
+          "Massive Sensenklauen"
         ],
         "specialRules": [
           "Damage Capacity: 6",
@@ -760,8 +760,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Energy Impuls",
-          "Massiv Scything Krallen",
+          "Bioenergieimpuls",
+          "Massive Sensenklauen",
           "Gauntbeutel"
         ],
         "specialRules": [
@@ -789,9 +789,9 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Kanone",
-          "Hail of Barbed Speere",
-          "Massiv Scything Krallen"
+          "Bio-Titan-Biokanone",
+          "Hagel aus Stachelspeeren",
+          "Massive Sensenklauen"
         ],
         "specialRules": [
           "Damage Capacity: 4",
@@ -810,11 +810,11 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Kanone",
+          "Bio-Titan-Biokanone",
           "Bioplasma-Salve",
-          "Hail of Barbed Speere",
-          "Ripper Tentakel",
-          "Monstrous Klauen"
+          "Hagel aus Stachelspeeren",
+          "Ripper-Tentakel",
+          "Monströse Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 6",

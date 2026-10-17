@@ -23,9 +23,9 @@
         "speed": "Fighter-Bomber",
         "armour": 4,
         "weapons": [
-          "AC Zwillings-Void Lance",
+          "AC-Zwillings-Leerenlanze",
           "AC Zwillings-Splitterkanone",
-          "AC Void Minen"
+          "AC-Leerenminen"
         ],
         "specialRules": [
         ]
