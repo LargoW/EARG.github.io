@@ -587,7 +587,7 @@
           "Volcano Kanone|0-1|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -613,7 +613,7 @@
           "Gatling-Blaster|0-1|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -639,7 +639,7 @@
           "Höllenfeuer-Rakete|6|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -657,7 +657,7 @@
           "Zwillings-Schwerer Maschinengewehr|4|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"
@@ -675,7 +675,7 @@
           "Sturmbolter Batterie"
         ],
         "specialRules": [
-          "Damage capacity: 2",
+          "Schadenskapazität: 2",
           "Verstärkte Panzerung",
           "Tunnelgräber",
           "Transport"

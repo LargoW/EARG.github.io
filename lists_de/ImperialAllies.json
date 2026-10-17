@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Streitkräfte der Collegia Titanica",
     "specialRules": [
@@ -37,7 +37,7 @@
           "Beinbastionen"
         ],
         "specialRules": [
-          "Schadenskapazität10",
+          "Schadenskapazität 10",
           "Null Schilde 8",
           "Göttermaschine",
           "Split Fire",
@@ -64,7 +64,7 @@
           "Beinbastionen"
         ],
         "specialRules": [
-          "Schadenskapazität10",
+          "Schadenskapazität 10",
           "Null Schilde 8",
           "Göttermaschine",
           "Split Fire",
@@ -91,7 +91,7 @@
           "Anvilus Maschinenkanone Batterie|2|"
         ],
         "specialRules": [
-          "Schadenskapazität9",
+          "Schadenskapazität 9",
           "Null Schilde 7",
           "Göttermaschine",
           "Split Fire",
@@ -116,7 +116,7 @@
           "Gekoppelte Apocalypse-Raketenwerfer|0-1|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität8",
+          "Schadenskapazität 8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",
@@ -151,7 +151,7 @@
           "Plasma-Zerstörer|0-1|FwA"
         ],
         "specialRules": [
-          "Schadenskapazität8",
+          "Schadenskapazität 8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",
@@ -185,7 +185,7 @@
           "2x Laserblaster|0-1|FwA"
         ],
         "specialRules": [
-          "Schadenskapazität8",
+          "Schadenskapazität 8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",
@@ -208,7 +208,7 @@
           "Apocalypse Raketenwerfer||FxF"
         ],
         "specialRules": [
-          "Schadenskapazität6",
+          "Schadenskapazität 6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -237,7 +237,7 @@
           "Anvilus-Panzerungslandeplattform||FxF"
         ],
         "specialRules": [
-          "Schadenskapazität6",
+          "Schadenskapazität 6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -268,7 +268,7 @@
           "Titan Meltakanone|0-2|"
         ],
         "specialRules": [
-          "Schadenskapazität6",
+          "Schadenskapazität 6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -299,7 +299,7 @@
           "Volcano Kanone|0-1|FwA"
         ],
         "specialRules": [
-          "Schadenskapazität6",
+          "Schadenskapazität 6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -331,7 +331,7 @@
           "Plasma-Zerstörer|0-1|FwA"
         ],
         "specialRules": [
-          "Schadenskapazität6",
+          "Schadenskapazität 6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -352,7 +352,7 @@
           "Vulcan-Megabolter||FwA"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -380,7 +380,7 @@
           "Späher-Turbolaserzerstörer||FwA"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",

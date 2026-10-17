@@ -228,7 +228,7 @@
           "Prism Projektor||FxF"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Geländegängig"
         ],
         "crit": "Great Megadon wird zerstört."
@@ -245,7 +245,7 @@
           "Klauen, Zähne \u0026 Schwanz"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Befehlshaber",
           "Furchtlos",
           "Sprungmodule",
@@ -265,7 +265,7 @@
           "Ferocious Biss"
         ],
         "specialRules": [
-          "Damage Capacity: 5",
+          "Schadenskapazität: 5",
           "Furchtlos",
           "Geländegängig"
         ],

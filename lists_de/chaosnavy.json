@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Chaosflotte",
     "specialRules": [
@@ -91,7 +91,7 @@
           "AC-Kombibolter|2|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Unmodifizierter Rettungswurf"
         ],
         "crit": "Harbringer Bomber wird zerstört."
@@ -107,7 +107,7 @@
           "AC-Kombibolter|2|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Unmodifizierter Rettungswurf"
         ],
         "crit": "Blightbringer Bomber wird zerstört."
@@ -137,7 +137,7 @@
           "Vengeance Werfer||"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Starrköpfig",
           "Verstärkte Panzerung",
@@ -157,7 +157,7 @@
           "AC-Vierlings-Schwere Bolter-Türme||"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "Fire Raptor wird zerstört."
@@ -176,7 +176,7 @@
           "AC-Zwillings-Schwere Bolter||Right"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -198,7 +198,7 @@
           "AC-Reaper-Maschinenkanone||Right"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -220,7 +220,7 @@
           "AC-Zwillings-Schwere Bolter||Right"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Starrköpfig",
           "Planetfall",
           "Verstärkte Panzerung",
@@ -242,7 +242,7 @@
           "AC-Zwillings-Schwere Bolter|2|Right"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Planetfall",

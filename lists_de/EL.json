@@ -105,7 +105,7 @@
                 "Klagendes Verderben"
             ],
             "specialRules": [
-                "Schadenskapazität3",
+                "Schadenskapazität 3",
                 "Inspirierend",
                 "Furchtlos",
                 "Befehlshaber",
@@ -714,7 +714,7 @@
                 "Shurikenkanone"
             ],
             "specialRules": [
-                "Damage Capacity: 2",
+                "Schadenskapazität: 2",
                 "Verstärkte Panzerung",
                 "Holofield (5+)",
                 "Antigrav"
@@ -734,7 +734,7 @@
                 "Streulaser|2"
             ],
             "specialRules": [
-                "Damage Capacity: 3",
+                "Schadenskapazität: 3",
                 "Verstärkte Panzerung",
                 "Holofield (4+)",
                 "Antigrav"
@@ -754,7 +754,7 @@
                 "Shurikenkanone"
             ],
             "specialRules": [
-                "Damage Capacity: 3",
+                "Schadenskapazität: 3",
                 "Verstärkte Panzerung",
                 "Holofield (4+)",
                 "Antigrav"
@@ -774,7 +774,7 @@
                 "Shurikenkanone"
             ],
             "specialRules": [
-                "Damage Capacity: 3",
+                "Schadenskapazität: 3",
                 "Verstärkte Panzerung",
                 "Holofield (4+)",
                 "Antigrav"
@@ -793,7 +793,7 @@
                 "Streulaser"
             ],
             "specialRules": [
-                "Damage Capacity: 3",
+                "Schadenskapazität: 3",
                 "Verstärkte Panzerung",
                 "Holofield (4+)",
                 "Webway Portal",
@@ -812,7 +812,7 @@
                 "Leerspinner"
             ],
             "specialRules": [
-                "Damage Capacity: 3",
+                "Schadenskapazität: 3",
                 "Verstärkte Panzerung",
                 "Antigrav"
             ],
@@ -870,7 +870,7 @@
                 "Eldar Raketenwerfer|2|"
             ],
             "specialRules": [
-                "Damage Capacity: 3",
+                "Schadenskapazität: 3",
                 "Furchtlos",
                 "Holofield (3+)",
                 "Jump Pack",
@@ -891,7 +891,7 @@
                 "Zwillings-Eldar Raketenwerfer|2|"
             ],
             "specialRules": [
-                "Damage Capacity: 6",
+                "Schadenskapazität: 6",
                 "Furchtlos",
                 "Holofield (3+)",
                 "Anführer",
@@ -920,7 +920,7 @@
                 "Zwillings-Eldar Raketenwerfer|2|"
             ],
             "specialRules": [
-                "Damage Capacity: 6",
+                "Schadenskapazität: 6",
                 "Furchtlos",
                 "Holofield (3+)",
                 "Anführer",
@@ -942,7 +942,7 @@
                 "Zwillings-Eldar Raketenwerfer|2|"
             ],
             "specialRules": [
-                "Damage Capacity: 6",
+                "Schadenskapazität: 6",
                 "Furchtlos",
                 "Holofield (3+)",
                 "Inspirierend",

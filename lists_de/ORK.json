@@ -555,7 +555,7 @@
           "Zwillings-Große Knarre|4|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Transport"
         ],
         "notes": "8 Boyz, Flash Gitz, Nobz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grotz-Einheiten mitgeführt werden.",
@@ -573,7 +573,7 @@
           "Zwillings-Große Knarre|5|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Transport"
         ],
         "notes": "4 Boyz, Nobz, Flash Gitz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 2 Grotz-Einheiten mitgeführt werden.",
@@ -591,7 +591,7 @@
           "Flakgeschütz|3|"
         ],
         "specialRules": [
-          "Schadenskapazität3"
+          "Schadenskapazität 3"
         ],
         "crit": "Flakkafortress wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
       },
@@ -608,7 +608,7 @@
           "Skorcha|2|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3"
+          "Schadenskapazität 3"
         ],
         "crit": "Skullhamma wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer"
       },
@@ -625,7 +625,7 @@
           "Killa-Spalta|0-1|"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Power Fields 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -652,7 +652,7 @@
           "Dakka-Kanone|0-1|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Power Fields 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -674,7 +674,7 @@
           "Megaspalta|0-1|"
         ],
         "specialRules": [
-          "Schadenskapazität7",
+          "Schadenskapazität 7",
           "Power Fields 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -706,7 +706,7 @@
           "Snappa|0-1|"
         ],
         "specialRules": [
-          "Schadenskapazität7",
+          "Schadenskapazität 7",
           "Power Fields 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -729,7 +729,7 @@
           "Hebewerfer|0-1|"
         ],
         "specialRules": [
-          "Schadenskapazität10",
+          "Schadenskapazität 10",
           "Power Fields 1D3+6",
           "Göttermaschine",
           "Split Fire",
@@ -764,7 +764,7 @@
           "Snappa|0-1|"
         ],
         "specialRules": [
-          "Schadenskapazität10",
+          "Schadenskapazität 10",
           "Power Fields 1D3+6",
           "Göttermaschine",
           "Split Fire",
@@ -790,7 +790,7 @@
           "Kampfarme"
         ],
         "specialRules": [
-          "Schadenskapazität13",
+          "Schadenskapazität 13",
           "Power Fields 1D3+9",
           "Göttermaschine",
           "Split Fire",
@@ -859,7 +859,7 @@
           "AC-Blasta-Bomben||FxF"
         ],
         "specialRules": [
-          "Schadenskapazität2"
+          "Schadenskapazität 2"
         ],
         "crit": "Bommer wird zerstört."
       },
@@ -875,7 +875,7 @@
           "AC-Panzerknacker-Raketen|2|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -894,7 +894,7 @@
           "Große Knarren|4|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Planetfall[*]",
           "Verstärkte Heckpanzerung",
           "Transport"
@@ -1181,7 +1181,7 @@
           "Supa-Lobba"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität: 4",
           "Geländegängig",
           "Transport"
         ],
@@ -1201,7 +1201,7 @@
           "Spießende Hauer"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität: 6",
           "Furchtlos",
           "Geländegängig",
           "Transport"
@@ -1221,7 +1221,7 @@
           "Megaspalta"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität: 4",
           "Furchtlos",
           "Verstärkte Panzerung"
         ],

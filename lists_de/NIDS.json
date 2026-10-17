@@ -529,7 +529,7 @@
           "Massive Sensenklauen"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität: 4",
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -585,7 +585,7 @@
           "Große Klauen"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Synapse",
           "Furchtlos",
           "Antigrav",
@@ -608,7 +608,7 @@
           "Große Klauen"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Synapse",
           "Furchtlos",
           "Antigrav",
@@ -630,7 +630,7 @@
           "Große Klauen"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung"
@@ -649,7 +649,7 @@
           "Große Klauen"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Hierodule wird zerstört."
@@ -666,7 +666,7 @@
           "Massive Sensenklauen"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung"
@@ -685,7 +685,7 @@
           "Massive Sensenklauen"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Scythed Hierodule wird zerstört."
@@ -701,7 +701,7 @@
           "Zerfleischerschwärme"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Synapse",
           "Furchtlos",
           "Regeneration"
@@ -717,7 +717,7 @@
         "ff": 6,
         "weapons": [],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Synapse",
           "Assisted Swarming",
           "Furchtlos",
@@ -739,7 +739,7 @@
           "Massive Sensenklauen"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität: 6",
           "Hive Mind Locus",
           "Synapse",
           "Furchtlos",
@@ -765,7 +765,7 @@
           "Gauntbeutel"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität: 6",
           "Hive Mind Locus",
           "Synapse",
           "Furchtlos",
@@ -794,7 +794,7 @@
           "Massive Sensenklauen"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität: 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Regeneration"
@@ -817,7 +817,7 @@
           "Monströse Klauen"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität: 6",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Regeneration"

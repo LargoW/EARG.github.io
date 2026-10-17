@@ -996,7 +996,7 @@
           "Todesstoß-Rakete|2"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "Deathstrike Silo wird zerstört. Alle Einheiten innerhalb von 10cm erleiden einen Treffer."
@@ -1536,7 +1536,7 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "notes": "Muss entweder mit einer Zwillings-Vernichterkanone oder einem Vulcan-Megabolter ausgerüstet sein.",
@@ -1554,7 +1554,7 @@
           "Zwillings-Schwerer Maschinengewehr|3|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "Macharius wird zerstört."
@@ -1571,7 +1571,7 @@
           "Zwillings-Schwerer Maschinengewehr|3|"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "Macharius wird zerstört."
@@ -1588,7 +1588,7 @@
           "Zwillings-Schwerer Maschinengewehr|3|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Plasmareservoirs des Defence Laser explodieren und zerstören die Einheit. Alle Einheiten innerhalb von 5cm um das Modell erleiden bei einem Wurf von 4+ einen Treffer."
@@ -1604,7 +1604,7 @@
           "Zwillings-Schwerer Maschinengewehr|4|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"
@@ -1627,7 +1627,7 @@
           "Zwillings-Schwere Bolter|3|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
@@ -1647,7 +1647,7 @@
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
@@ -1665,7 +1665,7 @@
           "Zwillings-Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Transport"
         ],
@@ -1684,7 +1684,7 @@
           "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Transport"
         ],
@@ -1702,7 +1702,7 @@
           "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
@@ -1720,7 +1720,7 @@
           "Zwillings-Schwere Bolter|3|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
@@ -1738,7 +1738,7 @@
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
@@ -1757,7 +1757,7 @@
           "Vierlings-Schwere Bolter|2|FwA"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."

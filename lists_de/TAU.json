@@ -629,7 +629,7 @@
           "Geschwindigkeitspeiler"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Unmodifizierter Rettungswurf",
           "Geländegängig"
         ],
@@ -651,7 +651,7 @@
           "Impuls-Artillerie-Mehrfachtreiber|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity: 5",
+          "Schadenskapazität: 5",
           "Furchtlos",
           "Tau Deflector Shield",
           "Geländegängig"
@@ -673,7 +673,7 @@
           "Hellhammer-Kanone|4|"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität: 6",
           "Furchtlos",
           "Markerlights",
           "Planetfall",

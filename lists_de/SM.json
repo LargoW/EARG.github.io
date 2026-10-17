@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Space-Marine-Streitkräfte",
     "specialRules": [
@@ -2052,7 +2052,7 @@
           "Donnerfeuerkanone|0-2|"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität: 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung"
@@ -2074,7 +2074,7 @@
           "Zwillings-Schwere Bolter||FxF"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität: 4",
           "Verstärkte Panzerung"
         ],
         "crit": "Fellblade wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 5+ einen Treffer."
@@ -2092,7 +2092,7 @@
           "Zwillings-Schwere Bolter||FxF"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität: 4",
           "Verstärkte Panzerung"
         ],
         "crit": "Glaive wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 5+ einen Treffer."
@@ -2109,7 +2109,7 @@
           "AC-Zwillings-Dragonfire-Schwere Bolter|3"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Furchtlos",
           "Planetfall",
           "Verstärkte Panzerung",
@@ -2130,7 +2130,7 @@
           "AC-Zwillings-Psikanone|3"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Furchtlos",
           "Faithful",
           "Planetfall",
@@ -2153,7 +2153,7 @@
           "Zwillings-Helfrost Kanone||"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung",
           "Planetfall",
           "Transport"
@@ -2172,7 +2172,7 @@
           "AC-Zwillings-Schwere Bolter||"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "Stormfang wird zerstört."
@@ -2244,7 +2244,7 @@
           "Hammerschlagwerfer"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Wings of the Sky Angel",
           "Transport"
@@ -2289,7 +2289,7 @@
           "AC-Vierlings-Schwere Bolter-Türme||"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "Fire Raptor wird zerstört."
@@ -2307,7 +2307,7 @@
           "Vengeance Werfer||"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2328,7 +2328,7 @@
           "Vengeance Werfer||FxF"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
@@ -2351,7 +2351,7 @@
           "AC-Zwillings-Schwere Bolter||Right"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2371,7 +2371,7 @@
           "AC-Vierlings-Schwere Bolter||Right"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2391,7 +2391,7 @@
           "AC-Zwillings-Schwere Bolter|2|Right"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2411,7 +2411,7 @@
           "AC-Zwillings-Dragonfire-Schwere Bolter|2|Right"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2431,7 +2431,7 @@
           "AC-Zwillings-Psikanone|2|Right"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Faithful",
@@ -2454,7 +2454,7 @@
           "AC Bombe Racks||FxF"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "Thunderhawk wird zerstört."
@@ -2471,7 +2471,7 @@
           "AC-Zwillings-Schwere Bolter|3"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Furchtlos",
           "Planetfall",
           "Verstärkte Panzerung",
@@ -2924,7 +2924,7 @@
           "Zwillings-Schwere Bolter||FxF"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität: 4",
           "Null Schilde 2",
           "Verstärkte Panzerung"
         ],

@@ -67,7 +67,7 @@
           "AC Streulaser"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität: 2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -86,7 +86,7 @@
           "AC Streulaser"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität: 2",
           "Verstärkte Panzerung"
         ],
         "crit": "Vampire Hunter wird zerstört."
@@ -102,7 +102,7 @@
           "AC Streulaser"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität: 2",
           "Verstärkte Panzerung",
           "Holofield (5+)",
           "Transport"

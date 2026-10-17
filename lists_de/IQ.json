@@ -565,7 +565,7 @@
           "Zwillings-Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Faithful",
           "Verstärkte Panzerung",
           "Transport"
@@ -585,7 +585,7 @@
           "Inferno Kanone|2|"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Faithful",
@@ -608,7 +608,7 @@
           "Schwerer Bolter-Flugabwehrturm|2|"
         ],
         "specialRules": [
-          "Schadenskapazität8",
+          "Schadenskapazität 8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",

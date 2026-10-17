@@ -421,7 +421,7 @@
           "Helios Verteidigungs Raketen"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Starrköpfig",
           "Verstärkte Panzerung",
           "Geländegängig",
@@ -442,7 +442,7 @@
           "Karacnos-Mörserbatterie||FxF"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität: 3",
           "Starrköpfig",
           "Verstärkte Panzerung",
           "Geländegängig",

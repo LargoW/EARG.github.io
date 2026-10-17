@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Genestealer-Streitkräfte",
     "specialRules": [
@@ -441,7 +441,7 @@
           "Zwillings-Schwere Bolter|3|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
@@ -459,7 +459,7 @@
           "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
@@ -476,7 +476,7 @@
           "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."

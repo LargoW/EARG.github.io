@@ -253,7 +253,7 @@
           "4x Havoc-Sperrfeuer-Rakete|0-1|FwA"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -276,7 +276,7 @@
           "Zwillings-Hades Maschinenkanone|0-1|"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -302,7 +302,7 @@
           "Gyrator Sperrfeuer Kanone||FxF"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -322,7 +322,7 @@
           "Terrebrax-Phospex-Batterie||FxF"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -342,7 +342,7 @@
           "Kaban-Schwanzgeschütze"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Null Schilde 2",
           "Anführer",
           "Verstärkte Panzerung",
@@ -533,7 +533,7 @@
           "Hyperwellenhorn"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität: 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
@@ -588,7 +588,7 @@
           "Zwillings-Reaper-Maschinenkanone|4|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -608,7 +608,7 @@
           "Reaper-Maschinenkanone|4|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
@@ -629,7 +629,7 @@
           "Arkane Technologie||"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
@@ -727,7 +727,7 @@
           "Laserkanone|2|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
@@ -750,7 +750,7 @@
           "Ionengewehre|2|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
@@ -830,7 +830,7 @@
           "Nurglinge"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Regeneration",
@@ -851,7 +851,7 @@
           "Renegade Kettenschwert"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität: 2",
           "Furchtlos",
           "Geländegängig",
           "Verstärkte Panzerung",
@@ -875,7 +875,7 @@
           "Nurglinge"
         ],
         "specialRules": [
-          "Schadenskapazität4",
+          "Schadenskapazität 4",
           "Furchtlos",
           "Regeneration",
           "Daemon Engine (Nurgle)",
@@ -967,7 +967,7 @@
           "Renegade Kettenschwert"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität: 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
@@ -991,7 +991,7 @@
           "Scorpion-Klauen"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Furchtlos",
           "Infiltratorens",
           "Geländegängig",
@@ -1013,7 +1013,7 @@
           "Kettenfaust"
         ],
         "specialRules": [
-          "Schadenskapazität6",
+          "Schadenskapazität 6",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -1034,7 +1034,7 @@
           "Zwillings-Reaper-Maschinenkanonenturm|2|"
         ],
         "specialRules": [
-          "Schadenskapazität6",
+          "Schadenskapazität 6",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Regeneration",
@@ -1094,7 +1094,7 @@
           "Hyperwellenhorn"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität: 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
@@ -1116,7 +1116,7 @@
           "Kampfklauen"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Furchtlos",
           "Jump Pack",
           "Unmodifizierter Rettungswurf",
@@ -1137,7 +1137,7 @@
           "Strahl der Energie|2|"
         ],
         "specialRules": [
-          "Schadenskapazität6",
+          "Schadenskapazität 6",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Hilfstransportschiff",

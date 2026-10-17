@@ -284,7 +284,7 @@
           "Flakkanonen"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Hilfstransportschiff"
         ],
         "crit": "Overlord wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
@@ -317,7 +317,7 @@
           "Sturmbolter Batterie"
         ],
         "specialRules": [
-          "Schadenskapazität3",
+          "Schadenskapazität 3",
           "Furchtlos",
           "Verstärkte Heckpanzerung",
           "Tunnelgräber",
@@ -337,7 +337,7 @@
           "Squat-Megakanone"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer."
@@ -356,7 +356,7 @@
           "Sturmbolter Batterie"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität: 4",
           "Null Schilde: 4",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
@@ -379,7 +379,7 @@
           "AC-Zwillings-Shurikenkanone|6|FxF"
         ],
         "specialRules": [
-          "Damage Capacity: 5",
+          "Schadenskapazität: 5",
           "Null Schilde: 4",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
@@ -402,7 +402,7 @@
           "Sturmbolter Batterie"
         ],
         "specialRules": [
-          "Damage Capacity: 5",
+          "Schadenskapazität: 5",
           "Null Schilde: 4",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
