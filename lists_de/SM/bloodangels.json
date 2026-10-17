@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Space Marines",
   "army": "Blood Angels",
   "version": "1.0.Beta",
@@ -18,29 +18,29 @@
       "from": "SM.json",
       "units": [
         "Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assaults",
-        "Death Company Marines",
-        "Devastators",
-        "Sanguinary Guards",
+        "Sturmtrupps",
+        "Todeskompanie-Marines",
+        "Devastor-Trupps",
+        "Sanguinische-Garde",
         "Scouts",
-        "Tacticals",
-        "Death Company Dreadnought",
-        "Assault Terminators",
-        "Assault Bikes",
+        "Taktische Trupps",
+        "Todeskompanie-Cybot",
+        "Sturm-Terminatoren",
+        "Sturm-Bikes",
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
-        "Melta Bike",
-        "Attack Bike",
-        "Dreadnought, Furioso",
-        "Dreadnought",
-        "Blood Angels Hunter",
-        "Blood Angels Razorback",
-        "Blood Angels Rhino",
-        "Blood Angels Stalker",
+        "Melta-Bike",
+        "Trike",
+        "Furioso-Cybot",
+        "Cybot",
+        "Blood-Angels-Hunter",
+        "Blood-Angels-Razorback",
+        "Blood-Angels-Rhino",
+        "Blood-Angels-Stalker",
         "Land Raider",
         "Land Raider Redeemer",
         "Baal Predator Hades",
@@ -48,10 +48,10 @@
         "Storm Talon",
         "Stormraven",
         "Landing Craft",
-        "Battle Barge",
-        "Strike Cruiser",
-        "Vanguard Class Light Cruiser",
-        "Drop Pod"
+        "Schlachtbarke",
+        "Angriffskreuzer",
+        "Vanguard-Klasse-Leichter-Kreuzer",
+        "Landungskapsel"
       ],
       "unitRules": [
         "Honour Guard",
@@ -76,7 +76,7 @@
       "formations": [
         {
           "name": "1 Death Company",
-          "units": "One Chaplain, four Death Company Marines plus transport (Drop Pods oder on foot only)",
+          "units": "Ein Ordenspriester, vier Death Company Marines plus Transporter (nur Drop Pods oder zu Fuss)",
           "extraUnits": [
             "Füge 2 Death Company Marines hinzu: 75 Punkte",
             "Füge bis zu 2 Death Company Dreadnoughts hinzu: 75 Punkte pro Stück"
@@ -84,10 +84,10 @@
           "points": 250
         },
         {
-          "name": "Assaults",
-          "units": "Four Assaults",
+          "name": "Sturmtrupps",
+          "units": "Vier Assaults",
           "extraUnits": [
-            "Assaults",
+            "Sturmtrupps",
             "Befehlshaber",
             "Dreadnoughts",
             "Honor Guards",
@@ -97,8 +97,8 @@
           "points": 175
         },
         {
-          "name": "Tacticals",
-          "units": "Six Tacticals plus transport",
+          "name": "Taktische Trupps",
+          "units": "Sechs Tacticals plus Transporter",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -112,8 +112,8 @@
           "points": 275
         },
         {
-          "name": "Assault Terminators",
-          "units": "Four Assault Terminators",
+          "name": "Sturm-Terminatoren",
+          "units": "Vier Assault Terminators",
           "extraUnits": [
             "Befehlshaber",
             "Dreadnoughts",
@@ -137,7 +137,7 @@
         },
         {
           "name": "Bikes",
-          "units": "Five Assault Bikes",
+          "units": "Fünf Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
             "Befehlshaber"
@@ -145,8 +145,8 @@
           "points": 200
         },
         {
-          "name": "Devastators",
-          "units": "Four Devastators plus transport",
+          "name": "Devastor-Trupps",
+          "units": "Vier Devastators plus Transporter",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -168,7 +168,7 @@
         },
         {
           "name": "Scouts",
-          "units": "Four Scouts plus transport",
+          "units": "Vier Scouts plus Transporter",
           "extraUnits": [
             "Razorbacks",
             "Scharfschützes"
@@ -183,25 +183,25 @@
       "formations": [
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
-          "name": "Landing Craft",
-          "units": "One Landing Craft",
+          "name": "Landungsschiff",
+          "units": "Ein Landing Craft",
           "points": 325
         },
         {
-          "name": "0-1 Orbital Support",
-          "units": "One Vanguard Class Light Cruiser",
+          "name": "0–1 Orbitale Unterstützung",
+          "units": "Ein Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Ersetze den Vanguard Class Light Cruiser durch a Strike Cruiser: 50 Punkte, oder a Battle Barge: 125 Punkte"
+            "Ersetze den Vanguard Class Light Cruiser durch ein Strike Cruiser: 50 Punkte, oder ein Battle Barge: 125 Punkte"
           ],
           "points": 150
         },
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "extraUnits": [
             "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
           ],
@@ -220,23 +220,23 @@
         "options": [
           {
             "description": "Füge 1 Hunter hinzu",
-            "points": "75 points"
+            "points": "75 Punkte"
           },
           {
             "description": "Füge 1 Stalker hinzu",
-            "points": "50 points"
+            "points": "50 Punkte"
           }
         ]
       },
       {
-        "name": "Assaults",
+        "name": "Sturmtrupps",
         "description": "Füge 2 Assaults zum Verband hinzu",
-        "points": "75 points"
+        "points": "75 Punkte"
       },
       {
         "name": "Attack Bikes",
         "description": "Ersetze beliebig viele Assault Bikes durch dieselbe Anzahl an Attack Bikes oder Melta Bikes",
-        "points": "Free"
+        "points": "kostenlos"
       },
       {
         "name": "Befehlshaber",
@@ -244,57 +244,57 @@
         "options": [
           {
             "description": "Captain, Librarian",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
-            "points": "50 points"
+            "description": "Ordenspriester",
+            "points": "50 Punkte"
           },
           {
             "description": "0–1 Oberbefehlshaber",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Dreadnoughts",
         "description": "Füge bis zu 2 Dreadnoughts oder Furioso Dreadnoughts zum Verband hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Honor Guards",
         "description": "Bei einem Verband mit einem Oberbefehlshaber-Charakter: Ersetze bis zu 2 Assaults oder Tacticals durch Sanguinary Guards.",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Land Raider-Transporter",
-        "description": "Füge beliebig viele Land Raiders und/oder Land Raider Redeemers, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
-        "points": "50 points each"
+        "description": "Füge beliebig viele Land Raiders und/oder Land Raider Redeemers hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Predators",
         "description": "Füge 2 Baal Predator Hades oder 2 Baal Predator Infernus hinzu",
-        "points": "75 points"
+        "points": "75 Punkte"
       },
       {
         "name": "Razorbacks",
-        "description": "Füge beliebig viele Blood Angels Razorbacks, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
-        "points": "25 points each"
+        "description": "Füge beliebig viele Blood Angels Razorbacks hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Scharfschützes",
         "description": "Gib allen Scouts im Verband die Sonderregel „Scharfschütze“ für ihre Heavy Bolters.",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Stormraven Transports",
-        "description": "Füge beliebig viele Stormravens, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
-        "points": "50 points each"
+        "description": "Füge beliebig viele Stormravens hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Typhoons",
         "description": "Ersetze bis zu 5 Land Speeders durch dieselbe Anzahl an Land Speeder Typhoons",
-        "points": "10 points each"
+        "points": "10 Punkte pro Stück"
       }
     ]
   }

@@ -18,7 +18,7 @@
       "units": [
         "Lord Seneschal",
         "Seneschal",
-        "Twin Icarus Autocannon",
+        "Zwillings Icarus Autocannon",
         "Dominus Knight-Castellan",
         "Dominus Knight-Valiant",
         "Questoris Knight-Paladin",
@@ -54,13 +54,13 @@
       "from": "AM.json",
       "units": [
         "Magos",
-        "Hypaspists",
-        "Onager Dunecrawler",
-        "Skorpius Dunerider",
-        "Skorpius Disintegrator",
+        "Hypaspisten",
+        "Onager-Dünenkrabbler",
+        "Skorpius-Dünenreiter",
+        "Skorpius-Desintegrator",
         "Gorgon",
-        "Avenger Strike Fighter",
-        "Ark Mechanicus Battleship"
+        "Avenger-Sturzkampfflugzeug",
+        "Ark-Mechanicus-Schlachtschiff"
       ],
       "unitRules": [
       ]
@@ -73,10 +73,10 @@
       "formations": [
         {
           "name": "Questoris",
-          "units": "Two Questoris Knight-Paladins, Crusaders, Errants, Wardens oder Gallants. May not mix configurations",
+          "units": "Zwei Questoris Knight-Paladins, Crusaders, Errants, Wardens oder Gallants. Konfigurationen dürfen nicht gemischt werden",
           "extraUnits": [
-            "Füge 1 Questoris Knight of the same configuration hinzu: 125 Punkte",
-            "Füge 1 Twin Icarus Autocannon to je Questoris Knight in a formation mit Knight-Paladins, Crusaders oder Errants hinzu: 25 Punkte",
+            "Füge 1 Questoris Knight derselben Konfiguration hinzu: 125 Punkte",
+            "Füge jedem Questoris Knight in einem Verband mit Knight-Paladins, Crusaders oder Errants 1 Zwillings Icarus Autocannon hinzu: 25 Punkte",
             "Seneschal",
             "Lord Seneschal"
           ],
@@ -84,7 +84,7 @@
         },
         {
           "name": "Dominus",
-          "units": "One Dominus Knight",
+          "units": "Ein Dominus Knight",
           "extraUnits": [
             "Seneschal",
             "Lord Seneschal"
@@ -99,19 +99,19 @@
       "formations": [
         {
           "name": "Cerastus",
-          "units": "One Cerastus Knight",
+          "units": "Ein Cerastus Knight",
           "extraUnits": [
-            "Füge 1 Cerastus Knight of the same configuration hinzu: 175 Punkte",
+            "Füge 1 Cerastus Knight derselben Konfiguration hinzu: 175 Punkte",
             "Seneschal"
           ],
           "points": 225
         },
         {
           "name": "Armiger",
-          "units": "Four Knight-Warglaives oder three Knight-Helverins",
+          "units": "Vier Knight-Warglaives oder drei Knight-Helverins",
           "extraUnits": [
-            "Füge 1 Armiger Knight of the same configuration hinzu: 50 Punkte",
-            "Füge 1 Knight-Preceptor mit a Seneschal hinzu: 175 Punkte"
+            "Füge 1 Armiger Knight derselben Konfiguration hinzu: 50 Punkte",
+            "Füge 1 Knight-Preceptor mit einem Seneschal hinzu: 175 Punkte"
           ],
           "points": 200
         }
@@ -123,32 +123,32 @@
       "formations": [
         {
           "name": "Armiger Reliquae",
-          "units": "Three Armiger Relic Knight-Moirax of the same configuration",
+          "units": "Drei Armiger Relic Knight-Moirax derselben Konfiguration",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Questoris Reliquae",
-          "units": "One Questoris Relic Knight-Styrix oder Knight-Magaera",
+          "units": "Ein Questoris Relic Knight-Styrix oder Knight-Magaera",
           "extraUnits": [
-            "Füge 1 Questoris Relic Knight of the same configuration hinzu: 175 Punkte",
+            "Füge 1 Questoris Relic Knight derselben Konfiguration hinzu: 175 Punkte",
             "Seneschal"
           ],
           "points": 200
         },
         {
           "name": "Cerastus Reliquae",
-          "units": "One Seneschal, one Cerastus Relic Knight-Atrapos",
+          "units": "Ein Seneschal, ein Cerastus Relic Knight-Atrapos",
           "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Acastus Reliquae",
-          "units": "One Acastus Relic Knight-Porphyrion oder Knight-Asterius",
+          "units": "Ein Acastus Relic Knight-Porphyrion oder Knight-Asterius",
           "extraUnits": [
-            "Füge 1 Acastus Relic Knight of the same configuaration hinzu: 225 Punkte",
+            "Füge 1 Acastus Relic Knight derselben Konfiguration hinzu: 225 Punkte",
             "Seneschal"
           ],
           "points": 300
@@ -161,20 +161,20 @@
       "formations": [
         {
           "name": "Skitarii Maniple",
-          "units": "Magos, nine Hypaspists, one Gorgon",
+          "units": "Magos, neun Hypaspists, ein Gorgon",
           "extraUnits": [
-            "Ersetze den Gorgon durch 5 Skorpius Duneriders: Free"
+            "Ersetze den Gorgon durch 5 Skorpius Duneriders: kostenlos"
           ],
           "points": 325
         },
         {
           "name": "Onager Maniple",
-          "units": "One Onager Dunecrawler with Icarus Array, three Onager Dunecrawlers with another single configuration",
+          "units": "Ein Onager Dunecrawler mit Icarus Array, drei Onager Dunecrawlers mit another single configuration",
           "points": 225
         },
         {
           "name": "Skorpius Maniple",
-          "units": "Four Skorpius Disintegrators",
+          "units": "Vier Skorpius Disintegrators",
           "extraUnits": [
             "Füge bis zu 2 Skorpius Disintegrators hinzu: 50 Punkte pro Stück"
           ],
@@ -182,12 +182,12 @@
         },
         {
           "name": "Avenger Squadron",
-          "units": "Two Avenger Strike Fighters",
+          "units": "Zwei Avenger Strike Fighters",
           "points": 175
         },
         {
-          "name": "0-1 Mechanicus Battleship",
-          "units": "One Ark Mechanicus Battleship",
+          "name": "0–1 Mechanicus Battleship",
+          "units": "Ein Ark Mechanicus Battleship",
           "points": 225
         }
       ]
@@ -200,12 +200,12 @@
       {
         "name": "Seneschal",
         "description": "Füge 1 Seneschal zum Verband hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Lord Seneschal (0–1 pro Armee)",
-        "description": "Ersetze den Seneschal durch a Lord Seneschal",
-        "points": "50 points"
+        "description": "Ersetze den Seneschal durch einen Lord Seneschal",
+        "points": "50 Punkte"
       }
     ]
   }

@@ -281,7 +281,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Twin Bolter",
+          "Zwillings Bolter",
           "Chainswords"
         ],
         "specialRules": [
@@ -296,7 +296,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Bolter",
+          "Zwillings Bolter",
           "Chainswords"
         ],
         "specialRules": [
@@ -310,7 +310,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Claws and Fangs"
+          "Klauen und Zähne"
         ],
         "specialRules": [
         ]
@@ -379,7 +379,7 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Lascannon|2",
+          "Laserkanone|2",
           "Heavy Bolter"
         ],
         "notes": "Count as Devastators for all transport purposes."
@@ -707,8 +707,8 @@
         "ff": 4,
         "weapons": [
           "Missile Launcher",
-          "Lascannon",
-          "Twin Heavy Bolter"
+          "Laserkanone",
+          "Schweres Zwillings Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -839,7 +839,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Twin Bolter",
+          "Zwillings Bolter",
           "Chainswords"
         ],
         "specialRules": [
@@ -856,7 +856,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Bolter",
+          "Zwillings Bolter",
           "Chainswords"
         ],
         "specialRules": [
@@ -874,7 +874,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Twin Bolter"
+          "Zwillings Bolter"
         ],
         "specialRules": [
           "Beritten",
@@ -1113,7 +1113,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Typhoon Missile",
+          "Zwillings Typhoon Missile",
           "Heavy Bolter"
         ],
         "specialRules": [
@@ -1129,7 +1129,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Typhoon Missile",
+          "Zwillings Typhoon Missile",
           "Heavy Bolter"
         ],
         "specialRules": [
@@ -1146,7 +1146,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Missile Launcher",
+          "Zwillings Missile Launcher",
           "Assault Cannon"
         ],
         "specialRules": [
@@ -1161,7 +1161,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Missile Launcher",
+          "Zwillings Missile Launcher",
           "Assault Cannon"
         ],
         "specialRules": [
@@ -1320,7 +1320,7 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Twin Mortis Autocannon|2"
+          "Zwillings Mortis Autocannon|2"
         ],
         "specialRules": [
           "Geländegängig"
@@ -1368,7 +1368,7 @@
         "ff": 3,
         "weapons": [
           "Missile Launcher",
-          "Twin Lascannon"
+          "Zwillings Laserkanone"
         ],
         "specialRules": [
           "Geländegängig"
@@ -1417,7 +1417,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Bolter",
+          "Schweres Zwillings Bolter",
           "Heavy Flamer",
           "Siege Drill"
         ],
@@ -1434,8 +1434,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Lascannon",
-          "Lascannon|2"
+          "Zwillings Laserkanone",
+          "Laserkanone|2"
         ]
       },
       {
@@ -1458,7 +1458,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Assault Cannon",
+          "Zwillings Assault Cannon",
           "Multi-Melta|2"
         ],
         "specialRules": [
@@ -1489,7 +1489,7 @@
         "ff": 5,
         "weapons": [
           "Plasma Destroyer",
-          "Lascannon|2"
+          "Laserkanone|2"
         ]
       },
      {
@@ -1500,7 +1500,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Autocannon",
+          "Zwillings Autocannon",
           "Heavy Flamer",
           "Heavy Bolter|2|"
         ],
@@ -1517,7 +1517,7 @@
         "ff": "5+/4",
         "weapons": [
           {
-            "name": "0-1x Twin Lascannon",
+            "name": "0-1x Zwillings Laserkanone",
             "modes": [
               {
                 "firepower": "AT4+",
@@ -1526,7 +1526,7 @@
             ]
           },
           {
-            "name": "0-1x Twin Heavy Bolter",
+            "name": "0-1x Schweres Zwillings Bolter",
             "modes": [
               {
                 "firepower": "AP4+",
@@ -1538,7 +1538,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one infantry unit (except Terminators) without Sprungmodule oder Beritten. Armed with either Twin Lascannon oder Twin Heavy Bolter. Razorbacks armed with Twin Heavy Bolter have their firefight value increased to 4+."
+        "notes": "May transport one infantry unit (except Terminators) without Sprungmodule oder Beritten. Armed with either Zwillings Laserkanone oder Schweres Zwillings Bolter. Razorbacks armed with Schweres Zwillings Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Blood Angels Razorback",
@@ -1549,7 +1549,7 @@
         "ff": "5+/4",
         "weapons": [
           {
-            "name": "0-1x Twin Lascannon",
+            "name": "0-1x Zwillings Laserkanone",
             "modes": [
               {
                 "firepower": "AT4+",
@@ -1558,7 +1558,7 @@
             ]
           },
           {
-            "name": "0-1x Twin Heavy Bolter",
+            "name": "0-1x Schweres Zwillings Bolter",
             "modes": [
               {
                 "firepower": "AP4+",
@@ -1571,7 +1571,7 @@
           "Transport",
           "Lucifer Pattern Engine"
         ],
-        "notes": "May transport one infantry unit (except Terminators) without Sprungmodule oder Beritten. Armed with either Twin Lascannon oder Twin Heavy Bolter. Razorbacks armed with Twin Heavy Bolter have their firefight value increased to 4+."
+        "notes": "May transport one infantry unit (except Terminators) without Sprungmodule oder Beritten. Armed with either Zwillings Laserkanone oder Schweres Zwillings Bolter. Razorbacks armed with Schweres Zwillings Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Deathwatch Razorback",
@@ -1581,7 +1581,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Dragonfire Heavy Bolter"
+          "Zwillings Dragonfire Heavy Bolter"
         ],
         "specialRules": [
           "Transport"
@@ -1596,7 +1596,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Psycannon"
+          "Zwillings Psycannon"
         ],
         "specialRules": [
           "Transport",
@@ -1807,8 +1807,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2",
-          "Twin Heavy Bolter"
+          "Zwillings Laserkanone|2",
+          "Schweres Zwillings Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1826,7 +1826,7 @@
         "ff": 4,
         "weapons": [
           "Flamestorm Cannon|2",
-          "Twin Assault Cannon"
+          "Zwillings Assault Cannon"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1843,8 +1843,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2",
-          "Twin Heavy Bolter"
+          "Zwillings Laserkanone|2",
+          "Schweres Zwillings Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1862,8 +1862,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2",
-          "Twin Psycannon"
+          "Zwillings Laserkanone|2",
+          "Zwillings Psycannon"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1882,7 +1882,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Twin Psycannon",
+          "Zwillings Psycannon",
           "Incinerator|2"
         ],
         "specialRules": [
@@ -1903,7 +1903,7 @@
         "ff": 3,
         "weapons": [
           "Demolisher",
-          "Twin Assault Cannon",
+          "Zwillings Assault Cannon",
           "Heavy Flamer|2"
         ],
         "specialRules": [
@@ -1921,7 +1921,7 @@
         "ff": 3,
         "weapons": [
           "Thunderfire Cannon",
-          "Twin Multi-Melta|2|"
+          "Zwillings Multi-Melta|2|"
         ],
         "specialRules": [
           "Anführer",
@@ -1939,7 +1939,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Quad Lascannon"
+          "Quad Laserkanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1955,7 +1955,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Assault Cannon",
+          "Zwillings Assault Cannon",
           "Hurricane Bolters|2"
         ],
         "specialRules": [
@@ -1973,7 +1973,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Dragonfire Heavy Bolter",
+          "Zwillings Dragonfire Heavy Bolter",
           "Hurricane Bolters|2"
         ],
         "specialRules": [
@@ -1992,7 +1992,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Lascannon|2",
+          "Zwillings Laserkanone|2",
           "Hyperios Launcher|0-1",
           "Whirlwind Launcher|0-1"
         ],
@@ -2029,8 +2029,8 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
-          "Twin Helfrost Cannon"
+          "Zwillings Laserkanone|2|",
+          "Zwillings Helfrost Cannon"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -2048,7 +2048,7 @@
         "ff": 4,
         "weapons": [
           "Hyperios Launcher",
-          "Twin Heavy Bolter|2|",
+          "Schweres Zwillings Bolter|2|",
           "Rapier Laser Destroyer|0-2|",
           "Thunderfire Cannon|0-2|"
         ],
@@ -2070,9 +2070,9 @@
         "ff": 4,
         "weapons": [
           "Accelerator Cannon",
-          "Quad Lascannon|2|FxF",
+          "Quad Laserkanone|2|FxF",
           "Demolisher||FxF",
-          "Twin Heavy Bolter||FxF"
+          "Schweres Zwillings Bolter||FxF"
         ],
         "specialRules": [
           "Damage Capacity: 4",
@@ -2089,8 +2089,8 @@
         "ff": 4,
         "weapons": [
           "Volkite Carronade",
-          "Quad Lascannon|2|FxF",
-          "Twin Heavy Bolter||FxF"
+          "Quad Laserkanone|2|FxF",
+          "Schweres Zwillings Bolter||FxF"
         ],
         "specialRules": [
           "Damage Capacity: 4",
@@ -2106,11 +2106,11 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Twin Lascannon|2",
-          "AC Twin Dragonfire Heavy Bolter|3"
+          "Zwillings Laserkanone|2",
+          "AC Zwillings Dragonfire Heavy Bolter|3"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Furchtlos",
           "Planetfall",
           "Verstärkte Panzerung",
@@ -2127,11 +2127,11 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Twin Lascannon|2",
-          "AC Twin Psycannon|3"
+          "Zwillings Laserkanone|2",
+          "AC Zwillings Psycannon|3"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Furchtlos",
           "Faithful",
           "Planetfall",
@@ -2149,12 +2149,12 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "AC Twin Lascannon||FxF",
-          "AC Twin Heavy Bolter||",
-          "Twin Helfrost Cannon||"
+          "AC Zwillings Laserkanone||FxF",
+          "AC Schweres Zwillings Bolter||",
+          "Zwillings Helfrost Cannon||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung",
           "Planetfall",
           "Transport"
@@ -2169,11 +2169,11 @@
         "armour": 5,
         "weapons": [
           "AC Helfrost Destructor||FxF",
-          "AC Twin Lascannon||FxF",
-          "AC Twin Heavy Bolter||"
+          "AC Zwillings Laserkanone||FxF",
+          "AC Schweres Zwillings Bolter||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Stormfang is destroyed."
@@ -2184,8 +2184,8 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Twin Assault Cannon||FwA",
-          "AC Twin Heavy Bolter||FxF"
+          "AC Zwillings Assault Cannon||FwA",
+          "AC Schweres Zwillings Bolter||FxF"
         ]
       },
       {
@@ -2194,8 +2194,8 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Twin Assault Cannon||FwA",
-          "AC Twin Dragonfire Heavy Bolter||FxF"
+          "AC Zwillings Assault Cannon||FwA",
+          "AC Zwillings Dragonfire Heavy Bolter||FxF"
         ]
       },
       {
@@ -2204,8 +2204,8 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Twin Assault Cannon||FwA",
-          "AC Twin Psycannon||FxF"
+          "AC Zwillings Assault Cannon||FwA",
+          "AC Zwillings Psycannon||FxF"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -2219,7 +2219,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Assault Cannon",
+          "Zwillings Assault Cannon",
           "Bloodstrike Missiles",
           "Hurricane Bolters"
         ],
@@ -2240,12 +2240,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Twin Assault Cannon||FxF",
+          "AC Zwillings Assault Cannon||FxF",
           "AC Blackstar Rockets",
           "Blackstar Hurricane Bolters"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Wings of the Sky Angel",
           "Transport"
@@ -2258,8 +2258,8 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Twin Heavy Bolter||FxF",
-          "AC Twin Lascannon||FxF"
+          "AC Schweres Zwillings Bolter||FxF",
+          "AC Zwillings Laserkanone||FxF"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -2285,12 +2285,12 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Twin Avenger Bolt Cannon||FxF",
+          "AC Zwillings Avenger Bolt Cannon||FxF",
           "AC Missile Array||FxF",
           "AC Quad Heavy Bolter Turrets||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Fire Raptor is destroyed."
@@ -2303,12 +2303,12 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Quad Lascannon||FxF",
-          "AC Twin Heavy Bolter||FxF",
+          "AC Quad Laserkanone||FxF",
+          "AC Schweres Zwillings Bolter||FxF",
           "Vengeance Launcher||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2324,12 +2324,12 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Quad Lascannon|2|FxF",
-          "AC Twin Heavy Bolter||FxF",
+          "AC Quad Laserkanone|2|FxF",
+          "AC Schweres Zwillings Bolter||FxF",
           "Vengeance Launcher||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
@@ -2347,12 +2347,12 @@
         "ff": 4,
         "weapons": [
           "Battle Cannon||FxF",
-          "AC Twin Heavy Bolter|2|FxF",
-          "AC Twin Heavy Bolter||Left",
-          "AC Twin Heavy Bolter||Right"
+          "AC Schweres Zwillings Bolter|2|FxF",
+          "AC Schweres Zwillings Bolter||Left",
+          "AC Schweres Zwillings Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2372,7 +2372,7 @@
           "AC Quad Heavy Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2388,11 +2388,11 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Twin Heavy Bolter|2|Left",
-          "AC Twin Heavy Bolter|2|Right"
+          "AC Schweres Zwillings Bolter|2|Left",
+          "AC Schweres Zwillings Bolter|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2408,11 +2408,11 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Twin Dragonfire Heavy Bolter|2|Left",
-          "AC Twin Dragonfire Heavy Bolter|2|Right"
+          "AC Zwillings Dragonfire Heavy Bolter|2|Left",
+          "AC Zwillings Dragonfire Heavy Bolter|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -2428,11 +2428,11 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Twin Psycannon|2|Left",
-          "AC Twin Psycannon|2|Right"
+          "AC Zwillings Psycannon|2|Left",
+          "AC Zwillings Psycannon|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Faithful",
@@ -2449,13 +2449,13 @@
         "armour": 4,
         "weapons": [
           "Battle Cannon||FxF",
-          "AC Twin Heavy Bolter|2|FxF",
-          "AC Twin Heavy Bolter||Left",
-          "AC Twin Heavy Bolter||Right",
+          "AC Schweres Zwillings Bolter|2|FxF",
+          "AC Schweres Zwillings Bolter||Left",
+          "AC Schweres Zwillings Bolter||Right",
           "AC Bomb Racks||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Thunderhawk is destroyed."
@@ -2468,11 +2468,11 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Twin Lascannon|2",
-          "AC Twin Heavy Bolter|3"
+          "Zwillings Laserkanone|2",
+          "AC Schweres Zwillings Bolter|3"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Furchtlos",
           "Planetfall",
           "Verstärkte Panzerung",
@@ -2792,7 +2792,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Twin Autocannon",
+          "Zwillings Autocannon",
           "Servo Arm"
         ],
         "specialRules": [
@@ -2868,7 +2868,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Twin Las-Talon",
+          "Zwillings Las-Talon",
           "Multi-Melta|2"
         ]
       },
@@ -2924,7 +2924,7 @@
         "weapons": [
           "Macro-Accelerator Cannon",
           "Plasma Eradicator|2|FxF",
-          "Twin Heavy Bolter||FxF"
+          "Schweres Zwillings Bolter||FxF"
         ],
         "specialRules": [
           "Damage Capacity: 4",

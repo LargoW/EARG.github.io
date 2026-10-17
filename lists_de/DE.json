@@ -40,7 +40,7 @@
         ]
       },
       {
-        "name": "Haemonculus Ancient",
+        "name": "Ältester Haemonculus",
         "type": "CH",
         "weapons": [
           "Arkane Schrecken",
@@ -52,7 +52,7 @@
         ]
       },
       {
-        "name": "Incubi",
+        "name": "Inkubi",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "name": "Dark Eldar Warriors",
+        "name": "Kabalenkrieger",
         "type": "INF",
         "speed": 15,
         "cc": 5,
@@ -81,7 +81,7 @@
         ]
       },
       {
-        "name": "Mandrakes",
+        "name": "Mandraks",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -97,7 +97,7 @@
         ]
       },
       {
-        "name": "Scourges",
+        "name": "Harpyien",
         "type": "INF",
         "speed": 30,
         "armour": 6,
@@ -129,7 +129,7 @@
         ]
       },
       {
-        "name": "Wracks",
+        "name": "Folterer",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -143,7 +143,7 @@
         ]
       },
       {
-        "name": "Grotesques",
+        "name": "Grotesquen",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "name": "Wyches",
+        "name": "Hagashîn",
         "type": "INF",
         "speed": 15,
         "cc": 3,
@@ -206,7 +206,7 @@
         ]
       },
       {
-        "name": "Warp Beasts",
+        "name": "Warpbestien",
         "type": "INF",
         "speed": 30,
         "armour": 5,
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "name": "Hellion Skyboards",
+        "name": "Hellion-Himmelsbretter",
         "type": "INF",
         "speed": 30,
         "armour": 5,
@@ -235,7 +235,7 @@
         ]
       },
       {
-        "name": "Reaver Jet Bikes",
+        "name": "Reaver-Jetbikes",
         "type": "INF",
         "speed": 40,
         "armour": 5,
@@ -251,7 +251,7 @@
         ]
       },
       {
-        "name": "Venom",
+        "name": "Schattenviper",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -269,7 +269,7 @@
         "notes": "Kann eine Einheit Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren."
       },
       {
-        "name": "Raider",
+        "name": "Schattenbarke",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -286,7 +286,7 @@
         "notes": "Kann zwei Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren."
       },
       {
-        "name": "Ravager",
+        "name": "Schattenjäger",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -302,7 +302,7 @@
         ]
       },
       {
-        "name": "Reaper",
+        "name": "Schnitter",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -334,7 +334,7 @@
         "notes": "Kann zwei Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren. Grotesken zählen jeweils als zwei Einheiten."
       },
       {
-        "name": "Barge of Pleasure",
+        "name": "Vergnügungsbarke",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -346,17 +346,17 @@
           "Splitterkanone|2|FwA"
         ],
         "specialRules": [
-            "Damage Capacity 3",
+            "Schadenskapazität3",
             "Schattenfelder2",
             "Antigrav",
             "Transport",
             "Wind-Swift"
         ],
         "notes": "Kann sechs Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren. Grotesken zählen jeweils als zwei Einheiten. Darf nur Einheiten aus dem eigenen Verband transportieren.",
-        "crit": "The Barge takes an additional damage. 1D3 random units inside takes a hit."
+        "crit": "Barge erleidet 1 zusätzlichen Schaden. 1W3 zufällige transportierte Einheiten erleiden einen Treffer."
       },
       {
-        "name": "Vessel of Pain",
+        "name": "Schmerzensschiff",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -368,15 +368,15 @@
           "Splitterkanone|2|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Schattenfelder2",
             "Antigrav",
             "Wind-Swift"
         ],
-        "crit": "The Vessel of Pain is destroyed. All units within 5cm take a hit on 6+."
+        "crit": "Vessel of Pain wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
-        "name": "Tormentor Titan",
+        "name": "Peiniger-Titan",
         "type": "WE",
         "speed": 35,
         "armour": 5,
@@ -387,17 +387,17 @@
           "Tormentor Klingen"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Schattenfelder3",
           "Furchtlos",
           "Sprungmodule",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Tormentor Titan takes one additional damage and loses any remaining Shadowfields."
+        "crit": "Tormentor Titan erleidet 1 zusätzlichen Schaden und verliert alle verbleibenden Shadowfields."
       },
       {
-        "name": "Executioner Landing Module",
+        "name": "Henker-Landungsmodul",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -408,7 +408,7 @@
           "Desintegrator Batterie"
         ],
         "specialRules": [
-          "Damage Capacity 5",
+          "Schadenskapazität5",
           "Schattenfelder4",
           "Planetfall",
           "Hilfstransportschiff",
@@ -417,7 +417,7 @@
           "Transport"
         ],
         "notes": "Kann bis zu zehn Infanterieeinheiten transportieren. Grotesken zählen jeweils als zwei Einheiten. Zusätzlich kann es bis zu fünf leichte oder gepanzerte Fahrzeuge oder ein Vessel of Pain oder eine Barge of Pleasure transportieren.",
-        "crit": "The Executioner takes an additional damage. W3 random units inside takes a hit."
+        "crit": "Executioner erleidet 1 zusätzlichen Schaden. W3 zufällige transportierte Einheiten erleiden einen Treffer."
       }
     ]
   }

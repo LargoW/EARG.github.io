@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Eldar",
   "army": "Craftworld Mymeara",
   "version": "1.1",
@@ -20,37 +20,37 @@
     {
       "from": "EL.json",
       "units": [
-        "Phoenix Lord",
-        "Avatar",
-        "Eldar Exarch",
-        "Eldar Warlock",
-        "Eldar Farseer",
-        "Eldar Guardians",
-        "Eldar Heavy Weapons Platform",
-        "Support Weapons Platform",
-        "Shadow Spectres",
-        "Ghost Geländegängigs",
-        "Dire Avengers",
-        "Fire Dragons",
-        "Dark Reapers",
-        "Howling Banshees",
-        "Striking Scorpions",
-        "Warp Spiders",
-        "Wraithreapers",
-        "Wasp Geländegängig",
-        "Wraithlord",
-        "Wave Serpent",
-        "Night Spinner",
+        "Phönixkönig",
+        "Avatar des Khaine",
+        "Eldar-Exarch",
+        "Geisterseher",
+        "Eldar-Runenprophet",
+        "Eldar-Gardisten",
+        "Eldar-Schwerwaffenplattform",
+        "Unterstützungswaffenplattform",
+        "Schattenspektren",
+        "Korsaren-Geisterläufer",
+        "Asuryans Jäger",
+        "Feuerdrachen",
+        "Schwarze Kaindar",
+        "Banshees",
+        "Skorpionkrieger",
+        "Warpspinnen",
+        "Phantom-Schnitter",
+        "Korsaren-Wespe",
+        "Phantomlord",
+        "Wellenschlange",
+        "Nachtspinne",
         "Hornet",
-        "Fire Prism",
-        "Firestorm",
-        "Warp Hunter",
-        "Lynx",
-        "Scorpion",
-        "Cobra",
-        "Wraithknights",
+        "Illum Zar",
+        "Feuersturm",
+        "Warpjäger",
+        "Luchs",
+        "Skorpion",
+        "Kobra",
+        "Phantomritter",
         "Revenant Titan",
-        "Mymeara Phantom Titan"
+        "Mymeara-Phantomtitan"
       ],
       "unitRules": [
           "Lanze",
@@ -63,10 +63,10 @@
     {
       "from": "eldarNavy.json",
       "units": [
-        "Nightshade Interceptor",
-        "Hemlock Wraithfighters",
-        "Wraithship",
-        "Dragonship"
+        "Nachtschatten-Abfangjäger",
+        "Hemlock-Phantomjäger",
+        "Phantomschiff",
+        "Drachenschiff"
       ],
       "unitRules": [
       ]
@@ -82,7 +82,7 @@
           "points": "0"
         },
         {
-          "name": "0-1 Wraithgate",
+          "name": "0–1 Wraithgate",
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
           "points": 50
         }
@@ -92,7 +92,7 @@
       "name": "Mymeara-Hosts",
       "formations": [
         {
-          "name": "0-1 Shadow Spectre Warhost",
+          "name": "0–1 Shadow Spectre Warhost",
           "units": "Acht Shadow Spectres",
           "upgrades": [
             "Exarch, Phoenix Lord"
@@ -122,8 +122,8 @@
       "description": "Bis zu zwei für jede gewählte 'Mymeara Hosts'.",
       "formations": [
         {
-          "name": "Wasp Geländegängigs",
-          "units": "Vier Wasp Geländegängigs",
+          "name": "Wasp Walkers",
+          "units": "Vier Wasp Walkers",
           "upgrades": [
           ],
           "points": 150
@@ -134,7 +134,7 @@
           "upgrades": [
             "Füge drei Wave Serpents hinzu: 75 Punkte",
             "Firestorm",
-            "Füge zwei Wraithlords und one Spiritseer hinzu: 125 Punkte"
+            "Füge zwei Wraithlords und ein Spiritseer hinzu: 125 Punkte"
           ],
           "points": 200
         },
@@ -214,12 +214,12 @@
           "name": "Revenants",
           "units": "Zwei Revenant Titans",
           "upgrades": [
-            "Independent Twins: 50 points"
+            "Independent Twins: 50 Punkte"
           ],
           "points": 625
         },
         {
-          "name": "0-1 Spacecraft",
+          "name": "0–1 Raumschiff",
           "units": "Ein Wraithship",
           "extraUnits": [
             "Ersetze durch ein Dragonship: 125 Punkte"
@@ -231,27 +231,27 @@
   ],
   "upgrades": {
     "title": "Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "0-1 Phoenix Lord",
-        "description": "Ersetze opne Eldar Exarch durch a Eldar Phoenix Lord character",
-        "points": "25 points"
+        "name": "0–1 Phoenix Lord",
+        "description": "Ersetze einen Eldar Exarch durch einen Eldar-Phoenix-Lord-Charakter",
+        "points": "25 Punkte"
       },
       {
         "name": "Exarch",
-        "description": "Füge bis zu zwei Eldar Exarch characters to Eldar Aspect Warrior units hinzu",
-        "points": "50 points each"
+        "description": "Füge bis zu zwei Eldar-Exarch-Charaktere zu Eldar-Aspect-Warrior-Einheiten hinzu",
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Firestorm",
         "description": "Ersetze einen Falcon durch einen Firestorm",
-        "points": "Free"
+        "points": "kostenlos"
       },
       {
-        "name": "Farseer",
-        "description": "Füge 1 Farseer character to a unit of Guardians hinzu",
-        "points": "25 points"
+        "name": "Runenprophet",
+        "description": "Füge 1 Farseer-Charakter zu einer Guardians-Einheit hinzu",
+        "points": "25 Punkte"
       }
     ]
   }

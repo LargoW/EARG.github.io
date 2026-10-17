@@ -1,4 +1,4 @@
-{
+﻿{
   "rules": [
     {
       "title": "Heavy Armoured Vehicle (H-AV)",
@@ -7,9 +7,9 @@
       ]
     },
     {
-      "title": "Machine Spirit",
+      "title": "Maschinengeist",
       "description": [
-        "Ein Verband, der ausschließlich aus Einheiten mit <i>Machine Spirit</i> besteht, darf nur die Aktionen Halten, Offensive, Ordnen, Dauerfeuer und Feuerbereitschaft durchführen. Außerdem dürfen solche Verbände nur um Missionsziele konkurrieren und gelten bei Sammelversuchen immer als höchstens 30 cm von einem gegnerischen Verband entfernt."
+        "Ein Verband, der ausschließlich aus Einheiten mit <i>Maschinengeist</i> besteht, darf nur die Aktionen Halten, Offensive, Ordnen, Dauerfeuer und Feuerbereitschaft durchführen. Außerdem dürfen solche Verbände nur um Missionsziele konkurrieren und gelten bei Sammelversuchen immer als höchstens 30 cm von einem gegnerischen Verband entfernt."
       ]
     },
     {
@@ -74,7 +74,7 @@
     {
       "title": "Schildbrecher",
       "description": [
-        "Jeder Schadenspunkt eines Treffers mit \u003ci\u003eShield Versprengenor\u003c/i\u003e schaltet zwei \u003ci\u003ePowerfields\u003c/i\u003e, \u003ci\u003eShadowfields\u003c/i\u003e oder \u003ci\u003eVoid Shields\u003c/i\u003e aus. Wird eine Einheit getroffen, der nur noch ein Feld verbleibt, wird dieses ausgeschaltet; überschüssiger Schaden wird nicht übertragen. Treffer mit \u003ci\u003eShield Versprengenor\u003c/i\u003e ignorieren ausserdem \u003ci\u003eDeflector Shields\u003c/i\u003e und \u003ci\u003eIon Shields\u003c/i\u003e."
+        "Jeder Schadenspunkt eines Treffers mit \u003ci\u003eShield Disruptor\u003c/i\u003e schaltet zwei \u003ci\u003ePowerfields\u003c/i\u003e, \u003ci\u003eShadowfields\u003c/i\u003e oder \u003ci\u003eVoid Shields\u003c/i\u003e aus. Wird eine Einheit getroffen, der nur noch ein Feld verbleibt, wird dieses ausgeschaltet; überschüssiger Schaden wird nicht übertragen. Treffer mit \u003ci\u003eShield Disruptor\u003c/i\u003e ignorieren ausserdem \u003ci\u003eDeflector Shields\u003c/i\u003e und \u003ci\u003eIon Shields\u003c/i\u003e."
       ]
     },
     {
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "title": "Ethereal",
+      "title": "Himmlischer",
       "description": [
         "Alle Einheiten eines Verbands, dem sich ein Himmlischer angeschlossen hat, erhalten Furchtlos. Wird die Einheit mit dem Himmlischen ausgeschaltet, verliert der Verband Furchtlos und erhält 1D3 Beschussmarken."
       ]
@@ -177,7 +177,7 @@
     {
       "title": "Baran Regimental HQ",
       "description": [
-        "In Epic-Turnierspielen muss eine Belagerungsmeister-Armee ein Regimentshauptquartier enthalten. Der Gegner gilt als hätte er das Ziel „Break Their Spirit“ erreicht, wenn er diesen Verband oder den teürsten Verband der Armee zerstört (siehe Siegesbedingungen)."
+        "In Epic-Turnierspielen muss eine Belagerungsmeister-Armee ein Regimentshauptquartier enthalten. Der Gegner gilt als hätte er das Ziel „Break Their Spirit“ erreicht, wenn er diesen Verband oder den teuersten Verband der Armee zerstört (siehe Siegesbedingungen)."
       ]
     },
     {
@@ -226,7 +226,7 @@
     {
       "title": "Faithful",
       "description": [
-        "Wenn eine Offensive zu einem Nahkampf führt (d. h. mindestens eine Einheit sich innerhalb von 15 cm zu einer gegnerischen Einheit befindet), erhalten Einheiten mit der Sonderregel \u003ci\u003eFaithful\u003c/i\u003e Furchtlos, und der Verband zählt, als enthalte er einen zusätzlichen Charakter mit der Sonderregel \u003ci\u003eInspirierend\u003c/i\u003e. Diese Effekte halten bis zum Ende der aktüllen Runde an, gehen jedoch verloren, wenn alle Einheiten mit \u003ci\u003eFaithful\u003c/i\u003e im Verband zerstört werden."
+        "Wenn eine Offensive zu einem Nahkampf führt (d. h. mindestens eine Einheit sich innerhalb von 15 cm zu einer gegnerischen Einheit befindet), erhalten Einheiten mit der Sonderregel \u003ci\u003eFaithful\u003c/i\u003e Furchtlos, und der Verband zählt, als enthalte er einen zusätzlichen Charakter mit der Sonderregel \u003ci\u003eInspirierend\u003c/i\u003e. Diese Effekte halten bis zum Ende der aktuellen Runde an, gehen jedoch verloren, wenn alle Einheiten mit \u003ci\u003eFaithful\u003c/i\u003e im Verband zerstört werden."
       ]
     },
     {
@@ -309,7 +309,7 @@
     {
       "title": "Navis Nobilite",
       "description": [
-        "Die Raumschiffe der Grey Knights gehören zu den schnellsten und am besten gesteürten Schiffen der Galaxis. Wurde ein Grey-Knights-Schlachtkreuzer gekauft, gilt für den Spieler der Blood Ravens bei der Wahl der Runde, in der das Raumschiff das Schlachtfeld überfliegt, ein Strategiewert von 6."
+        "Die Raumschiffe der Grey Knights gehören zu den schnellsten und am besten gesteuerten Schiffen der Galaxis. Wurde ein Grey-Knights-Schlachtkreuzer gekauft, gilt für den Spieler der Blood Ravens bei der Wahl der Runde, in der das Raumschiff das Schlachtfeld überfliegt, ein Strategiewert von 6."
       ]
     },
     {
@@ -391,19 +391,19 @@
     {
       "title": "Fleet of Foot",
       "description": [
-        "Verbände der Dunklen Eldar und Harlekine erhalten einen Bonus von +1, wenn sie versuchen, einen Marsch durchzuführen. außerdem dürfen sie nach einem Marsch weiterhin Unterstuetzungsfeuer in Nahkämpfen leisten, einen Kreuzfeürbonus beanspruchen und Flugabwehrfeuer abgeben."
+        "Verbände der Dunklen Eldar und Harlekine erhalten einen Bonus von +1, wenn sie versuchen, einen Marsch durchzuführen. außerdem dürfen sie nach einem Marsch weiterhin Unterstuetzungsfeuer in Nahkämpfen leisten, einen Kreuzfeuerbonus beanspruchen und Flugabwehrfeuer abgeben."
       ]
     },
     {
       "title": "Black Heart Coterie",
       "description": [
-        "Die Armee muss einen Black-Heart-Verband enthalten. Der Gegner gilt als hätte er das Siegesziel „Break Their Spirit“ (BTS) erreicht, wenn er diesen Verband oder den teürsten Verband der Armee zerstört."
+        "Die Armee muss einen Black-Heart-Verband enthalten. Der Gegner gilt als hätte er das Siegesziel „Break Their Spirit“ (BTS) erreicht, wenn er diesen Verband oder den teuersten Verband der Armee zerstört."
       ]
     },
     {
       "title": "Wraithkind Coterie",
       "description": [
-        "Die Armee muss einen Wraithkind-Verband enthalten. Der Gegner gilt als hätte er das Siegesziel „Break Their Spirit“ (BTS) erreicht, wenn er diesen Verband und/oder den teürsten Verband der Armee zerstört."
+        "Die Armee muss einen Wraithkind-Verband enthalten. Der Gegner gilt als hätte er das Siegesziel „Break Their Spirit“ (BTS) erreicht, wenn er diesen Verband und/oder den teuersten Verband der Armee zerstört."
       ]
     },
     {
@@ -520,37 +520,37 @@
     {
       "title": "May not Garrison (Saim-Hann)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur War Geländegängigs und Saim-Hann Hornets Missionsziele als Garnison besetzen."
+        "Im Epic-Turnierszenario dürfen nur War Walkers und Saim-Hann Hornets Missionsziele als Garnison besetzen."
       ]
     },
     {
       "title": "May not Garrison (Iyanden)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Geländegängigs Missionsziele als Garnison besetzen."
+        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Walkers Missionsziele als Garnison besetzen."
       ]
     },
     {
       "title": "May not Garrison (Biel-Tan)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Geländegängigs Missionsziele als Garnison besetzen."
+        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Walkers Missionsziele als Garnison besetzen."
       ]
     },
     {
       "title": "May not Garrison (Ulthwé)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Geländegängigs Missionsziele als Garnison besetzen."
+        "Im Epic-Turnierszenario dürfen nur Eldar Rangers und War Walkers Missionsziele als Garnison besetzen."
       ]
     },
     {
       "title": "May not Garrison (Mymeara)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur Ghost Geländegängigs, Wasp Geländegängigs und Hornets als Garnison aufgestellt werden."
+        "Im Epic-Turnierszenario dürfen nur Ghost Walkers, Wasp Walkers und Hornets als Garnison aufgestellt werden."
       ]
     },
     {
       "title": "May not Garrison (Lugganath)",
       "description": [
-        "Im Epic-Turnierszenario dürfen nur Ghost Geländegängigs und Wasp Geländegängigs Missionsziele als Garnison besetzen."
+        "Im Epic-Turnierszenario dürfen nur Ghost Walkers und Wasp Walkers Missionsziele als Garnison besetzen."
       ]
     },
     {
@@ -1036,7 +1036,7 @@
     {
       "title": "Claws Forever Red",
       "description": [
-        "Zusätzlich zur Unterdrückung dürfen Einheiten der Night Lords mit Handfeürwaffen Schießen. Sie können zwar keinen direkten Schaden verursachen, fügen gegnerischen Verbänden unter Beschuss aber dennoch eine Beschussmarke zu."
+        "Zusätzlich zur Unterdrückung dürfen Einheiten der Night Lords mit Handfeuerwaffen Schießen. Sie können zwar keinen direkten Schaden verursachen, fügen gegnerischen Verbänden unter Beschuss aber dennoch eine Beschussmarke zu."
       ]
     },
     {
@@ -1098,9 +1098,9 @@
       ]
     },
     {
-      "title": "Ponderous",
+      "title": "Schwerfällig",
       "description": [
-        "Einheiten mit der Sonderregel Ponderous dürfen beim Aufgeriebenwerden oder bei einem misslungenen Sammelversuch nur einen einzelnen Rückzugsschritt statt zwei durchführen."
+        "Einheiten mit der Sonderregel Schwerfällig dürfen beim Aufgeriebenwerden oder bei einem misslungenen Sammelversuch nur einen einzelnen Rückzugsschritt statt zwei durchführen."
       ]
     },
     {
@@ -1118,7 +1118,7 @@
     {
       "title": "Big Mek",
       "description": [
-        "Jede Gargant-Big-Mob-Armee muss einen kostenlosen Supreme-Command-Charakter namens Big Mek enthalten. Der Big Mek schliesst sich der teürsten Kriegsmaschine der Armee an."
+        "Jede Gargant-Big-Mob-Armee muss einen kostenlosen Supreme-Command-Charakter namens Big Mek enthalten. Der Big Mek schliesst sich der teuersten Kriegsmaschine der Armee an."
       ]
     },
     {
@@ -1154,7 +1154,7 @@
       ]
     },
     {
-      "title": "Mob Rule",
+      "title": "Köppe zählen",
       "description": [
         "Orks glauben, dass sie immer eine Chance auf den Sieg haben, solange noch eine ganze Menge von ihnen gemeinsam kämpfen (am besten etwas mehr, als sie zählen können), ganz gleich, wie schlecht die Chancen stehen. Deshalb erhalten Ork-Verbände mit mehr als fünf Einheiten (also mehr, als an einer Hand abzählbar sind; Grotz und Big Gunz werden nicht mitgezählt) einen Modifikator von +1 auf Sammelwürfe. Verbände mit mehr als 10 solchen Einheiten erhalten einen Modifikator von +2. Für diese Regel zählt jeder Punkt anfangs vorhandener Schadenskapazität einer Kriegsmaschine als eine Einheit. Kriegsmaschinen mit der Sonderregel Göttermaschine gelten immer als hätten sie mehr als 10 Einheiten."
       ]
@@ -1200,7 +1200,7 @@
       "description": [
         "Ein Verband mit mindestens einer Einheit mit Coordinated Fire darf bis zu zwei weitere nicht aufgeriebene Verbände innerhalb von 15 cm, die in dieser Runde noch keine Aktion durchgeführt haben, auffordern, ihm bei Vorrücken, einem Eilschritt oder Dauerfeuer zu folgen.",
         "Lege einen einzelnen Initiativwurf für alle Verbände ab und berücksichtige dabei einen gemeinsamen Modifikator von -1, falls einer der Verbände Beschussmarken hat. Misslingt der Test, erhält der ursprüngliche Verband (mit der Einheit, die Coordinated Fire einsetzt) eine Beschussmarke und muss Halten durchführen. Die anderen Verbände sind nicht betroffen und dürfen später in der Runde eine Aktion durchführen. Gelingt der Test, dürfen alle beteiligten Verbände Vorrücken, einen Eilschritt oder Dauerfeuer durchführen.",
-        "Nicht alle Verbände müssen dieselbe Aktion durchführen; die Aktionen dürfen in beliebiger Reihenfolge abgehandelt werden, müssen sich aber alle gegen denselben Zielverband richten. Kann oder will ein aktivierter Verband nicht auf den ausgewählten Verband feuern, darf er in dieser Runde überhaupt nicht feuern. Die Verbände müssen keinen bestimmten Abstand züinander einhalten und führen ihre Aktionen nacheinander durch. Die Aktion jedes Verbands wird angesagt und abgehandelt (einschliesslich des Tests, ob der Zielverband aufgerieben wird), bevor der nächste Tau-Verband an die Reihe kommt."
+        "Nicht alle Verbände müssen dieselbe Aktion durchführen; die Aktionen dürfen in beliebiger Reihenfolge abgehandelt werden, müssen sich aber alle gegen denselben Zielverband richten. Kann oder will ein aktivierter Verband nicht auf den ausgewählten Verband feuern, darf er in dieser Runde überhaupt nicht feuern. Die Verbände müssen keinen bestimmten Abstand zueinander einhalten und führen ihre Aktionen nacheinander durch. Die Aktion jedes Verbands wird angesagt und abgehandelt (einschliesslich des Tests, ob der Zielverband aufgerieben wird), bevor der nächste Tau-Verband an die Reihe kommt."
       ]
     },
     {
@@ -1212,15 +1212,15 @@
     {
       "title": "Guided Missiles",
       "description": [
-        "Lenkflugkörper dürfen ohne Sichtlinie abgefeürt werden, aber nur auf Ziele, die mit Markerlights markiert wurden.",
+        "Lenkflugkörper dürfen ohne Sichtlinie abgefeuert werden, aber nur auf Ziele, die mit Markerlights markiert wurden.",
         "Lenkflugkörper folgen allen normalen Regeln zur Unterdrückung. Befindet sich eine Einheit mit einer Lenkflugkörperwaffe in Reichweite und Sichtlinie zu einer Einheit des Zielverbands, wird sie bei der Unterdrückung mitgezählt, auch wenn der Zielverband nicht markiert ist.",
-        "Zum Zweck der Unterdrückung, des Kreuzfeürs und beim Schiessen im Rahmen einer Feuerbereitschaftsaktion gelten Lenkflugkörper als hätten sie Sichtlinie zu allen Einheiten eines markierten Verbands."
+        "Zum Zweck der Unterdrückung, des Kreuzfeuers und beim Schiessen im Rahmen einer Feuerbereitschaftsaktion gelten Lenkflugkörper als hätten sie Sichtlinie zu allen Einheiten eines markierten Verbands."
       ]
     },
     {
       "title": "Markerlights",
       "description": [
-        "Alle gegnerischen Verbände mit mindestens einer Einheit innerhalb von 30 cm und Sichtlinie zu mindestens einer Tau-Einheit mit der Sonderregel Markerlights gelten als markiert. Bei Fernkampfangriffen gegen einen markierten Verband erhalten alle Fernkampfwaffen einen zusätzlichen Trefferwurfmodifikator von +1. Dieser Bonus gilt nicht bei Flugabwehrangriffen oder Sperrfeürangriffen. Ein aufgeriebener Tau-Verband oder ein Verband, der in dieser Runde einen Marsch durchgeführt hat, darf keine gegnerischen Verbände markieren."
+        "Alle gegnerischen Verbände mit mindestens einer Einheit innerhalb von 30 cm und Sichtlinie zu mindestens einer Tau-Einheit mit der Sonderregel Markerlights gelten als markiert. Bei Fernkampfangriffen gegen einen markierten Verband erhalten alle Fernkampfwaffen einen zusätzlichen Trefferwurfmodifikator von +1. Dieser Bonus gilt nicht bei Flugabwehrangriffen oder Sperrfeuerangriffen. Ein aufgeriebener Tau-Verband oder ein Verband, der in dieser Runde einen Marsch durchgeführt hat, darf keine gegnerischen Verbände markieren."
       ]
     },
     {
@@ -1327,7 +1327,7 @@
     {
       "title": "General Tournament Tiebreaker Rules",
       "description": [
-        "Gibt ein Spieler auf oder erscheint nicht innerhalb von 30 Minuten, wird dem Gegner ein Gesamtsieg zugesprochen. Muss ein Spiel vor Runde 4 aus Zeitmangel abgebrochen werden, bestimmt die aktülle Missionszielwertung das Ergebnis; endet das Spiel vorzeitig in Runde 2, erhalten beide Seiten einen Malus von -4, endet es in Runde 3, einen Malus von -2. Hat sich ein Spieler mehr als 5 Minuten verspätet, erhält dieser Spieler die Malusse beider Seiten."
+        "Gibt ein Spieler auf oder erscheint nicht innerhalb von 30 Minuten, wird dem Gegner ein Gesamtsieg zugesprochen. Muss ein Spiel vor Runde 4 aus Zeitmangel abgebrochen werden, bestimmt die aktuelle Missionszielwertung das Ergebnis; endet das Spiel vorzeitig in Runde 2, erhalten beide Seiten einen Malus von -4, endet es in Runde 3, einen Malus von -2. Hat sich ein Spieler mehr als 5 Minuten verspätet, erhält dieser Spieler die Malusse beider Seiten."
       ]
     },
     {
@@ -1339,7 +1339,7 @@
     {
       "title": "Broodcoven",
       "description": [
-        "Die Armee muss einen Broodcoven-Verband enthalten. Der Gegner gilt als hätte er das Siegesziel „Break Their Spirit“ (BTS) erreicht, wenn er diesen oder den teürsten Verband der Armee zerstört."
+        "Die Armee muss einen Broodcoven-Verband enthalten. Der Gegner gilt als hätte er das Siegesziel „Break Their Spirit“ (BTS) erreicht, wenn er diesen oder den teuersten Verband der Armee zerstört."
       ]
     },
     {

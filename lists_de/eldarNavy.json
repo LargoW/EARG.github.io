@@ -6,7 +6,7 @@
     ],
     "unit": [
       {
-        "name": "Nightwing Interceptor",
+        "name": "Nachtschwinge-Abfangjäger",
         "type": "AC",
         "speed": "Fighter",
         "armour": 5,
@@ -19,7 +19,7 @@
         ]
       },
       {
-        "name": "Nightshade Interceptor",
+        "name": "Nachtschatten-Abfangjäger",
         "type": "AC",
         "speed": "Fighter",
         "armour": 4,
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "name": "Phoenix Bomber",
+        "name": "Phönix-Bomber",
         "type": "AC",
         "speed": "Fighter-Bomber",
         "armour": 5,
@@ -44,7 +44,7 @@
         ]
       },
       {
-        "name": "Hemlock Wraithfighter",
+        "name": "Hemlock-Phantomjäger",
         "type": "AC",
         "speed": "Fighter",
         "armour": 4,
@@ -72,8 +72,8 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Kann bis zu acht der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Support Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Warp Spiders oder Swooping Hawks. Wraithguards und Wraithblades belegen jeweils zwei Plätze.",
-        "crit": "The Vampire Raider and all units on board are destroyed."
+        "notes": "Kann bis zu acht der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Unterstützungswaffe Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Warp Spiders oder Swooping Hawks. Wraithguards und Wraithblades belegen jeweils zwei Plätze.",
+        "crit": "Vampire Raider und alle Einheiten an Bord werden zerstört."
       },
       {
         "name": "Vampire Hunter",
@@ -89,10 +89,10 @@
           "Damage Capacity: 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Vampire Hunter is destroyed."
+        "crit": "Vampire Hunter wird zerstört."
       },
       {
-        "name": "Corsair Vampire Hunter",
+        "name": "Korsaren-Vampire-Hunter",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 5,
@@ -107,15 +107,15 @@
           "Holofield (5+)",
           "Transport"
         ],
-        "notes": "Kann vier Ghost Geländegängigs oder Wasp Geländegängigs transportieren.",
-        "crit": "The Corsair Vampire Hunter and all units on board are destroyed."
+        "notes": "Kann vier Ghost Walkers oder Wasp Walkers transportieren.",
+        "crit": "Corsair Vampire Hunter und alle Einheiten an Bord werden zerstört."
       },
       {
-        "name": "Wraithship",
+        "name": "Phantomschiff",
         "type": "SC",
         "weapons": [
           {
-            "name": "0-1x Orbital Bombardment",
+            "name": "0–1x Orbitalbombardement",
             "modes": [
               {
                 "firepower": "4BP, MW"
@@ -125,15 +125,15 @@
           "Präzisionsschuss|0-1|"
         ],
         "specialRules": [
-          "Is equipped with either Orbital Bombardment oder one Pin Point attack (may be chosen at the start of battle)"
+          "Ist entweder mit Orbitalbombardement oder einem Punktziel-Angriff ausgerüstet (die Auswahl erfolgt zu Beginn der Schlacht)"
         ]
       },
       {
-        "name": "Dragonship",
+        "name": "Drachenschiff",
         "type": "SC",
         "weapons": [
           {
-            "name": "0-1x Orbital Bombardment",
+            "name": "0–1x Orbitalbombardement",
             "modes": [
               {
                 "firepower": "8BP, MW"
@@ -143,7 +143,7 @@
           "Präzisionsschuss|0-1 2|"
         ],
         "specialRules": [
-          "Is equipped with either Orbital Bombardment oder two Pin Point attacks (may be chosen at the start of battle)",
+          "Ist entweder mit Orbitalbombardement oder zwei Punktziel-Angriffen ausgerüstet (die Auswahl erfolgt zu Beginn der Schlacht)",
           "Transport"
         ],
         "notes": "Kann bis zu zwölf Vampires und alle darin transportierten Einheiten mitführen."

@@ -14,31 +14,31 @@
     {
       "from": "IG.json",
       "units": [
-        "DKoK Oberbefehlshaber",
-        "DKoK Befehlshaber",
-        "Commissar",
-        "Assault Infantry",
-        "Siege Infantry",
-        "Death Riders",
-        "Grenadiers",
-        "Thudd Gun",
+        "Oberbefehlshaber des Todeskorps von Krieg",
+        "Befehlshaber des Todeskorps von Krieg",
+        "Kommissar",
+        "Sturminfanterie",
+        "Belagerungsinfanterie",
+        "Todesreiter",
+        "Grenadiere",
+        "Thudd-Geschütz",
         "Rapier",
-        "Scharfschützes",
-        "Armoured Sentinel",
-        "Medusa Gun",
-        "Earthshaker Gun",
-        "Heavy AA Gun",
+        "Scharfschützen",
+        "Gepanzerter Sentinel",
+        "Medusa-Kanone",
+        "Erderschüttererkanone",
+        "Schwere Flugabwehrkanone",
         "Trojan",
-        "Bombard",
-        "Griffon",
-        "Deathstrike",
-        "Bane Wolf",
-        "Storm Chimera",
-        "Leman Russ",
+        "Bombarde",
+        "Greif",
+        "Todesstoß",
+        "Seuchenwolf",
+        "Sturm-Chimäre",
+        "Leman Russ Kampfpanzer",
         "Leman Russ Annihilator",
         "Leman Russ Thunderer",
         "Macharius",
-        "Macharius Command",
+        "Macharius-Kommandopanzer",
         "Gorgon",
         "Baneblade",
         "Stormsword",
@@ -75,27 +75,27 @@
       "name": "DKoK Kernkompanien",
       "formations": [
         {
-          "name": "0-1 Death Korps Regimental HQ",
-          "units": "One DKoK Oberbefehlshaber with a Commissar, nine Assault Infantry, one Gorgon",
+          "name": "0–1 Death Korps Regimental HQ",
+          "units": "Ein DKoK Oberbefehlshaber mit einem Commissar, neun Assault Infantry, ein Gorgon",
           "extraUnits": [
-            "Füge ten Assault Infantry und 1 Gorgon hinzu: 250 Punkte",
-            "Leman Russ",
+            "Füge zehn Assault Infantry und 1 Gorgon hinzu: 250 Punkte",
+            "Leman Russ Kampfpanzer",
             "Bane Wolves"
           ],
           "points": 300
         },
         {
           "name": "Assault Company",
-          "units": "One DKoK Befehlshaber with a Commissar, nine Assault Infantry, one Gorgon",
+          "units": "Ein DKoK Befehlshaber mit einem Commissar, neun Assault Infantry, ein Gorgon",
           "extraUnits": [
-            "Leman Russ",
+            "Leman Russ Kampfpanzer",
             "Bane Wolves"
           ],
           "points": 250
         },
         {
           "name": "Death Rider Company",
-          "units": "One Commissar, twelve Death Riders",
+          "units": "Ein Commissar, zwölf Death Riders",
           "extraUnits": [
             "Bane Wolves"
           ],
@@ -109,7 +109,7 @@
       "formations": [
         {
           "name": "Leman Russ Squadron",
-          "units": "Four Leman Russ, Leman Russ Thunderers, oder Leman Russ Annihilators",
+          "units": "Vier Leman Russ, Leman Russ Thunderers, oder Leman Russ Annihilators",
           "extraUnits": [
             "Bane Wolves"
           ],
@@ -117,7 +117,7 @@
         },
         {
           "name": "Siege Infantry Company",
-          "units": "DKoK Befehlshaber with Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
+          "units": "DKoK Befehlshaber mit Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
           "extraUnits": [
             "Füge 4 Rapiers und 16cm Trenches, oder 3 Thudd Guns und 12cm Trenches hinzu: 75 Punkte",
             "Füge bis zu 2 Scharfschützes hinzu: 25 Punkte pro Stück"
@@ -126,69 +126,69 @@
         },
         {
           "name": "Artillery Emplacement",
-          "units": "Four Medusa Guns, four Gun Emplacements",
+          "units": "Vier Medusa Guns, vier Gun Emplacements",
           "extraUnits": [
-            "Ersetze 4 Gun Emplacements durch 4 Trojans: Free",
+            "Ersetze 4 Gun Emplacements durch 4 Trojans: kostenlos",
             "Ersetze 4 Medusa Guns durch 4 Earthshaker Guns: 50 Punkte"
           ],
           "points": 225
         },
         {
           "name": "Flak Emplacement",
-          "units": "Four Heavy AA Guns, four Gun Emplacements",
+          "units": "Vier Heavy AA Guns, vier Gun Emplacements",
           "upgrades": [
-            "Ersetze 4 Gun Emplacements durch 4 Trojans: Free"
+            "Ersetze 4 Gun Emplacements durch 4 Trojans: kostenlos"
           ],
           "points": 175
         },
         {
           "name": "Bombard Battery",
-          "units": "Three Bombards",
+          "units": "Drei Bombards",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Griffon Battery",
-          "units": "Three Griffons",
+          "units": "Drei Griffons",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Deathstrike Battery",
-          "units": "Two Deathstrikes",
+          "units": "Zwei Deathstrikes",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade oder Stormsword",
+          "units": "Ein Baneblade oder Stormsword",
           "extraUnits": [
-              "Ersetze 1 Baneblade durch a Shadowsword: 25 Punkte"
+              "Ersetze 1 Baneblade durch ein Shadowsword: 25 Punkte"
           ],
           "points": 175
         },
         {
           "name": "Macharius Company",
-          "units": "One Macharius Command with a Commissar, two Macharius",
+          "units": "Ein Macharius Command mit einem Commissar, zwei Macharius",
           "upgrades": [
           ],
           "points": 350
         },
         {
           "name": "Grenadier Company",
-          "units": "One DKoK Befehlshaber with a Commissar, seven Grenadiers, four Storm Chimeras",
+          "units": "Ein DKoK Befehlshaber mit einem Commissar, sieben Grenadiers, vier Storm Chimeras",
           "extraUnits": [
-            "Ersetze 4 Storm Chimeras durch a Gorgon: Free",
-            "Bane Wolf"
+            "Ersetze 4 Storm Chimeras durch ein Gorgon: kostenlos",
+            "Seuchenwolf"
           ],
           "points": 325
         },
         {
           "name": "Armoured Sentinel Squadron",
-          "units": "Four Armoured Sentinels",
+          "units": "Vier Armoured Sentinels",
           "extraUnits": [
           ],
           "points": 125
@@ -201,7 +201,7 @@
       "formations": [
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "points": 275,
           "extraUnits": [
             "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
@@ -209,20 +209,20 @@
         },
         {
           "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "units": "Zwei Thunderbolt Fighters",
           "points": 175
         },
         {
           "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "units": "Zwei Marauder Bombers",
           "points": 250
         },
         {
-          "name": "0–1 Orbital Support",
-          "units": "One Lunar Class Cruiser",
+          "name": "0–1 Orbitale Unterstützung",
+          "units": "Ein Lunar Class Cruiser",
           "points": 125,
           "upgrades": [
-            "Ersetze den Cruiser durch an Emperor Class Battleship: 50 Punkte"
+            "Ersetze den Cruiser durch ein Emperor Class Battleship: 50 Punkte"
           ]
         }
       ]
@@ -233,14 +233,14 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "Bane Wolf",
+        "name": "Seuchenwolf",
         "description": "Füge bis zu 3 Bane Wolves hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
-        "name": "Leman Russ",
+        "name": "Leman Russ Kampfpanzer",
         "description": "Füge 3 Leman Russ, 3 Leman Russ Thunderers, oder 3 Leman Russ Annihilators hinzu",
-        "points": "150 points"
+        "points": "150 Punkte"
       }
     ]
   }

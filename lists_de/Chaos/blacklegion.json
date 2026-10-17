@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Chaos Space Marines",
   "army": "Black Legion",
   "version": "1.0.Beta",
@@ -18,29 +18,29 @@
     {
       "from": "CSM.json",
       "units": [
-        "Warlord",
-        "Chaos Lord",
-        "Sorcerer Lord",
-        "Champion of Chaos",
-        "Icon Bearer",
-        "Daemon Prince",
+        "Kriegsherr",
+        "Chaosfürst",
+        "Hexerfürst",
+        "Chaoschampion",
+        "Ikonenträger",
+        "Dämonenprinz",
         "Chaos Space Marines",
         "Havocs",
-        "Chosen",
-        "Raptors",
-        "Chaos Terminators",
+        "Auserkorene",
+        "Raptoren",
+        "Chaos-Terminatoren",
         "Noise Marines",
-        "Plague Marines",
-        "Khorne Berzerkers",
-        "Rubric Marines",
-        "Obliterators",
-        "Chaos Assault Bikes",
+        "Seuchenmarines",
+        "Khorne Berserker",
+        "Rubrik-Marines",
+        "Kyborgs",
+        "Chaos-Sturmbikes",
         "Chaos Rhino",
         "Chaos Land Raider",
         "Chaos Predator",
         "Chaos Vindicator",
-        "Chaos Dreadnought",
-        "Chaos Stalker"
+        "Chaos-Cybot",
+        "Chaos-Jäger"
       ],
       "unitRules": [
           "Augment Summoning (+x)",
@@ -50,9 +50,9 @@
     {
       "from": "darkmechanicus.json",
       "units": [
-        "Defiler",
-        "Decimator",
-        "Death Wheel"
+        "Geißel",
+        "Dezimator",
+        "Todesrad"
       ],
       "unitRules": [
         "Daemon Engine (x)"
@@ -77,9 +77,9 @@
     {
       "from": "traitortitanlegions.json",
       "units": [
-        "Chaos Warhound",
-        "Chaos Reaver",
-        "Chaos Warlord"
+        "Chaos-Warhound",
+        "Chaos-Reaver",
+        "Chaos-Kriegsherr"
       ],
       "unitRules": [
         "Null Schilde",
@@ -105,7 +105,7 @@
       "formations": [
         {
           "name": "Black Legion Retinue",
-          "units": "One Chaos Lord oder Sorcerer Lord, eight Chaos Space Marines",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, acht Chaos Space Marines",
           "extraUnits": [
             "Oberbefehlshaber",
             "Transport",
@@ -129,7 +129,7 @@
       "formations": [
         {
           "name": "Chosen",
-          "units": "Four Chosen, two Chaos Rhinos",
+          "units": "Vier Chosen, zwei Chaos Rhinos",
           "extraUnits": [
             "Ersetze 2 Chaos Rhinos durch 2 Chaos Dreadnoughts: 75 Punkte",
             "Daemonic Pact"
@@ -138,7 +138,7 @@
         },
         {
           "name": "Chaos Terminators",
-          "units": "One Chaos Lord oder Sorcerer Lord, four Chaos Terminators",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Chaos Terminators",
           "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
@@ -159,7 +159,7 @@
       "formations": [
         {
           "name": "Raptor Cult",
-          "units": "One Chaos Lord oder Sorcerer Lord, four Raptors",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Raptors",
           "extraUnits": [
             "Füge bis zu 4 Raptors hinzu: 30 Punkte pro Stück",
             "Daemonic Pact"
@@ -168,7 +168,7 @@
         },
         {
           "name": "Armoured Company",
-          "units": "Four Chaos Predators",
+          "units": "Vier Chaos Predators",
           "extraUnits": [
             "Ersetze 4 Chaos Predators durch 4 Chaos Land Raiders: 75 Punkte",
             "Stalker",
@@ -178,7 +178,7 @@
         },
         {
           "name": "Havocs",
-          "units": "One Chaos Lord oder Sorcerer Lord, four Havocs, two Chaos Rhinos",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, zwei Chaos Rhinos",
           "extraUnits": [
             "Ersetze 2 Chaos Rhinos durch Chaos Land Raiders: 75 Punkte",
             "Daemonic Pact",
@@ -189,7 +189,7 @@
         },
         {
           "name": "Bike Company",
-          "units": "One Chaos Lord oder Sorcerer Lord, eight Chaos Assault Bikes",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, acht Chaos Assault Bikes",
           "extraUnits": [
             "Daemonic Pact",
             "Icon Bearer"
@@ -204,55 +204,55 @@
       "formations": [
         {
           "name": "Defiler Pack",
-          "units": "Four Defilers",
+          "units": "Vier Defilers",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Decimator",
-          "units": "One Decimator",
+          "units": "Ein Decimator",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Chaos Warhound",
-          "units": "One Chaos Warhound Titan",
+          "units": "Ein Chaos Warhound Titan",
           "extraUnits": [
           ],
           "points": 275
         },
         {
-          "name": "Death Wheel",
-          "units": "One Death Wheel",
+          "name": "Todesrad",
+          "units": "Ein Death Wheel",
           "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Chaos Reaver",
-          "units": "One Chaos Reaver Titan",
+          "units": "Ein Chaos Reaver Titan",
           "points": 600
         },
         {
           "name": "Chaos Warlord",
-          "units": "One Chaos Warlord Titan",
+          "units": "Ein Chaos Warlord Titan",
           "points": 750
         },
         {
           "name": "Hell Blade Squadron",
-          "units": "Three Hell Blade Interceptors",
+          "units": "Drei Hell Blade Interceptors",
           "points": 175
         },
         {
           "name": "Hell Talon Squadron",
-          "units": "Two Hell Talon Fighter-Bombers",
+          "units": "Zwei Hell Talon Fighter-Bombers",
           "points": 225
         },
         {
-          "name": "0-1 Chaos Cruiser",
-          "units": "One Devastation Class Cruiser",
+          "name": "0–1 Chaos Cruiser",
+          "units": "Ein Devastation Class Cruiser",
           "extraUnits": [
             "Battleship"
           ],
@@ -266,12 +266,12 @@
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool points",
+          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool",
           "points": 20
         },
         {
           "name": "Greater Daemon Pool",
-          "units": "Any amount of Greater Daemon Pool points",
+          "units": "Beliebig viele Punkte aus dem Greater-Daemon-Pool",
           "points": 50
         }
       ]
@@ -283,20 +283,20 @@
     "items": [
       {
         "name": "Battleship",
-        "description": "Ersetze den Devastation Class Cruiser durch a Despoiler Class Battleship",
-        "points": "50 points"
+        "description": "Ersetze den Devastation Class Cruiser durch ein Despoiler Class Battleship",
+        "points": "50 Punkte"
       },
       {
         "name": "Oberbefehlshaber (0–1 pro Armee)",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Ersetze den Chaos Lord durch a Warlord",
-            "points": "50 points"
+            "description": "Ersetze den Chaos Lord durch einen Warlord",
+            "points": "50 Punkte"
           },
           {
             "description": "Ersetze den Chaos Lord & Einheit durch einen Daemon Prince",
-            "points": "100 points"
+            "points": "100 Punkte"
           }
         ]
       },
@@ -306,69 +306,69 @@
         "options": [
           {
             "description": "Chaos Rhinos (Retinue only)",
-            "points": "10 points each"
+            "points": "10 Punkte pro Stück"
           },
           {
             "description": "Chaos Land Raiders",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           }
         ]
       },
       {
         "name": "Daemonic Pact",
         "description": "Füge Daemonic Pact zum Verband, und 1 point zum Lesser Daemon Pool hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Dreadnoughts",
         "description": "Füge bis zu 2 Chaos Dreadnoughts hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Champion",
         "description": "Füge einen Champion of Chaos hinzu.",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Cult Marines",
         "description": "Ersetze 4 Chaos Space Marines durch 4 Noise Marines, Khorne Berzerkers, Plague Marines oder Rubric Marines.",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Icon Bearer",
         "description": "Füge 1 Icon Bearer character hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Stalker",
         "description": "Füge 1 Chaos Stalker hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Dreadclaws",
         "description": "Transportiere einen Verband, der ausschließlich Infanterieeinheiten und Dreadnoughts enthält, in Dreadclaws (der Verband muss auf einem Raumschiff aufgestellt werden).",
-        "points": "5 points per unit"
+        "points": "5 Punkte pro Einheit"
       },
       {
         "name": "Vindicators",
         "description": "Füge bis zu 2 Chaos Vindicators hinzu",
-        "points": "35 points each"
+        "points": "35 Punkte pro Stück"
       },
       {
         "name": "Havocs",
         "description": "Ersetze 4 Chaos Space Marines durch 4 Havocs",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
-        "name": "Obliterators",
+        "name": "Kyborgs",
         "description": "Füge bis zu 2 Obliterators hinzu",
-        "points": "75 points each"
+        "points": "75 Punkte pro Stück"
       }
     ]
   },
   "about": [
-    "The EA-R Black Legion list is based on the NetEA version, but has some significant differences. Factions are gone, and the list is instead Chaos Undivided, but with cheaper summoning costs. Horrors have replaced Flamers as the basic Tzeentch lesser daemon, and the Daemonic Beast has been replaced with the Furies. These two changes are both for thematic reasons but mostly to better balance the different basic lesser daemons against one another. All Daemon type units always have Unmodifizierter Rettungswurf, both for theme and to reduce confusion.",
-    "Havocs and Cult Marines now replace Chaos Space Marines in the Retinue rather than adding to them. Chosen may no longer take Dreadclaws, and come with Chaos Rhinos as standard, but may replace the Rhinos with Chaos Dreadnoughts. Chaos Dreadnoughts have a Reaper Autocannon instead of a Twin Autocannon to bring it to parity with the firepower of a Loyalist Dreadnought. A Chaos Stalker has been added to the list in order to reduce the list's reliance on Obliterators. Obliterators can only be added to Chaos Terminators.",
-    "Chaos Land Raiders are cheaper, in line with a general reduction of transport vehicle costs. The Armoured Company has been moved from the Core section to support, but can take Stalkers, and the Land Raiders are slightly cheaper as an upgrade. The Raptor formation is bigger, but is slightly cheaper for the size. All Daemon Engines have 2+ Initiative and always have an Unmodifizierter Rettungswurf. To compensate for the loss in initiative, they also have a Daemon Engine (x) rule which makes each power's units act thematically and be a bit more dependable in some aspect. This has made it possible to make Defiler type formations significantly cheaper. Hell Blade Interceptors have the E-UK stats, and the Harbringer Bomber has been moved to the Iron Warriors army. The Chaos Titans have been reduced in cost and has changed stats in line with other Imperial Titans. The Chaos Battleship is slightly cheaper and has the 'Slow to Arrive' rule instead of 'Langsam und Stetig'."
+    "Die EA-R-Black-Legion-Liste basiert auf der NetEA-Version, weist aber einige wesentliche Unterschiede auf. Fraktionen gibt es nicht mehr; stattdessen ist die Liste Chaos Undivided, jedoch mit günstigeren Beschwörungskosten. Horrors haben Flamers als grundlegenden niederen Tzeentch-Dämon ersetzt, und die Daemonic Beast wurde durch die Furies ersetzt. Beide Änderungen erfolgen aus thematischen Gründen, vor allem aber, um die verschiedenen grundlegenden niederen Dämonen besser gegeneinander auszubalancieren. Alle Einheiten vom Typ Dämon haben stets Unmodifizierter Rettungswurf, sowohl aus thematischen Gründen als auch, um Verwirrung zu vermeiden.",
+    "Havocs und Cult Marines ersetzen nun die Chaos Space Marines im Retinue, anstatt sie zu ergänzen. Chosen dürfen keine Dreadclaws mehr nehmen und erhalten standardmässig Chaos Rhinos, dürfen die Rhinos aber durch Chaos Dreadnoughts ersetzen. Chaos Dreadnoughts haben eine Reaper Autocannon statt einer Zwillings Autocannon, um sie auf die Feuerkraft eines loyalistischen Dreadnoughts zu bringen. Ein Chaos Stalker wurde der Liste hinzugefügt, um die Abhängigkeit der Liste von Obliterators zu verringern. Obliterators können nur zu Chaos Terminators hinzugefügt werden.",
+    "Chaos Land Raiders sind günstiger, entsprechend einer allgemeinen Senkung der Kosten für Transportfahrzeuge. Die Armoured Company wurde vom Kernbereich in den Unterstützungsbereich verschoben, kann aber Stalkers nehmen, und die Land Raiders sind als Aufwertung etwas günstiger. Der Raptor-Verband ist grösser, aber im Verhältnis zur Grösse etwas günstiger. Alle Daemon Engines haben Initiative 2+ und stets einen Unmodifizierter Rettungswurf. Um den Verlust an Initiative auszugleichen, besitzen sie zudem eine Regel Daemon Engine (x), die die Einheiten jeder Macht thematisch auftreten lässt und sie in einem Aspekt etwas verlässlicher macht. Dadurch konnten Verbände vom Typ Defiler deutlich günstiger gemacht werden. Hell Blade Interceptors haben die E-UK-Werte, und der Harbringer Bomber wurde in die Armee der Iron Warriors verschoben. Die Chaos Titans wurden im Preis gesenkt und haben veränderte Werte im Einklang mit anderen imperialen Titanen. Das Chaos Battleship ist etwas günstiger und hat die Regel 'Verzögerte Ankunft' statt 'Langsam und Stetig'."
   ]
 }

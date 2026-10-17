@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Astra Militarum",
   "army": "Cadian Shock Troops",
   "version": "0.6.2",
@@ -15,23 +15,23 @@
     {
       "from": "IG.json",
       "units": [
-        "Cadian Oberbefehlshaber",
-        "Cadian Befehlshaber",
-        "Commissar",
-        "Whiteshields",
-        "Infantry",
+        "Cadianischer Oberbefehlshaber",
+        "Cadianischer Befehlshaber",
+        "Kommissar",
+        "Weißschilde",
+        "Infanterie",
         "Kasrkin",
-        "Armoured Sentinel",
+        "Gepanzerter Sentinel",
         "Basilisk",
         "Medusa",
-        "Deathstrike",
-        "Chimera",
-        "Hellhound",
-        "Leman Russ",
+        "Todesstoß",
+        "Chimäre",
+        "Höllenhund",
+        "Leman Russ Kampfpanzer",
         "Leman Russ Demolisher",
         "Leman Russ Punisher",
-        "Crassus Assault Transport",
-        "Praetor Assault Launcher",
+        "Crassus-Sturmtransporter",
+        "Praetor-Sturmwerfer",
         "Stormlord",
         "Shadowsword",
         "Baneblade",
@@ -78,17 +78,17 @@
       "formations": [
         {
           "name": "0–1 Regimental HQ",
-          "units": "One Cadian Oberbefehlshaber with a Commissar, eight Kasrkin, one Stormlord.",
+          "units": "Ein Cadian Oberbefehlshaber mit einem Commissar, acht Kasrkin, ein Stormlord.",
           "extraUnits": [
-            "Werte the Stormlord zu einem Leviathan: 125 Punkte auf",
-            "Leman Russ",
+            "Werte den Stormlord zu einem Leviathan auf: 125 Punkte",
+            "Leman Russ Kampfpanzer",
             "Super-Heavy Tank"
           ],
           "points": 400
         },
         {
           "name": "Whiteshield Company",
-          "units": "One Cadian Befehlshaber with a Commissar, fifteen Whiteshields, two Stormlords.",
+          "units": "Ein Cadian Befehlshaber mit einem Commissar, fünfzehn Whiteshields, zwei Stormlords.",
           "extraUnits": [
             "Leman Russ Squadron",
             "Super-Heavy Tank"
@@ -97,7 +97,7 @@
         },
         {
           "name": "Shock Trooper Company",
-          "units": "One Cadian Befehlshaber with a Commissar, eleven Infantry units, two Crassus Assault Transports",
+          "units": "Ein Cadian Befehlshaber mit einem Commissar, elf Infantry-Einheiten, zwei Crassus Assault Transports",
           "upgrades": [
           ],
           "points": 400
@@ -110,28 +110,28 @@
       "formations": [
         {
           "name": "Kasrkin Platoon",
-          "units": "Six Kasrkin, one Crassus Assault Transport",
+          "units": "Sechs Kasrkin, ein Crassus Assault Transport",
           "points": 275,
           "upgrades": [
           ]
         },
         {
           "name": "Whiteshield Platoon",
-          "units": "Eight Whiteshields, one Stormlord",
+          "units": "Acht Whiteshields, ein Stormlord",
           "upgrades": [
           ],
           "points": 275
         },
         {
           "name": "Praetor Battery",
-          "units": "One Praetor Assault Launcher",
+          "units": "Ein Praetor Assault Launcher",
           "points": 275,
           "upgrades": [
           ]
         },
         {
           "name": "Artillery Battery",
-          "units": "Three Basilisks, three Bombards oder four Medusa",
+          "units": "Drei Basilisks, drei Bombards oder vier Medusa",
           "extraUnits": [
             "Füge 1 Deathstrike hinzu: 75 Punkte"
           ],
@@ -139,14 +139,14 @@
         },
         {
           "name": "Flak Battery",
-          "units": "Three Hydras",
+          "units": "Drei Hydras",
           "upgrades": [
           ],
           "points": 150
         },
         {
           "name": "Hellhound Platoon",
-          "units": "Six Hellhounds",
+          "units": "Sechs Hellhounds",
           "points": 250,
           "upgrades": [
             "Füge 1 Hydra hinzu: 50 Punkte"
@@ -154,7 +154,7 @@
         },
         {
           "name": "Leman Russ Platoon",
-          "units": "Six Leman Russ, Leman Russ Demolishers oder Leman Russ Punishers",
+          "units": "Sechs Leman Russ, Leman Russ Demolishers oder Leman Russ Punishers",
           "points": 375,
           "upgrades": [
             "Füge 1 Hydra hinzu: 50 Punkte"
@@ -162,14 +162,14 @@
         },
         {
           "name": "Armoured Sentinel Squadron",
-          "units": "Four Armoured Sentinels",
+          "units": "Vier Armoured Sentinels",
           "upgrades": [
           ],
           "points": 125
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade, Stormblade oder Stormsword",
+          "units": "Ein Baneblade, Stormblade oder Stormsword",
           "upgrades": [
             "Werte 1 Baneblade, Stormblade oder Stormsword zu einem Shadowsword: 25 Punkte auf"
           ],
@@ -183,32 +183,32 @@
       "formations": [
         {
           "name": "Warhound Pack",
-          "units": "Two Warhounds",
+          "units": "Zwei Warhounds",
           "upgrades": [
           ],
           "points": 475
         },
         {
-          "name": "Reaver Titan",
-          "units": "One Reaver Titan",
+          "name": "Reaver-Titan",
+          "units": "Ein Reaver Titan",
           "points": 600
         },
         {
           "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "units": "Zwei Thunderbolt Fighters",
           "points": 175
         },
         {
           "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "units": "Zwei Marauder Bombers",
           "points": 250
         },
         {
-          "name": "0–1 Orbital Support",
-          "units": "One Lunar Class Cruiser",
+          "name": "0–1 Orbitale Unterstützung",
+          "units": "Ein Lunar Class Cruiser",
           "points": 150,
           "upgrades": [
-            "Ersetze durch an Emperor Class Battleship: 50 Punkte"
+            "Ersetze durch ein Emperor Class Battleship: 50 Punkte"
           ]
         }
       ]
@@ -219,11 +219,11 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "Leman Russ",
+        "name": "Leman Russ Kampfpanzer",
         "options": [
           {
             "description": "Drei Leman Russ, drei Leman Russ Demolishers oder drei Leman Russ Punishers",
-            "points": "125 points"
+            "points": "125 Punkte"
           }
         ]
       },
@@ -232,7 +232,7 @@
         "options": [
           {
             "description": "Ein Baneblade, Stormblade, Stormsword oder Shadowsword",
-            "points": "125 points"
+            "points": "125 Punkte"
           }
         ]
       }

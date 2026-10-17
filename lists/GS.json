@@ -193,7 +193,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber"
+          "Schweres Zwillings Maschinengewehr"
         ],
         "specialRules": [
           "Transport"
@@ -208,7 +208,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber Turret"
+          "Schweres Zwillings Maschinengewehr Turret"
         ],
         "specialRules": [
         ]
@@ -323,7 +323,7 @@
         "ff": 4,
         "weapons": [
           "Battle Cannon",
-          "Lascannon",
+          "Laserkanone",
           "Heavy Bolter|2|"
         ],
         "specialRules": [
@@ -340,7 +340,7 @@
         "ff": 3,
         "weapons": [
           "Demolisher",
-          "Lascannon",
+          "Laserkanone",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
@@ -356,7 +356,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Hydra Autocannon|2",
+          "Zwillings Hydra Autocannon|2",
           "Heavy Bolter"
         ],
         "specialRules": [
@@ -418,7 +418,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Heavy Maschinengewehr"
         ],
         "specialRules": [
           "Brood Brothers",
@@ -437,11 +437,11 @@
           "Baneblade Cannon",
           "Autocannon",
           "Demolisher||FxF",
-          "Lascannon|2|FxF",
-          "Twin Heavy Bolter|3|FxF"
+          "Laserkanone|2|FxF",
+          "Schweres Zwillings Bolter|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -455,11 +455,11 @@
         "ff": 4,
         "weapons": [
           "Stormblade Blastgun||FxF",
-          "Lascannon|2|FxF",
-          "Twin Heavy Bolter|2|FxF"
+          "Laserkanone|2|FxF",
+          "Schweres Zwillings Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -473,10 +473,10 @@
         "ff": 5,
         "weapons": [
           "Volcano Cannon||FxF",
-          "Twin Heavy Bolter|2|FxF"
+          "Schweres Zwillings Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."

@@ -42,20 +42,20 @@
           "AC Turreted Splitterkanone"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Schattenfelder1",
           "Planetfall",
           "Transport"
         ],
         "notes": "Kann bis zu acht Infanterieeinheiten ohne Beritten transportieren. Grotesken zählen jeweils als zwei Einheiten.",
-        "crit": "The Slavebringer and all units on board are destroyed."
+        "crit": "Slavebringer und alle Einheiten an Bord werden zerstört."
       },
       {
         "name": "Torture Class Cruiser",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "6BP, MW"

@@ -13,23 +13,23 @@
     "They Shall Know No Fear"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Iron Hands, oder one of their successor chapters, using their preferred operational methods."
+    "Die folgende Armeeliste ermöglicht es dir, eine Armee auf Grundlage der Iron Hands oder eines ihrer Nachfolgeorden aufzustellen und dabei ihre bevorzugten Einsatzmethoden zu nutzen."
   ],
   "units": [
     {
       "from": "SM.json",
       "units": [
-        "Iron Hands Captain",
-        "Iron Hands Oberbefehlshaber",
+        "Captain der Iron Hands",
+        "Iron-Hands-Oberbefehlshaber",
         "Techmarine",
-        "Iron Hands Devastators",
-        "Tacticals",
+        "Iron-Hands-Devastortrupps",
+        "Taktische Trupps",
         "Scouts",
-        "Dreadnought",
-        "Dreadnought, Hellfire",
-        "Dreadnought, Ironclad",
-        "Dreadnought, Siege",
-        "Dreadnought, Venerable",
+        "Cybot",
+        "Hellfire-Cybot",
+        "Ironclad-Cybot",
+        "Belagerungs-Cybot",
+        "Ehrwürdiger Cybot",
         "Land Raider",
         "Land Raider Anvilarum",
         "Land Raider Helios",
@@ -38,15 +38,15 @@
         "Predator Destructor",
         "Razorback",
         "Rhino",
-        "Siege Rhino",
+        "Belagerungs-Rhino",
         "Stalker",
         "Vindicator",
         "Whirlwind",
         "Storm Talon",
-        "Thunderhawk Transporter",
-        "Battle Barge",
-        "Strike Cruiser",
-        "Drop Pod"
+        "Thunderhawk-Transporter",
+        "Schlachtbarke",
+        "Angriffskreuzer",
+        "Landungskapsel"
       ],
       "unitRules": [
         "Bionics",
@@ -79,7 +79,7 @@
             "Venerable Dreadnought",
             "Ironclad Dreadnoughts",
             "Dreadnoughts",
-            "Devastators",
+            "Devastor-Trupps",
             "Transports"
           ],
           "points": 325
@@ -90,7 +90,7 @@
           "extraUnits": [
             "Anti-Air",
             "Oberbefehlshaber",
-            "Devastators",
+            "Devastor-Trupps",
             "Transports",
             "Vindicators"
           ],
@@ -104,7 +104,7 @@
       "formations": [
         {
           "name": "Dreadnought Talon",
-          "units": "Any four of the following: Dreadnought, Hellfire Dreadnought, Siege Dreadnought. Plus transport.",
+          "units": "Beliebige vier der folgenden Einheiten: Dreadnought, Hellfire Dreadnought, Siege Dreadnought. Plus Transporter.",
           "extraUnits": [
             "Venerable Dreadnought",
             "Ironclad Dreadnoughts",
@@ -114,7 +114,7 @@
         },
         {
           "name": "Land Raiders",
-          "units": "Three Land Raiders",
+          "units": "Drei Land Raiders",
           "extraUnits": [
             "Füge 1 Land Raider hinzu: 50 Punkte",
             "Helios",
@@ -125,7 +125,7 @@
         },
         {
           "name": "Predators",
-          "units": "Four Predator Destructors und/oder Predator Annihilators",
+          "units": "Vier Predator Destructors und/oder Predator Annihilators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -133,21 +133,21 @@
         },
         {
           "name": "Scouts",
-          "units": "Three Scouts, three Razorbacks",
+          "units": "Drei Scouts, drei Razorbacks",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Siege Scouts",
-          "units": "Four Scouts, two Siege Rhinos and two Vindicators",
+          "units": "Vier Scouts, zwei Siege Rhinos und zwei Vindicators",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Vindicators",
-          "units": "Four Vindicators",
+          "units": "Vier Vindicators",
           "extraUnits": [
             "Anti-Air",
             "Vindicators"
@@ -156,7 +156,7 @@
         },
         {
           "name": "Whirlwinds",
-          "units": "Three Whirlwinds",
+          "units": "Drei Whirlwinds",
           "extraUnits": [
             "Füge 1 Whirlwind zum Verband hinzu: 50 Punkte",
             "Anti-Air"
@@ -171,33 +171,33 @@
       "formations": [
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Thunderhawk Transporters",
-          "units": "Two Thunderhawk Transporters",
+          "units": "Zwei Thunderhawk Transporters",
           "points": 275
         },
         {
-          "name": "0-1 Orbital Support",
-          "units": "One Strike Cruiser",
+          "name": "0–1 Orbitale Unterstützung",
+          "units": "Ein Strike Cruiser",
           "extraUnits": [
-            "Battle Barge"
+            "Schlachtbarke"
           ],
           "points": 200
         },
         {
           "name": "Warhound Pack",
-          "units": "Two Warhounds - Standard oder Support Configuration",
+          "units": "Zwei Warhounds - Standard- oder Support-Konfiguration",
           "extraUnits": [
-            "Werte beide Warhounds zum Tank Hunter Configuration: 50 Punkte auf"
+            "Werte beide Warhounds auf die Tank-Hunter-Konfiguration auf: 50 Punkte"
           ],
           "points": 475
         },
         {
           "name": "Reaver",
-          "units": "One Reaver Titan, Hun Class",
+          "units": "Ein Reaver Titan, Hun Class",
           "points": 625
         }
       ]
@@ -215,80 +215,80 @@
           },
           {
             "description": "Füge 1 Hunter zum Verband hinzu",
-            "points": "75 points"
+            "points": "75 Punkte"
           },
           {
             "description": "Füge 2 Hunters zum Verband hinzu",
-            "points": "125 points"
+            "points": "125 Punkte"
           },
           {
             "description": "Füge bis zu 2 Stalkers zum Verband hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           }
         ]
       },
       {
-        "name": "Battle Barge",
-        "description": "Ersetze den Strike Cruiser durch a Battle Barge",
-        "points": "75 points"
+        "name": "Schlachtbarke",
+        "description": "Ersetze den Strike Cruiser durch einen Battle Barge",
+        "points": "75 Punkte"
       },
       {
-        "name": "Devastators",
+        "name": "Devastor-Trupps",
         "description": "Ersetze all Tacticals im Verband durch Iron Hands Devastators",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Dreadnoughts",
         "description": "Füge 2 beliebige der folgenden Einheiten hinzu: Dreadnought, Hellfire Dreadnought oder Siege Dreadnought.",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Ironclad Dreadnoughts",
         "description": "Ersetze bis zu 2 Dreadnoughts durch Ironclad Dreadnoughts",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Venerable Dreadnought",
         "description": "Füge 1 Venerable Dreadnought character zu einem Dreadnought in beliebiger Konfiguration hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Helios",
-        "description": "Werte beliebig viele Land Raiders to Land Raider Helios",
-        "points": "25 points each"
+        "description": "Werte beliebig viele Land Raiders zu Land Raider Helios auf",
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Oberbefehlshaber (0–1 pro Armee)",
-        "description": "Ersetze 1 Iron Hands Captain durch an Iron Hands Oberbefehlshaber",
-        "points": "50 points"
+        "description": "Ersetze 1 Iron Hands Captain durch einen Iron Hands Oberbefehlshaber",
+        "points": "50 Punkte"
       },
       {
         "name": "Transports",
-        "description": "Füge beliebig viele Razorbacks oder Land Raider variants, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
+        "description": "Füge beliebig viele Razorbacks oder Land Raider variants hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
         "options": [
           {
             "description": "Der Verband darf Siege Rhinos statt Rhinos einsetzen.",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
             "description": "Razorback",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
             "description": "Land Raider",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Land Raider Anvilarum",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Land Raider Helios",
-            "points": "75 points each"
+            "points": "75 Punkte pro Stück"
           },
           {
             "description": "0-1 Land Raider Prometheus",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
@@ -296,8 +296,8 @@
         "name": "Vindicators",
         "description": "Füge bis zu 2 Vindicators hinzu",
         "points": [
-          "50 points for one",
-          "75 points for two"
+          "50 Punkte für einen",
+          "75 Punkte für zwei"
         ]
       }
     ]

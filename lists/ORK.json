@@ -165,7 +165,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Sawn-Off Big Shoota",
+          "Zwillings Sawn-Off Big Shoota",
           "Big Choppas"
         ],
         "specialRules": [
@@ -223,7 +223,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Twin Sawn-Off Big Shoota"
+          "Zwillings Sawn-Off Big Shoota"
         ],
         "specialRules": [
           "Beritten"
@@ -237,7 +237,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Twin Sawn-Off Big Shoota"
+          "Zwillings Sawn-Off Big Shoota"
         ],
         "specialRules": [
           "Beritten",
@@ -266,7 +266,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota"
+          "Zwillings Big Shoota"
         ],
         "specialRules": [
           "Antigrav"
@@ -296,7 +296,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota"
+          "Zwillings Big Shoota"
         ],
         "specialRules": [
         ]
@@ -552,10 +552,10 @@
         "ff": 4,
         "weapons": [
           "Big Gun",
-          "Twin Big Shoota|4|"
+          "Zwillings Big Shoota|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Transport"
         ],
         "notes": "Eight Boyz, Flash Gitz, Nobz, Kommandos, Grotz. Big Gunz takes two spaces each. May carry four units of Grotz in addition to any other units transported.",
@@ -570,10 +570,10 @@
         "ff": 5,
         "weapons": [
           "Big Gun|3|",
-          "Twin Big Shoota|5|"
+          "Zwillings Big Shoota|5|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Transport"
         ],
         "notes": "Four Boyz, Nobz, Flash Gitz, Kommandos, Grotz. Big Gunz takes two spaces each. May carry two units of Grotz in addition to any other units transported.",
@@ -591,7 +591,7 @@
           "Flak Gun|3|"
         ],
         "specialRules": [
-          "Damage Capacity 3"
+          "Schadenskapazität3"
         ],
         "crit": "The Flakkafortress is destroyed, all units being carried are killed unless roll they a 6+."
       },
@@ -608,7 +608,7 @@
           "Skorcha|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3"
+          "Schadenskapazität3"
         ],
         "crit": "The Skullhamma is destroyed. All units within 5cm takes a hit on 6+"
       },
@@ -625,7 +625,7 @@
           "Killa-Choppa|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Power Fields 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -652,7 +652,7 @@
           "Dakka Kannon|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Power Fields 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -674,7 +674,7 @@
           "Mega-Choppa|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 7",
+          "Schadenskapazität7",
           "Power Fields 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -706,7 +706,7 @@
           "Snappa|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 7",
+          "Schadenskapazität7",
           "Power Fields 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -725,18 +725,18 @@
           "Gaze of Mork",
           "Big Gun|2|",
           "Soopagun||FxF",
-          "Twin Soopagun|1-2|FxF",
+          "Zwillings Soopagun|1-2|FxF",
           "Lifta-Droppa |0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Power Fields 1D3+6",
           "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either two Twin Soopaguns oder one Twin Soopagun and a Lifta-Droppa"
+          "Armed with either two Zwillings Soopaguns oder one Zwillings Soopagun and a Lifta-Droppa"
         ],
         "crit": "The Great Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
       },
@@ -753,7 +753,7 @@
           "Gaze of Mork|0-1|",
           "Gaze of Gork|0-1|",
           "ARMS (choose two)",
-          "Twin Soopagun|0-2|FxF",
+          "Zwillings Soopagun|0-2|FxF",
           "Dakka-Dakka Kannon|0-2|FxF",
           "Mega-Lobba|0-2|FxF",
           "Lifta-Droppa |0-1|",
@@ -764,7 +764,7 @@
           "Snappa|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Power Fields 1D3+6",
           "Göttermaschine",
           "Split Fire",
@@ -785,12 +785,12 @@
           "Big Gun|4|",
           "Weirdboy Tower",
           "2x Grot-Guided Missile||FwA",
-          "Twin Supa-Zzap-Gun||FwA",
+          "Zwillings Supa-Zzap-Gun||FwA",
           "Soopagunz Belly Battery||FxF",
           "Kombat Arms"
         ],
         "specialRules": [
-          "Damage Capacity 13",
+          "Schadenskapazität13",
           "Power Fields 1D3+9",
           "Göttermaschine",
           "Split Fire",
@@ -806,7 +806,7 @@
         "speed": "Fighter-Bomber",
         "armour": 6,
         "weapons": [
-          "AC Twin Big Shoota||FxF",
+          "AC Zwillings Big Shoota||FxF",
           "AC Tankbusta Rokkits||FxF"
         ],
         "specialRules": [
@@ -818,7 +818,7 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Twin Supa Shoota|2|FxF"
+          "AC Zwillings Supa Shoota|2|FxF"
         ],
         "specialRules": [
         ]
@@ -830,7 +830,7 @@
         "armour": 5,
         "weapons": [
           "AC Flakka",
-          "AC Twin Supa Shoota||FxF",
+          "AC Zwillings Supa Shoota||FxF",
           "AC Boom Bombs||FxF"
         ],
         "specialRules": [
@@ -843,7 +843,7 @@
         "armour": 4,
         "weapons": [
           "AC Flakka",
-          "AC Twin Kustom Mega-Cannon||FxF"
+          "AC Zwillings Kustom Mega-Cannon||FxF"
         ],
         "specialRules": [
           "Power Fields 1D3"
@@ -859,7 +859,7 @@
           "AC Blasta Bombs||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2"
+          "Schadenskapazität2"
         ],
         "crit": "The Bommer is destroyed."
       },
@@ -875,7 +875,7 @@
           "AC Tankbusta Rokkits|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -894,7 +894,7 @@
           "Big Shootas|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Planetfall[*]",
           "Verstärkte Heckpanzerung",
           "Transport"
@@ -1125,7 +1125,7 @@
         "ff": 5,
         "weapons": [
           "Big Gun",
-          "Twin Big Shoota|2|",
+          "Zwillings Big Shoota|2|",
           "Teeth and Horns"
         ],
         "specialRules": [
@@ -1160,7 +1160,7 @@
         "ff": 5,
         "weapons": [
           "Flak Gun",
-          "Twin Big Shoota|2|",
+          "Zwillings Big Shoota|2|",
           "Teeth and Horns"
         ],
         "specialRules": [
@@ -1176,7 +1176,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota|3|",
+          "Zwillings Big Shoota|3|",
           "Fangs and Horns",
           "Supa-Lobba"
         ],
@@ -1196,7 +1196,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota|4|",
+          "Zwillings Big Shoota|4|",
           "Big Gun|2|",
           "Goring Tusks"
         ],

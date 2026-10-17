@@ -10,7 +10,7 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Twin Tesla Destructor",
+          "AC Zwillings Tesla Destructor",
           "AC Wormhole Portal"
         ],
         "specialRules": [
@@ -27,7 +27,7 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Twin Tesla Destructor",
+          "AC Zwillings Tesla Destructor",
           "AC Death Ray"
         ],
         "specialRules": [
@@ -41,7 +41,7 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Tesla Destructor",
+          "AC Zwillings Tesla Destructor",
           "AC Death Spheres||FxF"
         ],
         "specialRules": [

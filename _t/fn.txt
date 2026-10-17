@@ -1,0 +1,1211 @@
+﻿amtl.json:75 Battle Titan Verbände
+amtl.json:78 0-1 Emperor Titan
+amtl.json:86 Warlord Titan
+amtl.json:94 Reaver Titan
+amtl.json:104 Aufklärungsverbände
+amtl.json:108 Warhounds
+amtl.json:118 Questoris Banner
+amtl.json:127 Unterstützungsverbände
+amtl.json:131 Secutarii Titan Guard
+amtl.json:140 Kastelan Maniple
+amtl.json:148 Castellax Maniple
+amtl.json:155 Minoris
+amtl.json:165 Adeptus Mechanicus Flotte
+amtl.json:169 Lysander-Jäger
+amtl.json:174 Avenger Squadron
+amtl.json:179 0-1 Mechanicus Battleship
+legionesskitariimars.json:74 Legiones Mars Kernverbände
+legionesskitariimars.json:77 Vanguard Maniple
+legionesskitariimars.json:89 Onager Cataphractii
+legionesskitariimars.json:96 Legiones Mars Linienverbände
+legionesskitariimars.json:100 Sicarian Killclade
+legionesskitariimars.json:107 Ranger Cohort
+legionesskitariimars.json:115 Kastelan Maniple
+legionesskitariimars.json:123 Kataphron Maniple
+legionesskitariimars.json:129 Onager Maniple
+legionesskitariimars.json:134 Skorpius Maniple
+legionesskitariimars.json:142 Minoris Cohort
+legionesskitariimars.json:151 0-1 Ordinatus Majoris
+legionesskitariimars.json:162 Forge-World-Flotte, Collegia-Titanica- und Questoris-Mechanicus-Unterstützung
+legionesskitariimars.json:166 Questoris Banner
+legionesskitariimars.json:172 Warhound Pack
+legionesskitariimars.json:180 Warbringer Titan
+legionesskitariimars.json:187 Avenger Squadron
+legionesskitariimars.json:192 0-1 Mechanicus Battleship
+legionesskitariimetalica.json:73 Legiones Metalica Kernverbände
+legionesskitariimetalica.json:76 Hypaspist Maniple
+legionesskitariimetalica.json:91 Legiones Metalica Linienverbände
+legionesskitariimetalica.json:95 Ballistae Cohort
+legionesskitariimetalica.json:105 Kastelan Maniple
+legionesskitariimetalica.json:113 Castellax Maniple
+legionesskitariimetalica.json:120 Praetorian Maniple
+legionesskitariimetalica.json:127 Cataphractii Maniple
+legionesskitariimetalica.json:135 Minoris Cohort
+legionesskitariimetalica.json:144 0-1 Ordinatus Majoris
+legionesskitariimetalica.json:155 Forge-World-Flotte, Collegia-Titanica- und Questoris-Mechanicus-Unterstützung
+legionesskitariimetalica.json:159 Paladin Household
+legionesskitariimetalica.json:166 Warhound Pack
+legionesskitariimetalica.json:174 Reaver Titan
+legionesskitariimetalica.json:181 Warlord Titan
+legionesskitariimetalica.json:188 Avenger Squadron
+legionesskitariimetalica.json:193 0-1 Mechanicus Battleship
+questorisimperialis.json:60 Knight World Kernhauss
+questorisimperialis.json:63 Paladin Household
+questorisimperialis.json:75 Knight World Unterstützungshäuser
+questorisimperialis.json:79 Castellan Household
+questorisimperialis.json:88 Errant Household
+questorisimperialis.json:97 Lancer Household
+questorisimperialis.json:106 Warden Household
+questorisimperialis.json:117 Knight World Gefolgsverbände
+questorisimperialis.json:121 Planetary Defense Platoon
+questorisimperialis.json:131 Rough Rider Platoon
+questorisimperialis.json:138 Flak Emplacement
+questorisimperialis.json:145 Howitzer Emplacement
+questorisimperialis.json:154 Imperial Flotte Verbände
+questorisimperialis.json:158 Thunderbolt Squadron
+questorisimperialis.json:163 Marauder Squadron
+questorismechanicus.json:71 Kernbanner
+questorismechanicus.json:75 Questoris
+questorismechanicus.json:86 Dominus
+questorismechanicus.json:97 Aufklärungsbanner
+questorismechanicus.json:101 Cerastus
+questorismechanicus.json:110 Armiger
+questorismechanicus.json:121 Relic Banner
+questorismechanicus.json:125 Armiger Reliquae
+questorismechanicus.json:132 Questoris Reliquae
+questorismechanicus.json:141 Cerastus Reliquae
+questorismechanicus.json:148 Acastus Reliquae
+questorismechanicus.json:159 Mechanicus Verbündete
+questorismechanicus.json:163 Skitarii Maniple
+questorismechanicus.json:171 Onager Maniple
+questorismechanicus.json:176 Skorpius Maniple
+questorismechanicus.json:184 Avenger Squadron
+questorismechanicus.json:189 0-1 Mechanicus Battleship
+alphalegion.json:98 Alpha Legion Kernverbände
+alphalegion.json:102 Alpha-Legion-Marines
+alphalegion.json:115 Cultist Coven
+alphalegion.json:131 Alpha Legion Elitekontingente
+alphalegion.json:135 Destroyers
+alphalegion.json:144 Headhunters
+alphalegion.json:153 Terminators
+alphalegion.json:162 Sicarians
+alphalegion.json:172 Cultist Unterstützungsverbände
+alphalegion.json:176 Rough Rider Platoon
+alphalegion.json:184 Salamander Squadron
+alphalegion.json:191 Flak Battery
+alphalegion.json:198 Griffon Battery
+alphalegion.json:207 Alpha Legion Flotte
+alphalegion.json:211 Storm Eagle
+alphalegion.json:218 Fire Raptor
+alphalegion.json:225 Xiphon Squadron
+alphalegion.json:232 0-1 Strike Cruiser
+alphalegion.json:241 Dämonenpool
+alphalegion.json:244 Lesser Daemon Pool
+blacklegion.json:104 Black Legion Kernverbände
+blacklegion.json:107 Black Legion Retinue
+blacklegion.json:127 Black Legion Eliteverbände
+blacklegion.json:131 Chosen
+blacklegion.json:140 Chaos Terminators
+blacklegion.json:157 Black Legion Unterstützungsverbände
+blacklegion.json:161 Raptor Cult
+blacklegion.json:170 Armoured Company
+blacklegion.json:180 Havocs
+blacklegion.json:191 Bike Company
+blacklegion.json:202 Dark-Mechanicus-Dämonenmaschinen, Traitor Titans und Chaos-Flotte
+blacklegion.json:206 Defiler Pack
+blacklegion.json:213 Decimator
+blacklegion.json:220 Chaos Warhound
+blacklegion.json:227 Death Wheel
+blacklegion.json:234 Chaos Reaver
+blacklegion.json:239 Chaos Warlord
+blacklegion.json:244 Hell Blade Squadron
+blacklegion.json:249 Hell Talon Squadron
+blacklegion.json:254 0-1 Chaos Cruiser
+blacklegion.json:264 Dämonenpool
+blacklegion.json:268 Lesser Daemon Pool
+blacklegion.json:273 Greater Daemon Pool
+deathguard.json:101 Death Guard Kernverbände
+deathguard.json:104 Death Guard Retinue
+deathguard.json:119 Death Guard Terminators
+deathguard.json:134 Death Guard Eliteverbände
+deathguard.json:138 Havocs
+deathguard.json:150 Armoured Company
+deathguard.json:162 Death Guard Unterstützungsverbände
+deathguard.json:166 Pox Walker Infestation
+deathguard.json:171 Plague Reaper
+deathguard.json:178 Nurgle Defiler Pack
+deathguard.json:185 Blight Drones
+deathguard.json:192 Contagion Engines
+deathguard.json:201 Traitor Titans und Chaos-Flotte
+deathguard.json:205 Plaguehound
+deathguard.json:212 Repugnant
+deathguard.json:219 Heldrakes
+deathguard.json:224 Harbringer
+deathguard.json:229 0-1 Plagueship
+deathguard.json:236 Dämonenpool
+deathguard.json:240 Lesser Daemon Pool
+deathguard.json:245 Greater Daemon Pool
+emperorschildren.json:84 Emperor's Children Kernverbände
+emperorschildren.json:87 Emperor's Children Retinue
+emperorschildren.json:102 Emperor's Children Terminators
+emperorschildren.json:115 Emperor's Children Eliteverbände
+emperorschildren.json:119 Chosen
+emperorschildren.json:136 Emperor's Children Unterstützungsverbände
+emperorschildren.json:140 Bike Company
+emperorschildren.json:148 Raptor Cult
+emperorschildren.json:156 Armoured Company
+emperorschildren.json:167 Dark-Mechanicus-Dämonenmaschinen und Chaos-Flotte
+emperorschildren.json:171 Hell-Striders of Slaanesh
+emperorschildren.json:178 Hell-Knights
+emperorschildren.json:183 Hell-Scourges
+emperorschildren.json:188 Questor
+emperorschildren.json:193 Subjugator
+emperorschildren.json:198 Hell Blade Squadron
+emperorschildren.json:203 Hell Talon Squadron
+emperorschildren.json:208 0-1 Chaos Cruiser
+emperorschildren.json:218 Dämonenpool
+emperorschildren.json:222 Lesser Daemon Pool
+emperorschildren.json:227 Greater Daemon Pool
+ironwarriors.json:75 Iron Warriors Kernverbände
+ironwarriors.json:78 Iron Warriors Retinue
+ironwarriors.json:92 Iron Warriors Armoured Company
+ironwarriors.json:100 Havocs
+ironwarriors.json:112 Iron Warriors Eliteverbände
+ironwarriors.json:116 Chosen
+ironwarriors.json:125 Bezashk Destroyers
+ironwarriors.json:133 Dreadnought Assault Pack
+ironwarriors.json:142 Tyrant Terminators
+ironwarriors.json:155 Iron Warriors Belagerungsverbände
+ironwarriors.json:159 Heavy Siege Engine
+ironwarriors.json:169 Bezashk Siege Battery
+ironwarriors.json:176 Iron Warriors Artillery Battery
+ironwarriors.json:184 Heavy Siege Tanks
+ironwarriors.json:194 Dark Mechanicus und Chaos-Flotte
+ironwarriors.json:198 Maulerfiends
+ironwarriors.json:205 Decimator
+ironwarriors.json:212 Defiler Pack
+ironwarriors.json:219 Ordinatus Hereticus
+ironwarriors.json:226 0-1 Ordinatus Cyclothrathe
+ironwarriors.json:233 Heldrakes
+ironwarriors.json:238 Harbringer
+ironwarriors.json:243 0-1 Chaos Cruiser
+nightlords.json:78 Night Lords Kernverbände
+nightlords.json:81 Night Raptor Company
+nightlords.json:93 Night Lords Eliteverbände
+nightlords.json:97 Chosen
+nightlords.json:105 Warp Talon Cult
+nightlords.json:112 Terminator Company
+nightlords.json:126 Night Lords Unterstützungsverbände
+nightlords.json:130 Destroyers
+nightlords.json:137 Terror Company
+nightlords.json:148 Support Company
+nightlords.json:159 Attack Company
+nightlords.json:171 Night-Lords-Verteidigungsanlagen und -Flotte
+nightlords.json:175 Tarantula
+nightlords.json:180 Fire Raptor
+nightlords.json:185 Xiphon Squadron
+nightlords.json:190 Thunderhawk
+nightlords.json:195 0-1 Strike Cruiser
+nightlords.json:204 Dämonenpool
+nightlords.json:208 Lesser Daemon Pool
+thousandsons.json:101 Thousand Sons Kernverbände
+thousandsons.json:105 Thousand Sons Retinue
+thousandsons.json:120 Thousand Sons Terminators
+thousandsons.json:133 Thousand Sons Unterstützungsverbände
+thousandsons.json:137 Tzaangor Host
+thousandsons.json:145 Defilers of Tzeentch
+thousandsons.json:152 Armoured Company
+thousandsons.json:160 Havocs
+thousandsons.json:170 Disc Riders
+thousandsons.json:180 Silver Towers of Tzeentch
+thousandsons.json:189 Dark Mechanicus und Thousand Sons-Flotte
+thousandsons.json:193 Warphound
+thousandsons.json:200 Warp Palace
+thousandsons.json:207 Doomwings of Tzeentch
+thousandsons.json:214 Firelords of Tzeentch
+thousandsons.json:222 0-1 Warpship of Tzeentch
+thousandsons.json:231 Dämonenpool
+thousandsons.json:235 Lesser Daemon Pool
+thousandsons.json:240 Greater Daemon Pool
+wordbearers.json:103 Word Bearers Kernverbände
+wordbearers.json:107 Word Bearers Retinue
+wordbearers.json:122 Cultist Host
+wordbearers.json:137 Word Bearers Eliteverbände
+wordbearers.json:141 Iconoclasts
+wordbearers.json:150 Havocs
+wordbearers.json:162 Armoured Company
+wordbearers.json:171 The Anointed
+wordbearers.json:186 Dämonenmaschinen Verbände
+wordbearers.json:190 Cerberites
+wordbearers.json:197 Forgefiends
+wordbearers.json:202 Maulerfiends
+wordbearers.json:209 Defilers
+wordbearers.json:218 Kriegsmaschinen & Chaos Flotte
+wordbearers.json:222 Decimator
+wordbearers.json:229 Chaos Knights
+wordbearers.json:236 Death Wheel
+wordbearers.json:243 Heldrakes
+wordbearers.json:248 Harbringer
+wordbearers.json:255 0-1 Chaos Cruiser
+wordbearers.json:265 Dämonenpool
+wordbearers.json:269 Lesser Daemon Pool
+wordbearers.json:274 Greater Daemon Pool
+worldeaters.json:90 World Eaters Kernverbände
+worldeaters.json:93 World Eaters Retinue
+worldeaters.json:107 Skullseeker Terminators
+worldeaters.json:121 World Eaters Eliteverbände
+worldeaters.json:125 Destroyers
+worldeaters.json:132 Chaos Space Marines
+worldeaters.json:142 Berzerker Bikes
+worldeaters.json:152 Juggernaut Riders
+worldeaters.json:164 World Eaters Unterstützungsverbände
+worldeaters.json:168 Doomblasters
+worldeaters.json:175 Khorne Defiler Pack
+worldeaters.json:183 Cannons of Khorne
+worldeaters.json:190 Daemonic Assault Engines
+worldeaters.json:199 Kriegsmaschinen- und Chaos-Flottenverbände
+worldeaters.json:203 Greater Brass Scorpions
+worldeaters.json:211 Lord of Battles
+worldeaters.json:218 0-1 Tower of Skulls
+worldeaters.json:225 Hell Blade Squadron
+worldeaters.json:230 Hell Talon Squadron
+worldeaters.json:235 0-1 Chaos Cruiser
+worldeaters.json:245 Dämonenpool
+worldeaters.json:249 Lesser Daemon Pool
+worldeaters.json:254 Greater Daemon Pool
+emissariesimperatus.json:53 Adeptus-Custodes-Kern-Detachments
+emissariesimperatus.json:56 Custodes Guardian Squad
+emissariesimperatus.json:66 Adeptus-Custodes-Elite-Detachments
+emissariesimperatus.json:70 Warden Wing
+emissariesimperatus.json:80 Dreadnaught Wing
+emissariesimperatus.json:88 Aquilon Custodians
+emissariesimperatus.json:100 Adeptus-Custodes-Unterstützungs-Detachments
+emissariesimperatus.json:104 Venatari Wing
+emissariesimperatus.json:112 Kataphractoi
+emissariesimperatus.json:120 Pallas Amour
+emissariesimperatus.json:127 Caladius Armour
+emissariesimperatus.json:134 Null Maiden Cadre
+emissariesimperatus.json:144 Lufttransport und imperiale Verbündete der Adeptus Custodes
+emissariesimperatus.json:148 Orion Assault Ship
+emissariesimperatus.json:153 Adeptus Astartes Storm Talons
+DI.json:90 Daemonic Incursion Sonderregeln
+DI.json:94 1 Chaos Gate
+DI.json:103 1+ Exalted Greater Daemons. Höchstens einer pro 1500 Punkte der Armee.
+DI.json:106 Exalted Greater Daemon of Slaanesh
+DI.json:114 Exalted Greater Daemon of Nurgle
+DI.json:122 Exalted Greater Daemon of Khorne
+DI.json:130 Exalted Greater Daemon of Tzeentch
+DI.json:140 Dämonenlegionen
+DI.json:144 Slaneesh Legion of Excess
+DI.json:154 Nurgle Plague Legion 
+DI.json:164 Khorne Blood Legion
+DI.json:174 Tzeentch Scintillating Legion
+DI.json:186 Sterbliche und Dämonenmaschinen
+DI.json:190 Cultist Coven
+DI.json:212 Dämonenpool
+DI.json:216 Lesser Daemon Pool
+LatD.json:103 Cultist Coven Verbände
+LatD.json:106 Cultist Coven
+LatD.json:116 Chaos-, Dark-Mechanicus- und Infestations-Unterstützungszirkel
+LatD.json:120 Chaos Space Marines of Chaos Undivided
+LatD.json:128 Cerberites of Chaos Undivided
+LatD.json:135 Defilers of Chaos Undivided
+LatD.json:142 Heldrakes of Chaos Undivided
+LatD.json:147 Hell-Striders of Slaanesh
+LatD.json:154 Questors of Slaanesh
+LatD.json:162 Subjugators of Slaanesh
+LatD.json:170 Plague Tower of Nurgle
+LatD.json:177 Contagion Engines of Nurgle
+LatD.json:184 Pox Walkers of Nurgle
+LatD.json:189 Cannons of Khorne
+LatD.json:196 Khorne Daemonic Assault Engines
+LatD.json:203 Khorne Lord of Battles
+LatD.json:210 Silver Towers of Tzeentch
+LatD.json:217 Warp Palace of Tzeentch
+LatD.json:224 Firelords of Tzeentch
+LatD.json:234 Dämonenpool
+LatD.json:238 Lesser Daemon Pool
+LatD.json:243 Greater Daemon Pool
+StD.json:109 Slaves to Darkness Kernverbände
+StD.json:113 Traitor Guard
+StD.json:123 Slaves to Darkness Unterstützungsverbände
+StD.json:127 Flak Battery
+StD.json:134 Artillery Battery
+StD.json:141 Sentinel Squadron
+StD.json:147 Rough Rider Platoon
+StD.json:155 Super-Heavy Platoon
+StD.json:163 Leman Russ Squadron
+StD.json:170 Griffon Battery
+StD.json:179 Slaves to Darkness Chaos Verbündete
+StD.json:183 Hell Blade Squadron
+StD.json:188 Hell Talon Squadron
+StD.json:193 Chaos Space Marines of Chaos Undivided
+StD.json:201 Decimator of Chaos Undivided
+StD.json:206 Defilers of Chaos Undivided
+StD.json:211 Death Wheel of Chaos Undivided
+StD.json:218 Hell-Knights
+StD.json:223 Hell-Scourges
+StD.json:228 Plague Reaper of Nurgle
+StD.json:233 Plague Tower of Nurgle
+StD.json:238 Daemonic Assault Engines of Khorne
+StD.json:243 Khorne Lord of Battles
+StD.json:248 Silver Towers of Tzeentch
+StD.json:253 Warp Palace of Tzeentch
+StD.json:260 Dämonenpool
+StD.json:264 Lesser Daemon Pool
+kabaloftheblackheart.json:68 Drukhari-Spezialeinheiten
+kabaloftheblackheart.json:71 0-1 Wraithgate
+kabaloftheblackheart.json:78 Black-Heart-Kabal-Formationen
+kabaloftheblackheart.json:82 1 Black Heart Coterie
+kabaloftheblackheart.json:94 Black Heart Syndicate
+kabaloftheblackheart.json:105 Black Heart Flotilla
+kabaloftheblackheart.json:115 Black-Heart-Partisan-Formationen
+kabaloftheblackheart.json:145 Reaver Gang
+kabaloftheblackheart.json:154 Haemonculi Coven
+kabaloftheblackheart.json:165 Talos Swarm
+kabaloftheblackheart.json:173 Scourge Flight
+kabaloftheblackheart.json:180 Vessel of Pain
+kabaloftheblackheart.json:189 Commorragh-Flotte und Kriegsmaschinen
+kabaloftheblackheart.json:193 Executioner
+kabaloftheblackheart.json:200 Razorwing Cast
+kabaloftheblackheart.json:207 Voidraven Cast
+kabaloftheblackheart.json:214 Slavebringer
+kabaloftheblackheart.json:221 0-1 Orbital Support
+masqueofthemidnightsorrow.json:79 Wraithkind-Spezialregeln
+masqueofthemidnightsorrow.json:82 0-1 Wraithgate
+masqueofthemidnightsorrow.json:91 Wraithkind-Kabale
+masqueofthemidnightsorrow.json:95 1 Wraithkind Coterie
+masqueofthemidnightsorrow.json:107 Wraithkind Flotilla
+masqueofthemidnightsorrow.json:115 Wraithkind Syndicate
+masqueofthemidnightsorrow.json:128 Wraithkind-Partisanen
+masqueofthemidnightsorrow.json:159 Scourge Flight
+masqueofthemidnightsorrow.json:168 Harlekine
+masqueofthemidnightsorrow.json:172 Harlequin Masque
+masqueofthemidnightsorrow.json:182 Harlequin Support
+masqueofthemidnightsorrow.json:192 Commorragh-Flotte und Kriegsmaschinen
+QT.json:89 Hell-Forge-Kernformationen
+QT.json:92 Hell-Forge Maniple
+QT.json:106 Dämonische Bannerformationen
+QT.json:110 Hell-Knights of Slaanesh
+QT.json:118 Hell-Scourges of Slaanesh
+QT.json:126 Hell-Striders of Slaanesh
+QT.json:134 Knight-Despoilers of Tzeentch
+QT.json:142 Knight-Desecrators of Nurgle
+QT.json:150 Knight-Rampagers of Khorne
+QT.json:158 Knight-Renegades of Chaos Undivided
+QT.json:166 Knight-Tyrant of Chaos Undivided
+QT.json:174 Armigers of Chaos Undivided
+QT.json:184 Hell-Forge-Unterstützung, Verräter-Titanen und Verbündete der Chaosflotte
+QT.json:188 Chrono-Gladiators
+QT.json:195 Ordinatus Hereticus
+QT.json:204 0-1 Ordinatus Hereticus Majoris
+QT.json:213 Chaos Warbringer
+QT.json:218 Heldrakes
+QT.json:223 Harbringer
+QT.json:228 0-1 Chaos Battleship
+QT.json:237 Dämonenvorrat
+QT.json:241 Lesser Daemon Pool
+TTL.json:76 Battle-Titan-Formationen
+TTL.json:80 0-1 Chaos Emperor Titan
+TTL.json:90 Chaos Warlord Titan
+TTL.json:100 Chaos Reaver Titan
+TTL.json:111 Unterstützungsformationen
+TTL.json:115 Chaos Warhound
+TTL.json:125 Slaanesh Scout Titan
+TTL.json:135 Debasers of Slaanesh
+TTL.json:143 Slaughterfiends of Khorne
+TTL.json:151 Desecrators of Nurgle
+TTL.json:159 Decievers of Tzeentch
+TTL.json:167 Cerberites of Chaos Undivided
+TTL.json:174 Maulerfiends of Chaos Undivided
+TTL.json:181 Forgefiends of Chaos Undivided
+TTL.json:188 Defilers of Chaos Undivided
+TTL.json:196 Hell-Forge Maniple
+TTL.json:206 Chaosflotte
+TTL.json:210 Heldrakes
+TTL.json:215 Harbringer
+TTL.json:220 0-1 Chaos Battleship
+bieltan.json:78 Biel-Tan-Spezialregeln
+bieltan.json:81 1 Avatar
+bieltan.json:86 0-1 Wraithgate
+bieltan.json:93 Biel-Tan-Warhosts
+bieltan.json:97 Beritten Aspect Warrior Warhost
+bieltan.json:108 Aspect Warrior Warhost
+bieltan.json:117 Guardian Warhost
+bieltan.json:131 Biel-Tan-Troupes
+bieltan.json:150 Wind Rider Troupe 
+bieltan.json:158 Swords of Vaul
+bieltan.json:166 Fire Prism Troupe
+bieltan.json:173 Night Spinner Troupe
+bieltan.json:180 Void Spinner
+bieltan.json:187 Engines of Vaul
+bieltan.json:197 Biel-Tan-Flugzeuge, Raumschiffe und Titanen
+bieltan.json:201 Nightwing Aerie
+bieltan.json:209 Phoenix Aerie
+bieltan.json:216 Vampire
+bieltan.json:223 Revenants
+bieltan.json:230 Phantom
+bieltan.json:237 0-1 Warlock Titan
+bieltan.json:244 0-1 Spacecraft
+exodites.json:68 Exoditen-Spezialregeln
+exodites.json:71 Dragon Prince (0–1 pro Armee)
+exodites.json:76 Eternal Drake (0–1 pro Armee)
+exodites.json:81 Wraithgate (0–1 pro Armee)
+exodites.json:88 Exoditen-Warhost-Formationen
+exodites.json:91 Dragon Knight Warhost
+exodites.json:101 Wind Knight Warhost
+exodites.json:112 Exodite Unterstützungsformationen
+exodites.json:116 Dragon Outriders
+exodites.json:121 Skyward Dragon Troupe
+exodites.json:129 Exodite Militia Troupe
+exodites.json:138 Voidprism Troupe
+exodites.json:145 Great Megadon Troupe
+exodites.json:153 Colossal Carnosaur
+exodites.json:160 Unterstützung durch Eldar-Ritter und Korsaren
+exodites.json:164 Corsairs Raiding Party
+exodites.json:175 Corsair Vampire (0–1 pro Raubzug-Trupp)
+exodites.json:182 Corsair Nightwings
+exodites.json:190 Corsairs Fire Support (0–1 pro Raubzug-Trupp)
+exodites.json:195 Exodite Knight Warhost
+firlirithion.json:61 Fir-Lirithion-Spezialregeln
+firlirithion.json:64 1 Avatar
+firlirithion.json:69 0-1 Wraithgate
+firlirithion.json:76 Fir-Lirithion-Kampftitanen
+firlirithion.json:79 0-1 Warlock Titan
+firlirithion.json:86 Phantom Titan
+firlirithion.json:96 Fir-Lirithion-Aufklärungstitanen
+firlirithion.json:100 Revenant Titan
+firlirithion.json:110 Fir-Lirithion-Troupes
+firlirithion.json:114 Wraithknight Troupe
+firlirithion.json:121 Engines of Vaul
+firlirithion.json:130 Spirit Guard Wraithhost
+firlirithion.json:143 Weltenschiff-Flotte
+firlirithion.json:147 Nightwing Aerie
+firlirithion.json:155 Vampire Hunter
+firlirithion.json:162 Vampire
+firlirithion.json:169 0-1 Spacecraft
+iyanden.json:77 Iyanden-Spezialregeln
+iyanden.json:80  1 Avatar
+iyanden.json:85 0-1 Wraithgate
+iyanden.json:92 Iyanden-Wraithhosts
+iyanden.json:95 Spirit Guard Wraithhost
+iyanden.json:106 Spirit Blade Wraithhost
+iyanden.json:119 Iyanden-Troupes
+iyanden.json:132 Aspect Warrior Troupe
+iyanden.json:140 Engines of Vaul Troupe
+iyanden.json:148 Swords of Vaul
+iyanden.json:156 Fire Prism Troupe
+iyanden.json:163 Night Spinner Troupe
+iyanden.json:170 Rangers
+iyanden.json:177 War Walker Troupe
+iyanden.json:194 Iyanden-Flugzeuge, Raumschiffe und Titanen
+iyanden.json:198 Nightwing Aerie
+iyanden.json:206 Hemlock Aerie
+iyanden.json:214 Vampire
+iyanden.json:221 Wraithknights
+iyanden.json:228 Revenants
+iyanden.json:235 Phantom
+iyanden.json:242 0-1 Spacecraft
+masqueoftheveiledpath.json:93 Spezialregeln des Weltenschiffs Lugganath
+masqueoftheveiledpath.json:96 0-1 Avatar
+masqueoftheveiledpath.json:101 1 Wraithgate
+masqueoftheveiledpath.json:111 Lugganath-Warhosts/Wraithhosts
+masqueoftheveiledpath.json:115 Lugganath Warhost
+masqueoftheveiledpath.json:124 Lugganath Wraithhost
+masqueoftheveiledpath.json:133 Lugganath-Troupes
+masqueoftheveiledpath.json:137 Corsair Scouts
+masqueoftheveiledpath.json:145 Beritten Aspect Warrior Troupe
+masqueoftheveiledpath.json:154 Fire Prism Troupe
+masqueoftheveiledpath.json:161 Swords of Vaul
+masqueoftheveiledpath.json:171 Engines of Vaul
+masqueoftheveiledpath.json:181 Saedaths der Masque of the Veiled Path
+masqueoftheveiledpath.json:185 Cegorach's Escape
+masqueoftheveiledpath.json:192 Serpent's Scales
+masqueoftheveiledpath.json:199 Devourer's Hunt
+masqueoftheveiledpath.json:206 Cegorach's Revenge
+masqueoftheveiledpath.json:213 0-1 Devourer's Feast
+masqueoftheveiledpath.json:220 0-1 Ynnead's Dream
+masqueoftheveiledpath.json:229 Lugganath-Flugzeuge, Raumschiffe und Titanen
+masqueoftheveiledpath.json:240 Crimson Aerie
+masqueoftheveiledpath.json:247 Hemlock Aerie
+masqueoftheveiledpath.json:254 Corsair Vampire Hunter
+masqueoftheveiledpath.json:261 0-1 Spacecraft
+mymeara.json:77 Spezialregeln des Weltenschiffs Mymeara
+mymeara.json:80 1 Avatar
+mymeara.json:85 0-1 Wraithgate
+mymeara.json:92 Mymeara-Hosts
+mymeara.json:95 0-1 Shadow Spectre Warhost
+mymeara.json:103 Aspect Warrior Warhost
+mymeara.json:111 Guardian Warhost
+mymeara.json:121 Mymeara-Troupes
+mymeara.json:125 Wasp Walkers
+mymeara.json:132 Heavy Wraithguard
+mymeara.json:142 Hornets
+mymeara.json:150 Night Spinner Troupe
+mymeara.json:157 Hunters of Vaul
+mymeara.json:165 Fire Prism Troupe 
+mymeara.json:172 Armour of Vaul
+mymeara.json:179 Engine of Vaul
+mymeara.json:189 Mymeara-Flugzeuge, Raumschiffe und Titanen
+mymeara.json:193 Nightshade Aerie
+mymeara.json:200 Hemlock Wraithfighter Aerie
+mymeara.json:207 Wraithknights
+mymeara.json:214 Revenants
+mymeara.json:222 0-1 Spacecraft
+saimhann.json:77 Saim-Hann-Spezialregeln
+saimhann.json:80 1 Avatar
+saimhann.json:85 0-1 Wraithgate
+saimhann.json:92 Saim-Hann-Warhosts
+saimhann.json:125 Saim-Hann-Troupes
+saimhann.json:196 Saim-Hann-Flugzeuge, Raumschiffe und Titanen
+saimhann.json:200 Nightwing Aerie
+saimhann.json:207 Phoenix Aerie
+saimhann.json:214 Vampire Hunter
+saimhann.json:221 Revenants
+saimhann.json:229 0-1 Spacecraft
+ulthwe.json:77 Ulthwé-Spezialregeln
+ulthwe.json:80 0-1 Avatar
+ulthwe.json:85 1 Wraithgate
+ulthwe.json:94 Ulthwé-Warhosts
+ulthwe.json:97 Black Guardian Warhost
+ulthwe.json:109 Beritten Black Guardian Warhost
+ulthwe.json:121 Ulthwé-Line-Troupes
+ulthwe.json:141 Aspect Warrior Troupe
+ulthwe.json:149 Engines of Vaul
+ulthwe.json:157 Fire Prism Troupe
+ulthwe.json:164 Night Spinner Troupe
+ulthwe.json:171 Rangers
+ulthwe.json:179 Swords of Vaul
+ulthwe.json:189 Ulthwé-Flugzeuge, Raumschiffe und Titanen
+ulthwe.json:193 Nightwing Aerie
+ulthwe.json:201 Phoenix Aerie
+ulthwe.json:208 Vampire
+ulthwe.json:215 Wraithknights
+ulthwe.json:222 Revenant Titans
+ulthwe.json:229 0-1 Warlock Titan
+ulthwe.json:236 0-1 Spacecraft
+ymeloc.json:69 Yme-Loc-Spezialregeln
+ymeloc.json:72 1 Avatar
+ymeloc.json:77 0-1 Gate of Vaul
+ymeloc.json:84 Yme-Loc-Vaulhosts
+ymeloc.json:87 Engines of Vaul
+ymeloc.json:96 Swords of Vaul
+ymeloc.json:107 Yme-Loc-Troupes
+ymeloc.json:111 Beritten Aspect Warrior Troupe
+ymeloc.json:119 Beritten Guardian Troupe
+ymeloc.json:127 Lynx Troupe
+ymeloc.json:134 Wind Rider Troupe
+ymeloc.json:141 Fire Prism Troupe
+ymeloc.json:148 Fire Spinner Troupe
+ymeloc.json:155 Warp Hunter Troupe
+ymeloc.json:162 Hornet Troupe
+ymeloc.json:172 Yme-Loc-Flugzeuge, Raumschiffe und Titanen
+ymeloc.json:176 Nightwing Aerie
+ymeloc.json:184 Phoenix Aerie
+ymeloc.json:191 Revenants
+ymeloc.json:198 Phantom
+ymeloc.json:206 0-1 Warlock Titan
+ymeloc.json:213 0-1 Spacecraft
+barans.json:70 Kernkompanie-Verbände
+barans.json:74 1 Siegemaster Regimental HQ
+barans.json:85 Siege Infantry Company
+barans.json:98 Baran Unterstützungsverbände
+barans.json:110 Macharius Company
+barans.json:118 Sapper Company
+barans.json:123 Siege Artillery Emplacement
+barans.json:131 Howitzer Emplacement
+barans.json:140 Flak Emplacement
+barans.json:147 Light Artillery Emplacement
+barans.json:155 Griffon Battery
+barans.json:163 Todesreiter
+barans.json:172 Siege Recon Squadron
+barans.json:189 Imperial Flotte
+barans.json:193 Thunderbolt Squadron
+barans.json:198 Marauder Squadron
+cadianshocktroops.json:77 Cadian Kernkompanie-Verbände
+cadianshocktroops.json:80 0–1 Regimental HQ
+cadianshocktroops.json:90 Whiteshield Company
+cadianshocktroops.json:99 Shock Trooper Company
+cadianshocktroops.json:108 Cadian Unterstützungsverbände
+cadianshocktroops.json:112 Kasrkin Platoon
+cadianshocktroops.json:119 Whiteshield Platoon
+cadianshocktroops.json:126 Praetor Battery
+cadianshocktroops.json:133 Artillery Battery
+cadianshocktroops.json:141 Flak Battery
+cadianshocktroops.json:148 Hellhound Platoon
+cadianshocktroops.json:156 Leman Russ Platoon
+cadianshocktroops.json:164 Armoured Sentinel Squadron
+cadianshocktroops.json:171 Super-Heavy Platoon
+cadianshocktroops.json:181 Collegia-Titanica- und Imperial-Flottenverbände
+cadianshocktroops.json:185 Warhound Pack
+cadianshocktroops.json:192 Reaver Titan
+cadianshocktroops.json:197 Thunderbolt Squadron
+cadianshocktroops.json:202 Marauder Squadron
+cadianshocktroops.json:207 0–1 Orbital Support
+catachandeathworld.json:60 Catachan Kernkompanien
+catachandeathworld.json:63 Catachan Regimental HQ
+catachandeathworld.json:74 Catachan Company
+catachandeathworld.json:87 Catachan Unterstützungsverbände
+catachandeathworld.json:91 Leman Russ Platoon
+catachandeathworld.json:99 Vulture Squadron
+catachandeathworld.json:107 Artillery Battery
+catachandeathworld.json:114 Deathstrike Battery
+catachandeathworld.json:121 Veteran Company
+catachandeathworld.json:129 Catachan Super-Heavy Platoon
+catachandeathworld.json:137 Griffon Battery
+catachandeathworld.json:144 Devil Dog Squadron
+catachandeathworld.json:151 Scharfschütze Platoon
+catachandeathworld.json:158 Catachan Sentinel Squadron
+catachandeathworld.json:167 Imperial Flotte Verbände
+catachandeathworld.json:171 Thunderbolt Squadron
+catachandeathworld.json:176 Marauder Squadron
+catachandeathworld.json:181 0–1 Orbital Support
+deathkorps.json:75 DKoK Kernkompanien
+deathkorps.json:78 0-1 Death Korps Regimental HQ
+deathkorps.json:88 Assault Company
+deathkorps.json:97 Death Rider Company
+deathkorps.json:107 DKoK Unterstützungsverbände
+deathkorps.json:111 Leman Russ Squadron
+deathkorps.json:119 Siege Infantry Company
+deathkorps.json:128 Artillery Emplacement
+deathkorps.json:137 Flak Emplacement
+deathkorps.json:145 Bombard Battery
+deathkorps.json:152 Griffon Battery
+deathkorps.json:159 Deathstrike Battery
+deathkorps.json:166 Super-Heavy Platoon
+deathkorps.json:174 Macharius Company
+deathkorps.json:181 Grenadier Company
+deathkorps.json:190 Armoured Sentinel Squadron
+deathkorps.json:199 Collegia Titanica & Imperial Flotte Verbündete
+deathkorps.json:203 Warhounds
+deathkorps.json:211 Thunderbolt Squadron
+deathkorps.json:216 Marauder Squadron
+deathkorps.json:221 0–1 Orbital Support
+elysiandroptroops.json:67 Elysian Kernverbände
+elysiandroptroops.json:70 0-1 Regimental HQ
+elysiandroptroops.json:80 Drop Troop Company
+elysiandroptroops.json:92 Elysian Unterstützungsverbände
+elysiandroptroops.json:96 Drop Sentinel Squadron
+elysiandroptroops.json:104 Sentinel Squadron
+elysiandroptroops.json:113 Storm Trooper Company
+elysiandroptroops.json:118 Support Platoon
+elysiandroptroops.json:123 Tauros Venator Squadron
+elysiandroptroops.json:131 Tauros Recon Squadron
+elysiandroptroops.json:136 Vulture Squadron
+elysiandroptroops.json:143 Statische Verteidigungsanlagen & Imperial Flotte Verbündete
+elysiandroptroops.json:147 Tarantula
+elysiandroptroops.json:152 Lightning Squadron
+elysiandroptroops.json:157 Marauder Destroyer
+elysiandroptroops.json:162 Marauder Squadron
+elysiandroptroops.json:167 Thunderbolt Squadron
+elysiandroptroops.json:172 0–1 Orbital Support
+minervans.json:71 Minervan Kompanie Verbände
+minervans.json:74 Minervan Tank Company
+minervans.json:86 Minervan Super-Heavy Company
+minervans.json:97 Artillery Company
+minervans.json:109 Minervan Unterstützungsverbände
+minervans.json:113 Leman Russ Squadron
+minervans.json:123 Mechanized Infantry Platoon
+minervans.json:132 Artillery Battery
+minervans.json:140 Griffon Battery
+minervans.json:147 Tank Hunter Squadron
+minervans.json:154 Super-Heavy Platoon
+minervans.json:162 Deathstrike Battery
+minervans.json:169 Flak Battery
+minervans.json:176 Salamander Squadron
+minervans.json:185 Collegia-Titanica- und Imperial-Flottenverbände
+minervans.json:189 Warhounds
+minervans.json:197 Thunderbolt Squadron
+minervans.json:202 Marauder Squadron
+minervans.json:207 0–1 Orbital Support
+steellegion.json:75 Kompanie Verbände
+steellegion.json:78 Regimental HQ
+steellegion.json:86 Mechanized Infantry Company
+steellegion.json:94 Infantry Company
+steellegion.json:102 Leman Russ Company
+steellegion.json:111 Super-Heavy Company
+steellegion.json:121 Artillery Company
+steellegion.json:132 Unterstützungsverbände
+steellegion.json:136 Mechanized Infantry Platoon
+steellegion.json:144 Artillery Battery
+steellegion.json:152 Deathstrike Battery
+steellegion.json:159 Griffon Battery
+steellegion.json:166 Flak Battery
+steellegion.json:173 Rough Rider Platoon
+steellegion.json:178 Sentinel Squadron
+steellegion.json:185 Super-Heavy Platoon
+steellegion.json:193 Leman Russ Platoon
+steellegion.json:198 Vulture Squadron
+steellegion.json:204 Storm Trooper Company
+steellegion.json:214 Collegia-Titanica- und Imperial-Flottenverbände
+steellegion.json:218 Warhounds
+steellegion.json:226 Reaver
+steellegion.json:233 Warlord
+steellegion.json:240 Thunderbolt Squadron
+steellegion.json:245 Marauder Squadron
+steellegion.json:250 0–1 Orbital Support
+valhallanicewarriors.json:67 Valhallan Kernkompanie-Verbände
+valhallanicewarriors.json:70 Valhallan Regimental HQ
+valhallanicewarriors.json:83 Valhallan Infantry Company
+valhallanicewarriors.json:97 Artillery Company
+valhallanicewarriors.json:108 Valhallan Unterstützungsverbände
+valhallanicewarriors.json:112 Heavy Tank Platoon
+valhallanicewarriors.json:121 Macharius Company
+valhallanicewarriors.json:129 Super-Heavy Platoon
+valhallanicewarriors.json:136 Deathstrike Battery
+valhallanicewarriors.json:143 Hellhound Squadron
+valhallanicewarriors.json:150 Armoured Sentinel Squadron
+valhallanicewarriors.json:159 Adeptus-Ministorum- und Imperial-Flottenverbündete
+valhallanicewarriors.json:163 Ministorum Mission
+valhallanicewarriors.json:170 Lightning Squadron
+valhallanicewarriors.json:175 Marauder Destroyer
+valhallanicewarriors.json:180 0–1 Orbital Support
+adeptasororitas.json:72 Adepta-Sororitas-Kernformationen
+adeptasororitas.json:76 Mission
+adeptasororitas.json:100 Adepta Sororita Unterstützungsformationen
+adeptasororitas.json:104 Immolation
+adeptasororitas.json:111 Exorcism
+adeptasororitas.json:120 Seraph
+adeptasororitas.json:128 Retribution
+adeptasororitas.json:136 Repentance
+adeptasororitas.json:160 Ordo-Hereticus-Formationen
+adeptasororitas.json:164 Vulture
+adeptasororitas.json:170 Redemption
+adeptasororitas.json:178 Infernus
+adeptasororitas.json:187 Formationen der Imperial Navy
+adeptasororitas.json:191 Lightning Squadron
+adeptasororitas.json:196 Marauder Destroyer
+adeptasororitas.json:201 0–1 Orbital Support
+deathwatch.json:72 Deathwatch-Spezialregeln
+deathwatch.json:76 0-1 Officio Assassinorum
+deathwatch.json:83 Deathwatch-Detachments
+deathwatch.json:87 Deathwatch Kill-Team
+deathwatch.json:99 Deathwatch Attack
+deathwatch.json:108 Deathwatch-Sturmtrupps
+deathwatch.json:118 Deathwatch-Terminatoren
+deathwatch.json:128 1 Dark Hunter
+deathwatch.json:136 Ordo-Xenos-Formationen
+deathwatch.json:140 0-1 Ordo Xenos Inquisitor Task Force
+deathwatch.json:149 Akolythen des Ordo Xenos
+deathwatch.json:157 Planetary Defense Platoon
+deathwatch.json:165 Leman Russ Squadron
+deathwatch.json:172 Armoured Sentinel Squadron
+deathwatch.json:181 Deathwatch-Drop-Detachments
+deathwatch.json:185 Corvus Dropship
+deathwatch.json:190 Thunderhawk-Transporter
+maynarkhdynasty.json:65 Spezialregeln der Maynarkh-Dynastie
+maynarkhdynasty.json:68 0–1 Necron Tomb Complex
+maynarkhdynasty.json:75 Kernformationen der Maynarkh-Dynastie
+maynarkhdynasty.json:78 Necron Phalanx
+maynarkhdynasty.json:91 Portalformationen der Maynarkh-Dynastie
+maynarkhdynasty.json:95 Portal Phalanx
+maynarkhdynasty.json:105 Unterstützungsformationen der Maynarkh-Dynastie
+maynarkhdynasty.json:109 1+ The Unbidden
+maynarkhdynasty.json:116 Obelisk Phalanx
+maynarkhdynasty.json:123 Destroyer Phalanx
+maynarkhdynasty.json:132 Tomb Guardian
+maynarkhdynasty.json:139 Canoptek Swarm
+maynarkhdynasty.json:149 Ernter und Flotte der Maynarkh-Dynastie
+maynarkhdynasty.json:153 Megalith Conduit
+maynarkhdynasty.json:161 0–1 Harvester Engine
+maynarkhdynasty.json:168 0–1 Gruftschiff
+maynarkhdynasty.json:175 Todessicheln
+maynarkhdynasty.json:182 Night Shrouds
+sautekhdynasty.json:68 Spezialregel der Maynarkh-Dynastie
+sautekhdynasty.json:71 0–1 pro Armee – Gruftkomplex
+sautekhdynasty.json:76 0–1 pro Armee – Necron Overlord
+sautekhdynasty.json:83 Phalanxen der Sautekh-Dynastie
+sautekhdynasty.json:86 Ghost Ark Phalanx
+sautekhdynasty.json:96 Sautekh Dynasty Unterstützungsformationen
+sautekhdynasty.json:100 Infantry Phalanx
+sautekhdynasty.json:108 Blade Maniple
+sautekhdynasty.json:116 Iudicium Maniple
+sautekhdynasty.json:124 Eques Maniple
+sautekhdynasty.json:132 Monolith Maniple
+sautekhdynasty.json:140 Stalker Maniple
+sautekhdynasty.json:148 Sentry Maniple
+sautekhdynasty.json:156 Triarch Phalanx
+sautekhdynasty.json:164 Letum Maniple
+sautekhdynasty.json:174 Ernter der Maynarkh-Dynastie
+sautekhdynasty.json:178 0–1 Harvester Engine
+sautekhdynasty.json:186 0–1 Raumschiff
+sautekhdynasty.json:194 Nachtsicheln
+sautekhdynasty.json:202 Todessicheln
+sautekhdynasty.json:210 Night Shroud Bomber
+cultofthestarspawn.json:54 Cult-Kernformationen
+cultofthestarspawn.json:58 1 Nexus Brood
+cultofthestarspawn.json:69 Cult Company
+cultofthestarspawn.json:85 Coven-Vanguard-Formationen
+cultofthestarspawn.json:89 Genestealer Brood
+cultofthestarspawn.json:97 Hybrid Brood
+cultofthestarspawn.json:107 Biker Brood
+cultofthestarspawn.json:115 Recon Brood
+cultofthestarspawn.json:123 Thunderbolt Brood
+cultofthestarspawn.json:130 Coven-Ambush-Formationen
+cultofthestarspawn.json:134 Lictor Swarm
+cultofthestarspawn.json:141 Metamorph Brood
+cultofthestarspawn.json:150 Cult-Unterstützungsformationen
+cultofthestarspawn.json:154 Cult Super-Heavy Platoon
+cultofthestarspawn.json:162 Cult Leman Russ Platoon
+cultofthestarspawn.json:169 Cult Basilisk Battery
+cultofthestarspawn.json:176 Cult Mechanized Platoon
+cultofthestarspawn.json:185 Cult Flak Battery
+dagon.json:77 Primäre Synapsenschwärme
+dagon.json:80 0-1 Nexus Swarm
+dagon.json:88 Tyrant Swarm
+dagon.json:100 Assault Swarm
+dagon.json:114 Sekundäre Synapsenschwärme
+dagon.json:118 Nest Swarm
+dagon.json:126 Breacher Swarm
+dagon.json:134 Infestation Swarm
+dagon.json:142 Harasser Swarm
+dagon.json:153 Häufige unabhängige Schwärme
+dagon.json:157 Genestealer Swarm
+dagon.json:165 Lictor Swarm
+dagon.json:174 Seltene unabhängige Schwärme
+dagon.json:178 Bio-Titan
+dagon.json:186 Bio-Vessel
+gscult.json:71 Akolyten-Formationen
+gscult.json:75 1 Broodcoven
+gscult.json:85 Acolyte Coven
+gscult.json:101 Elite-Formationen
+gscult.json:105 Atalan Jackals
+gscult.json:115 Genestealer Swarm
+gscult.json:123 Shock Assault Coven
+gscult.json:139 Unterstützungsformationen
+gscult.json:143 Mechanized Neophyte Platoon
+gscult.json:153 Neophyte Company
+gscult.json:162 Sentinel Squadron
+gscult.json:168 Flak Battery
+gscult.json:175 Artillery Battery
+gscult.json:182 Leman Russ Squadron
+gscult.json:189 Thunderbolts
+hydra.json:69 Primäre Synapsenschwärme
+hydra.json:72 0-1 Nexus Spawn Swarm
+hydra.json:80 Tyrant Swarm
+hydra.json:90 Assault Swarm
+hydra.json:103 Sekundäre Synapsenschwärme
+hydra.json:107 Tervigon Spawn Swarm
+hydra.json:116 Harridan Swarm
+hydra.json:125 Brutnest
+hydra.json:135 Häufige unabhängige Schwärme
+hydra.json:139 Genestealer Swarm
+hydra.json:147 Infiltratoren Swarm
+hydra.json:157 Seltene unabhängige Schwärme
+hydra.json:161 Bio-Titan
+hydra.json:171 Schwarmvorrat
+hydra.json:175 Gaunt
+bloodaxeclan.json:57 Ork Verbände
+bloodaxeclan.json:60 Blood Axe Warband
+bloodaxeclan.json:87 Loota Brigade
+bloodaxeclan.json:111 Kult of Speed
+bloodaxeclan.json:134 Kommandos Warhorde
+bloodaxeclan.json:142 Stormboyz Warhorde
+bloodaxeclan.json:150 Mekboy Gunzmob
+bloodaxeclan.json:174 Mekboy Stompamob
+bloodaxeclan.json:198 Mekboy Dreadmob
+bloodaxeclan.json:220 0–1 Kill Kroozer
+bloodaxeclan.json:230 Ork-Flugzeug- und Gargant-Verbände
+bloodaxeclan.json:234 Fighta-Bommer Skwadron
+bloodaxeclan.json:242 Landungsschiff
+bloodaxeclan.json:249 Gargant
+bloodaxeclan.json:256 Großer Gargant
+gargants.json:61 Bad Moons Big Mob Gargants
+gargants.json:65 0-1 Mega Gargant
+gargants.json:73 Großer Gargant
+gargants.json:81 Gargant
+gargants.json:91 Bad Moons Big Mob Mobs
+gargants.json:95 Bad Moons Warband
+gargants.json:112 Bad Moons Blitz Brigade
+gargants.json:123 Bad Moons Fortressmob
+gargants.json:133 Bad Moons Rokkitzmob
+gargants.json:144 Mekboy Gunzmob
+gargants.json:156 Big Mek Dreadmob
+gargants.json:180 Big Mek Stompamob
+gargants.json:195 Bad Moons 'Craft
+gargants.json:199 Fighta-Bommer Skwadron
+gargants.json:207 Bomma
+gargants.json:214 0–1 Kill Kroozer
+goffsclan.json:60 Ork Verbände
+goffsclan.json:63 Goffs Warband
+goffsclan.json:94 Blitz Brigade
+goffsclan.json:118 Kult of Speed
+goffsclan.json:142 Kommandos Warhorde
+goffsclan.json:151 Stormboyz Warhorde
+goffsclan.json:160 Mekboy Gunzmob
+goffsclan.json:184 Mekboy Stompamob
+goffsclan.json:196 Mekboy Dreadmob
+goffsclan.json:207 Goffs 'Craft- und Gargant-Verbände
+goffsclan.json:211 Fighta-Bommer Skwadron
+goffsclan.json:219 Landungsschiff
+goffsclan.json:226 Gargant
+goffsclan.json:233 Großer Gargant
+goffsclan.json:240 0–1 Kroozer
+snakebiteclan.json:49 Snakebites Kriegshorden
+snakebiteclan.json:52 Snakebites Warband
+snakebiteclan.json:82 Boarboyz Horde
+snakebiteclan.json:106 Snakebites Unterstützungs-Mobs
+snakebiteclan.json:110 Junka Brigade
+snakebiteclan.json:129 Lobba Mob
+snakebiteclan.json:137 Madboyz Mob
+snakebiteclan.json:146 Trappas Mob
+snakebiteclan.json:154 Wildboyz Mob
+snakebiteclan.json:178 Snakebites Gargants
+speedfreeks.json:54 Ork Verbände
+speedfreeks.json:57 Evil Sunz Blitz Brigade
+speedfreeks.json:83 Evil Sunz Fortress Mob
+speedfreeks.json:95 Evil Sunz Kult of Speed
+speedfreeks.json:119 Evil Sunz Warband
+speedfreeks.json:144 Evil Sunz Warbike Outriders
+speedfreeks.json:153 Speed Freek 'Craft formations
+speedfreeks.json:157 Fighta Skwadron
+speedfreeks.json:165 Blitza Skwadron
+speedfreeks.json:172 Landungsschiff
+speedfreeks.json:179 0–1 Kroozer
+bloodangels.json:74 Blood Angels Kernkontingente
+bloodangels.json:78 1 Death Company
+bloodangels.json:87 Sturmtrupps
+bloodangels.json:100 Taktische Trupps
+bloodangels.json:115 Sturm-Terminatoren
+bloodangels.json:127 Blood Angels Unterstützungskontingente
+bloodangels.json:131 Baal Predators
+bloodangels.json:139 Bikes
+bloodangels.json:148 Devastor-Trupps
+bloodangels.json:162 Land Speeder
+bloodangels.json:170 Scouts
+bloodangels.json:181 Blood Angels Flotte & Titan Legion Verbündete
+bloodangels.json:185 Storm Talons
+bloodangels.json:190 Landing Craft
+bloodangels.json:195 0-1 Orbital Support
+bloodangels.json:203 Warhounds
+codexastartes.json:76 Codex Astartes Kontingente
+codexastartes.json:80 Sturmtrupps
+codexastartes.json:89 Bikes
+codexastartes.json:98 Devastor-Trupps
+codexastartes.json:111 Land Raiders
+codexastartes.json:120 Land Speeders
+codexastartes.json:128 Predators
+codexastartes.json:136 Scouts
+codexastartes.json:145 Taktische Trupps
+codexastartes.json:158 Terminatoren
+codexastartes.json:167 Vindicators
+codexastartes.json:175 Whirlwinds
+codexastartes.json:185 Codex Astartes Flotte, Imperial Flugzeuge & Collegia Titanica Verbündete
+codexastartes.json:189 Storm Talons
+codexastartes.json:194 Thunderhawk
+codexastartes.json:199 Marauder Squadron
+codexastartes.json:204 Thunderbolt Squadron
+codexastartes.json:209 Landing Craft
+codexastartes.json:214 0-1 Orbital Support
+codexastartes.json:222 Warhounds
+codexastartes.json:230 Reaver
+darkangels.json:61 Dark Angels Kernkontingente
+darkangels.json:64 Ravenwing Attack
+darkangels.json:73 Taktische Trupps
+darkangels.json:84 Deathwing Strike
+darkangels.json:95 Dark Angels Unterstützungskontingente
+darkangels.json:99 Land Raiders
+darkangels.json:108 Ares Siege
+darkangels.json:135 Predators
+darkangels.json:143 Sturmtrupps
+darkangels.json:152 Ravenwing Support
+darkangels.json:160 Scouts
+darkangels.json:169 Whirlwinds
+darkangels.json:177 0-1 Dreadwing Relics
+darkangels.json:187 Ravenwing Flugzeuge & Dark Angels Swordwing
+darkangels.json:191 Nephilims
+darkangels.json:196 Dark Talons
+darkangels.json:201 1 Swordwing Support
+greyknights.json:64 Blood Ravens Verbände
+greyknights.json:68 1 Orbital Support
+greyknights.json:76 Taktische Trupps
+greyknights.json:86 Devastor-Trupps
+greyknights.json:96 Sturmtrupps
+greyknights.json:104 Bikes
+greyknights.json:112 Vindicators
+greyknights.json:122 Grey Knights Kontingente
+greyknights.json:126 Interceptor Squads
+greyknights.json:134 Strike Squads
+greyknights.json:144 Purgation Squads
+greyknights.json:154 Terminatoren
+greyknights.json:163 Dreadknights
+greyknights.json:173 Blood Ravens Flugzeuge
+greyknights.json:177 Storm Talons
+greyknights.json:182 Fire Raptor
+greyknights.json:188 Storm Eagle
+imperialfists.json:80 Imperial Fists Kernkontingente
+imperialfists.json:83 Devastor-Trupps
+imperialfists.json:98 Vindicators
+imperialfists.json:107 Taktische Trupps
+imperialfists.json:123 Imperial Fists Unterstützungskontingente
+imperialfists.json:139 Predators
+imperialfists.json:147 Land Speeders
+imperialfists.json:155 Scouts
+imperialfists.json:166 Terminatoren
+imperialfists.json:177 Centurions
+imperialfists.json:188 Whirlwinds
+imperialfists.json:197 0-1 Fellblade Relics
+imperialfists.json:207 Imperial Fists Statische Verteidigungsanlagen, Flotte & Titan Legion Verbündete
+imperialfists.json:211 Bastion
+imperialfists.json:218 Fortifications
+imperialfists.json:223 Tarantula
+imperialfists.json:228 Hyperios
+imperialfists.json:233 Storm Talons
+imperialfists.json:238 Reaver
+ironhands.json:71 Iron Hands Kernkontingente
+ironhands.json:74 Dreadnought Clan
+ironhands.json:88 Mechanized Clan
+ironhands.json:102 Iron Hands Unterstützungskontingente
+ironhands.json:106 Dreadnought Talon
+ironhands.json:116 Land Raiders
+ironhands.json:127 Predators
+ironhands.json:135 Scouts
+ironhands.json:142 Siege Scouts
+ironhands.json:149 Vindicators
+ironhands.json:158 Whirlwinds
+ironhands.json:169 Iron Hands Flotte & Collegia Titanica Verbündete
+ironhands.json:173 Storm Talons
+ironhands.json:178 Thunderhawk Transporters
+ironhands.json:183 0-1 Orbital Support
+ironhands.json:191 Warhound Pack
+ironhands.json:199 Reaver
+primaris.json:58 Primaris Kernkontingente
+primaris.json:61 Battle Line Squad
+primaris.json:74 Primaris Elitekontingente
+primaris.json:77 Inceptor Squad
+primaris.json:85 Suppressor Squad
+primaris.json:93 Reiver Squad
+primaris.json:101 Infiltratoren Squad
+primaris.json:111 Primaris Unterstützungskontingente
+primaris.json:114 Fire Support Squad
+primaris.json:125 Eliminator Squad
+primaris.json:133 Outrider Squad
+primaris.json:142 Storm Speeders
+primaris.json:149 Gladiators
+primaris.json:158 Codex Astartes Flotte, Primaris Super Heavies
+primaris.json:162 Storm Talons
+primaris.json:167 Astraeus
+ravenguard.json:65 Ravenguard Kernkontingente
+ravenguard.json:68 Storm Scouts
+ravenguard.json:77 Taktische Trupps
+ravenguard.json:90 Ravenguard Elitekontingente
+ravenguard.json:94 Sternguard Veteran
+ravenguard.json:105 Vanguard Veteran
+ravenguard.json:114 Terminatoren
+ravenguard.json:124 Ravenguard Unterstützungskontingente
+ravenguard.json:128 Sturmtrupps
+ravenguard.json:137 Bikes
+ravenguard.json:146 Devastor-Trupps
+ravenguard.json:157 Land Speeders
+ravenguard.json:165 Aufklärer
+ravenguard.json:177 Ravenguard Flotte & Collegia Titanica Verbündete
+ravenguard.json:181 Storm Talons
+ravenguard.json:186 Storm Eagle
+ravenguard.json:191 0-1 Orbital Support
+ravenguard.json:199 Warhounds
+spacewolves.json:72 Space Wolves Kern-Packs
+spacewolves.json:75 Hunting Pack
+spacewolves.json:88 Blood Claw Assault Pack
+spacewolves.json:99 Sky Claw Assault Pack
+spacewolves.json:108 Swift Claw Bikes Pack
+spacewolves.json:119 Space Wolf Elite-Packs
+spacewolves.json:123 Long Fang Pack
+spacewolves.json:136 Donnerwolfkavallerie
+spacewolves.json:145 Wolf Guard Terminator Pack
+spacewolves.json:154 Wolf Scout Pack
+spacewolves.json:165 Space Wolf Unterstützungs-Packs
+spacewolves.json:169 Land Raiders
+spacewolves.json:178 Land Speeders
+spacewolves.json:186 Predators
+spacewolves.json:194 Vindicators
+spacewolves.json:202 Whirlwinds
+spacewolves.json:212 Space Wolf Flotte & Collegia Titanica Verbündete
+spacewolves.json:216 0-1 Orbital Support
+spacewolves.json:224 Storm Talons
+spacewolves.json:229 Stormwolf-Sturmboot
+spacewolves.json:236 Stormfang Gunship
+spacewolves.json:241 Warhounds
+whitescars.json:65 White Scars Kernkontingente
+whitescars.json:68 Bikes
+whitescars.json:77 Taktische Trupps
+whitescars.json:88 Terminatoren
+whitescars.json:101 White Scars Unterstützungskontingente
+whitescars.json:105 Sturmtrupps
+whitescars.json:114 Land Speeder
+whitescars.json:122 Scout Bikes
+whitescars.json:130 Vindicators
+whitescars.json:139 Whirlwinds
+whitescars.json:150 White Scars Flotte & Collegia Titanica Verbündete
+whitescars.json:154 Storm Talons
+whitescars.json:159 Thunderhawk
+whitescars.json:164 Landing Craft
+whitescars.json:169 0-1 Orbital Support
+whitescars.json:177 Warhounds
+squats.json:63 Bruderschaftsformationen der Wodanaz-Feste
+squats.json:66 Warrior Brotherhood
+squats.json:78 Berserker Brotherhood
+squats.json:88 Unterstützungsformationen der Wodanaz-Feste
+squats.json:92 Bikers
+squats.json:101 Thunderers
+squats.json:109 Sentry Battery
+squats.json:116 Light Artillery Battery
+squats.json:123 Thunderfire Battery
+squats.json:131 Gyrokopter Squadron
+squats.json:138 Kastelan Maniple
+squats.json:148 Kriegsmaschinen der Wodanaz-Feste
+squats.json:152 Höllenbohrer
+squats.json:160 Overlord
+squats.json:168 Goliath Battery
+squats.json:175 Zyklop
+squats.json:183 Koloss
+squats.json:191 Land Train
+falshia.json:65 Fal'shia-Kader
+falshia.json:68 XV8 Crisis Battlesuit Cadre
+falshia.json:79 Fire Warrior Radiant Cadre
+falshia.json:96 Fal'shia-Unterstützungsgruppen
+falshia.json:100 Hammerhead Group
+falshia.json:112 Drone Group
+falshia.json:120 Kroot Kindred
+falshia.json:130 Pathfinder Group
+falshia.json:138 XV25 Stealth Group
+falshia.json:146 XV9 Hazard Close Support Group
+falshia.json:156 Fal'shia-Flugzeuge, Raumschiffe und Titanen
+falshia.json:160 Manta Dropship
+falshia.json:167 Razorshark Squadron
+falshia.json:174 Sunshark Bomber
+falshia.json:181 AX-1-0s Squadron
+falshia.json:188 Orca Dropship
+falshia.json:195 0–1 Spacecraft
+sacea.json:67 Sa'cea-Kader
+sacea.json:70 XV8 Crisis Battlesuit Cadre
+sacea.json:80 Fire Warrior Strike Cadre
+sacea.json:98 Sa'cea Unterstützungsformationen
+sacea.json:102 Hammerhead Group
+sacea.json:114 XV88 Broadside Group
+sacea.json:122 Kroot Kindred
+sacea.json:132 Pathfinder Group
+sacea.json:140 Recon Antigrav Group
+sacea.json:148 Skysweep Support Group
+sacea.json:156 XV15 Stealth Group
+sacea.json:166 Sa'cea-Flugzeuge, Raumschiffe und Titanen
+sacea.json:170 Barracuda Squadron
+sacea.json:177 Tiger Shark Squadron
+sacea.json:185 AX-1-0s Squadron
+sacea.json:192 Orca Dropship
+sacea.json:199 Manta Dropship
+sacea.json:206 0–1 Spacecraft
+viorla.json:60 Vior'la-Kernformationen
+viorla.json:63 XV8 Crisis Battlesuit Cadre
+viorla.json:73 Heavy Battlesuit Cadre
+viorla.json:83 XV88 Broadside Group
+viorla.json:93 Vior'la-Unterstützungsformationen
+viorla.json:97 Fire Warrior Strike Group
+viorla.json:107 Drone Group
+viorla.json:115 Stealth Group
+viorla.json:124 Skysweep Support Group
+viorla.json:134 Vior'la-Kriegsmaschinen und Formationen der Luftkaste
+viorla.json:138 Barracuda Squadron
+viorla.json:143 KV128 Stormsurge Suit
+viorla.json:148 KX139 Supremacy Armour
+viorla.json:153 Tiger Shark Squadron
+viorla.json:161 0–1 Spacecraft

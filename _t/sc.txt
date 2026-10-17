@@ -1,0 +1,116 @@
+﻿AM.json:752 Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)
+chaosnavy.json:292 Slow to Arrive (May only arrive from turn 2 onwards)
+chaosnavy.json:302 Slow to Arrive (May only arrive from turn 2 onwards)
+chaosnavy.json:320 Slow to Arrive (May only arrive from turn 2 onwards)
+CU.json:125 Terminator Aquilon are considered terminators for the purpose of being transported.
+CU.json:176 Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported.
+CU.json:195 Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported.
+DE.json:419 Kann bis zu zehn Infanterieeinheiten transportieren. Grotesken zählen jeweils als zwei Einheiten. Zusätzlich kann es bis zu fünf leichte oder gepanzerte Fahrzeuge oder ein Vessel of Pain oder eine Barge of Pleasure transportieren.
+EL.json:526 Transport may carry one unit of INF without Sprungmodule oder Beritten.
+ImperialAllies.json:47 [*]Beinbastionen: May transport up to ten infantry units without Sprungmodule oder Beritten
+ImperialAllies.json:75 [*]Beinbastionen: May transport up to ten infantry units without Sprungmodule oder Beritten
+ImperialAllies.json:307 [*]Anvilus Carapace Landing Pad: Gives all BP-type weapons in the formation 'Indirect Fire'. Allows the purchase of a Lysander Fighter
+ImperialNavy.json:126 Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)
+IQ.json:621 Cathedral of the God-Emperor erleidet W3 zusätzlichen Schaden, und W6 transportierte Einheiten erleiden einen Treffer.
+necronNavy.json:21 [*]Portal. May only be used to enter the battlefield, not to move into the reserves. May only be used while landed.
+necronNavy.json:67 Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)
+nidsNavy.json:54 Slow to Arrive (May only arrive from turn 2 onwards), Transport
+ORK.json:54 Replace one Big Gun weapon with either a Supa-Zzap-Gun oder a Soopagun, alternatively the unit may be given W3+1 power fields
+ORK.json:78 The unit either replaces a Big Gun with a Lifta Droppa, oder [*] adds W3+1 Power Fields, oder [**] is equipped with a Deff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)
+ORK.json:682 Armed with either three Soopaguns oder two Soopaguns and either Supa-Zzap-Gun oder a Mega-Choppa
+ORK.json:739 Armed with either two Zwillings Soopaguns oder one Zwillings Soopagun and a Lifta-Droppa
+ORK.json:951 Slow to arrive (may only arrive from turn 2 onwards)
+ORK.json:952 Transport: May transport 12 Landas and the units carried on them
+SM.json:2249 Wings of the Sky Angel
+SM.json:2588 Slow to Arrive (May only arrive from turn 2 onwards)
+specialRules.json:322 Wings of the Sky Angel
+specialRules.json:515 May not Garrison (Kabal of the Black Heart)
+specialRules.json:629 Masters of the Webway
+specialRules.json:658 Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).
+specialRules.json:659 Grosse Dämonen: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean One (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8).
+specialRules.json:668 Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).
+specialRules.json:669 Grosse Dämonen: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean One (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8).
+specialRules.json:678 Niedere Dämonen: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2).
+specialRules.json:688 Niedere Dämonen: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2).
+specialRules.json:698 Niedere Dämonen: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2).
+specialRules.json:708 Niedere Dämonen: Horrors of Tzeentch (1), Flamers of Tzeentch (1), Screamers of Tzeentch (1).
+specialRules.json:715 Lost and the Damned Summoning Rules
+specialRules.json:717 Alle Chaos-Kultistenverbände der Lost and the Damned verehren das Ungeteilte Chaos. Verbände mit Daemonic Pact dürfen die folgenden Dämonen beschwören (die Beschwörungspunktekosten stehen in Klammern):
+specialRules.json:718 Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).
+specialRules.json:719 Grosse Dämonen: Keeper of Secrets (8), Great Unclean One (8), Bloodthirster (8), Lord of Change (8).
+specialRules.json:728 Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).
+specialRules.json:744 Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).
+specialRules.json:753 Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2).
+specialRules.json:754 Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2).
+specialRules.json:755 Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2).
+specialRules.json:756 Tzeentch: Horrors of Tzeentch (1), Screamers of Tzeentch (1), Flamers of Tzeentch (2).
+specialRules.json:765 Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1).
+specialRules.json:766 Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1).
+specialRules.json:767 Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1).
+specialRules.json:768 Tzeentch: Horrors of Tzeentch (1), Flamers of Tzeentch (1).
+specialRules.json:769 Ungeteiltes Chaos: Daemonettes of Slaanesh (2), Plaguebearers of Nurgle (2), Bloodletters of Khorne (2), Horrors of Tzeentch (2), Daemonic Beasts of Chaos Undivided (1).
+specialRules.json:778 Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1).
+specialRules.json:779 Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1).
+specialRules.json:780 Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1).
+specialRules.json:781 Tzeentch: Horrors of Tzeentch (1), Flamers of Tzeentch (1).
+specialRules.json:782 Ungeteiltes Chaos: Daemonettes of Slaanesh (2), Plaguebearers of Nurgle (2), Bloodletters of Khorne (2), Horrors of Tzeentch (2), Daemonic Beasts of Chaos Undivided (1).
+specialRules.json:916 Jeder Support-Coven einer Lost-and-the-Damned-Armee ist entweder einer der Verderbten Mächte oder dem Ungeteilten Chaos treu. Mit Ausnahme des Ungeteilten Chaos hegen die verschiedenen Fraktionen ewige Feindschaft gegeneinander. Dies wird durch folgende Regeln dargestellt:
+specialRules.json:917 Eine Lost-and-the-Damned-Armee mit Verbänden der Fraktion Khorne darf keine Verbände der Fraktion Slaanesh enthalten und umgekehrt.
+specialRules.json:918 Eine Lost-and-the-Damned-Armee mit Verbänden der Fraktion Nurgle darf keine Verbände der Fraktion Tzeentch enthalten und umgekehrt.
+specialRules.json:1175 Power of the Waaagh!
+SQ.json:431 Damage Capacity: 2 + the current number of Battle Cars
+SQ.json:432 Null Schilde: the current number of Battle Cars
+TAU.json:256 Counts as Gun Drone for the purpose of being transported.
+TAU.json:273 Counts as Fire Warrior for the purpose of being transported.
+traitortitanlegions.json:99 Must be armed with either Death Storm oder Plasma Furnace
+traitortitanlegions.json:199 Must be armed with either Hex Cannon, Turbo Blaster oder Plasma Cremator
+traitortitanlegions.json:223 Must be armed with either Rot Cannon, Turbo Blaster oder Plasma Cremator
+traitortitanlegions.json:248 Must be armed with either Hex Cannon, Turbo Blaster oder Plasma Cremator
+traitortitanlegions.json:272 Must be armed with either Hex Cannon, Turbo Blaster oder Coruscant Hail
+traitortitanlegions.json:325 Must be armed with either a Beam of Ecstasy, Plasma Incinerator, Cyclone Cannon oder Beam Blaster
+traitortitanlegions.json:352 Must be armed with either a Plasma Incinerator, Cyclone Cannon oder Beam Blaster
+traitortitanlegions.json:380 Must be armed with either a Hellstrike Cannon, Plasma Incinerator, Cyclone Cannon oder Beam Blaster
+traitortitanlegions.json:406 Must be armed with either two Tzeentch Cannons, two Plasma Incinerators oder two Beam Blasters
+DI.json:20 Diese Armeeliste ermöglicht es dir, eine Armee auf Grundlage einer Dämonischen Invasion aufzustellen, unterstützt von den Lost and the Damned.
+DI.json:147 Ersetze 2 Herald of Slaanesh durch ein Keeper of Secrets: 125 Punkte
+DI.json:148 Ersetze 2 Herald of Slaanesh durch 2 Herald of Slaanesh on Seeker Chariot: 25 Punkte
+DI.json:158 Ersetze 2 Herald of Nurgle on Palanquin durch 2 Herald of Nurgle on Blight Fly: 25 Punkte
+DI.json:168 Ersetze 2 Herald of Khorne on Juggernaut durch 2 Herald of Khorne on Skull Cannon: 25 Punkte
+DI.json:177 Ersetze 2 Herald of Tzeentch durch ein Lord of Change: 150 Punkte
+DI.json:178 Ersetze 2 Herald of Tzeentch durch 2 Herald of Tzeentch on Burning Chariot: 25 Punkte
+LatD.json:3 Lost and the Damned
+LatD.json:7 Lost and the Damned-Armeen haben einen Strategiewert von 1.
+LatD.json:11 Lost and the Damned Summoning Rules
+LatD.json:15 Diese Armeeliste ermöglicht es dir, eine Armee auf Grundlage der Lost and the Damned, der Chaos-Kultisten, aufzustellen.
+LatD.json:251 Aufwertungen für Lost and the Damned
+kabaloftheblackheart.json:3 Kabal of the Black Heart
+masqueofthemidnightsorrow.json:3 Kabal of the Wraithkind
+masqueofthemidnightsorrow.json:15 Masters of the Webway
+TTL.json:83 Eye of the Gods
+TTL.json:87 * Wähle eines: Vicebringer Titan of Slaanesh, Gloombringer Titan of Nurgle, Strifebringer Titan of Khorne oder Changebringer Titan of Tzeentch
+TTL.json:93 Eye of the Gods
+TTL.json:97 * Wähle eines: Painlord Titan of Slaanesh, Plaguelord Titan of Nurgle, Banelord Titan of Khorne oder Warplord Titan of Tzeentch
+TTL.json:106 * Wähle eines: Reviler Titan of Slaanesh, Repugnant Titan of Nurgle, Ravager Titan of Khorne oder Mutator Titan of Tzeentch
+TTL.json:122 * Wähle eines: Plaguehound of Nurgle, Bloodhound of Khorne, Warphound of Tzeentch oder Chaos Warhound of Chaos Undivided
+TTL.json:132 * Wähle eines: Subjugator of Slaanesh oder Questor of Slaanesh
+TTL.json:234 0–1 Eye of the Gods
+TTL.json:240 Der Verband erhält die Sonderregel 'Anführer'. Darf nicht mit Eye of the Gods kombiniert werden.
+bieltan.json:82 Ein Avatar mit einem Charakter 'Court of the Young King'
+masqueoftheveiledpath.json:17 Masters of the Webway
+masqueoftheveiledpath.json:20 Mit der folgenden Armeeliste kannst du eine Armee des Weltenschiffs Lugganath mit Unterstützung durch Korsaren und Verbündeten der Masque of the Veiled Path aufstellen.
+masqueoftheveiledpath.json:181 Saedaths der Masque of the Veiled Path
+deathwatch.json:12 Wings of the Sky Angel
+cultofthestarspawn.json:3 Cult of the Star-Spawn
+cultofthestarspawn.json:12 Extreme Mobility (Cult of the Star-Spawn)
+gscult.json:3 Cult of the Rusted Claw
+bloodaxeclan.json:10 Power of the Waaagh!
+bloodaxeclan.json:16 <b>Aufwertungen</b> – Ein Ork-Verband kann zusätzliche Einheiten aus der Spalte „Aufwertungen“ erhalten, sofern keine andere Begrenzung angegeben ist. Eine Begrenzung wird bei einem Big-Verband verdoppelt und bei einem 'Uge-Verband verdreifacht. Eine normale Kult of Speed kann beispielsweise 0–1 Oddboy enthalten, eine Big-Kult of Speed 0–2 und eine 'Uge-Kult of Speed 0–3. Alle Kern-, Zusatz- und kostenlosen Einheiten eines Ork-Verbands gelten als Teil desselben großen Verbands und dürfen sich nicht eigenständig bewegen.
+gargants.json:7 Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Kults of Speed und Blitz Brigades. Die verfügbaren Ork-Verbände sind in der folgenden Armeeliste aufgeführt.</p><p>Einige Ork-Verbände gibt es in verschiedenen Größen: Normal, Big und 'Uge. Ein Big-Verband ist doppelt so groß, ein 'Uge-Verband dreimal so groß. Begrenzungen für Aufwertungen werden bei einem Big-Verband verdoppelt und bei einem 'Uge-Verband verdreifacht. So kann eine normale Kult of Speed beispielsweise 0–1 Oddboy enthalten, eine Big-Kult of Speed 0–2 und eine 'Uge-Kult of Speed 0–3.
+gargants.json:12 Power of the Waaagh!
+gargants.json:76 Füge 1 'Uge Banner of Gork (Inspirierend, 50 Punkte) oder ein Big Banner of Mork (Anführer, 25 Punkte; darf nicht mit Big Mek kombiniert werden) hinzu
+goffsclan.json:7 Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Kults of Speed und Blitz Brigades. Die verfügbaren Ork-Verbände sind in der folgenden Armeeliste aufgeführt.</p><p>Einige Ork-Verbände gibt es in verschiedenen Größen: Normal, Big und 'Uge. Ein Big-Verband ist doppelt so groß, ein 'Uge-Verband dreimal so groß. Begrenzungen für Aufwertungen werden bei einem Big-Verband verdoppelt und bei einem 'Uge-Verband verdreifacht. So kann eine normale Kult of Speed beispielsweise 0–1 Oddboy enthalten, eine Big-Kult of Speed 0–2 und eine 'Uge-Kult of Speed 0–3.
+goffsclan.json:12 Power of the Waaagh!
+snakebiteclan.json:7 Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Kults of Speed und Blitz Brigades. Die verfügbaren Ork-Verbände sind in der folgenden Armeeliste aufgeführt.</p><p>Einige Ork-Verbände gibt es in verschiedenen Größen: Normal, Big und 'Uge. Ein Big-Verband ist doppelt so groß, ein 'Uge-Verband dreimal so groß. Begrenzungen für Aufwertungen werden bei einem Big-Verband verdoppelt und bei einem 'Uge-Verband verdreifacht. So kann eine normale Kult of Speed beispielsweise 0–1 Oddboy enthalten, eine Big-Kult of Speed 0–2 und eine 'Uge-Kult of Speed 0–3.
+snakebiteclan.json:13 Power of the Waaagh!
+speedfreeks.json:7 Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Kults of Speed und Blitz Brigades. Die verfügbaren Ork-Verbände sind in der folgenden Armeeliste aufgeführt.</p><p>Einige Ork-Verbände gibt es in verschiedenen Größen: Normal, Big und 'Uge. Ein Big-Verband ist doppelt so groß, ein 'Uge-Verband dreimal so groß. Begrenzungen für Aufwertungen werden bei einem Big-Verband verdoppelt und bei einem 'Uge-Verband verdreifacht. So kann eine normale Kult of Speed beispielsweise 0–1 Oddboy enthalten, eine Big-Kult of Speed 0–2 und eine 'Uge-Kult of Speed 0–3.
+speedfreeks.json:12 Power of the Waaagh!

@@ -23,25 +23,25 @@
         "Archon",
         "Dracon",
         "Succubus",
-        "Haemonculus Ancient",
-        "Incubi",
-        "Dark Eldar Warriors",
-        "Mandrakes",
-        "Scourges",
+        "Ältester Haemonculus",
+        "Inkubi",
+        "Kabalenkrieger",
+        "Mandraks",
+        "Harpyien",
         "Haemonculi",
-        "Wracks",
-        "Grotesques",
-        "Wyches",
-        "Warp Beasts",
-        "Hellion Skyboards",
-        "Reaver Jet Bikes",
-        "Venom",
-        "Raider",
-        "Ravager",
+        "Folterer",
+        "Grotesquen",
+        "Hagashîn",
+        "Warpbestien",
+        "Hellion-Himmelsbretter",
+        "Reaver-Jetbikes",
+        "Schattenviper",
+        "Schattenbarke",
+        "Schattenjäger",
         "Talos",
-        "Barge of Pleasure",
-        "Vessel of Pain",
-        "Executioner Landing Module"
+        "Vergnügungsbarke",
+        "Schmerzensschiff",
+        "Henker-Landungsmodul"
       ],
       "unitRules": [
       "Lanze",
@@ -68,7 +68,7 @@
       "name": "Drukhari-Spezialeinheiten",
       "formations": [
         {
-          "name": "0-1 Wraithgate",
+          "name": "0–1 Wraithgate",
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Drukhari-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden.",
           "points": 50
         }
@@ -80,7 +80,7 @@
       "formations": [
         {
           "name": "1 Black Heart Coterie",
-          "units": "Ein Arcon in a unit of Incubi, drei Incubi",
+          "units": "Ein Arcon in einer Einheit Incubi, drei Incubi",
           "extraUnits": [
             "Füge zwei Incubi hinzu: 75 Punkte",
             "Ravagers",
@@ -218,7 +218,7 @@
           "points": 200
         },
         {
-          "name": "0-1 Orbital Support",
+          "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Torture Class Cruiser",
           "extraUnits": [
           ],
@@ -229,38 +229,38 @@
   ],
   "upgrades": {
     "title": "Black Heart Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
         "name": "Ravagers",
         "description": "Füge bis zu zwei Ravagers hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Talos",
         "description": "Füge bis zu zwei Talos hinzu",
         "points": [
-          "50 points for one",
-          "75 points for two"
+          "50 Punkte für einen",
+          "75 Punkte für zwei"
         ]
       },
       {
         "name": "Warriors",
         "description": "Füge zwei Dark Eldar Warriors hinzu.",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
-        "name": "(0-1 in the army) Portable Webway",
-        "description": "Füge a Portable Webway Portal to an Archon, Dracon, Succubus oder Haemonculus Ancient character. This Portable Webway may be used once in a game. After the character's formation (oder die Formation carrying it) completes an action you may place a small barrage template marker completely within 15cm of the character's unit (oder the unit carrying it) und outside any enemy zones of control. This marker counts as a Webway Portal which may not be attacked oder damaged in any way. Remove this Webway Portal marker in the End Phase of the turn before any rallying hinzu.",
-        "points": "50 points"
+        "name": "(0–1 pro Armee) Portable Webway",
+        "description": "Füge einem Archon-, Dracon-, Succubus- oder Haemonculus-Ancient-Charakter ein Portable Webway Portal hinzu. Dieses Portable Webway darf einmal pro Spiel verwendet werden. Nachdem der Verband des Charakters (oder der ihn tragende Verband) eine Aktion abgeschlossen hat, darfst du einen kleinen Sperrfeuer-Schablonenmarker vollständig innerhalb von 15 cm zur Einheit des Charakters (oder zur ihn tragenden Einheit) und ausserhalb gegnerischer Kontrollzonen platzieren. Dieser Marker zählt als Webway Portal, das nicht angegriffen oder in irgendeiner Weise beschädigt werden kann. Entferne diesen Webway-Portal-Marker in der Endphase der Runde vor dem Sammeln.",
+        "points": "50 Punkte"
       },
       {
         "name": "Black Heart Transport",
-        "description": "Any combination of transport options may be taken to transport a formation, as long as no vehicle has any empty transport slot if possible. Not all units in a formation require a transport vehicle. Transport options selected may only transport units from the same formation.",
+        "description": "Beliebige Kombinationen von Transportoptionen dürfen gewählt werden, um einen Verband zu transportieren, solange nach Möglichkeit kein Fahrzeug einen leeren Transportplatz hat. Nicht alle Einheiten eines Verbands benötigen ein Transportfahrzeug. Gewählte Transportoptionen dürfen nur Einheiten desselben Verbands transportieren.",
         "points": [
-          "Raiders: Free",
-          "Two Venoms: 25 points",
-          "0-1 Barge of Pleasure: 125 points"
+          "Raiders: kostenlos",
+          "Zwei Venoms: 25 Punkte",
+          "0-1 Barge of Pleasure: 125 Punkte"
         ]
       }
     ]

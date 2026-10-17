@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Chaosflotte",
     "specialRules": [
@@ -29,7 +29,7 @@
         ]
       },
       {
-        "name": "Heldrake",
+        "name": "Höllendrache",
         "type": "AC",
         "speed": "Fighter",
         "armour": 6,
@@ -91,10 +91,10 @@
           "AC-Kombibolter|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Unmodifizierter Rettungswurf"
         ],
-        "crit": "The Harbringer Bomber is destroyed."
+        "crit": "Harbringer Bomber wird zerstört."
       },
       {
         "name": "Blightbringer Bomber",
@@ -107,10 +107,10 @@
           "AC-Kombibolter|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Unmodifizierter Rettungswurf"
         ],
-        "crit": "The Blightbringer Bomber is destroyed."
+        "crit": "Blightbringer Bomber wird zerstört."
       },
       {
         "name": "Chaos Xiphon Interceptor",
@@ -137,14 +137,14 @@
           "Vengeance Werfer||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Starrköpfig",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann vier Infanterieeinheiten ohne Beritten transportieren; Terminatoren, Dämonenprinzen, Chaosbruten, große Mutanten und Cybots zählen jeweils als zwei Einheiten. Gilt beim Transport als Chaos-Thunderhawk.",
-        "crit": "The Storm Eagle and all units being carried are destroyed."
+        "crit": "Storm Eagle und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Chaos Fire Raptor",
@@ -157,10 +157,10 @@
           "AC-Vierlings-Schwere Bolter-Türme||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Fire Raptor is destroyed."
+        "crit": "Fire Raptor wird zerstört."
       },
       {
         "name": "Chaos Thunderhawk",
@@ -176,13 +176,13 @@
           "AC-Zwillings-Schwere Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann acht Infanterieeinheiten transportieren; Terminatoren, Dämonenprinzen, Chaosbruten, große Mutanten und Cybots zählen jeweils als zwei Einheiten.",
-        "crit": "The Thunderhawk and all units being carried are destroyed."
+        "crit": "Thunderhawk und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Night Lords Thunderhawk",
@@ -198,13 +198,13 @@
           "AC-Reaper-Maschinenkanone||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 8 Infanterieeinheiten transportieren; Terminators, Daemon Princes, Chaos Spawn, Big Mutants und Dreadnoughts zählen jeweils als 2 Einheiten.",
-        "crit": " The Thunderhawk and all units being carried are destroyed."
+        "crit": " Thunderhawk und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Alpha Legion Thunderhawk",
@@ -220,14 +220,14 @@
           "AC-Zwillings-Schwere Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Starrköpfig",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 8 Infanterieeinheiten transportieren; Terminators, Daemon Princes, Chaos Spawn, Big Mutants und Dreadnoughts zählen jeweils als 2 Einheiten.",
-        "crit": " The Thunderhawk and all units being carried are destroyed."
+        "crit": " Thunderhawk und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Chaos Stormbird",
@@ -242,14 +242,14 @@
           "AC-Zwillings-Schwere Bolter|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Planetfall",
           "Transport"
         ],
         "notes": "Kann zwölf Infanterieeinheiten transportieren; Chaosbruten, Terminatoren und Cybots zählen jeweils als zwei Einheiten. Gilt beim Transport als Thunderhawk.",
-        "crit": "The Stormbird and all units being carried are destroyed. All units within 5cm takes a hit."
+        "crit": "Stormbird und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer."
       },
       {
         "name": "Hellbringer Class Light Cruiser",
@@ -264,7 +264,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "3BP, MW"
@@ -280,7 +280,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "4BP, MW"
@@ -289,7 +289,7 @@
           }
         ],
         "specialRules": [
-          "Slow to Arrive (May only arrive from turn 2 onwards)"
+          "Verzögerte Ankunft (darf erst ab Runde 2 eintreffen)"
         ]
       },
       {
@@ -299,7 +299,7 @@
           "Präzisionsschuss"
         ],
         "specialRules": [
-          "Slow to Arrive (May only arrive from turn 2 onwards)"
+          "Verzögerte Ankunft (darf erst ab Runde 2 eintreffen)"
         ]
       },
       {
@@ -307,7 +307,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "3BP, MW"
@@ -317,7 +317,7 @@
           "Präzisionsschuss|2|"
         ],
         "specialRules": [
-          "Slow to Arrive (May only arrive from turn 2 onwards)"
+          "Verzögerte Ankunft (darf erst ab Runde 2 eintreffen)"
         ],
         "notes": "Transport. Kann 30 Infanterieeinheiten oder Cybots sowie sechs Thunderhawks und genügend Dreadclaws für den Transport aller übrigen mitgeführten Einheiten transportieren."
       },
@@ -326,7 +326,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "4BP, MW"

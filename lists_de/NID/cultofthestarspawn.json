@@ -17,33 +17,33 @@
     {
       "from": "GS2.json",
       "units": [
-        "Genestealer Patriarch",
-        "Coven Locus",
-        "Broodlord",
-        "Genestealer Primus",
-        "Acolytes",
-        "Hybrid Metamorphs",
-        "Lictor",
-        "Hybrid Aberrants",
-        "Coven Bikers",
-        "Cult Infantry",
-        "Cult Fire Support",
-        "Genestealers",
-        "Coven Ridgerunner",
-        "Coven Goliath",
-        "Coven Limousine",
-        "Coven Technical",
-        "Coven Thunderbolt Fighter",
-        "Cult Basilisk",
-        "Cult Hellhound",
-        "Cult Griffon",
-        "Cult Chimera",
-        "Cult Hydra",
-        "Cult Leman Russ",
-        "Cult Leman Russ Demolisher",
-        "Cult Baneblade",
-        "Cult Stormblade",
-        "Cult Shadowsword"
+        "Symbiontenpatriarch",
+        "Konklaven-Locus",
+        "Symbiarch",
+        "Symbiontenprimus",
+        "Akolythenhybriden",
+        "Metamorph-Hybriden",
+        "Liktor",
+        "Aberranten",
+        "Neophyten-Ausreiter",
+        "Neophyten",
+        "Neophyten-Feuerunterstützung",
+        "Symbionten",
+        "Ridgerunner",
+        "Goliath Truck",
+        "Konklaven-Limousine",
+        "Technical",
+        "Konklaven-Thunderbolt-Fighter",
+        "Kult-Basilisk",
+        "Kult-Höllenhund",
+        "Kult-Greif",
+        "Kult-Chimäre",
+        "Kult-Hydra",
+        "Kult-Leman-Russ",
+        "Kult-Leman-Russ-Demolisher",
+        "Kult-Baneblade",
+        "Kult-Stormblade",
+        "Kult-Shadowsword"
       ],
       "unitRules": [
       ]
@@ -58,9 +58,9 @@
           "name": "1 Nexus Brood",
           "units": "Ein Genestealer Patriarch, drei Genestealers, drei Hybrid Acolytes",
           "extraUnits": [
-            "Füge vier Coven Limousines (75 Punkte) oder four Coven Goliaths (125 Punkte) hinzu",
-            "Ersetze three Genestealers durch three Hybrid Acolytes, oder three Hybrid Acolytes durch three Genestealers: kostenlos",
-            "Hybrid Aberrants",
+            "Füge vier Coven Limousines (75 Punkte) oder vier Coven Goliaths (125 Punkte) hinzu",
+            "Ersetze drei Genestealers durch drei Hybrid Acolytes, oder drei Hybrid Acolytes durch drei Genestealers: kostenlos",
+            "Aberranten",
             "Coven Flak"
           ],
           "points": 350
@@ -89,7 +89,7 @@
           "name": "Genestealer Brood",
           "units": "Ein Broodlord, sechs Genestealers",
           "extraUnits": [
-            "Genestealers"
+            "Symbionten"
           ],
           "points": 175
         },
@@ -98,7 +98,7 @@
           "units": "Sechs Hybrid Acolytes",
           "extraUnits": [
             "Füge drei Coven Goliaths hinzu: 100 Punkte",
-            "Hybrid Aberrants",
+            "Aberranten",
             "Coven Flak"
           ],
           "points": 175
@@ -152,7 +152,7 @@
       "formations": [
         {
           "name": "Cult Super-Heavy Platoon",
-          "units": "Ein Coven Locus character, ein Cult Baneblade oder Cult Stormblade",
+          "units": "Ein Coven Locus Charakter, ein Cult Baneblade oder Cult Stormblade",
           "extraUnits": [
             "Ersetze den Cult Baneblade oder Cult Stormblade durch einen Cult Shadowsword: 25 Punkte"
           ],
@@ -160,21 +160,21 @@
         },
         {
           "name": "Cult Leman Russ Platoon",
-          "units": "Ein Coven Locus character, sechs Cult Leman Russ oder Cult Leman Russ Demolishers",
+          "units": "Ein Coven Locus Charakter, sechs Cult Leman Russ oder Cult Leman Russ Demolishers",
           "extraUnits": [
           ],
           "points": 425
         },
         {
           "name": "Cult Basilisk Battery",
-          "units": "Ein Coven Locus character, drei Cult Basilisks",
+          "units": "Ein Coven Locus Charakter, drei Cult Basilisks",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Cult Mechanized Platoon",
-          "units": "Ein Coven Locus character, sechs Cult Infantry, drei Cult Chimeras",
+          "units": "Ein Coven Locus Charakter, sechs Cult Infantry, drei Cult Chimeras",
           "extraUnits": [
             "Füge bis zu zwei Cult Hellhounds hinzu: 25 Punkte pro Stück",
             "Füge drei Cult Griffons hinzu: 50 Punkte"
@@ -183,7 +183,7 @@
         },
         {
           "name": "Cult Flak Battery",
-          "units": "Ein Coven Locus character, drei Cult Hydras",
+          "units": "Ein Coven Locus Charakter, drei Cult Hydras",
           "extraUnits": [
           ],
           "points": 175
@@ -193,22 +193,22 @@
   ],
   "upgrades": {
     "title": "Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "Hybrid Aberrants",
+        "name": "Aberranten",
         "description": "Füge zwei Hybrid Aberrants hinzu",
-        "points": "75 points"
+        "points": "75 Punkte"
       },
       {
-        "name": "Genestealers",
+        "name": "Symbionten",
         "description": "Füge drei Genestealers hinzu",
-        "points": "75 points"
+        "points": "75 Punkte"
       },
       {
         "name": "Coven Flak",
         "description": "Füge bis zu zwei Coven Technicals hinzu",
-        "points": "20 points each"
+        "points": "20 Punkte pro Stück"
       }
     ]
   }

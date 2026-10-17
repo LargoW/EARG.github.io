@@ -37,8 +37,8 @@
         "Ark Mechanicus Battleship"
       ],
       "unitRules": [
-          "Machine Spirit",
-          "Ponderous",
+          "Maschinengeist",
+          "Schwerfällig",
           "Schildbrecher"
       ]
     },
@@ -143,7 +143,7 @@
           "units": "Two Ordinatus Minoris",
           "extraUnits": [
             "Add one Ordinatus Minoris: 125 points",
-            "Support Weapon"
+            "Unterstützungswaffe"
           ],
           "points": 325
         },
@@ -151,7 +151,7 @@
           "name": "0-1 Ordinatus Majoris",
           "units": "One Ordinatus Armageddon (Nova Cannon)",
           "extraUnits": [
-            "Ordinatus Mars (Sonic Versprengenor)",
+            "Ordinatus Mars (Sonic Disruptor)",
             "Ordinatus Golgotha (Hellfire Missiles)"
           ],
           "points": 425
@@ -223,10 +223,10 @@
         ]
       },
       {
-        "name": "Minoris Support Weapon",
+        "name": "Minoris Unterstützungswaffe",
         "options": [
           {
-            "description": "Upgrade one Minoris to carry a Support Weapon",
+            "description": "Upgrade one Minoris to carry a Unterstützungswaffe",
             "points": "25 points"
           }
         ]
@@ -235,7 +235,7 @@
         "name": "Ordinatus Mars",
         "options": [
           {
-            "description": "Replace the Ordinatus Armageddon with an Ordinatus Mars (Sonic Versprengenor)",
+            "description": "Replace the Ordinatus Armageddon with an Ordinatus Mars (Sonic Disruptor)",
             "points": "Free"
           }
         ]

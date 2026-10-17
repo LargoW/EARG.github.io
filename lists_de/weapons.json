@@ -1,4 +1,4 @@
-{
+﻿{
     "weapons": [
         {
             "name": "n/a",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "name": "\u0027ED (choose one)",
+            "name": "KOPF (wähle eine)",
             "modes": [
                 {
                 }
@@ -30,35 +30,35 @@
             ]
         },
         {
-            "name": "ARMS (choose two)",
+            "name": "ARME (wähle zwei)",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "ARMS (choose two. Max one 0-1)",
+            "name": "ARME (wähle zwei. Höchstens eine 0–1)",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "BATTLE CAR WEAPONS",
+            "name": "SCHLACHTWAGEN-WAFFEN",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "BELLY (choose one)",
+            "name": "BAUCH (wähle eine)",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "CARAPACE",
+            "name": "RÜCKENPANZER",
             "modes": [
                 {
                 }
@@ -72,28 +72,28 @@
             ]
         },
         {
-            "name": "\u003eClose Assault Configuration\u003c",
+            "name": "\u003eNahkampf-Konfiguration\u003c",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "\u003eStandard Configuration\u003c",
+            "name": "\u003eStandard-Konfiguration\u003c",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "\u003eSupport Configuration\u003c",
+            "name": "\u003eSupport-Konfiguration\u003c",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "\u003eTank Hunter Configuration\u003c",
+            "name": "\u003eTank-Hunter-Konfiguration\u003c",
             "modes": [
                 {
                 }
@@ -198,14 +198,14 @@
             ]
         },
         {
-            "name": "\u003eBattle Weapons\u003c",
+            "name": "\u003eKampfwaffen\u003c",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "\u003eSupport Weapons\u003c",
+            "name": "\u003eUnterstützungswaffen\u003c",
             "modes": [
                 {
                 }
@@ -576,7 +576,7 @@
             ]
         },
         {
-            "name": "AC-Schwerer-Stubber-Turm",
+            "name": "AC-Schwerer-Maschinengewehr-Turm",
             "modes": [
                 {
                     "firepower": "AA6+",
@@ -587,7 +587,7 @@
             ]
         },
         {
-            "name": "AC-Zwillings-Schwerer-Stubber-Turm",
+            "name": "AC-Zwillings-Schwerer-Maschinengewehr-Turm",
             "modes": [
                 {
                     "firepower": "AA5+",
@@ -986,7 +986,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)"
@@ -1210,7 +1210,7 @@
             "name": "Abyssaler Stab",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -1288,7 +1288,7 @@
             ]
         },
         {
-            "name": "Kaban-Versprengenor",
+            "name": "Kaban-Disruptor",
             "modes": [
                 {
                     "firepower": "4x AP5+/AT6+",
@@ -1303,7 +1303,7 @@
             "name": "Kaban-Schwanzgeschütze",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -1327,7 +1327,7 @@
             "name": "Säure Jets",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -1342,7 +1342,7 @@
                     "range": 30
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)"
@@ -1354,7 +1354,7 @@
             "name": "Æther Klinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+2)",
                         "MW"
@@ -1366,7 +1366,7 @@
             "name": "Agonisator",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -1378,7 +1378,7 @@
             "name": "Angelus-Boltergewehre",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -1446,7 +1446,7 @@
             "name": "Achilles Energielanze",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -1458,7 +1458,7 @@
             "name": "Ardent Klinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "TK(1)",
                         "FS"
@@ -1471,7 +1471,7 @@
             "name": "Arc Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -1481,13 +1481,13 @@
             "name": "Lichtbogenlanzen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "FS"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "FS"
@@ -1499,7 +1499,7 @@
             "name": "Archeotech Kinetic Zerstörer",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -1509,7 +1509,7 @@
             "name": "Assassinenwaffen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "S",
                         "FS"
@@ -1536,7 +1536,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+2)",
@@ -1544,7 +1544,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "oder",
                     "specialRules": [
                         "EA(+1)",
@@ -1569,13 +1569,13 @@
             "name": "Atrapos-Laserschneider",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "MW"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "oder",
                     "specialRules": [
                         "TK(1)"
@@ -1587,7 +1587,7 @@
             "name": "Autarch-Fernkampfwaffe",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -1599,7 +1599,7 @@
             "name": "Uralte Waffen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -1629,7 +1629,7 @@
             "name": "Automatikgewehre",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -1639,7 +1639,7 @@
             "name": "Automatikpistolen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -1661,7 +1661,7 @@
             "name": "Avenger-Shurikenkatapulte",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -1672,7 +1672,7 @@
             "name": "Axt des Khorne",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "TK(W3)"
@@ -1684,7 +1684,7 @@
             "name": "Unheilfeuer",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -1705,7 +1705,7 @@
             "name": "Banestrike-Kombibolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "S"
                     ]
@@ -1717,7 +1717,7 @@
             "modes": [
                 {
                     "firepower": "6BP",
-                    "range": "Unlimited",
+                    "range": "Unbegrenzt",
                     "specialRules": [
                         "SS",
                         "D",
@@ -1752,7 +1752,7 @@
             "name": "Kampfklauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -1764,7 +1764,7 @@
             "name": "Kampfkopf",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -1794,7 +1794,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)"
@@ -1817,7 +1817,7 @@
             ]
         },
         {
-            "name": "0-1 Bombe Kampf-Car",
+            "name": "0–1 Bombe Kampf-Car",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -1834,7 +1834,7 @@
             "name": "Bansheemaske",
             "modes": [
                 {
-                    "firepower": "Assault Weapons"
+                    "firepower": "Sturmwaffen"
                 }
             ]
         },
@@ -1842,7 +1842,7 @@
             "name": "Stachelklauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -1853,7 +1853,7 @@
             "name": "Bajonette",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -1863,7 +1863,7 @@
             "name": "Blasting Ladungen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -1978,7 +1978,7 @@
             "name": "Bedlam Stab",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -2026,7 +2026,7 @@
             "name": "Groß Choppas",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -2059,7 +2059,7 @@
             "name": "Bile Kanone",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -2083,7 +2083,7 @@
             "name": "Bioelektrisches Feld",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2146,7 +2146,7 @@
             "name": "Bioplasma",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2174,7 +2174,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -2243,7 +2243,7 @@
             "name": "Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2253,7 +2253,7 @@
             "name": "Verwesungsklinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -2264,7 +2264,7 @@
             "name": "Klinge der Fäulnis",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -2285,7 +2285,7 @@
             "name": "Blood Kanonen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -2296,7 +2296,7 @@
             "name": "Blood Kralle",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -2308,7 +2308,7 @@
             "name": "Blaues Feuer der Metamorphose",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "IC"
@@ -2344,7 +2344,7 @@
             "name": "Gesegnete Waffe",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -2356,7 +2356,7 @@
             "name": "Seuchenfliege",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2390,7 +2390,7 @@
             "name": "Körperwaffen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2412,7 +2412,7 @@
             "name": "Boltpistolen",
             "modes": [
                 {
-                    "firepower": "Small Arms"
+                    "firepower": "Handfeuerwaffen"
                 }
             ]
         },
@@ -2420,7 +2420,7 @@
             "name": "Bolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2430,7 +2430,7 @@
             "name": "Drachenfeuerbolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2485,7 +2485,7 @@
             "name": "Sturmbolter Batterie",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -2502,7 +2502,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)"
@@ -2521,7 +2521,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+2)"
@@ -2533,7 +2533,7 @@
             "name": "Seuchengranaten",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -2544,7 +2544,7 @@
             "name": "Knochenschwerter",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "MW"
@@ -2580,7 +2580,7 @@
             "name": "Brennender Streitwagen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -2625,7 +2625,7 @@
             "name": "Grabklauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2654,7 +2654,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "FS"
@@ -2723,7 +2723,7 @@
             "name": "Cerastus-Schocklanze",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "Sturmangriff",
@@ -2731,14 +2731,14 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "Lanze"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -2747,7 +2747,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "Lanze"
@@ -2759,7 +2759,7 @@
             "name": "Kettenäxte",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2769,7 +2769,7 @@
             "name": "Iconoclast Äxte",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "S"
                     ]
@@ -2780,7 +2780,7 @@
             "name": "Kettenfaust",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+3)",
                         "MW"
@@ -2792,7 +2792,7 @@
             "name": "Titan Kettenfaust",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "MW"
@@ -2804,14 +2804,14 @@
             "name": "Dreadnought Kettenfaust",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "oder",
                     "specialRules": [
                     ]
@@ -2822,7 +2822,7 @@
             "name": "Kettenschwerter",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2832,7 +2832,7 @@
             "name": "Spaltas",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2863,7 +2863,7 @@
             "name": "Kombibolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2873,7 +2873,7 @@
             "name": "Kombimelter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -2883,7 +2883,7 @@
             "name": "Kombi-Flammenwerfer",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -2941,7 +2941,7 @@
             "name": "Flackernde Flammen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -2963,7 +2963,7 @@
             "name": "Corvus Hämmer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -2974,7 +2974,7 @@
             "name": "Hof des jungen Königs",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -3019,7 +3019,7 @@
             "name": "Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons"
+                    "firepower": "Sturmwaffen"
                 }
             ]
         },
@@ -3027,7 +3027,7 @@
             "name": "Stachelringrachen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -3038,7 +3038,7 @@
             "name": "Große Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -3050,7 +3050,7 @@
             "name": "Massive Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "MW"
@@ -3062,7 +3062,7 @@
             "name": "Massive Sensenklauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "TK(1)"
@@ -3074,7 +3074,7 @@
             "name": "Monströse Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "TK(W3)"
@@ -3086,7 +3086,7 @@
             "name": "Reißende Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -3097,7 +3097,7 @@
             "name": "Klauen und Fangzähne",
             "modes": [
                 {
-                    "firepower": "Assault Weapons"
+                    "firepower": "Sturmwaffen"
                 }
             ]
         },
@@ -3105,7 +3105,7 @@
             "name": "Krootox-Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -3116,7 +3116,7 @@
             "name": "Knarloc Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -3128,7 +3128,7 @@
             "name": "Fliegenwolke",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -3142,7 +3142,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -3154,7 +3154,7 @@
             "name": "Kampfflegel",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -3176,7 +3176,7 @@
             "name": "Cyberkeiler",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -3197,13 +3197,13 @@
             "name": "Cyclops-Sprengladung",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "TK(1)"
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "oder",
                     "specialRules": [
                         "MW"
@@ -3235,7 +3235,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW",
@@ -3248,14 +3248,14 @@
             "name": "Dämonisch Possession",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "FS"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "oder",
                     "specialRules": [
                         "EA(+1)",
@@ -3269,7 +3269,7 @@
             "name": "Dämonischer Bolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "FS"
@@ -3281,7 +3281,7 @@
             "name": "Dämonisch Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -3292,7 +3292,7 @@
             "name": "Dämonisch Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -3302,7 +3302,7 @@
             "name": "Dämon Maw",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "IC"
@@ -3314,7 +3314,7 @@
             "name": "Dämon Waffe",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "FS"
@@ -3386,7 +3386,7 @@
             "name": "Todesspinner",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -3492,7 +3492,7 @@
             "modes": [
                 {
                     "firepower": "MW4+",
-                    "range": "Unlimited",
+                    "range": "Unbegrenzt",
                     "specialRules": [
                         "TK(W6)"
                     ]
@@ -3503,7 +3503,7 @@
             "name": "Deff-Rolla \u0026 frischer Anstrich",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "MW",
@@ -3563,7 +3563,7 @@
             "name": "Schreckensschwert",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -3654,7 +3654,7 @@
             "name": "Divining Speer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -3664,7 +3664,7 @@
             "name": "Todesköpfe",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -3676,7 +3676,7 @@
             "modes": [
                 {
                     "firepower": "MW3+",
-                    "range": "Unlimited",
+                    "range": "Unbegrenzt",
                     "specialRules": [
                         "SS",
                         "Ind",
@@ -3754,7 +3754,7 @@
                     "range": 30
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -3771,7 +3771,7 @@
                     "range": 30
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -3784,13 +3784,13 @@
             "name": "Verdammnishandschuh",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -3821,7 +3821,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "FS"
@@ -3833,7 +3833,7 @@
             "name": "Warp-Verstärker",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -3868,7 +3868,7 @@
             "name": "Aufspießer und Splitternetze",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -3880,7 +3880,7 @@
             "modes": [
                 {
                     "firepower": "3BP",
-                    "range": "Unlimited",
+                    "range": "Unbegrenzt",
                     "specialRules": [
                         "D",
                         "Ind",
@@ -3960,7 +3960,7 @@
             "name": "Eldar Energiefaust",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -3972,7 +3972,7 @@
             "name": "Eldar Energiewaffe",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -3984,7 +3984,7 @@
             "name": "Elektroladungen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -3995,7 +3995,7 @@
             "name": "Elektrosaugstab",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -4018,7 +4018,7 @@
             "name": "Entropische Berührung",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -4034,7 +4034,7 @@
                     "range": 30
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -4050,7 +4050,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -4062,7 +4062,7 @@
             "name": "Eviszeratoren",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -4073,7 +4073,7 @@
             "name": "Ketten-Glaives",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -4095,7 +4095,7 @@
             "name": "Exarch-Nahkampfwaffe",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -4106,7 +4106,7 @@
             "name": "Exarch-Fernkampfwaffe",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -4139,7 +4139,7 @@
             "name": "Exterminatoren",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -4149,7 +4149,7 @@
             "name": "Filth Streitkolben",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -4161,7 +4161,7 @@
             "name": "Reparaturarm",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -4173,7 +4173,7 @@
             "name": "Fangzähne",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -4183,7 +4183,7 @@
             "name": "Klaue des Großen Wolfs",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -4285,7 +4285,7 @@
             "name": "Flammenwerfer",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -4296,7 +4296,7 @@
             "name": "Handflammenwerfer",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -4307,7 +4307,7 @@
             "name": "Hand Flammenwerfer",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -4318,7 +4318,7 @@
             "name": "Flammenwerfer",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -4348,14 +4348,14 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)"
@@ -4367,7 +4367,7 @@
             "name": "Klauen der Albträume",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -4377,7 +4377,7 @@
             "name": "Tzeentchs Flammen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -4406,7 +4406,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -4425,7 +4425,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -4437,7 +4437,7 @@
             "name": "Fleischbohrer",
             "modes": [
                 {
-                    "firepower": "Small Arms"
+                    "firepower": "Handfeuerwaffen"
                 }
             ]
         },
@@ -4445,7 +4445,7 @@
             "name": "Fleischhaken",
             "modes": [
                 {
-                    "firepower": "Small Arms"
+                    "firepower": "Handfeuerwaffen"
                 }
             ]
         },
@@ -4453,7 +4453,7 @@
             "name": "Verbotene Technologie",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+W3)",
                         "FS"
@@ -4465,7 +4465,7 @@
             "name": "Frag Kanone",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -4503,7 +4503,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -4560,7 +4560,7 @@
             "name": "Schwarmangriff",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -4576,7 +4576,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "TK(1)"
@@ -4644,7 +4644,7 @@
             "name": "Gauss-Flussbogen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -4655,7 +4655,7 @@
             "name": "Gauss-Flussbatterie",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+3)"
                     ]
@@ -4735,7 +4735,7 @@
             "name": "Riesenkeulen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -4746,7 +4746,7 @@
             "name": "Spießende Hauer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "TK(W3)"
@@ -4764,7 +4764,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)"
@@ -4825,7 +4825,7 @@
             "name": "Graviton-Zermalmer",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -4862,7 +4862,7 @@
             "name": "Grotesques Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -4899,7 +4899,7 @@
             "name": "Guardian Speer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -4916,7 +4916,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)"
@@ -4961,7 +4961,7 @@
             "name": "Hagel aus Stachelspeeren",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -4972,7 +4972,7 @@
             "name": "Liebkosung des Harlekins",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "FS",
@@ -4985,7 +4985,7 @@
             "name": "Harlequin\u0027s Umarmung",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "FS"
                     ]
@@ -4996,7 +4996,7 @@
             "name": "Harlequin Kuss",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "FS",
@@ -5009,7 +5009,7 @@
             "name": "Ernteranken",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "TK(1)"
@@ -5103,7 +5103,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -5126,7 +5126,7 @@
             "name": "Blitzklauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -5138,7 +5138,7 @@
             "name": "Hawk\u0027s Krallen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -5286,7 +5286,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -5306,7 +5306,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -5326,7 +5326,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -5346,7 +5346,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -5366,7 +5366,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC",
@@ -5494,7 +5494,7 @@
             ]
         },
         {
-            "name": "Schwerer Stubber",
+            "name": "Schwerer Maschinengewehr",
             "modes": [
                 {
                     "firepower": "AP6+",
@@ -5503,7 +5503,7 @@
             ]
         },
         {
-            "name": "Zwillings-Schwerer Stubber",
+            "name": "Zwillings-Schwerer Maschinengewehr",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -5530,7 +5530,7 @@
             ]
         },
         {
-            "name": "Zwillings-Schwerer-Stubber-Turm",
+            "name": "Zwillings-Schwerer-Maschinengewehr-Turm",
             "modes": [
                 {
                     "firepower": "AP5+/AA6+",
@@ -5549,7 +5549,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -5568,7 +5568,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -5587,7 +5587,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -5606,7 +5606,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -5636,7 +5636,7 @@
             "name": "Hekaton Belagerungsklaue",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "TK(1)"
                     ]
@@ -5647,7 +5647,7 @@
             "name": "Gyges Belagerungsklaue",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "TK(1)"
                     ]
@@ -5667,7 +5667,7 @@
             "name": "Höllenklingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -5734,7 +5734,7 @@
             "name": "Helfrost Kanone",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -5745,7 +5745,7 @@
             "name": "Zwillings-Helfrost Kanone",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -5769,7 +5769,7 @@
             "name": "Höllengleven",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -5779,7 +5779,7 @@
             "name": "Höllenkanonen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -5837,7 +5837,7 @@
             "name": "Höllenschneider-Kampfklaue",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "TK(W3)"
@@ -5929,7 +5929,7 @@
             "name": "Holocaust",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "IC"
@@ -5941,7 +5941,7 @@
             "name": "Honour Klinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -5952,7 +5952,7 @@
             "name": "Schreckliche Mutationen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+W3)"
                     ]
@@ -5963,7 +5963,7 @@
             "name": "Waffen des Trägers",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -6018,7 +6018,7 @@
             "name": "Jagdlanzen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "Sturmangriff"
                     ]
@@ -6029,7 +6029,7 @@
             "name": "Exoditen-Jagdlanzen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "Sturmangriff"
                     ]
@@ -6040,7 +6040,7 @@
             "name": "Phantomknochenlanze",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "Lanze",
@@ -6053,7 +6053,7 @@
             "name": "Ferocious Biss",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "MW"
@@ -6065,7 +6065,7 @@
             "name": "Klauen, Zähne \u0026 Schwanz",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -6089,7 +6089,7 @@
             "name": "Hurrikanbolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -6100,7 +6100,7 @@
             "name": "Hydraulische Klaue",
             "modes": [
                 {
-                    "firepower": "Assault Weapons"
+                    "firepower": "Sturmwaffen"
                 }
             ]
         },
@@ -6176,7 +6176,7 @@
             "name": "Inferno-Bolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -6186,7 +6186,7 @@
             "name": "Inferno-Kombibolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -6228,7 +6228,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -6248,7 +6248,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -6326,7 +6326,7 @@
             "name": "Schakalgewehre",
             "modes": [
                 {
-                    "firepower": "Small Arms"
+                    "firepower": "Handfeuerwaffen"
                 }
             ]
         },
@@ -6334,7 +6334,7 @@
             "name": "Dschungelmesser",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -6344,7 +6344,7 @@
             "name": "Juggernaut",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -6370,7 +6370,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -6383,7 +6383,7 @@
             "name": "Klaives",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -6394,7 +6394,7 @@
             "name": "Kampfarme",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+2)",
                         "TK(W3)"
@@ -6406,7 +6406,7 @@
             "name": "Kampfklauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -6424,7 +6424,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -6437,7 +6437,7 @@
             "name": "Ritter-Energielanze",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "Lanze",
@@ -6445,7 +6445,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -6468,7 +6468,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW",
@@ -6481,7 +6481,7 @@
             "name": "Ritter-Kettenschwert",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -6493,7 +6493,7 @@
             "name": "Ritter-Energiehandschuh",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -6527,7 +6527,7 @@
             "name": "Kroot-Gewehre",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -6542,7 +6542,7 @@
                 },
                 {
                     "join": "and",
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -6576,7 +6576,7 @@
             "name": "Groß Reiß Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW",
                         "FS"
@@ -6588,7 +6588,7 @@
             "name": "Lasher Ranken",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -6598,7 +6598,7 @@
             "name": "Laserblaster",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -6684,7 +6684,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+2)",
@@ -6722,7 +6722,7 @@
             "name": "Peitsche der Qual",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW",
@@ -6735,7 +6735,7 @@
             "name": "Laserpistolen",
             "modes": [
                 {
-                    "firepower": "Small Arms"
+                    "firepower": "Handfeuerwaffen"
                 }
             ]
         },
@@ -6743,7 +6743,7 @@
             "name": "Lasergewehre",
             "modes": [
                 {
-                    "firepower": "Small Arms"
+                    "firepower": "Handfeuerwaffen"
                 }
             ]
         },
@@ -6759,7 +6759,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+2)"
@@ -6782,7 +6782,7 @@
             "name": "Lastrum-Sturmbolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -6793,7 +6793,7 @@
             "name": "Lastrum-Sturmbolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -6822,7 +6822,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -6843,7 +6843,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -6924,7 +6924,7 @@
             ]
         },
         {
-            "name": "GhostGeländegängig Langgewehre",
+            "name": "Ghost Walker Langgewehre",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -6935,7 +6935,7 @@
                 },
                 {
                     "join": "and",
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "S"
                     ]
@@ -6950,7 +6950,7 @@
                     "range": 75
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -6985,7 +6985,7 @@
             "name": "Mahlstrom des Wahnsinns",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+W3)"
                     ]
@@ -7008,7 +7008,7 @@
             "name": "Massive Nahkampfwaffen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -7019,7 +7019,7 @@
             "name": "Mandiblaster",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -7030,7 +7030,7 @@
             "name": "Mandrake Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -7041,7 +7041,7 @@
             "name": "Zerfleischer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "TK(W3+1)"
@@ -7064,13 +7064,13 @@
             "name": "Manifested Nahkampfwaffen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -7083,7 +7083,7 @@
             "name": "Meistergefertigte Waffen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -7102,7 +7102,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -7134,7 +7134,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -7159,7 +7159,7 @@
             "name": "Melterbomben",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -7179,7 +7179,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -7200,7 +7200,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -7221,7 +7221,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+2)",
@@ -7234,7 +7234,7 @@
             "name": "Melterschneider",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "MW"
                     ]
@@ -7245,7 +7245,7 @@
             "name": "Meltergewehr",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -7256,7 +7256,7 @@
             "name": "Meltergewehre",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -7267,7 +7267,7 @@
             "name": "Meltergewehr",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -7302,7 +7302,7 @@
             "name": "Söldnerwaffen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -7312,12 +7312,12 @@
             "name": "Metamorph-Biomorphe",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "FS"
@@ -7329,7 +7329,7 @@
             "name": "Mitralocks",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -7375,7 +7375,7 @@
             "name": "Nebelstab",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -7387,7 +7387,7 @@
             "name": "Mime Concealed Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -7428,7 +7428,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -7444,7 +7444,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -7456,7 +7456,7 @@
             "name": "Musk Flegel",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "TK(W3+1)"
@@ -7468,7 +7468,7 @@
             "name": "Monomolecular Klinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "FS",
@@ -7493,7 +7493,7 @@
             "name": "Montierte Geschütze",
             "modes": [
                 {
-                    "firepower": "Small Arms"
+                    "firepower": "Handfeuerwaffen"
                 }
             ]
         },
@@ -7531,7 +7531,7 @@
             "name": "Nemesis Psionische Waffen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -7542,14 +7542,14 @@
             "name": "Krafthellebarde und Energiefaust",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -7561,7 +7561,7 @@
             "name": "Nemesis-Dämonenhammer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -7573,7 +7573,7 @@
             "name": "Nemesis Dämon Hämmer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -7585,7 +7585,7 @@
             "name": "Nemesis-Verdammnisklinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -7597,7 +7597,7 @@
             "name": "Nemesis-Verdammnisfäuste",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -7608,7 +7608,7 @@
             "name": "Nemesis-Schreckensfäuste",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -7619,7 +7619,7 @@
             "name": "Nemesis-Dämonengroßhammer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -7631,7 +7631,7 @@
             "name": "Neuralpeitschen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -7693,7 +7693,7 @@
             "name": "Neutronenblaster",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -7742,7 +7742,7 @@
             "name": "Nurglinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -7753,7 +7753,7 @@
             "name": "Wandelnde Pest",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -7764,7 +7764,7 @@
             "name": "Ogryn Waffen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -7776,7 +7776,7 @@
             "name": "Axt des Omnissiah",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -7787,7 +7787,7 @@
             "name": "\u0027Ore Dakka",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -7809,7 +7809,7 @@
             "name": "Schleimende Zuneigung",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -7896,7 +7896,7 @@
             "name": "Perditor Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -7950,7 +7950,7 @@
             "name": "Durchbohrend Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -7992,7 +7992,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -8017,7 +8017,7 @@
             "name": "Seuchenmesser",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -8027,7 +8027,7 @@
             "name": "Seuchenschwerter",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -8037,7 +8037,7 @@
             "name": "Seuchenböe",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "IC"
@@ -8242,7 +8242,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -8326,7 +8326,7 @@
             "name": "Plasmapistolen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -8358,7 +8358,7 @@
             "name": "Gift Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -8404,7 +8404,7 @@
             "name": "Feuer Bomben",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -8415,7 +8415,7 @@
             "name": "Grot-Knarren und Messer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -8462,7 +8462,7 @@
             "name": "Energieklaue",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -8474,7 +8474,7 @@
             "name": "Choppa-Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -8486,7 +8486,7 @@
             "name": "Energie-Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -8498,7 +8498,7 @@
             "name": "Eldar-Energielanzen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "Lanze"
                     ]
@@ -8509,7 +8509,7 @@
             "name": "Trike Energielanze",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -8520,7 +8520,7 @@
             "name": "Energielanzen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -8542,7 +8542,7 @@
             "name": "Energiefaust",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -8554,7 +8554,7 @@
             "name": "Energiekeulen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -8564,7 +8564,7 @@
             "name": "Energie-Saws",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -8575,7 +8575,7 @@
             "name": "Penitent Flegel",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -8585,7 +8585,7 @@
             "name": "Energie-Waffen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -8597,7 +8597,7 @@
             "name": "Karmesinrote Gleven",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -8608,7 +8608,7 @@
             "name": "Energiewaffe",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -8717,7 +8717,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "Lanze"
@@ -8838,7 +8838,7 @@
             "name": "Psychic Powers",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -8850,7 +8850,7 @@
             "name": "Geistiger Ansturm",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW",
@@ -8974,7 +8974,7 @@
             "name": "Ritter-Nahkampfwaffen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -8985,7 +8985,7 @@
             "name": "Klauen des Reingenestealers",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "FS"
@@ -9006,7 +9006,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+2)",
@@ -9055,7 +9055,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -9067,7 +9067,7 @@
             "name": "Feuersplitter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -9078,7 +9078,7 @@
             "name": "Pyro-Säure",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "IC"
@@ -9169,7 +9169,7 @@
             "name": "Zwillings-Rad Cleanser",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -9211,7 +9211,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "S"
@@ -9279,7 +9279,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -9309,7 +9309,7 @@
             "name": "Rapturous Klinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "MW",
@@ -9349,7 +9349,7 @@
             "name": "Schnitter-Kettenspalter",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "MW"
                     ]
@@ -9366,7 +9366,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -9379,7 +9379,7 @@
             "name": "Reaper-Kettenschwert",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -9400,7 +9400,7 @@
             "name": "Rotes Feuer der Veränderung",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "IC"
@@ -9412,7 +9412,7 @@
             "name": "Reiß Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -9423,7 +9423,7 @@
             "name": "Renegade Kettenschwert",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -9458,7 +9458,7 @@
             "name": "Ripper-Geschütze",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -9468,13 +9468,13 @@
             "name": "Zerfleischerschwärme",
             "modes": [
                            {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                        "EA(+2)"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -9485,7 +9485,7 @@
             "name": "Ripper-Tentakel",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "FS"
@@ -9497,12 +9497,12 @@
             "name": "Stäbe des Bundes",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 },
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -9584,7 +9584,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -9602,7 +9602,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -9625,7 +9625,7 @@
             "name": "Scherenhände",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -9647,7 +9647,7 @@
             "name": "Scorpion-Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "MW"
@@ -9668,7 +9668,7 @@
             "name": "Scythed Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "S"
@@ -9680,7 +9680,7 @@
             "name": "Sucherstreitwagen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -9703,7 +9703,7 @@
             "name": "Sentinel-Kriegsklinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -9713,7 +9713,7 @@
             "name": "Servoarm",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -9724,7 +9724,7 @@
             "name": "Seismische Kanone",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -9742,7 +9742,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -9754,7 +9754,7 @@
             "name": "Excavator Energie-Arms",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "TK(W3)"
                     ]
@@ -9765,7 +9765,7 @@
             "name": "Lichtsplitter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -9789,7 +9789,7 @@
             "name": "Schocklanze",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "Sturmangriff"
@@ -9801,7 +9801,7 @@
             "name": "Knarren",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -9811,7 +9811,7 @@
             "name": "Kampfschrotflinten",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -9842,7 +9842,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)"
@@ -9865,7 +9865,7 @@
             "name": "Shuriken-Katapulte",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -9875,7 +9875,7 @@
             "name": "Shuriken-Pistolen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -9898,7 +9898,7 @@
             "name": "Belagerungsbohrer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -9910,7 +9910,7 @@
             "name": "Belagerungs-Bohrer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -9922,7 +9922,7 @@
             "name": "Seismischer Hammer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -9972,14 +9972,14 @@
             "name": "Singing Speer",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "oder",
                     "specialRules": [
                         "EA(+1)",
@@ -10009,7 +10009,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -10070,7 +10070,7 @@
             "name": "Schmetterschlag",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -10113,7 +10113,7 @@
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -10126,7 +10126,7 @@
             "name": "Snazzguns",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -10280,7 +10280,7 @@
             ]
         },
         {
-            "name": "Schall-Versprengenor",
+            "name": "Schall-Disruptor",
             "modes": [
                 {
                     "firepower": "10BP",
@@ -10338,7 +10338,7 @@
             "name": "Splitterkarabiner",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -10348,7 +10348,7 @@
             "name": "Splinter Pistolen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -10358,7 +10358,7 @@
             "name": "Splitterkapseln",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -10368,7 +10368,7 @@
             "name": "Splinter Gewehre",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -10404,7 +10404,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -10434,7 +10434,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -10458,7 +10458,7 @@
             "name": "Zauberbolzen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -10512,7 +10512,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -10557,13 +10557,13 @@
             "name": "Lichtstab",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -10576,14 +10576,14 @@
             "name": "Strahlenstab",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -10596,7 +10596,7 @@
             "name": "Sternenlanze",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "Lanze"
@@ -10608,7 +10608,7 @@
             "name": "Veteranengarde-Bolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "S"
                     ]
@@ -10619,7 +10619,7 @@
             "name": "Sturmbolter",
             "modes": [
                 {
-                    "firepower": "Small Arms"
+                    "firepower": "Handfeuerwaffen"
                 }
             ]
         },
@@ -10627,7 +10627,7 @@
             "name": "Sturmbolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -10682,7 +10682,7 @@
             "name": "Drilldozer-Klinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -10700,7 +10700,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -10757,7 +10757,7 @@
             "name": "Energiekeulen \u0026 Unterdrückungs Schilde",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -10802,7 +10802,7 @@
             "name": "Schwert des Blutes",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -10814,7 +10814,7 @@
             "name": "Ursus Klaue",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "TK(D2)",
@@ -10827,7 +10827,7 @@
             "name": "Talos Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -10839,7 +10839,7 @@
             "name": "Taser Stachel",
             "modes": [
                 {
-                    "firepower": "Assault Weapons"
+                    "firepower": "Sturmwaffen"
                 }
             ]
         },
@@ -10847,7 +10847,7 @@
             "name": "Taserlanze",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -10858,7 +10858,7 @@
             "name": "Faule Zähne",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -10868,7 +10868,7 @@
             "name": "Zähne und Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -10879,7 +10879,7 @@
             "name": "Zähne und Hörner",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -10891,7 +10891,7 @@
             "name": "Fangzähne und Hörner",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "MW"
@@ -10903,13 +10903,13 @@
             "name": "Telemon-Faust",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -10934,7 +10934,7 @@
             "name": "Sturmkriegsklinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -11054,7 +11054,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -11074,7 +11074,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -11093,7 +11093,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -11111,7 +11111,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -11135,7 +11135,7 @@
             "name": "Donnerwendel-Harpune",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)",
@@ -11171,7 +11171,7 @@
             "name": "Bolter und Enterungsschilde",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                     ]
                 }
@@ -11181,7 +11181,7 @@
             "name": "Donnerhammer und Sturmschild",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -11193,7 +11193,7 @@
             "name": "Streitkolben der Absolution und Sturmschilde",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -11204,7 +11204,7 @@
             "name": "Flegel der Unversöhnlichen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -11216,7 +11216,7 @@
             "name": "Schwerer Donnerhammer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -11228,7 +11228,7 @@
             "name": "Schwerer Dämonenhammer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -11240,7 +11240,7 @@
             "name": "Schwere Donnerhämmer",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -11252,7 +11252,7 @@
             "name": "Donnerschlaghandschuh",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "TK(W3)"
@@ -11285,7 +11285,7 @@
             "name": "Titan Energiefaust",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "TK(W3+3)"
@@ -11303,14 +11303,14 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+3)"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "oder",
                     "specialRules": [
                         "EA(+1)",
@@ -11348,7 +11348,7 @@
             "name": "Titanische Vordergliedmaßen",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -11360,7 +11360,7 @@
             "name": "Tomb Spyder Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -11371,7 +11371,7 @@
             "name": "Peiniger",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -11381,7 +11381,7 @@
             "name": "Tormentor Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+2)",
                         "TK(1)"
@@ -11405,7 +11405,7 @@
             "name": "Folterklingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+2)",
                         "TK(W3)"
@@ -11417,7 +11417,7 @@
             "name": "Transonic Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -11594,7 +11594,7 @@
             "name": "Zwillings-Bolter",
             "modes": [
                 {
-                    "firepower": "Small Arms"
+                    "firepower": "Handfeuerwaffen"
                 }
             ]
         },
@@ -11602,7 +11602,7 @@
             "name": "Zwillingsboltpistole",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -11612,7 +11612,7 @@
             "name": "Zwillings-Boltpistolen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -11738,7 +11738,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -11758,7 +11758,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -11921,7 +11921,7 @@
             "name": "Vierfachmelter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -11970,7 +11970,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -11986,7 +11986,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -12076,7 +12076,7 @@
             "name": "Zwillings-Shurikenkatapult",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -12095,7 +12095,7 @@
             "name": "Zwillings-Splinter Gewehr",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -12123,7 +12123,7 @@
             "name": "Zwillings-Tesla Karabiner",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -12208,7 +12208,7 @@
             "name": "Venatari-Lanze",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -12231,7 +12231,7 @@
             "name": "Vengeance Werfer",
             "modes": [
                 {
-                    "firepower": "Small Arms, EA(+1)"
+                    "firepower": "Handfeuerwaffen, EA(+1)"
                 }
             ]
         },
@@ -12265,7 +12265,7 @@
                     "range": 30
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+2)"
@@ -12359,7 +12359,7 @@
             "name": "Volkite-Ladungen",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -12407,7 +12407,7 @@
             "name": "Volkite-Serpenta",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "IC"
                     ]
@@ -12431,7 +12431,7 @@
             "name": "Voltagheist Feld",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "MW"
                     ]
@@ -12442,13 +12442,13 @@
             "name": "Voltagheist Feld",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "MW"
                     ]
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "oder",
                     "specialRules": [
                         "MW"
@@ -12485,7 +12485,7 @@
                     "range": 30
                 },
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -12513,7 +12513,7 @@
                     "range": 45
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -12543,7 +12543,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -12556,7 +12556,7 @@
             "name": "Warp-Bolter",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -12575,7 +12575,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -12588,7 +12588,7 @@
             "modes": [
                 {
                     "firepower": "MW2+",
-                    "range": "Unlimited",
+                    "range": "Unbegrenzt",
                     "specialRules": [
                         "SS",
                         "TK(W3)",
@@ -12601,7 +12601,7 @@
             "name": "Warpschwert",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -12613,7 +12613,7 @@
             "name": "Warp-Klauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "S"
                     ]
@@ -12624,7 +12624,7 @@
             "name": "Warpschrei",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -12646,7 +12646,7 @@
             "name": "Peitsche des Khorne",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                     ]
                 }
@@ -12680,7 +12680,7 @@
             "name": "Hexenklinge",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -12692,7 +12692,7 @@
             "name": "Witch Klingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -12708,7 +12708,7 @@
                     "range": 45
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
@@ -12722,7 +12722,7 @@
             "modes": [
                 {
                     "firepower": "2BP",
-                    "range": "Unlimited",
+                    "range": "Unbegrenzt",
                     "specialRules": [
                         "TK(1)",
                         "IC",
@@ -12736,7 +12736,7 @@
             "name": "Phantomklingen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -12752,7 +12752,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -12768,7 +12768,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -12780,7 +12780,7 @@
             "name": "Phantomklauen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -12791,7 +12791,7 @@
             "name": "Geistergleve und Streuschild",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "MW",
                         "Spec[*]"
@@ -12807,7 +12807,7 @@
                     "range": 30
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -12819,7 +12819,7 @@
             "name": "Wych Waffen",
             "modes": [
                 {
-                    "firepower": "Assault Weapons",
+                    "firepower": "Sturmwaffen",
                     "specialRules": [
                         "FS"
                     ]
@@ -12841,7 +12841,7 @@
             "name": "Zephyrgleve",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "FS"
                     ]
@@ -12854,7 +12854,7 @@
             "name": "Boltergewehr",
             "modes": [
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -12865,7 +12865,7 @@
             "name": "Schwere Boltpistole \u0026 Kettenschwert",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -12885,7 +12885,7 @@
             "name": "Sturmbolter",
             "modes": [
                 {
-                    "firepower": "Assault Weapon",
+                    "firepower": "Sturmwaffe",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -12909,7 +12909,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -12928,7 +12928,7 @@
                     ]
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "IC"
@@ -13046,7 +13046,7 @@
                     "range": 15
                 },
                 {
-                    "firepower": "Small Arms",
+                    "firepower": "Handfeuerwaffen",
                     "join": "and",
                     "specialRules": [
                         "MW"
@@ -13154,7 +13154,7 @@
       "description": "Right Arc"
     },
     {
-      "name": "Rear",
+      "name": "Heck",
       "description": "Rear Arc"
     },
     {

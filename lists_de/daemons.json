@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Streitkräfte der Dämonenlegion",
     "specialRules": [
@@ -16,7 +16,7 @@
           "Peitsche der Qual"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Anführer",
@@ -27,10 +27,10 @@
           "Geländegängig",
           "Augment Summoning (+W3)"
         ],
-        "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
+        "crit": "Exalted Greater Daemon wird zerstört. Alle beschworenen Dämonen innerhalb von 5cm werden zerstört."
       },
       {
-        "name": "Keeper of Secrets",
+        "name": "Hüter der Geheimnisse",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -41,7 +41,7 @@
           "Peitsche der Qual"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
@@ -49,7 +49,7 @@
           "Geländegängig",
           "Augment Summoning (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
+        "crit": "Greater Daemon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört"
       },
       {
         "name": "Herald of Slaanesh",
@@ -141,7 +141,7 @@
           "Filth Streitkolben"
         ],
         "specialRules": [
-          "Damage Capacity 5",
+          "Schadenskapazität5",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Anführer",
@@ -152,10 +152,10 @@
           "Geländegängig",
           "Augment Summoning (+W3)"
         ],
-        "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
+        "crit": "Exalted Greater Daemon wird zerstört. Alle beschworenen Dämonen innerhalb von 5cm werden zerstört."
       },
       {
-        "name": "Great Unclean One",
+        "name": "Großer Verpester",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -166,7 +166,7 @@
           "Filth Streitkolben"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
@@ -174,7 +174,7 @@
           "Geländegängig",
           "Augment Summoning (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
+        "crit": "Greater Daemon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört"
       },
       {
         "name": "Herald of Nurgle on Palanquin",
@@ -270,7 +270,7 @@
           "Peitsche des Khorne"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Anführer",
@@ -282,10 +282,10 @@
           "Jump Pack",
           "Augment Summoning (+W3)"
         ],
-        "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
+        "crit": "Exalted Greater Daemon wird zerstört. Alle beschworenen Dämonen innerhalb von 5cm werden zerstört."
       },
       {
-        "name": "Bloodthirster",
+        "name": "Blutdämon",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -296,7 +296,7 @@
           "Peitsche des Khorne"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
@@ -305,7 +305,7 @@
           "Jump Pack",
           "Augment Summoning (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
+        "crit": "Greater Daemon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört"
       },
       {
         "name": "Herald of Khorne on Skull Cannon",
@@ -398,7 +398,7 @@
           "Bedlam Stab"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Anführer",
@@ -410,10 +410,10 @@
           "Jump Pack",
           "Augment Summoning (+W3)"
         ],
-        "crit": "The Exalted Greater Daemon is destroyed. All Daemon units within 5cm are destroyed."
+        "crit": "Exalted Greater Daemon wird zerstört. Alle Dämonen-Einheiten innerhalb von 5cm werden zerstört."
       },
       {
-        "name": "Lord of Change",
+        "name": "Herrscher des Wandels",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -424,7 +424,7 @@
           "Bedlam Stab"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
@@ -433,7 +433,7 @@
           "Jump Pack",
           "Augment Summoning (+1)"
         ],
-        "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+."
+        "crit": "Greater Daemon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört."
       },
       {
         "name": "Herald of Tzeentch",

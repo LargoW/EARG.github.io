@@ -16,22 +16,22 @@
       "units": [
         "Shas'o",
         "Shas'el",
-        "Fire Warriors",
-        "Gun Drones",
-        "Marker Drones",
-        "Missile Drones",
-        "Shield Drones",
-        "XV8 Crisis Battlesuits",
-        "XV15 Stealth Battlesuits",
-        "Devilfish",
-        "Sky Ray",
-        "XV88 Broadside Battlesuit",
-        "XV95 Ghostkeel Battlesuit",
-        "XV107 R'varna Battlesuit",
-        "XV109 Y'vahra Battlesuit",
-        "XV104 Riptide Battlesuit",
-        "KV128 Stormsurge Ballistic Suit",
-        "KX139 Ta'unar Supremacy Armour"
+        "Feuerkrieger",
+        "Angriffsdrohnen",
+        "Markiererdrohnen",
+        "Raketen-Drohnen",
+        "Schilddrohnen",
+        "XV8 Krisis-Kampfanzüge",
+        "XV15 Geist-Kampfanzüge",
+        "Teufelsrochen",
+        "Dornenhai",
+        "XV88 Koloss-Kampfanzug",
+        "XV95 Schattengeist-Kampfanzug",
+        "XV107 R'varna-Kampfanzug",
+        "XV109 Y'vahra-Kampfanzug",
+        "XV104 Sturmflut-Kampfanzug",
+        "KV128 Sturmwoge-Ballistikanzug",
+        "KX139 Ta'unar-Vorherrschaftsrüstung"
       ],
       "unitRules": [
         "Coordinated Fire",
@@ -47,9 +47,9 @@
       "from": "tauNavy.json",
       "units": [
         "Barracuda",
-        "Tiger Shark Bomber",
-        "Custodian Class Battleship",
-        "Protector Class Cruiser"
+        "Schwertfisch-Jagdbomber",
+        "Schlachtschiff der Custodian-Klasse",
+        "Kreuzer der Protector-Klasse"
       ],
       "unitRules": [
       ]
@@ -99,7 +99,7 @@
           "extraUnits": [
             "Broadsides",
             "Drones",
-            "Sky Ray"
+            "Dornenhai"
           ],
           "points": 225
         },
@@ -107,7 +107,7 @@
           "name": "Drone Group",
           "units": "Acht Gun Drones",
           "extraUnits": [
-            "Ersetze two Gun Drones durch two Missile Drones oder two Shield Drones (kostenlos), oder two Marker Drones (25 Punkte)"
+            "Ersetze zwei Gun Drones durch zwei Missile Drones oder zwei Shield Drones (kostenlos), oder zwei Marker Drones (25 Punkte)"
           ],
           "points": 150
         },
@@ -115,7 +115,7 @@
           "name": "Stealth Group",
           "units": "Sechs XV15 Stealth Battlesuits",
           "extraUnits": [
-            "Ersetze three XV15 Stealth Battlesuits durch three XV95 Ghostkeel Battlesuits: 75 Punkte",
+            "Ersetze drei XV15 Stealth Battlesuits durch drei XV95 Ghostkeel Battlesuits: 75 Punkte",
             "Drones"
           ],
           "points": 225
@@ -141,25 +141,25 @@
         },
         {
           "name": "KV128 Stormsurge Suit",
-          "units": "Ein KV128 Stormsurge Ballistic Suit (Standard oder Support Configuration)",
+          "units": "Ein KV128 Stormsurge Ballistic Suit (Standard- oder Support-Konfiguration)",
           "points": 225
         },
         {
           "name": "KX139 Supremacy Armour",
-          "units": "Ein Shas'el, ein KX139 Ta'unar Supremacy Armour",
+          "units": "Ein Shas'el, ein KX139 Ta'unar-Vorherrschaftsrüstung",
           "points": 500
         },
         {
           "name": "Tiger Shark Squadron",
           "units": "Zwei Tiger Shark Bombers",
           "extraUnits": [
-            "Füge sechs Gun Drones oder six Missile Drones hinzu: 75 Punkte"
+            "Füge sechs Gun Drones oder sechs Missile Drones hinzu: 75 Punkte"
           ],
           "points": 175
         },
         {
-          "name": "0–1 Spacecraft",
-          "units": "Protector Class Cruiser",
+          "name": "0–1 Raumschiff",
+          "units": "Kreuzer der Protector-Klasse",
           "extraUnits": [
             "Ersetze den Protector durch ein Custodian Class Battleship: 25 Punkte"
           ],
@@ -170,46 +170,46 @@
   ],
   "upgrades": {
     "title": "Upgrades",
-    "description": "Each upgrade may be taken once by a formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
         "name": "Broadsides",
         "description": "Füge drei XV88 Broadside Battlesuits hinzu",
-        "points": "125 points"
+        "points": "125 Punkte"
       },
       {
         "name": "0–1 Shas'o",
-        "description": "Ersetze one Shas'el character durch a Shas'o character",
-        "points": "75 points"
+        "description": "Ersetze einen Shas'el-Charakter durch einen Shas'o-Charakter",
+        "points": "75 Punkte"
       },
       {
         "name": "Crisis Suits",
         "description": "Füge zwei XV8 Crisis Battlesuits hinzu",
-        "points": "75 points"
+        "points": "75 Punkte"
       },
       {
         "name": "Drones",
-        "description": "Füge any one aus folgender Auswahl upgrades zur Formation hinzu",
+        "description": "Füge dem Verband eine der folgenden Aufwertungen hinzu",
         "options": [
           {
-            "description": "Two Gun Drones, Missile Drones oder Shield Drones",
-            "points": "25 points"
+            "description": "Zwei Gun Drones, Missile Drones oder Shield Drones",
+            "points": "25 Punkte"
           },
           {
-            "description": "Two Marker Drones",
-            "points": "50 points"
+            "description": "Zwei Marker Drones",
+            "points": "50 Punkte"
           }
         ]
       },
       {
-        "name": "Sky Ray",
+        "name": "Dornenhai",
         "description": "Füge 1 Sky Ray hinzu",
-        "points": "100 points"
+        "points": "100 Punkte"
       },
       {
         "name": "Heavy Battlesuits",
         "description": "Füge bis zu zwei XV104 Riptide Battlesuits, XV107 R'Varna Battlesuits oder XV109 Y'Vahra Battlesuits hinzu (die Formation darf keine Mischung aus Heavy Battlesuits enthalten).",
-        "points": "75 points each"
+        "points": "75 Punkte pro Stück"
       }
     ]
   }

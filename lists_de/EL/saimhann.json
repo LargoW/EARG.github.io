@@ -21,34 +21,34 @@
     {
       "from": "EL.json",
       "units": [
-        "Wild Rider Chieftain",
-        "Avatar",
-        "Eldar Exarch",
-        "Eldar Guardians",
-        "Eldar Farseer",
-        "Saim-Hann Beritten Farseer",
-        "Heavy Weapon Platform",
-        "Wraithguards",
-        "War Geländegängig",
-        "Saim-Hann Wild Riders",
-        "Saim-Hann Shroud Runners",
-        "Dire Avengers",
-        "Fire Dragons",
-        "Dark Reapers",
-        "Howling Banshees",
-        "Striking Scorpions",
-        "Shining Spears",
-        "Swooping Hawks",
-        "Saim-Hann Hornet",
-        "Saim-Hann Vyper",
-        "Wave Serpent",
+        "Häuptling der Wilden Reiter",
+        "Avatar des Khaine",
+        "Eldar-Exarch",
+        "Eldar-Gardisten",
+        "Eldar-Runenprophet",
+        "Berittener Runenprophet von Saim-Hann",
+        "Eldar-Schwerwaffenplattform",
+        "Phantomdroiden",
+        "Kampfläufer",
+        "Wilde Reiter von Saim-Hann",
+        "Schleierläufer von Saim-Hann",
+        "Asuryans Jäger",
+        "Feuerdrachen",
+        "Schwarze Kaindar",
+        "Banshees",
+        "Skorpionkrieger",
+        "Sternenlanzen",
+        "Kriegsfalken",
+        "Saim-Hann-Hornet",
+        "Saim-Hann-Viper",
+        "Wellenschlange",
         "Falcon",
-        "Fire Prism",
-        "Night Spinner",
-        "Firestorm",
-        "Scorpion",
-        "Cobra",
-        "Storm Serpent",
+        "Illum Zar",
+        "Nachtspinne",
+        "Feuersturm",
+        "Skorpion",
+        "Kobra",
+        "Sturmserpent",
         "Revenant Titan"
       ],
         "unitRules": [
@@ -62,11 +62,11 @@
     {
       "from": "eldarNavy.json",
       "units": [
-        "Nightwing Interceptor",
-        "Phoenix Bomber",
+        "Nachtschwinge-Abfangjäger",
+        "Phönix-Bomber",
         "Vampire Hunter",
-        "Wraithship",
-        "Dragonship"
+        "Phantomschiff",
+        "Drachenschiff"
       ],
       "unitRules": [
       ]
@@ -82,7 +82,7 @@
           "points": 0
         },
         {
-          "name": "0-1 Wraithgate",
+          "name": "0–1 Wraithgate",
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
           "points": 50
         }
@@ -96,8 +96,8 @@
                 "name": "Wild Rider Warhost",
                 "units": "Acht Saim-Hann Wild Riders, Saim-Hann Beritten Farseer",
                 "extraUnits": [
-                    "Ersetze bis zu three Wild Riders durch Saim-Hann Vypers und/oder Shroud Runners: kostenlos",
-                    "(0-1 per army) Replace one unit of Wild Riders with a Wild Rider Chieftain: 50 points",
+                    "Ersetze bis zu drei Wild Riders durch Saim-Hann Vypers und/oder Shroud Runners: kostenlos",
+                    "(0–1 pro Armee) Ersetze eine Einheit Wild Riders durch einen Wild Rider Chieftain: 50 Punkte",
                     "Füge bis zu zwei Saim-Hann Hornets hinzu: 50 Punkte pro Stück"
                 ],
                 "points": 275
@@ -106,7 +106,7 @@
                 "name": "Beritten Guardian Warhost",
                 "units": "Drei Wave Serpents, Farseer, fünf Guardians",
                 "extraUnits": [
-                    "Ersetze two Eldar Guardians durch two Eldar Heavy Weapon Platforms (kostenlos) oder one Wraithguards (25 Punkte)",
+                    "Ersetze zwei Eldar Guardians durch zwei Eldar Heavy Weapon Platforms (kostenlos) oder ein Wraithguards (25 Punkte)",
                     "Füge 1 Firestorm hinzu: 50 Punkte"
                 ],
                 "points": 250
@@ -130,7 +130,7 @@
                 "name": "Wild Rider Troupe",
                 "units": "Sechs Saim-Hann Wild Riders",
                 "extraUnits": [
-                    "Ersetze bis zu three Wild Riders durch Saim-Hann Vypers und/oder Shroud Runners: kostenlos",
+                    "Ersetze bis zu drei Wild Riders durch Saim-Hann Vypers und/oder Shroud Runners: kostenlos",
                     "Füge bis zu zwei Saim-Hann Hornets hinzu: 50 Punkte pro Stück"
                 ],
                 "points": 200
@@ -183,10 +183,10 @@
                 "points": 175
             },
             {
-                "name": "War Geländegängig Troupe",
-                "units": "Vier War Geländegängigs",
+                "name": "War Walker Troupe",
+                "units": "Vier War Walkers",
                 "extraUnits": [
-                    "Füge bis zu zwei War Geländegängigs hinzu: 25 Punkte pro Stück"
+                    "Füge bis zu zwei War Walkers hinzu: 25 Punkte pro Stück"
                 ],
                 "points": 150
             }
@@ -221,12 +221,12 @@
           "name": "Revenants",
           "units": "Zwei Revenant Titans",
           "extraUnits": [
-            "Give the formation the 'Independent Twins' special rule: 50 points"
+            "Gib dem Verband die Sonderregel 'Independent Twins': 50 Punkte"
           ],
           "points": 650
         },
         {
-          "name": "0-1 Spacecraft",
+          "name": "0–1 Raumschiff",
           "units": "Ein Wraithship",
           "extraUnits": [
             "Ersetze durch ein Dragonship: 125 Punkte"

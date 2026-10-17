@@ -36,17 +36,17 @@
     {
       "from": "IG.json",
       "units": [
-        "Infantry",
-        "Fire Support Squad",
+        "Infanterie",
+        "Feuerunterstützungstrupp",
         "Ogryns",
-        "Rough Riders",
+        "Kavallerie",
         "Sentinel",
         "Basilisk",
-        "Chimera",
-        "Griffon",
-        "Hellhound",
+        "Chimäre",
+        "Greif",
+        "Höllenhund",
         "Hydra",
-        "Leman Russ",
+        "Leman Russ Kampfpanzer",
         "Leman Russ Demolisher",
         "Leman Russ Thunderer",
         "Shadowsword",
@@ -76,17 +76,17 @@
     {
       "from": "darkmechanicus.json",
       "units": [
-        "Defiler",
-        "Decimator",
-        "Death Wheel",
-        "Hell-Knight",
-        "Hell-Scourge",
-        "Plague Tower",
-        "Plague Reaper",
-        "Daemonic Assault Engine",
-        "Lord of Battles",
-        "Silver Tower",
-        "Warp Palace"
+        "Geißel",
+        "Dezimator",
+        "Todesrad",
+        "Höllenritter",
+        "Höllengeißel",
+        "Seuchenturm",
+        "Seuchenschnitter",
+        "Dämonische Sturmmaschine",
+        "Herr der Schlachten",
+        "Silberturm",
+        "Warp-Palast"
       ],
       "unitRules": [
         "Regeneration",
@@ -111,9 +111,9 @@
       "formations": [
         {
           "name": "Traitor Guard",
-          "units": "One Fallen Befehlshaber, nine units of Infantry",
+          "units": "Ein Fallen Befehlshaber, neun Einheiten von Infantry",
           "extraUnits": [
-            "All"
+            "Alle"
           ],
           "points": 200
         }
@@ -125,27 +125,27 @@
       "formations": [
         {
           "name": "Flak Battery",
-          "units": "Three Hydras",
+          "units": "Drei Hydras",
           "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Artillery Battery",
-          "units": "Three Basilisks",
+          "units": "Drei Basilisks",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Sentinel Squadron",
-          "units": "Four Sentinels",
+          "units": "Vier Sentinels",
           "extraUnits": [],
           "points": 100
         },
         {
           "name": "Rough Rider Platoon",
-          "units": "Six Rough Riders",
+          "units": "Sechs Rough Riders",
           "extraUnits": [
             "Daemonic Icon"
           ],
@@ -153,22 +153,22 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade",
+          "units": "Ein Baneblade",
           "extraUnits": [
-            "Ersetze den Baneblade durch a Shadowsword: 25 Punkte"
+            "Ersetze den Baneblade durch ein Shadowsword: 25 Punkte"
           ],
           "points": 175
         },
         {
           "name": "Leman Russ Squadron",
-          "units": "Four chosen from: Leman Russ, Leman Russ Demolisher, Leman Russ Thunderer",
+          "units": "Vier ausgewählt aus: Leman Russ, Leman Russ Demolisher, Leman Russ Thunderer",
           "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Griffon Battery",
-          "units": "Three Griffons",
+          "units": "Drei Griffons",
           "extraUnits": [
           ],
           "points": 175
@@ -181,17 +181,17 @@
       "formations": [
         {
           "name": "Hell Blade Squadron",
-          "units": "Three Hell Blade Interceptors",
+          "units": "Drei Hell Blade Interceptors",
           "points": 175
         },
         {
           "name": "Hell Talon Squadron",
-          "units": "Two Hell Talon Fighter-Bombers",
+          "units": "Zwei Hell Talon Fighter-Bombers",
           "points": 225
         },
         {
           "name": "Chaos Space Marines of Chaos Undivided",
-          "units": "Six Chaos Space Marines, three Chaos Rhinos",
+          "units": "Sechs Chaos Space Marines, drei Chaos Rhinos",
           "extraUnits": [
             "Füge Daemonic Pact zum Verband hinzu: 25 Punkte"
           ],
@@ -199,59 +199,59 @@
         },
         {
           "name": "Decimator of Chaos Undivided",
-          "units": "One Decimator",
+          "units": "Ein Decimator",
           "points": 225
         },
         {
           "name": "Defilers of Chaos Undivided",
-          "units": "Four Defilers",
+          "units": "Vier Defilers",
           "points": 250
         },
         {
           "name": "Death Wheel of Chaos Undivided",
-          "units": "One Death Wheel",
+          "units": "Ein Death Wheel",
           "upgrades": [
           ],
           "points": 300
         },
         {
           "name": "Hell-Knights",
-          "units": "Three Hell-Knights",
+          "units": "Drei Hell-Knights",
           "points": 325
         },
         {
           "name": "Hell-Scourges",
-          "units": "Three Hell-Scourges",
+          "units": "Drei Hell-Scourges",
           "points": 325
         },
         {
           "name": "Plague Reaper of Nurgle",
-          "units": "One Plague Reaper",
+          "units": "Ein Plague Reaper",
           "points": 200
         },
         {
           "name": "Plague Tower of Nurgle",
-          "units": "One Plague Tower",
+          "units": "Ein Plague Tower",
           "points": 200
         },
         {
           "name": "Daemonic Assault Engines of Khorne",
-          "units": "Four Daemonic Assault Engines",
+          "units": "Vier Daemonic Assault Engines",
           "points": 225
         },
         {
           "name": "Khorne Lord of Battles",
-          "units": "One Lord of Battles",
+          "units": "Ein Lord of Battles",
           "points": 425
         },
         {
           "name": "Silver Towers of Tzeentch",
-          "units": "Four Silver Towers",
+          "units": "Vier Silver Towers",
           "points": 275
         },
         {
           "name": "Warp Palace of Tzeentch",
-          "units": "One Warp Palace",
+          "units": "Ein Warp Palace",
           "points": 450
         }
       ]
@@ -262,7 +262,7 @@
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool points",
+          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool",
           "points": 20
         }
       ]
@@ -277,81 +277,81 @@
         "options": [
           {
             "description": "Füge 1 Daemonic Icon zu einem Fallen Befehlshaber oder Daemon Prince hinzu",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
             "description": "Füge 1 Daemonic Icon zu einer Einheit von Rough Riders hinzu",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0–1 Oberbefehlshaber",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
             "description": "Füge 1 Arch-Heretic zu einem Fallen Befehlshaber hinzu",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "Werte den Fallen Befehlshaber zu einem Daemon Prince auf",
-            "points": "100 points"
+            "points": "100 Punkte"
           }
         ]
       },
       {
         "name": "Fire Support Platoon",
         "description": "Füge bis zu 2 Fire Support Squads hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Ogryns",
         "description": "Füge bis zu 2 Einheiten von Ogryns hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Flak",
         "description": "Füge 1 Hydra hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Hellhounds",
         "description": "Füge 1 Hellhound hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Griffons",
         "description": "Füge 1 Griffon hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
-        "name": "Leman Russ",
+        "name": "Leman Russ Kampfpanzer",
         "description": "Füge 1 oder 3 Leman Russ, Leman Russ Demolishers oder Leman Russ Thunderers hinzu",
         "options": [
           {
             "description": "Eine Leman-Russ-Variante",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "Drei Leman Russ derselben Variante",
-            "points": "150 points"
+            "points": "150 Punkte"
           }
         ]
       },
       {
         "name": "Mutants",
         "description": "Füge bis zu 4 Mutants hinzu",
-        "points": "10 points each"
+        "points": "10 Punkte pro Stück"
       },
       {
         "name": "Technicals",
         "description": "Füge bis zu 2 Technicals hinzu",
-        "points": "20 points each"
+        "points": "20 Punkte pro Stück"
       },
       {
         "name": "Chaos Spawn",
         "description": "Füge 1 Chaos Spawn hinzu",
-        "points": "35 points"
+        "points": "35 Punkte"
       },
       {
         "name": "Transporter",
@@ -359,11 +359,11 @@
         "options": [
           {
             "description": "Füge beliebig viele Land Transporters hinzu",
-            "points": "10 points each"
+            "points": "10 Punkte pro Stück"
           },
           {
             "description": "Füge beliebig viele Chimeras hinzu",
-            "points": "25 points each"
+            "points": "25 Punkte pro Stück"
           }
         ]
       }

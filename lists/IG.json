@@ -44,7 +44,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|",
+          "Heavy Maschinengewehr|2|",
           "Power Weapon"
         ],
         "specialRules": [
@@ -59,7 +59,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|",
+          "Heavy Maschinengewehr|2|",
           "Power Weapon"
         ],
         "specialRules": [
@@ -179,7 +179,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|"
+          "Heavy Maschinengewehr|2|"
         ],
         "specialRules": [
           "Befehlshaber"
@@ -208,7 +208,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|"
+          "Heavy Maschinengewehr|2|"
         ],
         "specialRules": [
           "Befehlshaber"
@@ -330,12 +330,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber",
+          "Heavy Maschinengewehr",
           "Autoguns"
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has a Heavy Stubber"
+        "notes": "One in every two units (rounding up) has a Heavy Maschinengewehr"
       },
       {
         "name": "Siege Infantry",
@@ -344,7 +344,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber",
+          "Heavy Maschinengewehr",
           "Lasguns"
         ],
         "specialRules": [
@@ -611,7 +611,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Heavy Stubber|2|",
+          "Heavy Maschinengewehr|2|",
           "Heavy Flamer"
         ],
         "specialRules": [
@@ -775,7 +775,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Autocannon"
+          "Zwillings Autocannon"
         ]
       },
       {
@@ -786,7 +786,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber Turret"
+          "Schweres Zwillings Maschinengewehr Turret"
         ],
         "specialRules": [
         ]
@@ -922,7 +922,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Heavy Maschinengewehr"
         ],
         "specialRules": [
           "Transport"
@@ -937,7 +937,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Assault Cannon"
+          "Zwillings Assault Cannon"
         ],
         "specialRules": [
           "Geländegängig",
@@ -953,7 +953,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Heavy Maschinengewehr"
         ],
         "specialRules": [
           "Transport: One Infantry unit, and one Rapier oder Thudd Gun"
@@ -996,7 +996,7 @@
           "Deathstrike Missile|2"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Deathstrike Silo is destroyed. All units within 10cm takes a hit."
@@ -1157,7 +1157,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Hydra Autocannon|2",
+          "Zwillings Hydra Autocannon|2",
           "Heavy Bolter"
         ],
         "specialRules": [
@@ -1182,7 +1182,7 @@
         "ff": 5,
         "weapons": [
           "Ragnarok Battle Cannon",
-          "Heavy Stubber|2|"
+          "Heavy Maschinengewehr|2|"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1198,7 +1198,7 @@
         "ff": 4,
         "weapons": [
           "Battle Cannon",
-          "Lascannon",
+          "Laserkanone",
           "Heavy Bolter|2|"
         ],
         "specialRules": [
@@ -1213,8 +1213,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Lascannon",
-          "Lascannon",
+          "Zwillings Laserkanone",
+          "Laserkanone",
           "Multi-Melta|2|"
         ],
         "specialRules": [
@@ -1229,7 +1229,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Autocannon",
+          "Zwillings Autocannon",
           "Heavy Flamer",
           "Heavy Bolter|2|"
         ],
@@ -1246,7 +1246,7 @@
         "ff": 5,
         "weapons": [
           "Plasma Destroyer",
-          "Lascannon",
+          "Laserkanone",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
@@ -1292,7 +1292,7 @@
         "ff": 3,
         "weapons": [
           "Demolisher",
-          "Lascannon",
+          "Laserkanone",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
@@ -1323,7 +1323,7 @@
         "ff": 4,
         "weapons": [
           "Vanquisher Cannon",
-          "Lascannon",
+          "Laserkanone",
           "Heavy Bolter|2|"
         ],
         "specialRules": [
@@ -1339,7 +1339,7 @@
         "ff": 3,
         "weapons": [
           "Punisher Gatling Cannon",
-          "Lascannon",
+          "Laserkanone",
           "Heavy Bolter|2|"
         ],
         "specialRules": [
@@ -1389,7 +1389,7 @@
         "ff": 5,
         "weapons": [
           "Hellstrike Missiles|2|",
-          "Twin Autocannon",
+          "Zwillings Autocannon",
           "Heavy Bolter"
         ],
         "specialRules": [
@@ -1405,7 +1405,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Lascannon Array",
+          "Laserkanone Array",
           "Heavy Bolter|2|"
         ],
         "specialRules": [
@@ -1438,9 +1438,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon",
+          "Zwillings Laserkanone",
           "Demolisher",
-          "Heavy Stubber|2|"
+          "Heavy Maschinengewehr|2|"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1500,7 +1500,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Earthshaker Cannon"
+          "Zwillings Earthshaker Cannon"
         ],
         "specialRules": [
         ],
@@ -1514,8 +1514,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Battle Cannon",
-          "Twin Heavy Stubber",
+          "Zwillings Battle Cannon",
+          "Schweres Zwillings Maschinengewehr",
           "Heavy Bolter|2|"
         ],
         "specialRules": [
@@ -1530,16 +1530,16 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Vanquisher Cannon|0-1|",
+          "Zwillings Vanquisher Cannon|0-1|",
           "Vulcan Mega-Bolter|0-1|",
-          "Twin Heavy Stubber||",
+          "Schweres Zwillings Maschinengewehr||",
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
-        "notes": "Must be equipped with either Twin Vanquisher Cannon oder a Vulcan Mega-Bolter.",
+        "notes": "Must be equipped with either Zwillings Vanquisher Cannon oder a Vulcan Mega-Bolter.",
         "crit": "The Macharius is destroyed."
       },
       {
@@ -1550,11 +1550,11 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Ragnarok Battle Cannon",
-          "Twin Heavy Stubber|3|FxF"
+          "Zwillings Ragnarok Battle Cannon",
+          "Schweres Zwillings Maschinengewehr|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Macharius is destroyed."
@@ -1568,10 +1568,10 @@
         "ff": 4,
         "weapons": [
           "Medusa Siege Gun||FxF",
-          "Twin Heavy Stubber|3|"
+          "Schweres Zwillings Maschinengewehr|3|"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Macharius is destroyed."
@@ -1585,10 +1585,10 @@
         "ff": 5,
         "weapons": [
           "Planetary Defense Laser",
-          "Twin Heavy Stubber|3|"
+          "Schweres Zwillings Maschinengewehr|3|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All units within 5cm of the model suffer a hit on a roll of 4+."
@@ -1601,10 +1601,10 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Heavy Stubber|4|"
+          "Schweres Zwillings Maschinengewehr|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"
@@ -1623,11 +1623,11 @@
           "Baneblade Cannon",
           "Autocannon",
           "Demolisher||FxF",
-          "Lascannon|2|FxF",
-          "Twin Heavy Bolter|3|FxF"
+          "Laserkanone|2|FxF",
+          "Schweres Zwillings Bolter|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1643,11 +1643,11 @@
           "Hellhammer Cannon",
           "Autocannon",
           "Demolisher||FxF",
-          "Twin Heavy Bolter|3|FxF",
+          "Schweres Zwillings Bolter|3|FxF",
           "Heavy Flamer|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1661,11 +1661,11 @@
         "ff": 4,
         "weapons": [
           "Vulcan Mega-Bolter||FxF",
-          "Twin Heavy Bolter||FxF",
-          "Twin Heavy Flamer  |2|"
+          "Schweres Zwillings Bolter||FxF",
+          "Schweres Zwillings Flamer  |2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Transport"
         ],
@@ -1681,10 +1681,10 @@
         "ff": 4,
         "weapons": [
           "Tremor Cannon||FxF",
-          "Twin Heavy Bolter|2|FxF"
+          "Schweres Zwillings Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Transport"
         ],
@@ -1699,10 +1699,10 @@
         "ff": 5,
         "weapons": [
           "Volcano Cannon||FxF",
-          "Twin Heavy Bolter|2|FxF"
+          "Schweres Zwillings Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1716,11 +1716,11 @@
         "ff": 4,
         "weapons": [
           "Stormblade Blastgun||FxF",
-          "Lascannon|2|FxF",
-          "Twin Heavy Bolter|3|FxF"
+          "Laserkanone|2|FxF",
+          "Schweres Zwillings Bolter|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1734,11 +1734,11 @@
         "ff": 4,
         "weapons": [
           "Siege Cannon||FxF",
-          "Twin Heavy Bolter|3|FxF",
+          "Schweres Zwillings Bolter|3|FxF",
           "Heavy Flamer |2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1751,13 +1751,13 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Twin Ragnarok Battle Cannon||",
-          "Twin Ragnarok Battle Cannon||FxF",
-          "Quad Lascannon||FxF",
+          "Zwillings Ragnarok Battle Cannon||",
+          "Zwillings Ragnarok Battle Cannon||FxF",
+          "Quad Laserkanone||FxF",
           "Quad Heavy Bolter|2|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."

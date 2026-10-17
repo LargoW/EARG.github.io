@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Catachan Oberbefehlshaber",
+        "name": "Catachanischer Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "name": "Steel Legion Oberbefehlshaber",
+        "name": "Oberbefehlshaber der Stahllegion",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -37,14 +37,14 @@
         ]
       },
       {
-        "name": "Baran Siegemaster",
+        "name": "Baran-Belagerungsmeister",
         "type": "INF",
         "speed": 15,
         "armour": 4,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Schwerer Stubber|2|",
+          "Schwerer Maschinengewehr|2|",
           "Energiewaffe"
         ],
         "specialRules": [
@@ -52,14 +52,14 @@
         ]
       },
       {
-        "name": "DKoK Oberbefehlshaber",
+        "name": "Oberbefehlshaber des Todeskorps von Krieg",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Schwerer Stubber|2|",
+          "Schwerer Maschinengewehr|2|",
           "Energiewaffe"
         ],
         "specialRules": [
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "name": "Cadian Oberbefehlshaber",
+        "name": "Cadianischer Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -82,7 +82,7 @@
         ]
       },
       {
-        "name": "Elysian Oberbefehlshaber",
+        "name": "Elysianischer Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "name": "Lord Commissar",
+        "name": "Lord-Kommissar",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -110,7 +110,7 @@
         ]
       },
       {
-        "name": "Valhallan Oberbefehlshaber",
+        "name": "Valhallanischer Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -126,7 +126,7 @@
         ]
       },
       {
-        "name": "Elysian Befehlshaber",
+        "name": "Elysianischer Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -141,7 +141,7 @@
         ]
       },
       {
-        "name": "Catachan Befehlshaber",
+        "name": "Catachanischer Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -158,7 +158,7 @@
         ]
       },
       {
-        "name": "Steel Legion Befehlshaber",
+        "name": "Befehlshaber der Stahllegion",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -172,21 +172,21 @@
         ]
       },
       {
-        "name": "Baran Befehlshaber",
+        "name": "Baran-Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Schwerer Stubber|2|"
+          "Schwerer Maschinengewehr|2|"
         ],
         "specialRules": [
           "Befehlshaber"
         ]
       },
       {
-        "name": "Valhallan Befehlshaber",
+        "name": "Valhallanischer Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -201,21 +201,21 @@
         ]
       },
       {
-        "name": "DKoK Befehlshaber",
+        "name": "Befehlshaber des Todeskorps von Krieg",
         "type": "INF",
         "speed": 15,
         "armour": 6,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Schwerer Stubber|2|"
+          "Schwerer Maschinengewehr|2|"
         ],
         "specialRules": [
           "Befehlshaber"
         ]
       },
       {
-        "name": "Commissar-Captain",
+        "name": "Kommissarkapitän",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "name": "PDF Befehlshaber",
+        "name": "Befehlshaber der Planetaren Verteidigungsstreitkräfte",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "name": "Cadian Befehlshaber",
+        "name": "Cadianischer Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -270,7 +270,7 @@
         ]
       },
       {
-        "name": "Commissar",
+        "name": "Kommissar",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -282,7 +282,7 @@
         ]
       },
       {
-        "name": "Infantry",
+        "name": "Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -296,7 +296,7 @@
         "notes": "Jede zweite Einheit (aufgerundet) ist mit einer Maschinenkanone bewaffnet."
       },
       {
-        "name": "Tank Infantry",
+        "name": "Panzerinfanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -310,7 +310,7 @@
         ]
       },
       {
-        "name": "Valhallan Infantry",
+        "name": "Valhallanische Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -324,13 +324,13 @@
         "notes": "Jede zweite Einheit (aufgerundet) ist mit einem Schweren Bolter bewaffnet."
       },
       {
-        "name": "PDF Infantry",
+        "name": "Infanterie der Planetaren Verteidigungsstreitkräfte",
         "type": "INF",
         "speed": 15,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schwerer Stubber",
+          "Schwerer Maschinengewehr",
           "Automatikgewehre"
         ],
         "specialRules": [
@@ -338,20 +338,20 @@
         "notes": "Jede zweite Einheit (aufgerundet) ist mit einem Schweren Maschinengewehr bewaffnet."
       },
       {
-        "name": "Siege Infantry",
+        "name": "Belagerungsinfanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schwerer Stubber",
+          "Schwerer Maschinengewehr",
           "Lasergewehre"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Assault Infantry",
+        "name": "Sturminfanterie",
         "type": "INF",
         "speed": 15,
         "cc": 5,
@@ -378,7 +378,7 @@
         ]
       },
       {
-        "name": "Whiteshields",
+        "name": "Weißschilde",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -390,7 +390,7 @@
         ]
       },
       {
-        "name": "Catachan Infantry",
+        "name": "Catachanische Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 4,
@@ -403,7 +403,7 @@
         ]
       },
       {
-        "name": "Mortar Team",
+        "name": "Mörserteam",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -415,7 +415,7 @@
         ]
       },
       {
-        "name": "Flakk Team",
+        "name": "Flakteam",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -442,7 +442,7 @@
         "notes": "Zählt beim Transport als zwei INF-Einheiten."
       },
       {
-        "name": "Death Riders",
+        "name": "Todesreiter",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -459,7 +459,7 @@
         ]
       },
       {
-        "name": "Rough Riders",
+        "name": "Kavallerie",
         "type": "INF",
         "speed": 20,
         "armour": 6,
@@ -477,7 +477,7 @@
         ]
       },
       {
-        "name": "Scharfschützes",
+        "name": "Scharfschützen",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -490,7 +490,7 @@
         ]
       },
       {
-        "name": "Death World Veterans",
+        "name": "Todesweltveteranen",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -505,7 +505,7 @@
         ]
       },
       {
-        "name": "Catachan Devils",
+        "name": "Catachanische Teufel",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -535,7 +535,7 @@
         ]
       },
       {
-        "name": "Grenadiers",
+        "name": "Grenadiere",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -549,7 +549,7 @@
         ]
       },
       {
-        "name": "Sappers",
+        "name": "Pioniere",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -564,7 +564,7 @@
         ]
       },
       {
-        "name": "Storm Troopers",
+        "name": "Stoßtruppen",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -578,7 +578,7 @@
         ]
       },
       {
-        "name": "Elysian Storm Troopers",
+        "name": "Elysianische Stoßtruppen",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -593,7 +593,7 @@
         ]
       },
       {
-        "name": "Fire Support Squad",
+        "name": "Feuerunterstützungstrupp",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -605,20 +605,20 @@
         ]
       },
       {
-        "name": "Baran Fire Support Squad",
+        "name": "Baran-Feuerunterstützungstrupp",
         "type": "INF",
         "speed": 15,
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Schwerer Stubber|2|",
+          "Schwerer Maschinengewehr|2|",
           "Schwerer Flammenwerfer"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Elysian Fire Support Squad",
+        "name": "Elysianischer Feuerunterstützungstrupp",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -632,7 +632,7 @@
         ]
       },
       {
-        "name": "Thudd Gun",
+        "name": "Thudd-Geschütz",
         "type": "INF",
         "speed": 10,
         "cc": 6,
@@ -656,7 +656,7 @@
         ]
       },
       {
-        "name": "Mole Launcher Squad",
+        "name": "Maulwurfswerfer-Trupp",
         "type": "INF",
         "speed": 10,
         "cc": 6,
@@ -668,7 +668,7 @@
         ]
       },
       {
-        "name": "Mole Mortar",
+        "name": "Maulwurfs-Mörser",
         "type": "INF",
         "speed": 10,
         "cc": 6,
@@ -680,7 +680,7 @@
         ]
       },
       {
-        "name": "Catachan Sentinel",
+        "name": "Catachan-Sentinel",
         "type": "LV",
         "speed": 20,
         "armour": 6,
@@ -695,7 +695,7 @@
         ]
       },
       {
-        "name": "Armoured Sentinel",
+        "name": "Gepanzerter Sentinel",
         "type": "LV",
         "speed": 15,
         "armour": 5,
@@ -725,7 +725,7 @@
         ]
       },
       {
-        "name": "Drop Sentinel",
+        "name": "Abwurf-Sentinel",
         "type": "LV",
         "speed": 20,
         "armour": 6,
@@ -740,7 +740,7 @@
         ]
       },
       {
-        "name": "Support Sentinel",
+        "name": "Unterstützungs-Sentinel",
         "type": "LV",
         "speed": 15,
         "armour": 6,
@@ -779,20 +779,20 @@
         ]
       },
       {
-        "name": "Tauros Flak",
+        "name": "Tauros-Flak",
         "type": "LV",
         "speed": 35,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer-Stubber-Turm"
+          "Zwillings-Schwerer-Maschinengewehr-Turm"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Siegfried Light Tank",
+        "name": "Siegfried-Leichtpanzer",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -807,7 +807,7 @@
         ]
       },
       {
-        "name": "Salamander Scout Tank",
+        "name": "Salamander-Spähpanzer",
         "type": "LV",
         "speed": 30,
         "armour": 5,
@@ -822,7 +822,7 @@
         ]
       },
       {
-        "name": "Storm Chimera",
+        "name": "Sturm-Chimäre",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -838,7 +838,7 @@
         "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Chimera",
+        "name": "Chimäre",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -854,7 +854,7 @@
         "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Death World Chimera",
+        "name": "Todeswelt-Chimäre",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -871,7 +871,7 @@
         "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Hellhound",
+        "name": "Höllenhund",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -885,7 +885,7 @@
         ]
       },
       {
-        "name": "Bane Wolf",
+        "name": "Seuchenwolf",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -900,7 +900,7 @@
         ]
       },
       {
-        "name": "Devil Dog",
+        "name": "Teufelshund",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -915,14 +915,14 @@
         ]
       },
       {
-        "name": "Land Transporter",
+        "name": "Landtransporter",
         "type": "LV",
         "speed": 30,
         "armour": 5,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Schwerer Stubber"
+          "Schwerer Maschinengewehr"
         ],
         "specialRules": [
           "Transport"
@@ -953,7 +953,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Schwerer Stubber"
+          "Schwerer Maschinengewehr"
         ],
         "specialRules": [
           "Transport: One Infantry unit, and one Rapier oder Thudd Gun"
@@ -974,7 +974,7 @@
         ]
       },
       {
-        "name": "Deathstrike",
+        "name": "Todesstoß",
         "type": "AV",
         "speed": 20,
         "armour": 6,
@@ -988,7 +988,7 @@
         ]
       },
       {
-        "name": "Deathstrike Silo",
+        "name": "Todesstoß-Raketensilo",
         "type": "WE",
         "speed": "Immobile",
         "armour": 5,
@@ -996,13 +996,13 @@
           "Todesstoß-Rakete|2"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Deathstrike Silo is destroyed. All units within 10cm takes a hit."
+        "crit": "Deathstrike Silo wird zerstört. Alle Einheiten innerhalb von 10cm erleiden einen Treffer."
       },
       {
-        "name": "Griffon",
+        "name": "Greif",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1016,7 +1016,7 @@
         ]
       },
       {
-        "name": "Valhallan Griffon",
+        "name": "Valhallanischer Greif",
         "type": "AV",
         "speed": 15,
         "armour": 5,
@@ -1045,7 +1045,7 @@
         ]
       },
       {
-        "name": "Bombard",
+        "name": "Bombarde",
         "type": "AV",
         "speed": 20,
         "armour": 6,
@@ -1073,7 +1073,7 @@
         ]
       },
       {
-        "name": "Earthshaker Gun",
+        "name": "Erderschüttererkanone",
         "type": "LV",
         "speed": 5,
         "armour": 6,
@@ -1086,7 +1086,7 @@
         ]
       },
       {
-        "name": "Medusa Gun",
+        "name": "Medusa-Kanone",
         "type": "LV",
         "speed": 5,
         "armour": 6,
@@ -1099,7 +1099,7 @@
         ]
       },
       {
-        "name": "Elysian Mortar Squad",
+        "name": "Elysianischer Mörsertrupp",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -1110,7 +1110,7 @@
         ]
       },
       {
-        "name": "Heavy AA Gun",
+        "name": "Schwere Flugabwehrkanone",
         "type": "LV",
         "speed": 5,
         "armour": 6,
@@ -1123,7 +1123,7 @@
         ]
       },
       {
-        "name": "Howitzer",
+        "name": "Haubitze",
         "type": "LV",
         "speed": 5,
         "armour": 6,
@@ -1136,7 +1136,7 @@
         ]
       },
       {
-        "name": "Manticore",
+        "name": "Mantikor",
         "type": "AV",
         "speed": 20,
         "armour": 6,
@@ -1164,7 +1164,7 @@
         ]
       },
       {
-        "name": "Hades Breaching Drill",
+        "name": "Hades-Aufbrechbohrer",
         "type": "Spec",
         "weapons": [
           "n/a"
@@ -1174,7 +1174,7 @@
         "notes": "Der Verband muss das Spiel in Reserve beginnen und darf das Spielfeld nur durch Tunnelbewegung betreten. Platziere beim Abhandeln der Tunnelbewegung zuerst den Hades Breaching Drill an den festgelegten Koordinaten. Platziere anschließend den Rest des Verbands innerhalb von 5 cm davon oder innerhalb von 5 cm einer bereits aufgestellten Einheit desselben Verbands, sofern alle Einheiten innerhalb von 15 cm zum Hades Breaching Drill aufgestellt werden. Entferne zuletzt den Hades Breaching Drill vom Spielfeld."
       },
       {
-        "name": "Ragnarok Heavy Tank",
+        "name": "Ragnarok-Schwerer Kampfpanzer",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -1182,7 +1182,7 @@
         "ff": 5,
         "weapons": [
           "Ragnarok Kampfgeschütz",
-          "Schwerer Stubber|2|"
+          "Schwerer Maschinengewehr|2|"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1190,7 +1190,7 @@
         ]
       },
       {
-        "name": "Leman Russ",
+        "name": "Leman Russ Kampfpanzer",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -1440,7 +1440,7 @@
         "weapons": [
           "Zwillings-Laserkanone",
           "Belagerungskanone",
-          "Schwerer Stubber|2|"
+          "Schwerer Maschinengewehr|2|"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1464,7 +1464,7 @@
         ]
       },
       {
-        "name": "Praetor Assault Launcher",
+        "name": "Praetor-Sturmwerfer",
         "type": "H-AV",
         "speed": 25,
         "armour": 3,
@@ -1478,7 +1478,7 @@
         ]
       },
       {
-        "name": "Crassus Assault Transport",
+        "name": "Crassus-Sturmtransporter",
         "type": "H-AV",
         "speed": 25,
         "armour": 3,
@@ -1504,7 +1504,7 @@
         ],
         "specialRules": [
         ],
-        "crit": "The Minotaur is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Minotaur wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
         "name": "Macharius",
@@ -1515,7 +1515,7 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Kampfgeschütz",
-          "Zwillings-Schwerer Stubber",
+          "Zwillings-Schwerer Maschinengewehr",
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
@@ -1523,7 +1523,7 @@
         ]
       },
       {
-        "name": "Macharius Command",
+        "name": "Macharius-Kommandopanzer",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -1532,18 +1532,18 @@
         "weapons": [
           "Zwillings-Vanquisher Kanone|0-1|",
           "Vulcan-Megabolter|0-1|",
-          "Zwillings-Schwerer Stubber||",
+          "Zwillings-Schwerer Maschinengewehr||",
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
         "notes": "Muss entweder mit einer Zwillings-Vernichterkanone oder einem Vulcan-Megabolter ausgerüstet sein.",
-        "crit": "The Macharius is destroyed."
+        "crit": "Macharius wird zerstört."
       },
       {
-        "name": "Baran Macharius",
+        "name": "Baran-Macharius",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -1551,16 +1551,16 @@
         "ff": 4,
         "weapons": [
           "Zwillings-Ragnarok Kampfgeschütz",
-          "Zwillings-Schwerer Stubber|3|FxF"
+          "Zwillings-Schwerer Maschinengewehr|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Macharius is destroyed."
+        "crit": "Macharius wird zerstört."
       },
       {
-        "name": "Macharius Medusa",
+        "name": "Macharius-Medusa",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -1568,16 +1568,16 @@
         "ff": 4,
         "weapons": [
           "Medusa Belagerungsgeschütz||FxF",
-          "Zwillings-Schwerer Stubber|3|"
+          "Zwillings-Schwerer Maschinengewehr|3|"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Macharius is destroyed."
+        "crit": "Macharius wird zerstört."
       },
       {
-        "name": "Defense Laser",
+        "name": "Verteidigungslaser",
         "type": "WE",
         "speed": "Immobile",
         "armour": 4,
@@ -1585,13 +1585,13 @@
         "ff": 5,
         "weapons": [
           "Planetarer Verteidigungslaser",
-          "Zwillings-Schwerer Stubber|3|"
+          "Zwillings-Schwerer Maschinengewehr|3|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All units within 5cm of the model suffer a hit on a roll of 4+."
+        "crit": "Die Plasmareservoirs des Defence Laser explodieren und zerstören die Einheit. Alle Einheiten innerhalb von 5cm um das Modell erleiden bei einem Wurf von 4+ einen Treffer."
       },
       {
         "name": "Gorgon",
@@ -1601,16 +1601,16 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Zwillings-Schwerer Stubber|4|"
+          "Zwillings-Schwerer Maschinengewehr|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"
         ],
         "notes": "Kann 10 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren.",
-        "crit": "The Gorgon is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
+        "crit": "Gorgon ist bewegungsunfähig und darf sich für den Rest des Spiels nicht mehr bewegen. 1W3 zufällige transportierte Einheiten erleiden einen Treffer. Weitere kritische Treffer zerstören Gorgon."
       },
       {
         "name": "Baneblade",
@@ -1627,10 +1627,10 @@
           "Zwillings-Schwere Bolter|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
         "name": "Hellhammer",
@@ -1647,10 +1647,10 @@
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
         "name": "Stormlord",
@@ -1665,12 +1665,12 @@
           "Zwillings-Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann zwölf Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; zwei davon dürfen vom Schießdeck aus feuern und sich bei Nahkämpfen mit ihrem FF beteiligen.",
-        "crit": "The Stormlord is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent hits destroys the unit."
+        "crit": "Stormlord ist bewegungsunfähig und darf sich für den Rest des Spiels nicht mehr bewegen. 1W3 zufällige transportierte Einheiten erleiden einen Treffer. Weitere kritische Treffer zerstören die Einheit."
       },
       {
         "name": "Banehammer",
@@ -1684,11 +1684,11 @@
           "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
         "name": "Shadowsword",
@@ -1702,10 +1702,10 @@
           "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
         "name": "Stormblade",
@@ -1720,10 +1720,10 @@
           "Zwillings-Schwere Bolter|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
         "name": "Stormsword",
@@ -1738,10 +1738,10 @@
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
         "name": "Stormhammer",
@@ -1757,10 +1757,10 @@
           "Vierlings-Schwere Bolter|2|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       }
     ]
   }

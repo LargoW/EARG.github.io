@@ -104,7 +104,7 @@
       "formations": [
         {
           "name": "Exalted Greater Daemon of Slaanesh",
-          "units": "One Exalted Keeper of Secrets ",
+          "units": "Ein Exalted Keeper of Secrets ",
           "extraUnits": [
             "Soul Grinder"
           ],
@@ -112,7 +112,7 @@
         },
         {
           "name": "Exalted Greater Daemon of Nurgle",
-          "units": "One Exalted Great Unclean One",
+          "units": "Ein Exalted Great Unclean One",
           "extraUnits": [
             "Soul Grinder"
           ],
@@ -120,7 +120,7 @@
         },
         {
           "name": "Exalted Greater Daemon of Khorne",
-          "units": "One Exalted Bloodthirster",
+          "units": "Ein Exalted Bloodthirster",
           "extraUnits": [
             "Soul Grinder"
           ],
@@ -128,7 +128,7 @@
         },
         {
           "name": "Exalted Greater Daemon of Tzeentch",
-          "units": "One Exalted Lord of Change",
+          "units": "Ein Exalted Lord of Change",
           "extraUnits": [
             "Soul Grinder"
           ],
@@ -142,9 +142,9 @@
       "formations": [
         {
           "name": "Slaneesh Legion of Excess",
-          "units": "Two Herald of Slaanesh, five Lesser Daemon Pool points",
+          "units": "Zwei Herald of Slaanesh, fünf Punkte aus dem Lesser-Daemon-Pool",
           "extraUnits": [
-            "Ersetze 2 Herald of Slaanesh durch a Keeper of Secrets: 125 Punkte",
+            "Ersetze 2 Herald of Slaanesh durch ein Keeper of Secrets: 125 Punkte",
             "Ersetze 2 Herald of Slaanesh durch 2 Herald of Slaanesh on Seeker Chariot: 25 Punkte",
             "Soul Grinder"
           ],
@@ -152,9 +152,9 @@
         },
         {
           "name": "Nurgle Plague Legion ",
-          "units": "Two Herald of Nurgle on Palanquin, five Lesser Daemon Pool points",
+          "units": "Zwei Herald of Nurgle on Palanquin, fünf Punkte aus dem Lesser-Daemon-Pool",
           "extraUnits": [
-            "Ersetze 2 Herald of Nurgle on Palanquin durch a Great Unclean 1: 125 Punkte",
+            "Ersetze 2 Herald of Nurgle on Palanquin durch ein Great Unclean One: 125 Punkte",
             "Ersetze 2 Herald of Nurgle on Palanquin durch 2 Herald of Nurgle on Blight Fly: 25 Punkte",
             "Soul Grinder"
           ],
@@ -162,9 +162,9 @@
         },
         {
           "name": "Khorne Blood Legion",
-          "units": "Two Herald of Khorne on Juggernauts, five Lesser Daemon Pool points",
+          "units": "Zwei Herald of Khorne on Juggernauts, fünf Punkte aus dem Lesser-Daemon-Pool",
           "extraUnits": [
-            "Ersetze 2 Herald of Khorne on Juggernaut durch a Bloodthirster: 150 Punkte",
+            "Ersetze 2 Herald of Khorne on Juggernaut durch ein Bloodthirster: 150 Punkte",
             "Ersetze 2 Herald of Khorne on Juggernaut durch 2 Herald of Khorne on Skull Cannon: 25 Punkte",
             "Soul Grinder"
           ],
@@ -172,9 +172,9 @@
         },
         {
           "name": "Tzeentch Scintillating Legion",
-          "units": "Two Herald of Tzeentch, five Lesser Daemon Pool points",
+          "units": "Zwei Herald of Tzeentch, fünf Punkte aus dem Lesser-Daemon-Pool",
           "extraUnits": [
-            "Ersetze 2 Herald of Tzeentch durch a Lord of Change: 150 Punkte",
+            "Ersetze 2 Herald of Tzeentch durch ein Lord of Change: 150 Punkte",
             "Ersetze 2 Herald of Tzeentch durch 2 Herald of Tzeentch on Burning Chariot: 25 Punkte",
             "Soul Grinder"
           ],
@@ -188,7 +188,7 @@
       "formations": [
         {
           "name": "Cultist Coven",
-          "units": "Daemonic Pact, Aspiring Champion, nine Chaos Cultists und/oder Mutants",
+          "units": "Daemonic Pact, Aspiring Champion, neun Chaos Cultists und/oder Mutants",
           "extraUnits": [
             "Cultists/Mutants",
             "Chaos Hounds",
@@ -203,7 +203,7 @@
       },
       {
         "name": "Heldrakes",
-        "units": "Two Heldrakes",
+        "units": "Zwei Heldrakes",
         "points": 225
       }
       ]
@@ -214,7 +214,7 @@
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool points",
+          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool",
           "points": 20
         }
       ]
@@ -227,47 +227,47 @@
       {
         "name": "Soul Grinder",
         "description": "Füge bis zu 2 Soul Grinders hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Icon Bearer",
         "description": "Füge 1 Icon Bearer character hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Cultists/Mutants",
         "description": "Füge bis zu 4 Cultists/Mutants hinzu",
-        "points": "10 points each"
+        "points": "10 Punkte pro Stück"
       },
       {
         "name": "Big Mutants",
         "description": "Ersetze bis zu 4 Cultists/Mutants durch Big Mutants",
-        "points": "15 points each"
+        "points": "15 Punkte pro Stück"
       },
       {
         "name": "Chaos Spawn",
         "description": "Füge 1 Chaos Spawn hinzu",
-        "points": "35 points"
+        "points": "35 Punkte"
       },
       {
         "name": "Chaos Hounds",
         "description": "Füge bis zu 3 Chaos Hounds hinzu",
-        "points": "10 points each"
+        "points": "10 Punkte pro Stück"
       },
       {
         "name": "Technicals",
         "description": "Füge bis zu 4 Technicals hinzu",
-        "points": "20 points each"
+        "points": "20 Punkte pro Stück"
       },
       {
         "name": "Land Transporters",
         "description": "Füge genügend Land Transporters hinzu, um den Verband zu transportieren",
-        "points": "10 points each"
+        "points": "10 Punkte pro Stück"
     },
     {
       "name": "Warp Altar",
       "description": "Füge 1 Warp Altar hinzu",
-      "points": "150 points"
+      "points": "150 Punkte"
     }
     ]
   }

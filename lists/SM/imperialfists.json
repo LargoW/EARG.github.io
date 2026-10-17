@@ -7,7 +7,7 @@
   "intro": "The following army list allows you to field an army based on the Imperial Fists Space Marine chapter oder any of its successor chapters. The Imperial Fists specializes in siege warfare.",
   "strategy": "Space Marine armies have a Strategy Rating of 5.",
   "Initiative": "Tarantula and Hyperios Emplacement formations have an Initiative Rating of 2+. All other formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all non-'Machine Spirit' Imperial Fists detachments.",
+  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all non-'Maschinengeist' Imperial Fists detachments.",
   "specialRules": [
     "Imperial Fists Transports",
     "They Shall Know No Fear",
@@ -62,7 +62,7 @@
         "Tarantula"
       ],
       "unitRules": [
-        "Machine Spirit"
+        "Maschinengeist"
       ]
     },
     {

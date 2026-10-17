@@ -18,29 +18,29 @@
     {
       "from": "darkmechanicus.json",
       "units": [
-        "Chaos Icon",
-        "Hell-Strider",
-        "Hell-Knight",
-        "Hell-Scourge",
-        "Knight-Desecrator",
-        "Knight-Rampager",
-        "Knight-Despoiler",
-        "Knight-Renegade",
-        "Knight-Tyrant",
-        "Knight-Doomglaive",
-        "Knight-Perfidor",
-        "Arch-Heretek",
-        "Hellwright",
-        "Chaos Squats",
+        "Chaos-Ikone",
+        "Höllenstreiter",
+        "Höllenritter",
+        "Höllengeißel",
+        "Schänder-Ritter",
+        "Rampager-Ritter",
+        "Verwüster-Ritter",
+        "Abtrünniger Ritter",
+        "Tyrannenritter",
+        "Doomglaive-Ritter",
+        "Perfidor-Ritter",
+        "Erz-Heretek",
+        "Höllenschmied",
+        "Chaoszwerge",
         "Phospexor",
-        "Triaros Armoured Despoiler",
-        "Krios Lightning",
+        "Gepanzerter Triaros-Verwüster",
+        "Krios-Blitzpanzer",
         "Krios Venator",
         "Chaos Rhino",
-        "Chrono-Gladiators",
+        "Chrono-Gladiatoren",
         "Ordinatus Hereticus",
         "Ordinatus Hereticus Majoris",
-        "The Kaban Machine"
+        "Kaban-Maschine"
       ],
       "unitRules": [
          "Daemonic Focus",
@@ -67,7 +67,7 @@
     {
       "from": "traitortitanlegions.json",
       "units": [
-        "Chaos Warbringer"
+        "Chaos-Warbringer"
       ],
       "unitRules": [
         "Null Schilde"
@@ -90,12 +90,12 @@
       "formations": [
         {
           "name": "Hell-Forge Maniple",
-          "units": "Ein Hellwright, eleven Chaos Squats",
+          "units": "Ein Hellwright, elf Chaos Squats",
           "extraUnits": [
-            "Ersetze four Chaos Squats durch four Phospexors: 25 Punkte",
-            "Füge zwei Krios Lightning, two Krios Venators, oder one Ordinatus Hereticus hinzu: 125 Punkte",
+            "Ersetze vier Chaos Squats durch vier Phospexors: 25 Punkte",
+            "Füge zwei Krios Lightning, zwei Krios Venators, oder ein Ordinatus Hereticus hinzu: 125 Punkte",
             "Arch-Heretek",
-            "The Kaban Machine",
+            "Der Kaban Machine",
             "Hell-Forge Transport"
           ],
           "points": 225
@@ -195,16 +195,16 @@
           "name": "Ordinatus Hereticus",
           "units": "Zwei Ordinatus Hereticus",
           "extraUnits": [
-            "Verbessere one Battle Weapon in die Formation to a Support Weapon: 25 Punkte",
-            "The Kaban Machine"
+            "Werte eine Battle Weapon im Verband zu einer Unterstützungswaffe auf: 25 Punkte",
+            "Der Kaban Machine"
           ],
           "points": 325
         },
         {
-          "name": "0-1 Ordinatus Hereticus Majoris",
+          "name": "0–1 Ordinatus Hereticus Majoris",
           "units": "Ein Ordinatus Retlaxi",
           "extraUnits": [
-            "Verbessere the Ordinatus Retlaxi to an Ordinatus Temporia (25 Punkte) oder Ordinatus Cyclothrathe (50 Punkte)",
+            "Werte den Ordinatus Retlaxi zu einem Ordinatus Temporia (25 Punkte) oder Ordinatus Cyclothrathe (50 Punkte) auf",
             "Oberbefehlshaber"
           ],
           "points": 425
@@ -225,7 +225,7 @@
           "points": 300
         },
         {
-          "name": "0-1 Chaos Battleship",
+          "name": "0–1 Chaos Battleship",
           "units": "Ein Despoiler Class Battleship",
           "extraUnits": [
           ],
@@ -247,29 +247,29 @@
   ],
   "upgrades": {
     "title": "Questor Traitoris Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "(0-1 per army) Oberbefehlshaber",
-        "description": "Füge an Arch-Heretek to a Hellwright unit oder an Ordinatus Hereticus Majoris hinzu",
-        "points": "100 points"
+        "name": "(0–1 pro Armee) Oberbefehlshaber",
+        "description": "Füge einer Hellwright-Einheit oder einem Ordinatus Hereticus Majoris einen Arch-Heretek hinzu",
+        "points": "100 Punkte"
       },
       {
-        "name": "(0-1 per army) The Kaban Machine",
-        "description": "Füge the Kaban Machine zur Formation hinzu",
-        "points": "200 points"
+        "name": "(0–1 pro Armee) The Kaban Machine",
+        "description": "Füge dem Verband die Kaban Machine hinzu",
+        "points": "200 Punkte"
       },
       {
         "name": "Chaos Icon",
         "description": "Füge a Chaos Icon zur Formation hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Hell-Forge Transport",
-        "description": "Any combination of transport options may be taken to transport a formation, as long as no vehicle is completely empty, and no unit lacks transport.",
+        "description": "Beliebige Kombinationen von Transportoptionen dürfen gewählt werden, um einen Verband zu transportieren, solange kein Fahrzeug völlig leer ist und keine Einheit ohne Transport bleibt.",
         "points": [
-          "Chaos Rhino: 10 points",
-          "Triaros Armoured Despoiler: 75 points"
+          "Chaos Rhino: 10 Punkte",
+          "Triaros Armoured Despoiler: 75 Punkte"
         ]
       }
     ]

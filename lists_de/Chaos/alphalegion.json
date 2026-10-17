@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Chaos Space Marines",
   "army": "Alpha Legion",
   "version": "1.0.Beta",
@@ -20,19 +20,19 @@
     {
       "from": "CSM.json",
       "units": [
-        "Alpha Legion Lord",
-        "Alpha Legion Sorcerer",
-        "Alpha Legion Marines",
-        "Alpha Legion Havocs",
-        "Alpha Legion Headhunters",
-        "Alpha Legion Destroyers",
-        "Lernaean Terminators",
-        "Alpha Legion Dreadnought",
-        "Alpha Legion Rhino",
-        "Alpha Legion Vindicator",
-        "Alpha Legion Predator",
-        "Alpha Legion Land Raider",
-        "Alpha Legion Sicarian Battle Tank"
+        "Alpha-Legion-Fürst",
+        "Alpha-Legion-Hexer",
+        "Alpha-Legion-Marines",
+        "Alpha-Legion-Havocs",
+        "Alpha-Legion-Kopfjäger",
+        "Alpha-Legion-Zerstörer",
+        "Lernaean-Terminatoren",
+        "Alpha-Legion-Cybot",
+        "Alpha-Legion-Rhino",
+        "Alpha-Legion-Vindicator",
+        "Alpha-Legion-Predator",
+        "Alpha-Legion-Land-Raider",
+        "Alpha-Legion-Sicarian-Kampfpanzer"
       ],
       "unitRules": [
         "Sabotage",
@@ -59,11 +59,11 @@
     {
       "from": "IG.json",
       "units": [
-        "Chimera",
-        "Salamander Scout Tank",
-        "Griffon",
+        "Chimäre",
+        "Salamander-Spähpanzer",
+        "Greif",
         "Hydra",
-        "Rough Riders"
+        "Kavallerie"
       ],
       "unitRules": [
       ]
@@ -99,8 +99,8 @@
       "description": "Pro Alpha Legion Marines Verband darf bis zu ein Cultist Coven Verband aufgestellt werden",
       "formations": [
         {
-          "name": "Alpha Legion Marines",
-          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Alpha Legion Marines plus transport",
+          "name": "Alpha-Legion-Marines",
+          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Marines plus Transporter",
           "extraUnits": [
             "Ersetze 4 Alpha Legion Marines durch 4 Alpha Legion Havocs: 50 Punkte",
             "Füge bis zu 2 Alpha Legion Land Raiders hinzu: 50 Punkte pro Stück",
@@ -113,13 +113,13 @@
         },
         {
           "name": "Cultist Coven",
-          "units": "One Aspiring Champion, nine Cultists und/oder Mutants",
+          "units": "Ein Aspiring Champion, neun Cultists und/oder Mutants",
           "extraUnits": [
             "Füge 1 Daemonic Icon zum Aspiring Champion hinzu: 25 Punkte",
             "Füge genügend Land Transporters hinzu, um den Verband zu transportieren: 10 Punkte pro Stück",
             "Ersetze beliebig viele Land Transporters durch Chimeras: 15 Punkte pro Stück",
             "Füge bis zu 3 Chaos Hounds hinzu: 10 Punkte pro Stück",
-            "Füge 1 Chaos Spawn hinzu: 35 points",
+            "Füge 1 Chaos Spawn hinzu: 35 Punkte",
             "Füge 1 Hydra hinzu: 50 Punkte",
             "Oberbefehlshaber"
           ],
@@ -132,8 +132,8 @@
       "description": "Pro Alpha Legion Marines Verband dürfen bis zu ein Alpha Legion Elitekontingent aufgestellt werden.",
       "formations": [
         {
-          "name": "Destroyers",
-          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Alpha Legion Destroyers",
+          "name": "Destruktoren",
+          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Destroyers",
           "extraUnits": [
             "Oberbefehlshaber",
             "Predators"
@@ -142,7 +142,7 @@
         },
         {
           "name": "Headhunters",
-          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Alpha Legion Headhunters plus transport",
+          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Headhunters plus Transporter",
           "extraUnits": [
             "Oberbefehlshaber",
             "Vindicators"
@@ -150,8 +150,8 @@
           "points": 250
         },
         {
-          "name": "Terminators",
-          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Lernaean Terminators plus transport",
+          "name": "Terminatoren",
+          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Lernaean Terminators plus Transporter",
           "extraUnits": [
             "Oberbefehlshaber",
             "Dreadnoughts"
@@ -160,7 +160,7 @@
         },
         {
           "name": "Sicarians",
-          "units": "Four Alpha Legion Sicarian Battle Tanks",
+          "units": "Vier Alpha Legion Sicarian Battle Tanks",
           "extraUnits": [
             "Predators"
           ],
@@ -174,7 +174,7 @@
       "formations": [
         {
           "name": "Rough Rider Platoon",
-          "units": "Six Rough Riders",
+          "units": "Sechs Rough Riders",
           "extraUnits": [
             "Füge 1 Daemonic Icon hinzu: 75 Punkte"
           ],
@@ -182,21 +182,21 @@
         },
         {
           "name": "Salamander Squadron",
-          "units": "Four Salamander Scout Tanks",
+          "units": "Vier Salamander Scout Tanks",
           "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Flak Battery",
-          "units": "Three Hydras",
+          "units": "Drei Hydras",
           "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Griffon Battery",
-          "units": "Three Griffons",
+          "units": "Drei Griffons",
           "extraUnits": [
           ],
           "points": 175
@@ -209,28 +209,28 @@
       "formations": [
         {
           "name": "Storm Eagle",
-          "units": "One Alpha Legion Storm Eagle",
+          "units": "Ein Alpha Legion Storm Eagle",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Fire Raptor",
-          "units": "One Chaos Fire Raptor",
+          "units": "Ein Chaos Fire Raptor",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Xiphon Squadron",
-          "units": "Two Chaos Xiphon Interceptors",
+          "units": "Zwei Chaos Xiphon Interceptors",
           "extraUnits": [
           ],
           "points": 225
         },
         {
-          "name": "0-1 Strike Cruiser",
-          "units": "One Chaos Strike Cruiser",
+          "name": "0–1 Strike Cruiser",
+          "units": "Ein Chaos Strike Cruiser",
           "extraUnits": [
           ],
           "points": 200
@@ -242,7 +242,7 @@
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool points",
+          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool",
           "points": 20
         }
       ]
@@ -253,33 +253,33 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0–1 Oberbefehlshaber",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
             "description": "Werte den Aspiring Champion zu einem Daemon Prince",
-            "points": "100 points"
+            "points": "100 Punkte"
           },
           {
             "description": "„I'm Alpharius!“ Die Armee profitiert von der Sonderregel Oberbefehlshaber, solange sich mindestens ein Alpha Legion Lord auf dem Schlachtfeld befindet. Der Verband muss einen Alpha Legion Lord enthalten.",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Vindicators",
         "description": "Füge bis zu 2 Alpha Legion Vindicators hinzu",
-        "points": "35 points each"
+        "points": "35 Punkte pro Stück"
       },
       {
         "name": "Predators",
         "description": "Füge bis zu 2 Alpha Legion Predators hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Dreadnoughts",
         "description": "Füge bis zu 2 Alpha Legion Dreadnoughts hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       }
     ]
   }

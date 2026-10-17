@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Warlord",
+        "name": "Waaghboss",
         "type": "CH",
         "weapons": [
           "'Ore Dakka",
@@ -17,7 +17,7 @@
         "notes": "Erhält bei Auswahl für eine WE-Einheit \u0027Ore Dakka oder bei Auswahl für eine INF-Einheit eine Power Claw."
       },
       {
-        "name": "Mekboy Bad Ork Bikerboy",
+        "name": "Mek des Bad-Ork-Bikerboys",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -33,7 +33,7 @@
         ]
       },
       {
-        "name": "Big Mek",
+        "name": "Großer Mek",
         "type": "CH",
         "weapons": [
           "'Ore Dakka"
@@ -51,11 +51,11 @@
           "W3+1 Energiefelder|0-1|"
         ],
         "specialRules": [
-          "Replace one Big Gun weapon with either a Supa-Zzap-Gun oder a Soopagun, alternatively the unit may be given W3+1 power fields"
+          "Ersetze eine Big-Gun-Waffe durch entweder eine Supa-Zzap-Gun oder eine Soopagun; alternativ darf die Einheit W3+1 Kraftfelder erhalten"
         ]
       },
       {
-        "name": "Bad Moons Oddboy",
+        "name": "Bad-Moons-Oddboy",
         "type": "CH",
         "weapons": [
           "Superknarre|0-1|",
@@ -67,7 +67,7 @@
         "notes": "Ersetze eine Big-Gun-Waffe entweder durch eine Soopagun oder einen Weirdboy Tower. Alternativ kann die Einheit [*] W3+1 Schpezialkraftfelder erhalten."
       },
       {
-        "name": "Speed Freek Oddboy",
+        "name": "Heizakult-Oddboy",
         "type": "CH",
         "weapons": [
           "Hebewerfer|0-1|",
@@ -75,7 +75,7 @@
           "Deff-Rolla \u0026 frischer Anstrich|0-1|"
         ],
         "specialRules": [
-          "The unit either replaces a Big Gun with a Lifta Droppa, oder [*] adds W3+1 Power Fields, oder [**] is equipped with a Deff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
+          "Die Einheit ersetzt entweder eine Big Gun durch eine Lifta Droppa, oder [*] erhält W3+1 Kraftfelder, oder [**] wird mit einer Deff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm) ausgerüstet"
         ]
       },
       {
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "name": "Boyz",
+        "name": "Boys",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "name": "Grotz",
+        "name": "Grots",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -126,7 +126,7 @@
         ]
       },
       {
-        "name": "Nobz",
+        "name": "Bosse",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "name": "Flash Gitz",
+        "name": "Posas",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -158,7 +158,7 @@
         ]
       },
       {
-        "name": "Nob Warbikes",
+        "name": "Boss-Waaghbikes",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -174,7 +174,7 @@
         ]
       },
       {
-        "name": "Big Gunz",
+        "name": "Kanonänbatterie",
         "type": "INF",
         "speed": 10,
         "cc": 6,
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "name": "Stormboyz",
+        "name": "Stormboys",
         "type": "INF",
         "speed": 30,
         "armour": 6,
@@ -216,7 +216,7 @@
         ]
       },
       {
-        "name": "Warbikes",
+        "name": "Waaghbikes",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -230,7 +230,7 @@
         ]
       },
       {
-        "name": "Warbike Outriders",
+        "name": "Waaghbike-Ausreiter",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "name": "Pulsa Rokkitz",
+        "name": "Pulsa-Raketen",
         "type": "LV",
         "speed": 10,
         "armour": 5,
@@ -256,7 +256,7 @@
         ],
         "specialRules": [
         ],
-                "notes": "Partial BPs are rounded up"
+                "notes": "Angebrochene BPs werden aufgerundet"
       },
       {
         "name": "Deffkopta",
@@ -289,7 +289,7 @@
         "notes": "1 Einheit Kommandos. Einheiten dürfen während des Transports schießen und an Feuergefechten teilnehmen."
       },
       {
-        "name": "Warbuggy",
+        "name": "Buggy",
         "type": "LV",
         "speed": 35,
         "armour": 5,
@@ -302,20 +302,20 @@
         ]
       },
       {
-        "name": "Skorcha",
+        "name": "Brennabuggy",
         "type": "LV",
         "speed": 35,
         "armour": 6,
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Skorcha"
+          "Brennabuggy"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Speed Freek Trukk",
+        "name": "Heizakult-Pikk-Up",
         "type": "LV",
         "speed": 35,
         "armour": 5,
@@ -329,7 +329,7 @@
         "notes": "1 Einheit Boyz oder Nobz. Einheiten dürfen während des Transports schießen und an Feuergefechten teilnehmen, sofern sich kein gegnerisches Modell in Basekontakt mit dem Transporter befindet."
       },
       {
-        "name": "Mekboy Speedsta",
+        "name": "Mek-Speedsta",
         "type": "AV",
         "speed": 35,
         "armour": 5,
@@ -344,7 +344,7 @@
         ]
       },
       {
-        "name": "Battlewagon",
+        "name": "Transportpanza",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -359,7 +359,7 @@
         "notes": "2 Einheiten Boyz, Nobz, Flash Gitz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten darf 1 Einheit Grotz mitgeführt werden."
       },
       {
-        "name": "Gunwagon",
+        "name": "Kampfpanza",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -374,7 +374,7 @@
         "notes": "1 Einheit Boyz, Nobz, Flash Gitz, Kommandos oder Grotz."
       },
       {
-        "name": "Speed Freek Gunwagon",
+        "name": "Heizakult-Kampfpanza",
         "type": "AV",
         "speed": 35,
         "armour": 6,
@@ -389,7 +389,7 @@
         "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
       },
       {
-        "name": "Looted Leman Russ/Land Raider",
+        "name": "Erbeuteter Leman Russ/Land Raider",
         "type": "AV",
         "speed": 25,
         "armour": 3,
@@ -405,7 +405,7 @@
         "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
       },
       {
-        "name": "Looted Vindicator/Thunderer",
+        "name": "Erbeuteter Vindicator/Thunderer",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -432,7 +432,7 @@
         ]
       },
       {
-        "name": "Flakwagon",
+        "name": "Flakpanza",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -447,7 +447,7 @@
         "notes": "1 Einheit Boyz, Nobz, Flash Gitz, Kommandos oder Grotz."
       },
       {
-        "name": "Speed Freek Flakwagon",
+        "name": "Heizakult-Flakpanza",
         "type": "AV",
         "speed": 35,
         "armour": 6,
@@ -462,7 +462,7 @@
         "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
       },
       {
-        "name": "Looted Hydra/Stalker",
+        "name": "Erbeutete Hydra/Stalker",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -477,7 +477,7 @@
         "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
       },
       {
-        "name": "Killa Kan",
+        "name": "Killa Bot",
         "type": "AV",
         "speed": 15,
         "armour": 5,
@@ -493,7 +493,7 @@
         ]
       },
       {
-        "name": "Deff Dread",
+        "name": "Deff-Dread",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -509,7 +509,7 @@
         ]
       },
       {
-        "name": "Meka Dread",
+        "name": "Meka-Dread",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -526,7 +526,7 @@
         ]
       },
       {
-        "name": "Stompa",
+        "name": "Stampfa",
         "type": "H-AV",
         "speed": 15,
         "armour": 5,
@@ -544,7 +544,7 @@
         "notes": "Bewaffnet entweder mit drei Big Gunz oder mit zwei Big Guns und einem Kombat \u0027Ammer."
       },
       {
-        "name": "Battlefortress",
+        "name": "Mega Transportpanza",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -555,14 +555,14 @@
           "Zwillings-Große Knarre|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Transport"
         ],
         "notes": "8 Boyz, Flash Gitz, Nobz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grotz-Einheiten mitgeführt werden.",
-        "crit": "The Battlefortress is destroyed, all units being carried are killed unless roll they a 6+."
+        "crit": "Battlefortress wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
       },
       {
-        "name": "Gunfortress",
+        "name": "Mega Wummenpanza",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -573,14 +573,14 @@
           "Zwillings-Große Knarre|5|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Transport"
         ],
         "notes": "4 Boyz, Nobz, Flash Gitz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 2 Grotz-Einheiten mitgeführt werden.",
-        "crit": "The Gunfortress is destroyed, all units being carried are killed unless roll they a 6+."
+        "crit": "Gunfortress wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
       },
       {
-        "name": "Flakkafortress",
+        "name": "Flakka-Mega-Transportpanza",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -591,12 +591,12 @@
           "Flakgeschütz|3|"
         ],
         "specialRules": [
-          "Damage Capacity 3"
+          "Schadenskapazität3"
         ],
-        "crit": "The Flakkafortress is destroyed, all units being carried are killed unless roll they a 6+."
+        "crit": "Flakkafortress wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
       },
       {
-        "name": "Skullhamma",
+        "name": "Schädelhammer",
         "type": "WE",
         "speed": 20,
         "armour": 3,
@@ -608,12 +608,12 @@
           "Skorcha|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3"
+          "Schadenskapazität3"
         ],
-        "crit": "The Skullhamma is destroyed. All units within 5cm takes a hit on 6+"
+        "crit": "Skullhamma wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer"
       },
       {
-        "name": "Supa-Stompa",
+        "name": "Supa-Stampfa",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -625,40 +625,40 @@
           "Killa-Spalta|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Power Fields 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Supa-Stompa's head is blown off, and it suffers a -1 to-hit modifier to all shooting for the rest of the game. Subsequent crits cause an additional damage instead."
+        "crit": "Der Kopf des Supa-Stompa wird weggeschossen und er erhält für den Rest des Spiels einen Modifikator von -1 auf alle Trefferwürfe beim Schiessen. Weitere kritische Treffer verursachen stattdessen 1 zusätzlichen Schaden."
       },
       {
-        "name": "Supa-Stompa ",
+        "name": "Supa-Stampfa ",
         "type": "WE",
         "speed": 15,
         "armour": 4,
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "'ED (choose one)",
+          "KOPF (wähle eine)",
           "Blick des Mork|0-1|",
           "Blick des Gork|0-1|",
-          "ARMS (choose two)",
+          "ARME (wähle zwei)",
           "Superknarre|1-2|FxF",
           "Killa-Spalta|0-1|FxF",
-          "BELLY (choose one)",
+          "BAUCH (wähle eine)",
           "Superknarre|0-1|FxF",
           "Dakka-Kanone|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Power Fields 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Supa-Stompa's head is blown off, and it suffers a -1 to-hit modifier to all shooting for the rest of the game. Subsequent crits cause an additional damage instead."
+        "crit": "Der Kopf des Supa-Stompa wird weggeschossen und er erhält für den Rest des Spiels einen Modifikator von -1 auf alle Trefferwürfe beim Schiessen. Weitere kritische Treffer verursachen stattdessen 1 zusätzlichen Schaden."
       },
       {
         "name": "Gargant",
@@ -674,14 +674,14 @@
           "Megaspalta|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 7",
+          "Schadenskapazität7",
           "Power Fields 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either three Soopaguns oder two Soopaguns and either Supa-Zzap-Gun oder a Mega-Choppa"
+          "Bewaffnet entweder mit drei Soopaguns oder mit zwei Soopaguns und entweder einer Supa-Zzap-Gun oder einer Mega-Choppa"
         ],
-        "crit": "The Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
         "name": "Gargant ",
@@ -691,31 +691,31 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "'ED (choose one)",
+          "KOPF (wähle eine)",
           "Blick des Mork|0-1|",
           "Blick des Gork|0-1|",
-          "ARMS (choose two)",
+          "ARME (wähle zwei)",
           "Superknarre|0-2|FxF",
           "Dakka-Kanone|0-2|FxF",
           "Megaspalta|0-2|",
           "Zzap-Geschütz|0-2|FxF",
-          "BELLY (choose one)",
+          "BAUCH (wähle eine)",
           "Superknarre|0-1|FxF",
           "Supa-Skorcha|0-1|FxF",
           "Supa-Zzap-Geschütz|0-1|FxF",
           "Snappa|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 7",
+          "Schadenskapazität7",
           "Power Fields 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
-        "name": "Great Gargant",
+        "name": "Großer Gargant",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -729,19 +729,19 @@
           "Hebewerfer|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Power Fields 1D3+6",
           "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Armed with either two Twin Soopaguns oder one Twin Soopagun and a Lifta-Droppa"
+          "Bewaffnet entweder mit zwei Zwillings Soopaguns oder mit einer Zwillings Soopagun und einer Lifta-Droppa"
         ],
-        "crit": "The Great Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "Great Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
-        "name": "Great Gargant ",
+        "name": "Großer Gargant ",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -749,22 +749,22 @@
         "ff": 4,
         "weapons": [
           "Groß Geschütz|2|",
-          "'ED (choose one)",
+          "KOPF (wähle eine)",
           "Blick des Mork|0-1|",
           "Blick des Gork|0-1|",
-          "ARMS (choose two)",
+          "ARME (wähle zwei)",
           "Zwillings-Soopagun|0-2|FxF",
           "Dakka-Dakka-Kanone|0-2|FxF",
           "Mega-Lobba|0-2|FxF",
           "Hebewerfer|0-1|",
-          "BELLY (choose one)",
+          "BAUCH (wähle eine)",
           "Superknarre|0-1|FxF",
           "Supa-Skorcha|0-1|FxF",
           "Supa-Zzap-Geschütz|0-1|FxF",
           "Snappa|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Power Fields 1D3+6",
           "Göttermaschine",
           "Split Fire",
@@ -772,10 +772,10 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "The Great Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "Great Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
-        "name": "Mega Gargant",
+        "name": "Mega-Gargant",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -790,7 +790,7 @@
           "Kampfarme"
         ],
         "specialRules": [
-          "Damage Capacity 13",
+          "Schadenskapazität13",
           "Power Fields 1D3+9",
           "Göttermaschine",
           "Split Fire",
@@ -798,10 +798,10 @@
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Mega Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "Mega Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
-        "name": "Fighta-Bommer",
+        "name": "Jagdbomma",
         "type": "AC",
         "speed": "Fighter-Bomber",
         "armour": 6,
@@ -824,7 +824,7 @@
         ]
       },
       {
-        "name": "Blitza-Bommer",
+        "name": "Blitza-Bomma",
         "type": "AC",
         "speed": "Bomber",
         "armour": 5,
@@ -837,7 +837,7 @@
         ]
       },
       {
-        "name": "Wazbom Blastajet",
+        "name": "Wazbom-Blastajet",
         "type": "AC",
         "speed": "Bomber",
         "armour": 4,
@@ -850,7 +850,7 @@
         ]
       },
       {
-        "name": "Bommer",
+        "name": "Bomma",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -859,12 +859,12 @@
           "AC-Blasta-Bomben||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2"
+          "Schadenskapazität2"
         ],
-        "crit": "The Bommer is destroyed."
+        "crit": "Bommer wird zerstört."
       },
       {
-        "name": "Landa",
+        "name": "Landungsschiff",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 5,
@@ -875,16 +875,16 @@
           "AC-Panzerknacker-Raketen|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "10 Killa Kans, Warbikes, Boyz, Nobz, Kommandos, Stormboyz oder Grotz. Big Gunz, Warbuggies, Skorchas und Deff Dreads belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grotz-Einheiten mitgeführt werden.",
-        "crit": "The Landa and all units being transported are destroyed."
+        "crit": "Landa und alle transportierten Einheiten werden zerstört."
       },
       {
-        "name": "Drop Rok",
+        "name": "Landungsrakete",
         "type": "WE",
         "speed": "Immobile",
         "armour": 3,
@@ -894,20 +894,20 @@
           "Große Knarren|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Planetfall[*]",
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "10 Killa Kans, Boyz, Nobz, Kommandos, Stormboyz oder Grotz. Deff Dreads und Mega Dreads belegen jeweils 2 Plätze. [*] Muss das Spiel an Bord eines Blood Axes Kill Kroozer oder Battlekroozer beginnen und darf das Spiel nur durch Planetare Landung betreten.",
-        "crit": "The Drop Rok and all units being transported are destroyed"
+        "crit": "Drop Rok und alle transportierten Einheiten werden zerstört"
       },
       {
-        "name": "Kill Kroozer",
+        "name": "Kill-Kreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "1D6BP, MW"
@@ -917,11 +917,11 @@
         ]
       },
       {
-        "name": "Blood Axes Kill Kroozer",
+        "name": "Blutäxte-Kill-Kreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "1D6BP, MW"
@@ -935,11 +935,11 @@
         "notes": "Kann 1 Drop Rok und die darin mitgeführten Einheiten transportieren."
       },
       {
-        "name": "Battlekroozer",
+        "name": "Schlachtkreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "1D6+4BP, MW"
@@ -948,16 +948,16 @@
           }
         ],
         "specialRules": [
-          "Slow to arrive (may only arrive from turn 2 onwards)",
-          "Transport: May transport 12 Landas and the units carried on them"
+          "Verzögerte Ankunft (darf erst ab Runde 2 eintreffen)",
+          "Transport: Kann 12 Landas und die auf ihnen mitgeführten Einheiten transportieren"
         ]
       },
       {
-        "name": "Blood Axes Battlekroozer",
+        "name": "Blutäxte-Schlachtkreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "1D6+3BP, MW"
@@ -972,7 +972,7 @@
       },
 
       {
-        "name": "Boarboyz",
+        "name": "Wildschweinreiter",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -989,7 +989,7 @@
         ]
       },
       {
-        "name": "Brutes",
+        "name": "Grobiane",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -1006,7 +1006,7 @@
         ]
       },
       {
-        "name": "Huntas",
+        "name": "Jäger",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -1021,7 +1021,7 @@
         ]
       },
       {
-        "name": "Junkas",
+        "name": "Schrottkarren",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -1043,10 +1043,10 @@
         "weapons": [
           "Lobba"
         ],
-        "notes": "Partial BPs are rounded up"
+        "notes": "Angebrochene BPs werden aufgerundet"
       },
       {
-        "name": "Madboyz",
+        "name": "Irre Boys",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -1060,7 +1060,7 @@
         ]
       },
       {
-        "name": "Trappas",
+        "name": "Fallensteller",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -1076,7 +1076,7 @@
         ]
       },
       {
-        "name": "Wildboyz",
+        "name": "Wildorks",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -1090,7 +1090,7 @@
         ]
       },
       {
-        "name": "Squig Katapult",
+        "name": "Squig-Katapult",
         "type": "INF",
         "speed": 10,
         "cc": 6,
@@ -1102,7 +1102,7 @@
         ]
       },
       {
-        "name": "Junkatrukk",
+        "name": "Schrott-Pikk-Up",
         "type": "LV",
         "speed": 25,
         "armour": 5,
@@ -1117,7 +1117,7 @@
         "notes": "Kann 1 Einheit Junkas oder Nobs transportieren. Einheiten dürfen während des Transports schießen und an Feuergefechten teilnehmen, sofern sich kein gegnerisches Modell in Basekontakt mit dem Transporter befindet."
       },
       {
-        "name": "Squiggoth",
+        "name": "Squiggofant",
         "type": "LV",
         "speed": 20,
         "armour": 3,
@@ -1136,7 +1136,7 @@
         "notes": "Kann bis zu 4 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 2 Grotz mitgeführt werden."
       },
       {
-        "name": "Squiggoth Supa-Lobba",
+        "name": "Supa-Lobba-Squiggofant",
         "type": "LV",
         "speed": 20,
         "armour": 3,
@@ -1152,7 +1152,7 @@
         ]
       },
       {
-        "name": "Squiggoth Flakka",
+        "name": "Flakka-Squiggofant",
         "type": "LV",
         "speed": 20,
         "armour": 3,
@@ -1169,7 +1169,7 @@
         ]
       },
       {
-        "name": "Gargantuan Squiggoth",
+        "name": "Riesensquiggofant",
         "type": "WE",
         "speed": 20,
         "armour": 3,
@@ -1186,7 +1186,7 @@
           "Transport"
         ],
         "notes": "Kann bis zu 8 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 4 Grotz mitgeführt werden.",
-        "crit": "The Gargantuan Squiggoth is killed."
+        "crit": "Gargantuan Squiggoth wird zerstört."
       },
       {
         "name": "Orkeosaurus",
@@ -1207,10 +1207,10 @@
           "Transport"
         ],
         "notes": "Kann bis zu 16 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 6 Grotz mitgeführt werden.",
-        "crit": "The Orkeosaurus takes one additional damage, and W3 random units being transported takes a hit."
+        "crit": "Orkeosaurus erleidet 1 zusätzlichen Schaden, und W3 zufällige transportierte Einheiten erleiden einen Treffer."
       },
       {
-        "name": "Steam Gargant",
+        "name": "Dampf-Gargant",
         "type": "WE",
         "speed": "20cm",
         "armour": 4,
@@ -1225,7 +1225,7 @@
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Steam Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "Steam Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       }
     ]
   }

@@ -1,0 +1,3 @@
+﻿$fw='\b(the|and|of|with|to|is|are|may|can|per|each|any|one|two|three|only|this|that|from|for|up|add|replace|take|choose|have|has|be|which|all|its|their|when|if|not|at|by|as|on|or|an|it)\b'
+foreach($f in Get-ChildItem lists_de -Recurse -Filter *.json){ $l=[IO.File]::ReadAllLines($f.FullName); for($i=0;$i -lt $l.Count;$i++){ $s=$l[$i]; if($s -notmatch '^\s*("[^"]+": )?"(.*)",?\s*$'){continue}; $v=$Matches[2]; if($v.Length -lt 12){continue}
+ $c=[regex]::Matches($v,$fw,'IgnoreCase') | ?{ $_.Value -cmatch '^[a-z]' -or $true }; $cm=[regex]::Matches($v,'\b(the|and|of|with|to|is|are|may|can|each|any|from|this|that|which|its|their|when|if|add|replace|choose|have|has|be|per|up)\b'); if($cm.Count -ge 2){ "$($f.Name):$($i+1) $v" } } }

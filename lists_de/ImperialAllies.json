@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Streitkräfte der Collegia Titanica",
     "specialRules": [
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "name": "Imperator Titan",
+        "name": "Imperator-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -37,17 +37,17 @@
           "Beinbastionen"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Null Schilde 8",
           "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Leg Bastions: May transport up to ten infantry units without Sprungmodule oder Beritten"
+          "[*]Beinbastionen: Können bis zu zehn Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
         "name": "Warmonger Titan",
@@ -64,7 +64,7 @@
           "Beinbastionen"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Null Schilde 8",
           "Göttermaschine",
           "Split Fire",
@@ -72,10 +72,10 @@
           "Erweiterte Befehlsreichweite",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Leg Bastions: May transport up to ten infantry units without Sprungmodule oder Beritten"
+          "[*]Beinbastionen: Können bis zu zehn Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
         "name": "Warmaster Titan",
@@ -91,7 +91,7 @@
           "Anvilus Maschinenkanone Batterie|2|"
         ],
         "specialRules": [
-          "Damage Capacity 9",
+          "Schadenskapazität9",
           "Null Schilde 7",
           "Göttermaschine",
           "Split Fire",
@@ -100,10 +100,10 @@
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Warlord Titan",
+        "name": "Warlord-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -116,7 +116,7 @@
           "Gekoppelte Apocalypse-Raketenwerfer|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",
@@ -124,8 +124,8 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "notes": "Muss entweder mit Paired Turbo-Laser Destructors oder Paired Apocalypse Missile Launchers bewaffnet sein. Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "notes": "Muss entweder mit gekoppelten Turbolaser-Destruktoren oder gekoppelten Apokalypse-Raketenwerfern bewaffnet sein. Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
         "name": "Warlord Titan, Todbringer Klasse",
@@ -141,7 +141,7 @@
           "Gekoppelter Gatling-Blaster|0-1|FxF",
           "Gekoppelter Laserblaster|0-1|FxF",
           "Gekoppelte Titanen-Melterkanonen|0-1|",
-          "ARMS (choose two. Max one 0-1)",
+          "ARME (wähle zwei. Höchstens eine 0–1)",
           "Gatling-Blaster|0-2|FwA",
           "Turbolaserzerstörer|0-2|FwA",
           "Laserbrenner|0-2|",
@@ -151,7 +151,7 @@
           "Plasma-Zerstörer|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",
@@ -160,7 +160,7 @@
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
         "name": "Warlord Titan, Nemesis Klasse",
@@ -185,7 +185,7 @@
           "2x Laserblaster|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",
@@ -194,10 +194,10 @@
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Reaver Titan",
+        "name": "Reaver-Titan",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -208,14 +208,14 @@
           "Apocalypse Raketenwerfer||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
         "name": "Reaver Titan ",
@@ -225,19 +225,19 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          ">Standard Configuration<",
+          ">Standard-Konfiguration<",
           "Turbolaserzerstörer|2|FwA",
           "Apocalypse Raketenwerfer||FxF",
-          ">Close Assault Configuration<",
+          ">Nahkampf-Konfiguration<",
           "Apocalypse Raketenwerfer||FxF",
           "Titan Meltakanone||FxF",
           "Titan Kettenfaust||",
-          ">Support Configuration<",
+          ">Support-Konfiguration<",
           "Apocalypse Raketenwerfer|2|FwA",
           "Anvilus-Panzerungslandeplattform||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -245,7 +245,7 @@
           "[*]Anvilus Carapace Landing Pad: Gives all BP-type weapons in the formation 'Indirect Fire'"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
         "name": "Reaver Titan, Hun Class",
@@ -259,7 +259,7 @@
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Vulcan-Megabolter|0-1|FxF",
           "Turbolaserzerstörer|0-1|FxF",
-          "ARMS (choose two)",
+          "ARME (wähle zwei)",
           "Turbolaserzerstörer|0-2|FwA",
           "Gatling-Blaster|0-2|FwA",
           "Titan Energiefaust|0-2|",
@@ -268,14 +268,14 @@
           "Titan Meltakanone|0-2|"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
         "name": "Reaver Titan, Goth Class",
@@ -290,7 +290,7 @@
           "Todesstoß-Rakete|0-1|FxF",
           "Titan Plasmakanone|0-1|FxF",
           "Anvilus-Panzerungslandeplattform|0-1|",
-          "ARMS (choose two. Max one 0-1)",
+          "ARME (wähle zwei. Höchstens eine 0–1)",
           "Turbolaserzerstörer|0-2|FwA",
           "Gatling-Blaster|0-2|FwA",
           "Apocalypse Raketenwerfer|0-2|FwA",
@@ -299,15 +299,15 @@
           "Volcano Kanone|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Anvilus Carapace Landing Pad: Gives all BP-type weapons in the formation 'Indirect Fire'. Allows the purchase of a Lysander Fighter"
+          "[*]Anvilus Carapace Landing Pad: Verleiht allen BP-Waffen im Verband «Indirektes Feuer». Erlaubt den Kauf eines Lysander Fighters"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
         "name": "Warbringer Titan",
@@ -322,7 +322,7 @@
           "Nemesis Tremorgeschütz|0-1|FxF",
           "Volcano Kanone|0-1|FxF",
           "Plasma-Zerstörer|0-1|FxF",
-          "ARMS (choose two. Max one 0-1)",
+          "ARME (wähle zwei. Höchstens eine 0–1)",
           "Turbolaserzerstörer|0-2|FwA",
           "Titan Plasmakanone|0-2|FwA",
           "Laserblaster|0-2|FwA",
@@ -331,14 +331,14 @@
           "Plasma-Zerstörer|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
         "name": "Warhound",
@@ -352,14 +352,14 @@
           "Vulcan-Megabolter||FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit takes a point of damage."
+        "crit": "Die Einheit erleidet 1 Schaden."
       },
       {
         "name": "Warhound ",
@@ -369,25 +369,25 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          ">Standard Configuration<",
+          ">Standard-Konfiguration<",
           "Plasma-Blaster||FwA",
           "Vulcan-Megabolter||FwA",
-          ">Support Configuration<",
+          ">Support-Konfiguration<",
           "Inferno Geschütz||FwA",
           "Vulcan-Megabolter||FwA",
-          ">Tank Hunter Configuration<",
+          ">Tank-Hunter-Konfiguration<",
           "Plasma-Blaster||FwA",
           "Späher-Turbolaserzerstörer||FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit takes a point of damage."
+        "crit": "Die Einheit erleidet 1 Schaden."
       }
     ]
   }

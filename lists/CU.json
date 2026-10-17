@@ -203,7 +203,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin-linked Arachnus Blaze Cannon"
+          "Zwillings-linked Arachnus Blaze Cannon"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -219,8 +219,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin-linked Iliastus Accelator Cannon",
-          "Twin-linked Lastrum Bolt Cannon"
+          "Zwillings-linked Iliastus Accelator Cannon",
+          "Zwillings-linked Lastrum Bolt Cannon"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -236,8 +236,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin-linked Arachnus Blaze Cannon",
-          "Twin-linked Lastrum Bolt Cannon"
+          "Zwillings-linked Arachnus Blaze Cannon",
+          "Zwillings-linked Lastrum Bolt Cannon"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -253,8 +253,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2",
-          "Twin Heavy Bolter"
+          "Zwillings Laserkanone|2",
+          "Schweres Zwillings Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -301,12 +301,12 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "AC Twin-linked Lastrum Bolt Cannon|2|FxF",
+          "AC Zwillings-linked Lastrum Bolt Cannon|2|FxF",
           "AC Arachnus Heavy Blaze Cannon|2|FxF",
           "AC Spiculus Heavy Bolt Launcher|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"

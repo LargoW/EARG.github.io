@@ -28,10 +28,10 @@
         ]
       },
       {
-        "name": "Twin Icarus Autocannon",
+        "name": "Zwillings Icarus Autocannon",
         "type": "CH",
         "weapons": [
-          "Twin Icarus Autocannon"
+          "Zwillings Icarus Autocannon"
         ],
         "specialRules": [
         ]
@@ -71,7 +71,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Autocannon"
+          "Zwillings Autocannon"
         ],
         "specialRules": [
           "Starrköpfig",
@@ -166,7 +166,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Twin Icarus Autocannon",
+          "Zwillings Icarus Autocannon",
           "Thunderstrike Gauntlet",
           "Reaper Chainsword"
         ],
@@ -253,7 +253,7 @@
         "ff": 4,
         "weapons": [
           "Volkite Chierovile",
-          "Twin Rad Cleanser",
+          "Zwillings Rad Cleanser",
           "Graviton Crusher",
           "Hekaton Siege Claw"
         ],
@@ -275,7 +275,7 @@
         "ff": 4,
         "weapons": [
           "Lightning Cannon",
-          "Twin Phased Plasma Fusil",
+          "Zwillings Phased Plasma Fusil",
           "Reaper Chainsword"
         ],
         "specialRules": [
@@ -297,7 +297,7 @@
         "weapons": [
           "Shieldbreaker Missiles|4|",
           "Volcano Lanze||FwA",
-          "Twin Siegebreaker Cannon||",
+          "Zwillings Siegebreaker Cannon||",
           "Plasma Decimator||FwA"
         ],
         "specialRules": [
@@ -316,7 +316,7 @@
         "ff": 3,
         "weapons": [
           "Shieldbreaker Missiles|2|",
-          "Twin Siegebreaker Cannon|2|",
+          "Zwillings Siegebreaker Cannon|2|",
           "Conflagration Cannon",
           "Thundercoil Harpoon"
         ],
@@ -416,7 +416,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Quad Magna Lascannon||FxF",
+          "Quad Magna Laserkanone||FxF",
           "Autocannon|2|FxF",
           "Helios Defense Missiles"
         ],
@@ -500,7 +500,7 @@
         "weapons": [
           "Long Cannon",
           "Multi-Barreled Autocannon|0-1|",
-          "Twin Lascannon|0-1|"
+          "Zwillings Laserkanone|0-1|"
         ],
         "specialRules": [
           "Verstärkte Panzerung",

@@ -34,13 +34,13 @@
     {
       "from": "IG.json",
       "units": [
-        "PDF Infantry",
-        "Thudd Gun",
+        "Infanterie der Planetaren Verteidigungsstreitkräfte",
+        "Thudd-Geschütz",
         "Rapier",
-        "Heavy AA Gun",
-        "Howitzer",
-        "Rough Riders",
-        "Land Transporter"
+        "Schwere Flugabwehrkanone",
+        "Haubitze",
+        "Kavallerie",
+        "Landtransporter"
       ],
       "unitRules": [
       ]
@@ -61,7 +61,7 @@
       "formations": [
         {
           "name": "Paladin Household",
-          "units": "Five Knight-Paladins",
+          "units": "Fünf Knight-Paladins",
           "extraUnits": [
             "Seneschal",
             "Knight-Paladins",
@@ -77,7 +77,7 @@
       "formations": [
         {
           "name": "Castellan Household",
-          "units": "Two Knight-Castellans (any combination configurations)",
+          "units": "Zwei Knight-Castellans (beliebige Kombination von Konfigurationen)",
           "extraUnits": [
             "Seneschal",
             "Knight-Castellans"
@@ -86,7 +86,7 @@
         },
         {
           "name": "Errant Household",
-          "units": "Three Knight-Errants",
+          "units": "Drei Knight-Errants",
           "extraUnits": [
             "Seneschal",
             "Knight-Errants"
@@ -95,7 +95,7 @@
         },
         {
           "name": "Lancer Household",
-          "units": "Three Knight-Lancer",
+          "units": "Drei Knight-Lancer",
           "extraUnits": [
             "Seneschal",
             "Knight-Lancer"
@@ -104,7 +104,7 @@
         },
         {
           "name": "Warden Household",
-          "units": "Four Knight-Wardens (any combination of configurations)",
+          "units": "Vier Knight-Wardens (beliebige Kombination von Konfigurationen)",
           "extraUnits": [
             "Seneschal",
             "Knight-Wardens"
@@ -119,7 +119,7 @@
       "formations": [
         {
           "name": "Planetary Defense Platoon",
-          "units": "Eight PDF Infantry",
+          "units": "Acht PDF Infantry",
           "extraUnits": [
             "Land Transporters",
             "Support Weapons",
@@ -129,21 +129,21 @@
         },
         {
           "name": "Rough Rider Platoon",
-          "units": "Six Rough Riders",
+          "units": "Sechs Rough Riders",
           "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Flak Emplacement",
-          "units": "Three Heavy AA Guns, three Gun Emplacements",
+          "units": "Drei Heavy AA Guns, drei Gun Emplacements",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Howitzer Emplacement",
-          "units": "Four Howitzers, four Gun Emplacements",
+          "units": "Vier Howitzers, vier Gun Emplacements",
           "extraUnits": [
           ],
           "points": 275
@@ -156,12 +156,12 @@
       "formations": [
         {
           "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "units": "Zwei Thunderbolt Fighters",
           "points": 175
         },
         {
           "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "units": "Zwei Marauder Bombers",
           "points": 250
         }
       ]
@@ -174,58 +174,58 @@
       {
         "name": "Seneschal",
         "description": "Füge 1 Seneschal zum Verband hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
-        "name": "0-1 Knight-Baron",
-        "description": "Ersetze den Seneschal und its Knight durch a Knight-Baron",
-        "points": "50 points"
+        "name": "0–1 Knight-Baron",
+        "description": "Ersetze den Seneschal und seinen Knight durch einen Knight-Baron",
+        "points": "50 Punkte"
       },
             {
         "name": "Knight-Paladins",
         "description": "Füge bis zu 2 Knight-Paladins hinzu",
-        "points": "75 points each"
+        "points": "75 Punkte pro Stück"
       },
       {
         "name": "Knight-Castellans",
         "description": "Füge bis zu 2 Knight-Castellans in beliebiger Konfiguration hinzu",
-        "points": "125 points each"
+        "points": "125 Punkte pro Stück"
       },
       {
         "name": "Knight-Lancer",
         "description": "Füge bis zu 2 Knight-Lancers hinzu",
-        "points": "100 points each"
+        "points": "100 Punkte pro Stück"
       },
       {
         "name": "Knight-Wardens",
         "description": "Füge bis zu 2 Knight-Wardens in beliebiger Konfiguration hinzu",
-        "points": "75 points each"
+        "points": "75 Punkte pro Stück"
       },
       {
         "name": "Knight-Errants",
         "description": "Füge bis zu 2 Knight-Errants hinzu",
-        "points": "100 points each"
+        "points": "100 Punkte pro Stück"
       },
       {
         "name": "Land Transporters",
         "description": "Füge 4 Land Transporters hinzu (keine weiteren Aufwertungen möglich).",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Support Weapons",
         "description": "Füge 3 Rapiers oder 2 Thudd Guns hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Entrenchments",
         "description": "40cm Razor Wire, 40cm Trenches",
-        "points": "50 points"
+        "points": "50 Punkte"
       }
     ]
   },
   "about": [
-    "v1.0.Beta: The Knight World list is a mix of the E-UK and NetEA Knight lists, with stats and structure taken from both. As these lists are based on the retro-40k 1990s fluff, most Knights have had their names changed to prevent naming conflicts with the Knights in the current fluff.",
-    "The biggest change from the E-UK and the NetEA Knights is obviously the fact that Knights no longer are DC2 WE, but are H-AV instead. This change makes Knight formations a lot more sane to play with/against, and makes it a lot easier to stay within the EA rules. It also means that sniping the Baron with a Pin-Point is no longer an issue.",
-    "Another significant change is that the Retainer formations are more accessible, making the list a bit more flexible."
+    "v1.0.Beta: Die Liste Knight World ist eine Mischung aus den Knight-Listen von E-UK und NetEA, wobei Werte und Struktur aus beiden übernommen wurden. Da diese Listen auf dem Retro-40k-Hintergrund der 1990er Jahre beruhen, wurden die Namen der meisten Knights geändert, um Namenskonflikte mit den Knights des aktuellen Hintergrunds zu vermeiden.",
+    "Die grösste Änderung gegenüber den Knights von E-UK und NetEA ist offensichtlich, dass Knights nicht mehr DC2 WE sind, sondern stattdessen H-AV. Diese Änderung macht Knight-Verbände deutlich vernünftiger zu spielen und zu bekämpfen und erleichtert es erheblich, innerhalb der EA-Regeln zu bleiben. Sie bedeutet auch, dass das Ausschalten des Baron mit einem Pin-Point kein Problem mehr darstellt.",
+    "Eine weitere wesentliche Änderung ist, dass die Retainer-Verbände leichter zugänglich sind, wodurch die Liste etwas flexibler wird."
   ]
 }

@@ -87,7 +87,7 @@
           "Gauss Flayers"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich",
           "Regeneration"
         ]
@@ -163,7 +163,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich",
           "Infiltratorens",
           "Regeneration"
@@ -180,7 +180,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich",
           "Aufklärer",
           "Regeneration",
@@ -243,7 +243,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Tesla Carbine"
+          "Zwillings Tesla Carbine"
         ],
         "specialRules": [
           "Regeneration",
@@ -329,7 +329,7 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Twin Tesla Destructor",
+          "Zwillings Tesla Destructor",
           "Tesla Cannon"
         ],
         "specialRules": [
@@ -402,7 +402,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich",
           "Regeneration",
           "Geländegängig",
@@ -421,7 +421,7 @@
         "specialRules": [
           "Regeneration",
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Teleport"
         ]
       },
@@ -457,9 +457,9 @@
           "Gauss Flux Arc"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Living Metal",
           "Teleport",
           "Enduring"
@@ -478,7 +478,7 @@
           "Gauss Flux Arc"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Furchtlos",
           "Portal",
           "Living Metal",
@@ -500,7 +500,7 @@
           "Star Cage"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Furchtlos",
           "Living Metal",
           "Hilfstransportschiff",
@@ -520,7 +520,7 @@
           "Harvester Tendrils"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Furchtlos",
           "Living Metal",
           "Portal",

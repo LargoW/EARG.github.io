@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Eldar",
   "army": "Craftworld Ulthwé",
   "version": "1.0.Beta-2",
@@ -19,38 +19,38 @@
     {
       "from": "EL.json",
       "units": [
-        "Seer Council",
-        "Avatar",
-        "Eldar Exarch",
-        "Eldar Farseer",
-        "Eldar Guardians",
-        "Eldar Rangers",
-        "Eldar Heavy Weapons Platform",
-        "Support Weapons Platform",
-        "Eldar Jetbikes",
-        "Dire Avengers",
-        "Fire Dragons",
-        "Dark Reapers",
-        "Howling Banshees",
-        "Striking Scorpions",
-        "Shining Spears",
-        "Swooping Hawks",
-        "Warp Spiders",
-        "Wraithguards",
-        "Vyper",
-        "War Geländegängig",
-        "Wraithlord",
-        "Wave Serpent",
+        "Runenprophetenrat",
+        "Avatar des Khaine",
+        "Eldar-Exarch",
+        "Eldar-Runenprophet",
+        "Eldar-Gardisten",
+        "Ranger",
+        "Eldar-Schwerwaffenplattform",
+        "Unterstützungswaffenplattform",
+        "Eldar-Jetbikes",
+        "Asuryans Jäger",
+        "Feuerdrachen",
+        "Schwarze Kaindar",
+        "Banshees",
+        "Skorpionkrieger",
+        "Sternenlanzen",
+        "Kriegsfalken",
+        "Warpspinnen",
+        "Phantomdroiden",
+        "Viper",
+        "Kampfläufer",
+        "Phantomlord",
+        "Wellenschlange",
         "Falcon",
-        "Fire Prism",
-        "Night Spinner",
-        "Firestorm",
-        "Wraithknight",
-        "Scorpion",
-        "Cobra",
-        "Storm Serpent",
+        "Illum Zar",
+        "Nachtspinne",
+        "Feuersturm",
+        "Phantomritter",
+        "Skorpion",
+        "Kobra",
+        "Sturmserpent",
         "Revenant Titan",
-        "Warlock Titan"
+        "Runenleser-Titan"
       ],
       "unitRules": [
         "Holofields (x)",
@@ -62,11 +62,11 @@
     {
       "from": "eldarNavy.json",
       "units": [
-        "Nightwing Interceptor",
-        "Phoenix Bomber",
+        "Nachtschwinge-Abfangjäger",
+        "Phönix-Bomber",
         "Vampire Raider",
-        "Wraithship",
-        "Dragonship"
+        "Phantomschiff",
+        "Drachenschiff"
       ],
       "unitRules": [
       ]
@@ -77,7 +77,7 @@
       "name": "Ulthwé-Spezialregeln",
       "formations": [
         {
-          "name": "0-1 Avatar",
+          "name": "0–1 Avatar",
           "units": "Ein Avatar",
           "points": 50
         },
@@ -86,7 +86,7 @@
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden.",
           "extraUnits": [
           ],
-          "points": "Free"
+          "points": "kostenlos"
         }
       ]
     },
@@ -111,7 +111,7 @@
           "extraUnits": [
             "Seer Council",
             "Ersetze bis zu drei Eldar Guardians durch dieselbe Anzahl an Eldar Heavy Weapon Platforms: kostenlos",
-            "Ersetze any number of Wave Serpents durch two Falcons each: 50 Punkte pro Stück"
+            "Ersetze beliebig viele Wave Serpents durch jeweils zwei Falcons: 50 Punkte pro Stück"
           ],
           "points": 325
         }
@@ -122,10 +122,10 @@
       "description": "Für jede Ulthwé Warhost dürfen bis zu zwei Ulthwé Line Troupes gewählt werden.",
       "formations": [
           {
-            "name": "War Geländegängigs",
-            "units": "Vier War Geländegängigs",
+            "name": "War Walkers",
+            "units": "Vier War Walkers",
             "extraUnits": [
-                "Füge bis zu zwei War Geländegängigs hinzu: 25 Punkte pro Stück"
+                "Füge bis zu zwei War Walkers hinzu: 25 Punkte pro Stück"
             ],
             "points": 150
           },
@@ -133,7 +133,7 @@
             "name": "Windriders",
             "units": "Sechs Eldar Jetbikes",
             "extraUnits": [
-              "Ersetze bis zu six Eldar Jetbikes durch Vypers: kostenlos"
+              "Ersetze bis zu sechs Eldar Jetbikes durch Vypers: kostenlos"
             ],
             "points": 200
         },
@@ -168,7 +168,7 @@
           "points": 175
         },
         {
-          "name": "Rangers",
+          "name": "Ranger",
           "units": "Vier Eldar Rangers",
           "extraUnits": [
           ],
@@ -179,7 +179,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu two Falcons durch Firestorms: kostenlos"
+            "Ersetze bis zu zwei Falcons durch Firestorms: kostenlos"
           ],
           "points": 250
         }
@@ -226,14 +226,14 @@
           "points": 650
         },
         {
-          "name": "0-1 Warlock Titan",
+          "name": "0–1 Warlock Titan",
           "units": "Ein Warlock Titan",
           "extraUnits": [
           ],
           "points": 850
         },
         {
-          "name": "0-1 Spacecraft",
+          "name": "0–1 Raumschiff",
           "units": "Ein Wraithship",
           "extraUnits": [
             "Ersetze durch ein Dragonship: 150 Punkte"
@@ -245,12 +245,12 @@
   ],
   "upgrades": {
     "title": "Ulthwé Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "0-1 Seer Council",
+        "name": "0–1 Seer Council",
         "description": "Ersetze einen Farseer durch einen Seer Council.",
-        "points": "50 points"
+        "points": "50 Punkte"
       }
     ]
   }

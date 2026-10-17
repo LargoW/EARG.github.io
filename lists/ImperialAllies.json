@@ -36,17 +36,17 @@
           "Quake Cannon||FxF",
           "Defense Laser||",
           "Battle Cannon|4|",
-          "Leg Bastions"
+          "Beinbastionen"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Null Schilde 8",
           "Göttermaschine",
           "Split Fire",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Leg Bastions: May transport up to ten infantry units without Sprungmodule oder Beritten"
+          "[*]Beinbastionen: May transport up to ten infantry units without Sprungmodule oder Beritten"
         ],
         "notes": "May step over units and pieces of terrain that that are lower than the unit’s knees and less than 2cm wide.",
         "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
@@ -63,10 +63,10 @@
           "Doomstrike Missile|8|FwA",
           "Quad Hydra Autocannon|4|",
           "Head Gun||FxF",
-          "Leg Bastions"
+          "Beinbastionen"
         ],
         "specialRules": [
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Null Schilde 8",
           "Göttermaschine",
           "Split Fire",
@@ -74,7 +74,7 @@
           "Erweiterte Befehlsreichweite",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Leg Bastions: May transport up to ten infantry units without Sprungmodule oder Beritten"
+          "[*]Beinbastionen: May transport up to ten infantry units without Sprungmodule oder Beritten"
         ],
         "notes": "May step over units and pieces of terrain that that are lower than the unit’s knees and less than 2cm wide.",
         "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
@@ -93,7 +93,7 @@
           "Anvilus Autocannon Battery|2|"
         ],
         "specialRules": [
-          "Damage Capacity 9",
+          "Schadenskapazität9",
           "Null Schilde 7",
           "Göttermaschine",
           "Split Fire",
@@ -114,11 +114,11 @@
         "weapons": [
           "Gatling Blaster||FwA",
           "Volcano Cannon||FwA",
-          "Paired Turbo-Laser Destructors|0-1|FxF",
-          "Paired Apocalypse Missile Launchers|0-1|FxF"
+          "Gekoppelte Turbolaser-Destruktoren|0-1|FxF",
+          "Gekoppelte Apokalypse-Raketenwerfer|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",
@@ -126,7 +126,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "notes": "Must be armed with either Paired Turbo-Laser Destructors oder Paired Apocalypse Missile Launchers. May step over units and pieces of terrain that that are lower than the unit’s knees and less than 2cm wide.",
+        "notes": "Must be armed with either gekoppelten Turbolaser-Destruktoren oder gekoppelten Apokalypse-Raketenwerfern. May step over units and pieces of terrain that that are lower than the unit’s knees and less than 2cm wide.",
         "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
       },
       {
@@ -138,9 +138,9 @@
         "ff": 3,
         "weapons": [
           "Rumpfbewaffung (wähle eine)",
-          "Paired Turbo-Laser Destructors|0-1|FxF",
-          "Paired Apocalypse Missile Launchers|0-1|FxF",
-          "Paired Gatling Blasters|0-1|FxF",
+          "Gekoppelte Turbolaser-Destruktoren|0-1|FxF",
+          "Gekoppelte Apokalypse-Raketenwerfer|0-1|FxF",
+          "Gekoppelte Gatling Blaster|0-1|FxF",
           "Paired Laser Blasters|0-1|FxF",
           "Paired Titan Melta Cannons|0-1|",
           "ARMS (choose two. Max one 0-1)",
@@ -153,7 +153,7 @@
           "Plasma Destructor|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",
@@ -175,8 +175,8 @@
           "Rumpfbewaffung (wähle eine)",
           "2x Barrage Missile|0-1|FxF",
           "2x Vortex Missile|0-1|FxF",
-          "Paired Turbo-Laser Destructors|0-1|FxF",
-          "Paired Gatling Blasters|0-1|FxF",
+          "gekoppelten Turbolaser-Destruktoren|0-1|FxF",
+          "Gekoppelte Gatling Blaster|0-1|FxF",
           "Paired Laser Blasters|0-1|FxF",
           "Paired Titan Plasma Cannons|0-1|FxF",
           "Arme (wähle eine)",
@@ -187,7 +187,7 @@
           "2x Laser Blaster|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",
@@ -210,7 +210,7 @@
           "Apocalypse Missile Launcher||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -239,7 +239,7 @@
           "Anvilus Carapace Landing Pad||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -270,7 +270,7 @@
           "Titan Melta Cannon|0-2|"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -301,7 +301,7 @@
           "Volcano Cannon|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -333,7 +333,7 @@
           "Plasma Destructor|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -354,7 +354,7 @@
           "Vulcan Mega-Bolter||FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -382,7 +382,7 @@
           "Scout Turbo-Laser Destructor||FwA"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",

@@ -12,8 +12,8 @@
         "armour": 6,
         "weapons": [
           "AC Ion Cannon",
-          "AC Twin Missile Pod",
-          "AC Twin Burst Cannon"
+          "AC Zwillings Missile Pod",
+          "AC Zwillings Burst Cannon"
         ],
         "specialRules": [
         ]
@@ -25,7 +25,7 @@
         "armour": 6,
         "weapons": [
           "AC Quad Ion Turret",
-          "AC Twin Burst Cannon"
+          "AC Zwillings Burst Cannon"
         ],
         "specialRules": [
         ]
@@ -37,8 +37,8 @@
         "armour": 4,
         "weapons": [
           "AC Pulse Bomb Generator",
-          "AC Twin Missile Pod",
-          "AC Twin Burst Cannon"
+          "AC Zwillings Missile Pod",
+          "AC Zwillings Burst Cannon"
         ],
         "specialRules": [
         ]
@@ -49,8 +49,8 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Ion Cannon",
-          "AC Twin Missile Pod",
+          "AC Zwillings Ion Cannon",
+          "AC Zwillings Missile Pod",
           "AC Seeker Missiles"
         ],
         "specialRules": [
@@ -64,10 +64,10 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Railcannon",
-          "AC Twin Missile Pod",
+          "AC Zwillings Railcannon",
+          "AC Zwillings Missile Pod",
           "AC Seeker Missiles",
-          "AC Twin Burst Cannon"
+          "AC Zwillings Burst Cannon"
         ],
         "specialRules": [
         ]
@@ -80,9 +80,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Twin Missile Pod",
+          "AC Zwillings Missile Pod",
           "AC Seeker Missiles",
-          "AC Twin Burst Cannon"
+          "AC Zwillings Burst Cannon"
         ],
         "specialRules": [
           "Planetfall",

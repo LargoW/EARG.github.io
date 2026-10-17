@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Chaos Space Marines",
   "army": "Iron Warriors",
   "version": "1.0.Beta-2",
@@ -17,27 +17,27 @@
     {
       "from": "CSM.json",
       "units": [
-        "Iron Warriors Warsmith",
-        "Iron Warriors Warpsmith",
-        "Daemon Prince",
+        "Iron-Warriors-Kriegsschmied",
+        "Iron-Warriors-Warpenschmied",
+        "Dämonenprinz",
         "Chaos Space Marines",
         "Havocs",
-        "Chosen",
-        "Bezashk Destroyers",
-        "Tyrant Siege Terminators",
-        "Obliterators",
-        "Iron Warriors Basilisk",
-        "Bezashk Medusa",
-        "Chaos Spartan Assault Tank",
-        "Chaos Typhon Heavy Siege Tank",
+        "Auserkorene",
+        "Bezashk-Zerstörer",
+        "Tyrant-Belagerungsterminatoren",
+        "Kyborgs",
+        "Basilisk der Iron Warriors",
+        "Bezashk-Medusa",
+        "Chaos-Spartan-Sturmpanzer",
+        "Schwerer Chaos-Typhon-Belagerungspanzer",
         "Chaos Rhino",
-        "Chaos Siege Rhino",
+        "Chaos-Belagerungsrhino",
         "Chaos Predator",
         "Chaos Land Raider",
         "Chaos Vindicator",
-        "Chaos Dreadnought",
-        "Chaos Siege Dreadnought",
-        "Iron Warriors Stormsword"
+        "Chaos-Cybot",
+        "Chaos-Belagerungscybot",
+        "Iron-Warriors-Stormsword"
       ],
       "unitRules": [
         "Bionics",
@@ -48,9 +48,9 @@
     {
       "from": "darkmechanicus.json",
       "units": [
-        "Defiler",
-        "Maulerfiend",
-        "Decimator",
+        "Geißel",
+        "Schlächterbestie",
+        "Dezimator",
         "Ordinatus Hereticus ",
         "Ordinatus Cyclothrathe"
       ],
@@ -76,7 +76,7 @@
       "formations": [
         {
           "name": "Iron Warriors Retinue",
-          "units": "One Iron Warriors Warpsmith, six Chaos Space Marines",
+          "units": "Ein Iron Warriors Warpsmith, sechs Chaos Space Marines",
           "extraUnits": [
             "Ersetze 2 Chaos Space Marines durch 2 Havocs: 25 Punkte",
             "Oberbefehlshaber",
@@ -90,7 +90,7 @@
         },
         {
           "name": "Iron Warriors Armoured Company",
-          "units": "Six Chaos Vindicators",
+          "units": "Sechs Chaos Vindicators",
           "extraUnits": [
             "Ersetze 6 Chaos Vindicators durch 6 Chaos Predators (25 Punkte), 3 Chaos Spartan Assault Tanks (75 Punkte), oder 6 Chaos Land Raiders (125 Punkte)"
           ],
@@ -98,7 +98,7 @@
         },
         {
           "name": "Havocs",
-          "units": "One Iron Warriors Warpsmith, four Havocs, Chaos Spartan Assault Tank",
+          "units": "Ein Iron Warriors Warpsmith, vier Havocs, Chaos Spartan Assault Tank",
           "extraUnits": [
             "Ersetze den Chaos Spartan Assault Tank durch 2 Chaos Land Raiders: 25 Punkte",
             "Oberbefehlshaber",
@@ -114,16 +114,16 @@
       "formations": [
         {
           "name": "Chosen",
-          "units": "Four Chosen, two Chaos Rhinos",
+          "units": "Vier Chosen, zwei Chaos Rhinos",
           "extraUnits": [
-            "Ersetze 2 Chaos Rhinos durch 2 Chaos Siege Rhinos (10 points), oder 2 Chaos Dreadnoughts oder 2 Chaos Siege Dreadnoughts (75 Punkte)",
+            "Ersetze 2 Chaos Rhinos durch 2 Chaos Siege Rhinos (10 Punkte), oder 2 Chaos Dreadnoughts oder 2 Chaos Siege Dreadnoughts (75 Punkte)",
             "Vindicators"
           ],
           "points": 150
         },
         {
           "name": "Bezashk Destroyers",
-          "units": "One Iron Warriors Warpsmith, four Bezashk Destroyers",
+          "units": "Ein Iron Warriors Warpsmith, vier Bezashk Destroyers",
           "extraUnits": [
             "Vindicators"
           ],
@@ -131,7 +131,7 @@
         },
         {
           "name": "Dreadnought Assault Pack",
-          "units": "Four Chaos Dreadnoughts",
+          "units": "Vier Chaos Dreadnoughts",
           "extraUnits": [
             "Dreadnoughts",
             "Dreadclaws"
@@ -140,7 +140,7 @@
         },
         {
           "name": "Tyrant Terminators",
-          "units": "One Iron Warriors Warpsmith, four Tyrant Siege Terminators",
+          "units": "Ein Iron Warriors Warpsmith, vier Tyrant Siege Terminators",
           "extraUnits": [
             "Obliterators",
             "Oberbefehlshaber",
@@ -167,14 +167,14 @@
         },
         {
           "name": "Bezashk Siege Battery",
-          "units": "Four Bezashk Medusa",
+          "units": "Vier Bezashk Medusa",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Iron Warriors Artillery Battery",
-          "units": "Three Iron Warriors Basilisks",
+          "units": "Drei Iron Warriors Basilisks",
           "extraUnits": [
             "Füge 1 Iron Warriors Basilisk hinzu: 75 Punkte"
           ],
@@ -182,7 +182,7 @@
         },
         {
           "name": "Heavy Siege Tanks",
-          "units": "Two Chaos Typhon Heavy Siege Tanks",
+          "units": "Zwei Chaos Typhon Heavy Siege Tanks",
           "extraUnits": [
             "Füge 1 Chaos Typhon Heavy Siege Tank hinzu: 125 Punkte"
           ],
@@ -196,52 +196,52 @@
       "formations": [
         {
           "name": "Maulerfiends",
-          "units": "Four Maulerfiends",
+          "units": "Vier Maulerfiends",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Decimator",
-          "units": "One Decimator",
+          "units": "Ein Decimator",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Defiler Pack",
-          "units": "Four Defilers",
+          "units": "Vier Defilers",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Ordinatus Hereticus",
-          "units": "Two Ordinatus Hereticus",
+          "units": "Zwei Ordinatus Hereticus",
           "extraUnits": [
           ],
           "points": 325
         },
         {
-          "name": "0-1 Ordinatus Cyclothrathe",
-          "units": "One Ordinatus Cyclothrathe",
+          "name": "0–1 Ordinatus Cyclothrathe",
+          "units": "Ein Ordinatus Cyclothrathe",
           "extraUnits": [
           ],
           "points": 450
         },
         {
           "name": "Heldrakes",
-          "units": "Two Heldrakes",
+          "units": "Zwei Heldrakes",
           "points": 225
         },
         {
           "name": "Harbringer",
-          "units": "One Harbringer Bomber",
+          "units": "Ein Harbringer Bomber",
           "points": 300
         },
         {
-          "name": "0-1 Chaos Cruiser",
-          "units": "One Devastation Class Cruiser",
+          "name": "0–1 Chaos Cruiser",
+          "units": "Ein Devastation Class Cruiser",
           "extraUnits": [
             "Battleship"
           ],
@@ -256,20 +256,20 @@
     "items": [
       {
         "name": "Battleship",
-        "description": "Ersetze den Devastation Class Cruiser durch a Despoiler Class Battleship",
-        "points": "50 points"
+        "description": "Ersetze den Devastation Class Cruiser durch ein Despoiler Class Battleship",
+        "points": "50 Punkte"
       },
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0–1 Oberbefehlshaber",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Ersetze 1 Iron Warriors Warpsmith durch an Iron Warriors Warsmith",
-            "points": "50 points"
+            "description": "Ersetze 1 Iron Warriors Warpsmith durch einen Iron Warriors Warsmith",
+            "points": "50 Punkte"
           },
           {
-            "description": "Ersetze 1 Iron Warriors Warpsmith und its Einheit durch einen Daemon Prince",
-            "points": "100 points"
+            "description": "Ersetze 1 Iron Warriors Warpsmith und seine Einheit durch einen Daemon Prince",
+            "points": "100 Punkte"
           }
         ]
       },
@@ -279,41 +279,41 @@
         "options": [
           {
             "description": "Füge bis zu 3 Chaos Rhinos hinzu",
-            "points": "10 points each"
+            "points": "10 Punkte pro Stück"
           },
           {
             "description": "Füge bis zu 3 Chaos Siege Rhinos hinzu",
-            "points": "15 points each"
+            "points": "15 Punkte pro Stück"
           },
           {
             "description": "Füge bis zu 3 Chaos Land Raiders hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
         },
         {
           "description": "Füge bis zu 2 Chaos Spartan Assault Tanks hinzu",
-          "points": "75 points each"
+          "points": "75 Punkte pro Stück"
         }
         ]
       },
       {
-        "name": "Obliterators",
+        "name": "Kyborgs",
         "description": "Füge bis zu 2 Obliterators hinzu",
-        "points": "75 points each"
+        "points": "75 Punkte pro Stück"
       },
       {
         "name": "Dreadnoughts",
         "description": "Füge bis zu 2 Chaos Dreadnoughts, oder bis zu 2 Siege Dreadnoughts hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Dreadclaws",
         "description": "Transportiere einen Verband, der ausschließlich Infanterieeinheiten und Dreadnoughts enthält, in Dreadclaws (der Verband muss auf einem Raumschiff aufgestellt werden).",
-        "points": "5 points per unit"
+        "points": "5 Punkte pro Einheit"
       },
       {
         "name": "Vindicators",
         "description": "Füge bis zu 2 Chaos Vindicators hinzu",
-        "points": "35 points each"
+        "points": "35 Punkte pro Stück"
       }
     ]
   }

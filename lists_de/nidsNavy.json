@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Tyraniden-Schwarmflotte",
     "specialRules": [
@@ -7,7 +7,7 @@
     ],
     "unit": [
       {
-        "name": "Mycetic Spore",
+        "name": "Landungsspore",
         "type": "Special",
         "speed": "n/a",
         "weapons": [
@@ -24,7 +24,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "3BP, MW"
@@ -42,7 +42,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "6BP, MW"
@@ -51,7 +51,7 @@
           }
         ],
         "specialRules": [
-          "Slow to Arrive (May only arrive from turn 2 onwards), Transport"
+          "Verzögerte Ankunft (darf erst ab Runde 2 eintreffen), Transport"
         ],
         "notes": "Kann drei Myzetische Sporen einschließlich ihrer Fracht transportieren."
       }

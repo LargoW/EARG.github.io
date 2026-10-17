@@ -181,10 +181,10 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
@@ -197,10 +197,10 @@
           "Mitralocks"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
@@ -227,10 +227,10 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
@@ -246,10 +246,10 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
@@ -263,11 +263,11 @@
           "Missile Launcher"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
           "Antigrav",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
@@ -282,10 +282,10 @@
           "Arc Claws"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous",
+          "Schwerfällig",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -300,10 +300,10 @@
           "Plasma Culverins"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
@@ -314,7 +314,7 @@
         "ff": "5+/4",
         "weapons": [
           {
-            "name": "0-1x Twin Lascannon",
+            "name": "0-1x Zwillings Laserkanone",
             "modes": [
               {
                 "firepower": "AT4+",
@@ -323,7 +323,7 @@
             ]
           },
           {
-            "name": "0-1x Twin Heavy Bolter",
+            "name": "0-1x Schweres Zwillings Bolter",
             "modes": [
               {
                 "firepower": "AP4+",
@@ -333,11 +333,11 @@
           }
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich"
         ],
-        "notes": "Armed with either Twin Lascannon oder Twin Heavy Bolter. Tarantulas armed with Twin Heavy Bolter have their firefight value increased to 4+."
+        "notes": "Armed with either Zwillings Laserkanone oder Schweres Zwillings Bolter. Tarantulas armed with Schweres Zwillings Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Hyperios Sentry",
@@ -349,7 +349,7 @@
           "Hyperios Launcher"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich"
         ]
@@ -385,7 +385,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Autocannon"
+          "Zwillings Autocannon"
         ],
         "specialRules": [
           "Geländegängig"
@@ -415,14 +415,14 @@
         "ff": "5+/4",
         "weapons": [
           "Eradication Beamer|0-1|",
-          "Twin Heavy Phosphor Blaster|0-1|",
+          "Schweres Zwillings Phosphor Blaster|0-1|",
           "Neutron Laser|0-1|",
           "Icarus Array|0-1|"
         ],
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Must choose either an Eradication Beamer, Twin Heavy Phosphor Blaster, Icarus Array oder Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
+        "notes": "Must choose either an Eradication Beamer, Schweres Zwillings Phosphor Blaster, Icarus Array oder Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
       },
       {
         "name": "Chimera",
@@ -448,7 +448,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber|2|"
+          "Schweres Zwillings Maschinengewehr|2|"
         ],
         "specialRules": [
           "Transport"
@@ -465,7 +465,7 @@
         "weapons": [
           "Ferrumite Cannon",
           "Missile Launcher",
-          "Twin Heavy Stubber"
+          "Schweres Zwillings Maschinengewehr"
         ],
         "specialRules": [
         ]
@@ -478,7 +478,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Hydra Autocannon|2",
+          "Zwillings Hydra Autocannon|2",
           "Heavy Bolter"
         ],
         "specialRules": [
@@ -526,7 +526,7 @@
         "ff": 4,
         "weapons": [
           "Battle Cannon",
-          "Lascannon",
+          "Laserkanone",
           "Heavy Bolter|2|"
         ],
         "specialRules": [
@@ -542,7 +542,7 @@
         "ff": 3,
         "weapons": [
           "Demolisher",
-          "Lascannon",
+          "Laserkanone",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
@@ -558,7 +558,7 @@
         "ff": 5,
         "weapons": [
           "Plasma Destroyer",
-          "Lascannon",
+          "Laserkanone",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
@@ -573,7 +573,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber|2|",
+          "Schweres Zwillings Maschinengewehr|2|",
           ">Battle Weapons<",
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Missile Launcher|0-1|FxF",
@@ -587,12 +587,12 @@
           "Volcano Cannon|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "notes": "Armed with a single Battle Weapon. May be upgraded to a Support Weapon.",
+        "notes": "Armed with a single Battle Weapon. May be upgraded to a Unterstützungswaffe.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
       },
       {
@@ -603,7 +603,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber|2|",
+          "Schweres Zwillings Maschinengewehr|2|",
           ">Battle Weapons<",
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Missile Launcher|0-1|FxF",
@@ -613,7 +613,7 @@
           "Gatling Blaster|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -629,17 +629,17 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber|2|",
-          "Lascannon|2|",
+          "Schweres Zwillings Maschinengewehr|2|",
+          "Laserkanone|2|",
           ">Ordinatus Armageddon<",
           "Nova Cannon||FxF",
           ">Ordinatus Mars<",
-          "Sonic Versprengenor||FxF",
+          "Sonic Disruptor||FxF",
           ">Ordinatus Golgotha<",
           "Hellfire Missile|6|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -654,10 +654,10 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Heavy Stubber|4|"
+          "Schweres Zwillings Maschinengewehr|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"
@@ -701,8 +701,8 @@
         "armour": 5,
         "weapons": [
           "AC Avenger Bolt Cannon||FxF",
-          "AC Twin Autocannon||FxF",
-          "AC Heavy Stubber Turret"
+          "AC Zwillings Autocannon||FxF",
+          "AC Heavy Maschinengewehr Turret"
         ],
         "specialRules": [
         ]
@@ -713,8 +713,8 @@
         "armour": 5,
         "weapons": [
           "AC Phosphor Blaster|FxF",
-          "AC Twin Lascannon|FxF",
-          "AC Twin Heavy Stubber Turret"
+          "AC Zwillings Laserkanone|FxF",
+          "AC Schweres Zwillings Maschinengewehr Turret"
         ],
         "specialRules": [
         ]

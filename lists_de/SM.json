@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Space-Marine-Streitkräfte",
     "specialRules": [
@@ -17,7 +17,7 @@
         ]
       },
       {
-        "name": "Wolf Lord Captain",
+        "name": "Wolfslord-Kapitän",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -52,7 +52,7 @@
         ]
       },
       {
-        "name": "Grey Knights Captain",
+        "name": "Captain der Grey Knights",
         "type": "CH",
         "weapons": [],
         "specialRules": [
@@ -61,7 +61,7 @@
         ]
       },
       {
-        "name": "Grey Knights Justicar",
+        "name": "Justicar der Grey Knights",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -74,7 +74,7 @@
         ]
       },
       {
-        "name": "Watch Sergeant",
+        "name": "Deathwatch-Sergeant",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "name": "Chaplain",
+        "name": "Ordenspriester",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -96,7 +96,7 @@
         ]
       },
       {
-        "name": "Iron Hands Captain",
+        "name": "Captain der Iron Hands",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -109,7 +109,7 @@
         ]
       },
       {
-        "name": "Iron Hands Veteran Sergeant",
+        "name": "Veteranensergeant der Iron Hands",
         "type": "CH",
         "weapons": [
           "Boltpistolen"
@@ -131,7 +131,7 @@
         ]
       },
       {
-        "name": "Librarian",
+        "name": "Scriptor",
         "type": "CH",
         "weapons": [
           "Schmetterschlag"
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "name": "Blood Ravens Librarian",
+        "name": "Blood-Ravens-Scriptor",
         "type": "CH",
         "weapons": [
           "Schmetterschlag"
@@ -154,7 +154,7 @@
         ]
       },
       {
-        "name": "Blood Ravens Oberbefehlshaber",
+        "name": "Blood-Ravens-Oberbefehlshaber",
         "type": "CH",
         "weapons": [
           "Schmetterschlag",
@@ -167,7 +167,7 @@
         ]
       },
       {
-        "name": "Iron Hands Oberbefehlshaber",
+        "name": "Iron-Hands-Oberbefehlshaber",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -190,7 +190,7 @@
         ]
       },
       {
-        "name": "Great Wolf Oberbefehlshaber",
+        "name": "Großwolf-Oberbefehlshaber",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -202,7 +202,7 @@
         ]
       },
       {
-        "name": "Grey Knights Grand Master",
+        "name": "Großmeister der Grey Knights",
         "type": "CH",
         "weapons": [
           "Schwerer Dämonenhammer"
@@ -215,7 +215,7 @@
         ]
       },
       {
-        "name": "Watch Befehlshaber",
+        "name": "Deathwatch-Befehlshaber",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "name": "Assaults",
+        "name": "Sturmtrupps",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -242,7 +242,7 @@
         ]
       },
       {
-        "name": "Blood Claw Assaults",
+        "name": "Blutklauen-Sturmtrupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -258,7 +258,7 @@
         "notes": "Zählt für Transportzwecke als Tacticals."
       },
       {
-        "name": "Sky Claw Assaults",
+        "name": "Himmelsklauen-Sturmtrupps",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -273,7 +273,7 @@
         ]
       },
       {
-        "name": "Assault Bikes",
+        "name": "Sturm-Bikes",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -288,7 +288,7 @@
         ]
       },
       {
-        "name": "Swift Claw Assault Bikes",
+        "name": "Schnellklauen-Sturmbikes",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -303,7 +303,7 @@
         ]
       },
       {
-        "name": "Fenrisian Wolves",
+        "name": "Fenriswölfe",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -315,7 +315,7 @@
         ]
       },
       {
-        "name": "Thunderwolf Cavalry",
+        "name": "Donnerwolfkavallerie",
         "type": "INF",
         "speed": 25,
         "armour": 3,
@@ -332,7 +332,7 @@
         "notes": "Zählt beim Transport als Terminators."
       },
       {
-        "name": "Death Company Marines",
+        "name": "Todeskompanie-Marines",
         "type": "INF",
         "speed": "15cm",
         "armour": 4,
@@ -349,7 +349,7 @@
         "notes": "Zählt beim Transport als Tacticals."
       },
       {
-        "name": "Devastators",
+        "name": "Devastor-Trupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -360,7 +360,7 @@
         ]
       },
       {
-        "name": "Iron Hands Devastators",
+        "name": "Iron-Hands-Devastortrupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -371,7 +371,7 @@
         ]
       },
       {
-        "name": "Long Fang Devastators",
+        "name": "Langfang-Devastortrupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -384,7 +384,7 @@
         "notes": "Zählen für Transportzwecke als Devastators."
       },
       {
-        "name": "Dark Angels Devastators",
+        "name": "Dark-Angels-Devastortrupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -395,7 +395,7 @@
         ]
       },
       {
-        "name": "Deathwatch Devastators",
+        "name": "Deathwatch-Devastortrupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -422,7 +422,7 @@
         ]
       },
       {
-        "name": "Raven Guard Scouts",
+        "name": "Raven-Guard-Scouts",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -438,7 +438,7 @@
         ]
       },
       {
-        "name": "Wolf Scouts",
+        "name": "Wolf-Scouts",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -453,7 +453,7 @@
         ]
       },
       {
-        "name": "Tacticals",
+        "name": "Taktische Trupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -464,7 +464,7 @@
         ]
       },
       {
-        "name": "Grey Hunter Tacticals",
+        "name": "Graumähnen-Taktische-Trupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -477,7 +477,7 @@
         "notes": "Zählen für Transportzwecke als Tacticals."
       },
       {
-        "name": "Deathwatch Tacticals",
+        "name": "Deathwatch-Taktische-Trupps",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -488,7 +488,7 @@
         ]
       },
       {
-        "name": "Deathwatch Black Shields",
+        "name": "Deathwatch-Schwarze-Schilde",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -500,7 +500,7 @@
         ]
       },
       {
-        "name": "Space Marine Rapier",
+        "name": "Space-Marine-Rapier",
         "type": "INF",
         "speed": 10,
         "armour": 5,
@@ -513,7 +513,7 @@
         ]
       },
       {
-        "name": "Space Marine Thudd Gun",
+        "name": "Space-Marine-Thudd-Geschütz",
         "type": "INF",
         "speed": 10,
         "armour": 5,
@@ -526,7 +526,7 @@
         ]
       },
       {
-        "name": "Space Marine Thunderfire",
+        "name": "Space-Marine-Thunderfire",
         "type": "INF",
         "speed": 10,
         "armour": 5,
@@ -539,7 +539,7 @@
         ]
       },
       {
-        "name": "Terminators",
+        "name": "Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -556,7 +556,7 @@
         ]
       },
       {
-        "name": "Wolf Guard Terminators",
+        "name": "Wolfsgarde-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -573,7 +573,7 @@
         "notes": "Kann in Landungskapseln aufgestellt werden."
       },
       {
-        "name": "Assault Terminators",
+        "name": "Sturm-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -591,7 +591,7 @@
         ]
       },
       {
-        "name": "Deathwatch Terminators",
+        "name": "Deathwatch-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -609,7 +609,7 @@
         ]
       },
       {
-        "name": "Cyclone Terminators",
+        "name": "Cyclone-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -626,7 +626,7 @@
         ]
       },
       {
-        "name": "Deathwing Terminators",
+        "name": "Deathwing-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -643,7 +643,7 @@
         ]
       },
       {
-        "name": "Deathwing Knights",
+        "name": "Deathwing-Ritter",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -661,7 +661,7 @@
         ]
       },
       {
-        "name": "Grey Knights Terminators",
+        "name": "Grey-Knights-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -681,7 +681,7 @@
         ]
       },
       {
-        "name": "Assault Centurions",
+        "name": "Sturm-Centurions",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -698,7 +698,7 @@
         "notes": "Zählt beim Transport als Terminators."
       },
       {
-        "name": "Devastator Centurions",
+        "name": "Devastor-Centurions",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -715,7 +715,7 @@
         "notes": "Zählt beim Transport als Terminators."
       },
       {
-        "name": "Sanguinary Guards",
+        "name": "Sanguinische-Garde",
         "type": "INF",
         "speed": 30,
         "armour": 3,
@@ -732,7 +732,7 @@
         "notes": "Zählt beim Transport als Assaults."
       },
       {
-        "name": "Sternguard Veterans",
+        "name": "Protektorgarde-Veteranen",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -749,7 +749,7 @@
         ]
       },
       {
-        "name": "Vanguard Veterans",
+        "name": "Expugnatorgarde-Veteranen",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -765,7 +765,7 @@
         ]
       },
       {
-        "name": "Deathwatch Assaults",
+        "name": "Deathwatch-Sturmtrupps",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -780,7 +780,7 @@
         ]
       },
       {
-        "name": "Grey Knights Strike Squad",
+        "name": "Grey-Knights-Angriffstrupp",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -797,7 +797,7 @@
         ]
       },
       {
-        "name": "Grey Knights Purgation Squad",
+        "name": "Grey-Knights-Purgatortrupp",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -813,7 +813,7 @@
         ]
       },
       {
-        "name": "Grey Knights Interceptor Squad",
+        "name": "Grey-Knights-Abfangtrupp",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -831,7 +831,7 @@
         ]
       },
       {
-        "name": "White Scars Assault Bikes",
+        "name": "White-Scars-Sturmbikes",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -848,7 +848,7 @@
         ]
       },
       {
-        "name": "White Scars Scout Bikes",
+        "name": "White-Scars-Scoutbikes",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -866,7 +866,7 @@
         ]
       },
       {
-        "name": "Ravenwing Assault Bikes",
+        "name": "Ravenwing-Sturmbikes",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -881,7 +881,7 @@
         ]
       },
       {
-        "name": "Ravenwing Black Knights",
+        "name": "Ravenwing-Schwarze-Ritter",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -919,7 +919,7 @@
         ]
       },
       {
-        "name": "Attack Bike",
+        "name": "Trike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -930,7 +930,7 @@
         ]
       },
       {
-        "name": "Deathwatch Attack Bike",
+        "name": "Deathwatch-Trike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -945,7 +945,7 @@
         ]
       },
       {
-        "name": "Melta Bike",
+        "name": "Melta-Bike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -957,7 +957,7 @@
         "specialRules": []
       },
       {
-        "name": "Ravenwing Attack Bike",
+        "name": "Ravenwing-Trike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1003,7 +1003,7 @@
         ]
       },
       {
-        "name": "White Scars Land Speeder",
+        "name": "White-Scars-Land-Speeder",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1019,7 +1019,7 @@
         ]
       },
       {
-        "name": "Ravenwing Land Speeder",
+        "name": "Ravenwing-Land-Speeder",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1052,7 +1052,7 @@
         ]
       },
       {
-        "name": "White Scars Land Speeder Tornado",
+        "name": "White-Scars-Land-Speeder-Tornado",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1069,7 +1069,7 @@
         ]
       },
       {
-        "name": "Deathwatch Land Speeder Tornado",
+        "name": "Deathwatch-Land-Speeder-Tornado",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1087,7 +1087,7 @@
         ]
       },
       {
-        "name": "Ravenwing Land Speeder Tornado",
+        "name": "Ravenwing-Land-Speeder-Tornado",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1121,7 +1121,7 @@
         ]
       },
       {
-        "name": "White Scars Land Speeder Typhoon",
+        "name": "White-Scars-Land-Speeder-Typhoon",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1153,7 +1153,7 @@
         ]
       },
       {
-        "name": "White Scars Land Speeder Tempest",
+        "name": "White-Scars-Land-Speeder-Tempest",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1169,7 +1169,7 @@
         ]
       },
       {
-        "name": "Ravenwing Land Speeder Venegance",
+        "name": "Ravenwing-Land-Speeder-Vengeance",
         "type": "LV",
         "speed": 30,
         "armour": 4,
@@ -1186,7 +1186,7 @@
         ]
       },
       {
-        "name": "White Scars Attack Bike",
+        "name": "White-Scars-Trike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1202,7 +1202,7 @@
         ]
       },
       {
-        "name": "White Scars Melta Bike",
+        "name": "White-Scars-Melta-Bike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1218,7 +1218,7 @@
         ]
       },
       {
-        "name": "Dreadnought, Venerable",
+        "name": "Ehrwürdiger Cybot",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -1231,7 +1231,7 @@
         "notes": "Kann nur einer Dreadnought-Einheit beliebiger Konfiguration hinzugefügt werden."
       },
       {
-        "name": "Dreadnought",
+        "name": "Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1246,7 +1246,7 @@
         ]
       },
       {
-        "name": "Librarian Dreadnought",
+        "name": "Scriptor-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1263,7 +1263,7 @@
         ]
       },
       {
-        "name": "Dreadnought, Wulfen",
+        "name": "Wulfen-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1280,7 +1280,7 @@
         ]
       },
       {
-        "name": "Deathwatch Dreadnought",
+        "name": "Deathwatch-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1295,7 +1295,7 @@
         ]
       },
       {
-        "name": "Death Company Dreadnought",
+        "name": "Todeskompanie-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1312,7 +1312,7 @@
         "notes": "Zählt beim Transport als Dreadnought."
       },
       {
-        "name": "Dreadnought, Mortis",
+        "name": "Mortis-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1327,7 +1327,7 @@
         "notes": "Zählt beim Transport als Dreadnought."
       },
       {
-        "name": "Dreadnought, Deathwing",
+        "name": "Deathwing-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1343,7 +1343,7 @@
         "notes": "Zählt beim Transport als Dreadnought."
       },
       {
-        "name": "Dreadnought, Furioso",
+        "name": "Furioso-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1359,7 +1359,7 @@
         "notes": "Zählt beim Transport als Dreadnought."
       },
       {
-        "name": "Dreadnought, Hellfire",
+        "name": "Hellfire-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1375,7 +1375,7 @@
         "notes": "Zählt beim Transport als Dreadnought."
       },
       {
-        "name": "Doomglaive Dreadnought",
+        "name": "Doomglaive-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1392,7 +1392,7 @@
         ]
       },
       {
-        "name": "Dreadnought, Ironclad",
+        "name": "Ironclad-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -1409,7 +1409,7 @@
         "notes": "Zählt beim Transport als Dreadnought."
       },
       {
-        "name": "Dreadnought, Siege",
+        "name": "Belagerungs-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1516,7 +1516,7 @@
         "ff": "5+/4",
         "weapons": [
           {
-            "name": "0-1x Twin Lascannon",
+            "name": "0–1x Zwillings-Laserkanone",
             "modes": [
               {
                 "firepower": "AT4+",
@@ -1525,7 +1525,7 @@
             ]
           },
           {
-            "name": "0-1x Twin Heavy Bolter",
+            "name": "0–1x Zwillings-Schwerbolter",
             "modes": [
               {
                 "firepower": "AP4+",
@@ -1537,10 +1537,10 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 1 Infanterieeinheit (außer Terminators) ohne Sprungmodule oder Beritten transportieren. Bewaffnet entweder mit einer Twin Lascannon oder einem Twin Heavy Bolter. Razorbacks mit Twin Heavy Bolter erhalten einen Feuergefechtswert von 4+."
+        "notes": "Kann 1 Infanterieeinheit (außer Terminators) ohne Sprungmodule oder Beritten transportieren. Bewaffnet entweder mit einer Zwillings-Laserkanone oder einem Zwillings-Schwerbolter. Razorbacks mit Zwillings-Schwerbolter erhalten einen Feuergefechtswert von 4+."
       },
       {
-        "name": "Blood Angels Razorback",
+        "name": "Blood-Angels-Razorback",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1548,7 +1548,7 @@
         "ff": "5+/4",
         "weapons": [
           {
-            "name": "0-1x Twin Lascannon",
+            "name": "0–1x Zwillings-Laserkanone",
             "modes": [
               {
                 "firepower": "AT4+",
@@ -1557,7 +1557,7 @@
             ]
           },
           {
-            "name": "0-1x Twin Heavy Bolter",
+            "name": "0–1x Zwillings-Schwerbolter",
             "modes": [
               {
                 "firepower": "AP4+",
@@ -1570,10 +1570,10 @@
           "Transport",
           "Lucifer Pattern Engine"
         ],
-        "notes": "Kann 1 Infanterieeinheit (außer Terminators) ohne Sprungmodule oder Beritten transportieren. Bewaffnet entweder mit einer Twin Lascannon oder einem Twin Heavy Bolter. Razorbacks mit Twin Heavy Bolter erhalten einen Feuergefechtswert von 4+."
+        "notes": "Kann 1 Infanterieeinheit (außer Terminators) ohne Sprungmodule oder Beritten transportieren. Bewaffnet entweder mit einer Zwillings-Laserkanone oder einem Zwillings-Schwerbolter. Razorbacks mit Zwillings-Schwerbolter erhalten einen Feuergefechtswert von 4+."
       },
       {
-        "name": "Deathwatch Razorback",
+        "name": "Deathwatch-Razorback",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1588,7 +1588,7 @@
         "notes": "Kann 1 Infanterieeinheit (außer einer Terminator-Einheit) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Vortimer Razorback",
+        "name": "Vortimer-Razorback",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1620,7 +1620,7 @@
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Blood Angels Rhino",
+        "name": "Blood-Angels-Rhino",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1636,7 +1636,7 @@
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Siege Rhino",
+        "name": "Belagerungs-Rhino",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -1652,7 +1652,7 @@
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Damocles Command Rhino",
+        "name": "Damokles-Kommandorhino",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1668,7 +1668,7 @@
         "notes": "Kann 1 Infanterieeinheit (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Grey Knights Rhino",
+        "name": "Grey-Knights-Rhino",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1685,7 +1685,7 @@
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
             {
-        "name": "Grey Knights Razorback",
+        "name": "Grey-Knights-Razorback",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1713,7 +1713,7 @@
         ]
       },
       {
-        "name": "Blood Angels Hunter",
+        "name": "Blood-Angels-Hunter",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1738,7 +1738,7 @@
         ]
       },
       {
-        "name": "Blood Angels Stalker",
+        "name": "Blood-Angels-Stalker",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1766,7 +1766,7 @@
         ]
       },
       {
-        "name": "Deimos Laser Vindicator",
+        "name": "Deimos-Laservindicator",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -1788,7 +1788,7 @@
         ]
       },
       {
-        "name": "White Scars Vindicator",
+        "name": "White-Scars-Vindicator",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -1835,7 +1835,7 @@
         "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
       },
       {
-        "name": "Deathwing Land Raider",
+        "name": "Deathwing-Land-Raider",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1854,7 +1854,7 @@
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Vortimer Land Raider",
+        "name": "Vortimer-Land-Raider",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1874,7 +1874,7 @@
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Vortimer Land Raider Redeemer",
+        "name": "Vortimer-Land-Raider-Redeemer",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1965,7 +1965,7 @@
         "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
       },
       {
-        "name": "Deathwatch Land Raider",
+        "name": "Deathwatch-Land-Raider",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -2058,7 +2058,7 @@
           "Verstärkte Heckpanzerung"
         ],
         "notes": "Muss entweder 2 Rapier Laser Destroyers oder 2 Thunderfire Cannons erhalten. Eine Bastion gilt nach ihrer Zerstörung als Ruinengelände.",
-        "crit": "The Bastion takes an extra point of damage."
+        "crit": "Bastion erleidet 1 zusätzlichen Schaden."
       },
       {
         "name": "Fellblade",
@@ -2077,7 +2077,7 @@
           "Damage Capacity: 4",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Fellblade is destroyed. All units within 5cm suffer a hit on a 5+."
+        "crit": "Fellblade wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 5+ einen Treffer."
       },
       {
         "name": "Glaive",
@@ -2095,10 +2095,10 @@
           "Damage Capacity: 4",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Glaive is destroyed. All units within 5cm suffer a hit on a 5+."
+        "crit": "Glaive wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 5+ einen Treffer."
       },
       {
-        "name": "Deathwatch Landing Craft",
+        "name": "Deathwatch-Landungsschiff",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2109,17 +2109,17 @@
           "AC-Zwillings-Dragonfire-Schwere Bolter|3"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Furchtlos",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 12 Infanterieeinheiten, Attack Bikes oder Dreadnoughts transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer Dreadnoughts) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet).",
-        "crit": "The unit and all units being carried are destroyed. All units within 5cm suffer a hit."
+        "crit": "Die Einheit und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer."
       },
       {
-        "name": "Grey Knights Landing Craft",
+        "name": "Grey-Knights-Landungsschiff",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2130,7 +2130,7 @@
           "AC-Zwillings-Psikanone|3"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Furchtlos",
           "Faithful",
           "Planetfall",
@@ -2141,7 +2141,7 @@
         "notes": "Kann 12 Infanterieeinheiten oder Dreadnoughts transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer Dreadnoughts) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet). Effekt eines Kritischen Treffers: Die Einheit und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 4+ einen Treffer."
       },
       {
-        "name": "Stormwolf Assault Boat",
+        "name": "Stormwolf-Sturmboot",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 5,
@@ -2153,13 +2153,13 @@
           "Zwillings-Helfrost Kanone||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung",
           "Planetfall",
           "Transport"
         ],
         "notes": "Kann 6 Infanterieeinheiten ohne Beritten transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zählt beim Transport selbst als Landing Craft.",
-        "crit": "The Stormwolf and all units being carried are destroyed."
+        "crit": "Stormwolf und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Stormfang Gunship",
@@ -2172,10 +2172,10 @@
           "AC-Zwillings-Schwere Bolter||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Stormfang is destroyed."
+        "crit": "Stormfang wird zerstört."
       },
       {
         "name": "Storm Talon",
@@ -2232,7 +2232,7 @@
         "notes": "Kann 1 Terminator oder 2 Infanterieeinheiten ohne Beritten transportieren. Zusätzlich kann 1 Dreadnought mitgeführt werden. Zählt beim Transport selbst als Drop Pod."
       },
       {
-        "name": "Corvus Blackstar Dropship",
+        "name": "Corvus-Blackstar-Landungsschiff",
         "type": "AC/WE",
         "speed": "Fighter-Bomber",
         "armour": 4,
@@ -2244,7 +2244,7 @@
           "Hammerschlagwerfer"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Wings of the Sky Angel",
           "Transport"
@@ -2252,7 +2252,7 @@
         "notes": "Kann 3 Infanterieeinheiten oder Attack Bikes transportieren. Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zusätzlich kann 1 Dreadnought oder Land Speeder mitgeführt werden."
       },
       {
-        "name": "Ravenwing Nephilim",
+        "name": "Ravenwing-Nephilim",
         "type": "AC",
         "speed": "Fighter",
         "armour": 5,
@@ -2265,7 +2265,7 @@
         ]
       },
       {
-        "name": "Ravenwing Dark Talon",
+        "name": "Ravenwing-Dark-Talon",
         "type": "AC",
         "speed": "Fighter-Bomber",
         "armour": 5,
@@ -2289,10 +2289,10 @@
           "AC-Vierlings-Schwere Bolter-Türme||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Fire Raptor is destroyed."
+        "crit": "Fire Raptor wird zerstört."
       },
       {
         "name": "Storm Eagle",
@@ -2307,13 +2307,13 @@
           "Vengeance Werfer||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zählt beim Transport selbst als Thunderhawk.",
-        "crit": "The Storm Eagle and all units being carried are destroyed."
+        "crit": "Storm Eagle und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Darkwing Storm Eagle",
@@ -2328,14 +2328,14 @@
           "Vengeance Werfer||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Transport"
         ],
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten.",
-        "crit": "The Storm Eagle and all units being carried are destroyed."
+        "crit": "Storm Eagle und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Thunderhawk",
@@ -2351,16 +2351,16 @@
           "AC-Zwillings-Schwere Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 8 Infanterieeinheiten oder Attack Bikes transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten.",
-        "crit": "The Thunderhawk and all units being carried are destroyed."
+        "crit": "Thunderhawk und alle transportierten Einheiten werden zerstört."
       },
       {
-        "name": "Thunderhawk Transporter",
+        "name": "Thunderhawk-Transporter",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2371,16 +2371,16 @@
           "AC-Vierlings-Schwere Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
-        "crit": "The Thunderhawk Transporter and all units being carried are destroyed."
+        "crit": "Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
-        "name": "Iron Hands Thunderhawk Transporter",
+        "name": "Iron-Hands-Thunderhawk-Transporter",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2391,16 +2391,16 @@
           "AC-Zwillings-Schwere Bolter|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Dreadnoughts, Hunters, Predators, Razorbacks, Rhinos, Stalkers und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
-        "crit": "The Thunderhawk Transporter and all units being carried are destroyed."
+        "crit": "Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
-        "name": "Deathwatch Thunderhawk Transporter",
+        "name": "Deathwatch-Thunderhawk-Transporter",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2411,16 +2411,16 @@
           "AC-Zwillings-Dragonfire-Schwere Bolter|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
-        "crit": "The Thunderhawk Transporter and all units being carried are destroyed."
+        "crit": "Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
-        "name": "Grey Knights Thunderhawk Transporter",
+        "name": "Grey-Knights-Thunderhawk-Transporter",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2431,7 +2431,7 @@
           "AC-Zwillings-Psikanone|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Faithful",
@@ -2439,10 +2439,10 @@
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
-        "crit": "The Thunderhawk Transporter and all units being carried are destroyed."
+        "crit": "Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
-        "name": "Thunderhawk Bomber",
+        "name": "Thunderhawk-Bomber",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2454,13 +2454,13 @@
           "AC Bombe Racks||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Thunderhawk is destroyed."
+        "crit": "Thunderhawk wird zerstört."
       },
       {
-        "name": "Landing Craft",
+        "name": "Landungsschiff",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -2471,21 +2471,21 @@
           "AC-Zwillings-Schwere Bolter|3"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Furchtlos",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Kann 12 Infanterieeinheiten, Attack Bikes oder Dreadnoughts transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer H-AV und Dreadnoughts) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet).",
-        "crit": "The Landing Craft and all units being carried are destroyed. All units within 5cm suffer a hit."
+        "crit": "Landing Craft und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer."
       },
       {
-        "name": "Hunter Class Destroyer",
+        "name": "Hunter-Klasse-Zerstörer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "1BP, MW"
@@ -2499,11 +2499,11 @@
         "notes": "Kann 4 Infanterieeinheiten transportieren. Diese dürfen das Spielfeld nur durch Teleportieren betreten."
       },
       {
-        "name": "Dark Hunter Class Destroyer",
+        "name": "Dark-Hunter-Klasse-Zerstörer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "1BP, MW"
@@ -2517,11 +2517,11 @@
         "notes": "Kann 4 Infanterieeinheiten transportieren. Diese dürfen das Spielfeld nur durch Teleportieren betreten. Zusätzlich dürfen 5 Corvus Blackstars und 3 Thunderhawk Transporters samt den von ihnen transportierten Einheiten mitgeführt werden."
       },
       {
-        "name": "Vanguard Class Light Cruiser",
+        "name": "Vanguard-Klasse-Leichter-Kreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "3BP, MW"
@@ -2535,11 +2535,11 @@
         "notes": "Kann 12 Infanterieeinheiten, Attack Bikes oder Dreadnoughts sowie 5 leichte oder gepanzerte Fahrzeugeinheiten (außer Attack Bikes und Dreadnoughts), 2 Thunderhawks und genügend Drop Pods für alle übrigen mitgeführten Einheiten transportieren."
       },
       {
-        "name": "Strike Cruiser",
+        "name": "Angriffskreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "4BP, MW"
@@ -2553,11 +2553,11 @@
         "notes": "Kann 20 Infanterieeinheiten, Attack Bikes oder Dreadnoughts sowie 10 leichte oder gepanzerte Fahrzeugeinheiten (außer Attack Bikes und Dreadnoughts), 6 Thunderhawks und genügend Drop Pods oder Landing Craft für alle übrigen mitgeführten Einheiten transportieren."
       },
       {
-        "name": "Grey Knights Strike Cruiser",
+        "name": "Grey-Knights-Angriffskreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "4BP, MW"
@@ -2572,11 +2572,11 @@
         "notes": "Kann 20 Infanterieeinheiten, Attack Bikes oder Dreadnoughts sowie 10 leichte oder gepanzerte Fahrzeugeinheiten (außer Attack Bikes und Dreadnoughts), 6 Thunderhawks/Storm Eagles und genügend Drop Pods oder Landing Craft für alle übrigen mitgeführten Einheiten transportieren."
       },
       {
-        "name": "Battle Barge",
+        "name": "Schlachtbarke",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "10BP, MW"
@@ -2585,13 +2585,13 @@
           }
         ],
         "specialRules": [
-          "Slow to Arrive (May only arrive from turn 2 onwards)",
+          "Verzögerte Ankunft (darf erst ab Runde 2 eintreffen)",
           "Transport"
         ],
         "notes": "Kann 30 Infanterieeinheiten, Attack Bikes oder Dreadnoughts sowie 20 gepanzerte Fahrzeugeinheiten (außer Attack Bikes und Dreadnoughts), 9 Thunderhawks und genügend Drop Pods oder Landing Craft für alle übrigen mitgeführten Einheiten transportieren."
       },
       {
-        "name": "Drop Pod",
+        "name": "Landungskapsel",
         "weapons": [
           {
             "name": "Deathwind",
@@ -2621,7 +2621,7 @@
         ]
       },
       {
-        "name": "Assault Intercessor",
+        "name": "Sturm-Intercessor",
         "type": "INF",
         "speed": "15",
         "armour": 3,
@@ -2635,7 +2635,7 @@
         ]
       },
       {
-        "name": "Heavy Intercessor",
+        "name": "Schwerer Intercessor",
         "type": "INF",
         "speed": "15",
         "armour": 3,
@@ -2782,7 +2782,7 @@
         ]
       },
       {
-        "name": "Invictor Warsuit",
+        "name": "Invictor-Kampfanzug",
         "type": "LV",
         "speed": "15",
         "armour": 4,
@@ -2798,7 +2798,7 @@
         ]
       },
       {
-        "name": "Redemptor Dreadnought",
+        "name": "Redemptor-Cybot",
         "type": "AV",
         "speed": "15",
         "armour": 4,
@@ -2847,7 +2847,7 @@
         "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Aggressors und Eradicators zählen jeweils als 2 Einheiten."
       },
       {
-        "name": "Gladiator, Lancer",
+        "name": "Gladiator-Lancer",
         "type": "AV",
         "speed": "30",
         "armour": 4,
@@ -2858,7 +2858,7 @@
         ]
       },
       {
-        "name": "Gladiator, Valiant",
+        "name": "Gladiator-Valiant",
         "type": "AV",
         "speed": "30",
         "armour": 4,
@@ -2870,7 +2870,7 @@
         ]
       },
       {
-        "name": "Gladiator, Reaper",
+        "name": "Gladiator-Reaper",
         "type": "AV",
         "speed": "30",
         "armour": 4,
@@ -2881,7 +2881,7 @@
         ]
       },
       {
-        "name": "Storm Speeder, Thunderstrike",
+        "name": "Storm Speeder Thunderstrike",
         "type": "AV",
         "speed": "35",
         "armour": 4,
@@ -2897,7 +2897,7 @@
         ]
       },
       {
-        "name": "Storm Speeder, Hammerstrike",
+        "name": "Storm Speeder Hammerstrike",
         "type": "AV",
         "speed": "35",
         "armour": 4,
@@ -2928,7 +2928,7 @@
           "Null Schilde 2",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Astraeus is destroyed. All units within 5cm suffer a hit on a 5+."
+        "crit": "Astraeus wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 5+ einen Treffer."
       }
     ]
   }

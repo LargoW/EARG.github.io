@@ -1147,8 +1147,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
-          "Twin Heavy Bolter"
+          "Zwillings Laserkanone|2|",
+          "Schweres Zwillings Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1165,8 +1165,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
-          "Twin Heavy Bolter"
+          "Zwillings Laserkanone|2|",
+          "Schweres Zwillings Bolter"
         ],
         "specialRules": [
           "Starrköpfig",
@@ -1184,7 +1184,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
+          "Zwillings Laserkanone|2|",
           "Blastmaster"
         ],
         "specialRules": [
@@ -1202,8 +1202,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
-          "Twin Heavy Bolter"
+          "Zwillings Laserkanone|2|",
+          "Schweres Zwillings Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1239,7 +1239,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2|",
+          "Zwillings Laserkanone|2|",
           "Heavy Warpflamer"
         ],
         "specialRules": [
@@ -1257,7 +1257,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon",
+          "Zwillings Laserkanone",
           "Heavy Bolter|2|"
         ]
       },
@@ -1284,7 +1284,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon",
+          "Zwillings Laserkanone",
           "Blastmaster|2|"
         ]
       },
@@ -1296,8 +1296,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon",
-          "Twin Warpflamer"
+          "Zwillings Laserkanone",
+          "Zwillings Warpflamer"
         ]
       },
       {
@@ -1308,7 +1308,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Accelerator Autocannon",
+          "Zwillings Accelerator Autocannon",
           "Heavy Bolter|3|"
         ],
         "specialRules": [
@@ -1478,7 +1478,7 @@
         "ff": 3,
         "weapons": [
           "Missile Launcher",
-          "Twin Lascannon"
+          "Zwillings Laserkanone"
         ],
         "specialRules": [
           "Furchtlos",
@@ -1508,7 +1508,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Bolter",
+          "Schweres Zwillings Bolter",
           "Heavy Flamer",
           "Siege Drill"
         ],
@@ -1557,7 +1557,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Twin Blight Launcher",
+          "Zwillings Blight Launcher",
           "Power Fist"
         ],
         "specialRules": [
@@ -1573,8 +1573,8 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Twin Reaper Autocannon|2|",
-          "Twin Heavy Flamer"
+          "Zwillings Reaper Autocannon|2|",
+          "Schweres Zwillings Flamer"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1592,7 +1592,7 @@
         "ff": 5,
         "weapons": [
           "Dreadhammer Siege Cannon",
-          "Lascannon|2|"
+          "Laserkanone|2|"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -1609,11 +1609,11 @@
         "ff": 4,
         "weapons": [
           "Siege Cannon||FxF",
-          "Twin Heavy Bolter|3|FxF",
+          "Schweres Zwillings Bolter|3|FxF",
           "Heavy Flamer |2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."

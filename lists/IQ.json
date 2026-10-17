@@ -231,8 +231,8 @@
         "specialRules": [
           "Furchtlos",
           "Entbehrlich",
-          "Machine Spirit",
-          "Ponderous"
+          "Maschinengeist",
+          "Schwerfällig"
         ]
       },
       {
@@ -334,7 +334,7 @@
         "specialRules": [
           "Infiltratorens",
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich"
         ]
       },
@@ -405,7 +405,7 @@
         "specialRules": [
           "Furchtlos",
           "Entbehrlich",
-          "Machine Spirit",
+          "Maschinengeist",
           "Geländegängig"
         ]
       },
@@ -417,7 +417,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Bolter",
+          "Schweres Zwillings Bolter",
           "Penitent Flails"
         ],
         "specialRules": [
@@ -434,7 +434,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Bolter",
+          "Schweres Zwillings Bolter",
           "Penitent Flails"
         ],
         "specialRules": [
@@ -511,7 +511,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber"
+          "Schweres Zwillings Maschinengewehr"
         ],
         "specialRules": [
           "Geländegängig",
@@ -544,7 +544,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Multi-Melta"
+          "Zwillings Multi-Melta"
         ],
         "specialRules": [
           "Faithful",
@@ -561,11 +561,11 @@
         "ff": 4,
         "weapons": [
           "Vulcan Mega-Bolter||FxF",
-          "Twin Heavy Bolter||FxF",
-          "Twin Heavy Flamer  |2|"
+          "Schweres Zwillings Bolter||FxF",
+          "Schweres Zwillings Flamer  |2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Faithful",
           "Verstärkte Panzerung",
           "Transport"
@@ -585,7 +585,7 @@
           "Inferno Cannon|2|"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Faithful",
@@ -608,7 +608,7 @@
           "Heavy Bolter AA Turret|2|"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Göttermaschine",
           "Split Fire",

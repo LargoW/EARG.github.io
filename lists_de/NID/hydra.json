@@ -21,38 +21,38 @@
     {
       "from": "NIDS.json",
       "units": [
-        "Brood Lord",
-        "Barbgaunts",
-        "Termagants",
-        "Hormagaunts",
+        "Symbiarch",
+        "Stachelganten",
+        "Termaganten",
+        "Hormaganten",
         "Gargoyles",
-        "Genestealers",
+        "Symbionten",
         "Biovore",
         "Pyrovore",
-        "Tyranid Warriors",
-        "Tyranid Warrior Shrikes",
-        "Zoanthrope",
-        "Lictor",
+        "Tyranidenkrieger",
+        "Tyranidenkrieger-Shrikes",
+        "Zoantroph",
+        "Liktor",
         "Dimachaeron",
-        "Swarmlord",
-        "Swarmlord Shrike",
-        "Hive Tyrant",
-        "Hive Tyrant Shrike",
+        "Schwarmherrscher",
+        "Schwarmherrscher-Shrike",
+        "Schwarmtyrant",
+        "Schwarmtyrant-Shrike",
         "Dactylis",
         "Exocrine",
-        "Malefactor",
-        "Barbed Carnifex",
-        "Screamer-Killer Carnifex",
-        "Harpy",
-        "Hive Crone",
-        "Hive Guard",
-        "Tervigon Prime",
+        "Malefaktor",
+        "Stachel-Carnifex",
+        "Kreischer-Killer-Carnifex",
+        "Harpyie",
+        "Schwarmdrude",
+        "Schwarmwachen",
+        "Tervigon",
         "Tervigon",
         "Tyrannofex",
-        "Hive Harridan",
-        "Spawn Nest",
+        "Schwarm-Harridan",
+        "Brutnest",
         "Hierophant",
-        "Hydra Dominatrix",
+        "Hydra-Dominatrix",
         "Hydraphant"
       ],
       "unitRules": [
@@ -69,7 +69,7 @@
       "name": "Primäre Synapsenschwärme",
       "formations": [
         {
-          "name": "0-1 Nexus Spawn Swarm",
+          "name": "0–1 Nexus Spawn Swarm",
           "units": "Ein Hydra Dominatrix",
           "extraUnits": [
             "Ein bis vier Instinctive Swarms"
@@ -82,7 +82,7 @@
           "extraUnits": [
             "Zwei bis vier Instinctive Swarms",
             "Ersetze einen Hive Tyrant durch einen Hive Tyrant Shrike: kostenlos",
-            "0-1 Hive Tyrant in the army may be replaced with a Swarmlord oder a Swarmlord Shrike: 75 points"
+            "0–1 Hive Tyrant in der Armee darf durch einen Swarmlord oder einen Swarmlord Shrike ersetzt werden: 75 Punkte"
           ],
           "points": 125
         },
@@ -91,9 +91,9 @@
           "units": "Zwei Tyranid Warriors",
           "extraUnits": [
             "Ein bis zwei Instinctive Swarms",
-            "1+ Gaunts, Gargoyles oder Bio-Support must be chosen",
-            "Ersetze two Tyranid Warriors durch Tyranid Warrior Shrikes: kostenlos",
-            "Ersetze two Tyranid Warriors durch Zoanthropes: 25pts"
+            "Mindestens 1 aus Gaunts, Gargoyles oder Bio-Support muss gewählt werden",
+            "Ersetze zwei Tyranid Warriors durch Tyranid Warrior Shrikes: kostenlos",
+            "Ersetze zwei Tyranid Warriors durch Zoanthropes: 25pts"
           ],
           "points": 100
         }
@@ -107,7 +107,7 @@
           "name": "Tervigon Spawn Swarm",
           "units": "Ein Tervigon und zwei Barbgaunts, zwei Hormagaunts, oder zwei Termagants",
           "extraUnits": [
-            "Füge 1 Tervigon und two Barbgaunts, two Hormagaunts, oder two Termagants hinzu: 100 Punkte",
+            "Füge 1 Tervigon und zwei Barbgaunts, zwei Hormagaunts, oder zwei Termagants hinzu: 100 Punkte",
             "Ein bis zwei Instinctive Swarms"
           ],
           "points": 150
@@ -117,15 +117,15 @@
           "units": "Ein Hive Harridan",
           "extraUnits": [
             "Füge 1 Hive Harridan hinzu: 100 Punkte",
-            "Zero to two Instinctive Swarms chosen from Gargoyles oder Bio-Flyers"
+            "Null bis zwei Instinctive Swarms, ausgewählt aus Gargoyles oder Bio-Flyers"
           ],
           "points": 175
         },
         {
-          "name": "Spawn Nest",
+          "name": "Brutnest",
           "units": "Ein Spawn Nest",
           "extraUnits": [
-            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Bio-Artillery, Bio-Support oder Nest-Guard"
+            "Ein bis zwei Instinctive Swarms ausgewählt aus Gaunts, Bio-Artillery, Bio-Support oder Nest-Guard"
           ],
           "points": 150
         }
@@ -147,7 +147,7 @@
           "name": "Infiltratoren Swarm",
           "units": "Vier Lictors",
           "extraUnits": [
-            "Ersetze four Lictors durch four Dimachaerons: kostenlos"
+            "Ersetze vier Lictors durch vier Dimachaerons: kostenlos"
           ],
           "points": 225
         }
@@ -181,47 +181,47 @@
   ],
   "upgrades": {
     "title": "Instinctive Swarms",
-    "description": "It is compulsory to buy the minimum amount of Instinctive Swarms.",
+    "description": "Das Mindestmass an Instinctive Swarms muss zwingend gekauft werden.",
     "items": [
       {
         "name": "Gaunts",
-        "description": "Five Termagants, Hormagaunts und/oder Barbgaunts",
-        "points": "75 points"
+        "description": "Fünf Termagants, Hormagaunts und/oder Barbgaunts",
+        "points": "75 Punkte"
       },
       {
         "name": "Bio-Support",
-        "description": "Four Biovores und/oder Pyrovores",
-        "points": "75 points"
+        "description": "Vier Biovores und/oder Pyrovores",
+        "points": "75 Punkte"
       },
       {
         "name": "Gargoyles",
-        "description": "Four Gargoyles",
-        "points": "75 points"
+        "description": "Vier Gargoyles",
+        "points": "75 Punkte"
       },
       {
         "name": "Bio-Flyers",
-        "description": "Three Harpies oder three Hive Crones",
-        "points": "100 points"
+        "description": "Drei Harpies oder drei Hive Crones",
+        "points": "100 Punkte"
       },
       {
         "name": "Carnifex",
-        "description": "Two Barbed Carnifex oder two Screamer-Killer Carnifex",
-        "points": "75 points"
+        "description": "Zwei Barbed Carnifex oder zwei Screamer-Killer Carnifex",
+        "points": "75 Punkte"
       },
       {
         "name": "Bio-Attack",
-        "description": "Two Exocrines oder two Malefactors",
-        "points": "75 points"
+        "description": "Zwei Exocrines oder zwei Malefactors",
+        "points": "75 Punkte"
       },
       {
         "name": "Bio-Artillery",
-        "description": "Three Dactylis, oder two Tyrannofexes",
-        "points": "125 points"
+        "description": "Drei Dactylis oder zwei Tyrannofexes",
+        "points": "125 Punkte"
       },
       {
         "name": "Nest-Guard (only Swarm Nest formations)",
-        "description": "Two Hive Guard",
-        "points": "50 points"
+        "description": "Zwei Hive Guard",
+        "points": "50 Punkte"
       }
     ]
   }

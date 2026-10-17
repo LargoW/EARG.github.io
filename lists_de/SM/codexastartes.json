@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Space Marines",
   "army": "Codex Astartes",
   "version": "1.0.beta",
@@ -17,21 +17,21 @@
       "from": "SM.json",
       "units": [
         "Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assaults",
+        "Sturmtrupps",
         "Scouts",
-        "Tacticals",
-        "Devastators",
-        "Terminators",
-        "Assault Bikes",
+        "Taktische Trupps",
+        "Devastor-Trupps",
+        "Terminatoren",
+        "Sturm-Bikes",
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
-        "Attack Bike",
-        "Dreadnought",
-        "Dreadnought, Hellfire",
+        "Trike",
+        "Cybot",
+        "Hellfire-Cybot",
         "Hunter",
         "Stalker",
         "Land Raider",
@@ -44,9 +44,9 @@
         "Landing Craft",
         "Storm Talon",
         "Thunderhawk",
-        "Battle Barge",
-        "Strike Cruiser",
-        "Drop Pod"
+        "Schlachtbarke",
+        "Angriffskreuzer",
+        "Landungskapsel"
       ],
       "unitRules": [
       ]
@@ -77,8 +77,8 @@
       "description": "Pro Nicht-Aufklärungskontingent dürfen bis zu ein Aufklärungskontingent aufgestellt werden.",
       "formations": [
         {
-          "name": "Assaults",
-          "units": "Four Assaults",
+          "name": "Sturmtrupps",
+          "units": "Vier Assaults",
           "extraUnits": [
             "Befehlshaber",
             "Vindicators"
@@ -87,7 +87,7 @@
         },
         {
           "name": "Bikes",
-          "units": "Five Assault Bikes",
+          "units": "Fünf Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
             "Befehlshaber"
@@ -95,8 +95,8 @@
           "points": 200
         },
         {
-          "name": "Devastators",
-          "units": "Four Devastators plus transport",
+          "name": "Devastor-Trupps",
+          "units": "Vier Devastators plus Transporter",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -109,7 +109,7 @@
         },
         {
           "name": "Land Raiders",
-          "units": "Three Land Raiders",
+          "units": "Drei Land Raiders",
           "extraUnits": [
             "Füge 1 Land Raider hinzu: 50 Punkte",
             "Anti-Air"
@@ -126,7 +126,7 @@
         },
         {
           "name": "Predators",
-          "units": "Four Predator Destructors und/oder Predator Annihilators",
+          "units": "Vier Predator Destructors und/oder Predator Annihilators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -134,7 +134,7 @@
         },
         {
           "name": "Scouts",
-          "units": "Four Scouts plus transport",
+          "units": "Vier Scouts plus Transporter",
           "extraUnits": [
             "Razorbacks",
             "Scharfschützes"
@@ -142,8 +142,8 @@
           "points": 150
         },
         {
-          "name": "Tacticals",
-          "units": "Six Tacticals plus transport",
+          "name": "Taktische Trupps",
+          "units": "Sechs Tacticals plus Transporter",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -155,8 +155,8 @@
           "points": 275
         },
         {
-          "name": "Terminators",
-          "units": "Four Terminators",
+          "name": "Terminatoren",
+          "units": "Vier Terminators",
           "extraUnits": [
             "Befehlshaber",
             "Land Raider Transport"
@@ -165,7 +165,7 @@
         },
         {
           "name": "Vindicators",
-          "units": "Four Vindicators",
+          "units": "Vier Vindicators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -173,7 +173,7 @@
         },
         {
           "name": "Whirlwinds",
-          "units": "Four Whirlwinds",
+          "units": "Vier Whirlwinds",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -187,40 +187,40 @@
       "formations": [
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Thunderhawk",
-          "units": "One Thunderhawk",
+          "units": "Ein Thunderhawk",
           "points": 225
         },
         {
           "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "units": "Zwei Marauder Bombers",
           "points": 250
         },
         {
           "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "units": "Zwei Thunderbolt Fighters",
           "points": 175
         },
         {
-          "name": "Landing Craft",
-          "units": "One Landing Craft",
+          "name": "Landungsschiff",
+          "units": "Ein Landing Craft",
           "points": 325
         },
         {
-          "name": "0-1 Orbital Support",
-          "units": "One Strike Cruiser",
+          "name": "0–1 Orbitale Unterstützung",
+          "units": "Ein Strike Cruiser",
           "extraUnits": [
-            "Battle Barge"
+            "Schlachtbarke"
           ],
           "points": 200
         },
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "extraUnits": [
             "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
           ],
@@ -228,7 +228,7 @@
         },
         {
           "name": "Reaver",
-          "units": "One Reaver Titan",
+          "units": "Ein Reaver Titan",
           "extraUnits": [
           ],
           "points": 600
@@ -246,23 +246,23 @@
         "options": [
           {
             "description": "Füge 1 Hunter hinzu",
-            "points": "75 points"
+            "points": "75 Punkte"
           },
           {
             "description": "Füge 1 Stalker hinzu",
-            "points": "50 points"
+            "points": "50 Punkte"
           }
         ]
       },
       {
         "name": "Attack Bikes",
         "description": "Ersetze beliebig viele Assault Bikes durch dieselbe Anzahl an Attack Bikes",
-        "points": "Free"
+        "points": "kostenlos"
       },
       {
-        "name": "Battle Barge",
-        "description": "Ersetze den Strike Cruiser durch a Battle Barge",
-        "points": "75 points"
+        "name": "Schlachtbarke",
+        "description": "Ersetze den Strike Cruiser durch einen Battle Barge",
+        "points": "75 Punkte"
       },
       {
         "name": "Befehlshaber",
@@ -270,15 +270,15 @@
         "options": [
           {
             "description": "Captain, Librarian",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
-            "points": "50 points"
+            "description": "Ordenspriester",
+            "points": "50 Punkte"
           },
           {
             "description": "0–1 Oberbefehlshaber",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
@@ -286,35 +286,35 @@
         "name": "Dreadnoughts",
         "description": "Füge 2 beliebige der folgenden Einheiten hinzu: Dreadnought, Hellfire Dreadnought.",
         "points": [
-          "50 points each"
+          "50 Punkte pro Stück"
         ]
       },
       {
         "name": "Land Raider-Transporter",
-        "description": "Füge beliebig viele Land Raiders, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
-        "points": "50 points each"
+        "description": "Füge beliebig viele Land Raiders hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Razorbacks",
-        "description": "Füge beliebig viele Razorbacks, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
-        "points": "25 points each"
+        "description": "Füge beliebig viele Razorbacks hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Scharfschützes",
         "description": "Gib allen Scouts im Verband die Sonderregel „Scharfschütze“ für ihre Heavy Bolters.",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Typhoons",
         "description": "Ersetze bis zu 5 Land Speeders durch dieselbe Anzahl an Land Speeder Typhoons",
-        "points": "10 points each"
+        "points": "10 Punkte pro Stück"
       },
       {
         "name": "Vindicators",
         "description": "Füge bis zu 2 Vindicators hinzu",
         "points": [
-          "50 points each",
-          "75 points per pair"
+          "50 Punkte pro Stück",
+          "75 Punkte pro Paar"
         ]
       }
     ]

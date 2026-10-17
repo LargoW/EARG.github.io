@@ -16,26 +16,26 @@
     {
       "from": "ORK.json",
       "units": [
-        "Warlord",
+        "Waaghboss",
         "Wyrdboy",
         "Pigdok",
-        "Grotz",
-        "Brutes",
-        "Boarboyz",
-        "Huntas",
-        "Junkas",
+        "Grots",
+        "Grobiane",
+        "Wildschweinreiter",
+        "Jäger",
+        "Schrottkarren",
         "Lobba",
-        "Trappas",
-        "Wildboyz",
-        "Madboyz",
-        "Squig Katapult",
-        "Junkatrukk",
-        "Squiggoth",
-        "Squiggoth Flakka",
-        "Squiggoth Supa-Lobba",
-        "Gargantuan Squiggoth",
+        "Fallensteller",
+        "Wildorks",
+        "Irre Boys",
+        "Squig-Katapult",
+        "Schrott-Pikk-Up",
+        "Squiggofant",
+        "Flakka-Squiggofant",
+        "Supa-Lobba-Squiggofant",
+        "Riesensquiggofant",
         "Orkeosaurus",
-        "Steam Gargant"
+        "Dampf-Gargant"
       ],
       "unitRules": [
         "Super-Entbehrlich",
@@ -50,18 +50,18 @@
       "formations": [
         {
           "name": "Snakebites Warband",
-          "units": "Two Brutes, six Huntas and three Grotz",
+          "units": "Zwei Brutes, sechs Huntas und drei Grotz",
           "extraUnits": [
             "beliebig viele Huntas: 15 Punkte pro Stück",
             "beliebig viele Wildboyz: 15 Punkte pro Stück",
             "beliebig viele Boarboyz: 25 Punkte pro Stück",
             "Füge bis zu 3 Squig Katapults hinzu: 25 Punkte pro Stück",
-            "beliebig viele Huntas + Grotz: 35 points",
+            "beliebig viele Huntas + Grotz: 35 Punkte",
             "Füge 1 Einheit von Brutes hinzu: 35 Punkte pro Stück",
             "Füge 1 Wyrdboy zu einem Einheit von Brutes hinzu: 25 Punkte pro Stück",
             "Füge bis zu 2 Squiggoth Flakkas hinzu: 40 Punkte pro Stück",
             "Füge 3 Squiggoth Supa-Lobbas hinzu: 100 Punkte",
-            "Füge enough Squiggoths to transport the entire formation hinzu: 30 Punkte pro Stück, 1 Gargantuan Squiggoth: 100 Punkte oder 1 Orkeosaurus: 175 Punkte"
+            "Füge genug Squiggoths hinzu, um den gesamten Verband zu transportieren: 30 Punkte pro Stück, 1 Gargantuan Squiggoth: 100 Punkte oder 1 Orkeosaurus: 175 Punkte"
           ],
           "pointsOptions": [
             {
@@ -80,7 +80,7 @@
         },
         {
           "name": "Boarboyz Horde",
-          "units": "One Pigdok, eight Boarboyz",
+          "units": "Ein Pigdok, acht Boarboyz",
           "extraUnits": [
             "beliebig viele Boarboyz: 25 Punkte pro Stück",
             "Füge bis zu 1 Wyrdboy hinzu: 25 Punkte"
@@ -108,9 +108,9 @@
       "formations": [
         {
           "name": "Junka Brigade",
-          "units": "One Brutes, five Junkas and six Junkatrukks ",
+          "units": "Ein Brutes, fünf Junkas und sechs Junkatrukks ",
           "extraUnits": [
-            "beliebig viele Junkas + Junkatrukk: 30 points",
+            "beliebig viele Junkas + Junkatrukk: 30 Punkte",
             "Füge 1 Brutes + Junkatrukk hinzu: 50 Punkte",
             "Füge 1 Wyrdboy zu einem Einheit von Brutes hinzu: 25 Punkte"
           ],
@@ -127,15 +127,15 @@
         },
         {
           "name": "Lobba Mob",
-          "units": "Six Lobbas",
+          "units": "Sechs Lobbas",
           "extraUnits": [
-            "Füge bis zu 1 Einheit von Brutes hinzu: 35 points"
+            "Füge bis zu 1 Einheit von Brutes hinzu: 35 Punkte"
           ],
           "points": 150
         },
         {
           "name": "Madboyz Mob",
-          "units": "Six Madboyz",
+          "units": "Sechs Madboyz",
           "extraUnits": [
             "Füge bis zu 6 Madboyz hinzu: 25 Punkte pro Stück",
             "Füge bis zu 3 Wyrdboys hinzu: 25 Punkte pro Stück"
@@ -144,7 +144,7 @@
         },
         {
           "name": "Trappas Mob",
-          "units": "Eight Trappas",
+          "units": "Acht Trappas",
           "extraUnits": [
             "Füge beliebig viele Trappas hinzu: 25 Punkte pro Stück"
           ],
@@ -152,14 +152,14 @@
         },
         {
           "name": "Wildboyz Mob",
-          "units": "One Brute, seven Wildboyz",
+          "units": "Ein Brute, sieben Wildboyz",
           "extraUnits": [
             "beliebig viele Wildboyz: 15 Punkte pro Stück",
             "Füge 1 Brutes hinzu: 35 Punkte pro Stück",
             "Füge 1 Wyrdboy zu einem Einheit von Brutes hinzu: 25 Punkte",
             "Füge bis zu 2 Squiggoth Flakkas hinzu: 40 Punkte pro Stück",
             "Füge 3 Squiggoth Supa-Lobbas hinzu: 100 Punkte",
-            "Füge enough Squiggoths to transport the entire formation hinzu: 30 Punkte pro Stück, 1 Gargantuan Squiggoth: 100 Punkte oder 1 Orkeosaurus: 175 Punkte"
+            "Füge genug Squiggoths hinzu, um den gesamten Verband zu transportieren: 30 Punkte pro Stück, 1 Gargantuan Squiggoth: 100 Punkte oder 1 Orkeosaurus: 175 Punkte"
           ],
           "pointsOptions": [
             {
@@ -180,7 +180,7 @@
       "formations": [
           {
             "name": "Snakebites Gargant Mob",
-            "units": "One Steam Gargant",
+            "units": "Ein Steam Gargant",
             "extraUnits": [
                 "Füge 1 Steam Gargant hinzu: 175 Punkte"
             ],

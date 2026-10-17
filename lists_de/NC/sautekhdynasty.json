@@ -20,42 +20,42 @@
     {
       "from": "NC.json",
       "units": [
-        "Necron Overlord",
-        "Necron Lord",
-        "Destroyers",
-        "Heavy Destroyers",
-        "Immortals",
-        "Necron Warriors",
-        "Cryptek",
-        "Wraiths",
+        "Necron-Hochlord",
+        "Necronlord",
+        "Destruktoren",
+        "Schwere Destruktoren",
+        "Extinktoren",
+        "Necronkrieger",
+        "Kryptek",
+        "Canoptek-Phantome",
         "Monolith",
         "Obelisk",
-        "Tomb Spyder",
-        "Deathmarks",
-        "Tomb Blades",
-        "Triarch Preatorian",
-        "Ghost Ark",
-        "Annihilation Barge",
-        "Catacomb Command Barge",
-        "Doomsday Ark",
-        "Triarch Stalker",
-        "Sentry Pylons",
-        "C’tan Shard",
-        "Seraptek Heavy Construct",
-        "C’tan Shard"
+        "Canoptek-Gruftspinne",
+        "Todesboten",
+        "Gruftklingen",
+        "Triarchat-Prätorianer",
+        "Geisterbarke",
+        "Vernichtungsbarke",
+        "Katakomben-Kommandogleiter",
+        "Dominator-Barke",
+        "Triarch-Stalker",
+        "Wachposten-Pylonen",
+        "C\u0027tan-Fragment",
+        "Seraptek-Schweres Konstrukt",
+        "C\u0027tan-Fragment"
       ],
       "unitRules": [
           "Regeneration",
-          "Machine Spirit",
-          "Ponderous",
+          "Maschinengeist",
+          "Schwerfällig",
           "Enduring"
       ]
     },
     {
       "from": "necronNavy.json",
       "units": [
-        "Night Scythe",
-        "Doom Scythe",
+        "Nachtsichel-Transporter",
+        "Todessichel-Jäger",
         "Night Shroud Bomber",
         "Scythe Class Harvester"
       ],
@@ -68,12 +68,12 @@
       "name": "Spezialregel der Maynarkh-Dynastie",
       "formations": [
         {
-          "name": "0–1 per army - Tomb Complex",
+          "name": "0–1 pro Armee – Gruftkomplex",
           "units": "Der erste Zielmarker, den der Necron-Spieler an seiner eigenen Spielfeldkante platziert, gilt regeltechnisch sowohl als Portal als auch als Zielmarker. Er kann nicht zerstört werden. Formationen, die das Portal verwenden, messen von der Spielfeldkante aus, die als Startpunkt der Formation gilt.",
           "points": 25
         },
         {
-          "name": "0–1 per army - Necron Overlord",
+          "name": "0–1 pro Armee – Necron Overlord",
           "units": "Ersetze einen Necron Lord in der Armee durch einen Necron Overlord.",
           "points": 75
         }
@@ -178,31 +178,31 @@
           "name": "0–1 Harvester Engine",
           "units": "Ein aus folgender Auswahl Einheiten: Abattoir, Æonic Orb",
           "upgrades": [
-            "None"
+            "Keine"
           ],
           "points": 600
         },
         {
-          "name": "0–1 Spacecraft",
+          "name": "0–1 Raumschiff",
           "units": "Ein Scythe Class Harvester",
           "upgrades": [
-            "None"
+            "Keine"
           ],
           "points": 300
         },
         {
-          "name": "Night Scythes",
-          "units": "Zwei Night Scythes",
+          "name": "Nachtsicheln",
+          "units": "Zwei Nachtsicheln",
           "upgrades": [
-            "None"
+            "Keine"
           ],
           "points": 175
         },
         {
-          "name": "Doom Scythes",
-          "units": "Zwei Doom Scythes",
+          "name": "Todessicheln",
+          "units": "Zwei Todessicheln",
           "upgrades": [
-            "None"
+            "Keine"
           ],
           "points": 225
         },
@@ -210,7 +210,7 @@
           "name": "Night Shroud Bomber",
           "units": "Ein Night Shroud Bomber",
           "upgrades": [
-            "None"
+            "Keine"
           ],
           "points": 200
         }
@@ -229,23 +229,23 @@
           },
           {
             "description": "Füge bis zu drei Annihilation Barges hinzu",
-            "points": "50 pts each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Füge bis zu drei Doomsday Arks hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Füge bis zu drei Wraiths hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Füge bis zu drei Triarch Stalkers hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
-            "description": "Swap up to 3 Necron Warriors for Immortals",
-            "points": "25 points each"
+            "description": "Ersetze bis zu 3 Necron Warriors durch Immortals",
+            "points": "25 Punkte pro Stück"
           }
         ]
       },
@@ -254,23 +254,23 @@
         "options": [
           {
             "description": "Füge bis zu drei Tomb Spyders hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Füge bis zu drei Wraiths hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Füge 1 Cryptek hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
-            "description": "Swap up to 3 Necron Warriors for Immortals",
-            "points": "25 points each"
+            "description": "Ersetze bis zu 3 Necron Warriors durch Immortals",
+            "points": "25 Punkte pro Stück"
           },
           {
             "description": "Füge One C'tan Shard hinzu",
-            "points": "100 points"
+            "points": "100 Punkte"
           }
         ]
       },
@@ -278,8 +278,8 @@
         "name": "Iudicium Maniple",
         "options": [
           {
-            "description": "Füge 1 Command barge with a Lord Character hinzu",
-            "points": "50 points"
+            "description": "Füge 1 Command Barge mit einem Lord-Charakter hinzu",
+            "points": "50 Punkte"
           }
         ]
       },
@@ -288,11 +288,11 @@
         "options": [
           {
             "description": "Füge One Necron Lord hinzu",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
             "description": "Füge bis zu drei Wraiths hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           }
         ]
       },
@@ -301,11 +301,11 @@
         "options": [
           {
             "description": "Füge 1 Obelisk hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Füge bis zu 1 Monolith  hinzu",
-            "points": "75 points each"
+            "points": "75 Punkte pro Stück"
           }
         ]
       },
@@ -314,7 +314,7 @@
         "options": [
           {
             "description": "Füge 0-2 Seraptek Heavy Construct hinzu",
-            "points": "125 points each"
+            "points": "125 Punkte pro Stück"
           }
         ]
       },
@@ -323,23 +323,23 @@
         "options": [
           {
             "description": "Füge 1 Necron Lord unit hinzu",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "Füge 1 Cryptek unit hinzu",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "Füge zwei Triarch Praetorian-Einheiten hinzu.",
-            "points": "125 points"
+            "points": "125 Punkte"
           },
           {
             "description": "Füge bis zu drei Triarch Stalkers  hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Füge One C'tan Shard hinzu",
-            "points": "100 points"
+            "points": "100 Punkte"
           }
         ]
       }

@@ -6,7 +6,7 @@
     ],
     "unit": [
       {
-        "name": "Ethereal",
+        "name": "Himmlischer",
         "type": "CH",
         "weapons": [
           "Honour Klinge"
@@ -41,7 +41,7 @@
         ]
       },
       {
-        "name": "Shas'o Battlesuit",
+        "name": "Shas'o-Kampfanzug",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -56,7 +56,7 @@
         ]
       },
       {
-        "name": "Fire Warriors",
+        "name": "Feuerkrieger",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -70,7 +70,7 @@
         ]
       },
       {
-        "name": "Fire Warrior Breachers",
+        "name": "Feuerkrieger-Brecher",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -83,7 +83,7 @@
         ]
       },
       {
-        "name": "Fire Warrior Radiants",
+        "name": "Strahlende Feuerkrieger",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -97,7 +97,7 @@
         ]
       },
       {
-        "name": "Missile Drones",
+        "name": "Raketen-Drohnen",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -111,7 +111,7 @@
         ]
       },
       {
-        "name": "Gun Drones",
+        "name": "Angriffsdrohnen",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -125,7 +125,7 @@
         ]
       },
       {
-        "name": "Marker Drones",
+        "name": "Markiererdrohnen",
         "type": "INF",
         "speed": 20,
         "weapons": [
@@ -137,7 +137,7 @@
         ]
       },
       {
-        "name": "Shield Drones",
+        "name": "Schilddrohnen",
         "type": "LV",
         "speed": 25,
         "armour": 5,
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "name": "Pathfinders",
+        "name": "Späher",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -168,7 +168,7 @@
         ]
       },
       {
-        "name": "XV8 Crisis Battlesuits",
+        "name": "XV8 Krisis-Kampfanzüge",
         "type": "INF",
         "speed": 20,
         "armour": 3,
@@ -185,7 +185,7 @@
         ]
       },
       {
-        "name": "XV84 Crisis Battlesuits",
+        "name": "XV84 Krisis-Kampfanzüge",
         "type": "INF",
         "speed": 20,
         "armour": 3,
@@ -202,7 +202,7 @@
         ]
       },
       {
-        "name": "XV15 Stealth Battlesuits",
+        "name": "XV15 Geist-Kampfanzüge",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -221,7 +221,7 @@
         ]
       },
       {
-        "name": "XV25 Stealth Battlesuits",
+        "name": "XV25 Geist-Kampfanzüge",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "name": "Scharfschütze Drones",
+        "name": "Scharfschützen-Drohnen",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -253,11 +253,11 @@
           "Aufklärer",
           "Teleport",
           "Tau Jet Packs",
-          "Counts as Gun Drone for the purpose of being transported."
+          "Zählt für den Transport als Gun Drone."
         ]
       },
       {
-        "name": "Firesight Marksmen",
+        "name": "Firesight-Scharfschützen",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -270,11 +270,11 @@
           "Teleport",
           "Markerlights",
           "Scouts",
-          "Counts as Fire Warrior for the purpose of being transported."
+          "Zählt für den Transport als Fire Warrior."
         ]
       },
       {
-        "name": "Vespid Stingwings",
+        "name": "Vespid-Stachelflügel",
         "type": "INF",
         "speed": 30,
         "cc": 6,
@@ -287,7 +287,7 @@
         ]
       },
       {
-        "name": "Kroot Master Shapers",
+        "name": "Kroot-Meisterweiser",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -303,7 +303,7 @@
         ]
       },
       {
-        "name": "Kroot Warriors",
+        "name": "Kroot-Krieger",
         "type": "INF",
         "speed": 15,
         "cc": 4,
@@ -317,7 +317,7 @@
         ]
       },
       {
-        "name": "Kroot Hounds",
+        "name": "Kroot-Hunde",
         "type": "INF",
         "speed": 20,
         "cc": 3,
@@ -344,7 +344,7 @@
         ]
       },
       {
-        "name": "Great Knarloc",
+        "name": "Großer Knarloc",
         "type": "LV",
         "speed": 20,
         "armour": 3,
@@ -358,7 +358,7 @@
         ]
       },
       {
-        "name": "XV9-04 Hazard Battlesuit",
+        "name": "XV9-04 Hazard-Kampfanzug",
         "type": "LV",
         "speed": 15,
         "armour": 4,
@@ -374,7 +374,7 @@
         ]
       },
       {
-        "name": "XV95 Ghostkeel Battlesuit",
+        "name": "XV95 Schattengeist-Kampfanzug",
         "type": "LV",
         "speed": 20,
         "armour": 5,
@@ -395,7 +395,7 @@
         ]
       },
       {
-        "name": "XV88 Broadside Battlesuit",
+        "name": "XV88 Koloss-Kampfanzug",
         "type": "LV",
         "speed": 15,
         "armour": 4,
@@ -443,7 +443,7 @@
         ]
       },
       {
-        "name": "Devilfish",
+        "name": "Teufelsrochen",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -460,7 +460,7 @@
         "notes": "Kann zwei Einheiten Fire Warriors oder Pathfinders transportieren."
       },
       {
-        "name": "Swordfish",
+        "name": "Schwertfisch",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -476,7 +476,7 @@
         "notes": "Kann eine Einheit Gun Drones transportieren."
       },
       {
-        "name": "Missile Hammerhead",
+        "name": "Raketen-Hammerhai",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -494,7 +494,7 @@
         "notes": "Kann 1 Einheit Gun Drones transportieren."
       },
       {
-        "name": "Ion Hammerhead",
+        "name": "Ionen-Hammerhai",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -512,7 +512,7 @@
         "notes": "Kann 1 Einheit Gun Drones transportieren."
       },
       {
-        "name": "Rail Hammerhead",
+        "name": "Massebeschleuniger-Hammerhai",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -528,7 +528,7 @@
         ]
       },
       {
-        "name": "Fusion Hammerhead",
+        "name": "Fusions-Hammerhai",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -544,7 +544,7 @@
         ]
       },
       {
-        "name": "Sky Ray",
+        "name": "Dornenhai",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -561,7 +561,7 @@
         ]
       },
       {
-        "name": "XV107 R'varna Battlesuit",
+        "name": "XV107 R'varna-Kampfanzug",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -576,7 +576,7 @@
         ]
       },
       {
-        "name": "XV104 Riptide Battlesuit",
+        "name": "XV104 Sturmflut-Kampfanzug",
         "type": "H-AV",
         "speed": 20,
         "armour": 3,
@@ -594,7 +594,7 @@
         ]
       },
       {
-        "name": "XV109 Y'vahra Battlesuit",
+        "name": "XV109 Y'vahra-Kampfanzug",
         "type": "H-AV",
         "speed": 25,
         "armour": 3,
@@ -612,18 +612,18 @@
         ]
       },
       {
-        "name": "KV128 Stormsurge Ballistic Suit",
+        "name": "KV128 Sturmwoge-Ballistikanzug",
         "type": "WE",
         "speed": 25,
         "armour": 3,
         "cc": 5,
         "ff": 5,
         "weapons": [
-          ">Standard Configuration<",
+          ">Standard-Konfiguration<",
           "Impuls-Treiberkanone||FwA",
           "Zerstörer Raketen|2|",
           "Geschwindigkeitspeiler",
-          ">Support Configuration<",
+          ">Support-Konfiguration<",
           "Impuls-Druckwellenkanone||FwA",
           "Zwillings-Intelligentes Raketensystem|2|",
           "Geschwindigkeitspeiler"
@@ -633,10 +633,10 @@
           "Unmodifizierter Rettungswurf",
           "Geländegängig"
         ],
-        "crit": "The Stormsurge takes an additional point of damage."
+        "crit": "Stormsurge erleidet 1 zusätzlichen Schaden."
       },
       {
-        "name": "KX139 Ta'unar Supremacy Armour",
+        "name": "KX139 Ta'unar-Vorherrschaftsrüstung",
         "type": "WE",
         "speed": 20,
         "armour": 3,
@@ -657,7 +657,7 @@
           "Geländegängig"
         ],
         "notes": "Mit einem Nexus-Raketenarray, einer Schweren Schienenkanone oder einem Puls-Ordnance-Multitreiber bewaffnet.",
-        "crit": "The Tau Deflector Shield is knocked offline and may not be used for the remainder of the game. Subsequent critical hits cause an additional point of damage."
+        "crit": "Der Tau Deflector Shield fällt aus und darf für den Rest des Spiels nicht mehr verwendet werden. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
       },
       {
         "name": "Manta",
@@ -683,7 +683,7 @@
           "Transport"
         ],
         "notes": "Kann zwölf Fire Warriors, Pathfinders, XV15 Stealth Battlesuits, XV25 Stealth Battlesuits, Gun Drones, Kroot Warriors, Kroot Master Shapers und Kroot Hounds transportieren. Krootox, XV8 Crisis, XV9-04 Hazard, XV88 Broadside und XV95 Ghostkeel Battlesuits zählen jeweils als zwei Einheiten. Zusätzlich können acht Piranha und Tetra mitgeführt werden. Devilfish, Hammerhead und Sky Ray zählen jeweils als zwei Einheiten.",
-        "crit": "The Tau Deflector Shield is knocked offline and may not be used for the remainder of the game. Subsequent critical hits cause an additional point of damage."
+        "crit": "Der Tau Deflector Shield fällt aus und darf für den Rest des Spiels nicht mehr verwendet werden. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
       }
     ]
   }

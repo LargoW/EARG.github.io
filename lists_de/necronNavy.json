@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Night Scythe Transporter",
+        "name": "Nachtsichel-Transporter",
         "type": "WE/AC",
         "speed": "Bomber",
         "armour": 5,
@@ -18,11 +18,11 @@
           "Furchtlos",
           "Regeneration",
           "Enduring",
-          "[*]Portal. May only be used to enter the battlefield, not to move into the reserves. May only be used while landed."
+          "[*]Portal. Darf nur verwendet werden, um das Schlachtfeld zu betreten, nicht um in die Reserve zu wechseln. Darf nur im gelandeten Zustand verwendet werden."
         ]
       },
       {
-        "name": "Doom Scythe Fighter",
+        "name": "Todessichel-Jäger",
         "type": "AC",
         "speed": "Fighter-Bomber",
         "armour": 5,
@@ -50,11 +50,11 @@
         ]
       },
       {
-        "name": "Cairn Class Tomb Ship",
+        "name": "Cairn-Klasse Gruftschiff",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "4BP, MW"
@@ -64,7 +64,7 @@
           "Präzisionsschuss|1|"
         ],
         "specialRules": [
-          "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
+          "Verzögerte Ankunft (darf erst ab Runde 2 auf dem Schlachtfeld eintreffen)"
         ]
       }
     ]

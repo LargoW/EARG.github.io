@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Brood Lord",
+        "name": "Symbiarch",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -17,7 +17,7 @@
         ]
       },
       {
-        "name": "Dagon Overlord",
+        "name": "Dagon-Oberherrscher",
         "type": "AV",
         "speed": "20cm",
         "armour": "4",
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "name": "Dagon Overlord Shrike",
+        "name": "Dagon-Oberherrscher-Shrike",
         "type": "AV",
         "speed": "30cm",
         "armour": "5",
@@ -58,7 +58,7 @@
         ]
       },
       {
-        "name": "Swarmlord",
+        "name": "Schwarmherrscher",
         "type": "AV",
         "speed": "20cm",
         "armour": "4",
@@ -80,7 +80,7 @@
         ]
       },
       {
-        "name": "Swarmlord Shrike",
+        "name": "Schwarmherrscher-Shrike",
         "type": "AV",
         "speed": "30cm",
         "armour": "5",
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "name": "Hive Tyrant",
+        "name": "Schwarmtyrant",
         "type": "AV",
         "speed": "20cm",
         "armour": "4",
@@ -122,7 +122,7 @@
         ]
       },
       {
-        "name": "Hive Tyrant Shrike",
+        "name": "Schwarmtyrant-Shrike",
         "type": "AV",
         "speed": "30cm",
         "armour": "5",
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "name": "Tyranid Warriors",
+        "name": "Tyranidenkrieger",
         "type": "LV",
         "speed": "20cm",
         "armour": "4",
@@ -157,7 +157,7 @@
         ]
       },
       {
-        "name": "Tyranid Warrior Shrikes",
+        "name": "Tyranidenkrieger-Shrikes",
         "type": "LV",
         "speed": "30cm",
         "armour": "5",
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "name": "Zoanthrope",
+        "name": "Zoantroph",
         "type": "LV",
         "speed": 15,
         "armour": 4,
@@ -189,7 +189,7 @@
         ]
       },
       {
-        "name": "Ravener Alphas",
+        "name": "Alpha-Venatoren",
         "type": "LV",
         "speed": 25,
         "armour": 5,
@@ -204,7 +204,7 @@
         ]
       },
       {
-        "name": "Raveners",
+        "name": "Venatoren",
         "type": "INF",
         "speed": 25,
         "armour": 5,
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "name": "Termagants",
+        "name": "Termaganten",
         "type": "INF",
         "speed": 20,
         "cc": 6,
@@ -231,7 +231,7 @@
         ]
       },
       {
-        "name": "Barbgaunts",
+        "name": "Stachelganten",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -244,7 +244,7 @@
         ]
       },
       {
-        "name": "Hormagaunts",
+        "name": "Hormaganten",
         "type": "INF",
         "speed": 20,
         "cc": 5,
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "name": "Genestealers",
+        "name": "Symbionten",
         "type": "INF",
         "speed": 20,
         "armour": 6,
@@ -311,7 +311,7 @@
         ]
       },
       {
-        "name": "Lictor",
+        "name": "Liktor",
         "type": "LV",
         "speed": 15,
         "armour": 5,
@@ -345,7 +345,7 @@
         ]
       },
       {
-        "name": "Harpy",
+        "name": "Harpyie",
         "type": "AV",
         "speed": 35,
         "armour": 5,
@@ -361,7 +361,7 @@
         ]
       },
       {
-        "name": "Hive Crone",
+        "name": "Schwarmdrude",
         "type": "AV",
         "speed": 35,
         "armour": 5,
@@ -420,7 +420,7 @@
         ]
       },
       {
-        "name": "Malefactor",
+        "name": "Malefaktor",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -437,7 +437,7 @@
         "notes": "Kann bis zu vier Einheiten Barbgaunts, Termagants, Hormagaunts, Gargoyles und Raveners transportieren. Biovores, Pyrovores, Tyranid Warriors und Zoanthropes zählen jeweils als eineinhalb Einheiten, aufgerundet."
       },
       {
-        "name": "Barbed Carnifex",
+        "name": "Stachel-Carnifex",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -453,7 +453,7 @@
         ]
       },
       {
-        "name": "Screamer-Killer Carnifex",
+        "name": "Kreischer-Killer-Carnifex",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -469,7 +469,7 @@
         ]
       },
       {
-        "name": "Hive Guard",
+        "name": "Schwarmwachen",
         "type": "INF",
         "speed": 10,
         "armour": 5,
@@ -536,10 +536,10 @@
           "Regeneration",
           "Tunnelgräber"
         ],
-        "crit": "The Viragon is killed."
+        "crit": "Viragon wird zerstört."
       },
       {
-        "name": "Trygon Prime",
+        "name": "Trygon-Alpha",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -593,10 +593,10 @@
           "Transport"
         ],
         "notes": "Kann bis zu vier Einheiten Gargoyles transportieren.",
-        "crit": "The Harridan is killed."
+        "crit": "Harridan wird zerstört."
       },
       {
-        "name": "Hive Harridan",
+        "name": "Schwarm-Harridan",
         "type": "WE",
         "speed": 35,
         "armour": 5,
@@ -616,10 +616,10 @@
           "Transport"
         ],
         "notes": "Kann bis zu 4 Gargoyle-Einheiten transportieren.",
-        "crit": "The Harridan is killed."
+        "crit": "Harridan wird zerstört."
       },
       {
-        "name": "Barbed Hierodule Prime",
+        "name": "Stachel-Hierodule-Alpha",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -635,10 +635,10 @@
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Hierodule Prime is killed."
+        "crit": "Hierodule Prime wird zerstört."
       },
       {
-        "name": "Barbed Hierodule",
+        "name": "Stachel-Hierodule",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -652,10 +652,10 @@
           "Damage Capacity: 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Hierodule is killed."
+        "crit": "Hierodule wird zerstört."
       },
       {
-        "name": "Scythed Hierodule Prime",
+        "name": "Sensen-Hierodule-Alpha",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -671,10 +671,10 @@
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Scythed Hierodule Prime is killed."
+        "crit": "Scythed Hierodule Prime wird zerstört."
       },
       {
-        "name": "Scythed Hierodule",
+        "name": "Sensen-Hierodule",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -688,10 +688,10 @@
           "Damage Capacity: 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Scythed Hierodule is killed."
+        "crit": "Scythed Hierodule wird zerstört."
       },
       {
-        "name": "Hive Nest",
+        "name": "Schwarmnest",
         "type": "WE",
         "speed": "Immobile",
         "armour": 5,
@@ -706,10 +706,10 @@
           "Furchtlos",
           "Regeneration"
         ],
-        "crit": "The Hive Nest is destroyed."
+        "crit": "Hive Nest wird zerstört."
       },
       {
-        "name": "Spawn Nest",
+        "name": "Brutnest",
         "type": "WE",
         "speed": "Immobile",
         "armour": 5,
@@ -723,10 +723,10 @@
           "Furchtlos",
           "Regeneration"
         ],
-        "crit": "The Spawn Nest is destroyed."
+        "crit": "Spawn Nest wird zerstört."
       },
       {
-        "name": "Dagon Dominatrix",
+        "name": "Dagon-Dominatrix",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -750,10 +750,10 @@
           "Regeneration"
         ],
         "notes": "Darf Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, das niedriger als sein Körper und bis zu 2 cm breit ist.",
-        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
+        "crit": "Würfle einen W6: 1: Einheiten im Basekontakt werden bei 6+ von einem MW-Angriff getroffen. 2-5: Erleidet 1 zusätzlichen Schaden. 6: Erleidet W3 zusätzlichen Schaden."
       },
       {
-        "name": "Hydra Dominatrix",
+        "name": "Hydra-Dominatrix",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -779,7 +779,7 @@
           "Assisted Swarming"
         ],
         "notes": "Kann fünf Einheiten mit der Sonderregel „Gaunts“ transportieren. Darf Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, das niedriger als sein Körper und bis zu 2 cm breit ist.",
-        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
+        "crit": "Würfle einen W6: 1: Einheiten im Basekontakt werden bei 6+ von einem MW-Angriff getroffen. 2-5: Erleidet 1 zusätzlichen Schaden. 6: Erleidet W3 zusätzlichen Schaden."
       },
       {
         "name": "Hierophant",
@@ -800,7 +800,7 @@
           "Regeneration"
         ],
         "notes": "Kann Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, sofern es niedriger als der Körper und höchstens 2 cm breit ist.",
-        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
+        "crit": "Würfle einen W6: 1: Einheiten im Basekontakt werden bei 6+ von einem MW-Angriff getroffen. 2-5: Erleidet 1 zusätzlichen Schaden. 6: Erleidet W3 zusätzlichen Schaden."
       },
       {
         "name": "Hydraphant",
@@ -823,7 +823,7 @@
           "Regeneration"
         ],
         "notes": "Kann Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, sofern es niedriger als der Körper und höchstens 2 cm breit ist.",
-        "crit": "Roll a W6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers W3 additional damage."
+        "crit": "Würfle einen W6: 1: Einheiten im Basekontakt werden bei 6+ von einem MW-Angriff getroffen. 2-5: Erleidet 1 zusätzlichen Schaden. 6: Erleidet W3 zusätzlichen Schaden."
       }
     ]
   }

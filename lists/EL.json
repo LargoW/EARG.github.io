@@ -107,7 +107,7 @@
                 "Wailing Doom"
             ],
             "specialRules": [
-                "Damage Capacity 3",
+                "Schadenskapazität3",
                 "Inspirierend",
                 "Furchtlos",
                 "Befehlshaber",
@@ -243,7 +243,7 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Twin Starcannon"
+                "Zwillings Starcannon"
             ],
             "specialRules": [
                 "Aufklärer",
@@ -259,7 +259,7 @@
             "cc": 6,
             "ff": 4,
             "weapons": [
-                "Twin Shuriken Catapult"
+                "Zwillings Shuriken Catapult"
             ],
             "specialRules": [
                 "Beritten",
@@ -388,7 +388,7 @@
             "ff": 5,
             "weapons": [
                 "Eldar Power Lances",
-                "Twin Shuriken Catapult"
+                "Zwillings Shuriken Catapult"
             ],
             "specialRules": [
                 "Beritten",
@@ -521,7 +521,7 @@
             "ff": 5,
             "weapons": [
                 "Splinter Cannon",
-                "Twin Splinter Rifle"
+                "Zwillings Splinter Rifle"
             ],
             "specialRules": [
                 "Antigrav",
@@ -552,7 +552,7 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Twin Hornet Pulse Laser"
+                "Zwillings Hornet Pulse Laser"
             ],
             "specialRules": [
                 "Antigrav",
@@ -567,7 +567,7 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Twin Hornet Pulse Laser"
+                "Zwillings Hornet Pulse Laser"
             ],
             "specialRules": [
                 "Antigrav",
@@ -604,7 +604,7 @@
             "ff": 4,
             "weapons": [
                 "Eldar Power Fist",
-                "Twin Bright Lanze"
+                "Zwillings Bright Lanze"
             ],
             "specialRules": [
                 "Furchtlos",
@@ -620,7 +620,7 @@
             "cc": 6,
             "ff": 4,
             "weapons": [
-                "Twin Shuriken Cannon"
+                "Zwillings Shuriken Cannon"
             ],
             "specialRules": [
                 "Verstärkte Panzerung",
@@ -731,7 +731,7 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Twin Pulsar",
+                "Zwillings Pulsar",
                 "Shuriken Cannon",
                 "Scatter Laser|2"
             ],
@@ -827,9 +827,9 @@
             "cc": 4,
             "ff": 3,
             "weapons": [
-                "Twin Deathshroud Cannon|0-1|",
-                "Twin Inferno Lanze|0-1|",
-                "Twin Shuriken Cannon"
+                "Zwillings Deathshroud Cannon|0-1|",
+                "Zwillings Inferno Lanze|0-1|",
+                "Zwillings Shuriken Cannon"
             ],
             "specialRules": [
                 "Holofield (3+)",
@@ -837,7 +837,7 @@
                 "Geländegängig",
                 "Teleport"
             ],
-            "notes": "Skathach Wraithknights are armed with either a Twin Deathshroud Cannon oder Twin Inferno Lanze."
+            "notes": "Skathach Wraithknights are armed with either a Zwillings Deathshroud Cannon oder Zwillings Inferno Lanze."
         },
         {
             "name": "Wraithknight",
@@ -847,10 +847,10 @@
             "cc": 3,
             "ff": 4,
             "weapons": [
-                "Twin Heavy Wraithcannons|0-1|",
+                "Schweres Zwillings Wraithcannons|0-1|",
                 "Ghostglaive and Scattershield|0-1|",
                 "Suncannon|0-1|",
-                "Twin Shuriken Cannon"
+                "Zwillings Shuriken Cannon"
             ],
             "specialRules": [
                 "Holofield (3+)",
@@ -858,7 +858,7 @@
                 "Furchtlos",
                 "Geländegängig"
             ],
-            "notes": "Must be armed with either Twin Heavy Wraithcannons, Ghostglaive and Scattershield, oder a Suncannon. Spec[*]: Scattershield grants the model Verstärkte Panzerung."
+            "notes": "Must be armed with either Schweres Zwillings Wraithcannons, Ghostglaive and Scattershield, oder a Suncannon. Spec[*]: Scattershield grants the model Verstärkte Panzerung."
         },
         {
             "name": "Revenant Titan",
@@ -890,7 +890,7 @@
             "weapons": [
                 "Titan Pulsar|1-2|",
                 "Eldar Titan Power Fist|0-1|",
-                "Twin Eldar Missile Launcher|2|"
+                "Zwillings Eldar Missile Launcher|2|"
             ],
             "specialRules": [
                 "Damage Capacity: 6",
@@ -919,7 +919,7 @@
                 "Eldar Titan Power Fist|0-1|",
                 "Ashuna-Valcry'le|0-1|",
                 "CARAPACE",
-                "Twin Eldar Missile Launcher|2|"
+                "Zwillings Eldar Missile Launcher|2|"
             ],
             "specialRules": [
                 "Damage Capacity: 6",
@@ -941,7 +941,7 @@
             "weapons": [
                 "Psychic Lanze",
                 "Eldar Titan Power Fist",
-                "Twin Eldar Missile Launcher|2|"
+                "Zwillings Eldar Missile Launcher|2|"
             ],
             "specialRules": [
                 "Damage Capacity: 6",

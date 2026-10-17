@@ -15,26 +15,26 @@
     {
       "from": "CU.json",
       "units": [
-        "Tribune",
-        "Captain General",
-        "Oblivion Kinght Centura",
+        "Tribun",
+        "Generalkommandant",
+        "Centura der Oblivion Knights",
         "Sagittarum",
-        "Guardian",
-        "Sentinel Guard",
-        "Warden",
-        "Aquilon Terminator",
+        "Custodesgardist",
+        "Sentinel-Wächter",
+        "Custodeshüter",
+        "Aquilon-Terminator",
         "Venatari",
-        "Sister of Silence",
+        "Schwester der Stille",
         "Vertus Praetors",
-        "Contemptor Dreadnought Achilles",
-        "Telemon Heavy Dreadnought",
-        "Pallas",
-        "Caladius",
+        "Achilles-Contemptor-Dreadnought",
+        "Schwerer Telemon-Dreadnought",
+        "Antigravschweber Pallas",
+        "Caladius-Antigravpanzer",
         "Coronus",
-        "Custodian Land Raider",
-        "Null-Maiden Rhino",
-        "Null-Maiden Hunter",
-        "Orion Assault Ship"
+        "Custodes-Land-Raider",
+        "Rhino der Schwestern der Stille",
+        "Jäger der Schwestern der Stille",
+        "Orion-Angriffsschiff"
       ],
       "unitRules": [
       ]
@@ -78,7 +78,7 @@
         },
         {
           "name": "Dreadnaught Wing",
-          "units": "3 aus folgender Auswahl in any combination: Contemptor Dreadnought Achilles oder Telemon Heavy Dreadnoughts",
+          "units": "3 aus folgender Auswahl in beliebiger Kombination: Contemptor Dreadnought Achilles oder Telemon Heavy Dreadnoughts",
           "upgrades": [
             "Dreadnaught"
           ],
@@ -159,26 +159,26 @@
   ],
   "upgrades": {
     "title": "Adeptus Custodes Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
         "name": "Befehlshaber",
-        "description": "Füge any one aus folgender Auswahl characters to any unit in die Formation hinzu",
+        "description": "Füge einen der folgenden Charaktere zu einer beliebigen Einheit im Verband hinzu",
         "options": [
           {
             "description": "Captain General, Oblivion Kinght Centura",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
-            "description": "0–1 Tribune per army",
-            "points": "100 points"
+            "description": "0–1 Tribune pro Armee",
+            "points": "100 Punkte"
           }
         ]
       },
       {
         "name": "Null-Maiden Hunter",
         "description": "Füge 1 Null-Maiden Hunter hinzu",
-        "points": "75 points each"
+        "points": "75 Punkte pro Stück"
       },
       {
         "name": "Dreadnaught",
@@ -186,25 +186,25 @@
         "options": [
           {
             "description": "Contemptor Dreadnought Achilles",
-            "points": "100 points"
+            "points": "100 Punkte"
           },
           {
             "description": "Telemon Heavy Dreadnought",
-            "points": "100 points"
+            "points": "100 Punkte"
           }
         ]
       },
       {
         "name": "Transport",
-        "description": "Füge enough aus folgender Auswahl to trasnport the entire foramtion hinzu.",
+        "description": "Füge genügend der folgenden Optionen hinzu, um den gesamten Verband zu transportieren.",
         "options": [
           {
             "description": "Venerable Land Raiders",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Coronus",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           }
         ]
       }

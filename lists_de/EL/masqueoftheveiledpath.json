@@ -23,32 +23,32 @@
     {
       "from": "EL.json",
       "units": [
-        "Eldar Autarch",
-        "Spiritseer",
-        "Avatar",
-        "Eldar Exarch",
-        "Eldar Farseer",
-        "Eldar Guardians",
-        "Vyper",
-        "Eldar Jetbikes",
-        "Dire Avengers",
-        "Fire Dragons",
-        "Dark Reapers",
-        "Howling Banshees",
-        "Striking Scorpions",
-        "Wraithreapers",
-        "Corsair Ghost Geländegängigs",
-        "Corsair Wasp Geländegängig",
-        "Venom",
-        "Vyper",
-        "Wave Serpent",
-        "Fire Prism",
+        "Eldar-Autarch",
+        "Geisterseher",
+        "Avatar des Khaine",
+        "Eldar-Exarch",
+        "Eldar-Runenprophet",
+        "Eldar-Gardisten",
+        "Viper",
+        "Eldar-Jetbikes",
+        "Asuryans Jäger",
+        "Feuerdrachen",
+        "Schwarze Kaindar",
+        "Banshees",
+        "Skorpionkrieger",
+        "Phantom-Schnitter",
+        "Korsaren-Geisterläufer",
+        "Korsaren-Wespe",
+        "Schattenviper",
+        "Viper",
+        "Wellenschlange",
+        "Illum Zar",
         "Falcon",
-        "Firestorm",
-        "Cobra",
-        "Storm Serpent",
-        "Scorpion",
-        "Skathach Wraithknight"
+        "Feuersturm",
+        "Kobra",
+        "Sturmserpent",
+        "Skorpion",
+        "Skathach-Phantomritter"
       ],
       "unitRules": [
           "Holofields (x)",
@@ -78,11 +78,11 @@
     {
       "from": "eldarNavy.json",
       "units": [
-        "Nightshade Interceptor",
-        "Hemlock Wraithfighter",
-        "Corsair Vampire Hunter",
-        "Wraithship",
-        "Dragonship"
+        "Nachtschatten-Abfangjäger",
+        "Hemlock-Phantomjäger",
+        "Korsaren-Vampire-Hunter",
+        "Phantomschiff",
+        "Drachenschiff"
       ],
       "unitRules": [
       ]
@@ -93,7 +93,7 @@
       "name": "Spezialregeln des Weltenschiffs Lugganath",
       "formations": [
         {
-          "name": "0-1 Avatar",
+          "name": "0–1 Avatar",
           "units": "Ein Avatar",
           "points": 50
         },
@@ -135,9 +135,9 @@
       "formations": [
         {
           "name": "Corsair Scouts",
-          "units": "Vier Ghost Geländegängigs",
+          "units": "Vier Ghost Walkers",
           "extraUnits": [
-            "Ersetze four Ghost Geländegängigs durch four Wasp Geländegängigs: kostenlos"
+            "Ersetze vier Ghost Walkers durch vier Wasp Walkers: kostenlos"
           ],
           "points": 150
         },
@@ -161,7 +161,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu two Falcons durch Firestorms: kostenlos",
+            "Ersetze bis zu zwei Falcons durch Firestorms: kostenlos",
             "OR",
             "Füge fünf Guardians zur Formation hinzu: 50 Punkte"
           ],
@@ -210,14 +210,14 @@
           "points": 325
         },
         {
-          "name": "0-1 Devourer's Feast",
+          "name": "0–1 Devourer's Feast",
           "units": "Ein Master Mime, ein Solitaire, acht Mimes",
           "extraUnits": [
           ],
           "points": 350
         },
         {
-          "name": "0-1 Ynnead's Dream",
+          "name": "0–1 Ynnead's Dream",
           "units": "Ein Harlequin Avatar, ein Shadowseer, drei Harlequin Troupes, drei Death Jesters, sechs Starweavers",
           "extraUnits": [
           ],
@@ -258,7 +258,7 @@
           "points": 225
         },
         {
-          "name": "0-1 Spacecraft",
+          "name": "0–1 Raumschiff",
           "units": "Ein Wraithship",
           "extraUnits": [
             "Ersetze durch ein Dragonship: 125 Punkte"
@@ -270,22 +270,22 @@
   ],
   "upgrades": {
     "title": "Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "0-1 Autarch",
-        "description": "Füge an Eldar Autarch character to a Farseer oder Aspect Warriors unit hinzu",
-        "points": "75 points"
+        "name": "0–1 Autarch",
+        "description": "Füge einer Farseer- oder Aspect-Warriors-Einheit einen Eldar-Autarch-Charakter hinzu",
+        "points": "75 Punkte"
       },
       {
         "name": "Exarch",
-        "description": "Füge 1 Exarch character to an Aspect Warrior unit hinzu",
-        "points": "25 points"
+        "description": "Füge 1 Exarch-Charakter zu einer Aspect-Warrior-Einheit hinzu",
+        "points": "25 Punkte"
       },
       {
         "name": "Windriders",
         "description": "Füge bis zu drei Vypers oder Eldar Jetbikes hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       }
     ]
   }

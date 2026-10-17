@@ -5,7 +5,7 @@
     ],
     "unit": [
         {
-            "name": "Wild Rider Chieftain",
+            "name": "Häuptling der Wilden Reiter",
             "type": "INF",
             "speed": 35,
             "armour": 4,
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "name": "Phoenix Lord",
+            "name": "Phönixkönig",
             "type": "INF",
             "speed": 35,
             "armour": 4,
@@ -39,7 +39,7 @@
             ]
         },
         {
-            "name": "Eldar Autarch",
+            "name": "Eldar-Autarch",
             "type": "CH",
             "weapons": [
                 "Eldar Energiewaffe"
@@ -50,14 +50,14 @@
             ]
         },
         {
-            "name": "Court of the Young King",
+            "name": "Hof des Jungen Königs",
             "type": "CH",
             "weapons": [
                 "Uralte Waffen"
             ]
         },
         {
-            "name": "Bonesinger",
+            "name": "Knochensänger",
             "type": "CH",
             "weapons": [
                 "n/a"
@@ -67,7 +67,7 @@
             ]
         },
         {
-            "name": "Seer Council",
+            "name": "Runenprophetenrat",
             "type": "INF",
             "speed": 15,
             "armour": 4,
@@ -85,7 +85,7 @@
             "notes": "Der Seer Council kann verwendet werden, um den Avatar zu beschwören."
         },
         {
-            "name": "Spiritseer",
+            "name": "Geisterseher",
             "type": "CH",
             "weapons": [],
             "specialRules": [
@@ -95,7 +95,7 @@
             "notes": "Einheiten mit einem Spiritseer können verwendet werden, um den Avatar zu beschwören."
         },
         {
-            "name": "Avatar",
+            "name": "Avatar des Khaine",
             "type": "WE",
             "speed": 15,
             "armour": 3,
@@ -105,17 +105,17 @@
                 "Klagendes Verderben"
             ],
             "specialRules": [
-                "Damage Capacity 3",
+                "Schadenskapazität3",
                 "Inspirierend",
                 "Furchtlos",
                 "Befehlshaber",
                 "Unmodifizierter Rettungswurf",
                 "Geländegängig"
             ],
-            "crit": "The Avatar is destroyed. All Craftworld Eldar formations (friend and foe) with a line of sight to the Avatar receive one Blast Marker."
+            "crit": "Avatar wird zerstört. Alle Craftworld-Eldar-Verbände (eigene und gegnerische) mit Sichtlinie zum Avatar erhalten 1 Beschussmarke."
         },
         {
-            "name": "Eldar Exarch",
+            "name": "Eldar-Exarch",
             "type": "CH",
             "weapons": [
                 "Exarch-Fernkampfwaffe|0-1",
@@ -130,7 +130,7 @@
             "notes": "Dire Avengers, Swooping Hawks und Warp Spiders haben eine Exarch-Fernkampfwaffe. Howling Banshees und Striking Scorpions haben eine Exarch-Nahkampfwaffe. Dark Reapers haben einen Reaper Launcher, Fire Dragons eine Firepike und Shining Spears eine Starlance."
         },
         {
-            "name": "Saim-Hann Beritten Farseer",
+            "name": "Berittener Runenprophet von Saim-Hann",
             "type": "INF",
             "speed": 35,
             "armour": 4,
@@ -150,7 +150,7 @@
             "notes": "Der berittene Farseer kann verwendet werden, um den Avatar zu beschwören."
         },
         {
-            "name": "Eldar Farseer",
+            "name": "Eldar-Runenprophet",
             "type": "INF",
             "speed": 15,
             "armour": 4,
@@ -167,7 +167,7 @@
             "notes": "Der Farseer kann verwendet werden, um den Avatar zu beschwören."
         },
         {
-            "name": "Eldar Guardians",
+            "name": "Eldar-Gardisten",
             "type": "INF",
             "speed": 15,
             "cc": 6,
@@ -179,7 +179,7 @@
             ]
         },
         {
-            "name": "Eldar Heavy Weapons Platform",
+            "name": "Eldar-Schwerwaffenplattform",
             "type": "INF",
             "speed": 15,
             "cc": 6,
@@ -191,7 +191,7 @@
             ]
         },
         {
-            "name": "Support Weapons Platform",
+            "name": "Unterstützungswaffenplattform",
             "type": "INF",
             "speed": 15,
             "cc": 6,
@@ -203,7 +203,7 @@
             "notes": "Bewaffnet entweder mit einer Vibro Cannon oder einer Support D-Cannon."
         },
         {
-            "name": "Eldar Rangers",
+            "name": "Ranger",
             "type": "INF",
             "speed": 15,
             "armour": 5,
@@ -218,7 +218,7 @@
             ]
         },
         {
-            "name": "Corsair Ghost Geländegängigs",
+            "name": "Korsaren-Geisterläufer",
             "type": "INF",
             "speed": 30,
             "armour": 6,
@@ -234,7 +234,7 @@
             ]
         },
         {
-            "name": "Corsair Wasp Geländegängig",
+            "name": "Korsaren-Wespe",
             "type": "LV",
             "speed": 35,
             "armour": 6,
@@ -250,7 +250,7 @@
             ]
         },
         {
-            "name": "Eldar Jetbikes",
+            "name": "Eldar-Jetbikes",
             "type": "INF",
             "speed": 35,
             "armour": 5,
@@ -265,7 +265,7 @@
             ]
         },
         {
-            "name": "Lugganath Jetbikes",
+            "name": "Lugganath-Jetbikes",
             "type": "INF",
             "speed": 35,
             "armour": 5,
@@ -280,7 +280,7 @@
             ]
         },
         {
-            "name": "Saim-Hann Wild Riders",
+            "name": "Wilde Reiter von Saim-Hann",
             "type": "INF",
             "speed": 35,
             "armour": 5,
@@ -296,7 +296,7 @@
             ]
         },
         {
-            "name": "Saim-Hann Shroud Runners",
+            "name": "Schleierläufer von Saim-Hann",
             "type": "INF",
             "speed": 35,
             "armour": 5,
@@ -313,7 +313,7 @@
             ]
         },
         {
-            "name": "Dire Avengers",
+            "name": "Asuryans Jäger",
             "type": "INF",
             "speed": 15,
             "armour": 5,
@@ -326,7 +326,7 @@
             ]
         },
         {
-            "name": "Fire Dragons",
+            "name": "Feuerdrachen",
             "type": "INF",
             "speed": 15,
             "armour": 5,
@@ -337,7 +337,7 @@
             ]
         },
         {
-            "name": "Dark Reapers",
+            "name": "Schwarze Kaindar",
             "type": "INF",
             "speed": 15,
             "armour": 4,
@@ -348,7 +348,7 @@
             ]
         },
         {
-            "name": "Striking Scorpions",
+            "name": "Skorpionkrieger",
             "type": "INF",
             "speed": 20,
             "armour": 4,
@@ -362,7 +362,7 @@
             ]
         },
         {
-            "name": "Howling Banshees",
+            "name": "Banshees",
             "type": "INF",
             "speed": 15,
             "armour": 5,
@@ -378,7 +378,7 @@
             ]
         },
         {
-            "name": "Shining Spears",
+            "name": "Sternenlanzen",
             "type": "INF",
             "speed": 35,
             "armour": 4,
@@ -394,7 +394,7 @@
             ]
         },
         {
-            "name": "Swooping Hawks",
+            "name": "Kriegsfalken",
             "type": "INF",
             "speed": 35,
             "armour": 5,
@@ -410,7 +410,7 @@
             ]
         },
         {
-            "name": "Shadow Spectres",
+            "name": "Schattenspektren",
             "type": "INF",
             "speed": 35,
             "armour": 4,
@@ -425,7 +425,7 @@
             ]
         },
         {
-            "name": "Warp Spiders",
+            "name": "Warpspinnen",
             "type": "INF",
             "speed": 20,
             "armour": 4,
@@ -440,7 +440,7 @@
             ]
         },
         {
-            "name": "Wraithblades",
+            "name": "Phantomklingen",
             "type": "INF",
             "speed": 15,
             "armour": 3,
@@ -454,7 +454,7 @@
             "notes": "Zählt beim Transport als eine Einheit Wraithguards."
         },
         {
-            "name": "Wraithguards",
+            "name": "Phantomdroiden",
             "type": "INF",
             "speed": 15,
             "armour": 3,
@@ -468,7 +468,7 @@
             ]
         },
         {
-            "name": "Wraithreapers",
+            "name": "Phantom-Schnitter",
             "type": "INF",
             "speed": 15,
             "armour": 3,
@@ -482,7 +482,7 @@
             ]
         },
         {
-            "name": "Vyper",
+            "name": "Viper",
             "type": "LV",
             "speed": 35,
             "armour": 4,
@@ -496,7 +496,7 @@
             ]
         },
         {
-            "name": "Saim-Hann Vyper",
+            "name": "Saim-Hann-Viper",
             "type": "LV",
             "speed": 35,
             "armour": 4,
@@ -511,7 +511,7 @@
             ]
         },
         {
-            "name": "Venom",
+            "name": "Schattenviper",
             "type": "LV",
             "speed": 35,
             "armour": 4,
@@ -523,11 +523,11 @@
             ],
             "specialRules": [
                 "Antigrav",
-                "Transport may carry one unit of INF without Sprungmodule oder Beritten."
+                "Der Transporter kann eine INF-Einheit ohne Sprungmodule oder Beritten transportieren."
             ]
         },
         {
-            "name": "War Geländegängig",
+            "name": "Kampfläufer",
             "type": "LV",
             "speed": 20,
             "armour": 5,
@@ -558,7 +558,7 @@
             ]
         },
         {
-            "name": "Saim-Hann Hornet",
+            "name": "Saim-Hann-Hornet",
             "type": "LV",
             "speed": 40,
             "armour": 5,
@@ -574,7 +574,7 @@
             ]
         },
         {
-            "name": "Wraithseer",
+            "name": "Phantomseher",
             "type": "AV",
             "speed": 15,
             "armour": 4,
@@ -594,7 +594,7 @@
             "notes": "Der Wraithseer kann verwendet werden, um den Avatar zu beschwören."
         },
         {
-            "name": "Wraithlord",
+            "name": "Phantomlord",
             "type": "AV",
             "speed": 15,
             "armour": 4,
@@ -611,7 +611,7 @@
             ]
         },
         {
-            "name": "Wave Serpent",
+            "name": "Wellenschlange",
             "type": "AV",
             "speed": 35,
             "armour": 5,
@@ -645,7 +645,7 @@
             "notes": "Kann bis zu 1 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
         },
         {
-            "name": "Fire Prism",
+            "name": "Illum Zar",
             "type": "AV",
             "speed": 35,
             "armour": 5,
@@ -659,7 +659,7 @@
             ]
         },
         {
-            "name": "Warp Hunter",
+            "name": "Warpjäger",
             "type": "AV",
             "speed": 35,
             "armour": 5,
@@ -673,7 +673,7 @@
             ]
         },
         {
-            "name": "Night Spinner",
+            "name": "Nachtspinne",
             "type": "AV",
             "speed": 35,
             "armour": 5,
@@ -687,7 +687,7 @@
             ]
         },
         {
-            "name": "Firestorm",
+            "name": "Feuersturm",
             "type": "AV",
             "speed": 35,
             "armour": 5,
@@ -703,7 +703,7 @@
             "notes": "Kann bis zu 1 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
         },
         {
-            "name": "Lynx",
+            "name": "Luchs",
             "type": "WE",
             "speed": 30,
             "armour": 5,
@@ -719,10 +719,10 @@
                 "Holofield (5+)",
                 "Antigrav"
             ],
-            "crit": "The Lynx is destroyed. Any units within 5cm take a hit on 6+."
+            "crit": "Lynx wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
         },
         {
-            "name": "Scorpion",
+            "name": "Skorpion",
             "type": "WE",
             "speed": 25,
             "armour": 5,
@@ -739,10 +739,10 @@
                 "Holofield (4+)",
                 "Antigrav"
             ],
-            "crit": "The Scorpion is destroyed. Any units within 5cm take a hit on 6+."
+            "crit": "Scorpion wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
         },
         {
-            "name": "Cobra",
+            "name": "Kobra",
             "type": "WE",
             "speed": 25,
             "armour": 5,
@@ -759,10 +759,10 @@
                 "Holofield (4+)",
                 "Antigrav"
             ],
-            "crit": "The Cobra is destroyed. Any units within 5cm take a hit on 6+."
+            "crit": "Cobra wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
         },
         {
-            "name": "Deathstalker",
+            "name": "Todespirscher",
             "type": "WE",
             "speed": 25,
             "armour": 5,
@@ -779,10 +779,10 @@
                 "Holofield (4+)",
                 "Antigrav"
             ],
-            "crit": "The Deathstalker is destroyed. Any units within 5cm take a hit on 6+."
+            "crit": "Deathstalker wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
         },
         {
-            "name": "Storm Serpent",
+            "name": "Sturmserpent",
             "type": "WE",
             "speed": 25,
             "armour": 5,
@@ -799,10 +799,10 @@
                 "Webway Portal",
                 "Antigrav"
             ],
-            "crit": "The Storm Serpent is destroyed. Any units within 5cm take a hit on 6+."
+            "crit": "Storm Serpent wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
         },
         {
-            "name": "Void Spinner",
+            "name": "Leerenwirbler",
             "type": "WE",
             "speed": 25,
             "armour": 5,
@@ -816,10 +816,10 @@
                 "Verstärkte Panzerung",
                 "Antigrav"
             ],
-            "crit": "The Void Spinner is destroyed. Any units within 5cm take a hit on 6+."
+            "crit": "Void Spinner wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
         },
         {
-            "name": "Skathach Wraithknight",
+            "name": "Skathach-Phantomritter",
             "type": "H-AV",
             "speed": 30,
             "cc": 4,
@@ -835,10 +835,10 @@
                 "Geländegängig",
                 "Teleport"
             ],
-            "notes": "Skathach Wraithknights sind entweder mit einer Twin Deathshroud Cannon oder einer Twin Inferno Lanze bewaffnet."
+            "notes": "Skathach Wraithknights sind entweder mit einer Zwillings Deathshroud Cannon oder einer Zwillings Inferno Lanze bewaffnet."
         },
         {
-            "name": "Wraithknight",
+            "name": "Phantomritter",
             "type": "H-AV",
             "speed": 35,
             "armour": 4,
@@ -856,7 +856,7 @@
                 "Furchtlos",
                 "Geländegängig"
             ],
-            "notes": "Muss entweder mit Twin Heavy Wraithcannons, Ghostglaive und Scattershield oder einer Suncannon bewaffnet sein. Sonderregel [*]: Der Scattershield verleiht dem Modell die Sonderregel Verstärkte Panzerung."
+            "notes": "Muss entweder mit Schweres Zwillings Wraithcannons, Ghostglaive und Scattershield oder einer Suncannon bewaffnet sein. Sonderregel [*]: Der Scattershield verleiht dem Modell die Sonderregel Verstärkte Panzerung."
         },
         {
             "name": "Revenant Titan",
@@ -876,10 +876,10 @@
                 "Jump Pack",
                 "Geländegängig"
             ],
-            "crit": "The Revenant Titan’s Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
+            "crit": "Der Holofield-Projektor des Revenant Titan wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
         },
         {
-            "name": "Phantom Titan",
+            "name": "Phantomtitan",
             "type": "WE",
             "speed": 25,
             "armour": 5,
@@ -898,17 +898,17 @@
                 "Verstärkte Panzerung",
                 "Geländegängig"
             ],
-            "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
+            "crit": "Der Holofield-Projektor des Phantom Titan wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
         },
         {
-            "name": " Phantom Titan",
+            "name": "Mymeara-Phantomtitan",
             "type": "WE",
             "speed": 25,
             "armour": 5,
             "cc": 3,
             "ff": 3,
             "weapons": [
-                "ARMS (choose two. Max one 0-1)",
+                "ARME (wähle zwei. Höchstens eine 0–1)",
                 "Titanenpulsar",
                 "Schreckenspulsar",
                 "Sternpulsar",
@@ -916,7 +916,7 @@
                 "Titan D-Kanone",
                 "Eldar Titan Energiefaust|0-1|",
                 "Ashuna-Valcry'le|0-1|",
-                "CARAPACE",
+                "RÜCKENPANZER",
                 "Zwillings-Eldar Raketenwerfer|2|"
             ],
             "specialRules": [
@@ -927,10 +927,10 @@
                 "Verstärkte Panzerung",
                 "Geländegängig"
             ],
-            "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
+            "crit": "Der Holofield-Projektor des Phantom Titan wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
         },
         {
-            "name": "Warlock Titan",
+            "name": "Runenleser-Titan",
             "type": "WE",
             "speed": 25,
             "armour": 5,
@@ -951,7 +951,7 @@
                 "Verstärkte Panzerung",
                 "Geländegängig"
             ],
-            "crit": "The Warlock Titan’s Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
+            "crit": "Der Holofield-Projektor des Warlock Titan wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
         }
     ]
   }

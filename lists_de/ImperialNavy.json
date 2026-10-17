@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Imperiale Flotte",
     "specialRules": [
@@ -49,13 +49,13 @@
         "weapons": [
           "AC-Avenger-Bolterkanone||FxF",
           "Blackstar-Hurrikanbolter||FxF",
-          "AC-Schwerer-Stubber-Turm"
+          "AC-Schwerer-Maschinengewehr-Turm"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Marauder Bomber",
+        "name": "Marauder-Bomber",
         "type": "AC",
         "speed": "Bomber",
         "armour": 4,
@@ -99,7 +99,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "3BP, MW"
@@ -114,7 +114,7 @@
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "8BP, MW"
@@ -123,7 +123,7 @@
           }
         ],
         "specialRules": [
-          "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
+          "Verzögerte Ankunft (darf erst ab Runde 2 auf dem Schlachtfeld eintreffen)"
         ]
       }
     ]

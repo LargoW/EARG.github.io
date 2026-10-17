@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Eldar",
   "army": "Fir Lirithion",
   "version": "0.6.0",
@@ -21,19 +21,19 @@
     {
       "from": "EL.json",
       "units": [
-          "Avatar",
-        "Bonesinger",
-        "Spiritseer",
-        "Wraithblades",
-        "Wraithguards",
-        "Wraithlord",
-        "Wraithknight",
-        "Scorpion",
-        "Cobra",
-        "Storm Serpent",
+          "Avatar des Khaine",
+        "Knochensänger",
+        "Geisterseher",
+        "Phantomklingen",
+        "Phantomdroiden",
+        "Phantomlord",
+        "Phantomritter",
+        "Skorpion",
+        "Kobra",
+        "Sturmserpent",
         "Revenant Titan",
-        "Warlock Titan",
-        " Phantom Titan"
+        "Runenleser-Titan",
+        "Mymeara-Phantomtitan"
       ],
       "unitRules": [
           "Holofields (x)",
@@ -46,11 +46,11 @@
     {
       "from": "eldarNavy.json",
       "units": [
-        "Nightwing Interceptor",
+        "Nachtschwinge-Abfangjäger",
         "Vampire Hunter",
         "Vampire Raider",
-        "Wraithship",
-        "Dragonship"
+        "Phantomschiff",
+        "Drachenschiff"
       ],
       "unitRules": [
       ]
@@ -66,7 +66,7 @@
           "points": 0
         },
         {
-          "name": "0-1 Wraithgate",
+          "name": "0–1 Wraithgate",
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
           "points": 50
         }
@@ -76,14 +76,14 @@
       "name": "Fir-Lirithion-Kampftitanen",
       "formations": [
         {
-          "name": "0-1 Warlock Titan",
+          "name": "0–1 Warlock Titan",
           "units": "Ein Warlock Titan",
           "extraUnits": [
           ],
           "points": 850
         },
         {
-          "name": "Phantom Titan",
+          "name": "Phantomtitan",
           "units": "Ein Phantom Titan",
           "extraUnits": [
             "Bonesinger"
@@ -100,7 +100,7 @@
           "name": "Revenant Titan",
           "units": "Zwei Revenant Titans",
           "extraUnits": [
-            "Give the formation the 'Independent Twins' special rule: 50 points"
+            "Gib dem Verband die Sonderregel 'Independent Twins': 50 Punkte"
           ],
           "points": 650
         }
@@ -128,12 +128,12 @@
         },
         {
           "name": "Spirit Guard Wraithhost",
-          "units": "Ein Spiritseer character, vier Wraithguards",
+          "units": "Ein Spiritseer Charakter, vier Wraithguards",
           "extraUnits": [
             "Wraithlords",
             "Wraithguards",
             "Wraithblades",
-            "Füge vier Wave Serpents hinzu: 150 Punkte (may only be taken if die gesamte Formation can fit inside)"
+            "Füge vier Wave Serpents hinzu: 150 Punkte (darf nur gewählt werden, wenn der gesamte Verband hineinpasst)"
           ],
           "points": 225
         }
@@ -166,7 +166,7 @@
           "points": 200
         },
         {
-          "name": "0-1 Spacecraft",
+          "name": "0–1 Raumschiff",
           "units": "Ein Wraithship",
           "extraUnits": [
             "Ersetze durch ein Dragonship: 125 Punkte"
@@ -178,27 +178,27 @@
   ],
   "upgrades": {
     "title": "Fir Lirithion Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "0-1 Bonesinger",
+        "name": "0–1 Bonesinger",
         "description": "Füge 1 Bonesinger zur Formation hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
-        "name": "Wraithguard",
+        "name": "Phantomdroiden",
         "description": "Füge zwei Eldar Wraithguards hinzu",
-        "points": "75 points"
+        "points": "75 Punkte"
       },
       {
         "name": "Wraithblades",
         "description": "Füge zwei Eldar Wraithblades hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
-        "name": "Wraithlord",
+        "name": "Phantomlord",
         "description": "Füge bis zu drei Eldar Wraithlords hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       }
     ]
   }

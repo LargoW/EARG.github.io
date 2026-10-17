@@ -17,33 +17,33 @@
     {
       "from": "EL.json",
       "units": [
-        "Bonesinger",
-        "Avatar",
-        "Eldar Exarch",
-        "Eldar Farseer",
-        "Eldar Guardians",
-        "Eldar Heavy Weapons Platform",
-        "Dire Avengers",
-        "Fire Dragons",
-        "Dark Reapers",
-        "Howling Banshees",
-        "Striking Scorpions",
-        "Swooping Hawks",
-        "Vyper",
+        "Knochensänger",
+        "Avatar des Khaine",
+        "Eldar-Exarch",
+        "Eldar-Runenprophet",
+        "Eldar-Gardisten",
+        "Eldar-Schwerwaffenplattform",
+        "Asuryans Jäger",
+        "Feuerdrachen",
+        "Schwarze Kaindar",
+        "Banshees",
+        "Skorpionkrieger",
+        "Kriegsfalken",
+        "Viper",
         "Hornet",
-        "Wave Serpent",
+        "Wellenschlange",
         "Falcon",
-        "Fire Prism",
-        "Night Spinner",
-        "Firestorm",
-        "Warp Hunter",
-        "Lynx",
-        "Scorpion",
-        "Cobra",
-        "Storm Serpent",
+        "Illum Zar",
+        "Nachtspinne",
+        "Feuersturm",
+        "Warpjäger",
+        "Luchs",
+        "Skorpion",
+        "Kobra",
+        "Sturmserpent",
         "Revenant Titan",
-        "Phantom Titan",
-        "Warlock Titan"
+        "Phantomtitan",
+        "Runenleser-Titan"
       ],
       "unitRules": [
           "Holofields (x)",
@@ -55,10 +55,10 @@
     {
       "from": "eldarNavy.json",
       "units": [
-        "Nightwing Interceptor",
-        "Phoenix Bomber",
-        "Wraithship",
-        "Dragonship"
+        "Nachtschwinge-Abfangjäger",
+        "Phönix-Bomber",
+        "Phantomschiff",
+        "Drachenschiff"
       ],
       "unitRules": [
       ]
@@ -74,7 +74,7 @@
           "points": 0
         },
         {
-          "name": "0-1 Gate of Vaul",
+          "name": "0–1 Gate of Vaul",
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Gate of Vaul. Dieses zählt als Zielmarker und großes Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
           "points": 100
         }
@@ -96,7 +96,7 @@
           "name": "Swords of Vaul",
           "units": "Sechs Falcons",
           "extraUnits": [
-            "Ersetze bis zu two Falcons durch Firestorms: kostenlos",
+            "Ersetze bis zu zwei Falcons durch Firestorms: kostenlos",
             "Füge sechs Guardians zur Formation hinzu: 100 Punkte"
           ],
           "points": 275
@@ -203,14 +203,14 @@
           "points": 700
         },
         {
-          "name": "0-1 Warlock Titan",
+          "name": "0–1 Warlock Titan",
           "units": "Ein Warlock Titan",
           "extraUnits": [
           ],
           "points": 850
         },
         {
-          "name": "0-1 Spacecraft",
+          "name": "0–1 Raumschiff",
           "units": "Ein Wraithship",
           "extraUnits": [
             "Ersetze durch ein Dragonship: 125 Punkte"
@@ -222,22 +222,22 @@
   ],
   "upgrades": {
     "title": "Yme-Loc Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
         "name": "Exarch",
-        "description": "Füge 1 Eldar Exarch to a unit of Aspect Warriors hinzu",
-        "points": "25 points"
+        "description": "Füge 1 Eldar Exarch zu einer Aspect-Warriors-Einheit hinzu",
+        "points": "25 Punkte"
       },
       {
         "name": "Heavy Weapons",
         "description": "Ersetze bis zu drei Eldar Guardians durch Eldar Heavy Weapon Platforms",
-        "points": "Free"
+        "points": "kostenlos"
       },
       {
-        "name": "0-1 Bonesinger",
-        "description": "Füge 1 Bonesinger to a War Engine unit in die Formation hinzu.",
-        "points": "50 points"
+        "name": "0–1 Bonesinger",
+        "description": "Füge 1 Bonesinger zu einer Kriegsmaschinen-Einheit im Verband hinzu.",
+        "points": "50 Punkte"
       }
     ]
   }

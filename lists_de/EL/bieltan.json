@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Eldar",
   "army": "Craftworld Biel-Tan",
   "version": "1.0.Beta",
@@ -18,40 +18,40 @@
     {
       "from": "EL.json",
       "units": [
-        "Eldar Autarch",
-        "Avatar",
-        "Court of the Young King",
-        "Eldar Exarch",
-        "Eldar Farseer",
-        "Eldar Guardians",
-        "Eldar Heavy Weapons Platform",
-        "Support Weapons Platform",
-        "Eldar Rangers",
-        "Eldar Jetbikes",
-        "Dire Avengers",
-        "Fire Dragons",
-        "Dark Reapers",
-        "Howling Banshees",
-        "Striking Scorpions",
-        "Shining Spears",
-        "Swooping Hawks",
-        "Warp Spiders",
-        "Wraithguards",
-        "Vyper",
-        "War Geländegängig",
-        "Wraithlord",
-        "Wave Serpent",
+        "Eldar-Autarch",
+        "Avatar des Khaine",
+        "Hof des Jungen Königs",
+        "Eldar-Exarch",
+        "Eldar-Runenprophet",
+        "Eldar-Gardisten",
+        "Eldar-Schwerwaffenplattform",
+        "Unterstützungswaffenplattform",
+        "Ranger",
+        "Eldar-Jetbikes",
+        "Asuryans Jäger",
+        "Feuerdrachen",
+        "Schwarze Kaindar",
+        "Banshees",
+        "Skorpionkrieger",
+        "Sternenlanzen",
+        "Kriegsfalken",
+        "Warpspinnen",
+        "Phantomdroiden",
+        "Viper",
+        "Kampfläufer",
+        "Phantomlord",
+        "Wellenschlange",
         "Falcon",
-        "Fire Prism",
-        "Night Spinner",
-        "Firestorm",
-        "Scorpion",
-        "Cobra",
-        "Storm Serpent",
-        "Void Spinner",
+        "Illum Zar",
+        "Nachtspinne",
+        "Feuersturm",
+        "Skorpion",
+        "Kobra",
+        "Sturmserpent",
+        "Leerenwirbler",
         "Revenant Titan",
-        "Phantom Titan",
-        "Warlock Titan"
+        "Phantomtitan",
+        "Runenleser-Titan"
       ],
       "unitRules": [
         "Holofields (x)",
@@ -63,11 +63,11 @@
     {
       "from": "eldarNavy.json",
       "units": [
-        "Nightwing Interceptor",
-        "Phoenix Bomber",
+        "Nachtschwinge-Abfangjäger",
+        "Phönix-Bomber",
         "Vampire Raider",
-        "Wraithship",
-        "Dragonship"
+        "Phantomschiff",
+        "Drachenschiff"
       ],
       "unitRules": [
       ]
@@ -79,11 +79,11 @@
       "formations": [
         {
           "name": "1 Avatar",
-          "units": "Ein Avatar with a Court of the Young King character",
-          "points": "Free"
+          "units": "Ein Avatar mit einem Charakter 'Court of the Young King'",
+          "points": "kostenlos"
         },
         {
-          "name": "0-1 Wraithgate",
+          "name": "0–1 Wraithgate",
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
           "points": 50
         }
@@ -99,7 +99,7 @@
           "extraUnits": [
             "Autarch",
             "Exarchs",
-            "Ersetze any number of Wave Serpents durch two Falcons each: 50 Punkte pro Stück",
+            "Ersetze beliebig viele Wave Serpents durch jeweils zwei Falcons: 50 Punkte pro Stück",
             "Ersetze einen Wave Serpent durch zwei Firestorms: 50 Punkte"
           ],
           "points": 450
@@ -121,7 +121,7 @@
             "Ersetze bis zu drei Eldar Guardians durch Support Weapons Platforms (alle mit derselben Waffe ausgerüstet): 25 Punkte pro Stück",
             "Füge zwei Eldar Wraithguards hinzu: 75 Punkte",
             "Füge bis zu drei Eldar Wraithlords hinzu: 50 Punkte pro Stück",
-            "Füge vier Wave Serpents hinzu: 150 Punkte (may only be taken if die gesamte Formation can fit inside)"
+            "Füge vier Wave Serpents hinzu: 150 Punkte (darf nur gewählt werden, wenn der gesamte Verband hineinpasst)"
           ],
           "points": 150
         }
@@ -132,17 +132,17 @@
       "description": "Für jede Biel-Tan Warhost dürfen bis zu drei Biel-Tan-Troupes gewählt werden.",
       "formations": [
           {
-            "name": "Rangers",
+            "name": "Ranger",
             "units": "Vier Eldar Rangers",
             "extraUnits": [
             ],
             "points": 100
           },
           {
-            "name": "War Geländegängig Troupe",
-            "units": "Vier War Geländegängigs",
+            "name": "War Walker Troupe",
+            "units": "Vier War Walkers",
             "extraUnits": [
-                "Füge bis zu zwei War Geländegängigs hinzu: 25 Punkte pro Stück"
+                "Füge bis zu zwei War Walkers hinzu: 25 Punkte pro Stück"
             ],
             "points": 150
           },
@@ -150,7 +150,7 @@
           "name": "Wind Rider Troupe ",
           "units": "Sechs Jetbike Einheiten",
           "extraUnits": [
-            "Ersetze any number of Eldar Jetbikes durch Eldar Vypers: kostenlos"
+            "Ersetze beliebig viele Eldar Jetbikes durch Eldar Vypers: kostenlos"
           ],
           "points": 200
         },
@@ -158,7 +158,7 @@
           "name": "Swords of Vaul",
           "units": "Fünf Falcons",
           "extraUnits": [
-            "Ersetze bis zu two Falcons durch Firestorms: kostenlos"
+            "Ersetze bis zu zwei Falcons durch Firestorms: kostenlos"
           ],
           "points": 250
         },
@@ -234,14 +234,14 @@
           "points": 700
         },
         {
-          "name": "0-1 Warlock Titan",
+          "name": "0–1 Warlock Titan",
           "units": "Ein Warlock Titan",
           "extraUnits": [
           ],
           "points": 850
         },
         {
-          "name": "0-1 Spacecraft",
+          "name": "0–1 Raumschiff",
           "units": "Ein Wraithship",
           "extraUnits": [
             "Ersetze durch ein Dragonship: 150 Punkte"
@@ -253,17 +253,17 @@
   ],
   "upgrades": {
     "title": "Biel-Tan Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "0-1 Autarch",
-        "description": "Füge 1 Eldar Autarch character to a unit with an Eldar Exarch character hinzu",
-        "points": "50 points"
+        "name": "0–1 Autarch",
+        "description": "Füge 1 Eldar-Autarch-Charakter zu einer Einheit mit einem Eldar-Exarch-Charakter hinzu",
+        "points": "50 Punkte"
       },
       {
         "name": "Exarchs",
         "description": "Füge bis zu zwei Eldar Exarchs hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       }
     ]
   },

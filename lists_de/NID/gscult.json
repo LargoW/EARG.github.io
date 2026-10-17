@@ -18,28 +18,28 @@
     {
       "from": "GS2.json",
       "units": [
-        "Brood Lord",
-        "Genestealer Magus",
-        "Genestealer Patriarch",
-        "Genestealer Primus",
-        "Hybrid Iconward",
-        "Acolyte Hybrids",
-        "Genestealers",
-        "Aberrants",
-        "Metamorph Hybrids",
-        "Neophytes",
-        "Neophyte Outriders",
-        "Neophyte Fire Support",
-        "Cult Heavy Mortar",
+        "Symbiarch",
+        "Symbiontenmagus",
+        "Symbiontenpatriarch",
+        "Symbiontenprimus",
+        "Hybrid-Ikonwart",
+        "Akolythenhybriden",
+        "Symbionten",
+        "Aberranten",
+        "Metamorph-Hybriden",
+        "Neophyten",
+        "Neophyten-Ausreiter",
+        "Neophyten-Feuerunterstützung",
+        "Kult-Schwerer-Mörser",
         "Ridgerunner",
-        "Land Transporter",
-        "Outrider Quadbike",
+        "Landtransporter",
+        "Ausreiter-Quadbike",
         "Technical",
-        "Coven Limousine",
+        "Konklaven-Limousine",
         "Goliath Truck",
         "Goliath Rockgrinder",
-        "Haul Truck Cannon",
-        "Assault Excavator"
+        "Transportlasterkanone",
+        "Sturm-Bagger"
       ],
       "unitRules": [
         "Erweiterte Befehlsreichweite",
@@ -50,10 +50,10 @@
       "from": "IG.json",
       "units": [
         "Basilisk",
-        "Chimera",
-        "Hellhound",
+        "Chimäre",
+        "Höllenhund",
         "Hydra",
-        "Leman Russ",
+        "Leman Russ Kampfpanzer",
         "Sentinel"
       ],
       "unitRules": []
@@ -76,18 +76,18 @@
           "units": "Ein Genestealer Patriarch und acht Metamorph Hybrids",
           "extraUnits": [
             "Cult Transports",
-            "Genestealers",
+            "Symbionten",
             "Technicals"
           ],
           "points": 275
         },
         {
           "name": "Acolyte Coven",
-          "units": "Ein Metamorph Hybrids with Hybrid Iconward, und sieben Acolyte Hybrids",
+          "units": "Ein Metamorph Hybrids mit Hybrid Iconward, und sieben Acolyte Hybrids",
           "extraUnits": [
             "Mineshaft Infiltratorens",
-            "Aberrants",
-            "Acolytes",
+            "Aberranten",
+            "Akolythenhybriden",
             "Coven Anführer",
             "Cult Transports",
             "Heavy Mining Machinery",
@@ -103,7 +103,7 @@
       "formations": [
         {
           "name": "Atalan Jackals",
-          "units": "Ein Hybrid Iconward, ten Neophyte Outriders",
+          "units": "Ein Hybrid Iconward, zehn Neophyte Outriders",
           "extraUnits": [
             "Coven Anführer",
             "Quadbikes",
@@ -115,13 +115,13 @@
           "name": "Genestealer Swarm",
           "units": "Ein Brood Lord, sechs Genestealers",
           "extraUnits": [
-            "Genestealers"
+            "Symbionten"
           ],
           "points": 175
         },
         {
           "name": "Shock Assault Coven",
-          "units": "Ein Hybrid Iconward, 4 Aberrants, und either 4 Goliath Trucks oder 4 Goliath Rock Grinders",
+          "units": "Ein Hybrid Iconward, 4 Aberrants, und entweder 4 Goliath Trucks oder 4 Goliath Rock Grinders",
           "extraUnits": [
             "Coven Anführer",
             "Technicals"
@@ -151,7 +151,7 @@
         },
         {
           "name": "Neophyte Company",
-          "units": "Ein Hybrid Iconward, thirteen Neophytes",
+          "units": "Ein Hybrid Iconward, dreizehn Neophytes",
           "extraUnits": [
             "Coven Anführer",
             "Support Weapons"
@@ -196,56 +196,56 @@
   ],
   "upgrades": {
     "title": "Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
         "name": "Mineshaft Infiltratorens",
-        "description": "All units in the formation gains the 'Tunneling' special rule, but may only have the 'Acolytes', 'Aberrants' and 'Coven Anführer' upgrades",
-        "points": "Free"
+        "description": "Alle Einheiten im Verband erhalten die Sonderregel 'Tunneling', dürfen aber nur die Aufwertungen 'Acolytes', 'Aberrants' und 'Coven Anführer' haben",
+        "points": "kostenlos"
       },
       {
-        "name": "Aberrants",
+        "name": "Aberranten",
         "description": "Ersetze bis zu two Acolyte Hybrids durch Aberrants",
-        "points": "15 points each"
+        "points": "15 Punkte pro Stück"
       },
       {
-        "name": "Acolytes",
+        "name": "Akolythenhybriden",
         "description": "Füge bis zu vier Acolyte Hybrids hinzu",
-        "points": "15 points each"
+        "points": "15 Punkte pro Stück"
       },
       {
         "name": "Acolyte Transports",
-        "description": "Füge Land Transporters, Coven Limousines, Goliath Trucks oder Goliath Rockgrinders zur Formation, bis zu the number required to transport all infantry units in die Formation hinzu",
+        "description": "Füge dem Verband Land Transporters, Coven Limousines, Goliath Trucks oder Goliath Rockgrinders hinzu, bis zur erforderlichen Anzahl, um alle Infanterieeinheiten im Verband zu transportieren",
         "options": [
           {
             "description": "Land Transporter (Acolyte Coven only)",
-            "points": "10 points each"
+            "points": "10 Punkte pro Stück"
           },
           {
             "description": "Coven Limousine (Broodcoven only)",
-            "points": "15 points each"
+            "points": "15 Punkte pro Stück"
           },
           {
             "description": "Goliath Truck",
-            "points": "25 points each"
+            "points": "25 Punkte pro Stück"
           },
           {
             "description": "Goliath Rockgrinder",
-            "points": "25 points each"
+            "points": "25 Punkte pro Stück"
           }
         ]
       },
       {
         "name": "Coven Anführer",
-        "description": "Ersetze a Hybrid Iconward durch a Genestealer Primus oder Genestealer Magus.",
+        "description": "Ersetze a Hybrid Iconward durch einen Genestealer Primus oder Genestealer Magus.",
         "options": [
           {
-            "description": "Genestealer Primus",
-            "points": "25 points"
+            "description": "Symbiontenprimus",
+            "points": "25 Punkte"
           },
           {
-            "description": "Genestealer Magus",
-            "points": "25 points"
+            "description": "Symbiontenmagus",
+            "points": "25 Punkte"
           }
         ]
       },
@@ -254,52 +254,52 @@
         "options": [
           {
             "description": "Füge zwei Neophyte Fire Support units hinzu",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "Füge drei Cult Heavy Mortar Support units hinzu",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Flak",
         "description": "Füge 1 Hydra hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
-        "name": "Genestealers",
+        "name": "Symbionten",
         "description": "Füge bis zu drei Genestealers hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Hellhounds",
         "description": "Füge bis zu zwei Hellhounds hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Heavy Mining Machinery",
         "description": "Füge 1 aus folgender Auswahl War Engines zur Formation hinzu",
         "options": [
           {
-            "description": "Assault Excavator",
-            "points": "125 points"
+            "description": "Sturm-Bagger",
+            "points": "125 Punkte"
           },
           {
-            "description": "Haul Truck Cannon",
-            "points": "150 points"
+            "description": "Transportlasterkanone",
+            "points": "150 Punkte"
           }
         ]
       },
       {
         "name": "Quadbikes",
         "description": "Ersetze bis zu five Neophyte Outriders durch Outrider Quadbikes",
-        "points": "Free"
+        "points": "kostenlos"
       },
       {
         "name": "Technicals",
         "description": "Füge bis zu zwei Technicals hinzu",
-        "points": "20 points each"
+        "points": "20 Punkte pro Stück"
       }
     ]
   }

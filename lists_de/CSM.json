@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Warlord",
+        "name": "Kriegsherr",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -16,7 +16,7 @@
         ]
       },
       {
-        "name": "Noise Warlord",
+        "name": "Noise-Kriegsherr",
         "type": "CH",
         "weapons": [
             "Verdammnissirene"
@@ -28,7 +28,7 @@
         ]
       },
       {
-        "name": "Iron Warriors Warsmith",
+        "name": "Iron-Warriors-Kriegsschmied",
         "type": "CH",
         "weapons": [
           "Servoarm"
@@ -41,7 +41,7 @@
         ]
       },
       {
-        "name": "Night Lords First Captain",
+        "name": "Night-Lords-Erster Hauptmann",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "name": "Blood Lord",
+        "name": "Blutlord",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -65,7 +65,7 @@
         ]
       },
       {
-        "name": "Grand Apostle",
+        "name": "Großapostel",
         "type": "CH",
         "weapons": [
           "Dämonischer Bolter"
@@ -78,7 +78,7 @@
         ]
       },
       {
-        "name": "Exalted Sorcerer",
+        "name": "Erhabener Hexer",
         "type": "CH",
         "weapons": [
           "Blaues Feuer der Metamorphose",
@@ -90,7 +90,7 @@
         ]
       },
       {
-        "name": "Dark Apostle",
+        "name": "Dunkler Apostel",
         "type": "CH",
         "weapons": [
           "Dämonischer Bolter"
@@ -104,7 +104,7 @@
         ]
       },
       {
-        "name": "Chaos Lord",
+        "name": "Chaosfürst",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -116,7 +116,7 @@
         ]
       },
       {
-        "name": "Noise Lord",
+        "name": "Noise-Fürst",
         "type": "CH",
         "weapons": [
           "Verdammnissirene"
@@ -129,7 +129,7 @@
         ]
       },
       {
-        "name": "Iron Warriors Warpsmith",
+        "name": "Iron-Warriors-Warpenschmied",
         "type": "CH",
         "weapons": [
           "Servoarm"
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Lord",
+        "name": "Alpha-Legion-Fürst",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -154,7 +154,7 @@
         ]
       },
       {
-        "name": "Night Lords Captain",
+        "name": "Night-Lords-Hauptmann",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -167,7 +167,7 @@
         ]
       },
       {
-        "name": "Skull Lord",
+        "name": "Schädelherr",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -179,7 +179,7 @@
         ]
       },
       {
-        "name": "Aspiring Sorcerer",
+        "name": "Aufstrebender Hexer",
         "type": "CH",
         "weapons": [
           "Rotes Feuer der Veränderung",
@@ -191,7 +191,7 @@
         ]
       },
       {
-        "name": "Sorcerer Lord",
+        "name": "Hexerfürst",
         "type": "CH",
         "weapons": [
           "Warp-Bolter"
@@ -202,7 +202,7 @@
         ]
       },
             {
-        "name": "Word Bearers Coryphaus",
+        "name": "Word-Bearers-Koryphäus",
         "type": "CH",
         "weapons": [
             "n/a"
@@ -215,7 +215,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Sorcerer",
+        "name": "Alpha-Legion-Hexer",
         "type": "CH",
         "weapons": [
           "Warp-Bolter"
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "name": "Champion of Chaos",
+        "name": "Chaoschampion",
         "type": "CH",
         "weapons": [
           "Dämonisch Possession"
@@ -239,7 +239,7 @@
         "notes": "Darf geopfert werden. Vor dem Wurf für die Beschwörungspunkte des Verbands wird die Fähigkeit Augment Summoning (+2D3) dieser Einheit durch Augment Summoning (+6) ersetzt. Nach diesem Wurf wird die Einheit mit dem Champion zerstört; Schutzwürfe sind nicht zulässig. Eine auf diese Weise geopferte Einheit verursacht keinen Beschussmarker."
       },
       {
-        "name": "Night Lords Sergeant",
+        "name": "Night-Lords-Sergeant",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -250,7 +250,7 @@
         ]
       },
       {
-        "name": "Icon Bearer",
+        "name": "Ikonenträger",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -263,7 +263,7 @@
         ]
       },
             {
-        "name": "Word Bearers Acolyte",
+        "name": "Word-Bearers-Akolyth",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -275,7 +275,7 @@
         ]
       },
       {
-        "name": "Daemon Prince",
+        "name": "Dämonenprinz",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -296,7 +296,7 @@
         ]
       },
       {
-        "name": "Night Lords Daemon Prince",
+        "name": "Night-Lords-Dämonenprinz",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -318,7 +318,7 @@
         ]
       },
             {
-        "name": "Word Bearers Daemon Prince",
+        "name": "Word-Bearers-Dämonenprinz",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -340,7 +340,7 @@
         ]
       },
       {
-        "name": "Daemon Prince of Slaanesh",
+        "name": "Dämonenprinz des Slaanesh",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -361,7 +361,7 @@
         ]
       },
       {
-        "name": "Daemon Prince of Nurgle",
+        "name": "Dämonenprinz des Nurgle",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -382,7 +382,7 @@
         ]
       },
       {
-        "name": "Daemon Prince of Khorne",
+        "name": "Dämonenprinz des Khorne",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -403,7 +403,7 @@
         ]
       },
       {
-        "name": "Daemon Prince of Tzeentch",
+        "name": "Dämonenprinz des Tzeentch",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -425,7 +425,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Marines",
+        "name": "Alpha-Legion-Marines",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -450,7 +450,7 @@
         ]
       },
       {
-        "name": "Thousand Sons Marines",
+        "name": "Marines der Thousand Sons",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -461,7 +461,7 @@
         ]
       },
       {
-        "name": "Chaos Assault Marines",
+        "name": "Chaos-Sturmmarines",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -473,7 +473,7 @@
         ]
       },
       {
-        "name": "Iron Warriors Assault Marines",
+        "name": "Iron-Warriors-Sturmmarines",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -484,7 +484,7 @@
         ]
       },
       {
-        "name": "World Eaters Assault Marines",
+        "name": "World-Eaters-Sturmmarines",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -507,7 +507,7 @@
         ]
       },
       {
-        "name": "Iron Warriors Havocs",
+        "name": "Iron-Warriors-Havocs",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -518,7 +518,7 @@
         ]
       },
       {
-        "name": "Thousand Sons Havocs",
+        "name": "Thousand-Sons-Havocs",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -529,7 +529,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Havocs",
+        "name": "Alpha-Legion-Havocs",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -543,7 +543,7 @@
         ]
       },
       {
-        "name": "Chosen",
+        "name": "Auserkorene",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -557,7 +557,7 @@
         ]
       },
       {
-        "name": "Night Lords Chosen",
+        "name": "Night-Lords-Auserkorene",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -571,7 +571,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Headhunters",
+        "name": "Alpha-Legion-Kopfjäger",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -589,7 +589,7 @@
         ]
       },
       {
-        "name": "Raptors",
+        "name": "Raptoren",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -604,7 +604,7 @@
         ]
       },
       {
-        "name": "Night Raptors",
+        "name": "Night-Raptoren",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -619,7 +619,7 @@
         ]
       },
       {
-        "name": "Word Bearers Iconoclasts",
+        "name": "Word-Bearers-Ikonoklasten",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -634,7 +634,7 @@
         ]
       },
       {
-        "name": "Chaos Destroyers",
+        "name": "Chaos-Zerstörer",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -648,7 +648,7 @@
         ]
       },
       {
-        "name": "Bezashk Destroyers",
+        "name": "Bezashk-Zerstörer",
         "type": "INF",
         "speed": 25,
         "armour": 3,
@@ -662,7 +662,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Destroyers",
+        "name": "Alpha-Legion-Zerstörer",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -691,7 +691,7 @@
         ]
       },
       {
-        "name": "Noise Marine Havocs",
+        "name": "Noise-Marine-Havocs",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -705,7 +705,7 @@
         ]
       },
       {
-        "name": "Plague Marines",
+        "name": "Seuchenmarines",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -720,7 +720,7 @@
         ]
       },
       {
-        "name": "Khorne Berzerkers",
+        "name": "Khorne Berserker",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -735,7 +735,7 @@
         ]
       },
       {
-        "name": "Rubric Marines",
+        "name": "Rubrik-Marines",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -749,7 +749,7 @@
         ]
       },
       {
-        "name": "Warp Talons",
+        "name": "Warp-Klauen",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -767,7 +767,7 @@
         "notes": "Muss das Spiel in Reserve beginnen und darf das Spielfeld nur durch Teleportieren betreten. Kann nicht transportiert werden."
       },
       {
-        "name": "Daemonkin",
+        "name": "Dämonkin",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -783,7 +783,7 @@
         ]
       },
       {
-        "name": "Chaos Terminators",
+        "name": "Chaos-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -800,7 +800,7 @@
         ]
       },
       {
-        "name": "Atramentar Terminators",
+        "name": "Atramentar-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -817,7 +817,7 @@
         ]
       },
       {
-        "name": "Tyrant Siege Terminators",
+        "name": "Tyrant-Belagerungsterminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -834,7 +834,7 @@
         ]
       },
       {
-        "name": "Lernaean Terminators",
+        "name": "Lernaean-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -852,7 +852,7 @@
         ]
       },
       {
-        "name": "Sirenshriek Terminators",
+        "name": "Sirenenschrei-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -870,7 +870,7 @@
         ]
       },
       {
-        "name": "Blightlord Terminators",
+        "name": "Seuchenfürsten-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -888,7 +888,7 @@
         ]
       },
       {
-        "name": "Skullseeker Terminators",
+        "name": "Schädeljäger-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -906,7 +906,7 @@
         ]
       },
       {
-        "name": "Scarab Occult Terminators",
+        "name": "Scarab-Occult-Terminatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -924,7 +924,7 @@
         ]
       },
       {
-        "name": "Obliterators",
+        "name": "Kyborgs",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -941,7 +941,7 @@
         ]
       },
       {
-        "name": "Mutilators",
+        "name": "Mutilatoren",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -957,7 +957,7 @@
         ]
       },
       {
-        "name": "Sorcerer Disc Riders",
+        "name": "Hexer auf Disks",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -972,7 +972,7 @@
         ]
       },
       {
-        "name": "Chaos Assault Bikes",
+        "name": "Chaos-Sturmbikes",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -987,7 +987,7 @@
         ]
       },
       {
-        "name": "Chaos Attack Bike",
+        "name": "Chaos-Angriffs-Bike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -998,7 +998,7 @@
         ]
       },
       {
-        "name": "Khorne Berzerker Assault Bikes",
+        "name": "Khorne-Berserker-Sturmbikes",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -1014,7 +1014,7 @@
         ]
       },
       {
-        "name": "Juggernaut Riders",
+        "name": "Juggernaut-Reiter",
         "type": "INF",
         "speed": 25,
         "armour": 3,
@@ -1047,7 +1047,7 @@
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators und Obliterators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Chaos Siege Rhino",
+        "name": "Chaos-Belagerungsrhino",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -1063,7 +1063,7 @@
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators und Obliterators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Alpha Legion Rhino",
+        "name": "Alpha-Legion-Rhino",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1079,7 +1079,7 @@
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Death Guard Rhino",
+        "name": "Death-Guard-Rhino",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1094,7 +1094,7 @@
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Emperor's Children Rhino",
+        "name": "Emperor's-Children-Rhino",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1109,7 +1109,7 @@
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "World Eaters Rhino",
+        "name": "World-Eaters-Rhino",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1124,7 +1124,7 @@
         "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Thousand Sons Rhino",
+        "name": "Thousand-Sons-Rhino",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1158,7 +1158,7 @@
         "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Chaos Terminators und Obliterators zählen jeweils als 2 Einheiten."
       },
       {
-        "name": "Alpha Legion Land Raider",
+        "name": "Alpha-Legion-Land-Raider",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1177,7 +1177,7 @@
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Emperor's Children Land Raider",
+        "name": "Emperor's-Children-Land-Raider",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1195,7 +1195,7 @@
         "notes": "Kann 1 Sirenshriek-Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Death Guard Land Raider",
+        "name": "Death-Guard-Land-Raider",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -1214,7 +1214,7 @@
         "notes": "Kann 1 Blightlord-Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "World Eaters Land Raider",
+        "name": "World-Eaters-Land-Raider",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1232,7 +1232,7 @@
         "notes": "Kann 2 Terminators, Mutilators oder 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Thousand Sons Land Raider",
+        "name": "Thousand-Sons-Land-Raider",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1262,7 +1262,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Predator",
+        "name": "Alpha-Legion-Predator",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -1277,7 +1277,7 @@
         ]
       },
       {
-        "name": "Emperor's Children Predator",
+        "name": "Emperor's-Children-Predator",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -1289,7 +1289,7 @@
         ]
       },
       {
-        "name": "Thousand Sons Predator",
+        "name": "Thousand-Sons-Predator",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -1301,7 +1301,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Sicarian Battle Tank",
+        "name": "Alpha-Legion-Sicarian-Kampfpanzer",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1317,7 +1317,7 @@
         ]
       },
       {
-        "name": "Iron Warriors Basilisk",
+        "name": "Basilisk der Iron Warriors",
         "type": "AV",
         "speed": 20,
         "armour": 5,
@@ -1331,7 +1331,7 @@
         ]
       },
       {
-        "name": "Iron Warriors Griffon",
+        "name": "Greif der Iron Warriors",
         "type": "AV",
         "speed": 30,
         "armour": 6,
@@ -1345,7 +1345,7 @@
         ]
       },
       {
-        "name": "Bezashk Medusa",
+        "name": "Bezashk-Medusa",
         "type": "AV",
         "speed": 20,
         "armour": 5,
@@ -1373,7 +1373,7 @@
         ]
       },
       {
-        "name": "World Eaters Vindicator",
+        "name": "World-Eaters-Vindicator",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -1386,7 +1386,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Vindicator",
+        "name": "Alpha-Legion-Vindicator",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1401,7 +1401,7 @@
         ]
       },
       {
-        "name": "Death Guard Vindicator",
+        "name": "Death-Guard-Vindicator",
         "type": "AV",
         "speed": 20,
         "armour": 3,
@@ -1415,7 +1415,7 @@
         ]
       },
       {
-        "name": "Chaos Stalker",
+        "name": "Chaos-Jäger",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1426,7 +1426,7 @@
         ]
       },
       {
-        "name": "Death Guard Stalker",
+        "name": "Death-Guard-Jäger",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1439,7 +1439,7 @@
         ]
       },
       {
-        "name": "Chaos Dreadnought",
+        "name": "Chaos-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1455,7 +1455,7 @@
         ]
       },
       {
-        "name": "Night Lords Dreadnought",
+        "name": "Night-Lords-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1470,7 +1470,7 @@
         ]
       },
       {
-        "name": "Thousand Sons Dreadnought",
+        "name": "Thousand-Sons-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1486,7 +1486,7 @@
         ]
       },
       {
-        "name": "Berzerker Dreadnought",
+        "name": "Berserker-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1501,7 +1501,7 @@
         ]
       },
       {
-        "name": "Chaos Siege Dreadnought",
+        "name": "Chaos-Belagerungscybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1518,7 +1518,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Dreadnought",
+        "name": "Alpha-Legion-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1534,7 +1534,7 @@
         ]
       },
       {
-        "name": "Emperor's Children Dreadnought",
+        "name": "Emperor's-Children-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1550,7 +1550,7 @@
         ]
       },
       {
-        "name": "Death Guard Dreadnought",
+        "name": "Death-Guard-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 3,
@@ -1566,7 +1566,7 @@
         ]
       },
       {
-        "name": "Chaos Spartan Assault Tank",
+        "name": "Chaos-Spartan-Sturmpanzer",
         "type": "H-AV",
         "speed": 25,
         "armour": 4,
@@ -1584,7 +1584,7 @@
         "notes": "Kann 4 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminators zählen jeweils als 2 Einheiten."
       },
       {
-        "name": "Chaos Typhon Heavy Siege Tank",
+        "name": "Schwerer Chaos-Typhon-Belagerungspanzer",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -1601,7 +1601,7 @@
         ]
       },
       {
-        "name": "Iron Warriors Stormsword",
+        "name": "Iron-Warriors-Stormsword",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -1613,10 +1613,10 @@
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       }
     ]
   }

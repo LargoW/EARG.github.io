@@ -20,34 +20,34 @@
     {
       "from": "IG.json",
       "units": [
-        "Baran Siegemaster",
-        "Baran Befehlshaber",
-        "Commissar",
-        "Siege Infantry",
-        "Sappers",
-        "Death Riders",
-        "Scharfschützes",
+        "Baran-Belagerungsmeister",
+        "Baran-Befehlshaber",
+        "Kommissar",
+        "Belagerungsinfanterie",
+        "Pioniere",
+        "Todesreiter",
+        "Scharfschützen",
         "Ogryns",
-        "Thudd Gun",
+        "Thudd-Geschütz",
         "Rapier",
-        "Mole Launcher Squad",
-        "Heavy AA Gun",
-        "Medusa Gun",
-        "Bombard",
-        "Griffon",
-        "Hellhound",
-        "Bane Wolf",
-        "Devil Dog",
-        "Deathstrike",
-        "Howitzer",
-        "Ragnarok Heavy Tank",
-        "Siegfried Light Tank",
-        "Hades Breaching Drill",
+        "Maulwurfswerfer-Trupp",
+        "Schwere Flugabwehrkanone",
+        "Medusa-Kanone",
+        "Bombarde",
+        "Greif",
+        "Höllenhund",
+        "Seuchenwolf",
+        "Teufelshund",
+        "Todesstoß",
+        "Haubitze",
+        "Ragnarok-Schwerer Kampfpanzer",
+        "Siegfried-Leichtpanzer",
+        "Hades-Aufbrechbohrer",
         "Macharius",
-        "Macharius Command",
+        "Macharius-Kommandopanzer",
         "Malcador",
         "Malcador Defender",
-        "Defense Laser"
+        "Verteidigungslaser"
       ],
       "unitRules": [
         "Heavy Armoured Vehicle (H-AV)"
@@ -72,7 +72,7 @@
       "formations": [
         {
           "name": "1 Siegemaster Regimental HQ",
-          "units": "One Baran Siegemaster with a Commissar, nine Siege Infantry",
+          "units": "Ein Baran Siegemaster mit einem Commissar, neun Siege Infantry",
           "extraUnits": [
               "40 cm Stacheldraht und 4 cm Schützengräben pro INF-Einheit im Verband: 50 Punkte. Ersetze 24 cm Schützengräben durch 2 Bunkers: 25 Punkte.",
               "5 Siege Infantry, oder 2 Scharfschützes, oder 2 Sappers, oder 2 Ogryns: 50 Punkte",
@@ -83,7 +83,7 @@
         },
         {
           "name": "Siege Infantry Company",
-          "units": "One Baran Befehlshaber with a Commissar, nine Siege Infantry",
+          "units": "Ein Baran Befehlshaber mit einem Commissar, neun Siege Infantry",
           "extraUnits": [
               "40 cm Stacheldraht und 4 cm Schützengräben pro INF-Einheit im Verband: 50 Punkte. Ersetze 24 cm Schützengräben durch 2 Bunkers: 25 Punkte.",
               "5 Siege Infantry, oder 2 Scharfschützes, oder 2 Sappers, oder 2 Ogryns: 50 Punkte",
@@ -100,7 +100,7 @@
       "formations": [
           {
             "name": "Heavy Tank Company",
-            "units": "One Commissar, six Ragnarok Heavy Tanks",
+            "units": "Ein Commissar, sechs Ragnarok Heavy Tanks",
             "extraUnits": [
               "Füge 3 Ragnarok Heavy Tanks hinzu: 125 Punkte"
             ],
@@ -108,7 +108,7 @@
         },
         {
           "name": "Macharius Company",
-          "units": "One Macharius Command with a Commissar, two Macharius",
+          "units": "Ein Macharius Command mit einem Commissar, zwei Macharius",
           "extraUnits": [
               "Füge bis zu 3 Hellhounds, Bane Wolves, oder Devil Dogs hinzu: 25 Punkte pro Stück"
           ],
@@ -116,12 +116,12 @@
         },
         {
           "name": "Sapper Company",
-          "units": "One Commissar, eight Sappers, one Hades Breaching Drill",
+          "units": "Ein Commissar, acht Sappers, ein Hades Breaching Drill",
           "points": 225
         },
         {
           "name": "Siege Artillery Emplacement",
-          "units": "Four Medusa Guns and four Gun Emplacements",
+          "units": "Vier Medusa Guns und vier Gun Emplacements",
           "extraUnits": [
               "Ersetze 4 Medusa Guns und 4 Gun Emplacements durch 3 Bombards und 3 Gun Emplacements: 25 Punkte"
           ],
@@ -129,56 +129,56 @@
         },
         {
           "name": "Howitzer Emplacement",
-          "units": "Three Howitzers, three Gun Emplacements",
+          "units": "Drei Howitzers, drei Gun Emplacements",
           "extraUnits": [
-              "Füge 3 Howitzers und 3 Gun Emplacements (100 Punkte), oder add a Commissar, 6 Howitzers, und 6 Gun Emplacements (200 Punkte) hinzu",
+              "Füge 3 Howitzers und 3 Gun Emplacements (100 Punkte) oder einen Kommissar, 6 Howitzers und 6 Gun Emplacements (200 Punkte) hinzu",
               "Füge 1 Heavy AA Gun und 1 Gun Emplacement hinzu: 50 Punkte"
           ],
           "points": 175
         },
         {
           "name": "Flak Emplacement",
-          "units": "Three Heavy AA Guns, three Gun Emplacements",
+          "units": "Drei Heavy AA Guns, drei Gun Emplacements",
           "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Light Artillery Emplacement",
-          "units": "Four Rapiers, four Thudd Guns, oder four Mole Launchers, with 16cm Trenches",
+          "units": "Vier Rapiers, vier Thudd Guns, oder vier Mole Launchers, mit 16cm Trenches",
           "extraUnits": [
-              "Füge 4 Einheiten von the same type, 16cm Trenches, und a Commissar hinzu: 125 Punkte"
+              "Füge 4 Einheiten desselben Typs, 16 cm Schützengräben und einen Kommissar hinzu: 125 Punkte"
           ],
           "points": 150
         },
         {
           "name": "Griffon Battery",
-          "units": "Three Griffons",
+          "units": "Drei Griffons",
           "extraUnits": [
               "Füge bis zu 3 Hellhounds, Bane Wolves, oder Devil Dogs hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         },
         {
-          "name": "Death Riders",
-          "units": "Six Death Riders",
+          "name": "Todesreiter",
+          "units": "Sechs Death Riders",
           "extraUnits": [
-              "Füge 6 Death Riders und a Commissar hinzu: 100 Punkte",
+              "Füge 6 Death Riders und ein Commissar hinzu: 100 Punkte",
               "Füge bis zu 3 Hellhounds, Bane Wolves, oder Devil Dogs hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
         },
         {
           "name": "Siege Recon Squadron",
-          "units": "Four Siegfried Light Tanks",
+          "units": "Vier Siegfried Light Tanks",
           "extraUnits": [
               "Füge bis zu 3 Hellhounds, Bane Wolves, oder Devil Dogs hinzu: 25 Punkte pro Stück"
           ],
           "points": 125
       },
       {
-        "name": "Defense Laser",
-        "units": "One Defense Laser",
+        "name": "Verteidigungslaser",
+        "units": "Ein Defense Laser",
         "extraUnits": [
         ],
         "points": 200
@@ -191,20 +191,20 @@
       "formations": [
         {
           "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "units": "Zwei Thunderbolt Fighters",
           "points": 175
         },
         {
           "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "units": "Zwei Marauder Bombers",
           "points": 250
       },
       {
-        "name": "0–1 Orbital Support",
-        "units": "One Lunar Class Cruiser",
+        "name": "0–1 Orbitale Unterstützung",
+        "units": "Ein Lunar Class Cruiser",
         "points": 125,
         "extraUnits": [
-          "Ersetze durch an Emperor Class Battleship: 50 Punkte"
+          "Ersetze durch ein Emperor Class Battleship: 50 Punkte"
         ]
       }
       ]

@@ -12,43 +12,43 @@
     {
       "from": "IQ.json",
       "units": [
-        "Canoness",
+        "Prinzipalin",
         "Palatine",
-        "Ministorum Priest",
-        "Living Saint",
-        "Ordo Hereticus Inquisitor Lord",
-        "Ordo Hereticus Inquisitor",
-        "Arco-Flagellants",
-        "Battle Sisters",
-        "Dominion Sisters",
-        "Celestian Sisters",
-        "Retributor Sisters",
-        "Redemptionists",
-        "Seraphim Sisters",
-        "Repentia Sisters",
-        "Penitent Engine",
+        "Ministorumspriester",
+        "Lebende Heilige",
+        "Ordo-Hereticus-Großinquisitor",
+        "Ordo-Hereticus-Inquisitor",
+        "Arco-Flagellanten",
+        "Sororitas-Schwestern",
+        "Dominion-Schwestern",
+        "Celestia-Schwestern",
+        "Retributor-Schwestern",
+        "Redemptionisten",
+        "Seraphim-Schwestern",
+        "Repentia-Schwestern",
+        "Läuterer",
         "Mortifier",
-        "Ordo Hereticus Land Transporter",
-        "Exorcist Prioris",
-        "Exorcist Sanctorum",
-        "Sororitas Rhino",
-        "Exorcist Hunter",
-        "Sororitas Repressor",
-        "Sororitas Immolator",
-        "Sororitas Stormlord"
+        "Ordo-Hereticus-Landtransporter",
+        "Prioris-Exorzist",
+        "Sanctorum-Exorzist",
+        "Sororitas-Rhino",
+        "Exorzistenjäger",
+        "Sororitas-Repressor",
+        "Sororitas-Immolator",
+        "Sororitas-Stormlord"
       ],
       "unitRules": [
             "Faithful",
-        "Machine Spirit"
+        "Maschinengeist"
       ]
     },
     {
       "from": "IG.json",
       "units": [
-        "Storm Troopers",
-        "Chimera",
+        "Stoßtruppen",
+        "Chimäre",
         "Hydra",
-        "Hellhound",
+        "Höllenhund",
         "Vulture",
         "Valkyrie"
       ],
@@ -76,7 +76,7 @@
           "name": "Mission",
           "units": "Ein Palatine, acht Battle Sisters",
           "extraUnits": [
-            "Ersetze two units of Battle Sisters durch two Exorcist Prioris: 50 Punkte",
+            "Ersetze zwei Einheiten von Battle Sisters durch zwei Exorcist Prioris: 50 Punkte",
             "Ordo Hereticus Superior",
             "Hunter",
             "Transport"
@@ -84,11 +84,11 @@
           "points": 250
       },
       {
-        "name": "0-1 Ordo Hereticus Inquisitor Retinue",
+        "name": "0–1 Ordo Hereticus Inquisitor Retinue",
         "units": "Ein Ordo Hereticus Inquisitor, fünf Storm Troopers, drei Chimeras",
         "extraUnits": [
           "Füge 1 Hydra hinzu: 50 Punkte",
-          "Ersetze three Chimeras durch three Valkyries: 50 Punkte",
+          "Ersetze drei Chimeras durch drei Valkyries: 50 Punkte",
           "Hellhounds",
           "Ordo Hereticus Superior"
         ],
@@ -111,7 +111,7 @@
           "name": "Exorcism",
           "units": "Vier Exorcist Prioris",
           "extraUnits": [
-            "Ersetze four Exorcist Prioris durch four Exorcist Sanctorum: 25 Punkte",
+            "Ersetze vier Exorcist Prioris durch vier Exorcist Sanctorum: 25 Punkte",
             "Hunter"
           ],
           "points": 225
@@ -120,7 +120,7 @@
           "name": "Seraph",
           "units": "Ein Palatine, sechs Seraphim Sisters",
           "extraUnits": [
-            "Living Saint"
+            "Lebende Heilige"
           ],
           "points": 225
         },
@@ -128,7 +128,7 @@
           "name": "Retribution",
           "units": "Ein Palatine, vier Retributor Sisters, zwei Sororitas Rhinos",
           "extraUnits": [
-            "Ersetze two Sororitas Rhinos durch two Sororitas Repressors: 20 Punkte"
+            "Ersetze zwei Sororitas Rhinos durch zwei Sororitas Repressors: 20 Punkte"
           ],
           "points": 225
         },
@@ -143,7 +143,7 @@
             "name": "Dominus",
             "units": "Ein Palatine, vier Dominion Sisters, zwei Sororitas Rhinos",
             "extraUnits": [
-                "Ersetze two Sororitas Rhinos durch two Sororitas Repressors: 20 Punkte"
+                "Ersetze zwei Sororitas Rhinos durch zwei Sororitas Repressors: 20 Punkte"
             ],
             "points": 175
         },
@@ -170,7 +170,7 @@
           "name": "Redemption",
           "units": "Ein Ministorum Priest, acht Redemptionists, vier Ordo Hereticus Land Transporters",
           "extraUnits": [
-            "Ersetze four Ordo Hereticus Land Transporters und four Redemptionists durch six Arco-Flagellants, oder four Penitent Engines: 50 Punkte"
+            "Ersetze vier Ordo Hereticus Land Transporters und vier Redemptionists durch sechs Arco-Flagellants, oder vier Penitent Engines: 50 Punkte"
           ],
           "points": 175
         },
@@ -198,7 +198,7 @@
           "points": 175
         },
         {
-          "name": "0–1 Orbital Support",
+          "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Lunar Class Cruiser",
           "extraUnits": [
             "Ersetze den Lunar Class Cruiser durch ein Emperor Class Battleship: 50 Punkte"
@@ -210,56 +210,56 @@
   ],
   "upgrades": {
     "title": "Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "Ordo Hereticus Superior (0-1 per army)",
-        "description": "Choose one aus folgender Auswahl",
+        "name": "Ordo Hereticus Superior (0–1 pro Armee)",
+        "description": "Wähle eine Option aus folgender Auswahl",
         "options": [
           {
-            "description": "Ersetze a Palatine durch a Cannoness (Mission only)",
-            "points": "50 points"
+            "description": "Ersetze einen Palatine durch eine Cannoness (nur Mission)",
+            "points": "50 Punkte"
           },
           {
             "description": "Ersetze den Ordo Hereticus Inquisitor durch einen Ordo Hereticus Inquisitor Lord (nur in einer Ordo-Hereticus-Inquisitor-Retinue).",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
-        "name": "Living Saint (0-1 per army)",
-        "description": "Ersetze a Palatine und its unit durch a Living Saint",
-        "points": "50 points"
+        "name": "Living Saint (0–1 pro Armee)",
+        "description": "Ersetze einen Palatine und seine Einheit durch eine Living Saint",
+        "points": "50 Punkte"
       },
       {
         "name": "Hunter",
         "description": "Füge 1 Exorcist Hunter hinzu",
         "points": [
-          "50 points"
+          "50 Punkte"
         ]
       },
       {
         "name": "Hellhounds",
         "description": "Füge bis zu zwei Hellhounds hinzu",
         "points": [
-          "25 points each"
+          "25 Punkte pro Stück"
         ]
       },
       {
         "name": "Transport",
-        "description": "You must take exactly enough to carry all units in the formation after any upgrades have been added. No transport spaces may be left over if possible",
+        "description": "Du musst genau so viele wählen, dass alle Einheiten im Verband nach etwaigen Aufwertungen transportiert werden. Nach Möglichkeit dürfen keine Transportplätze übrig bleiben",
         "options": [
           {
-            "description": "Füge any number of Sororitas Immolators hinzu",
-            "points": "30 points each"
+            "description": "Füge beliebig viele Sororitas Immolators hinzu",
+            "points": "30 Punkte pro Stück"
           },
           {
-            "description": "Füge any number of Sororitas Repressors hinzu",
-            "points": "20 points each"
+            "description": "Füge beliebig viele Sororitas Repressors hinzu",
+            "points": "20 Punkte pro Stück"
           },
           {
-            "description": "Füge any number of Sororitas Rhinos hinzu",
-            "points": "10 points each"
+            "description": "Füge beliebig viele Sororitas Rhinos hinzu",
+            "points": "10 Punkte pro Stück"
           }
         ]
       }

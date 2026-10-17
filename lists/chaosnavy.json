@@ -22,7 +22,7 @@
         "armour": 5,
         "weapons": [
           "AC Havoc Launcher||FxF",
-          "AC Twin Lascannon||FxF",
+          "AC Zwillings Laserkanone||FxF",
           "AC Incendiary Bombs||FxF"
         ],
         "specialRules": [
@@ -74,7 +74,7 @@
         "weapons": [
           "AC Incendiary Bombs||FxF",
           "AC Flame Cannon||FxF",
-          "AC Twin Lascannon||FxF"
+          "AC Zwillings Laserkanone||FxF"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -87,11 +87,11 @@
         "armour": 4,
         "weapons": [
           "AC Heavy Incendiary Bombs||FxF",
-          "AC Twin Reaper Autocannon|2|FxF",
+          "AC Zwillings Reaper Autocannon|2|FxF",
           "AC Combi-Bolters|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Unmodifizierter Rettungswurf"
         ],
         "crit": "The Harbringer Bomber is destroyed."
@@ -103,11 +103,11 @@
         "armour": 4,
         "weapons": [
           "AC Blight Bombs||FxF",
-          "AC Twin Reaper Autocannon|2|FxF",
+          "AC Zwillings Reaper Autocannon|2|FxF",
           "AC Combi-Bolters|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Unmodifizierter Rettungswurf"
         ],
         "crit": "The Blightbringer Bomber is destroyed."
@@ -118,7 +118,7 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Quad Lascannon||FxF",
+          "AC Quad Laserkanone||FxF",
           "AC Xiphon Rotary Missile Launcher||FxF"
         ],
         "specialRules": [
@@ -132,12 +132,12 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Quad Lascannon||FxF",
-          "AC Twin Heavy Bolter||FxF",
+          "AC Quad Laserkanone||FxF",
+          "AC Schweres Zwillings Bolter||FxF",
           "Vengeance Launcher||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Starrköpfig",
           "Verstärkte Panzerung",
@@ -152,12 +152,12 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Twin Avenger Bolt Cannon||FxF",
+          "AC Zwillings Avenger Bolt Cannon||FxF",
           "AC Missile Array||FxF",
           "AC Quad Heavy Bolter Turrets||"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Verstärkte Panzerung"
         ],
         "crit": "The Fire Raptor is destroyed."
@@ -171,12 +171,12 @@
         "ff": 4,
         "weapons": [
           "Battle Cannon||FxF",
-          "AC Twin Heavy Bolter|2|FxF",
-          "AC Twin Heavy Bolter||Left",
-          "AC Twin Heavy Bolter||Right"
+          "AC Schweres Zwillings Bolter|2|FxF",
+          "AC Schweres Zwillings Bolter||Left",
+          "AC Schweres Zwillings Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -198,7 +198,7 @@
           "AC Reaper Autocannon||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"
@@ -215,12 +215,12 @@
         "ff": 4,
         "weapons": [
           "Battle Cannon||FxF",
-          "AC Twin Heavy Bolter|2|FxF",
-          "AC Twin Heavy Bolter||Left",
-          "AC Twin Heavy Bolter||Right"
+          "AC Schweres Zwillings Bolter|2|FxF",
+          "AC Schweres Zwillings Bolter||Left",
+          "AC Schweres Zwillings Bolter||Right"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Starrköpfig",
           "Planetfall",
           "Verstärkte Panzerung",
@@ -237,12 +237,12 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "AC Twin Lascannon|3|FxF",
-          "AC Twin Heavy Bolter|2|Left",
-          "AC Twin Heavy Bolter|2|Right"
+          "AC Zwillings Laserkanone|3|FxF",
+          "AC Schweres Zwillings Bolter|2|Left",
+          "AC Schweres Zwillings Bolter|2|Right"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Planetfall",

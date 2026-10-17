@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Ork",
   "army": "Clan Blood Axes, Red WAAAGH!",
   "version": "",
@@ -11,7 +11,7 @@
     "Blood Axes Warlord"
   ],
   "usage": [
-    "Unlike the very rigid formations used by the Imperium, Ork formations vary widely in both size and composition. The rules for creating Ork formations reflect this. The most common type of Ork formation is the warband. Other more specialised formations do exist, such as Kults of Speed and Blitz Brigades. The different types of Ork formations you may choose are shown on the army list that follows. The army list includes the following information:",
+    "Anders als die sehr starren Verbände des Imperiums variieren Ork-Verbände stark in Grösse und Zusammensetzung. Die Regeln für die Aufstellung von Ork-Verbänden spiegeln dies wider. Der häufigste Typ eines Ork-Verbands ist die Warband. Es gibt auch andere, spezialisiertere Verbände, wie Kults of Speed und Blitz Brigades. Die verschiedenen Typen von Ork-Verbänden, die du wählen kannst, sind in der folgenden Armeeliste aufgeführt. Die Armeeliste enthält die folgenden Informationen:",
     "<b>Einheiten</b> – Die Einheiten, aus denen der Verband besteht. Ork-Spieler können die Anzahl der Einheiten im Verband verdoppeln oder verdreifachen. Ein Verband mit der doppelten üblichen Einheitenzahl heißt Big-Verband, ein Verband mit der dreifachen Anzahl 'Uge -Verband.",
     "<b>Aufwertungen</b> – Ein Ork-Verband kann zusätzliche Einheiten aus der Spalte „Aufwertungen“ erhalten, sofern keine andere Begrenzung angegeben ist. Eine Begrenzung wird bei einem Big-Verband verdoppelt und bei einem 'Uge-Verband verdreifacht. Eine normale Kult of Speed kann beispielsweise 0–1 Oddboy enthalten, eine Big-Kult of Speed 0–2 und eine 'Uge-Kult of Speed 0–3. Alle Kern-, Zusatz- und kostenlosen Einheiten eines Ork-Verbands gelten als Teil desselben großen Verbands und dürfen sich nicht eigenständig bewegen.",
     "<b>Kosten</b> – Die meisten Ork-Verbände haben drei Punktwerte: Normal, Big und 'Uge. Hat ein Verband nur einen Punktwert, kann seine Größe nicht erhöht werden."
@@ -20,31 +20,31 @@
     {
       "from": "ORK.json",
       "units": [
-        "Warlord",
+        "Waaghboss",
         "Oddboy",
-        "Boyz",
-        "Grotz",
-        "Nobz",
+        "Boys",
+        "Grots",
+        "Bosse",
         "Kommandos",
-        "Stormboyz",
+        "Stormboys",
         "Deffkopta",
         "Warkopta",
-        "Battlewagon",
-        "Flakwagon",
-        "Looted Leman Russ/Land Raider",
-        "Looted Vindicator/Thunderer",
-        "Killa Kan",
-        "Deff Dread",
-        "Mega Dread",
-        "Battlefortress",
-        "Gunfortress",
-        "Flakkafortress",
-        "Skullhamma",
-        "Fighta-Bommer",
-        "Wazbom Blastajet",
-        "Drop Rok",
-        "Blood Axes Kill Kroozer",
-        "Blood Axes Battlekroozer"
+        "Transportpanza",
+        "Flakpanza",
+        "Erbeuteter Leman Russ/Land Raider",
+        "Erbeuteter Vindicator/Thunderer",
+        "Killa Bot",
+        "Deff-Dread",
+        "Meka-Dread",
+        "Mega Transportpanza",
+        "Mega Wummenpanza",
+        "Flakka-Mega-Transportpanza",
+        "Schädelhammer",
+        "Jagdbomma",
+        "Wazbom-Blastajet",
+        "Landungsrakete",
+        "Blutäxte-Kill-Kreuzer",
+        "Blutäxte-Schlachtkreuzer"
       ],
       "unitRules": [
         "Power Fields",
@@ -58,15 +58,15 @@
       "formations": [
         {
           "name": "Blood Axe Warband",
-          "units": "Two Nobz, six Boyz, two Grotz",
+          "units": "Zwei Nobz, sechs Boyz, zwei Grotz",
           "extraUnits": [
             "Füge beliebig viele Looted Chimeras/Rhinos, Killa Kans, Kommandos, Stormboyz hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Deffkoptas, Dreadnoughts, Looted Hydras, Looted Leman Russ/Land Raiders  hinzu: 35 Punkte pro Stück",
             "Füge beliebig viele Stompas hinzu: 50 Punkte pro Stück",
             "Füge beliebig viele Battlefortresses hinzu: 115 Punkte pro Stück",
             "Füge beliebig viele Gunfortresses hinzu: 115 Punkte pro Stück",
-            "0-2 Nobz: 35 points Each",
-            "0-1 Füge 1 Oddboy character zu einem Battlefortress, Gunfortress, Gunwagon oder Big Gun Einheit hinzu: 50 Punkte"
+            "0-2 Nobz: 35 Punkte pro Stück",
+            "0-1 Füge 1 Oddboy Charakter zu einem Battlefortress, Gunfortress, Gunwagon oder Big Gun Einheit hinzu: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -85,12 +85,12 @@
         },
         {
           "name": "Loota Brigade",
-          "units": "Any four of the following units: Looted Leman Russ",
+          "units": "Beliebige vier der folgenden Einheiten: Looted Leman Russ",
           "extraUnits": [
             "Füge beliebig viele Skorchas, Warbikes, Warbuggies hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Deffkoptas, Flakwagons, Gunwagons hinzu: 35 Punkte pro Stück",
-            "0-1: One Gunfortress: 115 points",
-            "0-1: Add 1 Oddboy character zu einem Gunfortress oder Gunwagon Einheit: 50 Punkte"
+            "0-1: Ein Gunfortress: 115 Punkte",
+            "0-1: Add 1 Oddboy Charakter zu einem Gunfortress oder Gunwagon Einheit: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -109,11 +109,11 @@
         },
         {
           "name": "Kult of Speed",
-          "units": "Any eight of the following units: Skorchas, Warbikes, Warbuggies",
+          "units": "Beliebige acht der folgenden Einheiten: Skorchas, Warbikes, Warbuggies",
           "extraUnits": [
             "Füge beliebig viele Skorchas, Warbikes, Warbuggies hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Deffkoptas, Flakwagons, Gunwagons hinzu: 35 Punkte pro Stück",
-            "0-1: Add 1 Oddboy character zu einem Gunwagon Einheit: 50 Punkte"
+            "0-1: Add 1 Oddboy Charakter zu einem Gunwagon Einheit: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -132,7 +132,7 @@
         },
         {
           "name": "Kommandos Warhorde",
-          "units": "Six Kommandos",
+          "units": "Sechs Kommandos",
           "extraUnits": [
             "Füge beliebig viele Skorchas, Warbikes, Warbuggies, Kommandos, Stormboyz hinzu: 25 Punkte pro Stück"
           ],
@@ -140,20 +140,20 @@
         },
         {
           "name": "Stormboyz Warhorde",
-          "units": "Six Stormboyz",
+          "units": "Sechs Stormboyz",
           "extraUnits": [
             "Füge beliebig viele Skorchas, Warbikes, Warbuggies, Kommandos, Stormboyz hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
         },
         {
-          "name": "Mekboy Gunzmob",
-          "units": "Five Big Gunz",
+          "name": "Mekwummen Mob",
+          "units": "Fünf Big Gunz",
           "extraUnits": [
             "Füge beliebig viele Battlewagons, Big Gunz hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Flakwagons hinzu: 35 Punkte pro Stück",
-            "0-1 Nobz: 35 points",
-            "0-1 Füge 1 Oddboy character zu einem Big Gun Einheit hinzu: 50 Punkte"
+            "0-1 Nobz: 35 Punkte",
+            "0-1 Füge 1 Oddboy Charakter zu einem Big Gun Einheit hinzu: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -172,7 +172,7 @@
         },
         {
           "name": "Mekboy Stompamob",
-          "units": "Three Stompas",
+          "units": "Drei Stompas",
           "extraUnits": [
             "Füge beliebig viele Killa Kans hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Dreadnoughts, Flakwagons hinzu: 35 Punkte pro Stück",
@@ -196,7 +196,7 @@
         },
         {
           "name": "Mekboy Dreadmob",
-          "units": "One Dreadnought, three Killa Kan",
+          "units": "Ein Dreadnought, drei Killa Kan",
           "extraUnits": [
             "Füge beliebig viele Killa Kans hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Dreadnoughts, Flakwagons hinzu: 35 Punkte pro Stück"
@@ -218,9 +218,9 @@
         },
         {
           "name": "0–1 Kill Kroozer",
-          "units": "One Kill Kroozer",
+          "units": "Ein Kill Kroozer",
           "extraUnits": [
-            "Ersetze den Kill Kroozer durch a Battlekroozer for +50 Punkte"
+            "Ersetze den Kill Kroozer durch ein Battlekroozer für +50 Punkte"
           ],
           "points": 100
         }
@@ -232,29 +232,29 @@
       "formations": [
         {
           "name": "Fighta-Bommer Skwadron",
-          "units": "Three Fighta-Bommers",
+          "units": "Drei Fighta-Bommers",
           "upgrades": [
             "Füge bis zu 6 Fighta-Bommers hinzu: 50 Punkte pro Stück"
           ],
           "points": 150
         },
         {
-          "name": "Landa",
-          "units": "One Landa",
+          "name": "Landungsschiff",
+          "units": "Ein Landa",
           "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Gargant",
-          "units": "One Gargant",
+          "units": "Ein Gargant",
           "upgrades": [
           ],
           "points": 550
         },
         {
-          "name": "Great Gargant",
-          "units": "One Great Gargant",
+          "name": "Großer Gargant",
+          "units": "Ein Great Gargant",
           "upgrades": [
           ],
           "points": 700

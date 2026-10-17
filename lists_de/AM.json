@@ -41,7 +41,7 @@
         ]
       },
       {
-        "name": "Hypaspists",
+        "name": "Hypaspisten",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -53,7 +53,7 @@
         "specialRules": []
       },
       {
-        "name": "Skitarii Vanguards",
+        "name": "Skitarii-Vorhut",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -65,7 +65,7 @@
         "specialRules": []
       },
       {
-        "name": "Skitarii Rangers",
+        "name": "Skitarii-Ranger",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -91,7 +91,7 @@
         "specialRules": []
       },
       {
-        "name": "Secutarii Axiarch",
+        "name": "Secutarii-Axiarch",
         "type": "CH",
         "weapons": [
             "n/a"
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "name": "Secutarii Hoplites",
+        "name": "Secutarii-Hopliten",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -115,7 +115,7 @@
         "specialRules": []
       },
       {
-        "name": "Secutarii Pelasts",
+        "name": "Secutarii-Pelasten",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -127,7 +127,7 @@
         "specialRules": []
       },
       {
-        "name": "Electro-Priests",
+        "name": "Elektro-Priester",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -141,7 +141,7 @@
         ]
       },
       {
-        "name": "Sicarian Infiltratorens",
+        "name": "Sicarian-Infiltratoren",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -157,7 +157,7 @@
         ]
       },
       {
-        "name": "Sicarian Ruststalkers",
+        "name": "Sicarianische Rostpirscher",
         "type": "INF",
         "speed": 20,
         "armour": 4,
@@ -170,7 +170,7 @@
         ]
       },
       {
-        "name": "Praetorian Combat Servitors",
+        "name": "Prätorianische Kampfservitoren",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -181,10 +181,10 @@
           "Energiewaffe"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
@@ -197,14 +197,14 @@
           "Mitralocks"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
-        "name": "Tech-Priest",
+        "name": "Tech-Priester",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -216,7 +216,7 @@
         "specialRules": []
       },
       {
-        "name": "Kastelan Robot",
+        "name": "Kastelan-Roboter",
         "type": "LV",
         "speed": 15,
         "armour": 5,
@@ -227,14 +227,14 @@
           "Energiefaust"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
-        "name": "Castellax Battle-Automata",
+        "name": "Castellax-Kampffautomaten",
         "type": "LV",
         "speed": 10,
         "armour": 4,
@@ -246,14 +246,14 @@
           "Energiefaust"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
-        "name": "Vultarax Robot",
+        "name": "Vultarax-Roboter",
         "type": "LV",
         "speed": 25,
         "armour": 5,
@@ -263,15 +263,15 @@
           "Raketenwerfer"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
           "Antigrav",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
-        "name": "Kataphron Breacher Battle Servitors",
+        "name": "Kataphron-Brecher-Kampfservitoren",
         "type": "LV",
         "speed": 10,
         "armour": 3,
@@ -282,15 +282,15 @@
           "Arc Klauen"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous",
+          "Schwerfällig",
           "Verstärkte Heckpanzerung"
         ]
       },
       {
-        "name": "Kataphron Destroyer Battle Servitors",
+        "name": "Kataphron-Zerstörer-Kampfservitoren",
         "type": "LV",
         "speed": 10,
         "armour": 3,
@@ -300,10 +300,10 @@
           "Plasma-Kulverinen"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
@@ -314,7 +314,7 @@
         "ff": "5+/4",
         "weapons": [
           {
-            "name": "0-1x Twin Lascannon",
+            "name": "0–1x Zwillings-Laserkanone",
             "modes": [
               {
                 "firepower": "AT4+",
@@ -323,7 +323,7 @@
             ]
           },
           {
-            "name": "0-1x Twin Heavy Bolter",
+            "name": "0–1x Zwillings-Schwerbolter",
             "modes": [
               {
                 "firepower": "AP4+",
@@ -333,14 +333,14 @@
           }
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich"
         ],
         "notes": "Entweder mit Zwillings-Laserkanone oder Zwillings-Schwerem Bolter bewaffnet. Tarantulas mit Zwillings-Schwerem Bolter erhalten einen Feuergefechtswert von 4+."
       },
       {
-        "name": "Hyperios Sentry",
+        "name": "Hyperios-Wachgeschütz",
         "type": "LV",
         "speed": "Immobile",
         "armour": 6,
@@ -349,7 +349,7 @@
           "Hyperios Werfer"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich"
         ]
@@ -366,7 +366,7 @@
         "specialRules": []
       },
       {
-        "name": "Mole Mortar",
+        "name": "Mole-Mörser",
         "type": "INF",
         "speed": 10,
         "cc": 6,
@@ -378,7 +378,7 @@
         ]
       },
       {
-        "name": "Ironstrider Ballistarius",
+        "name": "Ironstrider-Ballistarius",
         "type": "LV",
         "speed": 25,
         "armour": 4,
@@ -392,7 +392,7 @@
         ]
       },
       {
-        "name": "Sydonian Dragoon",
+        "name": "Sydonianischer Dragoner",
         "type": "LV",
         "speed": 25,
         "armour": 4,
@@ -407,7 +407,7 @@
         ]
       },
       {
-        "name": "Onager Dunecrawler",
+        "name": "Onager-Dünenkrabbler",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -422,10 +422,10 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Muss zwischen Eradication Beamer, Twin Heavy Phosphor Blaster, Icarus Array und Neutron Laser wählen. Onager Dunecrawlers mit Eradication Beamer erhalten einen Feuergefechtswert von 4+."
+        "notes": "Muss zwischen Eradication Beamer, Schweres Zwillings Phosphor Blaster, Icarus Array und Neutron Laser wählen. Onager Dunecrawlers mit Eradication Beamer erhalten einen Feuergefechtswert von 4+."
       },
       {
-        "name": "Chimera",
+        "name": "Chimäre",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -441,14 +441,14 @@
         "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Skorpius Dunerider",
+        "name": "Skorpius-Dünenreiter",
         "type": "LV",
         "speed": 35,
         "armour": 4,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer Stubber|2|"
+          "Zwillings-Schwerer Maschinengewehr|2|"
         ],
         "specialRules": [
           "Transport"
@@ -456,7 +456,7 @@
         "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Skorpius Disintegrator",
+        "name": "Skorpius-Desintegrator",
         "type": "LV",
         "speed": 30,
         "armour": 3,
@@ -465,7 +465,7 @@
         "weapons": [
           "Ferrumite Kanone",
           "Raketenwerfer",
-          "Zwillings-Schwerer Stubber"
+          "Zwillings-Schwerer Maschinengewehr"
         ],
         "specialRules": [
         ]
@@ -534,7 +534,7 @@
         ]
       },
       {
-        "name": "Leman Russ Demolisher",
+        "name": "Leman-Russ-Belagerungspanzer",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -550,7 +550,7 @@
         ]
       },
       {
-        "name": "Leman Russ Executioner",
+        "name": "Leman-Russ-Henker",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -573,27 +573,27 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer Stubber|2|",
-          ">Battle Weapons<",
+          "Zwillings-Schwerer Maschinengewehr|2|",
+          ">Kampfwaffen<",
           "Turbolaserzerstörer|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Schwerer Icarus Batterie|0-1|",
           "Titan Plasmakanone|0-1|FxF",
           "Titan-Meltakanone|0-1|",
           "Gatling-Blaster|0-1|FxF",
-          ">Support Weapons<",
+          ">Unterstützungswaffen<",
           "Plasma-Zerstörer|0-1|FxF",
           "Tremorgeschütz|0-1|FxF",
           "Volcano Kanone|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
         "notes": "Mit einer einzelnen Kampfwaffe bewaffnet. Kann zu einer Unterstützungswaffe aufgewertet werden.",
-        "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
+        "crit": "Ordinatus wird zerstört, und alle Einheiten innerhalb von 5cm erleiden bei 5+ einen Treffer"
       },
       {
         "name": "Ordinatus Minoris ",
@@ -603,8 +603,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer Stubber|2|",
-          ">Battle Weapons<",
+          "Zwillings-Schwerer Maschinengewehr|2|",
+          ">Kampfwaffen<",
           "Turbolaserzerstörer|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Schwerer Icarus Batterie|0-1|",
@@ -613,13 +613,13 @@
           "Gatling-Blaster|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
         "notes": "Mit einer einzelnen Kampfwaffe bewaffnet.",
-        "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
+        "crit": "Ordinatus wird zerstört, und alle Einheiten innerhalb von 5cm erleiden bei 5+ einen Treffer"
       },
       {
         "name": "Ordinatus Majoris",
@@ -629,22 +629,22 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer Stubber|2|",
+          "Zwillings-Schwerer Maschinengewehr|2|",
           "Laserkanone|2|",
           ">Ordinatus Armageddon<",
           "Novakanone||FxF",
           ">Ordinatus Mars<",
-          "Schall-Versprengenor||FxF",
+          "Schall-Disruptor||FxF",
           ">Ordinatus Golgotha<",
           "Höllenfeuer-Rakete|6|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 4+"
+        "crit": "Ordinatus wird zerstört, und alle Einheiten innerhalb von 5cm erleiden bei 4+ einen Treffer"
       },
       {
         "name": "Gorgon",
@@ -654,16 +654,16 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Zwillings-Schwerer Stubber|4|"
+          "Zwillings-Schwerer Maschinengewehr|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"
         ],
         "notes": "Kann 10 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Jeder Praetorian Combat Servitor zählt als zwei Einheiten.",
-        "crit": "The Gorgon is Immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
+        "crit": "Gorgon ist bewegungsunfähig und darf sich für den Rest des Spiels nicht mehr bewegen. 1W3 zufällige transportierte Einheiten erleiden einen Treffer. Weitere kritische Treffer zerstören Gorgon."
       },
       {
         "name": "Mole",
@@ -683,7 +683,7 @@
         "notes": "Kann sechs Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Lysander Fighter",
+        "name": "Lysander-Jäger",
         "type": "AC",
         "speed": "Fighter",
         "armour": 6,
@@ -695,36 +695,36 @@
         ]
       },
       {
-        "name": "Avenger Strike Fighter",
+        "name": "Avenger-Sturzkampfflugzeug",
         "type": "AC",
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
           "AC-Avenger-Bolterkanone||FxF",
           "AC Zwillings-Maschinenkanone||FxF",
-          "AC-Schwerer-Stubber-Turm"
+          "AC-Schwerer-Maschinengewehr-Turm"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Stratoraptor Archaeopter",
+        "name": "Stratoraptor-Archaeopter",
         "type": "Bomber",
         "armour": 5,
         "weapons": [
           "AC Phosphorblaster|FxF",
           "Blackstar-Hurrikanbolter|FxF",
-          "AC-Zwillings-Schwerer-Stubber-Turm"
+          "AC-Zwillings-Schwerer-Maschinengewehr-Turm"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Lunar Class Cruiser",
+        "name": "Lunar-Klasse-Kreuzer",
         "type": "SC",
         "weapons": [
           {
-            "name": "Orbital Bombardment",
+            "name": "Orbitalbombardement",
             "modes": [
               {
                 "firepower": "3BP, MW"
@@ -735,11 +735,11 @@
         ]
       },
       {
-        "name": "Ark Mechanicus Battleship",
+        "name": "Ark-Mechanicus-Schlachtschiff",
         "type": "SC",
         "weapons": [
           {
-            "name": "0-1x Orbital Bombardment",
+            "name": "0–1x Orbitalbombardement",
             "modes": [
               {
                 "firepower": "6BP, MW"
@@ -749,9 +749,9 @@
           "Präzisionsschuss|0-1 2|"
         ],
         "specialRules": [
-          "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
+          "Verzögerte Ankunft (darf erst ab Runde 2 auf dem Schlachtfeld eintreffen)"
         ],
-        "notes": "Ist entweder mit Orbital Bombardment oder zwei Punktziel-Angriffen ausgerüstet (die Auswahl erfolgt zu Beginn der Schlacht)."
+        "notes": "Ist entweder mit Orbitalbombardement oder zwei Punktziel-Angriffen ausgerüstet (die Auswahl erfolgt zu Beginn der Schlacht)."
       }
     ]
   }

@@ -18,41 +18,41 @@
     {
       "from": "NIDS.json",
       "units": [
-        "Brood Lord",
-        "Termagants",
-        "Hormagaunts",
-        "Barbgaunts",
+        "Symbiarch",
+        "Termaganten",
+        "Hormaganten",
+        "Stachelganten",
         "Gargoyles",
-        "Raveners",
-        "Genestealers",
+        "Venatoren",
+        "Symbionten",
         "Biovore",
-        "Ravener Alphas",
-        "Tyranid Warriors",
-        "Tyranid Warrior Shrikes",
-        "Zoanthrope",
-        "Lictor",
-        "Dagon Overlord",
-        "Dagon Overlord Shrike",
-        "Hive Tyrant",
-        "Hive Tyrant Shrike",
-        "Barbed Carnifex",
-        "Screamer-Killer Carnifex",
+        "Alpha-Venatoren",
+        "Tyranidenkrieger",
+        "Tyranidenkrieger-Shrikes",
+        "Zoantroph",
+        "Liktor",
+        "Dagon-Oberherrscher",
+        "Dagon-Oberherrscher-Shrike",
+        "Schwarmtyrant",
+        "Schwarmtyrant-Shrike",
+        "Stachel-Carnifex",
+        "Kreischer-Killer-Carnifex",
         "Dactylis",
         "Exocrine",
         "Haruspex",
-        "Malefactor",
-        "Harpy",
-        "Hive Crone",
-        "Trygon Prime",
+        "Malefaktor",
+        "Harpyie",
+        "Schwarmdrude",
+        "Trygon-Alpha",
         "Trygon",
         "Harridan",
-        "Barbed Hierodule Prime",
-        "Barbed Hierodule",
-        "Scythed Hierodule Prime",
-        "Scythed Hierodule",
-        "Hive Nest",
+        "Stachel-Hierodule-Alpha",
+        "Stachel-Hierodule",
+        "Sensen-Hierodule-Alpha",
+        "Sensen-Hierodule",
+        "Schwarmnest",
         "Hierophant",
-        "Dagon Dominatrix",
+        "Dagon-Dominatrix",
         "Hydraphant"
       ],
       "unitRules": [
@@ -77,7 +77,7 @@
       "name": "Primäre Synapsenschwärme",
       "formations": [
         {
-          "name": "0-1 Nexus Swarm",
+          "name": "0–1 Nexus Swarm",
           "units": "Ein Dagon Dominatrix",
           "extraUnits": [
             "Ein bis vier Instinctive Swarms"
@@ -90,7 +90,7 @@
           "extraUnits": [
             "Zwei bis vier Instinctive Swarms",
             "Ersetze den Hive Tyrant durch einen Hive Tyrant Shrike: kostenlos",
-            "0-1 Hive Tyrant in the army may be replaced with the Dagon Overlord: 75 points",
+            "0–1 Hive Tyrant in der Armee darf durch den Dagon Overlord ersetzt werden: 75 Punkte",
             "Ersetze den Dagon Overlord durch einen Dagon Overlord Shrike: kostenlos",
             "Transportiere die Formation in einer Mycetic Spore (alle Einheiten müssen transportiert werden können) und setze sie gemäß den Planetary-Assault-Regeln von einer Razorfiend oder einem Hive Ship aus ein: 50 Punkte"
           ],
@@ -101,9 +101,9 @@
           "units": "Zwei Tyranid Warriors",
           "extraUnits": [
             "Ein bis zwei Instinctive Swarms",
-            "1+ Gaunts, Gargoyles, oder Bio-Support must be chosen",
-            "Ersetze two Tyranid Warriors durch Tyranid Warrior Shrikes: kostenlos",
-            "Ersetze two Tyranid Warriors durch Zoanthropes: 25pts",
+            "Mindestens 1 aus Gaunts, Gargoyles oder Bio-Support muss gewählt werden",
+            "Ersetze zwei Tyranid Warriors durch Tyranid Warrior Shrikes: kostenlos",
+            "Ersetze zwei Tyranid Warriors durch Zoanthropes: 25pts",
             "Transportiere die Formation in einer Mycetic Spore (alle Einheiten müssen transportiert werden können) und setze sie gemäß den Planetary-Assault-Regeln von einer Razorfiend oder einem Hive Ship aus ein: 50 Punkte"
           ],
           "points": 100
@@ -118,7 +118,7 @@
           "name": "Nest Swarm",
           "units": "Ein Hive Nest",
           "extraUnits": [
-            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Bio-Support, oder Bio-Artillery"
+            "Ein bis zwei Instinctive Swarms ausgewählt aus Gaunts, Gargoyles, Bio-Support, oder Bio-Artillery"
           ],
           "points": 150
         },
@@ -126,7 +126,7 @@
           "name": "Breacher Swarm",
           "units": "Ein Hierodule Prime (Barbed oder Scythed)",
           "extraUnits": [
-            "Ein bis zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Burrower, Carnifex oder Bio-Attack"
+            "Ein bis zwei Instinctive Swarms ausgewählt aus Gaunts, Gargoyles, Burrower, Carnifex oder Bio-Attack"
           ],
           "points": 125
         },
@@ -142,7 +142,7 @@
           "name": "Harasser Swarm",
           "units": "Ein Harridan",
           "extraUnits": [
-            "Zero to two Instinctive Swarms chosen from Gargoyles oder Bio-Flyers",
+            "Null bis zwei Instinctive Swarms, ausgewählt aus Gargoyles oder Bio-Flyers",
             "Füge 1 Harridan hinzu: 100 Punkte"
           ],
           "points": 175
@@ -195,52 +195,52 @@
   ],
   "upgrades": {
     "title": "Instinctive Swarms",
-    "description": "It is compulsory to buy the minimum amount of Instinctive Swarms.",
+    "description": "Das Mindestmass an Instinctive Swarms muss zwingend gekauft werden.",
     "items": [
       {
         "name": "Gaunts",
-        "description": "Five Termagants, five Barbgaunts, oder five Hormagaunts",
-        "points": "75 points"
+        "description": "Fünf Termagants, fünf Barbgaunts oder fünf Hormagaunts",
+        "points": "75 Punkte"
       },
       {
         "name": "Bio-Support",
-        "description": "Four Biovores",
-        "points": "75 points"
+        "description": "Vier Biovores",
+        "points": "75 Punkte"
       },
       {
         "name": "Gargoyles",
-        "description": "Four Gargoyles",
-        "points": "75 points"
+        "description": "Vier Gargoyles",
+        "points": "75 Punkte"
       },
       {
         "name": "Bio-Flyers",
-        "description": "Three Harpies oder three Hive Crones",
-        "points": "100 points"
+        "description": "Drei Harpies oder drei Hive Crones",
+        "points": "100 Punkte"
       },
       {
         "name": "Carnifex",
-        "description": "two Barbed Carnifex oder two Screamer-Killer Carnifex",
-        "points": "75 points"
+        "description": "zwei Barbed Carnifex oder zwei Screamer-Killer Carnifex",
+        "points": "75 Punkte"
       },
       {
         "name": "Bio-Artillery",
-        "description": "Three Dactylis",
-        "points": "125 points"
+        "description": "Drei Dactylis",
+        "points": "125 Punkte"
       },
       {
         "name": "Bio-Attack",
-        "description": "Two Haruspex, two Exocrines, oder two Malefactors",
-        "points": "75 points"
+        "description": "Zwei Haruspex, zwei Exocrines oder zwei Malefactors",
+        "points": "75 Punkte"
       },
       {
         "name": "Breacher",
-        "description": "One Barbed Hierodule oder one Scythed Hierodule",
-        "points": "125 points"
+        "description": "Ein Barbed Hierodule oder ein Scythed Hierodule",
+        "points": "125 Punkte"
       },
       {
         "name": "Burrower",
-        "description": "Two Trygons oder five Raveners",
-        "points": "100 points"
+        "description": "Zwei Trygons oder fünf Raveners",
+        "points": "100 Punkte"
       }
     ]
   }

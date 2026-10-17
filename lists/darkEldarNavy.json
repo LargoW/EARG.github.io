@@ -23,8 +23,8 @@
         "speed": "Fighter-Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Void Lanze",
-          "AC Twin Splinter Cannon",
+          "AC Zwillings Void Lanze",
+          "AC Zwillings Splinter Cannon",
           "AC Void Mines"
         ],
         "specialRules": [
@@ -38,11 +38,11 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Twin Dark Lanze|2|",
+          "AC Zwillings Dark Lanze|2|",
           "AC Turreted Splinter Cannon"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Schattenfelder1",
           "Planetfall",
           "Transport"

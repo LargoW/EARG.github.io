@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Eye of the Gods",
+        "name": "Auge der Götter",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -15,7 +15,7 @@
         ]
       },
       {
-        "name": "Daemonic Herald",
+        "name": "Dämonischer Herold",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -25,7 +25,7 @@
         ]
       },
       {
-        "name": "Daemonic Locus",
+        "name": "Dämonischer Fokus",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "name": "Chaos Warhound",
+        "name": "Chaos-Warhound",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -47,17 +47,17 @@
           "Kampfkopf"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit takes a point of damage."
+        "crit": "Die Einheit erleidet 1 Schaden."
       },
       {
-        "name": "Plaguehound",
+        "name": "Seuchenhund",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -68,17 +68,17 @@
           "Boil Kanone||FwA"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Null Schilde 1",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit takes a point of damage."
+        "crit": "Die Einheit erleidet 1 Schaden."
       },
       {
-        "name": "Bloodhound",
+        "name": "Bluthund",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -91,7 +91,7 @@
           "Kampfkopf"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -99,10 +99,10 @@
           "Must be armed with either Death Storm oder Plasma Furnace"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit takes a point of damage."
+        "crit": "Die Einheit erleidet 1 Schaden."
       },
       {
-        "name": "Warphound",
+        "name": "Warp-Hound",
         "type": "WE",
         "speed": 25,
         "armour": 5,
@@ -114,17 +114,17 @@
           "Dämon Maw"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Null Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit takes a point of damage."
+        "crit": "Die Einheit erleidet 1 Schaden."
       },
       {
-        "name": "Chaos Warbringer",
+        "name": "Chaos-Warbringer",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -143,17 +143,17 @@
           "2x Plasma-Kremator||FwA"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Chaos Reaver",
+        "name": "Chaos-Reaver",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -166,17 +166,17 @@
           "Kampfkopf"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
-        "crit": "The unit’s plasma reactor has been breached. Roll a W6 for each breach on the unit in the End Phase of each turn. On a roll of 1 the unit is destroyed and all units within 5cm suffer a hit on a roll of 5+, and on a roll of 4–6 the breach has been repaired. Any breach not repaired causes one point of damage."
+        "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Reviler Titan",
+        "name": "Reviler-Titan",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -191,7 +191,7 @@
           "Lustpeitsche"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -201,7 +201,7 @@
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Repugnant Titan",
+        "name": "Abscheulicher Titan",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -215,7 +215,7 @@
           "Seuchenflegel"
         ],
         "specialRules": [
-          "Damage Capacity 7",
+          "Schadenskapazität7",
           "Null Schilde 3",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -225,7 +225,7 @@
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Ravager Titan",
+        "name": "Verwüster-Titan",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -240,7 +240,7 @@
           "Schwanzgeschütz"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -250,7 +250,7 @@
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Mutator Titan",
+        "name": "Mutator-Titan",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -264,7 +264,7 @@
           "Flak-Flammenkanone"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Null Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -274,7 +274,7 @@
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Chaos Warlord",
+        "name": "Chaos-Kriegsherr",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -290,7 +290,7 @@
         "specialRules": [
           "Göttermaschine",
           "Split Fire",
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -299,7 +299,7 @@
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Painlord Titan",
+        "name": "Schmerzensfürst-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -317,7 +317,7 @@
         "specialRules": [
           "Göttermaschine",
           "Split Fire",
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -327,7 +327,7 @@
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Plaguelord Titan",
+        "name": "Seuchenfürst-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -344,7 +344,7 @@
         "specialRules": [
           "Göttermaschine",
           "Split Fire",
-          "Damage Capacity 9",
+          "Schadenskapazität9",
           "Null Schilde 5",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -354,7 +354,7 @@
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Banelord Titan",
+        "name": "Verderbensfürst-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -372,7 +372,7 @@
         "specialRules": [
           "Göttermaschine",
           "Split Fire",
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -382,7 +382,7 @@
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Warplord Titan",
+        "name": "Warp-Fürst-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -398,7 +398,7 @@
         "specialRules": [
           "Göttermaschine",
           "Split Fire",
-          "Damage Capacity 8",
+          "Schadenskapazität8",
           "Null Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -408,7 +408,7 @@
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Vicebringer Titan",
+        "name": "Lasterbringer-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -424,7 +424,7 @@
         "specialRules": [
           "Göttermaschine",
           "Split Fire",
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Null Schilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -434,7 +434,7 @@
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Gloombringer Titan",
+        "name": "Finsternisbringer-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -450,7 +450,7 @@
         "specialRules": [
           "Göttermaschine",
           "Split Fire",
-          "Damage Capacity 11",
+          "Schadenskapazität11",
           "Null Schilde 7",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -460,7 +460,7 @@
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Strifebringer Titan",
+        "name": "Zwistbringer-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -476,7 +476,7 @@
         "specialRules": [
           "Göttermaschine",
           "Split Fire",
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Null Schilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",
@@ -486,7 +486,7 @@
         "notes": "Kann 4 Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
       {
-        "name": "Changebringer Titan",
+        "name": "Wandelbringer-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -501,7 +501,7 @@
         "specialRules": [
           "Göttermaschine",
           "Split Fire",
-          "Damage Capacity 10",
+          "Schadenskapazität10",
           "Null Schilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",

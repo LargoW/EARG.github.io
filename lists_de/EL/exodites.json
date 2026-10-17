@@ -19,24 +19,24 @@
     {
       "from": "eldarExo.json",
       "units": [
-        "Dragon Prince",
-        "Dragonlord",
-        "Worldsinger",
-        "Dragon Knight",
-        "Dragon Outrider",
-        "Skyward Dragon",
-        "Exodite Militia",
-        "Exodite Weapons Platform",
-        "Exodite Wraithguards",
-        "Wind Knight",
-        "Bloodfang Megadon",
-        "Voidprism Megadon",
-        "Bright Stallion Knight",
-        "Fire Gale Knight",
-        "Towering Destroyer Knight",
-        "Great Megadon",
-        "Eternal Drake",
-        "Colossal Carnosaur"
+        "Drachenprinz",
+        "Drachenfürst",
+        "Weltenliedsänger",
+        "Drachenritter",
+        "Drachen-Vorreiter",
+        "Himmelsdrache",
+        "Exoditenmiliz",
+        "Exoditen-Waffenplattform",
+        "Exoditen-Phantomdroiden",
+        "Windritter",
+        "Blutrachen-Megadon",
+        "Leerenprisma-Megadon",
+        "Glanzross-Ritter",
+        "Feuersturmritter",
+        "Überragender Zerstörer-Ritter",
+        "Großer Megadon",
+        "Ewiger Drache",
+        "Kolossaler Carnosaurus"
       ],
       "unitRules": [
         "Heavy Armoured Vehicle (H-AV)",
@@ -50,14 +50,14 @@
     {
       "from": "eldarCorsairs.json",
       "units": [
-        "Corsair Felarch",
-        "GhostGeländegängig",
-        "Corsair Warrior",
-        "Corsair Veteran",
-        "Corsair Wasp Geländegängig",
-        "Corsair Venom",
-        "Corsair Vampire Raider",
-        "Corsair Nightwing Interceptor"
+        "Korsaren-Felarch",
+        "Geisterläufer",
+        "Korsarenkrieger",
+        "Korsarenveteran",
+        "Korsaren-Wespe",
+        "Korsaren-Schattenviper",
+        "Korsaren-Vampire-Raider",
+        "Korsaren-Nachtschwinge-Abfangjäger"
       ],
       "unitRules": [
       ]
@@ -68,19 +68,19 @@
       "name": "Exoditen-Spezialregeln",
       "formations": [
         {
-          "name": "Dragon Prince (0-1 per army)",
+          "name": "Dragon Prince (0–1 pro Armee)",
           "units": "Ersetze einen Dragonlord in der Armee durch einen Dragon Prince",
-          "points": "50 points"
+          "points": "50 Punkte"
         },
         {
-          "name": "Eternal Drake (0-1 per army)",
+          "name": "Eternal Drake (0–1 pro Armee)",
           "units": "Ein Eternal Drake",
           "points": 50
         },
         {
-          "name": "Wraithgate (0-1 per army)",
+          "name": "Wraithgate (0–1 pro Armee)",
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
-          "points": "Free"
+          "points": "kostenlos"
         }
       ]
     },
@@ -127,7 +127,7 @@
         },
         {
           "name": "Exodite Militia Troupe",
-          "units": "Acht Exodite Militia und a Worldsinger",
+          "units": "Acht Exodite Militia und ein Worldsinger",
           "points": "175",
           "extraUnits": [
             "Ersetze bis zu drei Exodite Militia durch Exodite Weapons Platforms: 25 Punkte pro Stück.",
@@ -164,15 +164,15 @@
           "name": "Corsairs Raiding Party",
           "units": "Vier Corsair Warriors und ein Felarch",
           "extraUnits": [
-            "Füge bis zu zwei Corsair Wasp Geländegängigs hinzu: 25 Punkte pro Stück",
+            "Füge bis zu zwei Corsair Wasp Walkers hinzu: 25 Punkte pro Stück",
             "Füge bis zu zwei Corsair Veterans hinzu: 25 Punkte pro Stück",
-            "Füge bis zu zwei GhostGeländegängigs hinzu: 25 Punkte pro Stück",
+            "Füge bis zu zwei Ghost Walkers hinzu: 25 Punkte pro Stück",
             "Füge ausreichend Corsair Venoms hinzu, um die gesamte Formation zu transportieren: 25 Punkte pro Stück. Wenn Venoms hinzugefügt werden, muss die gesamte Formation transportiert werden."
           ],
           "points": 150
         },
         {
-          "name": "Corsair Vampire (0-1 per raiding party)",
+          "name": "Corsair Vampire (0–1 pro Raubzug-Trupp)",
           "units": "Ein Corsair Vampire Raider",
           "extraUnits": [
           ],
@@ -187,8 +187,8 @@
           "points": 225
         },
         {
-          "name": "Corsairs Fire Support (0-1 per raiding party)",
-          "units": "Vier Corsair Wasp Geländegängigs",
+          "name": "Corsairs Fire Support (0–1 pro Raubzug-Trupp)",
+          "units": "Vier Corsair Wasp Walkers",
           "points": 150
         },
         {

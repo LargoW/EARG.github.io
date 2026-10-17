@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Squats",
   "army": "Wodanaz Stronghold",
   "version": "1.0.Beta",
@@ -14,32 +14,32 @@
     {
       "from": "SQ.json",
       "units": [
-        "Squat Grand Warlord",
-        "Squat Warlord",
-        "Living Ancestor",
-        "Squat Tech-Priest",
-        "Squat Warriors",
-        "Squat Berserkers",
-        "Squat Bikers",
-        "Squat Hearthguards",
-        "Squat Thunderers",
-        "Mole Mortars",
+        "Klan-Großlord",
+        "Klanlord",
+        "Lebender Ahne",
+        "Squat-Techpriester",
+        "Squat-Krieger",
+        "Squat-Berserker",
+        "Squat-Biker",
+        "Squat-Hearthguards",
+        "Squat-Donnerer",
+        "Maulwurf-Mörser",
         "Rapier",
-        "Thudd Gun",
-        "Guildmaster Trike",
-        "Squat Trike",
-        "Squat Rhino",
+        "Thudd-Geschütz",
+        "Gildenmeister-Trike",
+        "Squat-Trike",
+        "Squat-Rhino",
         "Land Raider",
-        "Squat Thunderfire",
-        "Iron Eagle Gyrokopter",
-        "Goliath Mega Cannon",
-        "Overlord Dirigible",
+        "Squat-Thunderfire",
+        "Eisenadler-Gyrokopter",
+        "Goliath",
+        "Overlord-Luftschiff",
         "Termite",
-        "Hellbore",
+        "Höllenbohrer",
         "Leviathan",
-        "Colossus",
-        "Cyclops",
-        "Squat Land Train"
+        "Koloss",
+        "Zyklop",
+        "Squat-Landzug"
       ],
       "unitRules": [
         "Spirit Lords",
@@ -49,12 +49,12 @@
     {
       "from": "AM.json",
       "units": [
-        "Kastelan Robot",
+        "Kastelan-Roboter",
         "Tarantula"
       ],
       "unitRules": [
-        "Machine Spirit",
-        "Ponderous"
+        "Maschinengeist",
+        "Schwerfällig"
       ]
     }
   ],
@@ -66,11 +66,11 @@
           "name": "Warrior Brotherhood",
           "units": "Squat Hearthguards, neun Squat Warriors",
           "extraUnits": [
-            "Ersetze two Squat Warriors durch two Rapiers, oder two Thunderers: 25 Punkte",
+            "Ersetze zwei Squat Warriors durch zwei Rapiers, oder zwei Thunderers: 25 Punkte",
             "Füge vier Squat Warriors hinzu: 75 Punkte",
             "Warlord",
             "Warrior Transport",
-            "Living Ancestor (Leviathan only)"
+            "Living Ancestor (Leviathan nur)"
           ],
           "points": 200
         },
@@ -78,7 +78,7 @@
           "name": "Berserker Brotherhood",
           "units": "Squat Hearthguards, sieben Squat Berserkers, vier Squat Rhinos",
           "extraUnits": [
-            "Ersetze four Squat Rhinos durch four Termites: 25 Punkte"
+            "Ersetze vier Squat Rhinos durch vier Termites: 25 Punkte"
           ],
           "points": 200
         }
@@ -136,9 +136,9 @@
         },
         {
           "name": "Kastelan Maniple",
-          "units": "Ein Squat Tech-Priest, fünf Kastelan Robots",
+          "units": "Ein Squat Tech-Priest, fünf Kastelan-Roboter",
           "extraUnits": [
-            "Füge bis zu zwei Kastelan Robots hinzu: 25 Punkte pro Stück"
+            "Füge bis zu zwei Kastelan-Roboter hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         }
@@ -149,10 +149,10 @@
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Wodanaz-Stronghold-Kriegsmaschinen ausgegeben werden. Pro Warrior-Brotherhood-Formation mit der Aufwertung 'Hellbore Transport' ist höchstens ein Hellbore erlaubt.",
       "formations": [
         {
-          "name": "Hellbore",
+          "name": "Höllenbohrer",
           "units": "Ein Hellbore",
           "extraUnits": [
-            "Living Ancestor"
+            "Lebender Ahne"
           ],
           "points": 150
         },
@@ -160,7 +160,7 @@
           "name": "Overlord",
           "units": "Ein Overlord Dirigible",
           "extraUnits": [
-            "Living Ancestor"
+            "Lebender Ahne"
           ],
           "points": 250
         },
@@ -172,30 +172,30 @@
           "points": 350
         },
         {
-          "name": "Cyclops",
+          "name": "Zyklop",
           "units": "Ein Cyclops",
           "extraUnits": [
-            "Living Ancestor"
+            "Lebender Ahne"
           ],
           "points": 425
         },
         {
-          "name": "Colossus",
+          "name": "Koloss",
           "units": "Ein Colossus",
           "extraUnits": [
-            "Living Ancestor"
+            "Lebender Ahne"
           ],
           "points": 450
         },
         {
-          "name": "Land Train",
+          "name": "Landzug",
           "units": "Ein Squat Land Train und between zwei und vier Battle Cars",
           "extraUnits": [
-            "Living Ancestor",
-            "Dragon Battle Car: 75 points each",
-            "Siege Mortar Battle Car: 75 points each",
-            "Berserker Battle Car and one unit of Squat Berserkers: 75 points each",
-            "0-1 Bomb Battle Car: 125 points"
+            "Lebender Ahne",
+            "Dragon Battle Car: 75 Punkte pro Stück",
+            "Siege Mortar Battle Car: 75 Punkte pro Stück",
+            "Berserker Battle Car und eine Einheit von Squat Berserkers: 75 Punkte pro Stück",
+            "0-1 Bomb Battle Car: 125 Punkte"
           ],
           "points": 200
         }
@@ -204,26 +204,26 @@
   ],
   "upgrades": {
     "title": "Wodanaz Stronghold Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
         "name": "Warlord",
-        "description": "Füge 1 aus folgender Auswahl units zur Formation hinzu",
+        "description": "Füge dem Verband 1 Einheit aus der folgenden Auswahl hinzu",
         "options": [
           {
-            "description": "Squat Warlord",
-            "points": "50 points"
+            "description": "Klanlord",
+            "points": "50 Punkte"
           },
           {
-            "description": "(0-1 in the army) Squat Grand Warlord",
-            "points": "100 points"
+            "description": "(0–1 pro Armee) Squat Grand Warlord",
+            "points": "100 Punkte"
           }
         ]
       },
       {
-        "name": "Living Ancestor",
-        "description": "Füge a Living Ancestor to an Overlord Dirigible, Leviathan, Cyclops, Colossus oder Land Train hinzu.",
-        "points": "25 points"
+        "name": "Lebender Ahne",
+        "description": "Füge einem Overlord Dirigible, Leviathan, Cyclops, Colossus oder Land Train einen Living Ancestor hinzu.",
+        "points": "25 Punkte"
       },
       {
         "name": "Thunderer Transport",
@@ -231,37 +231,37 @@
         "options": [
           {
             "description": "Termites",
-            "points": "Free"
+            "points": "kostenlos"
           },
           {
             "description": "Land Raiders",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Warrior Transport",
-        "description": "Füge transports zur Formation, bis zu the number required to transport all infantry units in die Formation. Termites, Hellbore und Leviathan transports can not be combined with other transport options. Transports can only be taken if die gesamte Formation can be transported hinzu.",
+        "description": "Füge dem Verband Transporter hinzu, bis zur erforderlichen Anzahl, um alle Infanterieeinheiten im Verband zu transportieren. Termites, Hellbore und Leviathan dürfen nicht mit anderen Transportoptionen kombiniert werden. Transporter dürfen nur gewählt werden, wenn der gesamte Verband transportiert werden kann.",
         "options": [
           {
             "description": "Squat Rhinos",
-            "points": "10 points each"
+            "points": "10 Punkte pro Stück"
           },
           {
             "description": "Land Raiders",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "Termites",
-            "points": "15 points each"
+            "points": "15 Punkte pro Stück"
           },
           {
             "description": "Hellbore Transport (bought separately)",
-            "points": "Free"
+            "points": "kostenlos"
           },
           {
             "description": "Leviathan",
-            "points": "275 points"
+            "points": "275 Punkte"
           }
         ]
       }

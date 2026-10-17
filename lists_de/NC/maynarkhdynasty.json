@@ -22,30 +22,30 @@
     {
       "from": "NC.json",
       "units": [
-        "Necron Overlord",
-        "Necron Lord",
-        "Necron Destroyer Overlord",
-        "Necron Destroyer Lord",
-        "Destroyers",
-        "Heavy Destroyers",
-        "Flayed Ones",
-        "Immortals",
+        "Necron-Hochlord",
+        "Necronlord",
+        "Destruktor-Hochlord",
+        "Destruktorlord",
+        "Destruktoren",
+        "Schwere Destruktoren",
+        "Alpträume",
+        "Extinktoren",
         "Pariahs",
-        "Necron Warriors",
-        "Canoptek Scarabs",
-        "Canoptek Wraiths",
+        "Necronkrieger",
+        "Canoptek-Skarabäen",
+        "Canoptek-Phantome",
         "Monolith",
         "Obelisk",
-        "Canoptek Spyder",
+        "Canoptek-Gruftspinne",
         "Abattoir",
-        "Æonic Orb",
+        "Äonen-Sphäre",
         "Pylon",
         "Megalith"
       ],
       "unitRules": [
         "Regeneration",
         "Living Metal",
-        "Machine Spirit",
+        "Maschinengeist",
         "Enduring"
       ]
     },
@@ -53,8 +53,8 @@
       "from": "necronNavy.json",
       "units": [
         "Night Shroud Bomber",
-        "Doom Scythe Fighter",
-        "Cairn Class Tomb Ship"
+        "Todessichel-Jäger",
+        "Cairn-Klasse Gruftschiff"
       ],
       "unitRules": [
       ]
@@ -79,9 +79,9 @@
           "units": "Acht Necron Warriors und ein Necron Lord",
           "extraUnits": [
             "Overlord",
-            "Canoptek Wraiths",
-            "Canoptek Spyder",
-            "Ersetze three Necron Warriors durch three Pariahs oder three Immortals: 50 Punkte"
+            "Canoptek-Phantome",
+            "Canoptek-Gruftspinne",
+            "Ersetze drei Necron Warriors durch drei Pariahs oder drei Immortals: 50 Punkte"
           ],
           "points": 300
         }
@@ -95,7 +95,7 @@
           "name": "Portal Phalanx",
           "units": "Ein Monolith, zwei Obelisks",
           "extraUnits": [
-            "Ersetze bis zu two Obelisks durch Monoliths: 25 Punkte pro Stück"
+            "Ersetze bis zu zwei Obelisks durch Monoliths: 25 Punkte pro Stück"
           ],
           "points": 175
         }
@@ -139,7 +139,7 @@
           "name": "Canoptek Swarm",
           "units": "Ein Canoptek Spyder, sechs Canoptek Scarabs",
           "extraUnits": [
-            "Canoptek Wraiths"
+            "Canoptek-Phantome"
           ],
           "points": 200
         }
@@ -159,21 +159,21 @@
         },
         {
           "name": "0–1 Harvester Engine",
-          "units": "Either an Æonic Orb oder an Abbatoir",
+          "units": "Entweder ein Æonic Orb oder ein Abbatoir",
           "extraUnits": [
           ],
           "points": 450
         },
         {
-          "name": "0–1 Tomb Ship",
-          "units": "Ein Cairn Class Tomb Ship",
+          "name": "0–1 Gruftschiff",
+          "units": "Ein Cairn-Klasse Gruftschiff",
           "upgrades": [
           ],
           "points": 200
         },
         {
-          "name": "Doom Scythes",
-          "units": "Zwei Doom Scythe Fighters",
+          "name": "Todessicheln",
+          "units": "Zwei Todessichel-Jäger",
           "upgrades": [
           ],
           "points": 200
@@ -190,22 +190,22 @@
   ],
   "upgrades": {
     "title": "Maynarkh Dynasty Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "0-1 Overlord",
-        "description": "Either replace one Necron Lord with a Necron Overlord, oder replace a Necron Destroyer Lord with a Necron Destroyer Overlord",
-        "points": "75 points"
+        "name": "0–1 Overlord",
+        "description": "Ersetze entweder einen Necron Lord durch einen Necron Overlord, oder einen Necron Destroyer Lord durch einen Necron Destroyer Overlord",
+        "points": "75 Punkte"
       },
       {
         "name": "Canoptec Wraiths",
         "description": "Füge bis zu zwei Canoptek Wraiths hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
-        "name": "Canoptek Spyder",
+        "name": "Canoptek-Gruftspinne",
         "description": "Füge 1 Canoptek Spyder hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       }
     ]
   }

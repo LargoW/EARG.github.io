@@ -157,7 +157,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|",
+          "Heavy Maschinengewehr|2|",
           "Massive Melee Weapons"
         ],
         "specialRules": [
@@ -202,7 +202,7 @@
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Claws and Fangs"
+          "Klauen und Zähne"
         ],
         "specialRules": [
           "Entbehrlich"
@@ -217,7 +217,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Heavy Maschinengewehr"
         ],
         "specialRules": [
             "Transport"
@@ -232,7 +232,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber Turret"
+          "Schweres Zwillings Maschinengewehr Turret"
         ],
         "specialRules": [
         ]
@@ -248,7 +248,7 @@
           "Arcane Technology"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Furchtlos",
@@ -269,7 +269,7 @@
             "Arcane Technology"
         ],
         "specialRules": [
-            "Damage Capacity 3",
+            "Schadenskapazität3",
             "Verstärkte Panzerung",
             "Unmodifizierter Rettungswurf",
             "Furchtlos",

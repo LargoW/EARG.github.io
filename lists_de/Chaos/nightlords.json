@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Chaos Space Marines",
   "army": "Night Lords",
   "version": "Alpha 0.6.0",
@@ -20,22 +20,22 @@
     {
       "from": "CSM.json",
       "units": [
-        "Night Lords First Captain",
-        "Night Lords Captain",
-        "Icon Bearer",
-        "Chaos Assault Marines",
+        "Night-Lords-Erster Hauptmann",
+        "Night-Lords-Hauptmann",
+        "Ikonenträger",
+        "Chaos-Sturmmarines",
         "Chaos Space Marines",
-        "Raptors",
-        "Warp Talons",
-        "Night Lords Chosen",
-        "Chaos Destroyers",
-        "Atramentar Terminators",
+        "Raptoren",
+        "Warp-Klauen",
+        "Night-Lords-Auserkorene",
+        "Chaos-Zerstörer",
+        "Atramentar-Terminatoren",
         "Chaos Rhino",
         "Chaos Land Raider",
-        "Chaos Spartan Assault Tank",
-        "Chaos Stalker",
-        "Chaos Attack Bike",
-        "Night Lords Dreadnought"
+        "Chaos-Spartan-Sturmpanzer",
+        "Chaos-Jäger",
+        "Chaos-Angriffs-Bike",
+        "Night-Lords-Cybot"
       ],
       "unitRules": [
         "Augment Summoning (+x)",
@@ -46,10 +46,10 @@
     {
       "from": "darkmechanicus.json",
       "units": [
-        "Chaos Tarantula"
+        "Chaos-Tarantel"
       ],
       "unitRules": [
-        "Machine Spirit"
+        "Maschinengeist"
       ]
     },
     {
@@ -79,7 +79,7 @@
       "formations": [
         {
           "name": "Night Raptor Company",
-          "units": "One Night Lords Captain, six Raptors",
+          "units": "Ein Night Lords Captain, sechs Raptors",
           "extraUnits": [
             "Füge bis zu 2 Raptors hinzu: 30 Punkte pro Stück",
             "Oberbefehlshaber",
@@ -95,7 +95,7 @@
       "formations": [
         {
           "name": "Chosen",
-          "units": "Four Night Lords Chosen, two Chaos Rhinos",
+          "units": "Vier Night Lords Chosen, zwei Chaos Rhinos",
           "extraUnits": [
             "Ersetze 2 Chaos Rhinos durch 4 Chaos Tarantulas: 25 Punkte"
           ],
@@ -103,14 +103,14 @@
         },
         {
           "name": "Warp Talon Cult",
-          "units": "Three Warp Talons, Daemonic Pact",
+          "units": "Drei Warp Talons, Daemonic Pact",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Terminator Company",
-          "units": "One Night Lords Captain, four Atramentar Terminators",
+          "units": "Ein Night Lords Captain, vier Atramentar Terminators",
           "extraUnits": [
             "Füge 2 Chaos Spartan Assault Tanks hinzu: 150 Punkte",
             "Oberbefehlshaber",
@@ -127,15 +127,15 @@
       "description": "Pro Night Lords Kernverband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
-          "name": "Destroyers",
-          "units": "Four Chaos Destroyers",
+          "name": "Destruktoren",
+          "units": "Vier Chaos Destroyers",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Terror Company",
-          "units": "One Night Lords Captain, four Night Lords Assault Marines, two Night Lords Dreadnoughts",
+          "units": "Ein Night Lords Captain, vier Night Lords Assault Marines, zwei Night Lords Dreadnoughts",
           "extraUnits": [
             "Oberbefehlshaber",
             "Icon Bearer",
@@ -146,7 +146,7 @@
         },
         {
           "name": "Support Company",
-          "units": "One Night Lords Captain, six Chaos Space Marines, three Chaos Rhinos",
+          "units": "Ein Night Lords Captain, sechs Chaos Space Marines, drei Chaos Rhinos",
           "extraUnits": [
             "Ersetze 3 Chaos Rhinos durch 3 Chaos Land Raiders: 125 Punkte",
             "Oberbefehlshaber",
@@ -157,7 +157,7 @@
         },
         {
           "name": "Attack Company",
-          "units": "One Night Lords Captain, six Chaos Attack Bikes",
+          "units": "Ein Night Lords Captain, sechs Chaos Attack Bikes",
           "extraUnits": [
             "Oberbefehlshaber",
             "Icon Bearer",
@@ -173,26 +173,26 @@
       "formations": [
         {
           "name": "Tarantula",
-          "units": "Four Chaos Tarantulas",
+          "units": "Vier Chaos Tarantulas",
           "points": 125
         },
         {
           "name": "Fire Raptor",
-          "units": "One Chaos Fire Raptor",
+          "units": "Ein Chaos Fire Raptor",
           "points": 175
         },
         {
           "name": "Xiphon Squadron",
-          "units": "Two Chaos Xiphon Interceptors",
+          "units": "Zwei Chaos Xiphon Interceptors",
           "points": 225
         },
         {
           "name": "Thunderhawk",
-          "units": "One Chaos Thunderhawk",
+          "units": "Ein Chaos Thunderhawk",
           "points": 225
         },
         {
-          "name": "0-1 Strike Cruiser",
+          "name": "0–1 Strike Cruiser",
           "units": "Chaos Strike Cruiser",
           "extraUnits": [
           ],
@@ -223,34 +223,34 @@
             "description": "Wähle eine der folgenden Optionen:"
           },
           {
-            "description": "Ersetze den Night Lords Captain durch a Night Lords First Captain",
-            "points": "50 points"
+            "description": "Ersetze den Night Lords Captain durch einen Night Lords First Captain",
+            "points": "50 Punkte"
           },
           {
-            "description": "Ersetze den Night Lords Captain und its Einheit durch a Night Lords Daemon Prince",
-            "points": "100 points"
+            "description": "Ersetze den Night Lords Captain und seine Einheit durch einen Night Lords Daemon Prince",
+            "points": "100 Punkte"
           }
         ]
       },
       {
         "name": "Icon Bearer",
         "description": "Füge 1 Icon Bearer zum Verband hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Dreadclaws",
         "description": "Transportiere einen Verband, der ausschließlich Infanterieeinheiten und Dreadnoughts enthält, in Drop Pods (der Verband muss auf einem Raumschiff aufgestellt werden).",
-        "points": "10 points per unit"
+        "points": "10 Punkte pro Einheit"
       },
       {
         "name": "Dreadnoughts",
         "description": "Füge bis zu 2 Night Lords Dreadnoughts hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Stalker",
         "description": "Füge 1 Chaos Stalker hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       }
     ]
   }

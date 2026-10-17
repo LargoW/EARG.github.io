@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Adeptus Mechanicus",
   "army": "Collegia Titanica",
   "version": "1.0.Beta",
@@ -34,23 +34,23 @@
     {
       "from": "AM.json",
       "units": [
-        "Secutarii Axiarch",
-        "Tech-Priest",
-        "Secutarii Hoplites",
-        "Secutarii Pelasts",
-        "Electro-Priests",
-        "Chimera",
+        "Secutarii-Axiarch",
+        "Tech-Priester",
+        "Secutarii-Hopliten",
+        "Secutarii-Pelasten",
+        "Elektro-Priester",
+        "Chimäre",
         "Chimedon",
-        "Kastelan Robot",
-        "Castellax Battle-Automata",
+        "Kastelan-Roboter",
+        "Castellax-Kampffautomaten",
         "Ordinatus Minoris ",
-        "Avenger Strike Fighter",
-        "Lysander Fighter",
-        "Ark Mechanicus Battleship"
+        "Avenger-Sturzkampfflugzeug",
+        "Lysander-Jäger",
+        "Ark-Mechanicus-Schlachtschiff"
       ],
       "unitRules": [
-        "Machine Spirit",
-        "Ponderous"
+        "Maschinengeist",
+        "Schwerfällig"
       ]
     },
     {
@@ -75,24 +75,24 @@
       "name": "Battle Titan Verbände",
       "formations": [
         {
-          "name": "0-1 Emperor Titan",
-          "units": "One Imperator Titan oder Warmonger Titan, Veteran Princeps",
+          "name": "0–1 Emperor Titan",
+          "units": "Ein Imperator Titan oder Warmonger Titan, Veteran Princeps",
           "extraUnits": [
             "Legate"
           ],
           "points": 950
         },
         {
-          "name": "Warlord Titan",
-          "units": "One Warlord Titan (Deathbringer oder Nemesis Klasse), Veteran Princeps",
+          "name": "Warlord-Titan",
+          "units": "Ein Warlord Titan (Deathbringer oder Nemesis Klasse), Veteran Princeps",
           "extraUnits": [
             "Legate"
           ],
           "points": 750
         },
         {
-          "name": "Reaver Titan",
-          "units": "One Reaver Titan (Hun oder Goth Class)",
+          "name": "Reaver-Titan",
+          "units": "Ein Reaver Titan (Hun oder Goth Class)",
           "extraUnits": [
             "Veteran Princeps"
           ],
@@ -106,17 +106,17 @@
       "formations": [
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan, of either Standard oder Support configuration",
+          "units": "Ein Warhound Titan, entweder in Standard- oder Support-Konfiguration",
           "extraUnits": [
-            "Füge 1 Warhound Titan of the same configuration hinzu: 200 Punkte",
+            "Füge 1 Warhound Titan derselben Konfiguration hinzu: 200 Punkte",
             "Veteran Princeps",
-            "Tank Hunter Configuration"
+            "Tank-Hunter-Konfiguration"
           ],
           "points": 275
         },
         {
           "name": "Questoris Banner",
-          "units": "Two Questoris Knights (may not mix configurations)",
+          "units": "Zwei Questoris Knights (darf nicht mix configurations)",
           "extraUnits": [
           ],
           "points": 325
@@ -129,7 +129,7 @@
       "formations": [
         {
           "name": "Secutarii Titan Guard",
-          "units": "One Secutarii Axiarch, eight Secutarii Hoplites oder eight Secutarii Pelasts",
+          "units": "Ein Secutarii Axiarch, acht Secutarii Hoplites oder acht Secutarii Pelasts",
           "extraUnits": [
             "Füge 2 Electro-Priests hinzu: 25 Punkte",
             "Ersetze 2 Secutarii Hoplites oder Pelasts durch 3 Chimeras oder 3 Chimedons: 25 Punkte"
@@ -138,15 +138,15 @@
         },
         {
           "name": "Kastelan Maniple",
-          "units": "Five Kastelan Robots, one Tech-Priest",
+          "units": "Fünf Kastelan-Roboter, ein Tech-Priest",
           "extraUnits": [
-            "Füge bis zu 2 Kastelan Robots hinzu: 25 Punkte pro Stück"
+            "Füge bis zu 2 Kastelan-Roboter hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         },
         {
           "name": "Castellax Maniple",
-          "units": "One Tech-Priest, four Castellax Battle-Automata",
+          "units": "Ein Tech-Priest, vier Castellax Battle-Automata",
           "extraUnits": [
           ],
           "points": 175
@@ -166,18 +166,18 @@
       "description": "Bis zu einem Drittel der verfügbaren Punkte darf für Verbände der Flotte des Adeptus Mechanicus ausgegeben werden. Pro Warmonger Titan oder Anvilus Carapace Landing Pad darf höchstens ein Lysander Fighter aufgestellt werden.",
       "formations": [
         {
-          "name": "Lysander Fighter",
-          "units": "One Lysander Fighter",
+          "name": "Lysander-Jäger",
+          "units": "Ein Lysander Fighter",
           "points": 75
         },
         {
           "name": "Avenger Squadron",
-          "units": "Two Avenger Strike Fighters",
+          "units": "Zwei Avenger Strike Fighters",
           "points": 175
         },
         {
-          "name": "0-1 Mechanicus Battleship",
-          "units": "One Ark Mechanicus Battleship",
+          "name": "0–1 Mechanicus Battleship",
+          "units": "Ein Ark Mechanicus Battleship",
           "points": 225
         }
       ]
@@ -188,24 +188,24 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "0-1 Legate",
+        "name": "0–1 Legate",
         "description": "Füge 1 Legate zum Verband hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Veteran Princeps",
         "description": "Füge einen Veteran Princeps zum Verband hinzu. Nicht mit einem Legate kombinierbar.",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Tank Hunter",
-        "description": "Werte alle Warhounds im Verband zum Tank Hunter Configuration",
-        "points": "25 points each"
+        "description": "Werte alle Warhounds im Verband auf die Tank-Hunter-Konfiguration auf",
+        "points": "25 Punkte pro Stück"
       }
     ]
   },
   "about": [
-    "v1.0.Beta: Titan lists are at the edge of what the EA ruleset can handle, and the Collegia Titanica list is part of an attempt to make such lists less of a Draw oder Loss kind of lists.",
-    "A (very) partial change-list involves changes to stat lines (making it easier to engage Titans in CC, fewer DC, Shield on certain Titans), pricing (generally cheaper), introducing new rules (Split Fire to give the largest titans more flexibility and moves them closer to how things work in A-T 2018. The Göttermaschine rule to make it worth attacking them) and the Null Schild rule change (preventing big WE from completely recharging fully depleted VS with a single action)."
+    "v1.0.Beta: Titan-Listen bewegen sich am Rand dessen, was das EA-Regelwerk handhaben kann, und die Liste Collegia Titanica ist Teil des Versuchs, solche Listen weniger zu einer Frage von Gewinnen oder Verlieren zu machen.",
+    "Eine (sehr) unvollständige Änderungsliste umfasst Änderungen an den Profilen (Titanen lassen sich leichter im Nahkampf angreifen, weniger DC, Schild bei bestimmten Titanen), die Preise (generell günstiger), die Einführung neuer Regeln (Split Fire, um den grössten Titanen mehr Flexibilität zu geben und sie näher an die Funktionsweise in A-T 2018 heranzuführen; die Regel Göttermaschine, damit sich Angriffe auf sie lohnen) sowie die Änderung der Regel Null Schild (verhindert, dass grosse WE mit einer einzigen Aktion völlig erschöpfte VS vollständig aufladen)."
   ]
 }

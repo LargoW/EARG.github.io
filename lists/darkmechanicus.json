@@ -63,10 +63,10 @@
           "Mitralocks"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
@@ -115,14 +115,14 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Twin Reaper Autocannon",
+          "Zwillings Reaper Autocannon",
           "Power Fist"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
-          "Ponderous"
+          "Schwerfällig"
         ]
       },
       {
@@ -135,7 +135,7 @@
           "Reaper Autocannon"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich"
         ]
@@ -245,7 +245,7 @@
           "Turbo Blaster|0-1|FxF",
           "Doom Burner|0-1|FxF",
           "Plasma Cremator|0-1|FxF",
-          "Twin Hades Autocannon|0-1|",
+          "Zwillings Hades Autocannon|0-1|",
           ">Support Weapons<",
           "Plasma Incinerator|0-1|FxF",
           "Cannon of Chaos|0-1|FxF",
@@ -253,12 +253,12 @@
           "4x Havoc Barrage Missile|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "notes": "Armed with a single Battle Weapon. May be upgraded to a Support Weapon.",
+        "notes": "Armed with a single Battle Weapon. May be upgraded to a Unterstützungswaffe.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+."
       },
       {
@@ -273,15 +273,15 @@
           "Turbo Blaster|0-1|FxF",
           "Doom Burner|0-1|FxF",
           "Plasma Cremator|0-1|FxF",
-          "Twin Hades Autocannon|0-1|"
+          "Zwillings Hades Autocannon|0-1|"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator oder Twin Hades Autocannon.",
+        "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator oder Zwillings Hades Autocannon.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+."
       },
       {
@@ -293,7 +293,7 @@
         "ff": 5,
         "weapons": [
           "Heavy Bolter|2|",
-          "Lascannon|2|",
+          "Laserkanone|2|",
           ">Ordinatus Cyclothrathe<",
           "Terrebrax Phospex Battery||FxF",
           ">Ordinatus Retlaxi<",
@@ -302,7 +302,7 @@
           "Gyrator Barrage Cannon||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -318,11 +318,11 @@
         "ff": 5,
         "weapons": [
             "Heavy Bolter|2|",
-            "Lascannon|2|",
+            "Laserkanone|2|",
           "Terrebrax Phospex Battery||FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Null Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -337,12 +337,12 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Kaban Versprengenor||FwA",
+          "Kaban Disruptor||FwA",
           "Kaban Conversion Beamer||FwA",
           "Kaban Guntails"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Null Schilde 2",
           "Anführer",
           "Verstärkte Panzerung",
@@ -395,7 +395,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Hades Autocannon"
+          "Zwillings Hades Autocannon"
         ],
         "specialRules": [
           "Furchtlos",
@@ -467,7 +467,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber",
+          "Heavy Maschinengewehr",
           "Multi-Melta",
           "Reaper Chain-Cleaver"
         ],
@@ -487,8 +487,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Reaper Autocannon",
-          "Heavy Stubber"
+          "Zwillings Reaper Autocannon",
+          "Heavy Maschinengewehr"
         ],
         "specialRules": [
           "Geländegängig",
@@ -529,7 +529,7 @@
         "weapons": [
           "Lightning Cannon",
           "Pulsar-Fusil",
-          "Twin Siegebreaker Cannon|2|FwA",
+          "Zwillings Siegebreaker Cannon|2|FwA",
           "Hyperwave Clarion"
         ],
         "specialRules": [
@@ -551,7 +551,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Twin Reaper Autocannon",
+          "Zwillings Reaper Autocannon",
           "Renegade Chainsword",
           ">Incarnate Slaughter<",
           "Hyperwave Clarion",
@@ -585,10 +585,10 @@
         "ff": 5,
         "weapons": [
           "Decimator Cannon||FxF",
-          "Twin Reaper Autocannon|4|FxF"
+          "Zwillings Reaper Autocannon|4|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -608,7 +608,7 @@
           "Reaper Autocannon|4|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
@@ -629,7 +629,7 @@
           "Arcane Technology||"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
@@ -668,7 +668,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Lascannon",
+          "Laserkanone",
           "Multi-Melta"
         ],
         "specialRules": [
@@ -724,10 +724,10 @@
         "ff": 4,
         "weapons": [
           "Castigator Cannon|2|",
-          "Lascannon|2|"
+          "Laserkanone|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
@@ -750,7 +750,7 @@
           "Hellslicer Battle Claw|2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Null Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
@@ -768,7 +768,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Twin Reaper Autocannon",
+          "Zwillings Reaper Autocannon",
           "Plague Cannon",
           "Battle Claws"
         ],
@@ -824,13 +824,13 @@
         "ff": 3,
         "weapons": [
           "Pus Cannon||",
-          "Lascannon|2|FxF",
-          "Twin Heavy Bolter|3|FxF",
+          "Laserkanone|2|FxF",
+          "Schweres Zwillings Bolter|3|FxF",
           "Bile Cannon",
           "Nurglings"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Regeneration",
@@ -875,7 +875,7 @@
           "Nurglings"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität4",
           "Furchtlos",
           "Regeneration",
           "Daemon Engine (Nurgle)",
@@ -987,11 +987,11 @@
         "weapons": [
           "Scorpion Cannon||FwA",
           "Demolisher||FxF",
-          "Twin Hellmaw||FxF",
+          "Zwillings Hellmaw||FxF",
           "Scorpion Claws"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Furchtlos",
           "Infiltratorens",
           "Geländegängig",
@@ -1013,7 +1013,7 @@
           "Chainfist"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
@@ -1031,10 +1031,10 @@
         "weapons": [
           "Hellstrike Cannon||FxF",
           "Hellfire Cannon|2|FxF",
-          "Twin Reaper Autocannon Turret|2|"
+          "Zwillings Reaper Autocannon Turret|2|"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Regeneration",
@@ -1051,7 +1051,7 @@
         "ff": 3,
         "weapons": [
           "Battle Cannon",
-          "Twin Heavy Warpflamer",
+          "Schweres Zwillings Warpflamer",
           "Eye of Magnus",
           "Battle Claws"
         ],
@@ -1116,7 +1116,7 @@
           "Battle Claws"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Furchtlos",
           "Jump Pack",
           "Unmodifizierter Rettungswurf",
@@ -1137,7 +1137,7 @@
           "Beam of Power|2|"
         ],
         "specialRules": [
-          "Damage Capacity 6",
+          "Schadenskapazität6",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Hilfstransportschiff",

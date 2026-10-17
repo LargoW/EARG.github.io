@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Streitkräfte der Chaos-Kultisten",
     "specialRules": [
@@ -87,7 +87,7 @@
         ]
       },
       {
-        "name": "Daemon Prince",
+        "name": "Dämonenprinz",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -107,7 +107,7 @@
         ]
       },
       {
-        "name": "Cultists",
+        "name": "Kultisten",
         "type": "INF",
         "speed": 15,
         "cc": 5,
@@ -156,7 +156,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Schwerer Stubber|2|",
+          "Schwerer Maschinengewehr|2|",
           "Massive Nahkampfwaffen"
         ],
         "specialRules": [
@@ -216,7 +216,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Schwerer Stubber"
+          "Schwerer Maschinengewehr"
         ],
         "specialRules": [
             "Transport"
@@ -231,7 +231,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer-Stubber-Turm"
+          "Zwillings-Schwerer-Maschinengewehr-Turm"
         ],
         "specialRules": [
         ]
@@ -247,7 +247,7 @@
           "Arkane Technologie"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Furchtlos",
@@ -255,7 +255,7 @@
           "Daemonic Focus",
           "Augmented Summoning (+W3)"
         ],
-        "crit": "The Chaos Altar is destroyed. All units within 5cm suffers a MW hit on 6+."
+        "crit": "Chaos Altar wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen MW-Treffer."
       },
       {
         "name": "Warp Altar",
@@ -268,7 +268,7 @@
             "Arkane Technologie"
         ],
         "specialRules": [
-            "Damage Capacity 3",
+            "Schadenskapazität3",
             "Verstärkte Panzerung",
             "Unmodifizierter Rettungswurf",
             "Furchtlos",
@@ -277,10 +277,10 @@
             "Augmented Summoning (+W3)",
           "Chaos Gate"
         ],
-        "crit": "The Warp Altar is destroyed. All Daemon Legion units within 5cm are destroyed, all other units within 5cm suffers a MW hit on 6+."
+        "crit": "Warp Altar wird zerstört. Alle Daemon-Legion-Einheiten innerhalb von 5cm werden zerstört, alle anderen Einheiten innerhalb von 5cm erleiden bei 6+ einen MW-Treffer."
       },
       {
-        "name": "PoxGeländegängigs of Nurgle",
+        "name": "Pox Walkers of Nurgle",
         "type": "INF",
         "speed": 10,
         "cc": 6,

@@ -18,11 +18,11 @@
     {
       "from": "IQ.json",
       "units": [
-        "Ordo Xenos Inquisitor Lord",
-        "Ordo Xenos Inquisitor",
-        "Ordo Xenos Acolytes",
-        "Arbitrators",
-        "Arbites Repressor"
+        "Ordo-Xenos-Großinquisitor",
+        "Ordo-Xenos-Inquisitor",
+        "Akolythen des Ordo Xenos",
+        "Arbitratoren",
+        "Arbites-Repressor"
       ],
       "unitRules": [
       ]
@@ -30,22 +30,22 @@
     {
       "from": "SM.json",
       "units": [
-        "Watch Befehlshaber",
-        "Watch Sergeant",
-        "Chaplain",
-        "Librarian",
-        "Deathwatch Tacticals",
-        "Deathwatch Assaults",
-        "Deathwatch Black Shields",
-        "Deathwatch Devastators",
-        "Deathwatch Terminators",
-        "Deathwatch Dreadnought",
-        "Deathwatch Attack Bike",
-        "Deathwatch Land Speeder Tornado",
-        "Deathwatch Land Raider",
-        "Corvus Blackstar Dropship",
-        "Deathwatch Thunderhawk Transporter",
-        "Dark Hunter Class Destroyer"
+        "Deathwatch-Befehlshaber",
+        "Deathwatch-Sergeant",
+        "Ordenspriester",
+        "Scriptor",
+        "Deathwatch-Taktische-Trupps",
+        "Deathwatch-Sturmtrupps",
+        "Deathwatch-Schwarze-Schilde",
+        "Deathwatch-Devastortrupps",
+        "Deathwatch-Terminatoren",
+        "Deathwatch-Cybot",
+        "Deathwatch-Trike",
+        "Deathwatch-Land-Speeder-Tornado",
+        "Deathwatch-Land-Raider",
+        "Corvus-Blackstar-Landungsschiff",
+        "Deathwatch-Thunderhawk-Transporter",
+        "Dark-Hunter-Klasse-Zerstörer"
       ],
       "unitRules": [
         "They Shall Know No Fear"
@@ -56,13 +56,13 @@
       "units": [
         "Vulture",
         "Vendetta",
-        "PDF Infantry",
-        "Flakk Team",
-        "Thudd Gun",
-        "Armoured Sentinel",
-        "Leman Russ",
+        "Infanterie der Planetaren Verteidigungsstreitkräfte",
+        "Flakteam",
+        "Thudd-Geschütz",
+        "Gepanzerter Sentinel",
+        "Leman Russ Kampfpanzer",
         "Leman Russ Thunderer",
-        "Land Transporter"
+        "Landtransporter"
       ],
       "unitRules": []
     }
@@ -73,7 +73,7 @@
       "description": "",
       "formations": [
         {
-          "name": "0-1 Officio Assassinorum",
+          "name": "0–1 Officio Assassinorum",
           "units": "Einmal pro Schlacht wird während eines vom Deathwatch-Spieler eingeleiteten Angriffs (nachdem sich alle Einheiten bewegt haben) eine einzelne Einheit an beliebiger Stelle in der/den gegnerischen Formation(en) von W3 Treffern getroffen. Diese Treffer zählen als Nahkampftreffer und haben die Sonderregeln 'Scharfschütze' und 'Erstschlag'. Jeder durch diese Treffer verursachte Schaden zählt für die Ermittlung des Kampfergebnisses (es sei denn, das Ziel ist Super-Entbehrlich).",
           "points": 50
         }
@@ -87,8 +87,8 @@
           "name": "Deathwatch Kill-Team",
           "units": "Ein Watch Sergeant, drei Deathwatch Tacticals",
           "extraUnits": [
-            "Ersetze three Deathwatch Tacticals durch three Deathwatch Black Shields: 25 Punkte",
-            "Ersetze three Deathwatch Tacticals durch three Deathwatch Devastators: 50 Punkte",
+            "Ersetze drei Deathwatch Tacticals durch drei Deathwatch Black Shields: 25 Punkte",
+            "Ersetze drei Deathwatch Tacticals durch drei Deathwatch Devastators: 50 Punkte",
             "Oberbefehlshaber",
             "Deathwatch Specialists",
             "Deathwatch Support"
@@ -105,7 +105,7 @@
           "points": 175
         },
         {
-          "name": "Deathwatch Assaults",
+          "name": "Deathwatch-Sturmtrupps",
           "units": "Ein Watch Sergeant, drei Deathwatch Assaults",
           "extraUnits": [
             "Füge 1 Deathwatch Landspeeder Tornado hinzu: 25 Punkte",
@@ -115,7 +115,7 @@
           "points": 175
         },
         {
-          "name": "Deathwatch Terminators",
+          "name": "Deathwatch-Terminatoren",
           "units": "Ein Watch Sergeant, zwei Deathwatch Terminators",
           "extraUnits": [
             "Oberbefehlshaber",
@@ -137,7 +137,7 @@
       "description": "Pro Deathwatch-Kernformation darf eine Ordo-Xenos-Formation gewählt werden.",
       "formations": [
         {
-          "name": "0-1 Ordo Xenos Inquisitor Task Force",
+          "name": "0–1 Ordo Xenos Inquisitor Task Force",
           "units": "Ordo Xenos Inquisitor, neun Arbitrators, fünf Arbites Repressors",
           "extraUnits": [
             "Oberbefehlshaber",
@@ -146,7 +146,7 @@
           "points": 300
         },
         {
-          "name": "Ordo Xenos Acolytes",
+          "name": "Akolythen des Ordo Xenos",
           "units": "Drei Ordo Xenos Acolytes, drei Vendettas",
           "extraUnits": [
             "Füge bis zu zwei Vultures hinzu: 50 Punkte pro Stück"
@@ -157,7 +157,7 @@
           "name": "Planetary Defense Platoon",
           "units": "Acht PDF Infantry, vier Land Transporters",
           "extraUnits": [
-            "Ersetze four Land Transporters durch three Thudd Guns oder three Flakk Teams: 25 Punkte"
+            "Ersetze vier Land Transporters durch drei Thudd Guns oder drei Flakk Teams: 25 Punkte"
           ],
           "points": 200
         },
@@ -187,7 +187,7 @@
           "points": 200
         },
         {
-          "name": "Thunderhawk Transporter",
+          "name": "Thunderhawk-Transporter",
           "units": "Ein Deathwatch Thunderhawk Transporter",
           "extraUnits": [
           ],
@@ -198,28 +198,28 @@
   ],
   "upgrades": {
     "title": "Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "0-1 Oberbefehlshaber",
-        "description": "Ersetze an Ordo Xenos Inquisitor durch an Ordo Xenos Inquisitor Lord, oder a Watch Sergeant durch a Watch Befehlshaber",
+        "name": "0–1 Oberbefehlshaber",
+        "description": "Ersetze einen Ordo Xenos Inquisitor durch einen Ordo Xenos Inquisitor Lord, oder einen Watch Sergeant durch einen Watch Befehlshaber",
         "points": [
-          "Inquisitor Lord: 50 points",
-          "Watch Befehlshaber: 100 points"
+          "Inquisitor Lord: 50 Punkte",
+          "Watch Befehlshaber: 100 Punkte"
         ]
       },
       {
         "name": "Deathwatch Specialists",
         "description": "Füge a Librarian oder Chaplain zur Formation hinzu.",
         "points": [
-          "Librarian: 25 points",
-          "Chaplain: 50 points"
+          "Librarian: 25 Punkte",
+          "Chaplain: 50 Punkte"
         ]
       },
       {
         "name": "Deathwatch Support",
-        "description": "Füge either one Deathwatch Dreadnought oder a Land Raider Crusader zur Formation hinzu.",
-        "points": "50 points"
+        "description": "Füge dem Verband entweder einen Deathwatch Dreadnought oder einen Land Raider Crusader hinzu.",
+        "points": "50 Punkte"
       }
     ]
   }

@@ -24,23 +24,23 @@
       "units": [
         "Archon",
         "Dracon",
-        "Haemonculus Ancient",
-        "Incubi",
-        "Dark Eldar Warriors",
-        "Reavers",
-        "Scourges",
+        "Ältester Haemonculus",
+        "Inkubi",
+        "Kabalenkrieger",
+        "Reaver-Jetbikes",
+        "Harpyien",
         "Haemonculi",
-        "Wracks",
-        "Grotesques",
-        "Mandrakes",
+        "Folterer",
+        "Grotesquen",
+        "Mandraks",
         "Talos",
-        "Reaper",
-        "Ravager",
-        "Raider",
+        "Schnitter",
+        "Schattenjäger",
+        "Schattenbarke",
         "Tantalus",
-        "Vessel of Pain",
-        "Barge of Pleasure",
-        "Tormentor Titan"
+        "Schmerzensschiff",
+        "Vergnügungsbarke",
+        "Peiniger-Titan"
       ],
       "unitRules": [
           "Lanze",
@@ -79,7 +79,7 @@
       "name": "Wraithkind-Spezialregeln",
       "formations": [
         {
-          "name": "0-1 Wraithgate",
+          "name": "0–1 Wraithgate",
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Drukhari-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden.",
           "extraUnits": [
           ],
@@ -93,7 +93,7 @@
       "formations": [
         {
           "name": "1 Wraithkind Coterie",
-          "units": "Ein Arcon in a unit of Incubi, drei Incubi",
+          "units": "Ein Arcon in einer Einheit Incubi, drei Incubi",
           "extraUnits": [
             "Füge zwei Incubi hinzu: 75 Punkte",
             "Warriors",
@@ -172,9 +172,9 @@
           "name": "Harlequin Masque",
           "units": "Ein Shadowseer, drei Harlequin Troupes, ein Death Jesters, vier Starweavers",
           "extraUnits": [
-              "Ersetze four Starweavers durch two Harlequin Troupe und one Death Jesters: kostenlos",
+              "Ersetze vier Starweavers durch zwei Harlequin Troupe und ein Death Jesters: kostenlos",
              "Füge bis zu drei Skyweaver Jetbikes hinzu: 25 Punkte pro Stück",
-             "(0-1 in the army) Add one Solitaire to a Harlequin Troupe: 50 points"
+             "(0–1 pro Armee) Füge einer Harlequin Troupe einen Solitaire hinzu: 50 Punkte"
           ],
           "points": 275
       },
@@ -221,7 +221,7 @@
                 "points": 225
             },
             {
-                "name": "0-1 Orbital Support",
+                "name": "0–1 Orbitale Unterstützung",
                 "units": "Ein Torture Class Cruiser",
                 "extraUnits": [
                 ],
@@ -232,38 +232,38 @@
   ],
   "upgrades": {
     "title": "Wraithkind Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
         "name": "Warriors",
         "description": "Füge zwei Dark Eldar Warriors hinzu.",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Ravagers",
         "description": "Füge bis zu zwei Dark Eldar Ravagers hinzu.",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Talos",
         "description": "Füge bis zu zwei Talos hinzu",
         "points": [
-          "50 points for one",
-          "75 points for two"
+          "50 Punkte für einen",
+          "75 Punkte für zwei"
         ]
       },
       {
-        "name": "(0-1 in the army) Portable Webway",
-        "description": "Füge a Portable Webway Portal to an Archon, Dracon, oder Haemonculus Ancient character. This Portable Webway may be used once in a game. After the character's formation (oder die Formation carrying it) completes an action you may place a small barrage template marker completely within 15cm of the character's unit (oder the unit carrying it) und outside any enemy zones of control. This marker counts as a Webway Portal which may not be attacked oder damaged in any way. Remove this Webway Portal marker in the End Phase of the turn before any rallying hinzu.",
-        "points": "50 points"
+        "name": "(0–1 pro Armee) Portable Webway",
+        "description": "Füge einem Archon-, Dracon- oder Haemonculus-Ancient-Charakter ein Portable Webway Portal hinzu. Dieses Portable Webway darf einmal pro Spiel verwendet werden. Nachdem der Verband des Charakters (oder der ihn tragende Verband) eine Aktion abgeschlossen hat, darfst du einen kleinen Sperrfeuer-Schablonenmarker vollständig innerhalb von 15 cm zur Einheit des Charakters (oder zur ihn tragenden Einheit) und ausserhalb gegnerischer Kontrollzonen platzieren. Dieser Marker zählt als Webway Portal, das nicht angegriffen oder in irgendeiner Weise beschädigt werden kann. Entferne diesen Webway-Portal-Marker in der Endphase der Runde vor dem Sammeln.",
+        "points": "50 Punkte"
       },
       {
         "name": "Wraithkind Transport",
-        "description": "Any combination of transport options may be taken to transport a formation, as long as no vehicle has an empty transport slot if possible. Not all units in a formation require a transport vehicle. Transport options selected may only transport units from the same formation.",
+        "description": "Beliebige Kombinationen von Transportoptionen dürfen gewählt werden, um einen Verband zu transportieren, solange nach Möglichkeit kein Fahrzeug einen leeren Transportplatz hat. Nicht alle Einheiten eines Verbands benötigen ein Transportfahrzeug. Gewählte Transportoptionen dürfen nur Einheiten desselben Verbands transportieren.",
         "points": [
-          "Raiders: Free",
-          "Tantalus: 25 points",
-          "0-1 Barge of Pleasure: 125 points"
+          "Raiders: kostenlos",
+          "Tantalus: 25 Punkte",
+          "0-1 Barge of Pleasure: 125 Punkte"
         ]
         }
     ]

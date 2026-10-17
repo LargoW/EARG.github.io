@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Chaos Space Marines",
   "army": "Word Bearers",
   "version": "1.0.Beta",
@@ -19,21 +19,21 @@
     {
       "from": "CSM.json",
       "units": [
-        "Dark Apostle",
-        "Word Bearers Daemon Prince",
-        "Word Bearers Coryphaus",
-        "Icon Bearer",
+        "Dunkler Apostel",
+        "Word-Bearers-Dämonenprinz",
+        "Word-Bearers-Koryphäus",
+        "Ikonenträger",
         "Chaos Space Marines",
         "Havocs",
-        "Daemonkin",
-        "Word Bearers Iconoclasts",
-        "Chaos Terminators",
+        "Dämonkin",
+        "Word-Bearers-Ikonoklasten",
+        "Chaos-Terminatoren",
         "Chaos Rhino",
-        "Chaos Stalker",
+        "Chaos-Jäger",
         "Chaos Vindicator",
         "Chaos Predator",
         "Chaos Land Raider",
-        "Chaos Dreadnought"
+        "Chaos-Cybot"
       ],
       "unitRules": [
           "Augment Summoning (+x)",
@@ -44,13 +44,13 @@
     {
       "from": "darkmechanicus.json",
       "units": [
-        "Cerberite",
-        "Maulerfiend",
-        "Defiler",
-        "Decimator",
-        "Death Wheel",
-        "Forgefiend",
-        "Knight-Renegade"
+        "Cerberit",
+        "Schlächterbestie",
+        "Geißel",
+        "Dezimator",
+        "Todesrad",
+        "Schmiedebestie",
+        "Abtrünniger Ritter"
       ],
       "unitRules": [
         "Daemon Engine (x)",
@@ -105,7 +105,7 @@
       "formations": [
         {
           "name": "Word Bearers Retinue",
-          "units": "One Word Bearer Coryphaus, six Chaos Space Marines, Daemonic Pact",
+          "units": "Ein Word Bearer Coryphaus, sechs Chaos Space Marines, Daemonic Pact",
           "extraUnits": [
             "Oberbefehlshaber",
             "Icon Bearer",
@@ -120,11 +120,11 @@
         },
         {
           "name": "Cultist Host",
-          "units": "One Word Bearer Coryphaus, ten Cultists, Daemonic Pact",
+          "units": "Ein Word Bearer Coryphaus, zehn Cultists, Daemonic Pact",
           "extraUnits": [
             "Icon Bearer",
-            "Ersetze bis zu 2 Cultists durch Mutants: Free",
-            "Ersetze bis zu 2 Cultists durch Chaos Hounds: Free",
+            "Ersetze bis zu 2 Cultists durch Mutants: kostenlos",
+            "Ersetze bis zu 2 Cultists durch Chaos Hounds: kostenlos",
             "Ersetze bis zu 2 Cultists durch Chaos Spawn: 25 Punkte pro Stück",
             "Füge genügend Land Transporters hinzu, um den Verband zu transportieren mit no space left over hinzu: 10 Punkte pro Stück",
             "Füge 1 Chaos Altar hinzu: 150 Punkte"
@@ -139,7 +139,7 @@
       "formations": [
         {
           "name": "Iconoclasts",
-          "units": "One Word Bearer Coryphaus, four Word Bearers Iconoclasts, Daemonic Pact",
+          "units": "Ein Word Bearer Coryphaus, vier Word Bearers Iconoclasts, Daemonic Pact",
           "extraUnits": [
             "Icon Bearer",
             "Predators"
@@ -148,9 +148,9 @@
         },
         {
           "name": "Havocs",
-          "units": "One Word Bearer Coryphaus, four Havocs, two Chaos Rhinos, Daemonic Pact",
+          "units": "Ein Word Bearer Coryphaus, vier Havocs, zwei Chaos Rhinos, Daemonic Pact",
           "extraUnits": [
-            "Ersetze 2 Havocs durch 2 Daemonkin: Free",
+            "Ersetze 2 Havocs durch 2 Daemonkin: kostenlos",
             "Ersetze 2 Chaos Rhinos durch Chaos Land Raiders, 2 Chaos Dreadnoughts: 75 Punkte",
             "Icon Bearer",
             "Predators",
@@ -160,19 +160,19 @@
         },
         {
           "name": "Armoured Company",
-          "units": "Four Chaos Predators",
+          "units": "Vier Chaos Predators",
           "extraUnits": [
-            "Ersetze 4 Chaos Predators durch 4 Chaos Vindicators (Free), oder 4 Chaos Land Raiders (75 Punkte)",
+            "Ersetze 4 Chaos Predators durch 4 Chaos Vindicators (kostenlos) oder 4 Chaos Land Raiders (75 Punkte)",
             "Stalker"
           ],
           "points": 200
         },
         {
           "name": "The Anointed",
-          "units": "One Word Bearer Coryphaus, three Chaos Terminators, three Chaos Land Raiders, Daemonic Pact",
+          "units": "Ein Word Bearer Coryphaus, drei Chaos Terminators, drei Chaos Land Raiders, Daemonic Pact",
           "extraUnits": [
-            "Ersetze 1 Chaos Terminators unit durch 2 Daemonkin: Free",
-            "Ersetze 3 Chaos Land Raiders durch 3 Chaos Dreadnoughts: Free",
+            "Ersetze 1 Chaos Terminators Einheit durch 2 Daemonkin: kostenlos",
+            "Ersetze 3 Chaos Land Raiders durch 3 Chaos Dreadnoughts: kostenlos",
             "Oberbefehlshaber",
             "Icon Bearer",
             "Stalker",
@@ -188,26 +188,26 @@
       "formations": [
         {
           "name": "Cerberites",
-          "units": "Three Cerberites",
+          "units": "Drei Cerberites",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Forgefiends",
-          "units": "Two Forgefiends",
+          "units": "Zwei Forgefiends",
           "points": 200
         },
         {
           "name": "Maulerfiends",
-          "units": "Four Maulerfiends",
+          "units": "Vier Maulerfiends",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Defilers",
-          "units": "Four Defilers",
+          "units": "Vier Defilers",
           "extraUnits": [
           ],
           "points": 250
@@ -220,40 +220,40 @@
       "formations": [
         {
           "name": "Decimator",
-          "units": "One Decimator",
+          "units": "Ein Decimator",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Chaos Knights",
-          "units": "Two Knight-Renegades, Daemonic Pact",
+          "units": "Zwei Knight-Renegades, Daemonic Pact",
           "extraUnits": [
           ],
           "points": 300
         },
         {
-          "name": "Death Wheel",
-          "units": "One Death Wheel",
+          "name": "Todesrad",
+          "units": "Ein Death Wheel",
           "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Heldrakes",
-          "units": "Two Heldrakes",
+          "units": "Zwei Heldrakes",
           "points": 225
         },
         {
           "name": "Harbringer",
-          "units": "One Harbringer Bomber",
+          "units": "Ein Harbringer Bomber",
           "extraUnits": [
           ],
           "points": 300
         },
         {
-          "name": "0-1 Chaos Cruiser",
-          "units": "One Devastation Class Cruiser",
+          "name": "0–1 Chaos Cruiser",
+          "units": "Ein Devastation Class Cruiser",
           "extraUnits": [
             "Battleship"
           ],
@@ -272,7 +272,7 @@
         },
         {
           "name": "Greater Daemon Pool",
-          "units": "Any amount of Greater Daemon Pool points.",
+          "units": "Beliebig viele Punkte aus dem Greater-Daemon-Pool.",
           "points": 50
         }
       ]
@@ -284,22 +284,22 @@
     "items": [
       {
         "name": "Battleship",
-        "description": "Ersetze den Devastation Class Cruiser durch a Despoiler Class Battleship",
-        "points": "50 points"
+        "description": "Ersetze den Devastation Class Cruiser durch ein Despoiler Class Battleship",
+        "points": "50 Punkte"
       },
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0–1 Oberbefehlshaber",
         "options": [
           {
             "description": "Wähle eine der folgenden Optionen:"
           },
           {
             "description": "Füge 1 Dark Apostle zum Verband hinzu",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "Füge 1 Daemon Prince Einheit zum Verband hinzu",
-            "points": "100 points"
+            "points": "100 Punkte"
           }
         ]
       },
@@ -308,11 +308,11 @@
         "options": [
           {
             "description": "Füge bis zu 3 Chaos Rhinos hinzu",
-            "points": "10 points each"
+            "points": "10 Punkte pro Stück"
           },
           {
             "description": "Füge bis zu 3 Chaos Land Raiders hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           },
           {
             "description": "(Nur so viele wie für den Transport des Verbands erforderlich, ohne freie Transportkapazität.)",
@@ -323,32 +323,32 @@
       {
         "name": "Icon Bearer",
         "description": "Füge 1 Icon Bearer character hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Dreadnoughts",
         "description": "Füge bis zu 3 Chaos Dreadnoughts hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Stalker",
         "description": "Füge 1 Chaos Stalker hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Predators",
         "description": "Füge bis zu 2 Chaos Predators hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Havocs",
         "description": "Ersetze 2 Chaos Space Marines durch 2 Havocs",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
-        "name": "Possessed",
+        "name": "Besessene",
         "description": "Ersetze 2 Chaos Space Marines durch 2 Daemonkin",
-        "points": "25 points"
+        "points": "25 Punkte"
       }
     ]
   }

@@ -17,19 +17,19 @@
       "from": "SM.json",
       "units": [
         "Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assaults",
-        "Assault Bikes",
-        "Raven Guard Scouts",
-        "Sternguard Veterans",
-        "Tacticals",
-        "Devastators",
-        "Cyclone Terminators",
-        "Terminators",
-        "Vanguard Veterans",
-        "Attack Bike",
+        "Sturmtrupps",
+        "Sturm-Bikes",
+        "Raven-Guard-Scouts",
+        "Protektorgarde-Veteranen",
+        "Taktische Trupps",
+        "Devastor-Trupps",
+        "Cyclone-Terminatoren",
+        "Terminatoren",
+        "Expugnatorgarde-Veteranen",
+        "Trike",
         "Land Speeder",
         "Land Speeder Storm",
         "Land Speeder Tempest",
@@ -41,9 +41,9 @@
         "Stalker",
         "Storm Eagle",
         "Storm Talon",
-        "Strike Cruiser",
-        "Vanguard Class Light Cruiser",
-        "Drop Pod"
+        "Angriffskreuzer",
+        "Vanguard-Klasse-Leichter-Kreuzer",
+        "Landungskapsel"
       ],
       "unitRules": [
           "Expert Reconnaissance",
@@ -66,7 +66,7 @@
       "formations": [
         {
           "name": "Storm Scouts",
-          "units": "Three Raven Guard Scouts, three Land Speeder Storms",
+          "units": "Drei Raven Guard Scouts, drei Land Speeder Storms",
           "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
@@ -74,8 +74,8 @@
           "points": 175
         },
         {
-          "name": "Tacticals",
-          "units": "Four Tacticals plus transport",
+          "name": "Taktische Trupps",
+          "units": "Vier Tacticals plus Transporter",
           "extraUnits": [
             "Befehlshaber",
             "Anti-Air",
@@ -92,7 +92,7 @@
       "formations": [
         {
           "name": "Sternguard Veteran",
-          "units": "Four Sternguard Veterans plus transport",
+          "units": "Vier Sternguard Veterans plus Transporter",
           "extraUnits": [
             "Befehlshaber",
             "Anti-Air",
@@ -103,7 +103,7 @@
         },
         {
           "name": "Vanguard Veteran",
-          "units": "Four Vanguard Veterans",
+          "units": "Vier Vanguard Veterans",
           "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
@@ -111,8 +111,8 @@
           "points": 250
         },
         {
-          "name": "Terminators",
-          "units": "Any four of the following units: Terminators, Cyclone Terminators",
+          "name": "Terminatoren",
+          "units": "Beliebige vier der folgenden Einheiten: Terminators, Cyclone Terminators",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -125,8 +125,8 @@
       "description": "Pro Kernkontingent dürfen zwei Unterstützungskontingente aufgestellt werden",
       "formations": [
         {
-          "name": "Assaults",
-          "units": "Four Assaults",
+          "name": "Sturmtrupps",
+          "units": "Vier Assaults",
           "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
@@ -135,7 +135,7 @@
         },
         {
           "name": "Bikes",
-          "units": "Any five of the following units: Attack Bike, Assault Bikes",
+          "units": "Beliebige fünf der folgenden Einheiten: Attack Bike, Assault Bikes",
           "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
@@ -143,8 +143,8 @@
           "points": 200
         },
         {
-          "name": "Devastators",
-          "units": "Four Devastators plus transport",
+          "name": "Devastor-Trupps",
+          "units": "Vier Devastators plus Transporter",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -163,7 +163,7 @@
         },
         {
           "name": "Aufklärer",
-          "units": "Four Raven Guard Scouts plus transport",
+          "units": "Vier Raven Guard Scouts plus Transporter",
           "extraUnits": [
             "Land Speeders",
             "Scharfschützes",
@@ -179,25 +179,25 @@
       "formations": [
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Storm Eagle",
-          "units": "One Storm Eagle",
+          "units": "Ein Storm Eagle",
           "points": 175
         },
         {
-          "name": "0-1 Orbital Support",
-          "units": "One Vanguard Class Light Cruiser",
+          "name": "0–1 Orbitale Unterstützung",
+          "units": "Ein Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Strike Cruiser"
+            "Angriffskreuzer"
           ],
           "points": 150
         },
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "extraUnits": [
             "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
           ],
@@ -216,11 +216,11 @@
         "options": [
           {
             "description": "Füge 1 Hunter hinzu",
-            "points": "75 points"
+            "points": "75 Punkte"
           },
           {
             "description": "Füge 1 Stalker hinzu",
-            "points": "50 points"
+            "points": "50 Punkte"
           }
         ]
       },
@@ -230,22 +230,22 @@
         "options": [
           {
             "description": "Captain, Librarian",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
-            "points": "50 points"
+            "description": "Ordenspriester",
+            "points": "50 Punkte"
           },
           {
             "description": "0–1 Oberbefehlshaber",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Land Speeder Variants",
         "description": "Ersetze beliebig viele Land Speeders durch dieselbe Anzahl an Land Speeder Typhoons oder Land Speeder Tempests",
-        "points": "10 points each"
+        "points": "10 Punkte pro Stück"
       },
       {
         "name": "Raven Guard Land Speeders",
@@ -253,32 +253,32 @@
         "options": [
           {
             "description": "Land Speeder, Land Speeder Tornado",
-            "points": "30 points each"
+            "points": "30 Punkte pro Stück"
           },
           {
             "description": "Land Speeder Typhoon",
-            "points": "40 points each"
+            "points": "40 Punkte pro Stück"
           },
           {
             "description": "Land Speeder Tempest",
-            "points": "40 points each"
+            "points": "40 Punkte pro Stück"
           }
         ]
       },
       {
         "name": "Razorbacks",
-        "description": "Füge beliebig viele Razorbacks, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
-        "points": "25 points each"
+        "description": "Füge beliebig viele Razorbacks hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Scharfschützes",
         "description": "Alle Scouts im Verband erhalten für ihre Heavy Bolters die Sonderregel „Scharfschütze“.",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
-        "name": "Strike Cruiser",
-        "description": "Ersetze den Vanguard Class Light Cruiser durch a Strike Cruiser",
-        "points": "50 points"
+        "name": "Angriffskreuzer",
+        "description": "Ersetze den Vanguard Class Light Cruiser durch einen Strike Cruiser",
+        "points": "50 Punkte"
       }
     ]
   }

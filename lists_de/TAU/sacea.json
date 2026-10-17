@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Tau",
   "army": "Sa'cea",
   "version": "1.0.Beta",
@@ -17,26 +17,26 @@
     {
       "from": "TAU.json",
       "units": [
-        "Ethereal",
+        "Himmlischer",
         "Shas'o",
         "Shas'el",
-        "XV8 Crisis Battlesuits",
-        "Fire Warriors",
-        "Gun Drones",
-        "Kroot Hounds",
-        "Kroot Master Shapers",
-        "Kroot Warriors",
+        "XV8 Krisis-Kampfanzüge",
+        "Feuerkrieger",
+        "Angriffsdrohnen",
+        "Kroot-Hunde",
+        "Kroot-Meisterweiser",
+        "Kroot-Krieger",
         "Krootox",
-        "Pathfinders",
-        "XV15 Stealth Battlesuits",
-        "XV88 Broadside Battlesuit",
+        "Späher",
+        "XV15 Geist-Kampfanzüge",
+        "XV88 Koloss-Kampfanzug",
         "Piranha",
         "Tetra",
-        "Devilfish",
-        "Ion Hammerhead",
-        "Rail Hammerhead",
-        "Fusion Hammerhead",
-        "Sky Ray",
+        "Teufelsrochen",
+        "Ionen-Hammerhai",
+        "Massebeschleuniger-Hammerhai",
+        "Fusions-Hammerhai",
+        "Dornenhai",
         "Manta"
       ],
       "unitRules": [
@@ -52,11 +52,11 @@
       "from": "tauNavy.json",
       "units": [
         "Barracuda",
-        "Tiger Shark Bomber",
-        "Tiger Shark AX-1-0",
+        "Schwertfisch-Jagdbomber",
+        "Schwertfisch AX-1-0",
         "Orca",
-        "Custodian Class Battleship",
-        "Protector Class Cruiser"
+        "Schlachtschiff der Custodian-Klasse",
+        "Kreuzer der Protector-Klasse"
       ],
       "unitRules": [
       ]
@@ -70,7 +70,7 @@
           "name": "XV8 Crisis Battlesuit Cadre",
           "units": "Ein Shas'el, vier XV8 Crisis Battlesuits",
           "extraUnits": [
-            "Gun Drones",
+            "Angriffsdrohnen",
             "Shas'o",
             "Crisis Suits"
           ],
@@ -81,14 +81,14 @@
           "units": "Acht Fire Warriors, oder sechs Fire Warriors und drei Devilfish.",
           "extraUnits": [
             "Broadsides",
-            "Ethereal",
+            "Himmlischer",
             "Piranhas",
-            "Fire Warriors",
-            "Pathfinders",
+            "Feuerkrieger",
+            "Späher",
             "Hammerheads",
-            "Sky Ray",
+            "Dornenhai",
             "Bonded Team",
-            "Gun Drones"
+            "Angriffsdrohnen"
           ],
           "points": 225
         }
@@ -102,11 +102,11 @@
           "name": "Hammerhead Group",
           "units": "Vier Ion oder vier Fusion Hammerheads",
           "extraUnits": [
-            "Ersetze four Ion oder Fusion Hammerheads durch four Rail Hammerheads: 25 Punkte",
-            "Gun Drones",
+            "Ersetze vier Ion oder Fusion Hammerheads durch vier Rail Hammerheads: 25 Punkte",
+            "Angriffsdrohnen",
             "Hammerheads",
             "Piranhas",
-            "Sky Ray"
+            "Dornenhai"
           ],
           "points": 200
         },
@@ -114,7 +114,7 @@
           "name": "XV88 Broadside Group",
           "units": "Sechs XV88 Broadside Battlesuits",
           "extraUnits": [
-            "Gun Drones"
+            "Angriffsdrohnen"
           ],
           "points": 300
         },
@@ -123,7 +123,7 @@
           "units": "Ein Kroot Master Shapers, neun Kroot Warriors",
           "extraUnits": [
             "Kroot",
-            "Kroot Hounds",
+            "Kroot-Hunde",
             "Krootox"
           ],
           "points": 175
@@ -132,7 +132,7 @@
           "name": "Pathfinder Group",
           "units": "Vier Pathfinders, zwei Devilfish",
           "extraUnits": [
-            "Gun Drones"
+            "Angriffsdrohnen"
           ],
           "points": 175
         },
@@ -148,7 +148,7 @@
           "name": "Skysweep Support Group",
           "units": "Drei Sky Rays",
           "extraUnits": [
-            "Gun Drones"
+            "Angriffsdrohnen"
           ],
           "points": 250
         },
@@ -156,7 +156,7 @@
           "name": "XV15 Stealth Group",
           "units": "Sechs XV15 Stealth Battlesuits",
           "extraUnits": [
-            "Gun Drones"
+            "Angriffsdrohnen"
           ],
           "points": 225
         }
@@ -203,8 +203,8 @@
           "points": 550
         },
         {
-          "name": "0–1 Spacecraft",
-          "units": "Protector Class Cruiser",
+          "name": "0–1 Raumschiff",
+          "units": "Kreuzer der Protector-Klasse",
           "extraUnits": [
             "Ersetze den Protector durch ein Custodian Class Battleship: 25 Punkte"
           ],
@@ -215,98 +215,98 @@
   ],
   "upgrades": {
     "title": "Upgrades",
-    "description": "Max three upgrades per formation. Each upgrade may be taken once by a formation.",
+    "description": "Maximal drei Aufwertungen pro Verband. Jede Aufwertung darf nur einmal pro Verband gewählt werden.",
     "items": [
       {
         "name": "Bonded Team",
-        "description": "Give the formation Anführer (this special ability is not added to any one specific unit)",
-        "points": "25 points"
+        "description": "Gib dem Verband Anführer (diese Sonderfähigkeit wird keiner bestimmten Einheit hinzugefügt)",
+        "points": "25 Punkte"
       },
       {
         "name": "0–1 Shas'o",
-        "description": "Ersetze one Shas'el character durch a Shas'o character",
-        "points": "75 points"
+        "description": "Ersetze einen Shas'el-Charakter durch einen Shas'o-Charakter",
+        "points": "75 Punkte"
       },
       {
         "name": "0–1 Ethereal",
-        "description": "Once per army, add one Ethereal to a unit of Fire Warriors",
-        "points": "50 points"
+        "description": "Einmal pro Armee darf eine Fire-Warriors-Einheit einen Ethereal erhalten",
+        "points": "50 Punkte"
       },
       {
         "name": "Crisis Suits",
         "description": "Füge zwei oder four XV8 Crisis Battlesuits hinzu",
         "points": [
-          "75 points for two",
-          "150 points for four"
+          "75 Punkte für zwei",
+          "150 Punkte für vier"
         ]
       },
       {
-        "name": "Fire Warriors",
-        "description": "Füge any one aus folgender Auswahl options hinzu:",
+        "name": "Feuerkrieger",
+        "description": "Füge eine der folgenden Optionen hinzu:",
         "options": [
           {
             "description": "Füge vier Fire Warriors hinzu",
-            "points": "100 points"
+            "points": "100 Punkte"
           },
           {
             "description": "Füge vier Fire Warriors und two Devilfish hinzu",
-            "points": "125 points"
+            "points": "125 Punkte"
           }
         ]
       },
       {
-        "name": "Pathfinders",
+        "name": "Späher",
         "description": "Füge zwei Pathfinders und one Devilfish hinzu",
-        "points": "100 points"
+        "points": "100 Punkte"
       },
       {
         "name": "Broadsides",
         "description": "Füge drei XV88 Broadside Battlesuits hinzu",
-        "points": "125 points"
+        "points": "125 Punkte"
       },
       {
         "name": "Piranhas",
         "description": "Füge zwei Piranhas hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
-        "name": "Gun Drones",
+        "name": "Angriffsdrohnen",
         "description": "Füge zwei Gun Drones hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Hammerheads",
-        "description": "Füge any one aus folgender Auswahl options hinzu:",
+        "description": "Füge eine der folgenden Optionen hinzu:",
         "options": [
           {
             "description": "Füge zwei Ion Hammerheads hinzu",
-            "points": "75 points"
+            "points": "75 Punkte"
           },
           {
-            "description": "Füge bis zu zwei Rail Hammerheads, oder add bis zu two Fusion Hammerheads hinzu",
-            "points": "50 points each"
+            "description": "Füge bis zu zwei Rail Hammerheads oder bis zu zwei Fusion Hammerheads hinzu",
+            "points": "50 Punkte pro Stück"
           }
         ]
       },
       {
-        "name": "Kroot",
+        "name": "Kroot-Söldner",
         "description": "Füge vier Kroot Warriors hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
-        "name": "Kroot Hounds",
+        "name": "Kroot-Hunde",
         "description": "Füge zwei Kroot Hounds hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Krootox",
         "description": "Füge drei Krootox hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
-        "name": "Sky Ray",
+        "name": "Dornenhai",
         "description": "Füge 1 Sky Ray hinzu",
-        "points": "100 points"
+        "points": "100 Punkte"
       }
     ]
   }

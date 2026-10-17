@@ -13,29 +13,29 @@
     {
       "from": "IG.json",
       "units": [
-        "Steel Legion Oberbefehlshaber",
-        "Steel Legion Befehlshaber",
-        "Commissar",
-        "Infantry",
+        "Oberbefehlshaber der Stahllegion",
+        "Befehlshaber der Stahllegion",
+        "Kommissar",
+        "Infanterie",
         "Ogryns",
-        "Rough Riders",
-        "Scharfschützes",
-        "Storm Troopers",
-        "Fire Support Squad",
+        "Kavallerie",
+        "Scharfschützen",
+        "Stoßtruppen",
+        "Feuerunterstützungstrupp",
         "Sentinel",
         "Basilisk",
-        "Bombard",
-        "Chimera",
+        "Bombarde",
+        "Chimäre",
         "Taurox",
-        "Deathstrike",
-        "Griffon",
-        "Hellhound",
+        "Todesstoß",
+        "Greif",
+        "Höllenhund",
         "Hydra",
-        "Leman Russ",
+        "Leman Russ Kampfpanzer",
         "Leman Russ Demolisher",
         "Leman Russ Vanquisher",
         "Leman Russ Punisher",
-        "Manticore",
+        "Mantikor",
         "Valkyrie",
         "Vulture",
         "Shadowsword",
@@ -76,31 +76,31 @@
       "formations": [
         {
           "name": "Regimental HQ",
-          "units": "One Steel Legion Oberbefehlshaber with a Commissar, nine Infantry and five Chimeras",
+          "units": "Ein Steel Legion Oberbefehlshaber mit einem Commissar, neun Infantry und fünf Chimeras",
           "extraUnits": [
-            "All"
+            "Alle"
           ],
           "points": 375
         },
         {
           "name": "Mechanized Infantry Company",
-          "units": "One Steel Legion Befehlshaber with a Commissar, nine Infantry and five Chimeras",
+          "units": "Ein Steel Legion Befehlshaber mit einem Commissar, neun Infantry und fünf Chimeras",
           "extraUnits": [
-            "All"
+            "Alle"
           ],
           "points": 325
         },
         {
           "name": "Infantry Company",
-          "units": "One Steel Legion Befehlshaber with a Commissar, twelve Infantry",
+          "units": "Ein Steel Legion Befehlshaber mit einem Commissar, zwölf Infantry",
           "extraUnits": [
-            "All"
+            "Alle"
           ],
           "points": 250
         },
         {
           "name": "Leman Russ Company",
-          "units": "One Leman Russ Vanquisher with a Commissar, seven Leman Russ",
+          "units": "Ein Leman Russ Vanquisher mit einem Commissar, sieben Leman Russ",
           "extraUnits": [
             "Flak",
             "Hellhounds"
@@ -109,7 +109,7 @@
         },
         {
           "name": "Super-Heavy Company",
-          "units": "One Commissar, three Baneblades und/oder Shadowswords",
+          "units": "Ein Commissar, drei Baneblades und/oder Shadowswords",
           "extraUnits": [
             "Ogryns",
             "Flak",
@@ -119,7 +119,7 @@
         },
         {
           "name": "Artillery Company",
-          "units": "One Commissar, six Basilisks",
+          "units": "Ein Commissar, sechs Basilisks",
           "extraUnits": [
             "Ersetze 6 Basilisks durch Manticores: 50 Punkte",
             "Flak"
@@ -134,7 +134,7 @@
       "formations": [
         {
           "name": "Mechanized Infantry Platoon",
-          "units": "Six Infantry and three Chimeras",
+          "units": "Sechs Infantry und drei Chimeras",
           "extraUnits": [
             "Hellhounds"
           ],
@@ -142,7 +142,7 @@
         },
         {
           "name": "Artillery Battery",
-          "units": "Three Basilisks oder three Bombards",
+          "units": "Drei Basilisks oder drei Bombards",
           "extraUnits": [
             "Ersetze 3 Basilisks durch 3 Manticores: 25 Punkte"
           ],
@@ -150,59 +150,59 @@
         },
         {
           "name": "Deathstrike Battery",
-          "units": "Two Deathstrikes",
+          "units": "Zwei Deathstrikes",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Griffon Battery",
-          "units": "Three Griffons",
+          "units": "Drei Griffons",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Flak Battery",
-          "units": "Three Hydras",
+          "units": "Drei Hydras",
           "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Rough Rider Platoon",
-          "units": "Six Rough Riders",
+          "units": "Sechs Rough Riders",
           "points": 150
         },
         {
           "name": "Sentinel Squadron",
-          "units": "Four Sentinels",
+          "units": "Vier Sentinels",
           "extraUnits": [
           ],
           "points": 100
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade",
+          "units": "Ein Baneblade",
           "extraUnits": [
-              "Ersetze 1 Baneblade durch a Shadowsword: 25 Punkte"
+              "Ersetze 1 Baneblade durch ein Shadowsword: 25 Punkte"
           ],
           "points": 175
         },
         {
           "name": "Leman Russ Platoon",
-          "units": "Six Leman Russ, Leman Russ Punishers oder Leman Russ Demolishers",
+          "units": "Sechs Leman Russ, Leman Russ Punishers oder Leman Russ Demolishers",
           "points": 375
         },
         {
           "name": "Vulture Squadron",
-          "units": "Four Vultures",
+          "units": "Vier Vultures",
           "points": 300,
           "extraUnits": []
         },
         {
           "name": "Storm Trooper Company",
-          "units": "Eight Storm Troopers, one with a Commissar",
+          "units": "Acht Storm Troopers, ein mit einem Commissar",
           "points": 200,
           "extraUnits": [
             "Füge 4 Taurox oder 4 Valkyries hinzu: 150 Punkte"
@@ -216,7 +216,7 @@
       "formations": [
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "extraUnits": [
             "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
           ],
@@ -224,34 +224,34 @@
         },
         {
           "name": "Reaver",
-          "units": "One Reaver Titan",
+          "units": "Ein Reaver Titan",
           "extraUnits": [
           ],
           "points": 600
         },
         {
           "name": "Warlord",
-          "units": "One Warlord Titan",
+          "units": "Ein Warlord Titan",
           "extraUnits": [
           ],
           "points": 750
         },
         {
           "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "units": "Zwei Thunderbolt Fighters",
           "points": 175
         },
         {
           "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "units": "Zwei Marauder Bombers",
           "points": 250
         },
         {
-          "name": "0–1 Orbital Support",
-          "units": "One Lunar Class Cruiser",
+          "name": "0–1 Orbitale Unterstützung",
+          "units": "Ein Lunar Class Cruiser",
           "points": 125,
           "extraUnits": [
-            "Ersetze durch an Emperor Class Battleship: 50 Punkte"
+            "Ersetze durch ein Emperor Class Battleship: 50 Punkte"
           ]
         }
       ]
@@ -265,49 +265,49 @@
         "name": "Fire Support*",
         "description": "Füge 2 oder 4 Fire Support Squads hinzu",
         "points": [
-          "50 points for two",
-          "100 points for four"
+          "50 Punkte für zwei",
+          "100 Punkte für vier"
         ]
       },
       {
         "name": "Flak",
         "description": "Füge 1 Hydra hinzu",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Hellhounds",
         "description": "Füge bis zu 3 Hellhounds hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Infantry*",
         "description": "Füge 6 Infantry hinzu",
-        "points": "75 points"
+        "points": "75 Punkte"
       },
       {
         "name": "Ogryns*",
         "description": "Füge bis zu 2 Ogryns hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Scharfschützes*",
         "description": "Füge bis zu 2 Scharfschützes hinzu",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       },
       {
-        "name": "Leman Russ",
+        "name": "Leman Russ Kampfpanzer",
         "description": "Füge 3 Leman Russ, Leman Russ Punishers, oder Leman Russ Demolishers hinzu",
-        "points": "150 points"
+        "points": "150 Punkte"
       },
       {
         "name": "",
         "description": "* Diese Aufwertungen können Chimeras hinzufügen. Enthält der Verband Chimeras, müssen alle INF im Verband in Chimeras transportiert werden.",
-        "points": "25 points each"
+        "points": "25 Punkte pro Stück"
       }
     ]
   },
   "about": [
-    "v1.0.Beta: The EA-R Steel Legion is based on the NetEA version, but with a number of changes to make the list more flexible and to make more types of builds possible. The most important difference are the reductions in size & price of the Regimental HQ / Mechanized Company / Artillery Company, the introduction of a Mechanized Platoon, and the replacement of the Deathstrike formation with a Deathstrike upgrade for IG artillery formations. There is now a price difference when taking the much more capable Manticores over the Bombard oder Basilisk. The Leman Russ Company has been made slightly cheaper. Commissars have been made an integral part of a specific unit in each Company-type formation.",
-    "Other important changes: Vultures can be taken in formations of three, in order to make the formation more flexible. Valkyries have lost Scout, since having Scout on both transports and the units being transported easily got out of hand. Valkyries has a 1BP Rocket Pod instead of the 2BP Einzelschuss pod to eliminate the need for keeping track on which units had shots left. Rough Riders only have a single attack with FS, but has gained Geländegängig. The Leman Russ Platoon can also take Leman Russ Punishers, and have been reduced in cost. Marauder Bombers have been reduced in price."
+    "v1.0.Beta: Die EA-R Steel Legion basiert auf der NetEA-Version, enthält aber eine Reihe von Änderungen, um die Liste flexibler zu machen und mehr Armeeaufbauten zu ermöglichen. Der wichtigste Unterschied sind die Verkleinerungen und Preissenkungen beim Regimental HQ / der Mechanized Company / der Artillery Company, die Einführung eines Mechanized Platoon sowie der Ersatz des Deathstrike-Verbands durch eine Deathstrike-Aufwertung für IG-Artillerie-Verbände. Es gibt nun einen Preisunterschied, wenn man die deutlich leistungsfähigeren Manticores statt der Bombard oder Basilisk nimmt. Die Leman Russ Company wurde etwas günstiger gemacht. Kommissare sind nun fester Bestandteil einer bestimmten Einheit in jedem Verband vom Typ Company.",
+    "Weitere wichtige Änderungen: Vultures können in Verbänden zu dritt genommen werden, um den Verband flexibler zu machen. Valkyries haben Scout verloren, da Scout sowohl bei Transportern als auch bei den transportierten Einheiten leicht außer Kontrolle geriet. Valkyries haben einen 1-BP-Rocket-Pod statt des 2-BP-Einzelschuss-Pods, damit nicht mehr nachgehalten werden muss, welche Einheiten noch Schüsse übrig haben. Rough Riders haben nur einen einzelnen Angriff mit FS, haben aber Geländegängig erhalten. Der Leman Russ Platoon kann auch Leman Russ Punishers nehmen und wurde im Preis gesenkt. Marauder Bombers wurden im Preis gesenkt."
   ]
 }

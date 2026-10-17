@@ -12,17 +12,17 @@
     "They Shall Know No Fear"
   ],
   "usage": [
-    "The following army list..."
+    "Die folgende Armeeliste ..."
   ],
   "units": [
     {
       "from": "SM.json",
       "units": [
         "Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assault Intercessor",
+        "Sturm-Intercessor",
         "Intercessor",
         "Inceptor",
         "Hellblaster",
@@ -34,16 +34,16 @@
         "Infiltratoren",
         "Eradicator",
         "Invader",
-        "Invictor Warsuit",
-        "Redemptor Dreadnought",
+        "Invictor-Kampfanzug",
+        "Redemptor-Cybot",
         "Impulsor",
         "Repulsor",
-        "Gladiator, Lancer",
-        "Gladiator, Reaper",
-        "Gladiator, Valiant",
-        "Storm Speeder, Thunderstrike",
-        "Storm Speeder, Hammerstrike",
-        "Storm Talons",
+        "Gladiator-Lancer",
+        "Gladiator-Reaper",
+        "Gladiator-Valiant",
+        "Storm Speeder Thunderstrike",
+        "Storm Speeder Hammerstrike",
+        "Storm Talon",
         "Astraeus"
       ],
       "unitRules": [
@@ -59,7 +59,7 @@
       "formations": [
         {
           "name": "Battle Line Squad",
-          "units": "Four Intercessors, Assault Intercessors oder Hellblasters",
+          "units": "Vier Intercessors, Assault Intercessors oder Hellblasters",
           "extraUnits": [
             "Close Support",
             "Befehlshaber",
@@ -75,7 +75,7 @@
       "formations": [
         {
           "name": "Inceptor Squad",
-          "units": "Four Inceptors",
+          "units": "Vier Inceptors",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -83,7 +83,7 @@
         },
         {
           "name": "Suppressor Squad",
-          "units": "Four Suppressors",
+          "units": "Vier Suppressors",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -91,7 +91,7 @@
         },
         {
           "name": "Reiver Squad",
-          "units": "Four Reivers",
+          "units": "Vier Reivers",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -99,7 +99,7 @@
         },
         {
           "name": "Infiltratoren Squad",
-          "units": "Four Infiltratorens",
+          "units": "Vier Infiltratorens",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -112,7 +112,7 @@
       "formations": [
         {
           "name": "Fire Support Squad",
-          "units": "Three Aggressors oder three Eradicators",
+          "units": "Drei Aggressors oder drei Eradicators",
           "extraUnits": [
             "Close Support",
             "Befehlshaber",
@@ -123,7 +123,7 @@
         },
         {
           "name": "Eliminator Squad",
-          "units": "Four Eliminators",
+          "units": "Vier Eliminators",
           "extraUnits": [
             "Transports"
           ],
@@ -131,7 +131,7 @@
         },
         {
           "name": "Outrider Squad",
-          "units": "Four Outriders",
+          "units": "Vier Outriders",
           "extraUnits": [
             "Befehlshaber",
             "Füge 2 Invaders hinzu: 75 Punkte"
@@ -140,14 +140,14 @@
         },
         {
           "name": "Storm Speeders",
-          "units": "Three Storm Speeders, Hammerstrike oder Thunderstrike configuration",
+          "units": "Drei Storm Speeders, Hammerstrike oder Thunderstrike configuration",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Gladiators",
-          "units": "Four Gladiators, Lancer oder Reaper configuration",
+          "units": "Vier Gladiators, Lancer oder Reaper configuration",
           "extraUnits": [
           ],
           "points": 250
@@ -160,12 +160,12 @@
       "formations": [
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Astraeus",
-          "units": "One Astraeus Super Heavy Tank",
+          "units": "Ein Astraeus Super Heavy Tank",
           "points": 425
         }
       ]
@@ -178,7 +178,7 @@
       {
         "name": "Close Support",
         "description": "Füge bis zu 2 Gladiator Valiants hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Befehlshaber",
@@ -186,29 +186,29 @@
         "options": [
           {
             "description": "Captain, Librarian",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
-            "points": "50 points"
+            "description": "Ordenspriester",
+            "points": "50 Punkte"
           },
           {
             "description": "0–1 Oberbefehlshaber",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Transports",
-        "description": "Füge beliebig viele Impulsors oder Repulsors, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
+        "description": "Füge beliebig viele Impulsors oder Repulsors hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
         "options": [
           {
             "description": "Repulsors",
-            "points": "75 points each"
+            "points": "75 Punkte pro Stück"
           },
           {
             "description": "Impulsors",
-            "points": "25 points each"
+            "points": "25 Punkte pro Stück"
           }
         ]
       },
@@ -218,11 +218,11 @@
         "options": [
           {
             "description": "Füge bis zu 2 Redemptor Dreadnoughts hinzu",
-            "points": "75 points each"
+            "points": "75 Punkte pro Stück"
           },
           {
             "description": "Füge bis zu 2 Invictor Warsuits hinzu",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           }
         ]
       }

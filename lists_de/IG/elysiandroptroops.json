@@ -1,6 +1,6 @@
-{
+﻿{
   "fraction": "Astra Militarum",
-  "army": "Elysian Drop Troops",
+  "army": "Elysianische Luftlandetruppen",
   "version": "1.0.Beta",
   "release": "2023-07-02",
   "armyforge": "EAR_ImperialGuard_Elysian",
@@ -16,17 +16,17 @@
     {
       "from": "IG.json",
       "units": [
-        "Elysian Oberbefehlshaber",
-        "Elysian Befehlshaber",
-        "Commissar",
-        "Elysian Drop Troops",
-        "Elysian Fire Support Squad",
-        "Elysian Mortar Squad",
+        "Elysianischer Oberbefehlshaber",
+        "Elysianischer Befehlshaber",
+        "Kommissar",
+        "Elysianische Luftlandetruppen",
+        "Elysianischer Feuerunterstützungstrupp",
+        "Elysianischer Mörsertrupp",
         "Rapier",
-        "Elysian Storm Troopers",
-        "Armoured Sentinel",
-        "Drop Sentinel",
-        "Support Sentinel",
+        "Elysianische Stoßtruppen",
+        "Gepanzerter Sentinel",
+        "Abwurf-Sentinel",
+        "Unterstützungs-Sentinel",
         "Sentinel",
         "Tauros",
         "Tauros Venator",
@@ -45,7 +45,7 @@
         "Tarantula"
       ],
       "unitRules": [
-        "Machine Spirit"
+        "Maschinengeist"
       ]
     },
     {
@@ -67,8 +67,8 @@
       "name": "Elysian Kernverbände",
       "formations": [
         {
-          "name": "0-1 Regimental HQ",
-          "units": "One Elysian Oberbefehlshaber with a Commissar and seven Elysian Drop Troops plus transport.",
+          "name": "0–1 Regimental HQ",
+          "units": "Ein Elysian Oberbefehlshaber mit einem Commissar und sieben Elysian Drop Troops plus Transporter.",
           "extraUnits": [
             "Drop Sentinels",
             "Fire Support",
@@ -78,7 +78,7 @@
         },
         {
           "name": "Drop Troop Company",
-          "units": "One Elysian Befehlshaber with a Commissar and seven Elysian Drop Troops plus transport.",
+          "units": "Ein Elysian Befehlshaber mit einem Commissar und sieben Elysian Drop Troops plus Transporter.",
           "extraUnits": [
             "Drop Sentinels",
             "Fire Support",
@@ -94,7 +94,7 @@
       "formations": [
         {
           "name": "Drop Sentinel Squadron",
-          "units": "Six Drop Sentinels",
+          "units": "Sechs Drop Sentinels",
           "extraUnits": [
             "Füge 3 Sky Talons hinzu: 75 Punkte"
           ],
@@ -102,26 +102,26 @@
         },
         {
           "name": "Sentinel Squadron",
-          "units": "Four Sentinels",
+          "units": "Vier Sentinels",
           "extraUnits": [
-            "Ersetze all Sentinels durch Armoured Sentinels: 25 Punkte",
-            "Ersetze all Sentinels durch Support Sentinels: 50 Punkte"
+            "Ersetze alle Sentinels durch Armoured Sentinels: 25 Punkte",
+            "Ersetze alle Sentinels durch Support Sentinels: 50 Punkte"
           ],
           "points": 100
         },
         {
           "name": "Storm Trooper Company",
-          "units": "Eight Elysian Storm Troopers, one with a Commissar, plus transport.",
+          "units": "Acht Elysian Storm Troopers, ein mit einem Commissar, plus Transporter.",
           "points": 350
         },
         {
           "name": "Support Platoon",
-          "units": "Four Rapiers oder four Elysian Mortar Squads plus transport",
+          "units": "Vier Rapiers oder vier Elysian Mortar Squads plus Transporter",
           "points": 225
         },
         {
           "name": "Tauros Venator Squadron",
-          "units": "Four Tauros Venators",
+          "units": "Vier Tauros Venators",
           "extraUnits": [
             "Füge bis zu 2 Tauros Venators hinzu: 25 Punkte pro Stück"
           ],
@@ -129,12 +129,12 @@
         },
         {
           "name": "Tauros Recon Squadron",
-          "units": "Four Tauros",
+          "units": "Vier Tauros",
           "points": 150
         },
         {
           "name": "Vulture Squadron",
-          "units": "Four Vultures",
+          "units": "Vier Vultures",
           "points": 300
         }
       ]
@@ -145,35 +145,35 @@
       "formations": [
         {
           "name": "Tarantula",
-          "units": "Four Tarantulas",
+          "units": "Vier Tarantulas",
           "points": 125
         },
         {
           "name": "Lightning Squadron",
-          "units": "Two Lightning Interceptors",
+          "units": "Zwei Lightning Interceptors",
           "points": 150
         },
         {
           "name": "Marauder Destroyer",
-          "units": "One Marauder Destroyer",
+          "units": "Ein Marauder Destroyer",
           "points": 175
         },
         {
           "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "units": "Zwei Marauder Bombers",
           "points": 250
         },
         {
           "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "units": "Zwei Thunderbolt Fighters",
           "points": 175
         },
         {
-          "name": "0–1 Orbital Support",
-          "units": "One Lunar Class Cruiser",
+          "name": "0–1 Orbitale Unterstützung",
+          "units": "Ein Lunar Class Cruiser",
           "points": 150,
           "extraUnits": [
-            "Ersetze den Lunar Class Cruiser durch an Emperor Class Battleship: 25 Punkte"
+            "Ersetze den Lunar Class Cruiser durch ein Emperor Class Battleship: 25 Punkte"
           ]
         }
       ]
@@ -186,17 +186,17 @@
       {
         "name": "Drop Sentinels",
         "description": "Ersetze 2 Elysian Drop Troops durch 2 Drop Sentinels und 1 Sky Talon",
-        "points": "Free"
+        "points": "kostenlos"
       },
       {
-        "name": "Fire Support",
+        "name": "Feuerunterstützung",
         "description": "Ersetze 2 Elysian Drop Troops durch 2 Elysian Fire Support Squads",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Infantry Platoon",
         "description": "Füge 2 Elysian Drop Troops hinzu",
-        "points": "75 points"
+        "points": "75 Punkte"
       }
     ]
   }

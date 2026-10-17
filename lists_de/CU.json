@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Tribune",
+        "name": "Tribun",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -16,7 +16,7 @@
         ]
       },
       {
-        "name": "Captain General",
+        "name": "Generalkommandant",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "name": "Oblivion Kinght Centura",
+        "name": "Centura der Oblivion Knights",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -51,7 +51,7 @@
         "notes": "Verstärkte Panzerung"
       },
       {
-        "name": "Guardian",
+        "name": "Custodesgardist",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -63,7 +63,7 @@
         "notes": "Verstärkte Panzerung"
       },
       {
-        "name": "Sentinel Guard",
+        "name": "Sentinel-Wächter",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -75,7 +75,7 @@
         "notes": "Verstärkte Panzerung"
       },
       {
-        "name": "Warden",
+        "name": "Custodeshüter",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -107,7 +107,7 @@
         ]
       },
       {
-        "name": "Aquilon Terminator",
+        "name": "Aquilon-Terminator",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -122,11 +122,11 @@
           "Unmodifizierter Rettungswurf",
           "Teleport",
           "Verstärkte Heckpanzerung",
-          "Terminator Aquilon are considered terminators for the purpose of being transported."
+          "Terminator Aquilon zählen für den Transport als Terminators."
         ]
       },
       {
-        "name": "Sister of Silence",
+        "name": "Schwester der Stille",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -158,7 +158,7 @@
         ]
       },
       {
-        "name": "Contemptor Dreadnought Achilles",
+        "name": "Achilles-Contemptor-Dreadnought",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -173,11 +173,11 @@
           "Teleport",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported."
+          "Contemptor Dreadnought Achilles zählen für den Transport als Dreadnoughts."
         ]
       },
       {
-        "name": "Telemon Heavy Dreadnought",
+        "name": "Schwerer Telemon-Dreadnought",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -192,11 +192,11 @@
           "Teleport",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported."
+          "Contemptor Dreadnought Achilles zählen für den Transport als Dreadnoughts."
         ]
       },
       {
-        "name": "Pallas",
+        "name": "Antigravschweber Pallas",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -212,7 +212,7 @@
         "notes": ""
       },
       {
-        "name": "Caladius",
+        "name": "Caladius-Antigravpanzer",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -246,7 +246,7 @@
         "notes": "Kann eine Terminatoreinheit oder zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Custodian Land Raider",
+        "name": "Custodes-Land-Raider",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -264,7 +264,7 @@
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Null-Maiden Rhino",
+        "name": "Rhino der Schwestern der Stille",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -280,7 +280,7 @@
         "notes": "Kann zwei Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Null-Maiden Hunter",
+        "name": "Jäger der Schwestern der Stille",
         "type": "AV",
         "speed": 30,
         "armour": 4,
@@ -294,7 +294,7 @@
         ]
       },
       {
-        "name": "Orion Assault Ship",
+        "name": "Orion-Angriffsschiff",
         "type": "AC/WE",
         "speed": "Bomber",
         "armour": 4,
@@ -306,7 +306,7 @@
           "AC-Spiculus-Schwerbolterwerfer|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität2",
           "Planetfall",
           "Verstärkte Panzerung",
           "Transport"

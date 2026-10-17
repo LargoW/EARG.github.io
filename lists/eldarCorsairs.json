@@ -77,7 +77,7 @@
         "ff": 5,
         "weapons": [
           "Splinter Cannon",
-          "Twin Splinter Rifle"
+          "Zwillings Splinter Rifle"
         ],
         "specialRules": [
           "Antigrav",
@@ -91,7 +91,7 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Twin Shuriken Cannon",
+          "AC Zwillings Shuriken Cannon",
           "AC Bright Lanze|2"
         ],
         "specialRules": [

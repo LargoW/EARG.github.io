@@ -1,4 +1,4 @@
-{
+﻿{
   "fraction": "Space Marines",
   "army": "White Scars",
   "version": "1.0.beta",
@@ -16,20 +16,20 @@
     {
       "from": "SM.json",
       "units": [
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assaults",
-        "Tacticals",
-        "Terminators",
-        "White Scars Assault Bikes",
-        "White Scars Scout Bikes",
-        "White Scars Land Speeder",
-        "White Scars Land Speeder Tornado",
-        "White Scars Land Speeder Typhoon",
-        "White Scars Land Speeder Tempest",
-        "White Scars Attack Bike",
-        "White Scars Melta Bike",
+        "Sturmtrupps",
+        "Taktische Trupps",
+        "Terminatoren",
+        "White-Scars-Sturmbikes",
+        "White-Scars-Scoutbikes",
+        "White-Scars-Land-Speeder",
+        "White-Scars-Land-Speeder-Tornado",
+        "White-Scars-Land-Speeder-Typhoon",
+        "White-Scars-Land-Speeder-Tempest",
+        "White-Scars-Trike",
+        "White-Scars-Melta-Bike",
         "Hunter",
         "Land Raider",
         "Land Raider Crusader",
@@ -37,13 +37,13 @@
         "Rhino",
         "Stalker",
         "Whirlwind",
-        "White Scars Vindicator",
+        "White-Scars-Vindicator",
         "Landing Craft",
         "Storm Talon",
         "Thunderhawk",
-        "Battle Barge",
-        "Strike Cruiser",
-        "Drop Pod"
+        "Schlachtbarke",
+        "Angriffskreuzer",
+        "Landungskapsel"
       ],
       "unitRules": [
         "Born in the Saddle",
@@ -66,7 +66,7 @@
       "formations": [
         {
           "name": "Bikes",
-          "units": "Eight White Scars Assault Bikes",
+          "units": "Acht White Scars Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
             "Befehlshaber"
@@ -74,8 +74,8 @@
           "points": 325
         },
         {
-          "name": "Tacticals",
-          "units": "Six Tacticals plus transport",
+          "name": "Taktische Trupps",
+          "units": "Sechs Tacticals plus Transporter",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -85,8 +85,8 @@
           "points": 275
         },
         {
-          "name": "Terminators",
-          "units": "Four Terminators, two Land Raider Crusaders",
+          "name": "Terminatoren",
+          "units": "Vier Terminators, zwei Land Raider Crusaders",
           "extraUnits": [
             "Ersetze bis zu 2 Land Raider Crusaders durch 2 Land Raiders je: 50 Punkte pro Stück",
             "Anti-Air",
@@ -102,8 +102,8 @@
       "description": "Pro Kernkontingent dürfen zwei Unterstützungskontingente aufgestellt werden",
       "formations": [
         {
-          "name": "Assaults",
-          "units": "Four Assaults",
+          "name": "Sturmtrupps",
+          "units": "Vier Assaults",
           "extraUnits": [
             "Befehlshaber",
             "Vindicators"
@@ -112,7 +112,7 @@
         },
         {
           "name": "Land Speeder",
-          "units": "Any five of the following units: White Scars Land Speeder, White Scars Land Speeder Tornado",
+          "units": "Beliebige fünf der folgenden Einheiten: White Scars Land Speeder, White Scars Land Speeder Tornado",
           "extraUnits": [
             "Land Speeder Variants"
           ],
@@ -120,7 +120,7 @@
         },
         {
           "name": "Scout Bikes",
-          "units": "Five White Scars Scout Bikes",
+          "units": "Fünf White Scars Scout Bikes",
           "extraUnits": [
             "Attack Bikes"
           ],
@@ -128,7 +128,7 @@
         },
         {
           "name": "Vindicators",
-          "units": "Four White Scars Vindicators",
+          "units": "Vier White Scars Vindicators",
           "extraUnits": [
             "Anti-Air",
             "Vindicators"
@@ -137,7 +137,7 @@
         },
         {
           "name": "Whirlwinds",
-          "units": "Three Whirlwinds",
+          "units": "Drei Whirlwinds",
           "extraUnits": [
             "Füge 1 Whirlwind hinzu: 50 Punkte",
             "Anti-Air"
@@ -152,30 +152,30 @@
       "formations": [
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Thunderhawk",
-          "units": "One Thunderhawk",
+          "units": "Ein Thunderhawk",
           "points": 225
         },
         {
-          "name": "Landing Craft",
-          "units": "One Landing Craft",
+          "name": "Landungsschiff",
+          "units": "Ein Landing Craft",
           "points": 325
         },
         {
-          "name": "0-1 Orbital Support",
-          "units": "One Strike Cruiser",
+          "name": "0–1 Orbitale Unterstützung",
+          "units": "Ein Strike Cruiser",
           "extraUnits": [
-            "Battle Barge"
+            "Schlachtbarke"
           ],
           "points": 200
         },
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "extraUnits": [
             "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
           ],
@@ -194,23 +194,23 @@
         "options": [
           {
             "description": "Füge 1 Hunter hinzu",
-            "points": "75 points"
+            "points": "75 Punkte"
           },
           {
             "description": "Füge 1 Stalker hinzu",
-            "points": "50 points"
+            "points": "50 Punkte"
           }
         ]
       },
       {
         "name": "Attack Bikes",
         "description": "Ersetze bis zu 3 White Scars Assault Bikes, oder 1 White Scars Scout Bikes, durch dieselbe Anzahl an White Scars Attack oder Melta Bikes",
-        "points": "Free"
+        "points": "kostenlos"
       },
       {
-        "name": "Battle Barge",
-        "description": "Ersetze den Strike Cruiser durch a Battle Barge",
-        "points": "75 points"
+        "name": "Schlachtbarke",
+        "description": "Ersetze den Strike Cruiser durch einen Battle Barge",
+        "points": "75 Punkte"
       },
       {
         "name": "Befehlshaber",
@@ -218,38 +218,38 @@
         "options": [
           {
             "description": "Captain",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
-            "description": "Librarian",
-            "points": "25 points"
+            "description": "Scriptor",
+            "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
-            "points": "50 points"
+            "description": "Ordenspriester",
+            "points": "50 Punkte"
           },
           {
             "description": "0–1 Oberbefehlshaber",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Land Speeder Variants",
         "description": "Ersetze beliebig viele White Scars Land Speeders durch dieselbe Anzahl an White Scars Land Speeder Typhoons oder White Scars Land Speeder Tempest",
-        "points": "10 points each"
+        "points": "10 Punkte pro Stück"
       },
       {
         "name": "Razorbacks",
-        "description": "Füge beliebig viele Razorbacks, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
-        "points": "25 points each"
+        "description": "Füge beliebig viele Razorbacks hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Vindicators",
         "description": "Füge bis zu 2 White Scars Vindicators hinzu",
         "points": [
-          "50 points for one",
-          "75 points for two"
+          "50 Punkte für einen",
+          "75 Punkte für zwei"
         ]
       }
     ]

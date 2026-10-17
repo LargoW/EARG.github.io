@@ -118,7 +118,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Pulse Carbine"
+          "Zwillings Pulse Carbine"
         ],
         "specialRules": [
           "Tau Jet Packs"
@@ -175,9 +175,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Missile Pod",
-          "Twin Plasma Rifle",
-          "Twin Fusion Blaster"
+          "Zwillings Missile Pod",
+          "Zwillings Plasma Rifle",
+          "Zwillings Fusion Blaster"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -192,8 +192,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Plasma Rifle",
-          "Twin Fusion Blaster"
+          "Zwillings Plasma Rifle",
+          "Zwillings Fusion Blaster"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -402,7 +402,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Light Railgun",
+          "Zwillings Light Railgun",
           "Smart Missile System"
         ],
         "specialRules": [
@@ -467,7 +467,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Light Railgun"
+          "Zwillings Light Railgun"
         ],
         "specialRules": [
           "Antigrav",
@@ -483,7 +483,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Missile Pod|2|",
+          "Zwillings Missile Pod|2|",
           "Smart Missile System",
           "Seeker Missiles"
         ],
@@ -535,7 +535,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Fusion Cannon",
+          "Zwillings Fusion Cannon",
           "Smart Missile System",
           "Seeker Missiles"
         ],
@@ -584,7 +584,7 @@
         "ff": 5,
         "weapons": [
           "Ion Accelerator",
-          "Twin Smart Missile System",
+          "Zwillings Smart Missile System",
           "Velocity Tracker"
         ],
         "specialRules": [
@@ -625,7 +625,7 @@
           "Velocity Tracker",
           ">Support Configuration<",
           "Pulse Blastcannon||FwA",
-          "Twin Smart Missile System|2|",
+          "Zwillings Smart Missile System|2|",
           "Velocity Tracker"
         ],
         "specialRules": [
@@ -644,8 +644,8 @@
         "ff": 5,
         "weapons": [
           "Tri-axis Ion Cannon|2|FwA",
-          "Twin Burst Cannon|2|",
-          "Twin Smart Missile System|2|",
+          "Zwillings Burst Cannon|2|",
+          "Zwillings Smart Missile System|2|",
           "Nexus Missile Array|0-1|",
           "Heavy Railcannon|0-1|FwA",
           "Pulse Ordnance Multi-Driver|0-1|FwA"
@@ -666,11 +666,11 @@
         "armour": 5,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Railcannon||FxF",
+          "Schweres Zwillings Railcannon||FxF",
           "Heavy Ion Phalanx||FxF",
-          "Twin Missile Pod",
+          "Zwillings Missile Pod",
           "Seeker Missiles|2|",
-          "Twin Burst Cannon|4|"
+          "Zwillings Burst Cannon|4|"
         ],
         "specialRules": [
           "Damage Capacity: 6",

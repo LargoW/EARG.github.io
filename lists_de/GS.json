@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "name": "Genestealer-Streitkräfte",
     "specialRules": [
@@ -138,7 +138,7 @@
         ]
       },
       {
-        "name": "Genestealers",
+        "name": "Symbionten",
         "type": "INF",
         "speed": 20,
         "armour": 6,
@@ -167,7 +167,7 @@
         ]
       },
       {
-        "name": "Lictor",
+        "name": "Liktor",
         "type": "LV",
         "speed": 15,
         "armour": 5,
@@ -193,7 +193,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer Stubber"
+          "Zwillings-Schwerer Maschinengewehr"
         ],
         "specialRules": [
           "Transport"
@@ -208,7 +208,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Schwerer-Stubber-Turm"
+          "Zwillings-Schwerer-Maschinengewehr-Turm"
         ],
         "specialRules": [
         ]
@@ -418,7 +418,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Schwerer Stubber"
+          "Schwerer Maschinengewehr"
         ],
         "specialRules": [
           "Brood Brothers",
@@ -441,10 +441,10 @@
           "Zwillings-Schwere Bolter|3|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
         "name": "Cult Stormblade",
@@ -459,10 +459,10 @@
           "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
         "name": "Cult Shadowsword",
@@ -476,10 +476,10 @@
           "Zwillings-Schwere Bolter|2|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       }
     ]
   }

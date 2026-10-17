@@ -18,7 +18,7 @@
       "units": [
         "Lord Seneschal",
         "Seneschal",
-        "Twin Icarus Autocannon",
+        "Zwillings Icarus Autocannon",
         "Dominus Knight-Castellan",
         "Dominus Knight-Valiant",
         "Questoris Knight-Paladin",
@@ -76,7 +76,7 @@
           "units": "Two Questoris Knight-Paladins, Crusaders, Errants, Wardens oder Gallants. May not mix configurations",
           "extraUnits": [
             "Add one Questoris Knight of the same configuration: 125 points",
-            "Add one Twin Icarus Autocannon to each Questoris Knight in a formation with Knight-Paladins, Crusaders oder Errants: 25 points",
+            "Add one Zwillings Icarus Autocannon to each Questoris Knight in a formation with Knight-Paladins, Crusaders oder Errants: 25 points",
             "Seneschal",
             "Lord Seneschal"
           ],

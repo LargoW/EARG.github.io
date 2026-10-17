@@ -1,0 +1,294 @@
+﻿0-1 Chaos Cruiser
+0-1 Gate of Vaul
+0–1 Necron Tomb Complex
+0-1 Nexus Spawn Swarm
+0-1 Nexus Swarm
+0-1 Orbital Support
+0–1 Orbital Support
+0-1 Ordo Xenos Inquisitor Task Force
+0-1 Spacecraft
+0–1 Spacecraft
+0-1 Strike Cruiser
+0-1 Tower of Skulls
+0-1 Warpship of Tzeentch
+1 Chaos Gate
+1 Dark Hunter
+1 Death Company
+1 Nexus Brood
+1 Orbital Support
+1 Swordwing Support
+Acolyte Coven
+Adeptus-Custodes-Elite-Detachments
+Armigers of Chaos Undivided
+Armour of Vaul
+Armoured Company
+Armoured Sentinel Squadron
+Artillery Battery
+Artillery Company
+Artillery Emplacement
+Assault Company
+Assault Swarm
+Attack Company
+Avenger Squadron
+AX-1-0s Squadron
+Bad Moons Big Mob Gargants
+Bad Moons Big Mob Mobs
+Bad Moons Warband
+Ballistae Cohort
+Barracuda Squadron
+Battle Line Squad
+Battle Titan Verbände
+Battle-Titan-Formationen
+Bike Company
+Biker Brood
+Black Legion Retinue
+Blood Axe Warband
+Blood Claw Assault Pack
+Boarboyz Horde
+Breacher Swarm
+Caladius Armour
+Cannons of Khorne
+Canoptek Swarm
+Catachan Company
+Catachan Sentinel Squadron
+Catachan Super-Heavy Platoon
+Cerberites of Chaos Undivided
+Chaos Space Marines of Chaos Undivided
+Contagion Engines of Nurgle
+Corsair Vampire Hunter
+Corsairs Fire Support (0–1 pro Raubzug-Trupp)
+Coven-Ambush-Formationen
+Coven-Vanguard-Formationen
+Cult Basilisk Battery
+Cult Company
+Cult Flak Battery
+Cult Leman Russ Platoon
+Cult Mechanized Platoon
+Cult Super-Heavy Platoon
+Cultist Coven
+Cultist Coven Verbände
+Cultist Host
+Cult-Kernformationen
+Cult-Unterstützungsformationen
+Custodes Guardian Squad
+Daemonic Assault Engines
+Daemonic Assault Engines of Khorne
+Death Guard Eliteverbände
+Death Guard Kernverbände
+Death Guard Retinue
+Death Guard Terminators
+Death Guard Unterstützungsverbände
+Death Rider Company
+Death Wheel of Chaos Undivided
+Deathwatch Attack
+Deathwatch Kill-Team
+Deathwatch-Drop-Detachments
+Deathwing Strike
+Debasers of Slaanesh
+Decievers of Tzeentch
+Decimator of Chaos Undivided
+Defiler Pack
+Defilers of Chaos Undivided
+Defilers of Tzeentch
+Desecrators of Nurgle
+Devil Dog Squadron
+Disc Riders
+Doomwings of Tzeentch
+Dreadnaught Wing
+Dreadnought Assault Pack
+Drone Group
+Drop Sentinel Squadron
+Drop Troop Company
+Eliminator Squad
+Elite-Formationen
+Emperor's Children Retinue
+Engine of Vaul
+Engines of Vaul
+Engines of Vaul Troupe
+Evil Sunz Fortress Mob
+Evil Sunz Kult of Speed
+Evil Sunz Warband
+Exalted Greater Daemon of Khorne
+Exalted Greater Daemon of Nurgle
+Exalted Greater Daemon of Slaanesh
+Exalted Greater Daemon of Tzeentch
+Fire Support Squad
+Fire Warrior Strike Cadre
+Fire Warrior Strike Group
+Firelords of Tzeentch
+Forgefiends of Chaos Undivided
+Genestealer Brood
+Genestealer Swarm
+Goffs Warband
+Greater Daemon Pool
+Grenadier Company
+Gyrokopter Squadron
+Haemonculi Coven
+Hammerhead Group
+Harasser Swarm
+Harlequin Support
+Harridan Swarm
+Heavy Battlesuit Cadre
+Heavy Siege Engine
+Heavy Siege Tanks
+Heavy Tank Platoon
+Heavy Wraithguard
+Heldrakes of Chaos Undivided
+Hell Blade Squadron
+Hell Talon Squadron
+Hellhound Platoon
+Hellhound Squadron
+Hell-Knights of Slaanesh
+Hell-Scourges of Slaanesh
+Hell-Striders of Slaanesh
+Hunters of Vaul
+Hunting Pack
+Hybrid Brood
+Inceptor Squad
+Infantry Company
+Infantry Phalanx
+Infestation Swarm
+Infiltratoren Squad
+Infiltratoren Swarm
+Iron Warriors Armoured Company
+Iron Warriors Artillery Battery
+Iron Warriors Retinue
+Juggernaut Riders
+Kasrkin Platoon
+Khorne Daemonic Assault Engines
+Khorne Defiler Pack
+Khorne Lord of Battles
+Knight-Desecrators of Nurgle
+Knight-Despoilers of Tzeentch
+Knight-Rampagers of Khorne
+Knight-Renegades of Chaos Undivided
+Knight-Tyrant of Chaos Undivided
+Kult of Speed
+KX139 Supremacy Armour
+Landing Craft
+Leman Russ Company
+Leman Russ Platoon
+Leman Russ Squadron
+Lesser Daemon Pool
+Lictor Swarm
+Light Artillery Battery
+Light Artillery Emplacement
+Lightning Squadron
+Lobba Mob
+Long Fang Pack
+Lord of Battles
+Macharius Company
+Madboyz Mob
+Marauder Squadron
+Maulerfiends of Chaos Undivided
+Mechanized Infantry Company
+Mechanized Infantry Platoon
+Mechanized Neophyte Platoon
+Metamorph Brood
+Minervan Super-Heavy Company
+Minervan Tank Company
+Minoris Cohort
+Neophyte Company
+Nest Swarm
+Night Raptor Company
+Night Shroud Bomber
+Nurgle Defiler Pack
+Orion Assault Ship
+Outrider Squad
+Pathfinder Group
+Plague Reaper of Nurgle
+Plague Tower of Nurgle
+Planetary Defense Platoon
+Portal Phalanx
+Pox Walker Infestation
+Pox Walkers of Nurgle
+Questors of Slaanesh
+Ranger Cohort
+Raptor Cult
+Ravenwing Attack
+Ravenwing Support
+Razorshark Squadron
+Reaver Gang
+Recon Antigrav Group
+Recon Brood
+Reiver Squad
+Rough Rider Platoon
+Saedaths der Masque of the Veiled Path
+Salamander Squadron
+Sapper Company
+Sautekh Dynasty Unterstützungsformationen
+Scharfschütze Platoon
+Scourge Flight
+Secutarii Titan Guard
+Sentinel Squadron
+Shock Assault Coven
+Shock Trooper Company
+Siege Artillery Emplacement
+Siege Infantry Company
+Siege Recon Squadron
+Silver Towers of Tzeentch
+Sky Claw Assault Pack
+Skysweep Support Group
+Slaneesh Legion of Excess
+Slaughterfiends of Khorne
+Slaves to Darkness Chaos Verbündete
+Slaves to Darkness Kernverbände
+Slaves to Darkness Unterstützungsverbände
+Snakebites Warband
+Space Wolf Elite-Packs
+Spirit Guard Wraithhost
+Stealth Group
+Sternguard Veteran
+Storm Trooper Company
+Strike Squads
+Subjugators of Slaanesh
+Sunshark Bomber
+Super-Heavy Company
+Super-Heavy Platoon
+Support Company
+Support Platoon
+Suppressor Squad
+Swift Claw Bikes Pack
+Swords of Vaul
+Talos Swarm
+Tank Hunter Squadron
+Tauros Recon Squadron
+Tauros Venator Squadron
+Terminator Company
+Terror Company
+Tervigon Spawn Swarm
+Thousand Sons Retinue
+Thunderbolt Brood
+Thunderbolt Squadron
+Tiger Shark Squadron
+Traitor Guard
+Trappas Mob
+Tyrant Swarm
+Tzaangor Host
+Valhallan Infantry Company
+Vampire Hunter
+Vanguard Veteran
+Venatari Wing
+Vessel of Pain
+Veteran Company
+Vulture Squadron
+War Walker Troupe
+Warden Wing
+Warhound Pack
+Warp Hunter Troupe
+Warp Palace of Tzeentch
+Warp Talon Cult
+Whiteshield Company
+Whiteshield Platoon
+Wildboyz Mob
+Wind Rider Troupe
+Wind Rider Troupe 
+Wolf Guard Terminator Pack
+Wolf Scout Pack
+Word Bearers Retinue
+World Eaters Retinue
+Xiphon Squadron
+XV15 Stealth Group
+XV25 Stealth Group
+XV88 Broadside Group
+XV9 Hazard Close Support Group

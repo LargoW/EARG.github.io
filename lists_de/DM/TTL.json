@@ -15,22 +15,22 @@
     {
       "from": "traitortitanlegions.json",
       "units": [
-        "Vicebringer Titan",
-        "Gloombringer Titan",
-        "Strifebringer Titan",
-        "Changebringer Titan",
-        "Painlord Titan",
-        "Plaguelord Titan",
-        "Banelord Titan",
-        "Warplord Titan",
-        "Reviler Titan",
-        "Repugnant Titan",
-        "Ravager Titan",
-        "Mutator Titan",
-        "Plaguehound",
-        "Bloodhound",
-        "Warphound",
-        "Chaos Warhound"
+        "Lasterbringer-Titan",
+        "Finsternisbringer-Titan",
+        "Zwistbringer-Titan",
+        "Wandelbringer-Titan",
+        "Schmerzensfürst-Titan",
+        "Seuchenfürst-Titan",
+        "Verderbensfürst-Titan",
+        "Warp-Fürst-Titan",
+        "Reviler-Titan",
+        "Abscheulicher Titan",
+        "Verwüster-Titan",
+        "Mutator-Titan",
+        "Seuchenhund",
+        "Bluthund",
+        "Warp-Hound",
+        "Chaos-Warhound"
       ],
       "unitRules": [
         "Null Schilde",
@@ -42,18 +42,18 @@
     {
       "from": "darkmechanicus.json",
       "units": [
-        "Cerberite",
-        "Maulerfiend",
-        "Forgefiend",
+        "Cerberit",
+        "Schlächterbestie",
+        "Schmiedebestie",
         "Questor",
-        "Subjugator",
-        "Debaser",
-        "Desecrator",
-        "Slaughterfiend",
-        "Deciever",
-        "Defiler",
-        "Hellwright",
-        "Chaos Squats",
+        "Unterwerfer",
+        "Entwürdiger",
+        "Schänder",
+        "Schlachtbestie",
+        "Täuscher",
+        "Geißel",
+        "Höllenschmied",
+        "Chaoszwerge",
         "Chaos Rhino"
       ],
       "unitRules": [
@@ -77,14 +77,14 @@
       "description": "Die Armee darf keine Formationen des Nurgle und Tzeentch oder des Slaanesh und Khorne miteinander kombinieren.",
       "formations": [
         {
-          "name": "0-1 Chaos Emperor Titan",
+          "name": "0–1 Chaos Emperor Titan",
           "units": "Ein Chaos Emperor Titan*",
           "extraUnits": [
             "Eye of the Gods",
             "Heralds of Chaos"
           ],
           "points": 900,
-          "notes": "* Choose one: Vicebringer Titan of Slaanesh, Gloombringer Titan of Nurgle, Strifebringer Titan of Khorne, oder Changebringer Titan of Tzeentch"
+          "notes": "* Wähle eines: Vicebringer Titan of Slaanesh, Gloombringer Titan of Nurgle, Strifebringer Titan of Khorne oder Changebringer Titan of Tzeentch"
         },
         {
           "name": "Chaos Warlord Titan",
@@ -94,7 +94,7 @@
             "Heralds of Chaos"
           ],
           "points": 750,
-          "notes": "* Choose one: Painlord Titan of Slaanesh, Plaguelord Titan of Nurgle, Banelord Titan of Khorne, oder Warplord Titan of Tzeentch"
+          "notes": "* Wähle eines: Painlord Titan of Slaanesh, Plaguelord Titan of Nurgle, Banelord Titan of Khorne oder Warplord Titan of Tzeentch"
         },
         {
           "name": "Chaos Reaver Titan",
@@ -103,7 +103,7 @@
             "Heralds of Chaos"
           ],
           "points": 600,
-          "notes": "* Choose one: Reviler Titan of Slaanesh, Repugnant Titan of Nurgle, Ravager Titan of Khorne, oder Mutator Titan of Tzeentch"
+          "notes": "* Wähle eines: Reviler Titan of Slaanesh, Repugnant Titan of Nurgle, Ravager Titan of Khorne oder Mutator Titan of Tzeentch"
         }
       ]
     },
@@ -119,7 +119,7 @@
             "Heralds of Chaos"
           ],
           "points": 275,
-          "notes": "* Choose one: Plaguehound of Nurgle, Bloodhound of Khorne, Warphound of Tzeentch, oder Chaos Warhound of Chaos Undivided"
+          "notes": "* Wähle eines: Plaguehound of Nurgle, Bloodhound of Khorne, Warphound of Tzeentch oder Chaos Warhound of Chaos Undivided"
         },
         {
           "name": "Slaanesh Scout Titan",
@@ -129,7 +129,7 @@
             "Heralds of Chaos"
           ],
           "points": 275,
-          "notes": "* Choose one: Subjugator of Slaanesh oder Questor of Slaanesh"
+          "notes": "* Wähle eines: Subjugator of Slaanesh oder Questor of Slaanesh"
         },
         {
           "name": "Debasers of Slaanesh",
@@ -194,7 +194,7 @@
         },
         {
           "name": "Hell-Forge Maniple",
-          "units": "Ein Hellwright, eleven Chaos Squats",
+          "units": "Ein Hellwright, elf Chaos Squats",
           "extraUnits": [
             "Füge sechs Chaos Rhinos hinzu: 50 Punkte"
           ],
@@ -217,7 +217,7 @@
           "points": 300
         },
         {
-          "name": "0-1 Chaos Battleship",
+          "name": "0–1 Chaos Battleship",
           "units": "Ein Despoiler Class Battleship",
           "extraUnits": [
           ],
@@ -228,17 +228,17 @@
   ],
   "upgrades": {
     "title": "Traitor Titan Legion Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+    "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "0-1 Eye of the Gods",
-        "description": "The formation gains 'Oberbefehlshaber' special rule.",
-        "points": "50 points"
+        "name": "0–1 Eye of the Gods",
+        "description": "Der Verband erhält die Sonderregel 'Oberbefehlshaber'.",
+        "points": "50 Punkte"
       },
       {
         "name": "Heralds of Chaos",
-        "description": "The formation gains the 'Anführer' special rule. May not be combined with Eye of the Gods.",
-        "points": "25 points"
+        "description": "Der Verband erhält die Sonderregel 'Anführer'. Darf nicht mit Eye of the Gods kombiniert werden.",
+        "points": "25 Punkte"
       }
     ]
   }

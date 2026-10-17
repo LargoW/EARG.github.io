@@ -20,20 +20,20 @@
     {
       "from": "CSM.json",
       "units": [
-        "Exalted Sorcerer",
-        "Aspiring Sorcerer",
-        "Champion of Chaos",
-        "Icon Bearer",
-        "Daemon Prince of Tzeentch",
-        "Thousand Sons Marines",
-        "Thousand Sons Havocs",
-        "Scarab Occult Terminators",
-        "Rubric Marines",
-        "Sorcerer Disc Riders",
-        "Thousand Sons Rhino",
-        "Thousand Sons Land Raider",
-        "Thousand Sons Predator",
-        "Thousand Sons Dreadnought"
+        "Erhabener Hexer",
+        "Aufstrebender Hexer",
+        "Chaoschampion",
+        "Ikonenträger",
+        "Dämonenprinz des Tzeentch",
+        "Marines der Thousand Sons",
+        "Thousand-Sons-Havocs",
+        "Scarab-Occult-Terminatoren",
+        "Rubrik-Marines",
+        "Hexer auf Disks",
+        "Thousand-Sons-Rhino",
+        "Thousand-Sons-Land-Raider",
+        "Thousand-Sons-Predator",
+        "Thousand-Sons-Cybot"
       ],
       "unitRules": [
         "Augment Summoning (+x)",
@@ -57,9 +57,9 @@
     {
       "from": "darkmechanicus.json",
       "units": [
-        "Deciever",
-        "Silver Tower",
-        "Warp Palace"
+        "Täuscher",
+        "Silberturm",
+        "Warp-Palast"
       ],
       "unitRules": [
         "Daemon Engine (x)"
@@ -79,7 +79,7 @@
     {
       "from": "traitortitanlegions.json",
       "units": [
-        "Warphound"
+        "Warp-Hound"
       ],
       "unitRules": [
         "Null Schilde"
@@ -103,7 +103,7 @@
       "formations": [
         {
           "name": "Thousand Sons Retinue",
-          "units": "One Aspiring Sorcerer, five Rubric Marines, four Thousand Sons Marines, Daemonic Pact",
+          "units": "Ein Aspiring Sorcerer, fünf Rubric Marines, vier Thousand Sons Marines, Daemonic Pact",
           "extraUnits": [
             "Ersetze 4 Thousand Sons Marines durch 4 Thousand Sons Havocs: 50 Punkte",
             "Ersetze bis zu 3 Rubric Marines durch Thousand Sons Dreadnoughts: 25 Punkte pro Stück",
@@ -118,7 +118,7 @@
         },
         {
           "name": "Thousand Sons Terminators",
-          "units": "One Aspiring Sorcerer, four Scarab Occult Terminators, Daemonic Pact",
+          "units": "Ein Aspiring Sorcerer, vier Scarab Occult Terminators, Daemonic Pact",
           "extraUnits": [
             "Oberbefehlshaber",
             "Icon Bearer",
@@ -135,22 +135,22 @@
       "formations": [
         {
           "name": "Tzaangor Host",
-          "units": "One Chaos Spawn, eight Tzaangors, Daemonic Pact",
+          "units": "Ein Chaos Spawn, acht Tzaangors, Daemonic Pact",
           "extraUnits": [
-            "Ersetze den Chaos Spawn durch a Mutalith Warp Beast: 50 Punkte"
+            "Ersetze den Chaos Spawn durch ein Mutalith Warp Beast: 50 Punkte"
           ],
           "points": 200
         },
         {
           "name": "Defilers of Tzeentch",
-          "units": "Three Decievers",
+          "units": "Drei Decievers",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Armoured Company",
-          "units": "Four Thousand Sons Predators",
+          "units": "Vier Thousand Sons Predators",
           "extraUnits": [
             "Ersetze 4 Thousand Sons Predators durch 4 Thousand Sons Land Raiders: 75 Punkte"
           ],
@@ -158,7 +158,7 @@
         },
         {
           "name": "Havocs",
-          "units": "One Aspiring Sorcerer, four Thousand Sons Havocs, two Thousand Sons Rhinos, Daemonic Pact",
+          "units": "Ein Aspiring Sorcerer, vier Thousand Sons Havocs, zwei Thousand Sons Rhinos, Daemonic Pact",
           "extraUnits": [
             "Ersetze 2 Thousand Sons Rhinos durch 2 Thousand Sons Dreadnoughts: 75 Punkte",
             "Icon Bearer",
@@ -168,7 +168,7 @@
         },
         {
           "name": "Disc Riders",
-          "units": "One Aspiring Sorcerer, six Sorcerer Disc Riders, Daemonic Pact",
+          "units": "Ein Aspiring Sorcerer, sechs Sorcerer Disc Riders, Daemonic Pact",
           "extraUnits": [
             "Oberbefehlshaber",
             "Icon Bearer",
@@ -178,7 +178,7 @@
         },
         {
           "name": "Silver Towers of Tzeentch",
-          "units": "Four Silver Towers",
+          "units": "Vier Silver Towers",
           "extraUnits": [
           ],
           "points": 275
@@ -191,36 +191,36 @@
       "formations": [
         {
           "name": "Warphound",
-          "units": "One Warphound Titan",
+          "units": "Ein Warphound Titan",
           "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Warp Palace",
-          "units": "One Warp Palace",
+          "units": "Ein Warp Palace",
           "extraUnits": [
           ],
           "points": 450
         },
         {
           "name": "Doomwings of Tzeentch",
-          "units": "Three Doomwings",
+          "units": "Drei Doomwings",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Firelords of Tzeentch",
-          "units": "Two Firelords",
+          "units": "Zwei Firelords",
           "extraUnits": [
             "Füge 1 Firelord hinzu: 100 Punkte"
           ],
           "points": 250
         },
         {
-          "name": "0-1 Warpship of Tzeentch",
-          "units": "One Warpship",
+          "name": "0–1 Warpship of Tzeentch",
+          "units": "Ein Warpship",
           "extraUnits": [
           ],
           "points": 100
@@ -233,12 +233,12 @@
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool points",
+          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool",
           "points": 20
         },
         {
           "name": "Greater Daemon Pool",
-          "units": "Any amount of Greater Daemon Pool points. The first one is free.",
+          "units": "Beliebig viele Punkte aus dem Greater-Daemon-Pool. Der erste ist kostenlos.",
           "points": 50
         }
       ]
@@ -249,20 +249,20 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0–1 Oberbefehlshaber",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Ersetze den Aspiring Sorcerer durch an Exalted Sorcerer (Retinue und Disc Riders Only).",
-            "points": "50 points"
+            "description": "Ersetze den Aspiring Sorcerer durch einen Exalted Sorcerer (Retinue und Disc Riders Only).",
+            "points": "50 Punkte"
           },
           {
             "description": "Ersetze den Aspiring Sorcerer und seine Einheit durch einen Daemon Prince of Tzeentch (nur Terminators).",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "Ersetze den Aspiring Sorcerer und seine Einheit durch einen Daemon Prince of Tzeentch (nur Retinue und Disc Riders).",
-            "points": "100 points"
+            "points": "100 Punkte"
           }
         ]
       },
@@ -272,39 +272,39 @@
         "options": [
           {
             "description": "Thousand Sons Rhinos",
-            "points": "10 points each"
+            "points": "10 Punkte pro Stück"
           },
           {
             "description": "Thousand Sons Land Raiders",
-            "points": "50 points each"
+            "points": "50 Punkte pro Stück"
           }
         ]
       },
       {
         "name": "Champion of Chaos",
         "description": "Füge einen Champion of Chaos zum Verband hinzu.",
-        "points": "50 points"
+        "points": "50 Punkte"
       },
       {
         "name": "Icon Bearer",
         "description": "Füge 1 Icon Bearer zum Verband hinzu",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Dreadnoughts",
         "description": "Füge bis zu 2 Thousand Sons Dreadnoughts zum Verband hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Predators",
         "description": "Füge bis zu 2 Thousand Sons Predators zum Verband hinzu",
-        "points": "50 points each"
+        "points": "50 Punkte pro Stück"
       }
     ]
   },
   "feedback": [
-    "Summoning wording is spread out",
-    "Thousand sons dreadnought is useless, make it melee",
+    "Die Formulierung der Beschwörungsregeln ist über mehrere Stellen verteilt",
+    "Der Thousand-Sons-Dreadnought ist nutzlos, mache ihn zum Nahkämpfer",
     "Defilers of Tzeentch 4 (250)"
   ]
 }

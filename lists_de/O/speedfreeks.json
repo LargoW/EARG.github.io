@@ -17,29 +17,29 @@
     {
       "from": "ORK.json",
       "units": [
-        "Mekboy Bad Ork Bikerboy",
-        "Speed Freek Oddboy",
-        "Boyz",
-        "Grotz",
-        "Nobz",
-        "Nob Warbikes",
-        "Warbikes",
-        "Warbike Outriders",
-        "Mekboy Speedsta",
+        "Mek des Bad-Ork-Bikerboys",
+        "Heizakult-Oddboy",
+        "Boys",
+        "Grots",
+        "Bosse",
+        "Boss-Waaghbikes",
+        "Waaghbikes",
+        "Waaghbike-Ausreiter",
+        "Mek-Speedsta",
         "Deffkopta",
-        "Skorcha",
-        "Warbuggy",
-        "Speed Freek Trukk",
-        "Gunwagon",
+        "Brennabuggy",
+        "Buggy",
+        "Heizakult-Pikk-Up",
+        "Kampfpanza",
         "Spleenrippa",
-        "Flakwagon",
-        "Gunfortress",
-        "Battlefortress",
+        "Flakpanza",
+        "Mega Wummenpanza",
+        "Mega Transportpanza",
         "Dakkajet",
-        "Landa",
-        "Blitza-Bommer",
-        "Kill Kroozer",
-        "Battlekroozer"
+        "Landungsschiff",
+        "Blitza-Bomma",
+        "Kill-Kreuzer",
+        "Schlachtkreuzer"
       ],
       "unitRules": [
         "Power Fields",
@@ -55,14 +55,14 @@
       "formations": [
         {
           "name": "Evil Sunz Blitz Brigade",
-          "units": "Any four of the following units: Deffkopta, Flakwagon, Gunwagon",
+          "units": "Beliebige vier der folgenden Einheiten: Deffkopta, Flakwagon, Gunwagon",
           "extraUnits": [
             "Füge beliebig viele Flakwagons, Gunwagons oder Deffkoptas hinzu: 30 Punkte pro Stück",
-            "Füge 1 Boyz unit to any Gunwagon oder Flakwagon im Verband hinzu: 15 Punkte pro Stück",
+            "Füge 1 Boyz-Einheit zu einem beliebigen Gunwagon oder Flakwagon im Verband hinzu: 15 Punkte pro Stück",
             "Ersetze beliebig viele Gunwagons durch Spleenrippas: 20 Punkte pro Stück",
-            "Ersetze 1 Gunwagon durch a Mekboy Speedsta: 30 points",
-            "Füge 1 Battlefortress oder Gunfortress unit hinzu: 100 Punkte",
-            "Füge beliebig viele Speed Freek Oddboy character to Battlefortress oder Gunfortress unit (max 1 Oddboy per Fortress) hinzu: 50 Punkte pro Stück"
+            "Ersetze 1 Gunwagon durch ein Mekboy Speedsta: 30 Punkte",
+            "Füge 1 Battlefortress oder Gunfortress Einheit hinzu: 100 Punkte",
+            "Füge beliebig vielen Battlefortress- oder Gunfortress-Einheiten einen Speed Freek Oddboy Charakter hinzu (max. 1 Oddboy pro Fortress): 50 Punkte pro Stück"
           ],
           "pointsOptions": [
             {
@@ -81,19 +81,19 @@
         },
         {
           "name": "Evil Sunz Fortress Mob",
-          "units": "Two Battlefortress oder Gunfortress units",
+          "units": "Zwei Battlefortress oder Gunfortress-Einheiten",
           "extraUnits": [
             "Füge beliebig viele Boyz hinzu: 15 Punkte pro Stück",
             "Füge beliebig viele Flakwagons oder Gunwagons hinzu: 30 Punkte pro Stück",
             "Füge bis zu 2 Nobz hinzu: 35 Punkte pro Stück",
-            "Füge beliebig viele Speed Freek Oddboy character to Battlefortress oder Gunfortress unit (max 1 Oddboy per Fortress) hinzu: 50 Punkte pro Stück",
-            "Füge bis zu 2 Battlefortress oder Gunfortress units hinzu: 100 Punkte"
+            "Füge beliebig vielen Battlefortress- oder Gunfortress-Einheiten einen Speed Freek Oddboy Charakter hinzu (max. 1 Oddboy pro Fortress): 50 Punkte pro Stück",
+            "Füge bis zu 2 Battlefortress oder Gunfortress-Einheiten hinzu: 100 Punkte"
           ],
           "points": 250
         },
         {
           "name": "Evil Sunz Kult of Speed",
-          "units": "Eight of the following units: Skorchas, Warbikes, Warbuggies",
+          "units": "Acht der folgenden Einheiten: Skorchas, Warbikes, Warbuggies",
           "extraUnits": [
             "Füge beliebig viele Skorchas, Warbikes, Warbuggies hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Flakwagons, Gunwagons hinzu: 30 Punkte pro Stück",
@@ -117,13 +117,13 @@
         },
         {
           "name": "Evil Sunz Warband",
-          "units": "One Nobz, three Boyz, four Speed Freek Trukks, plus four Warbikes, Skorchas und/oder Warbuggies",
+          "units": "Ein Nobz, drei Boyz, vier Speed Freek Trukks, plus vier Warbikes, Skorchas und/oder Warbuggies",
           "extraUnits": [
-            "Ersetze 1 Einheit von Nobz und 1 Speed Freek Trukk durch 1 Nob Warbikes unit: Free",
+            "Ersetze 1 Einheit von Nobz und 1 Speed Freek Trukk durch 1 Nob Warbikes Einheit: kostenlos",
             "Füge beliebig viele Boyz und Speed Freek Trukk hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Skorchas, Warbikes, Warbuggies hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Flakwagons hinzu: 30 Punkte pro Stück",
-            "Füge 1 Nob Warbikes (35 points) oder Mekboy Speedsta (50 Punkte) hinzu"
+            "Füge 1 Nob Warbikes (35 Punkte) oder Mekboy Speedsta (50 Punkte) hinzu"
           ],
           "pointsOptions": [
             {
@@ -142,7 +142,7 @@
         },
         {
           "name": "Evil Sunz Warbike Outriders",
-          "units": "Six Warbike Outriders",
+          "units": "Sechs Warbike Outriders",
           "extraUnits": [
           ],
           "points": 175
@@ -155,7 +155,7 @@
       "formations": [
         {
           "name": "Fighta Skwadron",
-          "units": "Four Dakkajets",
+          "units": "Vier Dakkajets",
           "upgrades": [
             "Füge bis zu 4 Dakkajets hinzu: 35 Punkte pro Stück"
           ],
@@ -163,23 +163,23 @@
         },
         {
           "name": "Blitza Skwadron",
-          "units": "Three Blitza-Bommers",
+          "units": "Drei Blitza-Bommers",
           "upgrades": [
           ],
           "points": 200
         },
         {
-          "name": "Landa",
-          "units": "One Landa",
+          "name": "Landungsschiff",
+          "units": "Ein Landa",
           "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "0–1 Kroozer",
-          "units": "One Kill Kroozer",
+          "units": "Ein Kill Kroozer",
           "extraUnits": [
-            "Ersetze den Kill Kroozer durch a Battlekroozer: 50 Punkte"
+            "Ersetze den Kill Kroozer durch ein Battlekroozer: 50 Punkte"
           ],
           "points": 100
         }

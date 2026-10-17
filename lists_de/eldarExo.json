@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Dragon Prince",
+        "name": "Drachenprinz",
         "type": "CH",
         "weapons": [
           "Phantomknochenlanze"
@@ -17,7 +17,7 @@
         ]
       },
       {
-        "name": "Dragonlord",
+        "name": "Drachenfürst",
         "type": "CH",
         "weapons": [
           "Phantomknochenlanze"
@@ -28,7 +28,7 @@
         ]
       },
       {
-        "name": "Worldsinger",
+        "name": "Weltenliedsänger",
         "type": "CH",
         "weapons": [
           "Singing Speer"
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "name": "Dragon Knight",
+        "name": "Drachenritter",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "name": "Wind Knight",
+        "name": "Windritter",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -70,7 +70,7 @@
         ]
       },
       {
-        "name": "Skyward Dragon",
+        "name": "Himmelsdrache",
         "type": "LV",
         "speed": 30,
         "armour": 4,
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "name": "Dragon Outrider",
+        "name": "Drachen-Vorreiter",
         "type": "INF",
         "speed": 30,
         "armour": 5,
@@ -100,7 +100,7 @@
         ]
       },
       {
-        "name": "Exodite Militia",
+        "name": "Exoditenmiliz",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -113,7 +113,7 @@
         ]
       },
       {
-        "name": "Exodite Weapons Platform",
+        "name": "Exoditen-Waffenplattform",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -125,7 +125,7 @@
         "notes": "Mit einer Unterstützungs-D-Kanone oder einem Shadow Weaver bewaffnet."
       },
       {
-        "name": "Exodite Wraithguards",
+        "name": "Exoditen-Phantomdroiden",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -139,7 +139,7 @@
         ]
       },
       {
-        "name": "Bloodfang Megadon",
+        "name": "Blutrachen-Megadon",
         "type": "LV",
         "speed": 30,
         "armour": 3,
@@ -154,7 +154,7 @@
         ]
       },
       {
-        "name": "Voidprism Megadon",
+        "name": "Leerenprisma-Megadon",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -168,7 +168,7 @@
         ]
       },
       {
-        "name": "Fire Gale Knight",
+        "name": "Feuersturmritter",
         "type": "H-AV",
         "speed": 25,
         "cc": 5,
@@ -184,7 +184,7 @@
         ]
       },
       {
-        "name": "Bright Stallion Knight",
+        "name": "Glanzross-Ritter",
         "type": "H-AV",
         "speed": 35,
         "armour": 5,
@@ -201,7 +201,7 @@
         ]
       },
       {
-        "name": "Towering Destroyer Knight",
+        "name": "Überragender Zerstörer-Ritter",
         "type": "H-AV",
         "speed": 30,
         "cc": 4,
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "name": "Great Megadon",
+        "name": "Großer Megadon",
         "type": "WE",
         "speed": 20,
         "armour": 3,
@@ -231,10 +231,10 @@
           "Damage Capacity: 3",
           "Geländegängig"
         ],
-        "crit": "The Great Megadon is killed."
+        "crit": "Great Megadon wird zerstört."
       },
       {
-        "name": "Eternal Drake",
+        "name": "Ewiger Drache",
         "type": "WE",
         "speed": 25,
         "armour": 4,
@@ -251,10 +251,10 @@
           "Sprungmodule",
           "Inspirierend"
         ],
-        "crit": "The Eternal Drake is killed. All Exodite Eldar formations (friend and foe) with a line of sight to the Eternal Drake receive one Blast Marker."
+        "crit": "Eternal Drake wird zerstört. Alle Exodite-Eldar-Verbände (eigene und gegnerische) mit Sichtlinie zum Eternal Drake erhalten 1 Beschussmarke."
       },
       {
-        "name": "Colossal Carnosaur",
+        "name": "Kolossaler Carnosaurus",
         "type": "WE",
         "speed": 25,
         "armour": 3,
@@ -269,7 +269,7 @@
           "Furchtlos",
           "Geländegängig"
         ],
-        "crit": "The Colossal Carnosaur takes an additional point of damage."
+        "crit": "Colossal Carnosaur erleidet 1 zusätzlichen Schaden."
       }
     ]
   }

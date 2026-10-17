@@ -7,7 +7,7 @@
   "intro": "Diese Armeeliste ermöglicht es dir, eine Armee des Space-Marine-Ordens Imperial Fists oder eines seiner Nachfolgeorden aufzustellen. Die Imperial Fists sind auf Belagerungskriegsführung spezialisiert.",
   "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
   "Initiative": "Tarantula- und Hyperios-Emplacement-Verbände haben einen Initiativwert von 2+. Alle übrigen Verbände haben einen Initiativwert von 1+.",
-  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle non-'Machine Spirit' Imperial Fists-Kontingente.",
+  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle non-'Maschinengeist' Imperial Fists-Kontingente.",
   "specialRules": [
     "Imperial Fists Transports",
     "They Shall Know No Fear",
@@ -19,23 +19,23 @@
       "from": "SM.json",
       "units": [
         "Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assault Centurions",
-        "Devastator Centurions",
-        "Devastators",
+        "Sturm-Centurions",
+        "Devastor-Centurions",
+        "Devastor-Trupps",
         "Scouts",
-        "Space Marine Rapier",
-        "Space Marine Thunderfire",
-        "Tacticals",
-        "Terminators",
+        "Space-Marine-Rapier",
+        "Space-Marine-Thunderfire",
+        "Taktische Trupps",
+        "Terminatoren",
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
-        "Dreadnought",
-        "Dreadnought, Hellfire",
-        "Dreadnought, Siege",
+        "Cybot",
+        "Hellfire-Cybot",
+        "Belagerungs-Cybot",
         "Hunter",
         "Stalker",
         "Land Raider",
@@ -45,7 +45,7 @@
         "Predator Destructor",
         "Razorback",
         "Rhino",
-        "Siege Rhino",
+        "Belagerungs-Rhino",
         "Whirlwind",
         "Vindicator",
         "Bastion",
@@ -58,11 +58,11 @@
     {
       "from": "AM.json",
       "units": [
-        "Hyperios Sentry",
+        "Hyperios-Wachgeschütz",
         "Tarantula"
       ],
       "unitRules": [
-        "Machine Spirit"
+        "Maschinengeist"
       ]
     },
     {
@@ -80,8 +80,8 @@
       "name": "Imperial Fists Kernkontingente",
       "formations": [
         {
-          "name": "Devastators",
-          "units": "Four Devastators plus transport",
+          "name": "Devastor-Trupps",
+          "units": "Vier Devastators plus Transporter",
           "extraUnits": [
             "Achilles",
             "Anti-Air",
@@ -96,7 +96,7 @@
         },
         {
           "name": "Vindicators",
-          "units": "Four Vindicators",
+          "units": "Vier Vindicators",
           "extraUnits": [
             "Anti-Air",
             "Vindicators"
@@ -104,8 +104,8 @@
           "points": 225
       },
         {
-          "name": "Tacticals",
-          "units": "Six Tacticals plus transport",
+          "name": "Taktische Trupps",
+          "units": "Sechs Tacticals plus Transporter",
           "extraUnits": [
             "Achilles",
             "Anti-Air",
@@ -125,7 +125,7 @@
       "formations": [
           {
             "name": "Land Raiders",
-            "units": "Three Land Raiders",
+            "units": "Drei Land Raiders",
             "extraUnits": [
               "Füge 1 Land Raider hinzu: 50 Punkte",
               "Achilles",
@@ -137,7 +137,7 @@
 
         {
           "name": "Predators",
-          "units": "Four Predator Destructors und/oder Predator Annihilators",
+          "units": "Vier Predator Destructors und/oder Predator Annihilators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -153,9 +153,9 @@
         },
         {
           "name": "Scouts",
-          "units": "Four Scouts plus transport",
+          "units": "Vier Scouts plus Transporter",
           "extraUnits": [
-            "May take Siege Rhinos instead of normal Rhinos: 25 Punkte",
+            "Darf Siege Rhinos statt normaler Rhinos erhalten: 25 Punkte",
             "Razorbacks",
             "Scharfschützes",
             "Vindicators"
@@ -163,8 +163,8 @@
           "points": 150
         },
         {
-          "name": "Terminators",
-          "units": "Four Terminators",
+          "name": "Terminatoren",
+          "units": "Vier Terminators",
           "extraUnits": [
             "Achilles",
             "Befehlshaber",
@@ -175,7 +175,7 @@
         },
         {
           "name": "Centurions",
-          "units": "Four Assault und/oder Devastator Centurions",
+          "units": "Vier Assault und/oder Devastator Centurions",
           "extraUnits": [
             "Achilles",
             "Land Raider Transport",
@@ -186,7 +186,7 @@
 
         {
           "name": "Whirlwinds",
-          "units": "Four Whirlwinds",
+          "units": "Vier Whirlwinds",
           "extraUnits": [
             "Füge 2 Whirlwinds hinzu: 75 Punkte",
             "Anti-Air"
@@ -194,8 +194,8 @@
           "points": 275
         },
         {
-          "name": "0-1 Fellblade Relics",
-          "units": "One Fellblade",
+          "name": "0–1 Fellblade Relics",
+          "units": "Ein Fellblade",
           "extraUnits": [
             "Füge 1 Fellblade hinzu: 300 Punkte"
           ],
@@ -209,7 +209,7 @@
       "formations": [
         {
           "name": "Bastion",
-          "units": "One Bastion",
+          "units": "Ein Bastion",
           "extraUnits": [
           ],
           "points": 300
@@ -221,22 +221,22 @@
         },
         {
           "name": "Tarantula",
-          "units": "Four Tarantulas",
+          "units": "Vier Tarantulas",
           "points": 125
         },
         {
           "name": "Hyperios",
-          "units": "Three Hyperios Sentries",
+          "units": "Drei Hyperios-Wachgeschütze",
           "points": 150
         },
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Reaver",
-          "units": "One Reaver Titan (Goth Class)",
+          "units": "Ein Reaver Titan (Goth Class)",
           "points": 600
         }
       ]
@@ -252,11 +252,11 @@
         "options": [
           {
             "description": "Füge 1 Hunter hinzu",
-            "points": "75 points"
+            "points": "75 Punkte"
           },
           {
             "description": "Füge 1 Stalker hinzu",
-            "points": "50 points"
+            "points": "50 Punkte"
           }
         ]
       },
@@ -266,19 +266,19 @@
         "options": [
           {
             "description": "Captain, Librarian",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
-            "points": "50 points"
+            "description": "Ordenspriester",
+            "points": "50 Punkte"
           },
           {
             "description": "Land Raider Achilles",
-            "points": "75 points"
+            "points": "75 Punkte"
         },
           {
             "description": "0–1 Oberbefehlshaber",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
@@ -286,44 +286,44 @@
         "name": "Dreadnoughts",
         "description": "Füge 2 beliebige der folgenden Einheiten hinzu: Dreadnought, Hellfire Dreadnought, Siege Dreadnought.",
         "points": [
-          "50 points each"
+          "50 Punkte pro Stück"
         ]
       },
       {
         "name": "Land Raider-Transporter",
-        "description": "Füge beliebig viele Land Raiders oder Land Raider Crusaders, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
-        "points": "50 points each"
+        "description": "Füge beliebig viele Land Raiders oder Land Raider Crusaders hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
+        "points": "50 Punkte pro Stück"
       },
       {
         "name": "Razorbacks",
-        "description": "Füge beliebig viele Razorbacks, bis zu die erforderliche Anzahl to transport dem Verband hinzu",
-        "points": "25 points each"
+        "description": "Füge beliebig viele Razorbacks hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
+        "points": "25 Punkte pro Stück"
       },
       {
         "name": "Scharfschützes",
         "description": "Gib allen Scouts im Verband die Sonderregel „Scharfschütze“ für ihre Heavy Bolters.",
-        "points": "25 points"
+        "points": "25 Punkte"
       },
       {
         "name": "Siege Equipment",
         "description": "Der Verband darf statt normaler Rhinos Siege Rhinos einsetzen oder „plus transport“ durch Space Marine Rapiers oder Space Marine Thunderfires ersetzen.",
         "points": [
-          "25 points for Siege Rhinos",
-          "25 points for two Rapiers oder two Thunderfires",
-          "100 points for four Rapiers oder four Thunderfires"
+          "25 Punkte für Siege Rhinos",
+          "25 Punkte für zwei Rapiers oder zwei Thunderfires",
+          "100 Punkte für vier Rapiers oder vier Thunderfires"
         ]
       },
       {
         "name": "Typhoons",
         "description": "Ersetze bis zu 5 Land Speeders durch dieselbe Anzahl an Land Speeder Typhoons",
-        "points": "10 points each"
+        "points": "10 Punkte pro Stück"
       },
       {
         "name": "Vindicators",
         "description": "Füge bis zu 2 Vindicators hinzu",
         "points": [
-          "50 points each",
-          "75 points per pair"
+          "50 Punkte pro Stück",
+          "75 Punkte pro Paar"
         ]
       }
     ]
