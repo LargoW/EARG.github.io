@@ -8,7 +8,7 @@
         "name": "Dragon Prince",
         "type": "CH",
         "weapons": [
-          "Wraithbone Lance"
+          "Wraithbone-Lanze"
         ],
         "specialRules": [
           "Inspirierend",
@@ -20,7 +20,7 @@
         "name": "Dragonlord",
         "type": "CH",
         "weapons": [
-          "Wraithbone Lance"
+          "Wraithbone-Lanze"
         ],
         "specialRules": [
           "Inspirierend",
@@ -31,7 +31,7 @@
         "name": "Worldsinger",
         "type": "CH",
         "weapons": [
-          "Singing Spear"
+          "Singing Speer"
         ],
         "specialRules": [
           "Farsight",
@@ -47,7 +47,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Eldar Power Lances"
+          "Eldar Energie-Lances"
         ],
         "specialRules": [
           "Beritten",
@@ -62,7 +62,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Exodite Hunting Lances"
+          "Exoditen-Jagdlanzen"
         ],
         "specialRules": [
           "Beritten",
@@ -77,7 +77,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Eldar Missile Launcher"
+          "Eldar Raketenwerfer"
         ],
         "specialRules": [
           "Geländegängig"
@@ -91,7 +91,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Long Rifles"
+          "Langgewehre"
         ],
         "specialRules": [
           "Beritten",
@@ -107,7 +107,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Shuriken Catapults"
+          "Shuriken Katapulte"
         ],
         "specialRules": [
         ]
@@ -119,8 +119,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Support D-Cannon|0-1",
-          "Shadow Weaver|0-1"
+          "Support D-Kanone|0-1",
+          "Schattenweber|0-1"
         ],
         "notes": "Mit einer Unterstützungs-D-Kanone oder einem Shadow Weaver bewaffnet."
       },
@@ -132,7 +132,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Wraith Cannons"
+          "Wraith Kanonen"
         ],
         "specialRules": [
           "Furchtlos"
@@ -146,8 +146,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Scatter Laser",
-          "Claws, Teeth & Tail"
+          "Streulaser",
+          "Klauen, Zähne \u0026 Schwanz"
         ],
         "specialRules": [
           "Geländegängig"
@@ -161,7 +161,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Prism Lance"
+          "Prismenlanze"
         ],
         "specialRules": [
           "Geländegängig"
@@ -174,8 +174,8 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lance",
-          "Knight Pulse Laser"
+          "Knight Psionische Lanze",
+          "Knight Impulslaser"
         ],
         "specialRules": [
           "Holofield (4+)",
@@ -191,7 +191,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lance"
+          "Knight Psionische Lanze"
         ],
         "specialRules": [
           "Holofield (4+)",
@@ -207,9 +207,9 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lance",
-          "Scatter Laser",
-          "Knight Close Combat Weapons"
+          "Knight Psionische Lanze",
+          "Streulaser",
+          "Knight Close Combat Waffen"
         ],
         "specialRules": [
           "Holofield (4+)",
@@ -225,7 +225,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Prism Projector||FxF"
+          "Prism Projektor||FxF"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -241,12 +241,12 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Blazing Breath",
-          "Claws, Teeth & Tail"
+          "Lodernder Atem",
+          "Klauen, Zähne \u0026 Schwanz"
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Commander",
+          "Befehlshaber",
           "Furchtlos",
           "Sprungmodule",
           "Inspirierend"
@@ -261,8 +261,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Suncannon|2|FxF",
-          "Ferocious Bite"
+          "Sonnenkanone|2|FxF",
+          "Ferocious Biss"
         ],
         "specialRules": [
           "Damage Capacity: 5",

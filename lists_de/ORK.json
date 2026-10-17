@@ -9,7 +9,7 @@
         "type": "CH",
         "weapons": [
           "'Ore Dakka",
-          "Power Claw"
+          "Energieklaue"
         ],
         "specialRules": [
           "Oberbefehlshaber"
@@ -24,8 +24,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Kustom Blasta",
-          "Choppa Blades"
+          "Kustom-Blasta",
+          "Choppa Klingen"
         ],
         "specialRules": [
           "Beritten",
@@ -46,9 +46,9 @@
         "name": "Oddboy",
         "type": "CH",
         "weapons": [
-          "Supa-Zzap-Gun|0-1|",
-          "Soopagun|0-1|",
-          "D3+1 Power Fields|0-1|"
+          "Supa-Zzap-Geschütz|0-1|",
+          "Superknarre|0-1|",
+          "D3+1 Energiefelder|0-1|"
         ],
         "specialRules": [
           "Replace one Big Gun weapon with either a Supa-Zzap-Gun or a Soopagun, alternatively the unit may be given D3+1 power fields"
@@ -58,9 +58,9 @@
         "name": "Bad Moons Oddboy",
         "type": "CH",
         "weapons": [
-          "Soopagun|0-1|",
-          "Weirdboy Tower|0-1|",
-          "D3+1 Power Fields|0-1|"
+          "Superknarre|0-1|",
+          "Weirdboy-Turm|0-1|",
+          "D3+1 Energiefelder|0-1|"
         ],
         "specialRules": [
         ],
@@ -70,9 +70,9 @@
         "name": "Speed Freek Oddboy",
         "type": "CH",
         "weapons": [
-          "Lifta-Droppa|0-1|",
-          "D3+1 Power Fields|0-1|",
-          "Deff-Rolla & Fresh Paint Job|0-1|"
+          "Hebewerfer|0-1|",
+          "D3+1 Energiefelder|0-1|",
+          "Deff-Rolla \u0026 frischer Anstrich|0-1|"
         ],
         "specialRules": [
           "The unit either replaces a Big Gun with a Lifta Droppa, or [*] adds D3+1 Power Fields, or [**] is equipped with a Deff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
@@ -82,7 +82,7 @@
         "name": "Wyrdboy",
         "type": "CH",
         "weapons": [
-          "Fist of Gork"
+          "Faust of Gork"
         ],
         "specialRules": [
         ]
@@ -91,7 +91,7 @@
         "name": "Pigdok",
         "type": "CH",
         "weapons": [
-          "Cyboar"
+          "Cyberkeiler"
         ],
         "specialRules": [
           "Anführer"
@@ -105,7 +105,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Big Shoota"
+          "Große Knarre"
         ],
         "specialRules": [
           "‘Ere we Go"
@@ -118,7 +118,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Grot-Shootas and Knives"
+          "Grot-Knarren and Knives"
         ],
         "specialRules": [
           "Super-Entbehrlich",
@@ -133,8 +133,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Big Shoota|2|",
-          "Big Choppas"
+          "Große Knarre|2|",
+          "Groß Choppas"
         ],
         "specialRules": [
           "Anführer",
@@ -150,7 +150,7 @@
         "ff": 5,
         "weapons": [
           "Snazzguns",
-          "Big Choppas"
+          "Groß Choppas"
         ],
         "specialRules": [
           "Anführer",
@@ -165,8 +165,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Sawn-Off Big Shoota",
-          "Big Choppas"
+          "Zwillings-Sawn-Off Große Knarre",
+          "Groß Choppas"
         ],
         "specialRules": [
           "Anführer",
@@ -180,7 +180,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Big Gun"
+          "Groß Geschütz"
         ],
         "specialRules": [
         ]
@@ -193,7 +193,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Big Shoota"
+          "Große Knarre"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -208,7 +208,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Shootas"
+          "Knarren"
         ],
         "specialRules": [
           "Sprungmodule",
@@ -223,7 +223,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Twin Sawn-Off Big Shoota"
+          "Zwillings-Sawn-Off Große Knarre"
         ],
         "specialRules": [
           "Beritten"
@@ -237,7 +237,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Twin Sawn-Off Big Shoota"
+          "Zwillings-Sawn-Off Große Knarre"
         ],
         "specialRules": [
           "Beritten",
@@ -252,7 +252,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Pulsa Rokkit"
+          "Pulsa-Rakete"
         ],
         "specialRules": [
         ],
@@ -266,7 +266,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota"
+          "Zwillings-Große Knarre"
         ],
         "specialRules": [
           "Antigrav"
@@ -280,7 +280,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Shootas"
+          "Knarren"
         ],
         "specialRules": [
           "Antigrav",
@@ -296,7 +296,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota"
+          "Zwillings-Große Knarre"
         ],
         "specialRules": [
         ]
@@ -336,7 +336,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Kustom Kannon"
+          "Kustom Kanone"
         ],
         "specialRules": [
           "Anführer",
@@ -351,7 +351,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Big Shoota|2|"
+          "Große Knarre|2|"
         ],
         "specialRules": [
           "Transport"
@@ -366,7 +366,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Big Gun"
+          "Groß Geschütz"
         ],
         "specialRules": [
           "Transport"
@@ -381,7 +381,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Big Gun"
+          "Groß Geschütz"
         ],
         "specialRules": [
           "Transport"
@@ -396,8 +396,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Big Gun",
-          "Big Shoota|2|"
+          "Groß Geschütz",
+          "Große Knarre|2|"
         ],
         "specialRules": [
           "Transport"
@@ -412,7 +412,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Demolisher"
+          "Belagerungskanone"
         ],
         "specialRules": [
           "Geländegängig"
@@ -426,7 +426,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Battle Cannon"
+          "Kampfkanone"
         ],
         "specialRules": [
         ]
@@ -439,7 +439,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Flak Gun"
+          "Flak Geschütz"
         ],
         "specialRules": [
           "Transport"
@@ -454,7 +454,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Flak Gun"
+          "Flak Geschütz"
         ],
         "specialRules": [
           "Transport"
@@ -469,7 +469,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Flak Gun"
+          "Flak Geschütz"
         ],
         "specialRules": [
           "Transport"
@@ -484,8 +484,8 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Big Shoota",
-          "Kombat Klaws"
+          "Große Knarre",
+          "Kampfklauen"
         ],
         "specialRules": [
           "Geländegängig",
@@ -500,8 +500,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Big Shoota|2|",
-          "Kombat Klaws"
+          "Große Knarre|2|",
+          "Kampfklauen"
         ],
         "specialRules": [
             "Geländegängig",
@@ -516,8 +516,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Big Gun",
-          "Fixin' Arm"
+          "Groß Geschütz",
+          "Reparaturarm"
         ],
         "specialRules": [
           "Anführer",
@@ -533,8 +533,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Big Gun|2-3|",
-          "Kombat 'Ammer|0-1|"
+          "Groß Geschütz|2-3|",
+          "Kampfhammer|0-1|"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -551,8 +551,8 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Big Gun",
-          "Twin Big Shoota|4|"
+          "Groß Geschütz",
+          "Zwillings-Große Knarre|4|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -569,8 +569,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Big Gun|3|",
-          "Twin Big Shoota|5|"
+          "Groß Geschütz|3|",
+          "Zwillings-Große Knarre|5|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -587,8 +587,8 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Big Gun",
-          "Flak Gun|3|"
+          "Groß Geschütz",
+          "Flak Geschütz|3|"
         ],
         "specialRules": [
           "Damage Capacity 3"
@@ -603,8 +603,8 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Skullhamma Cannon||FxF",
-          "Big Gun||FxF",
+          "Skullhamma Kanone||FxF",
+          "Groß Geschütz||FxF",
           "Skorcha|2|FxF"
         ],
         "specialRules": [
@@ -620,9 +620,9 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Gaze of Mork",
-          "Soopagun|2-3|FxF",
-          "Killa-Choppa|0-1|"
+          "Blick des Mork",
+          "Superknarre|2-3|FxF",
+          "Killa-Spalta|0-1|"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -642,14 +642,14 @@
         "ff": 4,
         "weapons": [
           "'ED (choose one)",
-          "Gaze of Mork|0-1|",
-          "Gaze of Gork|0-1|",
+          "Blick des Mork|0-1|",
+          "Blick of Gork|0-1|",
           "ARMS (choose two)",
-          "Soopagun|1-2|FxF",
-          "Killa-Choppa|0-1|FxF",
+          "Superknarre|1-2|FxF",
+          "Killa-Spalta|0-1|FxF",
           "BELLY (choose one)",
-          "Soopagun|0-1|FxF",
-          "Dakka Kannon|0-1|FxF"
+          "Superknarre|0-1|FxF",
+          "Dakka Kanone|0-1|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -668,10 +668,10 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Gaze of Mork",
-          "Soopagun|2-3|FxF",
-          "Supa-Zzap-Gun|0-1|FxF",
-          "Mega-Choppa|0-1|"
+          "Blick des Mork",
+          "Superknarre|2-3|FxF",
+          "Supa-Zzap-Geschütz|0-1|FxF",
+          "Megaspalta|0-1|"
         ],
         "specialRules": [
           "Damage Capacity 7",
@@ -692,17 +692,17 @@
         "ff": 4,
         "weapons": [
           "'ED (choose one)",
-          "Gaze of Mork|0-1|",
-          "Gaze of Gork|0-1|",
+          "Blick des Mork|0-1|",
+          "Blick of Gork|0-1|",
           "ARMS (choose two)",
-          "Soopagun|0-2|FxF",
-          "Dakka Kannon|0-2|FxF",
-          "Mega-Choppa|0-2|",
-          "Zzap-Gun|0-2|FxF",
+          "Superknarre|0-2|FxF",
+          "Dakka Kanone|0-2|FxF",
+          "Megaspalta|0-2|",
+          "Zzap-Geschütz|0-2|FxF",
           "BELLY (choose one)",
-          "Soopagun|0-1|FxF",
+          "Superknarre|0-1|FxF",
           "Supa-Skorcha|0-1|FxF",
-          "Supa-Zzap-Gun|0-1|FxF",
+          "Supa-Zzap-Geschütz|0-1|FxF",
           "Snappa|0-1|"
         ],
         "specialRules": [
@@ -722,11 +722,11 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Gaze of Mork",
-          "Big Gun|2|",
-          "Soopagun||FxF",
-          "Twin Soopagun|1-2|FxF",
-          "Lifta-Droppa |0-1|"
+          "Blick des Mork",
+          "Groß Geschütz|2|",
+          "Superknarre||FxF",
+          "Zwillings-Soopagun|1-2|FxF",
+          "Hebewerfer|0-1|"
         ],
         "specialRules": [
           "Damage Capacity 10",
@@ -748,19 +748,19 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Big Gun|2|",
+          "Groß Geschütz|2|",
           "'ED (choose one)",
-          "Gaze of Mork|0-1|",
-          "Gaze of Gork|0-1|",
+          "Blick des Mork|0-1|",
+          "Blick of Gork|0-1|",
           "ARMS (choose two)",
-          "Twin Soopagun|0-2|FxF",
-          "Dakka-Dakka Kannon|0-2|FxF",
+          "Zwillings-Soopagun|0-2|FxF",
+          "Dakka-Dakka Kanone|0-2|FxF",
           "Mega-Lobba|0-2|FxF",
-          "Lifta-Droppa |0-1|",
+          "Hebewerfer|0-1|",
           "BELLY (choose one)",
-          "Soopagun|0-1|FxF",
+          "Superknarre|0-1|FxF",
           "Supa-Skorcha|0-1|FxF",
-          "Supa-Zzap-Gun|0-1|FxF",
+          "Supa-Zzap-Geschütz|0-1|FxF",
           "Snappa|0-1|"
         ],
         "specialRules": [
@@ -782,12 +782,12 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Big Gun|4|",
-          "Weirdboy Tower",
-          "2x Grot-Guided Missile||FwA",
-          "Twin Supa-Zzap-Gun||FwA",
-          "Soopagunz Belly Battery||FxF",
-          "Kombat Arms"
+          "Groß Geschütz|4|",
+          "Weirdboy-Turm",
+          "2x Grot-Guided Rakete||FwA",
+          "Zwillings-Supa-Zzap-Geschütz||FwA",
+          "Soopagunz Belly Batterie||FxF",
+          "Kampfarme"
         ],
         "specialRules": [
           "Damage Capacity 13",
@@ -806,8 +806,8 @@
         "speed": "Fighter-Bomber",
         "armour": 6,
         "weapons": [
-          "AC Twin Big Shoota||FxF",
-          "AC Tankbusta Rokkits||FxF"
+          "AC Zwillings-Große Knarre||FxF",
+          "AC-Panzerknacker-Raketen||FxF"
         ],
         "specialRules": [
         ]
@@ -818,7 +818,7 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Twin Supa Shoota|2|FxF"
+          "AC Zwillings-Supa Knarre|2|FxF"
         ],
         "specialRules": [
         ]
@@ -830,8 +830,8 @@
         "armour": 5,
         "weapons": [
           "AC Flakka",
-          "AC Twin Supa Shoota||FxF",
-          "AC Boom Bombs||FxF"
+          "AC Zwillings-Supa Knarre||FxF",
+          "AC Boom Bomben||FxF"
         ],
         "specialRules": [
         ]
@@ -843,7 +843,7 @@
         "armour": 4,
         "weapons": [
           "AC Flakka",
-          "AC Twin Kustom Mega-Cannon||FxF"
+          "AC Zwillings-Kustom Mega-Kanone||FxF"
         ],
         "specialRules": [
           "Power Fields 1D3"
@@ -856,7 +856,7 @@
         "armour": 4,
         "weapons": [
           "AC Flakka-Dakka",
-          "AC Blasta Bombs||FxF"
+          "AC Blasta Bomben||FxF"
         ],
         "specialRules": [
           "Damage Capacity 2"
@@ -871,8 +871,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Flakka-Dakka Turrets",
-          "AC Tankbusta Rokkits|2|FxF"
+          "AC Flakka-Dakka Türme",
+          "AC-Panzerknacker-Raketen|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -891,7 +891,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Big Shootas|4|"
+          "Große Knarren|4|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -979,8 +979,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Choppas",
-          "Shootas"
+          "Spaltas",
+          "Knarren"
         ],
         "specialRules": [
           "Beritten",
@@ -996,8 +996,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Big Choppas",
-          "Looted Gunz|2|"
+          "Groß Choppas",
+          "Geklaute Knarren|2|"
         ],
         "specialRules": [
           "Rush ‘em Ladz",
@@ -1013,8 +1013,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Looted Gunz",
-          "Choppas"
+          "Geklaute Knarren",
+          "Spaltas"
         ],
         "specialRules": [
           "‘Ere we Go"
@@ -1028,7 +1028,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Big Shootas"
+          "Große Knarren"
         ],
         "specialRules": [
           "‘Ere we Go"
@@ -1052,7 +1052,7 @@
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Choppas"
+          "Spaltas"
         ],
         "specialRules": [
           "Furchtlos",
@@ -1067,8 +1067,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Looted Gunz",
-          "Fire Bombs"
+          "Geklaute Knarren",
+          "Feuer Bomben"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -1082,7 +1082,7 @@
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Choppas"
+          "Spaltas"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -1096,7 +1096,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Squig Katapult"
+          "Squig-Katapult"
         ],
         "specialRules": [
         ]
@@ -1109,7 +1109,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Big Shoota"
+          "Große Knarre"
         ],
         "specialRules": [
           "Transport"
@@ -1124,9 +1124,9 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Big Gun",
-          "Twin Big Shoota|2|",
-          "Teeth and Horns"
+          "Groß Geschütz",
+          "Zwillings-Große Knarre|2|",
+          "Zähne and Hörner"
         ],
         "specialRules": [
           "‘Ere we Go",
@@ -1144,7 +1144,7 @@
         "ff": 5,
         "weapons": [
           "Supa-Lobba",
-          "Teeth and Horns"
+          "Zähne and Hörner"
         ],
         "specialRules": [
           "‘Ere we Go",
@@ -1159,9 +1159,9 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Flak Gun",
-          "Twin Big Shoota|2|",
-          "Teeth and Horns"
+          "Flak Geschütz",
+          "Zwillings-Große Knarre|2|",
+          "Zähne and Hörner"
         ],
         "specialRules": [
           "‘Ere we Go",
@@ -1176,8 +1176,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota|3|",
-          "Fangs and Horns",
+          "Zwillings-Große Knarre|3|",
+          "Fangzähne and Hörner",
           "Supa-Lobba"
         ],
         "specialRules": [
@@ -1196,9 +1196,9 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Big Shoota|4|",
-          "Big Gun|2|",
-          "Goring Tusks"
+          "Zwillings-Große Knarre|4|",
+          "Groß Geschütz|2|",
+          "Spießende Hauer"
         ],
         "specialRules": [
           "Damage Capacity: 6",
@@ -1217,8 +1217,8 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Stub Soopagun||FxF",
-          "Mega-Choppa"
+          "Stumpfe Superknarre||FxF",
+          "Megaspalta"
         ],
         "specialRules": [
           "Damage Capacity: 4",

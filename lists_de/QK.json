@@ -23,7 +23,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },
@@ -31,7 +31,7 @@
         "name": "Twin Icarus Autocannon",
         "type": "CH",
         "weapons": [
-          "Twin Icarus Autocannon"
+          "Zwillings-Icarus Maschinenkanone"
         ],
         "specialRules": [
         ]
@@ -40,7 +40,7 @@
         "name": "Ironstorm Missile Pod",
         "type": "CH",
         "weapons": [
-          "Ironstorm Missile Pod||FwA"
+          "Ironstorm Raketen-Pod||FwA"
         ],
         "specialRules": [
         ]
@@ -53,8 +53,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Thermal Spear",
-          "Reaper Chain-Cleaver"
+          "Thermalspeer",
+          "Schnitter-Kettenspalter"
         ],
         "specialRules": [
           "Stubborn",
@@ -71,7 +71,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Autocannon"
+          "Zwillings-Maschinenkanone"
         ],
         "specialRules": [
           "Stubborn",
@@ -88,9 +88,9 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Lightning Locks|0-1|",
+          "Blitzschlösser|0-1|",
           "Volkite Veuglaire|0-1|",
-          "Gyges Siege Claw|0-1|"
+          "Gyges Belagerungsklaue|0-1|"
         ],
         "specialRules": [
           "Stubborn",
@@ -109,8 +109,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Rapid Fire Battle Cannon",
-          "Reaper Chainsword"
+          "Schnellfeuer Kampfkanone",
+          "Reaper Kettenschwert"
         ],
         "specialRules": [
           "Stubborn",
@@ -128,8 +128,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Thermal Cannon",
-          "Reaper Chainsword"
+          "Thermalkanone",
+          "Reaper Kettenschwert"
         ],
         "specialRules": [
           "Stubborn",
@@ -147,8 +147,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Rapid Fire Battle Cannon",
-          "Avenger Gatling Cannon"
+          "Schnellfeuer Kampfkanone",
+          "Avenger Gatlingkanone"
         ],
         "specialRules": [
           "Stubborn",
@@ -166,9 +166,9 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Twin Icarus Autocannon",
-          "Thunderstrike Gauntlet",
-          "Reaper Chainsword"
+          "Zwillings-Icarus Maschinenkanone",
+          "Donnerschlaghandschuh",
+          "Reaper Kettenschwert"
         ],
         "specialRules": [
           "Stubborn",
@@ -186,9 +186,9 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Avenger Gatling Cannon",
-          "Ironstorm Missile Pod",
-          "Reaper Chainsword"
+          "Avenger Gatlingkanone",
+          "Ironstorm Raketen-Pod",
+          "Reaper Kettenschwert"
         ],
         "specialRules": [
           "Stubborn",
@@ -206,8 +206,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Las Impulsor",
-          "Thunderstrike Gauntlet"
+          "Laserimpulsor",
+          "Donnerschlaghandschuh"
         ],
         "specialRules": [
           "Stubborn",
@@ -225,15 +225,15 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Thunderstrike Gauntlet",
+          "Donnerschlaghandschuh",
           ">Chrimson Glaive<",
-          "Conflagration Cannon",
+          "Conflagration Kanone",
           ">Iron Wolf<",
-          "Helfrost Destructor",
+          "Helfrost Zerstörer",
           ">Justice<",
-          "Castigator Cannon",
+          "Castigator Kanone",
           ">Canis Rex<",
-          "Las Impulsor"
+          "Laserimpulsor"
         ],
         "specialRules": [
           "Stubborn",
@@ -253,9 +253,9 @@
         "ff": 4,
         "weapons": [
           "Volkite Chierovile",
-          "Twin Rad Cleanser",
-          "Graviton Crusher",
-          "Hekaton Siege Claw"
+          "Zwillings-Rad Cleanser",
+          "Graviton-Zermalmer",
+          "Hekaton Belagerungsklaue"
         ],
         "specialRules": [
           "Stubborn",
@@ -274,9 +274,9 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Lightning Cannon",
-          "Twin Phased Plasma Fusil",
-          "Reaper Chainsword"
+          "Lightning Kanone",
+          "Zwillings-Phased Plasma Fusil",
+          "Reaper Kettenschwert"
         ],
         "specialRules": [
           "Stubborn",
@@ -295,10 +295,10 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Shieldbreaker Missiles|4|",
-          "Volcano Lance||FwA",
-          "Twin Siegebreaker Cannon||",
-          "Plasma Decimator||FwA"
+          "Shieldbreaker Raketen|4|",
+          "Vulkanlanze||FwA",
+          "Zwillings-Siegebreaker Kanone||",
+          "Plasma-Dezimator||FwA"
         ],
         "specialRules": [
           "Stubborn",
@@ -315,10 +315,10 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Shieldbreaker Missiles|2|",
-          "Twin Siegebreaker Cannon|2|",
-          "Conflagration Cannon",
-          "Thundercoil Harpoon"
+          "Shieldbreaker Raketen|2|",
+          "Zwillings-Siegebreaker Kanone|2|",
+          "Conflagration Kanone",
+          "Donnerwendel-Harpune"
         ],
         "specialRules": [
           "Stubborn",
@@ -335,8 +335,8 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Cerastus Flame Cannon",
-          "Reaper Chainfist"
+          "Cerastus Flammen Kanone",
+          "Reaper Kettenfaust"
         ],
         "specialRules": [
           "Stubborn",
@@ -355,8 +355,8 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Castigator Cannon",
-          "Tempest Warblade"
+          "Castigator Kanone",
+          "Sturmkriegsklinge"
         ],
         "specialRules": [
           "Stubborn",
@@ -375,7 +375,7 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Cerastus Shock Lance"
+          "Cerastus Schock Lance"
         ],
         "specialRules": [
           "Stubborn",
@@ -395,8 +395,8 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Graviton Singularity Cannon",
-          "Atrapos Lascutter"
+          "Graviton Singularity Kanone",
+          "Atrapos-Laserschneider"
         ],
         "specialRules": [
           "Stubborn",
@@ -416,9 +416,9 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Quad Magna Lascannon||FxF",
-          "Autocannon|2|FxF",
-          "Helios Defense Missiles"
+          "Vierlings-Magna Laserkanone||FxF",
+          "Maschinenkanone|2|FxF",
+          "Helios Verteidigungs Raketen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -437,9 +437,9 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Conversion Beam Cannon|2|FxF",
-          "Volkite Culvertin|2|FxF",
-          "Karacnos Mortar Battery||FxF"
+          "Konversions Strahl Kanone|2|FxF",
+          "Volkite-Kulverine|2|FxF",
+          "Karacnos Mörser Batterie||FxF"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -458,9 +458,9 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Rapid Fire Battle Cannon",
-          "Shock Lance",
-          "Knight Power Gauntlet"
+          "Schnellfeuer Kampfkanone",
+          "Schock Lance",
+          "Knight Energie-Gauntlet"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -480,9 +480,9 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Battle Cannon",
-          "Shock Lance",
-          "Knight Chainsword"
+          "Kampfkanone",
+          "Schock Lance",
+          "Knight Kettenschwert"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -498,9 +498,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Long Cannon",
-          "Multi-Barreled Autocannon|0-1|",
-          "Twin Lascannon|0-1|"
+          "Langkanone",
+          "Multi-Barreled Maschinenkanone|0-1|",
+          "Zwillings-Laserkanone|0-1|"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -516,8 +516,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Battle Cannon",
-          "Knight Power Lance"
+          "Kampfkanone",
+          "Knight Energielanze"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -534,9 +534,9 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Thermal Cannon",
-          "Shock Lance",
-          "Knight Power Gauntlet"
+          "Thermalkanone",
+          "Schock Lance",
+          "Knight Energie-Gauntlet"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -552,8 +552,8 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Demolisher",
-          "Heavy Bolter|2|"
+          "Belagerungskanone",
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -569,7 +569,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Vanquisher Cannon"
+          "Vanquisher Kanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -585,7 +585,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Skysweeper Missile Launcher",
+          "Skysweeper Raketenwerfer",
           "Multilaser|2|"
         ],
         "specialRules": [

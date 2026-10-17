@@ -8,7 +8,7 @@
         "name": "Archon",
         "type": "CH",
         "weapons": [
-          "Agonizer"
+          "Agonisator"
         ],
         "specialRules": [
           "Furchtlos",
@@ -21,7 +21,7 @@
         "name": "Dracon",
         "type": "CH",
         "weapons": [
-          "Agonizer"
+          "Agonisator"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -33,7 +33,7 @@
         "name": "Succubus",
         "type": "CH",
         "weapons": [
-          "Monomolecular Blade"
+          "Monomolecular Klinge"
         ],
         "specialRules": [
           "Anführer"
@@ -43,8 +43,8 @@
         "name": "Haemonculus Ancient",
         "type": "CH",
         "weapons": [
-          "Arcane Terrors",
-          "Scissor Hands"
+          "Arkane Schrecken",
+          "Scherenhände"
         ],
         "specialRules": [
           "Anführer",
@@ -59,7 +59,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Tormentors",
+          "Peiniger",
           "Klaives"
         ],
         "specialRules": [
@@ -73,8 +73,8 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Splinter Rifles",
-          "Splinter Cannon"
+          "Splinter Gewehre",
+          "Splitterkanone"
         ],
         "specialRules": [
             "Wind-Swift"
@@ -88,8 +88,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Balefire",
-          "Mandrake Blades"
+          "Unheilfeuer",
+          "Mandrake Klingen"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -104,8 +104,8 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Dark Lance",
-          "Splinter Cannon"
+          "Schattenlanze",
+          "Splitterkanone"
         ],
         "specialRules": [
           "Sprungmodule",
@@ -121,8 +121,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Liquefiers",
-          "Poison Blades"
+          "Verflüssiger",
+          "Gift Klingen"
         ],
         "specialRules": [
           "Furchtlos"
@@ -135,7 +135,7 @@
         "armour": 6,
         "cc": 3,
         "weapons": [
-          "Poison Blades"
+          "Gift Klingen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -149,7 +149,7 @@
         "armour": 4,
         "cc": 4,
         "weapons": [
-          "Grotesques Blades"
+          "Grotesques Klingen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -164,8 +164,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Talos Blades",
-          "Paralyzer"
+          "Talos Klingen",
+          "Lähmer"
         ],
         "specialRules": [
           "Furchtlos",
@@ -181,8 +181,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Widowmaker",
-          "Perditor Claws"
+          "Witwenmacher",
+          "Perditor Klauen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -197,8 +197,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Splinter Pistols",
-          "Wych Weapons"
+          "Splinter Pistolen",
+          "Wych Waffen"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -212,7 +212,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "Erstschlag"
@@ -226,8 +226,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Hellglaives",
-          "Splinter Pods"
+          "Höllengleven",
+          "Splitterkapseln"
         ],
         "specialRules": [
           "Sprungmodule",
@@ -242,8 +242,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Splinter Rifles",
-          "Blades"
+          "Splinter Gewehre",
+          "Klingen"
         ],
         "specialRules": [
           "Antigrav",
@@ -258,8 +258,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Splinter Cannon",
-          "Twin Splinter Rifle"
+          "Splitterkanone",
+          "Zwillings-Splinter Gewehr"
         ],
         "specialRules": [
           "Antigrav",
@@ -276,7 +276,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Dark Lance"
+          "Schattenlanze"
         ],
         "specialRules": [
           "Antigrav",
@@ -293,8 +293,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Dark Lance|2|",
-          "Splinter Blast"
+          "Schattenlanze|2|",
+          "Splitterstoß"
         ],
         "specialRules": [
           "Antigrav",
@@ -309,7 +309,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Storm Vortex Projector"
+          "Sturm-Vortex Projektor"
         ],
         "specialRules": [
           "Antigrav",
@@ -324,7 +324,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Pulse Disintegrator|2|"
+          "Impuls Desintegrator|2|"
         ],
         "specialRules": [
           "Antigrav",
@@ -341,9 +341,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Dark Lance|2|FxF",
-          "Splinter Blast",
-          "Splinter Cannon|2|FwA"
+          "Schattenlanze|2|FxF",
+          "Splitterstoß",
+          "Splitterkanone|2|FwA"
         ],
         "specialRules": [
             "Damage Capacity 3",
@@ -363,9 +363,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Phantom Lance||FxF",
-          "Desolator||FwA",
-          "Splinter Cannon|2|FwA"
+          "Phantomlanze||FxF",
+          "Verwüster||FwA",
+          "Splitterkanone|2|FwA"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -383,8 +383,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Shadow Lance|2|",
-          "Tormentor Blades"
+          "Zwillings-Shadow Lance|2|",
+          "Tormentor Klingen"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -403,9 +403,9 @@
         "armour": 5,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Phantom Lance||FxF",
-          "Splinter Storm",
-          "Disintegrator Array"
+          "Zwillings-Schwerer Phantom Lance||FxF",
+          "Splittersturm",
+          "Desintegrator Batterie"
         ],
         "specialRules": [
           "Damage Capacity 5",

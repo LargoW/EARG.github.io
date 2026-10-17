@@ -8,10 +8,10 @@
         "name": "Corsair Felarch",
         "type": "CH",
         "weapons": [
-          "Eldar Power Weapon"
+          "Eldar Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Inspirierend",
           "Anführer"
         ]
@@ -24,7 +24,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Shuriken Catapults"
+          "Shuriken Katapulte"
         ],
         "specialRules": ["Sprungmodule"]
       },
@@ -36,8 +36,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Shuriken Pistols",
-          "Eldar Power Weapon"
+          "Shuriken Pistolen",
+          "Eldar Energiewaffe"
         ],
         "specialRules": ["Sprungmodule"]
       },
@@ -49,7 +49,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "GhostGeländegängig Long Rifles"
+          "GhostGeländegängig Langgewehre"
         ],
         "specialRules": ["Sprungmodule", "Aufklärer"]
       },
@@ -61,7 +61,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Starcannon|2"
+          "Sternenkanone|2"
         ],
         "specialRules": [
           "Geländegängig",
@@ -76,8 +76,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Splinter Cannon",
-          "Twin Splinter Rifle"
+          "Splitterkanone",
+          "Zwillings-Splinter Gewehr"
         ],
         "specialRules": [
           "Antigrav",
@@ -91,8 +91,8 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Twin Shuriken Cannon",
-          "AC Bright Lance|2"
+          "AC Zwillings-Shurikenkanone",
+          "AC Laserlanze|2"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -106,8 +106,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Pulse Laser|2|",
-          "AC Scatter Laser"
+          "AC Impulslaser|2|",
+          "AC Streulaser"
         ],
         "specialRules": [
           "Damage Capacity: 2",

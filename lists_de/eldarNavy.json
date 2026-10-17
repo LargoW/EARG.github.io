@@ -11,8 +11,8 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Twin Shuriken Cannon",
-          "AC Bright Lance|2"
+          "AC Zwillings-Shurikenkanone",
+          "AC Laserlanze|2"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -24,7 +24,7 @@
         "speed": "Fighter",
         "armour": 4,
         "weapons": [
-          "AC Bright Lance|2|"
+          "AC Laserlanze|2|"
         ],
         "specialRules": [
         ]
@@ -35,9 +35,9 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Twin Shuriken Cannon",
-          "AC Pulse Laser",
-          "AC Spinner Array"
+          "AC Zwillings-Shurikenkanone",
+          "AC Impulslaser",
+          "AC Spinner Batterie"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -49,7 +49,7 @@
         "speed": "Fighter",
         "armour": 4,
         "weapons": [
-          "AC Heavy D-Scythe"
+          "AC Schwerer D-Sense"
         ],
         "specialRules": [
           "Farsight"
@@ -63,8 +63,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Pulse Laser|2|",
-          "AC Scatter Laser"
+          "AC Impulslaser|2|",
+          "AC Streulaser"
         ],
         "specialRules": [
           "Damage Capacity: 2",
@@ -81,9 +81,9 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Vampire Hunter Twin Pulsar",
-          "AC Twin Eldar Missile Launcher",
-          "AC Scatter Laser"
+          "AC Vampire Hunter Zwillings-Pulsar",
+          "AC Zwillings-Eldar Raketenwerfer",
+          "AC Streulaser"
         ],
         "specialRules": [
           "Damage Capacity: 2",
@@ -97,9 +97,9 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Vampire Hunter Twin Pulsar",
-          "AC Twin Phoenix Missile Launcher",
-          "AC Scatter Laser"
+          "AC Vampire Hunter Zwillings-Pulsar",
+          "AC Zwillings-Phoenix Raketenwerfer",
+          "AC Streulaser"
         ],
         "specialRules": [
           "Damage Capacity: 2",
@@ -122,7 +122,7 @@
               }
             ]
           },
-          "Pin Point|0-1|"
+          "Präzisionsschuss|0-1|"
         ],
         "specialRules": [
           "Is equipped with either Orbital Bombardment or one Pin Point attack (may be chosen at the start of battle)"
@@ -140,7 +140,7 @@
               }
             ]
           },
-          "Pin Point|0-1 2|"
+          "Präzisionsschuss|0-1 2|"
         ],
         "specialRules": [
           "Is equipped with either Orbital Bombardment or two Pin Point attacks (may be chosen at the start of battle)",

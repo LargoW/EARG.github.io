@@ -62,7 +62,7 @@
           "units": "Four Intercessors, Assault Intercessors or Hellblasters",
           "extraUnits": [
             "Close Support",
-            "Commander",
+            "Befehlshaber",
             "Transports",
             "Geländegängigs"
           ],
@@ -77,7 +77,7 @@
           "name": "Inceptor Squad",
           "units": "Four Inceptors",
           "extraUnits": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 325
         },
@@ -85,7 +85,7 @@
           "name": "Suppressor Squad",
           "units": "Four Suppressors",
           "extraUnits": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 325
         },
@@ -93,7 +93,7 @@
           "name": "Reiver Squad",
           "units": "Four Reivers",
           "extraUnits": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 250
         },
@@ -101,7 +101,7 @@
           "name": "Infiltratoren Squad",
           "units": "Four Infiltratorens",
           "extraUnits": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 225
         }
@@ -115,7 +115,7 @@
           "units": "Three Aggressors or three Eradicators",
           "extraUnits": [
             "Close Support",
-            "Commander",
+            "Befehlshaber",
             "Transports",
             "Geländegängigs"
           ],
@@ -133,7 +133,7 @@
           "name": "Outrider Squad",
           "units": "Four Outriders",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Füge 2 Invaders hinzu: 75 Punkte"
           ],
           "points": 250
@@ -181,7 +181,7 @@
         "points": "50 points each"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {

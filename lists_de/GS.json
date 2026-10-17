@@ -11,7 +11,7 @@
         "armour": 3,
         "cc": 4,
         "weapons": [
-          "Large Rending Claws"
+          "Groß Reiß Klauen"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -25,7 +25,7 @@
         "name": "Genestealer Magus",
         "type": "CH",
         "weapons": [
-          "Psyker powers"
+          "Psionikerkräfte"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -58,7 +58,7 @@
         "name": "Jackal Alphus",
         "type": "CH",
         "weapons": [
-          "Scharfschütze Rifle"
+          "Scharfschütze Gewehr"
         ],
         "specialRules": [
           "Anführer"
@@ -72,12 +72,12 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Seismic Cannon",
-          "Power Weapon"
+          "Seismische Kanone",
+          "Energiewaffe"
         ],
         "specialRules": [
           "Inspirierend",
-          "Commander",
+          "Befehlshaber",
           "Infiltratorens"
         ]
       },
@@ -89,8 +89,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Seismic Cannon",
-          "Claws"
+          "Seismische Kanone",
+          "Klauen"
         ],
         "specialRules": [
           "Infiltratorens"
@@ -103,7 +103,7 @@
         "armour": 3,
         "cc": 4,
         "weapons": [
-          "Giant Mauls"
+          "Riesenkeulen"
         ],
         "specialRules": [
           "Infiltratorens"
@@ -117,8 +117,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Laspistols",
-          "Claws"
+          "Laserpistolen",
+          "Klauen"
         ],
         "specialRules": [
           "Beritten"
@@ -132,7 +132,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Atalan Incinerator"
+          "Atalan-Verbrenner"
         ],
         "specialRules": [
         ]
@@ -144,7 +144,7 @@
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Claws"
+          "Reiß Klauen"
         ],
         "specialRules": [
           "Aufklärer",
@@ -159,7 +159,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Metamorph Biomorphs"
+          "Metamorph-Biomorphe"
         ],
         "specialRules": [
           "Teleport",
@@ -174,8 +174,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Flesh Hooks",
-          "Scythed Claws"
+          "Fleischhaken",
+          "Scythed Klauen"
         ],
         "specialRules": [
           "Erstschlag",
@@ -193,7 +193,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber"
+          "Zwillings-Schwerer Stubber"
         ],
         "specialRules": [
           "Transport"
@@ -208,7 +208,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber Turret"
+          "Zwillings-Schwerer Stubber Turm"
         ],
         "specialRules": [
         ]
@@ -221,7 +221,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Seismic Cannon"
+          "Seismische Kanone"
         ],
         "specialRules": [
           "Aufklärer"
@@ -235,7 +235,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mining Laser"
+          "Schwerer Mining Laser"
         ],
         "specialRules": [
           "Geländegängig",
@@ -249,9 +249,9 @@
         "speed": "Fighter-Bomber",
         "armour": 6,
         "weapons": [
-          "AC Multilaser||FxF",
-          "AC Underwing Rockets||FxF",
-          "AC Storm Bolters||FxF"
+          "AC-Multilaser||FxF",
+          "AC Underwing Raketen||FxF",
+          "AC Sturmbolter||FxF"
         ],
         "specialRules": [
         ]
@@ -263,8 +263,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Autocannon",
-          "Lasguns"
+          "Maschinenkanone",
+          "Lasergewehre"
         ],
         "specialRules": [
           "Brood Brothers"
@@ -278,7 +278,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Autocannon|2|"
+          "Maschinenkanone|2|"
         ],
         "specialRules": [
           "Brood Brothers"
@@ -292,8 +292,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Autopistols",
-          "Chainswords"
+          "Automatikpistolen",
+          "Kettenschwerter"
         ],
         "specialRules": [
           "Brood Brothers"
@@ -307,8 +307,8 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Inferno Cannon",
-          "Heavy Bolter"
+          "Inferno Kanone",
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Brood Brothers"
@@ -322,9 +322,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Battle Cannon",
-          "Lascannon",
-          "Heavy Bolter|2|"
+          "Kampfkanone",
+          "Laserkanone",
+          "Schwerer Bolter|2|"
         ],
         "specialRules": [
           "Brood Brothers",
@@ -339,9 +339,9 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Demolisher",
-          "Lascannon",
-          "Plasma Cannon|2|"
+          "Belagerungskanone",
+          "Laserkanone",
+          "Plasmakanone|2|"
         ],
         "specialRules": [
           "Brood Brothers",
@@ -356,8 +356,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Hydra Autocannon|2",
-          "Heavy Bolter"
+          "Zwillings-Hydra Maschinenkanone|2",
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Brood Brothers"
@@ -371,8 +371,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mortar",
-          "Heavy Bolter"
+          "Schwerer Mörser",
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Brood Brothers"
@@ -386,8 +386,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Cannon",
-          "Heavy Bolter"
+          "Earthshaker Kanone",
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Brood Brothers"
@@ -402,7 +402,7 @@
         "ff": 5,
         "weapons": [
           "Multilaser",
-          "Heavy Bolter"
+          "Schwerer Bolter"
         ],
         "specialRules": [
           "Brood Brothers",
@@ -418,7 +418,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Schwerer Stubber"
         ],
         "specialRules": [
           "Brood Brothers",
@@ -434,11 +434,11 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Baneblade Cannon",
-          "Autocannon",
-          "Demolisher||FxF",
-          "Lascannon|2|FxF",
-          "Twin Heavy Bolter|3|FxF"
+          "Baneblade Kanone",
+          "Maschinenkanone",
+          "Belagerungskanone||FxF",
+          "Laserkanone|2|FxF",
+          "Zwillings-Schwerer Bolter|3|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -454,9 +454,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Stormblade Blastgun||FxF",
-          "Lascannon|2|FxF",
-          "Twin Heavy Bolter|2|FxF"
+          "Stormblade-Blaster||FxF",
+          "Laserkanone|2|FxF",
+          "Zwillings-Schwerer Bolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -472,8 +472,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Volcano Cannon||FxF",
-          "Twin Heavy Bolter|2|FxF"
+          "Volcano Kanone||FxF",
+          "Zwillings-Schwerer Bolter|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",

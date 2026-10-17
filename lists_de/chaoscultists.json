@@ -8,7 +8,7 @@
         "name": "Arch-Heretic",
         "type": "CH",
         "weapons": [
-          "Daemon Weapon"
+          "Dämon Waffe"
         ],
         "specialRules": [
           "Oberbefehlshaber"
@@ -35,8 +35,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Grenade Launchers",
-          "Daemon Weapon"
+          "Granate Werfer",
+          "Dämon Waffe"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -46,8 +46,7 @@
       {
         "name": "Daemonic Icon",
         "type": "CH",
-        "weapons": [
-        ],
+        "weapons": [],
         "specialRules": [
           "Daemonic Pact",
           "Augment Summoning (+1)"
@@ -61,28 +60,28 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Autocannon",
-          "Daemon Weapon"
+          "Maschinenkanone",
+          "Dämon Waffe"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Fallen Commander",
+        "name": "Fallen Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Autocannon",
-          "Daemon Weapon"
+          "Maschinenkanone",
+          "Dämon Waffe"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -95,8 +94,8 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Warp Bolt",
-          "Æther Blade"
+          "Warp Bolter",
+          "Æther Klinge"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -114,7 +113,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Grenade Launchers"
+          "Granate Werfer"
         ],
         "specialRules": [
         ]
@@ -127,8 +126,8 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Autopistols",
-          "Chainswords"
+          "Automatikpistolen",
+          "Kettenschwerter"
         ],
         "specialRules": [
         ]
@@ -141,8 +140,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Laspistols",
-          "Chainswords"
+          "Laserpistolen",
+          "Kettenschwerter"
         ],
         "specialRules": [
           "Beritten",
@@ -157,8 +156,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Stubber|2|",
-          "Massive Melee Weapons"
+          "Schwerer Stubber|2|",
+          "Massiv Nahkampfwaffen"
         ],
         "specialRules": [
         ],
@@ -171,7 +170,7 @@
         "armour": 3,
         "cc": 3,
         "weapons": [
-          "Horrific Mutations"
+          "Schreckliche Mutationen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -187,8 +186,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Horrific Mutations",
-          "Sorcerous Bolts"
+          "Schreckliche Mutationen",
+          "Zauberbolzen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -202,7 +201,7 @@
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Claws and Fangs"
+          "Klauen and Fangzähne"
         ],
         "specialRules": [
           "Entbehrlich"
@@ -217,7 +216,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Schwerer Stubber"
         ],
         "specialRules": [
             "Transport"
@@ -232,7 +231,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber Turret"
+          "Zwillings-Schwerer Stubber Turm"
         ],
         "specialRules": [
         ]
@@ -245,7 +244,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Arcane Technology"
+          "Arkane Technologie"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -266,7 +265,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-            "Arcane Technology"
+            "Arkane Technologie"
         ],
         "specialRules": [
             "Damage Capacity 3",
@@ -286,7 +285,7 @@
         "speed": 10,
         "cc": 6,
         "weapons": [
-          "Walking Pox"
+          "Wandelnde Pest"
         ],
         "specialRules": [
           "Regeneration",
@@ -302,8 +301,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Autopistols",
-          "Chainswords"
+          "Automatikpistolen",
+          "Kettenschwerter"
         ],
         "specialRules": [
         ]
@@ -316,7 +315,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Divining Spear"
+          "Divining Speer"
         ],
         "specialRules": [
           "Beritten",
@@ -332,8 +331,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Beam of Unreality",
-          "Mælstrom of Madness"
+          "Strahl der Unwirklichkeit",
+          "Mahlstrom des Wahnsinns"
         ],
         "specialRules": [
           "Furchtlos",

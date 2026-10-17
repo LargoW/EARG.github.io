@@ -68,7 +68,7 @@
           "name": "Storm Scouts",
           "units": "Three Raven Guard Scouts, three Land Speeder Storms",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Land Speeders"
           ],
           "points": 175
@@ -77,7 +77,7 @@
           "name": "Tacticals",
           "units": "Four Tacticals plus transport",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Anti-Air",
             "Land Speeders",
             "Razorbacks"
@@ -94,7 +94,7 @@
           "name": "Sternguard Veteran",
           "units": "Four Sternguard Veterans plus transport",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Anti-Air",
             "Land Speeders",
             "Razorbacks"
@@ -105,7 +105,7 @@
           "name": "Vanguard Veteran",
           "units": "Four Vanguard Veterans",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Land Speeders"
           ],
           "points": 250
@@ -114,7 +114,7 @@
           "name": "Terminators",
           "units": "Any four of the following units: Terminators, Cyclone Terminators",
           "extraUnits": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 350
         }
@@ -128,7 +128,7 @@
           "name": "Assaults",
           "units": "Four Assaults",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Land Speeders"
           ],
           "points": 175
@@ -137,7 +137,7 @@
           "name": "Bikes",
           "units": "Any five of the following units: Attack Bike, Assault Bikes",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Land Speeders"
           ],
           "points": 200
@@ -147,7 +147,7 @@
           "units": "Four Devastators plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Land Speeders",
             "Razorbacks"
           ],
@@ -225,7 +225,7 @@
         ]
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {

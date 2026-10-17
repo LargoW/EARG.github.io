@@ -16,7 +16,7 @@
       "from": "IG.json",
       "units": [
         "Cadian Oberbefehlshaber",
-        "Cadian Commander",
+        "Cadian Befehlshaber",
         "Commissar",
         "Whiteshields",
         "Infantry",
@@ -88,7 +88,7 @@
         },
         {
           "name": "Whiteshield Company",
-          "units": "One Cadian Commander with a Commissar, fifteen Whiteshields, two Stormlords.",
+          "units": "One Cadian Befehlshaber with a Commissar, fifteen Whiteshields, two Stormlords.",
           "extraUnits": [
             "Leman Russ Squadron",
             "Super-Heavy Tank"
@@ -97,7 +97,7 @@
         },
         {
           "name": "Shock Trooper Company",
-          "units": "One Cadian Commander with a Commissar, eleven Infantry units, two Crassus Assault Transports",
+          "units": "One Cadian Befehlshaber with a Commissar, eleven Infantry units, two Crassus Assault Transports",
           "upgrades": [
           ],
           "points": 400

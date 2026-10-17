@@ -12,15 +12,15 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Slicing Shards",
-          "Lash of Torment"
+          "Schneidende Splitter",
+          "Peitsche der Qual"
         ],
         "specialRules": [
           "Damage Capacity 4",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Inspirierend",
           "Daemonic Focus",
           "Warp Rift",
@@ -37,8 +37,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Slicing Shards",
-          "Lash of Torment"
+          "Schneidende Splitter",
+          "Peitsche der Qual"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -59,8 +59,8 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Barbed Claws",
-          "Cacophonic Blast"
+          "Stachelklauen",
+          "Kakophonischer Schallstoß"
         ],
         "specialRules": [
           "Daemonic Focus",
@@ -76,8 +76,8 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Barbed Claws",
-          "Cacophonic Blast"
+          "Stachelklauen",
+          "Kakophonischer Schallstoß"
         ],
         "specialRules": [
           "Daemonic Focus",
@@ -92,7 +92,7 @@
         "armour": 4,
         "cc": 3,
         "weapons": [
-          "Piercing Claws"
+          "Durchbohrend Klauen"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -106,7 +106,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -120,7 +120,7 @@
         "armour": 5,
         "cc": 2,
         "weapons": [
-          "Barbed Claws"
+          "Stachelklauen"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -137,15 +137,15 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Stream of Corruption",
-          "Filth Mace"
+          "Strom der Verderbnis",
+          "Filth Streitkolben"
         ],
         "specialRules": [
           "Damage Capacity 5",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Inspirierend",
           "Daemonic Focus",
           "Warp Rift",
@@ -162,8 +162,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Stream of Corruption",
-          "Filth Mace"
+          "Strom der Verderbnis",
+          "Filth Streitkolben"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -184,8 +184,8 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Rancid Visitations",
-          "Nurglings"
+          "Ranzige Heimsuchungen",
+          "Nurglinge"
         ],
         "specialRules": [
           "Daemonic Focus",
@@ -201,8 +201,8 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Rancid Visitations",
-          "Blight Fly"
+          "Ranzige Heimsuchungen",
+          "Seuchenfliege"
         ],
         "specialRules": [
           "Daemonic Focus",
@@ -219,7 +219,7 @@
         "armour": 3,
         "cc": 3,
         "weapons": [
-          "Plagueswords"
+          "Seuchenschwerter"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -233,7 +233,7 @@
         "armour": 4,
         "cc": 4,
         "weapons": [
-          "Slobbering Affection"
+          "Schleimende Zuneigung"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -248,8 +248,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Death's Heads",
-          "Blight Fly"
+          "Todesköpfe",
+          "Seuchenfliege"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -266,15 +266,15 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Axe of Khorne",
-          "Lash of Khorne"
+          "Axt des Khorne",
+          "Peitsche des Khorne"
         ],
         "specialRules": [
           "Damage Capacity 4",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Inspirierend",
           "Daemonic Focus",
           "Warp Rift",
@@ -292,8 +292,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Axe of Khorne",
-          "Lash of Khorne"
+          "Axt des Khorne",
+          "Peitsche des Khorne"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -315,7 +315,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Skull Cannon"
+          "Skull Kanone"
         ],
         "specialRules": [
             "Daemonic Focus",
@@ -331,7 +331,7 @@
         "armour": 4,
         "cc": 2,
         "weapons": [
-          "Sword of Blood",
+          "Schwert of Blood",
           "Juggernaut"
         ],
         "specialRules": [
@@ -349,7 +349,7 @@
         "armour": 4,
         "cc": 4,
         "weapons": [
-          "Hellblades"
+          "Höllenklingen"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -363,7 +363,7 @@
         "armour": 5,
         "cc": 2,
         "weapons": [
-          "Claws and Fangs"
+          "Klauen and Fangzähne"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -394,15 +394,15 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Withering Gaze",
-          "Bedlam Staff"
+          "Withering Blick",
+          "Bedlam Stab"
         ],
         "specialRules": [
           "Damage Capacity 4",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Inspirierend",
           "Daemonic Focus",
           "Warp Rift",
@@ -420,8 +420,8 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Withering Gaze",
-          "Bedlam Staff"
+          "Withering Blick",
+          "Bedlam Stab"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -443,7 +443,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Violet Fire of Tzeentch"
+          "Violettes Feuer des Tzeentch"
         ],
         "specialRules": [
           "Daemonic Focus",
@@ -459,7 +459,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Violet Fire of Tzeentch"
+          "Violettes Feuer des Tzeentch"
         ],
         "specialRules": [
           "Sprungmodule",
@@ -476,7 +476,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Sorcerous Bolts"
+          "Zauberbolzen"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -491,7 +491,7 @@
         "cc": 5,
         "ff": 2,
         "weapons": [
-          "Flames of Tzeentch"
+          "Tzeentchs Flammen"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -505,7 +505,7 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Claws and Fangs"
+          "Klauen and Fangzähne"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -520,7 +520,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "Entbehrlich",
@@ -534,7 +534,7 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "In Midnight Clad",
@@ -551,8 +551,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Harvester Cannon",
-          "Warpsword"
+          "Harvester Kanone",
+          "Warpschwert"
         ],
         "specialRules": [
           "Daemonic Focus",

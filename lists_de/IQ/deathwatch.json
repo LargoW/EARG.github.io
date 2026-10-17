@@ -30,7 +30,7 @@
     {
       "from": "SM.json",
       "units": [
-        "Watch Commander",
+        "Watch Befehlshaber",
         "Watch Sergeant",
         "Chaplain",
         "Librarian",
@@ -202,10 +202,10 @@
     "items": [
       {
         "name": "0-1 Oberbefehlshaber",
-        "description": "Ersetze an Ordo Xenos Inquisitor durch an Ordo Xenos Inquisitor Lord, oder a Watch Sergeant durch a Watch Commander",
+        "description": "Ersetze an Ordo Xenos Inquisitor durch an Ordo Xenos Inquisitor Lord, oder a Watch Sergeant durch a Watch Befehlshaber",
         "points": [
           "Inquisitor Lord: 50 points",
-          "Watch Commander: 100 points"
+          "Watch Befehlshaber: 100 points"
         ]
       },
       {

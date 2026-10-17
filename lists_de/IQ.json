@@ -8,7 +8,7 @@
         "name": "Canoness",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Oberbefehlshaber"
@@ -18,10 +18,10 @@
         "name": "Palatine",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },
@@ -29,7 +29,7 @@
         "name": "Ministorum Priest",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Faithful",
@@ -44,7 +44,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Ardent Blade"
+          "Ardent Klinge"
         ],
         "specialRules": [
           "Furchtlos",
@@ -61,8 +61,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Multi-Melta",
-          "Power Weapon"
+          "Multimelter",
+          "Energiewaffe"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -79,11 +79,11 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Multi-Melta",
-          "Power Weapon"
+          "Multimelter",
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Aufklärer",
           "Unmodifizierter Rettungswurf"
@@ -98,9 +98,9 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Psycannon",
-          "Smite",
-          "Power Weapon"
+          "Psikanone",
+          "Schmetterschlag",
+          "Energiewaffe"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -117,12 +117,12 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Psycannon",
-          "Smite",
-          "Power Weapon"
+          "Psikanone",
+          "Schmetterschlag",
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Furchtlos",
           "Teleport Homer",
@@ -137,7 +137,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Meltaguns"
+          "Meltergewehre"
         ],
         "specialRules": [
           "Aufklärer"
@@ -151,8 +151,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Frag Cannon",
-          "Power Weapon"
+          "Frag Kanone",
+          "Energiewaffe"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -168,11 +168,11 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Frag Cannon",
-          "Power Weapon"
+          "Frag Kanone",
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Furchtlos",
           "Unmodifizierter Rettungswurf"
@@ -186,7 +186,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasma Guns"
+          "Plasma Geschütze"
         ],
         "specialRules": [
         ]
@@ -199,8 +199,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Grenade Launchers",
-          "Power Mauls & Suppression Shields"
+          "Granate Werfer",
+          "Energiekeulen & Unterdrückungs Schilde"
         ],
         "specialRules": []
       },
@@ -212,8 +212,8 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Power Mauls",
-          "Auto Pistols"
+          "Energiekeulen",
+          "Automatikpistolen"
         ],
         "specialRules": [
           "Aufklärer"
@@ -226,7 +226,7 @@
         "armour": 5,
         "cc": 5,
         "weapons": [
-          "Fangs"
+          "Fangzähne"
         ],
         "specialRules": [
           "Furchtlos",
@@ -243,8 +243,8 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Heavy Bolter",
-          "Bolters"
+          "Schwerer Bolter",
+          "Bolter"
         ],
         "specialRules": [
           "Faithful"
@@ -258,7 +258,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Multi-Melta|2|"
+          "Multimelter|2|"
         ],
         "specialRules": [
           "Faithful"
@@ -272,7 +272,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Meltaguns"
+          "Meltergewehre"
         ],
         "specialRules": [
           "Faithful",
@@ -287,7 +287,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Heavy Flamer|2|"
+          "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
           "Faithful"
@@ -301,7 +301,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Dual Bolt Pistols"
+          "Dual Boltpistolen"
         ],
         "specialRules": [
           "Faithful",
@@ -315,7 +315,7 @@
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Eviserators"
+          "Eviszeratoren"
         ],
         "specialRules": [
           "Faithful",
@@ -329,7 +329,7 @@
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Combat Flails"
+          "Kampfflegel"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -345,7 +345,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Assassin Weapons"
+          "Assassinenwaffen"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -359,8 +359,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Flamer",
-          "Chainswords"
+          "Flammenwerfer",
+          "Kettenschwerter"
         ],
         "specialRules": [
         ]
@@ -372,7 +372,7 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Power Weapons"
+          "Energie-Waffen"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -386,7 +386,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Flamer"
+          "Flammenwerfer"
         ],
         "specialRules": [],
         "notes": "Kann zwei Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren."
@@ -399,8 +399,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer",
-          "Power Saws"
+          "Schwerer Flammenwerfer",
+          "Energie-Saws"
         ],
         "specialRules": [
           "Furchtlos",
@@ -417,8 +417,8 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Bolter",
-          "Penitent Flails"
+          "Zwillings-Schwerer Bolter",
+          "Penitent Flegel"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -434,8 +434,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Bolter",
-          "Penitent Flails"
+          "Zwillings-Schwerer Bolter",
+          "Penitent Flegel"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -453,7 +453,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Exorcist Launcher"
+          "Exorcist Werfer"
         ],
         "specialRules": [
           "Faithful"
@@ -467,7 +467,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Whirlwind Launcher"
+          "Whirlwind Werfer"
         ],
         "specialRules": [
           "Faithful"
@@ -481,7 +481,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Hunter-Killer"
+          "Jagd-Killer"
         ],
         "specialRules": [
           "Faithful"
@@ -495,7 +495,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Storm Bolter"
+          "Sturmbolter"
         ],
         "specialRules": [
           "Faithful",
@@ -511,7 +511,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber"
+          "Zwillings-Schwerer Stubber"
         ],
         "specialRules": [
           "Geländegängig",
@@ -527,7 +527,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Flamer"
+          "Schwerer Flammenwerfer"
         ],
         "specialRules": [
           "Faithful",
@@ -544,7 +544,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Multi-Melta"
+          "Zwillings-Multimelter"
         ],
         "specialRules": [
           "Faithful",
@@ -560,9 +560,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Vulcan Mega-Bolter||FxF",
-          "Twin Heavy Bolter||FxF",
-          "Twin Heavy Flamer  |2|"
+          "Vulcan-Megabolter||FxF",
+          "Zwillings-Schwerer Bolter||FxF",
+          "Zwillings-Schwerer Flammenwerfer  |2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -581,8 +581,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Exorcist Launcher|2|FxF",
-          "Inferno Cannon|2|"
+          "Exorcist Werfer|2|FxF",
+          "Inferno Kanone|2|"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -602,10 +602,10 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Volcano Cannon||FxF",
-          "Battle Cannon|4|",
-          "Inferno Cannon |4|",
-          "Heavy Bolter AA Turret|2|"
+          "Volcano Kanone||FxF",
+          "Kampfkanone|4|",
+          "Inferno Kanone |4|",
+          "Schwerer Bolter AA Turm|2|"
         ],
         "specialRules": [
           "Damage Capacity 8",

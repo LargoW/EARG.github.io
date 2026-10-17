@@ -7,8 +7,7 @@
       {
         "name": "Legate",
         "type": "CH",
-        "weapons": [
-        ],
+        "weapons": [],
         "specialRules": [
           "Oberbefehlshaber"
         ]
@@ -16,10 +15,9 @@
       {
         "name": "Veteran Princeps",
         "type": "CH",
-        "weapons": [
-        ],
+        "weapons": [],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },
@@ -31,12 +29,12 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Hellstorm Cannon||FwA",
-          "Plasma Annihilator||FwA",
-          "Quake Cannon||FxF",
-          "Defense Laser||",
-          "Battle Cannon|4|",
-          "Leg Bastions"
+          "Hellstorm Kanone||FwA",
+          "Plasma-Annihilator||FwA",
+          "Quake Kanone||FxF",
+          "Verteidigungs Laser||",
+          "Kampfkanone|4|",
+          "Beinbastionen"
         ],
         "specialRules": [
           "Damage Capacity 10",
@@ -59,11 +57,11 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Vengeance Cannon||FwA",
-          "Doomstrike Missile|8|FwA",
-          "Quad Hydra Autocannon|4|",
-          "Head Gun||FxF",
-          "Leg Bastions"
+          "Vengeance Kanone||FwA",
+          "Doomstrike Rakete|8|FwA",
+          "Vierlings-Hydra Maschinenkanone|4|",
+          "Head Geschütz||FxF",
+          "Beinbastionen"
         ],
         "specialRules": [
           "Damage Capacity 10",
@@ -87,10 +85,10 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Plasma Destructor|2|FwA",
-          "Apocalypse Missile Launcher|2|FxF",
-          "Battle Cannon|2|",
-          "Anvilus Autocannon Battery|2|"
+          "Plasma Zerstörer|2|FwA",
+          "Apocalypse Raketenwerfer|2|FxF",
+          "Kampfkanone|2|",
+          "Anvilus Maschinenkanone Batterie|2|"
         ],
         "specialRules": [
           "Damage Capacity 9",
@@ -112,10 +110,10 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Gatling Blaster||FwA",
-          "Volcano Cannon||FwA",
-          "Paired Turbo-Laser Destructors|0-1|FxF",
-          "Paired Apocalypse Missile Launchers|0-1|FxF"
+          "Gatling-Blaster||FwA",
+          "Volcano Kanone||FwA",
+          "Gekoppelte Turbolaser-Destruktoren|0-1|FxF",
+          "Gekoppelte Apocalypse-Raketenwerfer|0-1|FxF"
         ],
         "specialRules": [
           "Damage Capacity 8",
@@ -138,19 +136,19 @@
         "ff": 3,
         "weapons": [
           "CARAPACE (choose one)",
-          "Paired Turbo-Laser Destructors|0-1|FxF",
-          "Paired Apocalypse Missile Launchers|0-1|FxF",
-          "Paired Gatling Blasters|0-1|FxF",
-          "Paired Laser Blasters|0-1|FxF",
-          "Paired Titan Melta Cannons|0-1|",
+          "Gekoppelte Turbolaser-Destruktoren|0-1|FxF",
+          "Gekoppelte Apocalypse-Raketenwerfer|0-1|FxF",
+          "Paired Gatling Blaster|0-1|FxF",
+          "Paired Laser Blaster|0-1|FxF",
+          "Paired Titan Melta Kanonen|0-1|",
           "ARMS (choose two. Max one 0-1)",
-          "Gatling Blaster|0-2|FwA",
-          "Turbo-Laser Destructor|0-2|FwA",
-          "Laser Burner|0-2|",
-          "Titan Power Fist|0-2|",
-          "Titan Plasma Cannon|0-2|FwA",
-          "Volcano Cannon|0-1|FwA",
-          "Plasma Destructor|0-1|FwA"
+          "Gatling-Blaster|0-2|FwA",
+          "Turbo-Laser Zerstörer|0-2|FwA",
+          "Laserbrenner|0-2|",
+          "Titan Energiefaust|0-2|",
+          "Titan Plasmakanone|0-2|FwA",
+          "Volcano Kanone|0-1|FwA",
+          "Plasma Zerstörer|0-1|FwA"
         ],
         "specialRules": [
           "Damage Capacity 8",
@@ -173,18 +171,18 @@
         "ff": 4,
         "weapons": [
           "CARAPACE (choose one)",
-          "2x Barrage Missile|0-1|FxF",
-          "2x Vortex Missile|0-1|FxF",
-          "Paired Turbo-Laser Destructors|0-1|FxF",
-          "Paired Gatling Blasters|0-1|FxF",
-          "Paired Laser Blasters|0-1|FxF",
-          "Paired Titan Plasma Cannons|0-1|FxF",
+          "2x Sperrfeuer Rakete|0-1|FxF",
+          "2x Vortex Rakete|0-1|FxF",
+          "Gekoppelte Turbolaser-Destruktoren|0-1|FxF",
+          "Paired Gatling Blaster|0-1|FxF",
+          "Paired Laser Blaster|0-1|FxF",
+          "Paired Titan Plasma Kanonen|0-1|FxF",
           "ARMS (choose one)",
-          "2x Volcano Cannon|0-1|FwA",
-          "2x Titan Plasma Cannon|0-1|FwA",
-          "2x Plasma Destructor|0-1|FwA",
-          "2x Quake Cannon|0-1|FwA",
-          "2x Laser Blaster|0-1|FwA"
+          "2x Volcano Kanone|0-1|FwA",
+          "2x Titan Plasmakanone|0-1|FwA",
+          "2x Plasma Zerstörer|0-1|FwA",
+          "2x Quake Kanone|0-1|FwA",
+          "2x Laserblaster|0-1|FwA"
         ],
         "specialRules": [
           "Damage Capacity 8",
@@ -206,8 +204,8 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Turbo-Laser Destructor|2|FwA",
-          "Apocalypse Missile Launcher||FxF"
+          "Turbo-Laser Zerstörer|2|FwA",
+          "Apocalypse Raketenwerfer||FxF"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -228,15 +226,15 @@
         "ff": 3,
         "weapons": [
           ">Standard Configuration<",
-          "Turbo-Laser Destructor|2|FwA",
-          "Apocalypse Missile Launcher||FxF",
+          "Turbo-Laser Zerstörer|2|FwA",
+          "Apocalypse Raketenwerfer||FxF",
           ">Close Assault Configuration<",
-          "Apocalypse Missile Launcher||FxF",
-          "Titan Melta Cannon||FxF",
-          "Titan Chainfist||",
+          "Apocalypse Raketenwerfer||FxF",
+          "Titan Meltakanone||FxF",
+          "Titan Kettenfaust||",
           ">Support Configuration<",
-          "Apocalypse Missile Launcher|2|FwA",
-          "Anvilus Carapace Landing Pad||FxF"
+          "Apocalypse Raketenwerfer|2|FwA",
+          "Anvilus-Panzerungslandeplattform||FxF"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -258,16 +256,16 @@
         "ff": 3,
         "weapons": [
           "CARAPACE (choose one)",
-          "Apocalypse Missile Launcher|0-1|FxF",
-          "Vulcan Mega-Bolter|0-1|FxF",
-          "Turbo-Laser Destructor|0-1|FxF",
+          "Apocalypse Raketenwerfer|0-1|FxF",
+          "Vulcan-Megabolter|0-1|FxF",
+          "Turbo-Laser Zerstörer|0-1|FxF",
           "ARMS (choose two)",
-          "Turbo-Laser Destructor|0-2|FwA",
-          "Gatling Blaster|0-2|FwA",
-          "Titan Power Fist|0-2|",
-          "Titan Chainfist|0-2|",
-          "Laser Burner|0-2|",
-          "Titan Melta Cannon|0-2|"
+          "Turbo-Laser Zerstörer|0-2|FwA",
+          "Gatling-Blaster|0-2|FwA",
+          "Titan Energiefaust|0-2|",
+          "Titan Kettenfaust|0-2|",
+          "Laserbrenner|0-2|",
+          "Titan Meltakanone|0-2|"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -288,17 +286,17 @@
         "ff": 4,
         "weapons": [
           "CARAPACE (choose one)",
-          "Warp Missile|0-1|FxF",
-          "Deathstrike Missile|0-1|FxF",
-          "Titan Plasma Cannon|0-1|FxF",
-          "Anvilus Carapace Landing Pad|0-1|",
+          "Warp Rakete|0-1|FxF",
+          "Deathstrike Rakete|0-1|FxF",
+          "Titan Plasmakanone|0-1|FxF",
+          "Anvilus-Panzerungslandeplattform|0-1|",
           "ARMS (choose two. Max one 0-1)",
-          "Turbo-Laser Destructor|0-2|FwA",
-          "Gatling Blaster|0-2|FwA",
-          "Apocalypse Missile Launcher|0-2|FwA",
-          "Titan Plasma Cannon|0-2|FwA",
-          "Laser Blaster|0-2|FwA",
-          "Volcano Cannon|0-1|FwA"
+          "Turbo-Laser Zerstörer|0-2|FwA",
+          "Gatling-Blaster|0-2|FwA",
+          "Apocalypse Raketenwerfer|0-2|FwA",
+          "Titan Plasmakanone|0-2|FwA",
+          "Laserblaster|0-2|FwA",
+          "Volcano Kanone|0-1|FwA"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -319,18 +317,18 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Anvilus Autocannon Battery|2|",
+          "Anvilus Maschinenkanone Batterie|2|",
           "CARAPACE (choose one)",
-          "Nemesis Quake Cannon|0-1|FxF",
-          "Volcano Cannon|0-1|FxF",
-          "Plasma Destructor|0-1|FxF",
+          "Nemesis Quake Kanone|0-1|FxF",
+          "Volcano Kanone|0-1|FxF",
+          "Plasma Zerstörer|0-1|FxF",
           "ARMS (choose two. Max one 0-1)",
-          "Turbo-Laser Destructor|0-2|FwA",
-          "Titan Plasma Cannon|0-2|FwA",
-          "Laser Blaster|0-2|FwA",
-          "Gatling Blaster|0-2|FwA",
-          "Volcano Cannon|0-1|FwA",
-          "Plasma Destructor|0-1|FwA"
+          "Turbo-Laser Zerstörer|0-2|FwA",
+          "Titan Plasmakanone|0-2|FwA",
+          "Laserblaster|0-2|FwA",
+          "Gatling-Blaster|0-2|FwA",
+          "Volcano Kanone|0-1|FwA",
+          "Plasma Zerstörer|0-1|FwA"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -350,8 +348,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasma Blastgun||FwA",
-          "Vulcan Mega-Bolter||FwA"
+          "Plasma-Blaster||FwA",
+          "Vulcan-Megabolter||FwA"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -372,14 +370,14 @@
         "ff": 5,
         "weapons": [
           ">Standard Configuration<",
-          "Plasma Blastgun||FwA",
-          "Vulcan Mega-Bolter||FwA",
+          "Plasma-Blaster||FwA",
+          "Vulcan-Megabolter||FwA",
           ">Support Configuration<",
-          "Inferno Gun||FwA",
-          "Vulcan Mega-Bolter||FwA",
+          "Inferno Geschütz||FwA",
+          "Vulcan-Megabolter||FwA",
           ">Tank Hunter Configuration<",
-          "Plasma Blastgun||FwA",
-          "Scout Turbo-Laser Destructor||FwA"
+          "Plasma-Blaster||FwA",
+          "Scout Turbo-Laser Zerstörer||FwA"
         ],
         "specialRules": [
           "Damage Capacity 3",

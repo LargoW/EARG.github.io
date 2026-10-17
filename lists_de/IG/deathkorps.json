@@ -15,7 +15,7 @@
       "from": "IG.json",
       "units": [
         "DKoK Oberbefehlshaber",
-        "DKoK Commander",
+        "DKoK Befehlshaber",
         "Commissar",
         "Assault Infantry",
         "Siege Infantry",
@@ -86,7 +86,7 @@
         },
         {
           "name": "Assault Company",
-          "units": "One DKoK Commander with a Commissar, nine Assault Infantry, one Gorgon",
+          "units": "One DKoK Befehlshaber with a Commissar, nine Assault Infantry, one Gorgon",
           "extraUnits": [
             "Leman Russ",
             "Bane Wolves"
@@ -117,7 +117,7 @@
         },
         {
           "name": "Siege Infantry Company",
-          "units": "DKoK Commander with Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
+          "units": "DKoK Befehlshaber with Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
           "extraUnits": [
             "Füge 4 Rapiers und 16cm Trenches, oder 3 Thudd Guns und 12cm Trenches hinzu: 75 Punkte",
             "Füge bis zu 2 Scharfschützes hinzu: 25 Punkte pro Stück"
@@ -179,7 +179,7 @@
         },
         {
           "name": "Grenadier Company",
-          "units": "One DKoK Commander with a Commissar, seven Grenadiers, four Storm Chimeras",
+          "units": "One DKoK Befehlshaber with a Commissar, seven Grenadiers, four Storm Chimeras",
           "extraUnits": [
             "Ersetze 4 Storm Chimeras durch a Gorgon: Free",
             "Bane Wolf"

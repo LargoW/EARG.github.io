@@ -8,7 +8,7 @@
         "name": "Genestealer Patriarch",
         "type": "CH",
         "weapons": [
-          "Large Rending Claws||EA(+1)"
+          "Groß Reiß Klauen||EA(+1)"
         ],
         "specialRules": [
           "Extended Command",
@@ -22,10 +22,10 @@
         "name": "Genestealer Magus",
         "type": "CH",
         "weapons": [
-          "Mental Onslaught"
+          "Geistiger Ansturm"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Extended Command",
           "Unmodifizierter Rettungswurf",
           "Anführer"
@@ -35,7 +35,7 @@
         "name": "Genestealer Primus",
         "type": "CH",
         "weapons": [
-          "Large Rending Claws||EA(+1)"
+          "Groß Reiß Klauen||EA(+1)"
         ],
         "specialRules": [
           "Inspirierend",
@@ -72,9 +72,9 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber",
-          "Autopistols",
-          "Rending Claws"
+          "Schwerer Stubber",
+          "Automatikpistolen",
+          "Reiß Klauen"
         ],
         "specialRules": [
           "Entbehrlich"
@@ -88,7 +88,7 @@
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Claws"
+          "Reiß Klauen"
         ],
         "specialRules": [
           "Aufklärer",
@@ -102,7 +102,7 @@
         "armour": 4,
         "cc": 4,
         "weapons": [
-          "Giant Mauls"
+          "Riesenkeulen"
         ],
         "specialRules": [
         ],
@@ -116,9 +116,9 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Blasting Charges",
-          "Hand Flamers",
-          "Rending Claws"
+          "Blasting Ladungen",
+          "Hand Flammenwerfer",
+          "Reiß Klauen"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -132,8 +132,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Autocannon",
-          "Autoguns"
+          "Maschinenkanone",
+          "Automatikgewehre"
         ],
         "notes": "Jede zweite Einheit (aufgerundet) ist mit einer Maschinenkanone bewaffnet."
       },
@@ -144,7 +144,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Autocannon|2"
+          "Maschinenkanone|2"
         ]
       },
       {
@@ -154,7 +154,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Heavy Mortar"
+          "Schwerer Mörser"
         ]
       },
       {
@@ -165,8 +165,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Autopistols",
-          "Chainswords"
+          "Automatikpistolen",
+          "Kettenschwerter"
         ],
         "specialRules": [
           "Beritten"
@@ -180,7 +180,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Atalan Incinerator"
+          "Atalan-Verbrenner"
         ]
       },
       {
@@ -191,8 +191,8 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Mining Laser|0-1",
-          "Seismic Heavy Cannon|0-1"
+          "Schwerer Mining Laser|0-1",
+          "Seismic Schwerer Kanone|0-1"
         ],
         "notes": "Mit einem Schweren Bergbaulaser oder einer Schweren Seismischen Kanone bewaffnet."
       },
@@ -204,7 +204,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Heavy Stubber Turret"
+          "Zwillings-Schwerer Stubber Turm"
         ]
       },
       {
@@ -215,7 +215,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Stubber"
+          "Schwerer Stubber"
         ],
         "notes": "Kann zwei Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Aberrants belegen jeweils zwei Plätze."
       },
@@ -227,7 +227,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Grenade Launchers"
+          "Granate Werfer"
         ],
         "specialRules": [
           "Transport"
@@ -242,7 +242,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Seismic Heavy Cannon"
+          "Seismic Schwerer Kanone"
         ],
         "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Aberrants belegen jeweils zwei Plätze."
       },
@@ -254,7 +254,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Drilldozer Blade"
+          "Drilldozer Klinge"
         ],
         "specialRules": [
           "Geländegängig"
@@ -269,8 +269,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Retrofitted Defense Laser||FxF",
-          "Twin Heavy Stubber|2|FxF"
+          "Retrofitted Verteidigungs Laser||FxF",
+          "Zwillings-Schwerer Stubber|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -286,8 +286,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Excavator Power Arms",
-          "Twin Heavy Stubber|2|FxF"
+          "Excavator Energie-Arms",
+          "Zwillings-Schwerer Stubber|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",

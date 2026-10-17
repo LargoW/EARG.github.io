@@ -8,11 +8,11 @@
         "name": "Harlequin Avatar",
         "type": "CH",
         "weapons": [
-          "Harlequin Kiss"
+          "Harlequin Kuss"
         ],
         "specialRules": [
           "Anführer",
-          "Commander"
+          "Befehlshaber"
         ],
         "notes": "Darf sich nur Harlekin-Troupen oder Skyweaver-Jetbikes anschließen."
       },
@@ -20,7 +20,7 @@
         "name": "Master Mime",
         "type": "CH",
         "weapons": [
-          "Monomolecular Blade"
+          "Monomolecular Klinge"
         ],
         "specialRules": [
           "Anführer"
@@ -30,7 +30,7 @@
         "name": "Solitaire",
         "type": "CH",
         "weapons": [
-          "Harlequin Kiss"
+          "Harlequin Kuss"
         ],
         "specialRules": [
           "Inspirierend"
@@ -40,7 +40,7 @@
         "name": "Shadowseer",
         "type": "CH",
         "weapons": [
-          "Shards of Light"
+          "Shards of Licht"
         ],
         "specialRules": [
             "Anführer",
@@ -53,7 +53,7 @@
         "speed": 20,
         "cc": 3,
         "weapons": [
-          "Mime Concealed Blades"
+          "Mime Concealed Klingen"
         ],
         "specialRules": [
           "Holofield (5+)",
@@ -69,7 +69,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Shrieker Cannons"
+          "Shrieker Kanonen"
         ],
         "specialRules": [
           "Holofield (5+)",
@@ -85,7 +85,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Harlequin's Embrace"
+          "Harlequin's Umarmung"
         ],
         "specialRules": [
           "Holofield (5+)",
@@ -101,8 +101,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Shuriken Cannon",
-          "Zepyrglaive"
+          "Shurikenkanone",
+          "Zephyrgleve"
         ],
         "specialRules": [
           "Holofield (5+)",
@@ -120,8 +120,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Prismatic Cannon",
-          "Shuriken Cannon"
+          "Prismatic Kanone",
+          "Shurikenkanone"
         ],
         "specialRules": [
             "Holofield (5+)",
@@ -138,7 +138,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Shuriken Cannon"
+          "Shurikenkanone"
         ],
         "specialRules": [
         "Holofield (5+)",

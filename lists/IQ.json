@@ -21,7 +21,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },
@@ -83,7 +83,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Aufklärer",
           "Unmodifizierter Rettungswurf"
@@ -122,7 +122,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Furchtlos",
           "Teleport Homer",
@@ -172,7 +172,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Furchtlos",
           "Unmodifizierter Rettungswurf"

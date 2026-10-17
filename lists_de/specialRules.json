@@ -160,7 +160,7 @@
     {
       "title": "Catachan Commanders",
       "description": [
-        "Wird die Wiederholung des Oberbefehlshabers für einen Verband mit einem Catachan Oberbefehlshaber oder Catachan Commander verwendet, gilt für diesen Verband bei der Wiederholung des Aktionstests ein Initiativwert von 1+."
+        "Wird die Wiederholung des Oberbefehlshabers für einen Verband mit einem Catachan Oberbefehlshaber oder Catachan Befehlshaber verwendet, gilt für diesen Verband bei der Wiederholung des Aktionstests ein Initiativwert von 1+."
       ]
     },
     {
@@ -315,7 +315,7 @@
     {
       "title": "Ad Hoc Detachments",
       "description": [
-        "Das Ordo Xenos musste aus der Notwendigkeit heraus zum Experten für Improvisation werden, rasch lokale Verbündete sammeln und sich an die ständig wechselnden Fähigkeiten und Mitglieder der Deathwatch anpassen. Deshalb dürfen Verbände mit Commander die Fähigkeit auch einsetzen, wenn ihr eigener oder ein anderer befreundeter Verband innerhalb von 5 cm gegen einen Angriff verteidigt; erkläre beide Verbände dabei als vermischt (siehe 1.12.10). Nach der Erklärung als vermischt folgen die Verbände des Commanders genau denselben Regeln, als hätte der Gegner sie als vermischt erklärt. Beachte: Erklärt ein Spieler die Verbände als vermischt, gelten sie als vermischt."
+        "Das Ordo Xenos musste aus der Notwendigkeit heraus zum Experten für Improvisation werden, rasch lokale Verbündete sammeln und sich an die ständig wechselnden Fähigkeiten und Mitglieder der Deathwatch anpassen. Deshalb dürfen Verbände mit Befehlshaber die Fähigkeit auch einsetzen, wenn ihr eigener oder ein anderer befreundeter Verband innerhalb von 5 cm gegen einen Angriff verteidigt; erkläre beide Verbände dabei als vermischt (siehe 1.12.10). Nach der Erklärung als vermischt folgen die Verbände des Commanders genau denselben Regeln, als hätte der Gegner sie als vermischt erklärt. Beachte: Erklärt ein Spieler die Verbände als vermischt, gelten sie als vermischt."
       ]
     },
     {
@@ -610,7 +610,7 @@
       "title": "Independent Twins",
       "description": [
         "Die Sonderregel Independent Twins erlaubt einem Kriegsmaschinenverband, in jeder Hinsicht als zwei unabhängige Kriegsmaschinen zu agieren, auch bei der Bestimmung des BTS der Armee (jede Einheit gilt als eigener Verband und ist die Hälfte des ursprünglichen Verbandspunkts einschliesslich Aufwertungen wert). Wird eine der beiden Kriegsmaschinen zerstört, erhält die überlebende sofort eine Beschussmarke.",
-        "außerdem dürfen Independent Twins die Commander-Fähigkeit gemeinsam mit ihrem Zwilling einsetzen. In diesem Fall hat die Commander-Fähigkeit unbegrenzte statt der normalen Reichweite von 5 cm."
+        "außerdem dürfen Independent Twins die Befehlshaber-Fähigkeit gemeinsam mit ihrem Zwilling einsetzen. In diesem Fall hat die Befehlshaber-Fähigkeit unbegrenzte statt der normalen Reichweite von 5 cm."
       ]
     },
     {

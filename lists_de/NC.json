@@ -12,7 +12,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Staff of Radiance"
+          "Stab of Radiance"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -30,7 +30,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Staff of Radiance"
+          "Stab of Radiance"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -50,11 +50,11 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Staff of Light"
+          "Lichtstab"
         ],
         "specialRules": [
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Regeneration"
         ]
       },
@@ -66,11 +66,11 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Staff of Light"
+          "Lichtstab"
         ],
         "specialRules": [
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Regeneration",
           "Beritten",
           "Antigrav"
@@ -84,7 +84,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Gauss Flayers"
+          "Gauss-Flayer"
         ],
         "specialRules": [
           "Machine Spirit",
@@ -99,7 +99,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Claws"
+          "Klauen"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -116,7 +116,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Gauss Blasters"
+          "Gauss Blaster"
         ],
         "specialRules": [
           "Regeneration"
@@ -130,7 +130,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Necron Warscythes"
+          "Necron-Kriegssensen"
         ],
         "specialRules": [
         ]
@@ -143,8 +143,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Particle Beamer",
-          "Tomb Spyder Claws"
+          "Teilchenstrahler",
+          "Tomb Spyder Klauen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -159,7 +159,7 @@
         "speed": 15,
         "cc": 5,
         "weapons": [
-          "Swarm Attack"
+          "Schwarmangriff"
         ],
         "specialRules": [
           "Furchtlos",
@@ -176,7 +176,7 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Wraith Claws"
+          "Wraith Klauen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -195,7 +195,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Gauss Cannons"
+          "Gauss Kanonen"
         ],
         "specialRules": [
           "Beritten",
@@ -211,7 +211,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Gauss Cannons"
+          "Schwerer Gauss Kanonen"
         ],
         "specialRules": [
           "Beritten",
@@ -227,7 +227,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synaptic Disintegrator"
+          "Synaptic Desintegrator"
         ],
         "specialRules": [
           "Regeneration",
@@ -243,7 +243,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Tesla Carbine"
+          "Zwillings-Tesla Karabiner"
         ],
         "specialRules": [
           "Regeneration",
@@ -259,7 +259,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Rods of Covenant"
+          "Stäbe des Bundes"
         ],
         "specialRules": [
           "Furchtlos",
@@ -275,8 +275,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Particle Whip",
-          "Gauss Flux Arc"
+          "Particle Peitsche",
+          "Gauss-Flussbogen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -294,8 +294,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Particle Flail",
-          "Gravity Pulse"
+          "Particle Flegel",
+          "Gravity Impuls"
         ],
         "specialRules": [
           "Furchtlos",
@@ -312,7 +312,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Gauss Flayers Array"
+          "Gauss Flayers Batterie"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -329,8 +329,8 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Twin Tesla Destructor",
-          "Tesla Cannon"
+          "Zwillings-Tesla Zerstörer",
+          "Tesla Kanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -346,13 +346,13 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Gauss Cannons"
+          "Gauss Kanonen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Antigrav",
           "Enduring",
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },
@@ -364,8 +364,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Necron Doomsday Cannon",
-          "Gauss Flayers Array"
+          "Necron Doomsday Kanone",
+          "Gauss Flayers Batterie"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -381,7 +381,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Heat Ray"
+          "Hitzestrahl"
         ],
         "specialRules": [
           "Regeneration",
@@ -397,8 +397,8 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Singularity Generator|2|",
-          "Titanic Forelimbs"
+          "Singularitätsgenerator|2|",
+          "Titanische Vordergliedmaßen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -416,7 +416,7 @@
         "armour": 4,
         "ff": 5,
         "weapons": [
-          "Gauss Exterminator"
+          "Gauss-Exterminator"
         ],
         "specialRules": [
           "Regeneration",
@@ -433,14 +433,14 @@
         "cc": 4,
         "ff": 2,
         "weapons": [
-          "Transdimensional Bolt",
-          "Entropic Touch",
-          "Pyreshards"
+          "Transdimensional Bolter",
+          "Entropische Berührung",
+          "Feuersplitter"
         ],
         "specialRules": [
           "Geländegängig",
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Inspirierend",
           "Regeneration"
         ],
@@ -453,8 +453,8 @@
         "armour": 4,
         "ff": 4,
         "weapons": [
-          "Particle Accelerator",
-          "Gauss Flux Arc"
+          "Particle Beschleuniger",
+          "Gauss-Flussbogen"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -474,8 +474,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Particle Whip|2|",
-          "Gauss Flux Arc"
+          "Particle Peitsche|2|",
+          "Gauss-Flussbogen"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -497,7 +497,7 @@
         "armour": 5,
         "ff": 6,
         "weapons": [
-          "Star Cage"
+          "Sternenkäfig"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -516,8 +516,8 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Gauss Flux Array",
-          "Harvester Tendrils"
+          "Gauss Flux Batterie",
+          "Harvester Ranken"
         ],
         "specialRules": [
           "Damage Capacity 6",

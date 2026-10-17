@@ -11,9 +11,9 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Ion Cannon",
-          "AC Twin Missile Pod",
-          "AC Twin Burst Cannon"
+          "AC Ionenkanone",
+          "AC Zwillings-Raketen-Pod",
+          "AC Zwillings-Burst Kanone"
         ],
         "specialRules": [
         ]
@@ -24,8 +24,8 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Quad Ion Turret",
-          "AC Twin Burst Cannon"
+          "AC Vierlings-Ionen Turm",
+          "AC Zwillings-Burst Kanone"
         ],
         "specialRules": [
         ]
@@ -36,9 +36,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Pulse Bomb Generator",
-          "AC Twin Missile Pod",
-          "AC Twin Burst Cannon"
+          "AC Impuls Bombe Generator",
+          "AC Zwillings-Raketen-Pod",
+          "AC Zwillings-Burst Kanone"
         ],
         "specialRules": [
         ]
@@ -49,9 +49,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Ion Cannon",
-          "AC Twin Missile Pod",
-          "AC Seeker Missiles"
+          "AC Zwillings-Ionenkanone",
+          "AC Zwillings-Raketen-Pod",
+          "AC Seeker Raketen"
         ],
         "specialRules": [
           "Transport"
@@ -64,10 +64,10 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Railcannon",
-          "AC Twin Missile Pod",
-          "AC Seeker Missiles",
-          "AC Twin Burst Cannon"
+          "AC Zwillings-Railcannon",
+          "AC Zwillings-Raketen-Pod",
+          "AC Seeker Raketen",
+          "AC Zwillings-Burst Kanone"
         ],
         "specialRules": [
         ]
@@ -80,9 +80,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Twin Missile Pod",
-          "AC Seeker Missiles",
-          "AC Twin Burst Cannon"
+          "AC Zwillings-Raketen-Pod",
+          "AC Seeker Raketen",
+          "AC Zwillings-Burst Kanone"
         ],
         "specialRules": [
           "Planetfall",
@@ -95,8 +95,8 @@
         "name": "Custodian Class Battleship",
         "type": "SC",
         "weapons": [
-          "Gravitic Tracer Salvo",
-          "Pin Point||"
+          "Gravitische Leitsalve",
+          "Präzisionsschuss||"
         ],
         "specialRules": [
           "Transport"
@@ -107,7 +107,7 @@
         "name": "Protector Class Cruiser",
         "type": "SC",
         "weapons": [
-          "Pin Point|2|"
+          "Präzisionsschuss|2|"
         ],
         "specialRules": [
           "Transport"
@@ -118,8 +118,8 @@
         "name": "Protector II Class Cruiser",
         "type": "SC",
         "weapons": [
-          "Gravitic Tracer Salvo|0-1|",
-          "Pin Point|0-2|"
+          "Gravitische Leitsalve|0-1|",
+          "Präzisionsschuss|0-2|"
         ],
         "specialRules": [
           "Transport"

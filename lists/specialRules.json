@@ -160,7 +160,7 @@
     {
       "title": "Catachan Commanders",
       "description": [
-        "When the Oberbefehlshaber re-roll is used on any formation containing a Catachan Oberbefehlshaber or Catachan Commander, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test"
+        "When the Oberbefehlshaber re-roll is used on any formation containing a Catachan Oberbefehlshaber or Catachan Befehlshaber, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test"
       ]
     },
     {
@@ -315,7 +315,7 @@
     {
       "title": "Ad Hoc Detachments",
       "description": [
-        "By necessity, the Ordo Xenos has become experts of improvisation, rapidly mustering local allies and adapting to the Deathwatch's ever-changing roster of skills and individuals. For this reason, formations with Commander may also use the ability when their own or another friendly formation within 5cm of their formation is defending against an assault, declaring both formations to be intermingled (see 1.12.10). Once declared intermingled, the Commanders' formations follow all rules exactly as if the enemy had declared them intermingled. Note that if either player declares intermingling, the formations are intermingled."
+        "By necessity, the Ordo Xenos has become experts of improvisation, rapidly mustering local allies and adapting to the Deathwatch's ever-changing roster of skills and individuals. For this reason, formations with Befehlshaber may also use the ability when their own or another friendly formation within 5cm of their formation is defending against an assault, declaring both formations to be intermingled (see 1.12.10). Once declared intermingled, the Commanders' formations follow all rules exactly as if the enemy had declared them intermingled. Note that if either player declares intermingling, the formations are intermingled."
       ]
     },
     {
@@ -610,7 +610,7 @@
       "title": "Independent Twins",
       "description": [
         "The Independent Twins special rule allows a War Engine formation to operate as two independent War Engines for all purposes, including for determining the army BTS (each unit counts as its own formation worth half of the points value of the original formation, including upgrades). If one of the two War Engines are destroyed, the surviving one immediately recieves a Blast Marker.",
-        "In addition, Independent Twins may use the Commander ability with its Twin. In this case, the Commander ability counts as having an unlimited range instead of the normal 5cm."
+        "In addition, Independent Twins may use the Befehlshaber ability with its Twin. In this case, the Befehlshaber ability counts as having an unlimited range instead of the normal 5cm."
       ]
     },
     {

@@ -23,8 +23,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Power Weapon",
-          "Autocannon"
+          "Energiewaffe",
+          "Maschinenkanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -39,13 +39,13 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Power Weapon",
-          "Autocannon"
+          "Energiewaffe",
+          "Maschinenkanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Anführer",
-          "Commander"
+          "Befehlshaber"
         ]
       },
       {
@@ -56,7 +56,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Omnissian Axe"
+          "Omnissian Axt"
         ],
         "specialRules": [
         ]
@@ -69,8 +69,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Lasguns",
-          "Missile Launcher"
+          "Lasergewehre",
+          "Raketenwerfer"
         ],
         "specialRules": [
         ],
@@ -84,8 +84,8 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Laspistols",
-          "Chainswords"
+          "Laserpistolen",
+          "Kettenschwerter"
         ],
         "specialRules": [
         ]
@@ -98,7 +98,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heirloom Guns"
+          "Heirloom Geschütze"
         ],
         "specialRules": [
           "Inspirierend",
@@ -113,8 +113,8 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Multiple Lascannons",
-          "Multiple Heavy Bolters"
+          "Mehrere Laserkanonen",
+          "Multiple Schwere Bolter"
         ],
         "specialRules": [
         ]
@@ -126,7 +126,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Mole Mortars"
+          "Mole Mörser"
         ],
         "specialRules": [
         ]
@@ -138,7 +138,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Thudd Gun"
+          "Thudd Geschütz"
         ],
         "specialRules": [
         ]
@@ -150,7 +150,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rapier Laser Destroyer"
+          "Rapier Laserzerstörer"
         ],
         "specialRules": [
         ]
@@ -163,11 +163,11 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Twin Bolter",
-          "Trike Power Lance"
+          "Zwillings-Bolter",
+          "Trike Energielanze"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },
@@ -179,7 +179,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Multi-Melta"
+          "Multimelter"
         ],
         "specialRules": [
         ]
@@ -192,7 +192,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Bolter"
+          "Zwillings-Bolter"
         ],
         "specialRules": [
           "Beritten"
@@ -206,7 +206,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Storm Bolter"
+          "Sturmbolter"
         ],
         "specialRules": [
           "Transport"
@@ -221,8 +221,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2",
-          "Twin Heavy Bolter"
+          "Zwillings-Laserkanone|2",
+          "Zwillings-Schwerer Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -238,7 +238,7 @@
         "armour": 5,
         "ff": 6,
         "weapons": [
-          "Squat Thunderfire Cannons"
+          "Squat Thunderfire Kanonen"
         ],
         "specialRules": [
         ]
@@ -251,8 +251,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Autocannon",
-          "Ragnarok Battle Cannon"
+          "Zwillings-Maschinenkanone",
+          "Ragnarok Kampfkanone"
         ],
         "specialRules": [
           "Scout, Antigrav"
@@ -264,8 +264,8 @@
         "speed": "Bomber[*]",
         "armour": 5,
         "weapons": [
-          "AC Twin Lascannon||FxF",
-          "AC Missile Launcher|3|"
+          "AC Zwillings-Laserkanone||FxF",
+          "AC Raketenwerfer|3|"
         ],
         "specialRules": [
         ],
@@ -278,10 +278,10 @@
         "armour": 3,
         "ff": 4,
         "weapons": [
-          "Ragnarok Battle Cannon|6|FxF",
-          "Twin Autocannon|2|FxF",
-          "Overlord Barrage||FxF",
-          "Flak Cannons"
+          "Ragnarok Kampfkanone|6|FxF",
+          "Zwillings-Maschinenkanone|2|FxF",
+          "Overlord Sperrfeuer||FxF",
+          "Flak Kanonen"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -297,7 +297,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Storm Bolter"
+          "Sturmbolter"
         ],
         "specialRules": [
           "Verstärkte Heckpanzerung",
@@ -314,7 +314,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Storm Bolter Array"
+          "Sturmbolter Batterie"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -334,7 +334,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Squat Mega Cannon"
+          "Squat Mega Kanone"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -350,10 +350,10 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Squat Doomsday Cannon||FxF",
-          "Ragnarok Battle Cannon",
-          "Twin Lascannon|6|FxF",
-          "Storm Bolter Array"
+          "Squat Doomsday Kanone||FxF",
+          "Ragnarok Kampfkanone",
+          "Zwillings-Laserkanone|6|FxF",
+          "Sturmbolter Batterie"
         ],
         "specialRules": [
           "Damage Capacity: 4",
@@ -374,9 +374,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Hellfury Cannon||FxF",
-          "Ragnarok Battle Cannon",
-          "Doomstorm Missile|6|FxF"
+          "Hellfury Kanone||FxF",
+          "Ragnarok Kampfkanone",
+          "Doomstorm Rakete|6|FxF"
         ],
         "specialRules": [
           "Damage Capacity: 5",
@@ -395,11 +395,11 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Squat Doomsday Cannon||FxF",
-          "Ragnarok Battle Cannon|4|FxF",
-          "Demolisher||FxF",
-          "Plasma Missile|4|FwA",
-          "Storm Bolter Array"
+          "Squat Doomsday Kanone||FxF",
+          "Ragnarok Kampfkanone|4|FxF",
+          "Belagerungskanone||FxF",
+          "Plasma Rakete|4|FwA",
+          "Sturmbolter Batterie"
         ],
         "specialRules": [
           "Damage Capacity: 5",
@@ -418,14 +418,14 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Squat Mjolnir Cannon||FxF",
-          "Ragnarok Battle Cannon|2|",
-          "Storm Bolter Array",
+          "Squat Mjolnir Kanone||FxF",
+          "Ragnarok Kampfkanone|2|",
+          "Sturmbolter Batterie",
           "BATTLE CAR WEAPONS",
-          "Berserker Battle Car",
-          "Dragon Battle Car",
-          "Siege Mortar Battle Car",
-          "0-1 Bomb Battle Car"
+          "Berserker Kampf-Car",
+          "Dragon Kampf-Car",
+          "Belagerungsmörser Kampf-Car",
+          "0-1 Bombe Kampf-Car"
         ],
         "specialRules": [
           "Damage Capacity: 2 + the current number of Battle Cars",

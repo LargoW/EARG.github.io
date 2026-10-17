@@ -108,7 +108,7 @@
     { "deutsch": "Vermischt", "englisch": "Intermingled" }
   ],
   "Spezialeinheiten": [
-    { "deutsch": "Befehlshaber", "englisch": "Commander" },
+    { "deutsch": "Befehlshaber", "englisch": "Befehlshaber" },
     { "deutsch": "Furchtlos", "englisch": "Furchtlos" },
     { "deutsch": "Infiltratorenen", "englisch": "Infiltratoren" },
     { "deutsch": "Inspirierend", "englisch": "Inspire" },
@@ -160,7 +160,7 @@
     { "deutsch": "Zählt-als", "englisch": "Count-As" }
   ],
   "Imperiale_Armee": [
-    { "deutsch": "Imperialer Kommandant", "englisch": "Imperial Commander" },
+    { "deutsch": "Imperialer Kommandant", "englisch": "Imperial Befehlshaber" },
     { "deutsch": "Kommissar", "englisch": "Commissar" },
     { "deutsch": "Stoßtruppen", "englisch": "Storm Troopers" },
     { "deutsch": "Halblinge", "englisch": "Ratlings" },

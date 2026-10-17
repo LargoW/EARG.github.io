@@ -9,7 +9,7 @@
         "name": "Ethereal",
         "type": "CH",
         "weapons": [
-          "Honour Blade"
+          "Honour Klinge"
         ],
         "specialRules": [
           "Ethereal",
@@ -33,7 +33,7 @@
         "name": "Shas'o",
         "type": "CH",
         "weapons": [
-          "Experimental Weapons"
+          "Experimental Waffen"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -48,7 +48,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Experimental Weapons"
+          "Experimental Waffen"
         ],
         "specialRules": [
           "Oberbefehlshaber",
@@ -63,8 +63,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Pulse Rifles",
-          "Pulse Carbines"
+          "Impulsgewehre",
+          "Impuls Karabiner"
         ],
         "specialRules": [
         ]
@@ -77,7 +77,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Pulse Blasters|2"
+          "Impuls Blaster|2"
         ],
         "specialRules": [
         ]
@@ -90,8 +90,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Ion Rifles",
-          "Pulse Carbines"
+          "Ionen Gewehre",
+          "Impuls Karabiner"
         ],
         "specialRules": [
         ]
@@ -104,7 +104,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Missile Pod"
+          "Raketen-Pod"
         ],
         "specialRules": [
           "Tau Jet Packs"
@@ -118,7 +118,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Pulse Carbine"
+          "Zwillings-Impulskarabiner"
         ],
         "specialRules": [
           "Tau Jet Packs"
@@ -158,8 +158,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Rail Rifles",
-          "Pulse Carbines"
+          "Schienengewehre",
+          "Impuls Karabiner"
         ],
         "specialRules": [
           "Coordinated Fire",
@@ -175,9 +175,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Missile Pod",
-          "Twin Plasma Rifle",
-          "Twin Fusion Blaster"
+          "Zwillings-Raketen-Pod",
+          "Zwillings-Plasma Gewehr",
+          "Zwillings-Fusion Blaster"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -192,8 +192,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Twin Plasma Rifle",
-          "Twin Fusion Blaster"
+          "Zwillings-Plasma Gewehr",
+          "Zwillings-Fusion Blaster"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -209,7 +209,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Silenced Burst Cannons"
+          "Silenced Burst Kanonen"
         ],
         "specialRules": [
           "Erstschlag",
@@ -228,7 +228,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Fusion Blasters"
+          "Fusionsblaster"
         ],
         "specialRules": [
           "Erstschlag",
@@ -247,7 +247,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Scharfschütze Drone"
+          "Scharfschütze Drohne"
         ],
         "specialRules": [
           "Aufklärer",
@@ -264,7 +264,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Scharfschütze Drone"
+          "Scharfschütze Drohne"
         ],
         "specialRules": [
           "Teleport",
@@ -280,7 +280,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Neutron Blasters"
+          "Neutron Blaster"
         ],
         "specialRules": [
           "Sprungmodule"
@@ -294,7 +294,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kroot Rifles"
+          "Kroot Gewehre"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -309,7 +309,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kroot Rifles"
+          "Kroot Gewehre"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -322,7 +322,7 @@
         "speed": 20,
         "cc": 3,
         "weapons": [
-          "Fangs"
+          "Fangzähne"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -337,8 +337,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kroot Gun",
-          "Krootox Claws"
+          "Kroot Geschütz",
+          "Krootox Klauen"
         ],
         "specialRules": [
         ]
@@ -351,8 +351,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Kroot Bolt Thrower",
-          "Knarloc Claws"
+          "Kroot Bolter Thrower",
+          "Knarloc Klauen"
         ],
         "specialRules": [
         ]
@@ -365,7 +365,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Phased Ion Guns"
+          "Phased Ionen Geschütze"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -381,8 +381,8 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Cyclic Ion Raker",
-          "Fusion Blaster"
+          "Cyclic Ionen Raker",
+          "Fusionsblaster"
         ],
         "specialRules": [
           "Erstschlag",
@@ -402,8 +402,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Light Railgun",
-          "Smart Missile System"
+          "Zwillings-Licht Schienenkanone",
+          "Intelligentes Raketensystem"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -418,8 +418,8 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Burst Cannon and Drones",
-          "Seeker Missiles"
+          "Burst Kanone and Drohnen",
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Antigrav"
@@ -433,7 +433,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Tetra Pulse Rifles"
+          "Tetra Impulsgewehre"
         ],
         "specialRules": [
           "Coordinated Fire",
@@ -450,8 +450,8 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Burst Cannon and Drones",
-          "Seeker Missiles"
+          "Burst Kanone and Drohnen",
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Antigrav",
@@ -467,7 +467,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Twin Light Railgun"
+          "Zwillings-Licht Schienenkanone"
         ],
         "specialRules": [
           "Antigrav",
@@ -483,9 +483,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Missile Pod|2|",
-          "Smart Missile System",
-          "Seeker Missiles"
+          "Zwillings-Raketen-Pod|2|",
+          "Intelligentes Raketensystem",
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Antigrav",
@@ -501,9 +501,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Ion Cannon",
-          "Smart Missile System",
-          "Seeker Missiles"
+          "Ionenkanone",
+          "Intelligentes Raketensystem",
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Antigrav",
@@ -519,9 +519,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Railgun",
-          "Smart Missile System",
-          "Seeker Missiles"
+          "Schwerer Schienenkanone",
+          "Intelligentes Raketensystem",
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Antigrav"
@@ -535,9 +535,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Twin Fusion Cannon",
-          "Smart Missile System",
-          "Seeker Missiles"
+          "Zwillings-Fusion Kanone",
+          "Intelligentes Raketensystem",
+          "Seeker Raketen"
         ],
         "specialRules": [
           "Antigrav"
@@ -551,9 +551,9 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Smart Missile System",
-          "Seeker Missiles|2|",
-          "Hunter Missiles|2|"
+          "Intelligentes Raketensystem",
+          "Seeker Raketen|2|",
+          "Hunter Raketen|2|"
         ],
         "specialRules": [
           "Antigrav",
@@ -568,7 +568,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Pulse Submunition Cannons"
+          "Impuls Submunition Kanonen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -583,9 +583,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Ion Accelerator",
-          "Twin Smart Missile System",
-          "Velocity Tracker"
+          "Ionen Beschleuniger",
+          "Zwillings-Intelligentes Raketensystem",
+          "Geschwindigkeitspeiler"
         ],
         "specialRules": [
           "Tau Jet Pack",
@@ -601,8 +601,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Plasma Flamer",
-          "Ionic Discharge Cannon"
+          "Plasmaflammenwerfer",
+          "Ionic Discharge Kanone"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -620,13 +620,13 @@
         "ff": 5,
         "weapons": [
           ">Standard Configuration<",
-          "Pulse Driver Cannon||FwA",
-          "Destroyer Missiles|2|",
-          "Velocity Tracker",
+          "Impuls Driver Kanone||FwA",
+          "Zerstörer Raketen|2|",
+          "Geschwindigkeitspeiler",
           ">Support Configuration<",
-          "Pulse Blastcannon||FwA",
-          "Twin Smart Missile System|2|",
-          "Velocity Tracker"
+          "Impuls Blastcannon||FwA",
+          "Zwillings-Intelligentes Raketensystem|2|",
+          "Geschwindigkeitspeiler"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -643,12 +643,12 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Tri-axis Ion Cannon|2|FwA",
-          "Twin Burst Cannon|2|",
-          "Twin Smart Missile System|2|",
-          "Nexus Missile Array|0-1|",
-          "Heavy Railcannon|0-1|FwA",
-          "Pulse Ordnance Multi-Driver|0-1|FwA"
+          "Tri-axis Ionenkanone|2|FwA",
+          "Zwillings-Burst Kanone|2|",
+          "Zwillings-Intelligentes Raketensystem|2|",
+          "Nexus Rakete Batterie|0-1|",
+          "Schwerer Railcannon|0-1|FwA",
+          "Impuls Ordnance Multi-Driver|0-1|FwA"
         ],
         "specialRules": [
           "Damage Capacity: 5",
@@ -666,11 +666,11 @@
         "armour": 5,
         "ff": 4,
         "weapons": [
-          "Twin Heavy Railcannon||FxF",
-          "Heavy Ion Phalanx||FxF",
-          "Twin Missile Pod",
-          "Seeker Missiles|2|",
-          "Twin Burst Cannon|4|"
+          "Zwillings-Schwerer Railcannon||FxF",
+          "Schwerer Ionen Phalanx||FxF",
+          "Zwillings-Raketen-Pod",
+          "Seeker Raketen|2|",
+          "Zwillings-Burst Kanone|4|"
         ],
         "specialRules": [
           "Damage Capacity: 6",

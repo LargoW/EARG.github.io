@@ -18,7 +18,7 @@
       "from": "IG.json",
       "units": [
         "Valhallan Oberbefehlshaber",
-        "Valhallan Commander",
+        "Valhallan Befehlshaber",
         "Valhallan Infantry",
         "Fire Support Squad",
         "Scharfschützes",
@@ -81,7 +81,7 @@
         },
         {
           "name": "Valhallan Infantry Company",
-          "units": "One Valhallan Commander with a Ministorum Priest, nine Valhallan Infantry",
+          "units": "One Valhallan Befehlshaber with a Ministorum Priest, nine Valhallan Infantry",
           "extraUnits": [
             "Valhallan Griffons",
             "Ogryns",

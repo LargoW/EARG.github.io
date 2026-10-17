@@ -8,7 +8,7 @@
         "name": "Tribune",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -19,7 +19,7 @@
         "name": "Captain General",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -30,7 +30,7 @@
         "name": "Oblivion Kinght Centura",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Inspirierend",
@@ -46,7 +46,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Adrastus Bolt Caliver"
+          "Adrastus Bolter Caliver"
         ],
         "notes": "Verstärkte Panzerung"
       },
@@ -58,7 +58,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Guardian Spear"
+          "Guardian Speer"
         ],
         "notes": "Verstärkte Panzerung"
       },
@@ -70,7 +70,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Sentinel War Blade"
+          "Sentinel War Klinge"
         ],
         "notes": "Verstärkte Panzerung"
       },
@@ -82,7 +82,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Guardian Spear"
+          "Guardian Speer"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -97,8 +97,8 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Venatari Lance",
-          "Archeotech Kinetic Destroyer"
+          "Venatari-Lanze",
+          "Archeotech Kinetic Zerstörer"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -114,8 +114,8 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Lastrum Storm Bolter",
-          "Power Weapons"
+          "Lastrum Sturmbolter",
+          "Energie-Waffen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -133,8 +133,8 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Bolters",
-          "Heavy Flamer"
+          "Bolter",
+          "Schwerer Flammenwerfer"
         ],
         "specialRules": [
           "Furchtlos"
@@ -148,8 +148,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Lastrum Bolt Cannon",
-          "Power Lances"
+          "Lastrum Bolter Kanone",
+          "Energie-Lances"
         ],
         "specialRules": [
           "Aufklärer",
@@ -165,8 +165,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Lastrum Storm Bolters",
-          "Achilles Power Lance"
+          "Lastrum Sturmbolter",
+          "Achilles Energielanze"
         ],
         "specialRules": [
           "Reniforced Armour",
@@ -184,8 +184,8 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Spiculus Bolt Launcher",
-          "Telemon Caestus|2|"
+          "Spiculus Bolter Werfer",
+          "Telemon-Faust|2|"
         ],
         "specialRules": [
           "Reniforced Armour",
@@ -203,7 +203,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin-linked Arachnus Blaze Cannon"
+          "Zwillingsverbunden Arachnus Blaze Kanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -219,8 +219,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin-linked Iliastus Accelator Cannon",
-          "Twin-linked Lastrum Bolt Cannon"
+          "Zwillingsverbunden Iliastus Accelator Kanone",
+          "Zwillingsverbunden Lastrum Bolter Kanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -236,8 +236,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin-linked Arachnus Blaze Cannon",
-          "Twin-linked Lastrum Bolt Cannon"
+          "Zwillingsverbunden Arachnus Blaze Kanone",
+          "Zwillingsverbunden Lastrum Bolter Kanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -253,8 +253,8 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Twin Lascannon|2",
-          "Twin Heavy Bolter"
+          "Zwillings-Laserkanone|2",
+          "Zwillings-Schwerer Bolter"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -271,7 +271,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Storm Bolter"
+          "Sturmbolter"
         ],
         "specialRules": [
           "Furchtlos",
@@ -287,7 +287,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Hunter-Killer"
+          "Jagd-Killer"
         ],
         "specialRules": [
           "Furchtlos"
@@ -301,9 +301,9 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "AC Twin-linked Lastrum Bolt Cannon|2|FxF",
-          "AC Arachnus Heavy Blaze Cannon|2|FxF",
-          "AC Spiculus Heavy Bolt Launcher|2|FxF"
+          "AC Zwillingsverbunden Lastrum Bolter Kanone|2|FxF",
+          "AC Arachnus Schwerer Blaze Kanone|2|FxF",
+          "AC Spiculus Schwerer Bolter Werfer|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 2",

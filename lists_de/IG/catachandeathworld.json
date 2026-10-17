@@ -16,7 +16,7 @@
       "from": "IG.json",
       "units": [
         "Catachan Oberbefehlshaber",
-        "Catachan Commander",
+        "Catachan Befehlshaber",
         "Catachan Infantry",
         "Flakk Team",
         "Scharfschützes",
@@ -72,7 +72,7 @@
         },
         {
           "name": "Catachan Company",
-          "units": "One Catachan Commander, seven Catachan Infantry",
+          "units": "One Catachan Befehlshaber, seven Catachan Infantry",
           "extraUnits": [
             "Death World Transport (Compulsory)",
             "Flakk Teams",
@@ -119,7 +119,7 @@
         },
         {
           "name": "Veteran Company",
-          "units": "One Catachan Commander and seven Death World Veterans",
+          "units": "One Catachan Befehlshaber and seven Death World Veterans",
           "extraUnits": [
             "Death World Transport"
           ],

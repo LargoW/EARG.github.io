@@ -110,7 +110,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -123,7 +123,7 @@
         ],
         "specialRules": [
             "Daemonic Focus",
-            "Commander",
+            "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -148,7 +148,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -160,7 +160,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Daemonic Pact",
           "Unmodifizierter Rettungswurf"
@@ -173,7 +173,7 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Inspirierend",
           "Unmodifizierter Rettungswurf"
         ]
@@ -221,7 +221,7 @@
           "Warp Bolt"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -245,7 +245,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },

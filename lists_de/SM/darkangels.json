@@ -65,7 +65,7 @@
           "units": "One Black Knights, four Ravenwing Assault Bikes, three Ravenwing Land Speeders",
           "extraUnits": [
             "Attack Bikes",
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 350
         },
@@ -75,7 +75,7 @@
           "extraUnits": [
             "Razorbacks",
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Land Raiders"
           ],
           "points": 275
@@ -85,7 +85,7 @@
           "units": "Any four of the following units: Terminators, Cyclone Terminators",
           "extraUnits": [
             "Deathwing Knights",
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 350
         }
@@ -118,7 +118,7 @@
         "extraUnits": [
           "Razorbacks",
           "Anti-Air",
-          "Commander",
+          "Befehlshaber",
           "Land Raiders"
         ],
         "points": 250
@@ -127,7 +127,7 @@
         "name": "Deathwing Armour",
         "units": "Three Land Raiders, three Terminators",
         "extraUnits": [
-          "Commander"
+          "Befehlshaber"
         ],
         "points": 450
     },
@@ -143,7 +143,7 @@
           "name": "Assaults",
           "units": "Four Assaults",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Vindicators"
           ],
           "points": 175
@@ -236,7 +236,7 @@
         "points": "125 points"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {

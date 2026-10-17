@@ -54,7 +54,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Regeneration"
         ]
       },
@@ -70,7 +70,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Regeneration",
           "Beritten",
           "Antigrav"
@@ -352,7 +352,7 @@
           "Verstärkte Panzerung",
           "Antigrav",
           "Enduring",
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },
@@ -440,7 +440,7 @@
         "specialRules": [
           "Geländegängig",
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Inspirierend",
           "Regeneration"
         ],

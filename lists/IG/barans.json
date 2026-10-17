@@ -21,7 +21,7 @@
       "from": "IG.json",
       "units": [
         "Baran Siegemaster",
-        "Baran Commander",
+        "Baran Befehlshaber",
         "Commissar",
         "Siege Infantry",
         "Sappers",
@@ -83,7 +83,7 @@
         },
         {
           "name": "Siege Infantry Company",
-          "units": "One Baran Commander with a Commissar, nine Siege Infantry",
+          "units": "One Baran Befehlshaber with a Commissar, nine Siege Infantry",
           "extraUnits": [
               "40cm of Razor Wire, and 4cm of Trenches for each unit of INF in the formation: 50 points. Replace 24cm of Trenches with two Bunkers: 25 points",
               "Five Siege Infantry, or two Scharfschützes, or two Sappers, or two Ogryns: 50 points",

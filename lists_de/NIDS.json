@@ -24,7 +24,7 @@
         "cc": 2,
         "ff": 5,
         "weapons": [
-          "Boneswords"
+          "Knochenschwerter"
         ],
         "specialRules": [
           "Hive Mind Locus",
@@ -32,7 +32,7 @@
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },
@@ -44,7 +44,7 @@
         "cc": 2,
         "ff": 5,
         "weapons": [
-          "Boneswords"
+          "Knochenschwerter"
         ],
         "specialRules": [
           "Hive Mind Locus",
@@ -52,7 +52,7 @@
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Jump Pack"
         ]
@@ -65,8 +65,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Cannon",
-          "Large Claws"
+          "Gift Kanone",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Assisted Swarming",
@@ -75,7 +75,7 @@
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },
@@ -87,8 +87,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Cannon",
-          "Large Claws"
+          "Gift Kanone",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Assisted Swarming",
@@ -97,7 +97,7 @@
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Jump Pack"
         ]
@@ -110,14 +110,14 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Cannon",
-          "Large Claws"
+          "Gift Kanone",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Commander",
+          "Befehlshaber",
           "Anführer"
         ]
       },
@@ -129,14 +129,14 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Venom Cannon",
-          "Large Claws"
+          "Gift Kanone",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Jump Pack"
         ]
@@ -149,7 +149,7 @@
         "cc": 2,
         "ff": 5,
         "weapons": [
-          "Deathspitters"
+          "Todesspucker"
         ],
         "specialRules": [
           "Synapse",
@@ -164,7 +164,7 @@
         "cc": 2,
         "ff": 5,
         "weapons": [
-          "Deathspitters"
+          "Todesspucker"
         ],
         "specialRules": [
           "Synapse",
@@ -180,7 +180,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Warp Blast"
+          "Warpstrahl"
         ],
         "specialRules": [
           "Synapse",
@@ -195,7 +195,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Burrowclaws"
+          "Grabklauen"
         ],
         "specialRules": [
           "Synapse",
@@ -210,7 +210,7 @@
         "armour": 5,
         "cc": 3,
         "weapons": [
-          "Burrowclaws"
+          "Grabklauen"
         ],
         "specialRules": [
           "Gaunts",
@@ -224,7 +224,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Fleshborers"
+          "Fleischbohrer"
         ],
         "specialRules": [
           "Gaunts"
@@ -237,7 +237,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Gaunt Bio-Cannon"
+          "Gaunt Bio-Kanone"
         ],
         "specialRules": [
           "Gaunts"
@@ -249,7 +249,7 @@
         "speed": 20,
         "cc": 5,
         "weapons": [
-          "Ripping Claws"
+          "Ripping Klauen"
         ],
         "specialRules": [
           "Gaunts",
@@ -263,7 +263,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Swarm Strike"
+          "Schwarmangriff"
         ],
         "specialRules": [
           "Gaunts",
@@ -277,7 +277,7 @@
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Claws"
+          "Reiß Klauen"
         ],
         "specialRules": [
           "Aufklärer",
@@ -292,7 +292,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Spore Mines"
+          "Spore Minen"
         ],
         "specialRules": [
         ]
@@ -305,7 +305,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Flamespurt"
+          "Flammenstoß"
         ],
         "specialRules": [
         ]
@@ -318,8 +318,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Flesh Hooks",
-          "Scythed Claws"
+          "Fleischhaken",
+          "Scythed Klauen"
         ],
         "specialRules": [
           "Erstschlag",
@@ -337,7 +337,7 @@
         "cc": 2,
         "ff": 6,
         "weapons": [
-          "Large Claws"
+          "Groß Klauen"
         ],
         "specialRules": [
           "Regeneration",
@@ -352,9 +352,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Stranglethorn Cannon",
-          "Spore Cyst",
-          "Grasping Talons"
+          "Stranglethorn Kanone",
+          "Sporenkyste",
+          "Grasping Krallen"
         ],
         "specialRules": [
           "Antigrav"
@@ -368,9 +368,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Drool Cannon",
-          "Tentaclids",
-          "Grasping Talons"
+          "Drool Kanone",
+          "Tentakliden",
+          "Grasping Krallen"
         ],
         "specialRules": [
           "Antigrav"
@@ -384,7 +384,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Bio-Acid-Venom Pods"
+          "Bio-Säure-Gift Pods"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -398,7 +398,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Bio-Plasmic Cannon"
+          "Bio-Plasmic Kanone"
         ],
         "specialRules": [
             "Verstärkte Panzerung"
@@ -412,8 +412,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Acid Jets",
-          "Massive Claws"
+          "Säure Jets",
+          "Massiv Klauen"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -427,8 +427,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Frag Spines",
-          "Large Claws"
+          "Frag Stacheln",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -444,8 +444,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Venom Cannon",
-          "Ripping Claws"
+          "Gift Kanone",
+          "Ripping Klauen"
         ],
         "specialRules": [
           "Infiltratorens",
@@ -460,8 +460,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Plasma",
-          "Large Claws"
+          "Bioplasma",
+          "Groß Klauen"
         ],
         "specialRules": [
            "Infiltratorens",
@@ -476,7 +476,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Impaler Cannon"
+          "Impaler Kanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -490,9 +490,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Frag Spines",
-          "Large Claws",
-          "Gaunt Pouch"
+          "Frag Stacheln",
+          "Groß Klauen",
+          "Gauntbeutel"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -511,7 +511,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Rupture Cannon"
+          "Rupture Kanone"
         ],
         "specialRules": [
           "Verstärkte Panzerung"
@@ -525,8 +525,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Bio-Electric Field",
-          "Massive Scything Talons"
+          "Bio-Electric Feld",
+          "Massiv Scything Krallen"
         ],
         "specialRules": [
           "Damage Capacity: 4",
@@ -546,8 +546,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Bio-Electric Field",
-          "Large Claws"
+          "Bio-Electric Feld",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Synapse",
@@ -564,8 +564,8 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Bio-Electric Field",
-          "Large Claws"
+          "Bio-Electric Feld",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
@@ -580,9 +580,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Bio-Cannon",
-          "Tentaclids",
-          "Large Claws"
+          "Bio-Kanone",
+          "Tentakliden",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -603,9 +603,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Drool Cannon|2|",
-          "Tentaclids",
-          "Large Claws"
+          "Drool Kanone|2|",
+          "Tentakliden",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -626,8 +626,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Bio-Cannon",
-          "Large Claws"
+          "Zwillings-Bio-Kanone",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -645,8 +645,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Twin Bio-Cannon",
-          "Large Claws"
+          "Zwillings-Bio-Kanone",
+          "Groß Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -662,8 +662,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Pyro-Acid",
-          "Massive Scything Talons"
+          "Pyro-Säure",
+          "Massiv Scything Krallen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -681,8 +681,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Pyro-Acid",
-          "Massive Scything Talons"
+          "Pyro-Säure",
+          "Massiv Scything Krallen"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -698,7 +698,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Ripper Swarms"
+          "Zerfleischerschwärme"
         ],
         "specialRules": [
           "Damage Capacity: 3",
@@ -715,8 +715,7 @@
         "armour": 5,
         "cc": 5,
         "ff": 6,
-        "weapons": [
-        ],
+        "weapons": [],
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
@@ -734,10 +733,10 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Cannon",
-          "Bio-Plasmic Ray",
-          "Bio-Plasma Burst",
-          "Massive Scything Talons"
+          "Bio-Titan Bio-Kanone",
+          "Bioplasmastrahl",
+          "Bioplasma-Salve",
+          "Massiv Scything Krallen"
         ],
         "specialRules": [
           "Damage Capacity: 6",
@@ -745,7 +744,7 @@
           "Synapse",
           "Furchtlos",
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Inspirierend",
           "Verstärkte Panzerung",
           "Regeneration"
@@ -761,9 +760,9 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Energy Pulse",
-          "Massive Scything Talons",
-          "Gaunt Pouch"
+          "Bio-Energy Impuls",
+          "Massiv Scything Krallen",
+          "Gauntbeutel"
         ],
         "specialRules": [
           "Damage Capacity: 6",
@@ -771,7 +770,7 @@
           "Synapse",
           "Furchtlos",
           "Anführer",
-          "Commander",
+          "Befehlshaber",
           "Inspirierend",
           "Verstärkte Panzerung",
           "Regeneration",
@@ -790,9 +789,9 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Cannon",
-          "Hail of Barbed Spears",
-          "Massive Scything Talons"
+          "Bio-Titan Bio-Kanone",
+          "Hail of Barbed Speere",
+          "Massiv Scything Krallen"
         ],
         "specialRules": [
           "Damage Capacity: 4",
@@ -811,11 +810,11 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan Bio-Cannon",
-          "Bio-Plasma Burst",
-          "Hail of Barbed Spears",
-          "Ripper Tentacles",
-          "Monstrous Claws"
+          "Bio-Titan Bio-Kanone",
+          "Bioplasma-Salve",
+          "Hail of Barbed Speere",
+          "Ripper Tentakel",
+          "Monstrous Klauen"
         ],
         "specialRules": [
           "Damage Capacity: 6",

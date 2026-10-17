@@ -10,8 +10,8 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Twin Tesla Destructor",
-          "AC Wormhole Portal"
+          "AC Zwillings-Tesla Zerstörer",
+          "AC Wurmlochportal"
         ],
         "specialRules": [
           "Damage Capacity: 1",
@@ -27,8 +27,8 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Twin Tesla Destructor",
-          "AC Death Ray"
+          "AC Zwillings-Tesla Zerstörer",
+          "AC Todesstrahl"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -41,8 +41,8 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Twin Tesla Destructor",
-          "AC Death Spheres||FxF"
+          "AC Zwillings-Tesla Zerstörer",
+          "AC Todessphären||FxF"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
@@ -61,7 +61,7 @@
               }
             ]
           },
-          "Pin Point|1|"
+          "Präzisionsschuss|1|"
         ],
         "specialRules": [
           "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"

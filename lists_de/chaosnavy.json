@@ -10,7 +10,7 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Reaper Autocannon|2|FxF"
+          "AC Reaper Maschinenkanone|2|FxF"
         ],
         "specialRules": [
         ]
@@ -21,9 +21,9 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Havoc Launcher||FxF",
-          "AC Twin Lascannon||FxF",
-          "AC Incendiary Bombs||FxF"
+          "AC Havoc Werfer||FxF",
+          "AC Zwillings-Laserkanone||FxF",
+          "AC Incendiary Bomben||FxF"
         ],
         "specialRules": [
         ]
@@ -34,8 +34,8 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Hades Autocannon||FxF",
-          "AC Piston-Driven Claws"
+          "AC Hades Maschinenkanone||FxF",
+          "AC Piston-Driven Klauen"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -47,8 +47,8 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Baleflamer||FxF",
-          "AC Piston-Driven Claws"
+          "AC-Höllenflammenwerfer||FxF",
+          "AC Piston-Driven Klauen"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -60,7 +60,7 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Flame Cannon||FxF"
+          "AC Flammen Kanone||FxF"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -72,9 +72,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Incendiary Bombs||FxF",
-          "AC Flame Cannon||FxF",
-          "AC Twin Lascannon||FxF"
+          "AC Incendiary Bomben||FxF",
+          "AC Flammen Kanone||FxF",
+          "AC Zwillings-Laserkanone||FxF"
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf"
@@ -86,9 +86,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Heavy Incendiary Bombs||FxF",
-          "AC Twin Reaper Autocannon|2|FxF",
-          "AC Combi-Bolters|2|"
+          "AC Schwerer Incendiary Bomben||FxF",
+          "AC Zwillings-Reaper Maschinenkanone|2|FxF",
+          "AC Combi-Bolter|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -102,9 +102,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Blight Bombs||FxF",
-          "AC Twin Reaper Autocannon|2|FxF",
-          "AC Combi-Bolters|2|"
+          "AC Blight Bomben||FxF",
+          "AC Zwillings-Reaper Maschinenkanone|2|FxF",
+          "AC Combi-Bolter|2|"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -118,8 +118,8 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Quad Lascannon||FxF",
-          "AC Xiphon Rotary Missile Launcher||FxF"
+          "AC Vierlings-Laserkanone||FxF",
+          "AC Xiphon Rotary Raketenwerfer||FxF"
         ],
         "specialRules": [
         ]
@@ -132,9 +132,9 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Quad Lascannon||FxF",
-          "AC Twin Heavy Bolter||FxF",
-          "Vengeance Launcher||"
+          "AC Vierlings-Laserkanone||FxF",
+          "AC Zwillings-Schwerer Bolter||FxF",
+          "Vengeance Werfer||"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -152,9 +152,9 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Twin Avenger Bolt Cannon||FxF",
-          "AC Missile Array||FxF",
-          "AC Quad Heavy Bolter Turrets||"
+          "AC Zwillings-Avenger Bolter Kanone||FxF",
+          "AC Rakete Batterie||FxF",
+          "AC Vierlings-Schwerer Bolter Türme||"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -170,10 +170,10 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Battle Cannon||FxF",
-          "AC Twin Heavy Bolter|2|FxF",
-          "AC Twin Heavy Bolter||Left",
-          "AC Twin Heavy Bolter||Right"
+          "Kampfkanone||FxF",
+          "AC Zwillings-Schwerer Bolter|2|FxF",
+          "AC Zwillings-Schwerer Bolter||Left",
+          "AC Zwillings-Schwerer Bolter||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -192,10 +192,10 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "AC Laser Destructor||FxF",
-          "AC Reaper Autocannon|2|FxF",
-          "AC Reaper Autocannon||Left",
-          "AC Reaper Autocannon||Right"
+          "AC Laser Zerstörer||FxF",
+          "AC Reaper Maschinenkanone|2|FxF",
+          "AC Reaper Maschinenkanone||Left",
+          "AC Reaper Maschinenkanone||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -214,10 +214,10 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Battle Cannon||FxF",
-          "AC Twin Heavy Bolter|2|FxF",
-          "AC Twin Heavy Bolter||Left",
-          "AC Twin Heavy Bolter||Right"
+          "Kampfkanone||FxF",
+          "AC Zwillings-Schwerer Bolter|2|FxF",
+          "AC Zwillings-Schwerer Bolter||Left",
+          "AC Zwillings-Schwerer Bolter||Right"
         ],
         "specialRules": [
           "Damage Capacity 2",
@@ -237,9 +237,9 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "AC Twin Lascannon|3|FxF",
-          "AC Twin Heavy Bolter|2|Left",
-          "AC Twin Heavy Bolter|2|Right"
+          "AC Zwillings-Laserkanone|3|FxF",
+          "AC Zwillings-Schwerer Bolter|2|Left",
+          "AC Zwillings-Schwerer Bolter|2|Right"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -255,7 +255,7 @@
         "name": "Hellbringer Class Light Cruiser",
         "type": "SC",
         "weapons": [
-          "Pin Point"
+          "Präzisionsschuss"
         ],
         "notes": "Transport. Kann 8 Infanterieeinheiten transportieren. Diese dürfen das Schlachtfeld nur durch Teleportation betreten."
       },
@@ -271,7 +271,7 @@
               }
             ]
           },
-          "Pin Point"
+          "Präzisionsschuss"
         ],
         "notes": "Transport. Kann 20 Infanterieeinheiten oder Cybots sowie drei Thunderhawks und genügend Dreadclaws für den Transport aller übrigen mitgeführten Einheiten transportieren."
       },
@@ -296,7 +296,7 @@
         "name": "Warpship",
         "type": "SC",
         "weapons": [
-          "Pin Point"
+          "Präzisionsschuss"
         ],
         "specialRules": [
           "Slow to Arrive (May only arrive from turn 2 onwards)"
@@ -314,7 +314,7 @@
               }
             ]
           },
-          "Pin Point|2|"
+          "Präzisionsschuss|2|"
         ],
         "specialRules": [
           "Slow to Arrive (May only arrive from turn 2 onwards)"

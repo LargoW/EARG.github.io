@@ -69,7 +69,7 @@
           "units": "Eight White Scars Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 325
         },
@@ -78,7 +78,7 @@
           "units": "Six Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Razorbacks",
             "Vindicators"
           ],
@@ -90,7 +90,7 @@
           "extraUnits": [
             "Replace up to two Land Raider Crusaders with two Land Raiders each: 50 points each",
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Vindicators"
           ],
           "points": 425
@@ -105,7 +105,7 @@
           "name": "Assaults",
           "units": "Four Assaults",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Vindicators"
           ],
           "points": 175
@@ -213,7 +213,7 @@
         "points": "75 points"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {

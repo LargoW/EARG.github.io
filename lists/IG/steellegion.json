@@ -14,7 +14,7 @@
       "from": "IG.json",
       "units": [
         "Steel Legion Oberbefehlshaber",
-        "Steel Legion Commander",
+        "Steel Legion Befehlshaber",
         "Commissar",
         "Infantry",
         "Ogryns",
@@ -84,7 +84,7 @@
         },
         {
           "name": "Mechanized Infantry Company",
-          "units": "One Steel Legion Commander with a Commissar, nine Infantry and five Chimeras",
+          "units": "One Steel Legion Befehlshaber with a Commissar, nine Infantry and five Chimeras",
           "extraUnits": [
             "All"
           ],
@@ -92,7 +92,7 @@
         },
         {
           "name": "Infantry Company",
-          "units": "One Steel Legion Commander with a Commissar, twelve Infantry",
+          "units": "One Steel Legion Befehlshaber with a Commissar, twelve Infantry",
           "extraUnits": [
             "All"
           ],

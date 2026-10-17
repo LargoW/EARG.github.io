@@ -42,9 +42,9 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Death Storm||FwA",
-          "Hellmouth||FwA",
-          "Battlehead"
+          "Todessturm||FwA",
+          "Höllenschlund||FwA",
+          "Kampfkopf"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -64,8 +64,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Pus Cannon||FwA",
-          "Boil Cannon||FwA"
+          "Pus Kanone||FwA",
+          "Boil Kanone||FwA"
         ],
         "specialRules": [
           "Damage Capacity 4",
@@ -85,10 +85,10 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Death Storm|0-1|FwA",
-          "Plasma Furnace|0-1|FwA",
-          "Ursus Claw",
-          "Battlehead"
+          "Todessturm|0-1|FwA",
+          "Plasmaofen|0-1|FwA",
+          "Ursus Klaue",
+          "Kampfkopf"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -109,9 +109,9 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Arcane Cannons|2|FwA",
-          "Gaze of Tzeentch||FwA",
-          "Daemon Maw"
+          "Arcane Kanonen|2|FwA",
+          "Blick of Tzeentch||FwA",
+          "Dämon Maw"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -131,16 +131,16 @@
         "cc": 5,
         "ff": 3,
         "weapons": [
-          "Anvilus Autocannon Battery",
+          "Anvilus Maschinenkanone Batterie",
           "Guntail",
           "CARAPACE (choose one)",
-          "Corruptos Chaos Cannon|0-1|FxF",
-          "Plasma Incinerator|0-1|FxF",
-          "Cyclone Cannon|0-1|FxF",
+          "Corruptos Chaos Kanone|0-1|FxF",
+          "Plasma-Verbrenner|0-1|FxF",
+          "Cyclone Kanone|0-1|FxF",
           "ARMS (choose one)",
-          "2x Turbo Blaster||FwA",
-          "2x Hex Cannon||FwA",
-          "2x Plasma Cremator||FwA"
+          "2x Turboblaster||FwA",
+          "2x Hex Kanone||FwA",
+          "2x Plasma-Kremator||FwA"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -160,10 +160,10 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Death Storm|2|FwA",
-          "Doom Burner||FxF",
+          "Todessturm|2|FwA",
+          "Verdammnisbrenner||FxF",
           "Guntail",
-          "Battlehead"
+          "Kampfkopf"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -183,12 +183,12 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Hex Cannon|0-1|FwA",
-          "Turbo Blaster|0-1|FwA",
-          "Plasma Cremator|0-1|FwA",
-          "Sonic Devastator||FxF",
-          "Musk Flail",
-          "Lust Lash"
+          "Hex Kanone|0-1|FwA",
+          "Turboblaster|0-1|FwA",
+          "Plasma-Kremator|0-1|FwA",
+          "Schallverwüster||FxF",
+          "Musk Flegel",
+          "Lustpeitsche"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -208,11 +208,11 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Rot Cannon|0-1|FwA",
-          "Turbo Blaster|0-1|FwA",
-          "Plasma Cremator|0-1|FwA",
-          "Plague Mortar||FxF",
-          "Plague Flail"
+          "Rot Kanone|0-1|FwA",
+          "Turboblaster|0-1|FwA",
+          "Plasma-Kremator|0-1|FwA",
+          "Plague Mörser||FxF",
+          "Plague Flegel"
         ],
         "specialRules": [
           "Damage Capacity 7",
@@ -232,11 +232,11 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Hex Cannon|0-1|FwA",
-          "Turbo Blaster|0-1|FwA",
-          "Plasma Cremator|0-1|FwA",
-          "Doom Burner||FxF",
-          "Doomclaw",
+          "Hex Kanone|0-1|FwA",
+          "Turboblaster|0-1|FwA",
+          "Plasma-Kremator|0-1|FwA",
+          "Verdammnisbrenner||FxF",
+          "Verdammnisklaue",
           "Guntail"
         ],
         "specialRules": [
@@ -257,11 +257,11 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Hex Cannon|0-1|FwA",
-          "Turbo Blaster|0-1|FwA",
+          "Hex Kanone|0-1|FwA",
+          "Turboblaster|0-1|FwA",
           "Coruscant Hail|0-1|FwA",
-          "Beam of Change||FwA",
-          "AA Flame Cannon"
+          "Strahl of Change||FwA",
+          "Flak-Flammenkanone"
         ],
         "specialRules": [
           "Damage Capacity 6",
@@ -281,11 +281,11 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Cannon of Chaos||FwA",
-          "Havoc Barrage Missile|6|FxF",
+          "Kanone of Chaos||FwA",
+          "Havoc Sperrfeuer Rakete|6|FxF",
           "Guntail",
-          "Doomfist",
-          "Battlehead"
+          "Verdammnisfaust",
+          "Kampfkopf"
         ],
         "specialRules": [
           "God Machine",
@@ -306,13 +306,13 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Beam of Ecstasy|0-1|FwA",
-          "Plasma Incinerator|0-1|FwA",
-          "Cyclone Cannon|0-1|FwA",
-          "Beam Blaster|0-1|FwA",
-          "Paired Sonic Devastators||FxF",
-          "Musk Flail",
-          "Lust Lash"
+          "Strahl of Ecstasy|0-1|FwA",
+          "Plasma-Verbrenner|0-1|FwA",
+          "Cyclone Kanone|0-1|FwA",
+          "Strahl Blaster|0-1|FwA",
+          "Gekoppelte Schallverwüster||FxF",
+          "Musk Flegel",
+          "Lustpeitsche"
         ],
         "specialRules": [
           "God Machine",
@@ -334,12 +334,12 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Plasma Incinerator|0-1|FwA",
-          "Cyclone Cannon|0-1|FwA",
-          "Beam Blaster|0-1|FwA",
-          "Heavy Plague Mortar||FxF",
-          "Corruption Cannon||FxF",
-          "Plague Flail"
+          "Plasma-Verbrenner|0-1|FwA",
+          "Cyclone Kanone|0-1|FwA",
+          "Strahl Blaster|0-1|FwA",
+          "Schwerer Plague Mörser||FxF",
+          "Corruption Kanone||FxF",
+          "Plague Flegel"
         ],
         "specialRules": [
           "God Machine",
@@ -361,13 +361,13 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Hellstrike Cannon|0-1|FwA",
-          "Plasma Incinerator|0-1|FwA",
-          "Cyclone Cannon|0-1|FwA",
-          "Beam Blaster|0-1|FwA",
-          "Havoc Barrage Missile|6|FxF",
+          "Hellstrike Kanone|0-1|FwA",
+          "Plasma-Verbrenner|0-1|FwA",
+          "Cyclone Kanone|0-1|FwA",
+          "Strahl Blaster|0-1|FwA",
+          "Havoc Sperrfeuer Rakete|6|FxF",
           "Guntail",
-          "Doomfist"
+          "Verdammnisfaust"
         ],
         "specialRules": [
           "God Machine",
@@ -389,11 +389,11 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Tzeentch Cannon|0-2|FwA",
-          "Plasma Incinerator|0-2|FwA",
-          "Beam Blaster|0-2|FwA",
-          "Beam of Change||FxF",
-          "AA Flame Cannon|3|"
+          "Tzeentch Kanone|0-2|FwA",
+          "Plasma-Verbrenner|0-2|FwA",
+          "Strahl Blaster|0-2|FwA",
+          "Strahl of Change||FxF",
+          "Flak-Flammenkanone|3|"
         ],
         "specialRules": [
           "God Machine",
@@ -415,11 +415,11 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Beam of Rapture||FwA",
-          "Plasma Annihilator||FwA",
-          "Sonic Desolator|2|FxF",
-          "Temple of Temptation",
-          "Battle Cannon|4|"
+          "Strahl of Rapture||FwA",
+          "Plasma-Annihilator||FwA",
+          "Schallvernichter|2|FxF",
+          "Tempel der Versuchung",
+          "Kampfkanone|4|"
         ],
         "specialRules": [
           "God Machine",
@@ -441,11 +441,11 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Rot Storm||FwA",
-          "Devourer Cannon||FwA",
-          "Heavy Plague Mortar|2|FxF",
-          "Temple of Putrefaction",
-          "Battle Cannon|4|"
+          "Fäulnissturm||FwA",
+          "Devourer Kanone||FwA",
+          "Schwerer Plague Mörser|2|FxF",
+          "Tempel der Verwesung",
+          "Kampfkanone|4|"
         ],
         "specialRules": [
           "God Machine",
@@ -467,11 +467,11 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Hellstorm Cannon||FwA",
-          "Plasma Annihilator||FwA",
-          "Temple of Rage",
-          "Battle Cannon|4|",
-          "Manglers"
+          "Hellstorm Kanone||FwA",
+          "Plasma-Annihilator||FwA",
+          "Tempel des Zorns",
+          "Kampfkanone|4|",
+          "Zerfleischer"
         ],
         "specialRules": [
           "God Machine",
@@ -493,10 +493,10 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Twin Beam of Change||FwA",
-          "Havoc Warp Missile|8|FwA",
-          "Temple of Transformation",
-          "AA Flame Cannon|4|"
+          "Zwillings-Strahl of Change||FwA",
+          "Havoc Warp Rakete|8|FwA",
+          "Tempel der Wandlung",
+          "Flak-Flammenkanone|4|"
         ],
         "specialRules": [
           "God Machine",

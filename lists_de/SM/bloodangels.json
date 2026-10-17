@@ -88,7 +88,7 @@
           "units": "Four Assaults",
           "extraUnits": [
             "Assaults",
-            "Commander",
+            "Befehlshaber",
             "Dreadnoughts",
             "Honor Guards",
             "Predators",
@@ -101,7 +101,7 @@
           "units": "Six Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Dreadnoughts",
             "Honor Guards",
             "Land Raider Transport",
@@ -115,7 +115,7 @@
           "name": "Assault Terminators",
           "units": "Four Assault Terminators",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Dreadnoughts",
             "Ersetze 1 Assault Terminator durch 3 Stormravens oder 3 Land Raiders: 100 Punkte, oder add 2 Land Raider Redeemers: 100 Punkte"
           ],
@@ -140,7 +140,7 @@
           "units": "Five Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 200
         },
@@ -149,7 +149,7 @@
           "units": "Four Devastators plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Dreadnoughts",
             "Land Raider Transport",
             "Predators",
@@ -239,7 +239,7 @@
         "points": "Free"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {

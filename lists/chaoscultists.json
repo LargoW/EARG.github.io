@@ -65,13 +65,13 @@
           "Daemon Weapon"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Fallen Commander",
+        "name": "Fallen Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -82,7 +82,7 @@
           "Daemon Weapon"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]

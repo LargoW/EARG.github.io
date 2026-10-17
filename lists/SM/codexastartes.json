@@ -80,7 +80,7 @@
           "name": "Assaults",
           "units": "Four Assaults",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Vindicators"
           ],
           "points": 175
@@ -90,7 +90,7 @@
           "units": "Five Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 200
         },
@@ -99,7 +99,7 @@
           "units": "Four Devastators plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Land Raider Transport",
             "Dreadnoughts",
             "Razorback",
@@ -146,7 +146,7 @@
           "units": "Six Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Dreadnoughts",
             "Land Raider Transport",
             "Razorback",
@@ -158,7 +158,7 @@
           "name": "Terminators",
           "units": "Four Terminators",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Land Raider Transport"
           ],
           "points": 350
@@ -265,7 +265,7 @@
         "points": "75 points"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {

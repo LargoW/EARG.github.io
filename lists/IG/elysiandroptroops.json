@@ -17,7 +17,7 @@
       "from": "IG.json",
       "units": [
         "Elysian Oberbefehlshaber",
-        "Elysian Commander",
+        "Elysian Befehlshaber",
         "Commissar",
         "Elysian Drop Troops",
         "Elysian Fire Support Squad",
@@ -78,7 +78,7 @@
         },
         {
           "name": "Drop Troop Company",
-          "units": "One Elysian Commander with a Commissar and seven Elysian Drop Troops plus transport.",
+          "units": "One Elysian Befehlshaber with a Commissar and seven Elysian Drop Troops plus transport.",
           "extraUnits": [
             "Drop Sentinels",
             "Fire Support",

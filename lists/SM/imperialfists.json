@@ -85,7 +85,7 @@
           "extraUnits": [
             "Achilles",
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Land Raider Transport",
             "Razorbacks",
             "Siege Equipment",
@@ -109,7 +109,7 @@
           "extraUnits": [
             "Achilles",
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Land Raider Transport",
             "Razorbacks",
             "Siege Equipment",
@@ -167,7 +167,7 @@
           "units": "Four Terminators",
           "extraUnits": [
             "Achilles",
-            "Commander",
+            "Befehlshaber",
             "Land Raider Transport",
             "Vindicators"
           ],
@@ -261,7 +261,7 @@
         ]
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {
