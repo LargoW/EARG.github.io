@@ -81,7 +81,7 @@
         {
           "name": "0–1 Netzportal",
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Drukhari-Spielers durch ein Netzportal. Dieses zählt als Zielmarker und kann weder angegriffen noch auf irgendeine Weise beschädigt werden.",
-          "extraEinheits": [
+          "extraUnits": [
           ],
             "points": 50
         }
@@ -94,7 +94,7 @@
         {
           "name": "1 Wraithkind-Gefolge",
           "units": "Ein Archon mit drei weiteren Inkubi",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge zwei Inkubi hinzu: 75 Punkte",
             "Kabalenkrieger",
             "Schattenjäger",
@@ -106,7 +106,7 @@
         {
           "name": "Wraithkind-Flottille",
           "units": "Vier Schnitter",
-          "extraEinheits": [
+          "extraUnits": [
             "Schattenjäger"
           ],
           "points": 250
@@ -114,7 +114,7 @@
         {
           "name": "Wraithkind-Syndikat",
           "units": "Ein Dracon, sechs Drukhari-Kabalenkrieger",
-          "extraEinheits": [
+          "extraUnits": [
             "Kabalenkrieger",
             "Schattenjäger",
             "Tragbares Netzportal",
@@ -131,7 +131,7 @@
           {
             "name": "Mandrakenschwarm",
             "units": "Vier Mandraks",
-            "extraEinheits": [
+            "extraUnits": [
                 "Füge bis zu zwei Mandraks hinzu: 25 Punkte pro Stück"
             ],
             "points": 125
@@ -139,7 +139,7 @@
           {
             "name": "Haemonculus-Kult",
             "units": "ältester Haemonculus, zwei Haemonculi und vier Folterer",
-            "extraEinheits": [
+            "extraUnits": [
               "Füge bis zu zwei Grotesquen hinzu: 25 Punkte pro Stück",
               "Tragbares Netzportal",
               "Talos",
@@ -150,7 +150,7 @@
           {
             "name": "Talos-Schwarm",
             "units": "Vier Talos",
-            "extraEinheits": [
+            "extraUnits": [
               "Talos"
             ],
             "points": 225
@@ -158,7 +158,7 @@
         {
           "name": "Harpyien-Flugstaffel",
           "units": "Sechs Harpyien",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         }
@@ -171,7 +171,7 @@
         {
           "name": "Harlekin-Maske",
           "units": "Ein Schattenseher, drei Harlekin-Trupps, ein Todesnarr und vier Starweaver",
-          "extraEinheits": [
+          "extraUnits": [
               "Ersetze vier Starweaver durch zwei Harlekin-Trupps und einen Todesnarren: kostenlos",
              "Füge bis zu drei Skyweaver-Jetbikes hinzu: 25 Punkte pro Stück",
              "(0–1 pro Armee) Füge einer Harlekin-Trupp einen Solitär hinzu: 50 Punkte"
@@ -181,7 +181,7 @@
         {
           "name": "Unterstützung der Harlekine",
           "units": "Vier Voidweaver",
-          "extraEinheits": [
+          "extraUnits": [
              "Füge bis zu drei Skyweaver-Jetbikes hinzu: 25 Punkte pro Stück"
           ],
           "points": 250
@@ -195,35 +195,35 @@
             {
                 "name": "Schmerzschiff",
                 "units": "Ein Schmerzschiff",
-                "extraEinheits": [
+                "extraUnits": [
                 ],
                 "points": 250
             },
             {
                 "name": "Peiniger",
                 "units": "Ein Peiniger-Titan",
-                "extraEinheits": [
+                "extraUnits": [
                 ],
                 "points": 350
             },
             {
                 "name": "Razorwing-Geschwader",
                 "units": "Zwei Razorwing-Abfangjäger",
-                "extraEinheits": [
+                "extraUnits": [
                 ],
                 "points": 200
             },
             {
                 "name": "Voidraven-Geschwader",
                 "units": "Zwei Voidraven-Abfangjäger",
-                "extraEinheits": [
+                "extraUnits": [
                 ],
                 "points": 225
             },
             {
                 "name": "0–1 Orbitale Unterstützung",
                 "units": "Ein Kreuzer der Torture-Klasse",
-                "extraEinheits": [
+                "extraUnits": [
                 ],
                 "points": 250
             }

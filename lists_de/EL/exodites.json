@@ -91,7 +91,7 @@
           "name": "Drachenritter-Kriegsschar",
           "units": "Ein Drachenfürst und acht Drachenritter",
           "points": "300",
-          "extraEinheits": [
+          "extraUnits": [
             "Drachenprinz",
             "Füge einen Weltenliedsänger-Charakter hinzu: 25 Punkte",
             "Ersetze zwei Drachenritter durch zwei Himmelsdrachen: 25 Punkte. Alternativ kannst du bis zu zwei Drachenritter durch Blutrachen-Megadons ersetzen: 25 Punkte pro Stück."
@@ -101,7 +101,7 @@
           "name": "Windritter-Kriegsschar",
           "units": "Ein Drachenfürst und acht Windritter",
           "points": "300",
-          "extraEinheits": [
+          "extraUnits": [
             "Drachenprinz",
             "Füge einen Weltenliedsänger-Charakter hinzu: 25 Punkte"
           ]
@@ -121,7 +121,7 @@
           "name": "Himmelsdrachen-Trupp",
           "units": "Fünf Himmelsdrachen",
           "points": "200",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze zwei Himmelsdrachen durch zwei Blutrachen-Megadons: 25 Punkte."
           ]
         },
@@ -129,7 +129,7 @@
           "name": "Exoditenmiliz-Trupp",
           "units": "Acht Exoditenmiliz und ein Weltenliedsänger",
           "points": "175",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze bis zu drei Exoditenmiliz durch Exoditen-Waffenplattformen: 25 Punkte pro Stück.",
             "Füge zwei Exoditen-Phantomdroiden hinzu: 75 Punkte"
           ]
@@ -138,14 +138,14 @@
           "name": "Leerenprisma-Trupp",
           "units": "Vier Leerenprisma-Megadons",
           "points": "225",
-          "extraEinheits": [
+          "extraUnits": [
           ]
         },
         {
           "name": "Großmegadon-Trupp",
           "units": "Ein Großer Megadon",
           "points": "175",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Große Megadons hinzu: 125 Punkte pro Stück"
           ]
         },
@@ -163,7 +163,7 @@
         {
           "name": "Korsaren-Raubzug",
           "units": "Vier Korsarenkrieger und ein Korsaren-Felarch",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Korsaren-Wespen hinzu: 25 Punkte pro Stück",
             "Füge bis zu zwei Korsarenveteranen hinzu: 25 Punkte pro Stück",
             "Füge bis zu zwei Geisterläufer hinzu: 25 Punkte pro Stück",
@@ -174,14 +174,14 @@
         {
           "name": "Korsaren-Vampire-Schattenbarke (0–1 pro Raubzug-Trupp)",
           "units": "Eine Korsaren-Vampire-Schattenbarke",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
                 {
           "name": "Korsaren-Nachtschwingen-Staffel",
           "units": "Zwei Korsaren-Nachtschwinge-Abfangjäger",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge einen Korsaren-Nachtschwinge-Abfangjäger hinzu: 75 Punkte"
           ],
           "points": 225
@@ -195,7 +195,7 @@
           "name": "Exoditen-RitterKriegsschar",
           "units": "Zwei Feuerstürme, zwei Helle Hengste oder zwei turmhohe Zerstörer-Ritter",
           "points": 275,
-          "extraEinheits": [
+          "extraUnits": [
             "Füge einen Ritter derselben Konfiguration zum Verband hinzu: 100 Punkte",
             "Füge einen Weltenliedsänger-Charakter hinzu: 50 Punkte"
           ]

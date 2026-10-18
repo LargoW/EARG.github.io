@@ -78,14 +78,14 @@
         {
           "name": "0–1 Runenleser-Titan",
           "units": "Ein Runenleser-Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 850
         },
         {
           "name": "Phantomtitan",
           "units": "Ein Phantomtitan",
-          "extraEinheits": [
+          "extraUnits": [
             "Knochensänger"
           ],
           "points": 700
@@ -99,7 +99,7 @@
         {
           "name": "Phantom-Titan",
           "units": "Zwei Phantom-Titanen",
-          "extraEinheits": [
+          "extraUnits": [
             "Gib dem Verband die Sonderregel 'Unabhängige Zwillinge': 50 Punkte"
           ],
           "points": 650
@@ -113,14 +113,14 @@
         {
           "name": "Phantomritter-Trupp",
           "units": "Zwei Phantomritter (Konfigurationen dürfen nicht gemischt werden)",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Kriegsmaschinen von Vaul",
           "units": "Ein Kriegsmaschine von Vaul aus folgender Auswahl: Kobra, Skorpion, Sturmserpent",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei zusätzliche Kriegsmaschinen von Vaul hinzu: 200 Punkte pro Stück.",
             "Knochensänger"
           ],
@@ -129,7 +129,7 @@
         {
           "name": "Phantomwachen-Phantomkriegsschar",
           "units": "Ein Geisterseher Charakter, vier Phantomdroiden",
-          "extraEinheits": [
+          "extraUnits": [
             "Phantomlords",
             "Phantomdroiden",
             "Phantomklingen",
@@ -146,7 +146,7 @@
         {
           "name": "Nachtschwingen-Staffel",
           "units": "Zwei Nachtschwingen-Abfangjäger",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Nachtschwinge-Abfangjäger hinzu: 75 Punkte"
           ],
           "points": 225
@@ -154,21 +154,21 @@
         {
           "name": "Vampire-Jäger",
           "units": "Ein Vampire-Jäger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "Vampire",
           "units": "Eine Vampire Schattenbarke",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "0–1 Raumschiff",
           "units": "Ein Phantomschiff",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze es durch ein Drachenschiff: 125 Punkte"
           ],
           "points": 175

@@ -91,7 +91,7 @@
         {
           "name": "Höllenschmiede-Manipel",
           "units": "Ein Höllenschmied, elf Chaos-Squats",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze vier Chaos-Squats durch vier Phospexors: 25 Punkte",
             "Füge zwei Krios Lightning, zwei Krios Venators, oder ein Ordinatus Hereticus hinzu: 125 Punkte",
             "Erz-Heretek",
@@ -109,7 +109,7 @@
         {
           "name": "Höllenritter des Slaanesh",
           "units": "Dämonenpakt, zwei Höllenritter",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge einen zusätzlichen Höllenritter hinzu: 100 Punkte"
           ],
           "points": 300
@@ -117,7 +117,7 @@
         {
           "name": "Höllengeißeln des Slaanesh",
           "units": "Dämonenpakt, zwei Höllenharpyien",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge einen zusätzlichen Höllenritter hinzu: 100 Punkte"
           ],
           "points": 300
@@ -125,7 +125,7 @@
         {
           "name": "Höllenstreiter des Slaanesh",
           "units": "Dämonenpakt, vier Hell-Striders",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge eine zusätzliche Hell-Strider hinzu: 50 Punkte"
           ],
           "points": 250
@@ -133,7 +133,7 @@
         {
           "name": "Schänder-Ritter des Tzeentch",
           "units": "Dämonenpakt, zwei Schänder-Ritter",
-          "extraEinheits": [
+          "extraUnits": [
             "Chaos-Ikone"
           ],
           "points": 350
@@ -141,7 +141,7 @@
         {
           "name": "Entweiher-Ritter des Nurgle",
           "units": "Dämonenpakt, zwei Entweiher-Ritter",
-          "extraEinheits": [
+          "extraUnits": [
             "Chaos-Ikone"
           ],
           "points": 350
@@ -149,7 +149,7 @@
         {
           "name": "Rampager-Ritter des Khorne",
           "units": "Dämonenpakt, zwei Rampager-Ritter",
-          "extraEinheits": [
+          "extraUnits": [
             "Chaos-Ikone"
           ],
           "points": 350
@@ -157,7 +157,7 @@
         {
           "name": "Abtrünnige Ritter des Ungeteilten Chaos",
           "units": "Dämonenpakt, zwei Abtrünnige Ritter",
-          "extraEinheits": [
+          "extraUnits": [
             "Chaos-Ikone"
           ],
           "points": 350
@@ -165,7 +165,7 @@
         {
           "name": "Tyrannenritter des Ungeteilten Chaos",
           "units": "Dämonenpakt, ein Tyrannenritter",
-          "extraEinheits": [
+          "extraUnits": [
             "Chaos-Ikone"
           ],
           "points": 275
@@ -173,7 +173,7 @@
         {
           "name": "Armiger des Ungeteilten Chaos",
           "units": "Dämonenpakt, vier Doomglaive-Ritter oder vier Perfidor-Ritter",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge einen zusätzlichen Doomglaive-Ritter oder Perfidor-Ritter hinzu (Konfigurationen dürfen nicht gemischt werden): 50 Punkte"
           ],
           "points": 250
@@ -187,14 +187,14 @@
         {
           "name": "Chrono-Gladiatoren",
           "units": "Sechs Chrono-Gladiators",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Ordinatus Hereticus",
           "units": "Zwei Ordinatus Hereticus",
-          "extraEinheits": [
+          "extraUnits": [
             "Werte eine Battle Weapon im Verband zu einer Unterstützungswaffe auf: 25 Punkte",
             "Kaban-Maschine"
           ],
@@ -203,7 +203,7 @@
         {
           "name": "0–1 Ordinatus Hereticus Majoris",
           "units": "Ein Ordinatus Retlaxi",
-          "extraEinheits": [
+          "extraUnits": [
             "Werte den Ordinatus Retlaxi zu einem Ordinatus Temporia (25 Punkte) oder Ordinatus Cyclothrathe (50 Punkte) auf",
             "Oberbefehlshaber"
           ],
@@ -227,7 +227,7 @@
         {
           "name": "0–1 Chaos Schlachtschiff",
           "units": "Ein Schlachtschiff der Despoiler-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         }

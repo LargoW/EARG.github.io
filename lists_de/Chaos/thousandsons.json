@@ -104,7 +104,7 @@
         {
           "name": "Thousand Sons Gefolge",
           "units": "Ein Aufstrebender Hexer, fünf Rubric Marines, vier Thousand Sons Marines, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 4 Thousand Sons Marines durch 4 Thousand Sons Havocs: 50 Punkte",
             "Ersetze bis zu 3 Rubric Marines durch Thousand Sons Cybots: 25 Punkte pro Stück",
             "Oberbefehlshaber",
@@ -119,7 +119,7 @@
         {
           "name": "Thousand Sons Terminatoren",
           "units": "Ein Aufstrebender Hexer, vier Scarab Occult Terminatoren, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Ikonenträger",
             "Chaoschampion",
@@ -136,7 +136,7 @@
         {
           "name": "Tzaangorhorde",
           "units": "Ein Chaosbrut, acht Tzaangors, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Chaosbrut durch ein Mutalith Warp Beast: 50 Punkte"
           ],
           "points": 200
@@ -144,14 +144,14 @@
         {
           "name": "Verwüster des Tzeentch",
           "units": "Drei Decievers",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Panzerkompanie",
           "units": "Vier Thousand Sons Predators",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 4 Thousand Sons Predators durch 4 Thousand Sons Land Raiders: 75 Punkte"
           ],
           "points": 225
@@ -159,7 +159,7 @@
         {
           "name": "Havocs",
           "units": "Ein Aufstrebender Hexer, vier Thousand Sons Havocs, zwei Thousand Sons Rhinos, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 2 Thousand Sons Rhinos durch 2 Thousand Sons Cybots: 75 Punkte",
             "Ikonenträger",
             "Predators"
@@ -169,7 +169,7 @@
         {
           "name": "Discreiter",
           "units": "Ein Aufstrebender Hexer, sechs Sorcerer Discreiter, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Ikonenträger",
             "Chaoschampion"
@@ -179,7 +179,7 @@
         {
           "name": "Silbertürme des Tzeentch",
           "units": "Vier Silver Towers",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 275
         }
@@ -192,28 +192,28 @@
         {
           "name": "Warp-Hound",
           "units": "Ein Warphound Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Warp-Palast",
           "units": "Ein Warp Palace",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 450
         },
         {
           "name": "Verdammnisschwingen des Tzeentch",
           "units": "Drei Doomwings",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Feuerfürsten des Tzeentch",
           "units": "Zwei Firelords",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Firelord hinzu: 100 Punkte"
           ],
           "points": 250
@@ -221,7 +221,7 @@
         {
           "name": "0–1 Warpschiff des Tzeentch",
           "units": "Ein Warpship",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 100
         }

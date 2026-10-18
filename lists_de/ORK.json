@@ -309,7 +309,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Brennabuggy"
+          "Brenna"
         ],
         "specialRules": [
         ]
@@ -605,7 +605,7 @@
         "weapons": [
           "Höllenzornkanone||FxF",
           "Kanonä||FxF",
-          "Skorcha|2|FxF"
+          "Brenna|2|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 3"
@@ -701,7 +701,7 @@
           "Zzap-Geschütz|0-2|FxF",
           "Bauchbewaffnung (Wähle eine)",
           "Mega Kanonä|0-1|FxF",
-          "Supa-Skorcha|0-1|FxF",
+          "Supa-Brenna|0-1|FxF",
           "Supa-Zzap-Geschütz|0-1|FxF",
           "Snappa|0-1|"
         ],
@@ -759,7 +759,7 @@
           "Lifta Droppa|0-1|",
           "Bauchbewaffnung (Wähle eine)",
           "Mega Kanonä|0-1|FxF",
-          "Supa-Skorcha|0-1|FxF",
+          "Supa-Brenna|0-1|FxF",
           "Supa-Zzap-Geschütz|0-1|FxF",
           "Snappa|0-1|"
         ],
@@ -880,7 +880,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "10 Killa Bots, Waaghbikes, Boys, Bosse, Kommandos, Stormboys oder Grots. Kanonänbatterie, Warbuggies, Skorchas und Deff Dreads belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grots-Einheiten mitgeführt werden.",
+        "notes": "10 Killa Bots, Waaghbikes, Boys, Bosse, Kommandos, Stormboys oder Grots. Kanonänbatterie, Warbuggies, Brennabuggies und Deff Dreads belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grots-Einheiten mitgeführt werden.",
         "crit": "Das Landungsschiff und alle transportierten Einheiten werden zerstört."
       },
       {

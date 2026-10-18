@@ -67,7 +67,7 @@
         {
           "name": "1 Orbitale Unterstützung",
           "units": "Vanguard-Klasse-Leichter-Kreuzer",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Leichter Kreuzer durch ein Grey Knights Angriffskreuzer: 75 Punkte"
           ],
           "points": 150
@@ -75,7 +75,7 @@
         {
           "name": "Taktische Trupps",
           "units": "Ein Blood-Ravens-Scriptor, vier Taktische Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Cybots",
             "Land Raiders"
@@ -85,7 +85,7 @@
         {
           "name": "Devastor-Trupps",
           "units": "Ein Blood-Ravens-Scriptor, vier Devastor-Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Cybots",
             "Land Raiders"
@@ -95,7 +95,7 @@
         {
           "name": "Sturmtrupps",
           "units": "Ein Blood-Ravens-Scriptor, vier Sturmtrupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber"
           ],
           "points": 200
@@ -103,7 +103,7 @@
         {
           "name": "Bike-Verband",
           "units": "Ein Blood-Ravens-Scriptor, beliebige fünf der folgenden Einheiten: Sturm-Bikes, Trike",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber"
           ],
           "points": 225
@@ -111,7 +111,7 @@
                 {
           "name": "Vindicators",
           "units": "Ein Blood-Ravens-Scriptor, vier Vindicators",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber"
           ],
           "points": 250
@@ -125,7 +125,7 @@
         {
           "name": "Grey-Knights-Abfangtrupps",
           "units": "Ein Justicar der Grey Knights, drei Grey-Knights-Abfangtrupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber"
           ],
           "points": 250
@@ -133,7 +133,7 @@
         {
           "name": "Angriffstrupps",
           "units": "Ein Justicar, drei Angriffstrupp der Grey Knightss plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Grey-Knights-Unterstützung",
             "Vortimer Razorbacks"
@@ -143,7 +143,7 @@
         {
           "name": "Grey-Knights-Purgatortrupps",
           "units": "Ein Justicar der Grey Knights, drei Grey-Knights-Purgatortrupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Grey-Knights-Unterstützung",
             "Vortimer Razorbacks"
@@ -153,7 +153,7 @@
         {
           "name": "Terminatoren",
           "units": "Ein Justicar, zwei Grey Knights Terminatoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Grey-Knights-Unterstützung"
           ],
@@ -162,7 +162,7 @@
         {
           "name": "Nemesis-Ritter",
           "units": "Zwei Nemesis-Ritter",
-          "extraEinheits": [
+          "extraUnits": [
           "Füge 1 zusätzlichen Nemesis-Ritter hinzu: 100 Punkte"
           ],
           "points": 250
@@ -181,7 +181,7 @@
         {
           "name": "Feuerraptor",
           "units": "Ein Fire Raptor",
-          "extraEinheits": [],
+          "extraUnits": [],
           "points": 175
         },
         {

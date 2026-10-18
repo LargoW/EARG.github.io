@@ -221,7 +221,7 @@
         {
           "name": "0–1 Raumschiff",
           "units": "Ein Phantomschiff",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze es durch ein Drachenschiff: 125 Punkte"
           ],
           "points": 175

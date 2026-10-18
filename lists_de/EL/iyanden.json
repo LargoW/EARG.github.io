@@ -94,7 +94,7 @@
         {
           "name": "Phantomwachen-Phantomkriegsschar",
           "units": "Eine Phantomdroiden-Einheit mit einem Geisterseher-Charakter und drei weitere Phantomdroiden",
-          "extraEinheits": [
+          "extraUnits": [
             "Phantomdroiden",
             "Phantomlords",
             "Füge vier Wellenschlangen hinzu: 150 Punkte (darf nur gewählt werden, wenn der gesamte Verband hineinpasst)",
@@ -105,7 +105,7 @@
         {
           "name": "Phantomklingen-Phantomkriegsschar",
           "units": "Eine Phantomklingen-Einheit mit einem Geisterseher-Charakter und drei weitere Phantomklingen",
-          "extraEinheits": [
+          "extraUnits": [
             "Phantomdroiden",
             "Phantomlords",
             "Füge vier Wellenschlangen hinzu: 150 Punkte (darf nur gewählt werden, wenn der gesamte Verband hineinpasst)",
@@ -122,7 +122,7 @@
           {
             "name": "Gardisten",
             "units": "Eine Runenpropheten-Einheit und sieben Gardisten",
-            "extraEinheits": [
+            "extraUnits": [
               "Schwere Waffen, Unterstützungswaffen, Phantomdroiden, Phantomklingen, Phantomlords.",
               "Füge vier Wellenschlangen hinzu: 150 Punkte (darf nur gewählt werden, wenn der gesamte Verband hineinpasst)"
             ],
@@ -131,7 +131,7 @@
         {
           "name": "Aspektkriegertrupp",
           "units": "Sechs Aspektkrieger aus folgender Auswahl: Schwarze Khaindar, Asuryans Jäger, Feuerdrachen, Banshees, Sternenlanzen, Skorpionkrieger, Kriegsfalken, Warpspinnen",
-          "extraEinheits": [
+          "extraUnits": [
             "Exarch"
           ],
           "points": 250
@@ -139,7 +139,7 @@
         {
           "name": "Kriegsmaschinen von Vaul",
           "units": "Ein Kriegsmaschine von Vaul aus folgender Auswahl: Kobra, Skorpion, Sturmserpent",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei zusätzliche Kriegsmaschinen von Vaul hinzu: 200 Punkte pro Stück (Kobra, Skorpion oder Sturmserpent)."
           ],
           "points": 250
@@ -147,7 +147,7 @@
         {
           "name": "Schwerter von Vaul",
           "units": "Fünf Falcons",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze bis zu zwei Falcons durch Feuerstürme: kostenlos"
           ],
           "points": 250
@@ -155,28 +155,28 @@
         {
           "name": "Illum-Zar-Trupp",
           "units": "Drei Illum Zars",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Nachtspinnen-Trupp",
           "units": "Drei Nachtspinnen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Ranger",
           "units": "Vier Eldar-Ranger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 100
         },
         {
           "name": "Kampfläufer-Trupp",
           "units": "Vier Kampfläufer",
-          "extraEinheits": [
+          "extraUnits": [
               "Füge bis zu zwei Kampfläufer hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
@@ -184,7 +184,7 @@
       {
         "name": "Geisterläufer-Trupp",
         "units": "Vier Phantomlords",
-        "extraEinheits": [
+        "extraUnits": [
         ],
         "points": 250
       }
@@ -197,7 +197,7 @@
         {
           "name": "Nachtschwingen-Staffel",
           "units": "Zwei Nachtschwingen-Abfangjäger",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Nachtschwinge-Abfangjäger hinzu: 75 Punkte"
           ],
           "points": 225
@@ -205,7 +205,7 @@
         {
           "name": "Hemlock-Phantomjäger-Staffel",
           "units": "Zwei Hemlock-Phantomjäger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
@@ -213,35 +213,35 @@
         {
           "name": "Vampire",
           "units": "Eine Vampire Schattenbarke",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Phantomritter",
           "units": "Zwei Phantomritter (Konfigurationen dürfen nicht gemischt werden)",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "Phantom-Titanen",
           "units": "Zwei Phantom-Titanen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 650
         },
         {
           "name": "Phantom",
           "units": "Ein Phantomtitan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 700
         },
         {
           "name": "0–1 Raumschiff",
           "units": "Ein Phantomschiff",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze es durch ein Drachenschiff: 150 Punkte"
           ],
           "points": 150

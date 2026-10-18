@@ -71,7 +71,7 @@
         {
           "name": "0–1 Nexus-Brutschwarm",
           "units": "Ein Hydra-Dominatrix",
-          "extraEinheits": [
+          "extraUnits": [
             "Ein bis vier Instinktive Schwärme"
           ],
           "points": 400
@@ -79,7 +79,7 @@
         {
           "name": "Tyrannenschwarm",
           "units": "Ein Schwarmtyrant",
-          "extraEinheits": [
+          "extraUnits": [
             "Zwei bis vier Instinktive Schwärme",
             "Ersetze einen Schwarmtyrant durch einen Schwarmtyrant Shrike: kostenlos",
             "0–1 Schwarmtyrant in der Armee darf durch einen Schwarmherrscher oder einen Schwarmherrscher-Shrike ersetzt werden: 75 Punkte"
@@ -89,7 +89,7 @@
         {
           "name": "Sturmschwarm",
           "units": "Zwei Tyranidenkrieger",
-          "extraEinheits": [
+          "extraUnits": [
             "Ein bis zwei Instinktive Schwärme",
             "Mindestens 1 aus Ganten, Gargoyles oder Bio-Unterstützung muss gewählt werden",
             "Ersetze zwei Tyranidenkrieger kostenlos durch Tyranidenkrieger-Shrikes",
@@ -106,7 +106,7 @@
          {
           "name": "Tervigon-Brutschwarm",
           "units": "Ein Tervigon und zwei Barbgaunts, zwei Hormaganten, oder zwei Termaganten",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Tervigon und zwei Barbgaunts, zwei Hormaganten, oder zwei Termaganten hinzu: 100 Punkte",
             "Ein bis zwei Instinktive Schwärme"
           ],
@@ -115,7 +115,7 @@
         {
           "name": "Harridan-Schwarm",
           "units": "Ein Schwarm-Harridan",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Schwarm-Harridan hinzu: 100 Punkte",
             "Null bis zwei Instinktive Schwärme, ausgewählt aus Gargoyles oder Bio-Flieger"
           ],
@@ -124,7 +124,7 @@
         {
           "name": "Brutnest",
           "units": "Ein Brutnest",
-          "extraEinheits": [
+          "extraUnits": [
             "Ein bis zwei Instinktive Schwärme, ausgewählt aus Ganten, Bio-Artillerie, Bio-Unterstützung oder Nestwache"
           ],
           "points": 150
@@ -138,7 +138,7 @@
         {
           "name": "Symbiontenschwarm",
           "units": "Ein Symbiontenlord, sechs Symbionten",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu drei Symbionten hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -146,7 +146,7 @@
         {
           "name": "Infiltratorenschwarm",
           "units": "Vier Liktors",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze vier Liktors durch vier Dimachaerons: kostenlos"
           ],
           "points": 225
@@ -160,7 +160,7 @@
         {
           "name": "Biotitan",
           "units": "Ein Hierophant Biotitan",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Hierophant durch einen Hydraphant Biotitan: 100 Punkte"
           ],
           "points": 325

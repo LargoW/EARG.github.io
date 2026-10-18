@@ -74,7 +74,7 @@
         {
           "name": "Jagd-Rudel",
           "units": "Ein Wolfslord-Kapitän, ein Wolfsstandartenträger, sechs Graumähnen-Taktische-Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Cybots",
             "Exterminators",
@@ -87,7 +87,7 @@
         {
           "name": "Blutklauen-Sturmrudel",
           "units": "Sechs Blutklauen-Sturmtrupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge dem Verband einen Transporter hinzu: 25 Punkte",
             "Cybots",
             "Fenriswölfe",
@@ -98,7 +98,7 @@
         {
           "name": "Himmelsklaue-Sturmrudel",
           "units": "Sechs Himmelsklauen-Sturmtrupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Fenriswölfe",
             "Wolfslord-Kapitän"
           ],
@@ -107,7 +107,7 @@
         {
           "name": "Schnellklauen-Sturmbike-Rudel",
           "units": "Sechs Schnellklauen-Sturmbikes",
-          "extraEinheits": [
+          "extraUnits": [
             "Fenriswölfe",
             "Wolfslord-Kapitän"
           ],
@@ -122,7 +122,7 @@
         {
           "name": "Langfang-Rudel",
           "units": "Ein Wolfslord-Kapitän und vier Langfang-Devastortrupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Cybots",
             "Exterminators",
@@ -135,7 +135,7 @@
         {
           "name": "Donnerwolfkavallerie",
           "units": "Ein Wolfslord-Kapitän und vier Donnerwolfkavalleristen",
-          "extraEinheits": [
+          "extraUnits": [
             "Fenriswölfe",
             "Oberbefehlshaber"
           ],
@@ -144,7 +144,7 @@
         {
           "name": "Wolfsgarde-Terminatorrudel",
           "units": "Ein Wolfslord-Kapitän, vier Wolfsgarde-Terminatoren und ein Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Cybots",
             "Oberbefehlshaber"
           ],
@@ -153,7 +153,7 @@
         {
           "name": "Wolfscout-Rudel",
           "units": "Vier Wolf-Aufklärer und ein Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Fenriswölfe",
             "Wolfslord-Kapitän"
           ],
@@ -168,7 +168,7 @@
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Land Raider hinzu: 50 Punkte",
             "Flugabwehr"
           ],
@@ -177,7 +177,7 @@
         {
           "name": "Land Speeders",
           "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
-          "extraEinheits": [
+          "extraUnits": [
             "Typhoons"
           ],
           "points": 200
@@ -185,7 +185,7 @@
         {
           "name": "Predators",
           "units": "Vier Predator Annihilators und/oder Predator Destructors",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr"
           ],
           "points": 250
@@ -193,7 +193,7 @@
         {
           "name": "Vindicators",
           "units": "Vier Vindicators",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr"
           ],
           "points": 225
@@ -201,7 +201,7 @@
         {
           "name": "Whirlwinds",
           "units": "Vier Whirlwinds",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr"
           ],
           "points": 275
@@ -215,7 +215,7 @@
         {
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Angriffskreuzer",
-          "extraEinheits": [
+          "extraUnits": [
             "Schlachtbarke"
           ],
           "points": 200
@@ -228,7 +228,7 @@
         {
           "name": "Stormwolf-Sturmboot",
           "units": "Ein Stormwolf-Sturmboot",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
@@ -240,7 +240,7 @@
         {
           "name": "Warhounds",
           "units": "Ein Warhound-Titan",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 zusätzlichen Warhound-Titan hinzu: 200 Punkte"
           ],
           "points": 275

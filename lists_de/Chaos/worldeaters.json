@@ -92,7 +92,7 @@
         {
           "name": "Gefolge der World Eaters",
           "units": "Ein Chaos-Lord, vier Khorne-Berserker, vier World-Eaters-Sturmtrupps, vier Rhinos der World Eaters und ein Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 2 Berzerker Cybots hinzu: 75 Punkte",
             "Oberbefehlshaber",
             "Berzerker Transport",
@@ -106,7 +106,7 @@
         {
           "name": "Skullseeker Terminatoren",
           "units": "Ein Chaos-Lord, vier Skullseeker Terminatoren, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu 2 Mutilators hinzu: 50 Punkte pro Stück",
             "Oberbefehlshaber",
             "Skullseeker Transport",
@@ -124,14 +124,14 @@
         {
           "name": "Destruktoren",
           "units": "Vier Chaos Destruktoren, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Chaos Space Marines",
           "units": "Sechs Chaos Space Marines, drei World Eaters Rhinos, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 3 World Eaters Rhinos durch 3 Chaos Land Raiders: 125 Punkte",
             "Stalker",
             "Vindicators"
@@ -141,7 +141,7 @@
         {
           "name": "Berzerker-Sturmbikes",
           "units": "Ein Chaos-Lord, sechs Khorne-Berserker-Angriffsbikes und ein Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
             "Ikonenträger"
@@ -151,7 +151,7 @@
         {
           "name": "Juggernaut-Reiter",
           "units": "Ein Chaos-Lord, sechs Juggernaut-Reiter und ein Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
             "Ikonenträger"
@@ -167,14 +167,14 @@
         {
           "name": "Doomblasters",
           "units": "Drei Doomblasters",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Khorne-Geißel-Meute",
           "units": "Vier Slaughterfiends",
-          "extraEinheits": [
+          "extraUnits": [
               "Füge bis zu 3 Slaughterfiends hinzu: 50 Punkte pro Stück"
           ],
           "points": 250
@@ -182,14 +182,14 @@
         {
           "name": "Kanonen des Khorne",
           "units": "Vier Kanonen des Khorne",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Dämonische Sturmmaschinen",
           "units": "Vier dämonische Sturmmaschinen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         }
@@ -202,7 +202,7 @@
         {
           "name": "Greater Brass Scorpions",
           "units": "Ein Greater Brass Scorpion",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu 2 Greater Brass Scorpions hinzu: 175 Punkte pro Stück"
           ],
           "points": 225
@@ -210,14 +210,14 @@
         {
           "name": "Herr der Schlachten",
           "units": "Ein Herr der Schlachten",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 425
         },
         {
           "name": "0–1 Turm der Schädel",
           "units": "Ein Turm der Schädel",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 600
         },
@@ -234,7 +234,7 @@
         {
           "name": "0–1 Chaos Kreuzer",
           "units": "Ein Kreuzer der Devastation-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
             "Schlachtschiff"
           ],
           "points": 150

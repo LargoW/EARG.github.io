@@ -57,7 +57,7 @@
         {
           "name": "1 Nexus-Brut",
           "units": "Ein Symbiontenpatriarch, drei Symbionten und drei Akolythenhybriden",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge vier Konklaven-Limousinen (75 Punkte) oder vier Goliath-Trucks (125 Punkte) hinzu",
             "Ersetze drei Symbionten durch drei Akolythenhybriden oder drei Akolythenhybriden durch drei Symbionten: kostenlos",
             "Aberranten",
@@ -68,7 +68,7 @@
         {
           "name": "Kultistenkompanie",
           "units": "Ein Symbiontenprimus und neun Kult-Infanteristen",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge vier Kult-Infanteristen hinzu: 50 Punkte",
             "Füge zwei Kult-Feuerunterstützungseinheiten hinzu: 50 Punkte",
             "Füge drei Kult-Leman-Russ oder Kult-Leman-Russ-Demolisher hinzu: 150 Punkte",
@@ -88,7 +88,7 @@
         {
           "name": "Symbiontenrotte",
           "units": "Ein Symbiontenpatriarch und sechs Symbionten",
-          "extraEinheits": [
+          "extraUnits": [
             "Symbionten"
           ],
           "points": 175
@@ -96,7 +96,7 @@
         {
           "name": "Hybridenrotte",
           "units": "Sechs Akolythenhybriden",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge drei Goliath-Trucks hinzu: 100 Punkte",
             "Aberranten",
             "Konklaven-Flak"
@@ -106,7 +106,7 @@
         {
           "name": "Bikerrotte",
           "units": "Sechs Konklaven-Biker",
-          "extraEinheits": [
+          "extraUnits": [
             "Konklaven-Flak"
           ],
           "points": 175
@@ -114,7 +114,7 @@
         {
           "name": "Aufklärungsrotte",
           "units": "Fünf Konklaven-Ridgerunner",
-          "extraEinheits": [
+          "extraUnits": [
             "Konklaven-Flak"
           ],
           "points": 175
@@ -133,14 +133,14 @@
         {
           "name": "Liktor-Schwarm",
           "units": "Fünf Liktoren",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Metamorph-Rotte",
           "units": "Sechs Metamorph-Hybriden",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         }
@@ -153,7 +153,7 @@
         {
           "name": "Kultisten-Superschwerer-Panzerzug",
           "units": "Ein Konklaven-Locus-Charakter, ein Kult-Baneblade oder Kult-Stormblade",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Kult-Baneblade oder Kult-Stormblade durch einen Kult-Shadowsword: 25 Punkte"
           ],
           "points": 200
@@ -161,21 +161,21 @@
         {
           "name": "Kultisten-Leman-Russ-Zug",
           "units": "Ein Konklaven-Locus-Charakter, sechs Kult-Leman-Russ oder Kult-Leman-Russ-Demolisher",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 425
         },
         {
           "name": "Kultisten-Basilisken-Batterie",
           "units": "Ein Konklaven-Locus-Charakter und drei Kult-Basilisken",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Mechanisierter Kultistenzug",
           "units": "Ein Konklaven-Locus-Charakter, sechs Kult-Infanteristen und drei Kult-Chimären",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Kult-Höllenhunde hinzu: 25 Punkte pro Stück",
             "Füge drei Kult-Greife hinzu: 50 Punkte"
           ],
@@ -184,7 +184,7 @@
         {
           "name": "Kultisten-Flakbatterie",
           "units": "Ein Konklaven-Locus-Charakter und drei Kult-Hydras",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         }

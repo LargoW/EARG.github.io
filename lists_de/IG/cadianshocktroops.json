@@ -79,7 +79,7 @@
         {
           "name": "0–1 Regimentshauptquartier",
           "units": "Ein Cadianischer Oberbefehlshaber, ein Kommissar, acht Kasrkin und ein Stormlord.",
-          "extraEinheits": [
+          "extraUnits": [
             "Werte den Stormlord zu einem Leviathan auf: 125 Punkte",
             "Leman Russ Kampfpanzer",
             "Superschwerer Panzer"
@@ -89,7 +89,7 @@
         {
           "name": "Weißschild-Kompanie",
           "units": "Ein Cadian-Befehlshaber mit einem Kommissar, fünfzehn Weißschilden und zwei Stormlords.",
-          "extraEinheits": [
+          "extraUnits": [
             "Leman-Russ-Staffel",
             "Superschwerer Panzer"
           ],
@@ -132,7 +132,7 @@
         {
           "name": "Artilleriebatterie",
           "units": "Drei Basilisken, drei Bombarden oder vier Medusa",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Deathstrike hinzu: 75 Punkte"
           ],
           "points": 225

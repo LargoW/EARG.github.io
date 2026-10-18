@@ -74,7 +74,7 @@
         {
           "name": "Questoris",
           "units": "Zwei Questoris-Ritter in einer dieser Konfigurationen: Paladin, Crusader, Errant, Warden oder Gallant. Konfigurationen dürfen nicht gemischt werden.",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge einen Questoris-Ritter derselben Konfiguration hinzu: 125 Punkte",
             "Füge jedem Questoris-Ritter in einem Verband mit Paladin-, Crusader- oder Errant-Konfiguration eine Zwillings-Icarus Maschinenkanone hinzu: 25 Punkte",
             "Seneschall",
@@ -85,7 +85,7 @@
         {
           "name": "Dominus",
           "units": "Ein Dominus-Ritter",
-          "extraEinheits": [
+          "extraUnits": [
             "Seneschall",
             "Seneschallord"
           ],
@@ -100,7 +100,7 @@
         {
           "name": "Cerastus",
           "units": "Ein Cerastus-Ritter",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge einen Cerastus-Ritter derselben Konfiguration hinzu: 175 Punkte",
             "Seneschall"
           ],
@@ -109,7 +109,7 @@
         {
           "name": "Armiger",
           "units": "Vier Armiger-Ritter-Warglaives oder drei Armiger-Ritter-Helverins",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge einen Armiger-Ritter derselben Konfiguration hinzu: 50 Punkte",
             "Füge einen Questoris-Ritter-Preceptor mit einem Seneschall hinzu: 175 Punkte"
           ],
@@ -124,14 +124,14 @@
         {
           "name": "Armiger-Reliktbanner",
           "units": "Drei Armiger-Reliktritter-Moirax derselben Konfiguration",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Questoris-Reliktbanner",
           "units": "Ein Questoris-Reliktritter-Styrix oder ein Questoris-Reliktritter-Magaera",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge einen Questoris-Reliktritter derselben Konfiguration hinzu: 175 Punkte",
             "Seneschall"
           ],
@@ -140,14 +140,14 @@
         {
           "name": "Cerastus-Reliktbanner",
           "units": "Ein Seneschall, ein Cerastus-Reliktritter-Atrapos",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Acastus-Reliktbanner",
           "units": "Ein Acastus-Reliktritter-Porphyrion oder ein Acastus-Reliktritter-Asterius",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge einen Acastus-Reliktritter derselben Konfiguration hinzu: 225 Punkte",
             "Seneschall"
           ],
@@ -162,7 +162,7 @@
         {
           "name": "Skitarii-Manipel",
           "units": "Ein Magos, neun Hypaspisten und ein Gorgon",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Gorgon kostenlos durch fünf Skorpius-Dünenreiter"
           ],
           "points": 325
@@ -175,7 +175,7 @@
         {
           "name": "Skorpius-Manipel",
           "units": "Vier Skorpius-Desintegratoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Skorpius-Desintegratoren hinzu: 50 Punkte pro Stück"
           ],
           "points": 225

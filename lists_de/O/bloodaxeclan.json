@@ -59,7 +59,7 @@
         {
           "name": "Mob der Blutäxte",
           "units": "Zwei Bosse, sechs Boys, zwei Grots",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge beliebig viele Looted Chimären/Rhinos, Killa Bots, Kommandos, Stormboys hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Deffkoptas, Cybots, Looted Hydras, Looted Leman Russ/Land Raiders  hinzu: 35 Punkte pro Stück",
             "Füge beliebig viele Stampfas hinzu: 50 Punkte pro Stück",
@@ -86,8 +86,8 @@
         {
           "name": "Plünderer-Brigade",
           "units": "Beliebige vier der folgenden Einheiten: Looted Leman Russ",
-          "extraEinheits": [
-            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
+          "extraUnits": [
+            "Füge beliebig viele Brennabuggies, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Deffkoptas, Flakpanzas, Kampfpanzas hinzu: 35 Punkte pro Stück",
             "0-1: Ein Mega Wummenpanza: 115 Punkte",
             "0–1: Füge einen Oddboy-Charakter zu einer Mega Wummenpanza- oder Kampfpanza-Einheit hinzu: 50 Punkte"
@@ -109,9 +109,9 @@
         },
         {
           "name": "Kult des Heizakults",
-          "units": "Beliebige acht der folgenden Einheiten: Skorchas, Waaghbikes, Warbuggies",
-          "extraEinheits": [
-            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
+          "units": "Beliebige acht der folgenden Einheiten: Brennabuggies, Waaghbikes, Warbuggies",
+          "extraUnits": [
+            "Füge beliebig viele Brennabuggies, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Deffkoptas, Flakpanzas, Kampfpanzas hinzu: 35 Punkte pro Stück",
             "0–1: Füge einen Oddboy-Charakter zu einer Kampfpanza-Einheit hinzu: 50 Punkte"
           ],
@@ -133,23 +133,23 @@
         {
           "name": "Kommando-Mob",
           "units": "Sechs Kommandos",
-          "extraEinheits": [
-            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück"
+          "extraUnits": [
+            "Füge beliebig viele Brennabuggies, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
         },
         {
           "name": "Stormboyz-Mob",
           "units": "Sechs Stormboys",
-          "extraEinheits": [
-            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück"
+          "extraUnits": [
+            "Füge beliebig viele Brennabuggies, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
         },
         {
           "name": "Mekwummen-Mob",
           "units": "Fünf Kanonänbatterie",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge beliebig viele Transportpanzas und Kanonänbatterien hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Flakpanzas hinzu: 35 Punkte pro Stück",
             "0-1 Bosse: 35 Punkte",
@@ -173,7 +173,7 @@
         {
           "name": "Mek-Stampfa-Mob",
           "units": "Drei Stampfas",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge beliebig viele Killa Bots hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Cybots, Flakpanzas hinzu: 35 Punkte pro Stück",
             "Füge beliebig viele Stampfas hinzu: 50 Punkte pro Stück",
@@ -197,7 +197,7 @@
         {
           "name": "Mek-Dread-Mob",
           "units": "Ein Cybot, drei Killa Bot",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge beliebig viele Killa Bots hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Cybots, Flakpanzas hinzu: 35 Punkte pro Stück"
           ],
@@ -219,7 +219,7 @@
         {
           "name": "0–1 Kill-Kreuzer",
           "units": "Ein Kill-Kreuzer",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Kill-Kreuzer durch einen Schlachtkreuzer für +50 Punkte"
           ],
           "points": 100
@@ -240,7 +240,7 @@
         },
         {
           "name": "Landungsschiff",
-          "units": "Ein Landa",
+          "units": "Ein Landungsschiff",
           "upgrades": [
           ],
           "points": 225

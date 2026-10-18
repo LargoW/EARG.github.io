@@ -74,7 +74,7 @@
         {
           "name": "1 Brutkult",
           "units": "Ein Symbiontenpatriarch und acht Metamorph-Hybriden",
-          "extraEinheits": [
+          "extraUnits": [
             "Kulttransporter",
             "Symbionten",
             "Bewaffnete Geländewagen"
@@ -84,7 +84,7 @@
         {
           "name": "Akolythenkult",
           "units": "Ein Metamorph-Hybrid mit einem Hybrid-Ikonwart und sieben Akolythenhybriden",
-          "extraEinheits": [
+          "extraUnits": [
             "Minenstollen-Infiltratoren",
             "Aberranten",
             "Akolythenhybriden",
@@ -104,7 +104,7 @@
         {
           "name": "Atalan-Schakale",
           "units": "Ein Hybrid-Ikonwart, zehn Neophyten-Ausreiter",
-          "extraEinheits": [
+          "extraUnits": [
             "Konklaven-Anführer",
             "Ausreiter-Quadbikes",
             "Bewaffnete Geländewagen"
@@ -114,7 +114,7 @@
         {
           "name": "Symbiontenschwarm",
           "units": "Ein Symbiontenpatriarch, sechs Symbionten",
-          "extraEinheits": [
+          "extraUnits": [
             "Symbionten"
           ],
           "points": 175
@@ -122,7 +122,7 @@
         {
           "name": "Sturmangriffs-Konklave",
           "units": "Ein Hybrid-Ikonwart, vier Aberranten und entweder vier Goliath-Trucks oder vier Goliath-Schürfer",
-          "extraEinheits": [
+          "extraUnits": [
             "Konklaven-Anführer",
             "Bewaffnete Geländewagen"
           ],
@@ -142,7 +142,7 @@
         {
           "name": "Mechanisierter Neophytenzug",
           "units": "Ein Hybrid-Ikonwart, sechs Neophyten und drei Chimären",
-          "extraEinheits": [
+          "extraUnits": [
             "Konklaven-Anführer",
             "Flak",
             "Höllenhunde"
@@ -152,7 +152,7 @@
         {
           "name": "Neophytenkompanie",
           "units": "Ein Hybrid-Ikonwart, dreizehn Neophyten",
-          "extraEinheits": [
+          "extraUnits": [
             "Konklaven-Anführer",
             "Unterstützungswaffen"
           ],
@@ -161,34 +161,34 @@
         {
           "name": "Sentinel-Staffel",
           "units": "Vier Sentinels",
-          "extraEinheits": [],
+          "extraUnits": [],
           "points": 100
         },
         {
           "name": "Flakbatterie",
           "units": "Drei Hydras",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Artilleriebatterie",
           "units": "Drei Basilisken",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Leman-Russ-Staffel",
           "units": "Vier Leman-Russ-Kampfpanzer",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Donnerkeil-Jäger",
           "units": "Zwei Donnerkeil-Jäger",
-          "extraEinheits": [],
+          "extraUnits": [],
           "points": 175
         }
       ]

@@ -79,7 +79,7 @@
         {
           "name": "0–1 Nexus Swarm",
           "units": "Ein Dagon Dominatrix",
-          "extraEinheits": [
+          "extraUnits": [
             "Ein bis vier Instinktive Schwärme"
           ],
           "points": 400
@@ -87,7 +87,7 @@
         {
           "name": "Tyrannenschwarm",
           "units": "Ein Schwarmtyrant",
-          "extraEinheits": [
+          "extraUnits": [
             "Zwei bis vier Instinktive Schwärme",
             "Ersetze den Schwarmtyrant durch einen Schwarmtyrant Shrike: kostenlos",
             "Ein Schwarmtyrant pro Armee darf durch den Dagon-Oberherrscher ersetzt werden: 75 Punkte",
@@ -99,7 +99,7 @@
         {
           "name": "Sturmschwarm",
           "units": "Zwei Tyranidenkrieger",
-          "extraEinheits": [
+          "extraUnits": [
             "Ein bis zwei Instinktive Schwärme",
             "Mindestens 1 aus Ganten, Gargoyles oder Bio-Unterstützung muss gewählt werden",
             "Ersetze zwei Tyranidenkrieger kostenlos durch Tyranidenkrieger-Shrikes",
@@ -117,7 +117,7 @@
         {
           "name": "Brutnestschwarm",
           "units": "Ein Hive Nest",
-          "extraEinheits": [
+          "extraUnits": [
             "Ein bis zwei Instinktive Schwärme, ausgewählt aus Ganten, Gargoyles, Bio-Unterstützung, oder Bio-Artillerie"
           ],
           "points": 150
@@ -125,7 +125,7 @@
         {
           "name": "Brecherschwarm",
           "units": "Ein Hierodule Prime (Barbed oder Scythed)",
-          "extraEinheits": [
+          "extraUnits": [
             "Ein bis zwei Instinktive Schwärme, ausgewählt aus Ganten, Gargoyles, Gräber, Carnifex oder Bio-Angriff"
           ],
           "points": 125
@@ -133,7 +133,7 @@
         {
           "name": "Befall Swarm",
           "units": "Drei Ravener Alphas oder ein Trygon Prime",
-          "extraEinheits": [
+          "extraUnits": [
             "Ein bis zwei Gräber-Instinktive Schwärme"
           ],
           "points": 150
@@ -141,7 +141,7 @@
         {
           "name": "Störschwarm",
           "units": "Ein Harridan",
-          "extraEinheits": [
+          "extraUnits": [
             "Null bis zwei Instinktive Schwärme, ausgewählt aus Gargoyles oder Bio-Flieger",
             "Füge 1 Harridan hinzu: 100 Punkte"
           ],
@@ -156,7 +156,7 @@
         {
           "name": "Symbiontenschwarm",
           "units": "Ein Symbiontenlord, sechs Symbionten",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu drei Symbionten hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -164,7 +164,7 @@
         {
           "name": "Liktor-Schwarm",
           "units": "Vier Liktoren",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         }
@@ -177,7 +177,7 @@
         {
           "name": "Biotitan",
           "units": "Ein Hierophant Biotitan",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Hierophant durch einen Hydraphant Biotitan: 100 Punkte"
           ],
           "points": 325
@@ -185,7 +185,7 @@
         {
           "name": "Bio-Vessel",
           "units": "Ein Razorfiend",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze die Razorfiend durch ein Schwarm-Schiff: kostenlos"
           ],
           "points": 150

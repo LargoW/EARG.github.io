@@ -69,7 +69,7 @@
         {
           "name": "Valhallanisches Regimentshauptquartier",
           "units": "Ein valhallanischer Oberbefehlshaber, ein Ministorum-Priester und neun valhallanische Infanteristen",
-          "extraEinheits": [
+          "extraUnits": [
             "Valhallanische Greifen",
             "Ogryns",
             "Scharfschützen",
@@ -82,7 +82,7 @@
         {
           "name": "Valhallanische Infanteriekompanie",
           "units": "Ein valhallanischer Befehlshaber, ein Ministorum-Priester und neun valhallanische Infanteristen",
-          "extraEinheits": [
+          "extraUnits": [
             "Valhallanische Greifen",
             "Ogryns",
             "Scharfschützen",
@@ -96,7 +96,7 @@
         {
           "name": "Artilleriekompanie",
           "units": "Ein Ministorum-Priester und sechs Basilisken",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 6 Basilisken durch 6 Mantikors: 50 Punkte",
             "Flak"
           ],
@@ -111,7 +111,7 @@
         {
           "name": "Schwerer Panzerzug",
           "units": "Sechs Ragnarok-Schwere Kampfpanzer",
-          "extraEinheits": [
+          "extraUnits": [
             "Valhallanische Greifen",
             "Flak"
           ],
@@ -120,7 +120,7 @@
         {
           "name": "Macharius-Kompanie",
           "units": "Ein Macharius Command mit einem Ministorum Priest, zwei Macharius",
-          "extraEinheits": [
+          "extraUnits": [
             "Flak"
           ],
           "points": 375
@@ -128,14 +128,14 @@
         {
           "name": "Superschwerer Panzerzug",
           "units": "Ein Baneblade, Stormlord oder Shadowsword",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Todesstoß-Batterie",
           "units": "Zwei Todesstoß-Raketensilos",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
@@ -143,13 +143,13 @@
           "name": "Höllenhund-Staffel",
           "units": "Vier Höllenhunde",
           "points": 200,
-          "extraEinheits": [
+          "extraUnits": [
           ]
         },
         {
           "name": "Gepanzerte Sentinel-Staffel",
           "units": "Vier gepanzerte Sentinels",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 125
         }
@@ -162,7 +162,7 @@
         {
           "name": "Ministorum-Mission",
           "units": "Sechs Sororitas-Kampfschwestern und drei Sororitas-Rhinos",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
@@ -180,7 +180,7 @@
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Kreuzer der Lunar-Klasse",
           "points": 125,
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Kreuzer durch ein Schlachtschiff der Emperor-Klasse: 50 Punkte"
           ]
         }

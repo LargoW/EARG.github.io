@@ -63,7 +63,7 @@
         {
           "name": "Angriff der Ravenwing",
           "units": "Eine Einheit Ravenwing-Schwarze-Ritter, vier Ravenwing-Sturmbikes, drei Ravenwing-Land Speeder",
-          "extraEinheits": [
+          "extraUnits": [
             "Trikes",
             "Befehlshaber"
           ],
@@ -72,7 +72,7 @@
         {
           "name": "Taktische Trupps",
           "units": "Sechs Taktische Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Razorbacks",
             "Flugabwehr",
             "Befehlshaber",
@@ -83,7 +83,7 @@
         {
           "name": "Deathwing-Angriff",
           "units": "Beliebige vier der folgenden Einheiten: Terminatoren, Cyclone Terminatoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Deathwing-Ritter",
             "Befehlshaber"
           ],
@@ -98,7 +98,7 @@
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Land Raider hinzu: 50 Punkte",
             "Flugabwehr"
           ],
@@ -107,7 +107,7 @@
         {
           "name": "Ares-Belagerung",
           "units": "Drei Land Raider Ares, zwei Vindicators",
-          "extraEinheits": [
+          "extraUnits": [
             "Vindicators"
           ],
           "points": 375
@@ -115,7 +115,7 @@
       {
         "name": "Devastor-Trupps",
         "units": "Vier Dark Angels Devastor-Trupps plus Transporter",
-        "extraEinheits": [
+        "extraUnits": [
           "Razorbacks",
           "Flugabwehr",
           "Befehlshaber",
@@ -126,7 +126,7 @@
       {
         "name": "Deathwing Rüstungswert (ARM)",
         "units": "Drei Land Raiders, drei Terminatoren",
-        "extraEinheits": [
+        "extraUnits": [
           "Befehlshaber"
         ],
         "points": 450
@@ -134,7 +134,7 @@
     {
       "name": "Predators",
       "units": "Vier Predator Destructors und/oder Predator Annihilators",
-      "extraEinheits": [
+      "extraUnits": [
         "Flugabwehr"
       ],
       "points": 250
@@ -142,7 +142,7 @@
         {
           "name": "Sturmtrupps",
           "units": "Vier Sturmtrupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Vindicators"
           ],
@@ -151,7 +151,7 @@
         {
           "name": "Ravenwing-Unterstützung",
           "units": "Vier Ravenwing Land Speeder Tornado",
-          "extraEinheits": [
+          "extraUnits": [
             "Venegance"
           ],
           "points": 175
@@ -159,7 +159,7 @@
         {
           "name": "Aufklärer",
           "units": "Vier Aufklärer, zwei Rhinos",
-          "extraEinheits": [
+          "extraUnits": [
             "Razorbacks",
             "Scharfschützen"
           ],
@@ -168,7 +168,7 @@
         {
           "name": "Whirlwinds",
           "units": "Vier Whirlwinds",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr"
           ],
           "points": 275
@@ -176,7 +176,7 @@
         {
           "name": "0–1 Dreadwing Relics",
           "units": "Ein Glaive",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Glaive hinzu: 300 Punkte"
           ],
           "points": 300
@@ -200,7 +200,7 @@
         {
           "name": "1 Schwertschwingen-Unterstützung",
           "units": "Hunter-Klasse-Zerstörer",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffskreuzer"
           ],
           "points": 100

@@ -62,7 +62,7 @@
         {
           "name": "Paladin-Haus",
           "units": "Fünf Ritter-Paladins",
-          "extraEinheits": [
+          "extraUnits": [
             "Seneschall",
             "Ritter-Paladins",
             "Ritter-Baron"
@@ -78,7 +78,7 @@
         {
           "name": "Castellan-Haus",
           "units": "Zwei Ritter-Castellans (beliebige Kombination von Konfigurationen)",
-          "extraEinheits": [
+          "extraUnits": [
             "Seneschall",
             "Ritter-Castellans"
           ],
@@ -87,7 +87,7 @@
         {
           "name": "Errant-Haus",
           "units": "Drei Ritter-Errants",
-          "extraEinheits": [
+          "extraUnits": [
             "Seneschall",
             "Ritter-Errants"
           ],
@@ -96,7 +96,7 @@
         {
           "name": "Lancer-Haus",
           "units": "Drei Ritter-Lancer",
-          "extraEinheits": [
+          "extraUnits": [
             "Seneschall",
             "Ritter-Lancer"
           ],
@@ -105,7 +105,7 @@
         {
           "name": "Warden-Haus",
           "units": "Vier Ritter-Wardens (beliebige Kombination von Konfigurationen)",
-          "extraEinheits": [
+          "extraUnits": [
             "Seneschall",
             "Ritter-Wardens"
           ],
@@ -120,7 +120,7 @@
         {
           "name": "Planetarer Verteidigungszug",
           "units": "Acht Infanteristen der Planetaren Verteidigungsstreitkräfte (INF)",
-          "extraEinheits": [
+          "extraUnits": [
             "Kultisten-Landtransporter",
             "Unterstützungswaffen",
             "Schanzanlagen"
@@ -130,21 +130,21 @@
         {
           "name": "Kavalleriezug",
           "units": "Sechs Kavallerie",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Flakstellung",
           "units": "Drei schwere Flugabwehrgeschütze, drei Geschützstellungen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Haubitzenstellung",
           "units": "Vier Haubitzen, vier Geschützstellungen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 275
         }

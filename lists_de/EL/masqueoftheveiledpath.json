@@ -100,7 +100,7 @@
         {
           "name": "1 Netzportal",
           "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Netzportal. Dieses zählt als Zielmarker und Netzportal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden.",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge ein zusätzliches Netzportal hinzu: 75 Punkte"
           ],
           "points": 0
@@ -114,7 +114,7 @@
         {
           "name": "Kriegsschar von Lugganath",
           "units": "Ein Eldar-Runenprophet, vier Gardisten, fünf Schattenvipers",
-          "extraEinheits": [
+          "extraUnits": [
             "Eldar-Autarch",
             "Eldar-Jetbikes"
           ],
@@ -123,7 +123,7 @@
         {
           "name": "Phantomkriegsschar von Lugganath",
           "units": "Ein Geisterseher, vier Phantom-Schnitter, vier Wellenschlangen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 375
         }
@@ -136,7 +136,7 @@
         {
           "name": "Korsaren-Aufklärer",
           "units": "Vier Korsaren-Geisterläufer",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze vier Korsaren-Geisterläufer durch vier Korsaren-Wespen: kostenlos"
           ],
           "points": 150
@@ -144,7 +144,7 @@
         {
           "name": "Berittener Aspektkriegertrupp",
           "units": "Drei Wellenschlangen und sechs Aspektkrieger-Einheiten aus folgender Auswahl: Schwarze Khaindar, Asuryans Jäger, Feuerdrachen, Banshees, Skorpionkrieger",
-          "extraEinheits": [
+          "extraUnits": [
             "Eldar-Autarch",
             "Eldar-Exarch"
           ],
@@ -153,14 +153,14 @@
         {
           "name": "Illum-Zar-Trupp",
           "units": "Drei Illum Zars",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Schwerter von Vaul",
           "units": "Fünf Falcons",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze bis zu zwei Falcons durch Feuerstürme: kostenlos",
             "ODER",
             "Füge fünf Gardisten zum Verband hinzu: 50 Punkte"
@@ -170,7 +170,7 @@
         {
           "name": "Kriegsmaschinen von Vaul",
           "units": "Eine beliebige Einheit aus folgender Auswahl: Kobra, Sturmserpent oder Skorpion",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Einheiten aus folgender Auswahl hinzu: Kobra, Sturmserpent oder Skorpion: 200 Punkte pro Stück"
           ],
           "points": 250
@@ -184,42 +184,42 @@
         {
           "name": "Cegorachs Entkommen",
           "units": "Ein Harlekin-Avatar, zwei Harlekin-Trupps, ein Todesnarr, drei Starweaver",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Schuppenkleid der Schlange",
           "units": "Ein Harlekin-Avatar, drei Skyweaver-Jetbikes, zwei Voidweaver",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Jagd des Verschlingers",
           "units": "Ein Meistermime, sechs Mimen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Cegorachs Rache",
           "units": "Ein Harlekin-Avatar, zwei Harlekin-Trupps, zwei Todesnarren, vier Starweaver, drei Skyweaver-Jetbikes",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "0–1 Festmahl des Verschlingers",
           "units": "Ein Meistermime, ein Solitär, acht Mimen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 350
         },
         {
           "name": "0–1 Ynneads Traum",
           "units": "Ein Harlekin-Avatar, ein Schattenseher, drei Harlekin-Trupps, drei Todesnarren, sechs Starweaver",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 450
         }
@@ -232,35 +232,35 @@
           {
             "name": "Skathach-Phantomritter",
             "units": "Zwei Skathach-Phantomritter (dürfen nicht mit unterschiedlichen Ausrüstungen gewählt werden)",
-            "extraEinheits": [
+            "extraUnits": [
             ],
             "points": 350
           },
         {
           "name": "Purpurgeschwader",
           "units": "Zwei Nachtschatten-Abfangjäger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Hemlock-Geschwader",
           "units": "Zwei Hemlock-Phantomjäger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Korsaren-Vampire-Jäger",
           "units": "Ein Korsaren-Vampire-Jäger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "0–1 Raumschiff",
           "units": "Ein Phantomschiff",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze durch ein Drachenschiff: 125 Punkte"
           ],
           "points": 175

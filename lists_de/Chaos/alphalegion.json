@@ -101,7 +101,7 @@
         {
           "name": "Alpha-Legion-Marines",
           "units": "Ein Alpha-Legion-Lord oder Alpha-Legion-Hexer, vier Alpha-Legion-Marines plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 4 Alpha-Legion-Marines durch 4 Alpha-Legion-Havocs: 50 Punkte",
             "Füge bis zu 2 Alpha-Legion-Land-Schattenbarken hinzu: 50 Punkte pro Stück",
             "Oberbefehlshaber",
@@ -114,7 +114,7 @@
         {
           "name": "Kultistenkonklave",
           "units": "Ein Aspirantenchampion, neun Kultisten und/oder Mutanten",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Dämonische Ikone zum Aspirantenchampion hinzu: 25 Punkte",
             "Füge genügend Kultisten-Landtransporter hinzu, um den Verband zu transportieren: 10 Punkte pro Stück",
             "Ersetze beliebig viele Kultisten-Landtransporter durch Chimären: 15 Punkte pro Stück",
@@ -134,7 +134,7 @@
         {
           "name": "Destruktoren",
           "units": "Ein Alpha-Legion-Lord oder Alpha-Legion-Hexer, vier Alpha-Legion-Destruktoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Predators"
           ],
@@ -143,7 +143,7 @@
         {
           "name": "Kopfjäger",
           "units": "Ein Alpha-Legion-Lord oder Alpha-Legion-Hexer, vier Alpha-Legion-Kopfjäger plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Vindicators"
           ],
@@ -152,7 +152,7 @@
         {
           "name": "Terminatoren",
           "units": "Ein Alpha-Legion-Lord oder Alpha-Legion-Hexer, vier Lernaean-Terminatoren plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Cybots"
           ],
@@ -161,7 +161,7 @@
         {
           "name": "Sicarians",
           "units": "Vier Sicarian-Kampfpanzer der Alpha Legion",
-          "extraEinheits": [
+          "extraUnits": [
             "Predators"
           ],
           "points": 275
@@ -175,7 +175,7 @@
         {
           "name": "Kavalleriezug",
           "units": "Sechs Kavallerie",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Dämonische Ikone hinzu: 75 Punkte"
           ],
           "points": 150
@@ -183,21 +183,21 @@
         {
           "name": "Salamander-Staffel",
           "units": "Vier Salamander-Aufklärungspanzer",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Flakbatterie",
           "units": "Drei Hydras",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Greif-Batterie",
           "units": "Drei Greifs",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         }
@@ -210,28 +210,28 @@
         {
           "name": "Sturmadler",
           "units": "Ein Sturmadler der Alpha Legion",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Feuerraptor",
           "units": "Ein Chaos-Feuerraptor",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Xiphon-Staffel",
           "units": "Zwei Chaos-Xiphon-Abfangjäger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "0–1 Angriffskreuzer",
           "units": "Ein Chaos-Angriffskreuzer",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         }

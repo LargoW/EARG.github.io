@@ -77,7 +77,7 @@
         {
           "name": "0–1 Regimentshauptquartier des Death Korps",
           "units": "Ein DKoK-Oberbefehlshaber mit einem Kommissar, neun Sturminfanterie (INF), ein Gorgon",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge zehn Sturminfanterie (INF) und einen Gorgon hinzu: 250 Punkte",
             "Leman Russ Kampfpanzer",
             "Seuchenwölfe"
@@ -87,7 +87,7 @@
         {
           "name": "Sturmkompanie",
           "units": "Ein DKoK-Befehlshaber mit einem Kommissar, neun Sturm-Infanteristen und einem Gorgon",
-          "extraEinheits": [
+          "extraUnits": [
             "Leman Russ Kampfpanzer",
             "Seuchenwölfe"
           ],
@@ -96,7 +96,7 @@
         {
           "name": "Todesreiter-Kompanie",
           "units": "Ein Kommissar, zwölf Death Riders",
-          "extraEinheits": [
+          "extraUnits": [
             "Seuchenwölfe"
           ],
           "points": 275
@@ -110,7 +110,7 @@
         {
           "name": "Leman-Russ-Staffel",
           "units": "Vier Leman Russ, Leman Russ Thunderers, oder Leman Russ Annihilators",
-          "extraEinheits": [
+          "extraUnits": [
             "Seuchenwölfe"
           ],
           "points": 275
@@ -118,7 +118,7 @@
         {
           "name": "Belagerungsinfanterie-Kompanie",
           "units": "DKoK Befehlshaber mit Kommissar, 9 Siege Infanterie (INF), 40cm Trenches, 40cm Razor Wire",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 4 Rapiers und 16cm Trenches, oder 3 Thudd-Geschütze und 12cm Trenches hinzu: 75 Punkte",
             "Füge bis zu 2 Scharfschützen hinzu: 25 Punkte pro Stück"
           ],
@@ -127,7 +127,7 @@
         {
           "name": "Artilleriestellung",
           "units": "Vier Medusa-Kanonen und vier Geschützstellungen",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 4 Geschützstellungen durch 4 Trojaner: kostenlos",
             "Ersetze 4 Medusa-Kanonen durch 4 Erschütterungskanonen: 50 Punkte"
           ],
@@ -144,28 +144,28 @@
         {
           "name": "Bombardenbatterie",
           "units": "Drei Bombarden",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Greif-Batterie",
           "units": "Drei Greifs",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Todesstoß-Batterie",
           "units": "Zwei Todesstoß-Raketensilos",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Superschwerer Panzerzug",
           "units": "Ein Baneblade oder Stormsword",
-          "extraEinheits": [
+          "extraUnits": [
               "Ersetze 1 Baneblade durch ein Shadowsword: 25 Punkte"
           ],
           "points": 175
@@ -180,7 +180,7 @@
         {
           "name": "Grenadierkompanie",
           "units": "Ein DKoK-Befehlshaber mit einem Kommissar, sieben Grenadieren und vier Sturm-Chimären",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 4 Storm Chimären durch ein Gorgon: kostenlos",
             "Seuchenwolf"
           ],
@@ -189,7 +189,7 @@
         {
           "name": "Gepanzerte Sentinel-Staffel",
           "units": "Vier gepanzerte Sentinels",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 125
         }
@@ -203,7 +203,7 @@
           "name": "Warhound-Titanen",
           "units": "Ein Warhound-Titan",
           "points": 275,
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 zusätzlichen Warhound-Titan hinzu: 200 Punkte"
           ]
         },

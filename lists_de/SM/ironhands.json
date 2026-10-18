@@ -73,7 +73,7 @@
         {
           "name": "Cybot Clan",
           "units": "Ein Iron Hands Captain oder Techmarine, 4 Taktische Trupps plus Transporter und 2 beliebige der folgenden Einheiten: Cybot, Hellfire Cybot, Siege Cybot",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Oberbefehlshaber",
             "Venerable Cybot",
@@ -87,7 +87,7 @@
         {
           "name": "Mechanized Clan",
           "units": "Ein Iron Hands Captain oder Techmarine, 4 Taktische Trupps plus Transporter und 2 beliebige der folgenden Einheiten: Predator Annihilator, Predator Destructor oder Vindicator",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Oberbefehlshaber",
             "Devastor-Trupps",
@@ -105,7 +105,7 @@
         {
           "name": "Cybot Talon",
           "units": "Beliebige vier der folgenden Einheiten: Cybot, Hellfire Cybot, Siege Cybot. Plus Transporter.",
-          "extraEinheits": [
+          "extraUnits": [
             "Venerable Cybot",
             "Ironclad Cybots",
             "Cybots"
@@ -115,7 +115,7 @@
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Land Raider hinzu: 50 Punkte",
             "Helios",
             "Flugabwehr",
@@ -126,7 +126,7 @@
         {
           "name": "Predators",
           "units": "Vier Predator Destructors und/oder Predator Annihilators",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr"
           ],
           "points": 250
@@ -134,21 +134,21 @@
         {
           "name": "Aufklärer",
           "units": "Drei Aufklärer, drei Razorbacks",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Belagerungsscouts",
           "units": "Vier Aufklärer, zwei Siege Rhinos und zwei Vindicators",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Vindicators",
           "units": "Vier Vindicators",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Vindicators"
           ],
@@ -157,7 +157,7 @@
         {
           "name": "Whirlwinds",
           "units": "Drei Whirlwinds",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Whirlwind zum Verband hinzu: 50 Punkte",
             "Flugabwehr"
           ],
@@ -182,7 +182,7 @@
         {
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Angriffskreuzer",
-          "extraEinheits": [
+          "extraUnits": [
             "Schlachtbarke"
           ],
           "points": 200
@@ -190,7 +190,7 @@
         {
           "name": "Warhound-Rudel",
           "units": "Zwei Warhound-Titanen – Standard- oder Unterstützungskonfiguration",
-          "extraEinheits": [
+          "extraUnits": [
             "Werte beide Warhound-Titanen auf die Panzerjäger-Konfiguration auf: 50 Punkte"
           ],
           "points": 475

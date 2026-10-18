@@ -96,7 +96,7 @@
         {
           "name": "Berittene Aspektkrieger-Kriegsschar",
           "units": "Vier Wellenschlangen und acht Aspektkrieger-Einheiten aus folgender Auswahl: Schwarze Khaindar, Asuryans Jäger, Feuerdrachen, Banshees, Skorpionkrieger oder Kriegsfalken. Der Verband darf keine unterschiedlichen Aspekte mischen.",
-          "extraEinheits": [
+          "extraUnits": [
             "Autarch",
             "Exarchen",
             "Ersetze beliebig viele Wellenschlangen durch jeweils zwei Falcons: 50 Punkte pro Stück",
@@ -107,7 +107,7 @@
         {
           "name": "Aspektkrieger-Kriegsschar",
           "units": "Acht Aspektkrieger-Einheiten aus folgender Auswahl: Schwarze Khaindar, Asuryans Jäger, Feuerdrachen, Banshees, Sternenlanzen, Skorpionkrieger, Kriegsfalken oder Warpspinnen. Der Verband darf keine unterschiedlichen Aspekte mischen.",
-          "extraEinheits": [
+          "extraUnits": [
             "Autarch",
             "Exarchen"
           ],
@@ -116,7 +116,7 @@
         {
           "name": "Gardisten-Kriegsschar",
           "units": "Eine Runenpropheten-Einheit und sieben Gardisten",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze bis zu drei Eldar-Gardisten durch Eldar-Schwerwaffenplattformen: kostenlos",
             "Ersetze bis zu drei Eldar-Gardisten durch Unterstützungswaffenplattformen (alle mit derselben Waffe ausgerüstet): 25 Punkte pro Stück",
             "Füge zwei Eldar-Phantomdroiden hinzu: 75 Punkte",
@@ -134,14 +134,14 @@
           {
             "name": "Ranger",
             "units": "Vier Eldar-Ranger",
-            "extraEinheits": [
+            "extraUnits": [
             ],
             "points": 100
           },
           {
             "name": "Kampfläufer-Trupp",
             "units": "Vier Kampfläufer",
-            "extraEinheits": [
+            "extraUnits": [
                 "Füge bis zu zwei Kampfläufer hinzu: 25 Punkte pro Stück"
             ],
             "points": 150
@@ -149,7 +149,7 @@
         {
           "name": "Windreiter-Truppe ",
           "units": "Sechs Jetbike-Einheiten",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze beliebig viele Eldar-Jetbikes durch Viper der Eldar: kostenlos"
           ],
           "points": 200
@@ -157,7 +157,7 @@
         {
           "name": "Schwerter von Vaul",
           "units": "Fünf Falcons",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze bis zu zwei Falcons durch Feuerstürme: kostenlos"
           ],
           "points": 250
@@ -165,28 +165,28 @@
         {
           "name": "Illum-Zar-Trupp",
           "units": "Drei Illum Zars",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Nachtspinnen-Trupp",
           "units": "Drei Nachtspinnen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Leerenwirbler",
           "units": "Ein Void Spinner",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Kriegsmaschinen von Vaul",
           "units": "Ein Kriegsmaschine von Vaul aus folgender Auswahl: Kobra, Skorpion, Sturmserpent",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei zusätzliche Kriegsmaschinen von Vaul hinzu: 200 Punkte pro Stück (Kobra, Skorpion oder Sturmserpent)."
           ],
           "points": 250
@@ -200,7 +200,7 @@
         {
           "name": "Nachtschwingen-Staffel",
           "units": "Zwei Nachtschwingen-Abfangjäger",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Nachtschwinge-Abfangjäger hinzu: 75 Punkte"
           ],
           "points": 225
@@ -208,42 +208,42 @@
         {
           "name": "Phönix-Bomberstaffel",
           "units": "Drei Phönix-Bomber (B)",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "Vampire",
           "units": "Eine Vampire Schattenbarke",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Phantom-Titanen",
           "units": "Zwei Phantom-Titanen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 650
         },
         {
           "name": "Phantom",
           "units": "Ein Phantomtitan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 700
         },
         {
           "name": "0–1 Runenleser-Titan",
           "units": "Ein Runenleser-Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 850
         },
         {
           "name": "0–1 Raumschiff",
           "units": "Ein Phantomschiff",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze es durch ein Drachenschiff: 150 Punkte"
           ],
           "points": 150

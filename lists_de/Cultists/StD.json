@@ -112,7 +112,7 @@
         {
           "name": "Verrätergardisten",
           "units": "Ein Fallen Befehlshaber, neun Einheiten von Infanterie (INF)",
-          "extraEinheits": [
+          "extraUnits": [
             "Alle"
           ],
           "points": 200
@@ -126,27 +126,27 @@
         {
           "name": "Flakbatterie",
           "units": "Drei Hydras",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Artilleriebatterie",
           "units": "Drei Basilisken",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Sentinel-Staffel",
           "units": "Vier Sentinels",
-          "extraEinheits": [],
+          "extraUnits": [],
           "points": 100
         },
         {
           "name": "Kavalleriezug",
           "units": "Sechs Kavallerie",
-          "extraEinheits": [
+          "extraUnits": [
             "Dämonische Ikone"
           ],
           "points": 150
@@ -154,7 +154,7 @@
         {
           "name": "Superschwerer Panzerzug",
           "units": "Ein Baneblade",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Baneblade durch ein Shadowsword: 25 Punkte"
           ],
           "points": 175
@@ -162,14 +162,14 @@
         {
           "name": "Leman-Russ-Staffel",
           "units": "Vier ausgewählt aus: Leman Russ, Leman Russ Demolisher, Leman Russ Thunderer",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Greif-Batterie",
           "units": "Drei Greifs",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         }
@@ -192,7 +192,7 @@
         {
           "name": "Chaos Space Marines des Ungeteilten Chaos",
           "units": "Sechs Chaos Space Marines, drei Chaos Rhinos",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge Dämonenpakt zum Verband hinzu: 25 Punkte"
           ],
           "points": 250

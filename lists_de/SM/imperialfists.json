@@ -82,7 +82,7 @@
         {
           "name": "Devastor-Trupps",
           "units": "Vier Devastor-Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Achilles",
             "Flugabwehr",
             "Befehlshaber",
@@ -97,7 +97,7 @@
         {
           "name": "Vindicators",
           "units": "Vier Vindicators",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Vindicators"
           ],
@@ -106,7 +106,7 @@
         {
           "name": "Taktische Trupps",
           "units": "Sechs Taktische Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Achilles",
             "Flugabwehr",
             "Befehlshaber",
@@ -126,7 +126,7 @@
           {
             "name": "Land Raiders",
             "units": "Drei Land Raiders",
-            "extraEinheits": [
+            "extraUnits": [
               "Füge 1 Land Raider hinzu: 50 Punkte",
               "Achilles",
               "Flugabwehr",
@@ -138,7 +138,7 @@
         {
           "name": "Predators",
           "units": "Vier Predator Destructors und/oder Predator Annihilators",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr"
           ],
           "points": 250
@@ -146,7 +146,7 @@
         {
           "name": "Land Speeders",
           "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
-          "extraEinheits": [
+          "extraUnits": [
             "Typhoons"
           ],
           "points": 200
@@ -154,7 +154,7 @@
         {
           "name": "Aufklärer",
           "units": "Vier Aufklärer plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Darf Siege Rhinos statt normaler Rhinos erhalten: 25 Punkte",
             "Razorbacks",
             "Scharfschützen",
@@ -165,7 +165,7 @@
         {
           "name": "Terminatoren",
           "units": "Vier Terminatoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Achilles",
             "Befehlshaber",
             "Land Raider Transport",
@@ -176,7 +176,7 @@
         {
           "name": "Centurions",
           "units": "Vier Sturm- und/oder Devastor-Centurions",
-          "extraEinheits": [
+          "extraUnits": [
             "Achilles",
             "Land Raider Transport",
             "Vindicators"
@@ -187,7 +187,7 @@
         {
           "name": "Whirlwinds",
           "units": "Vier Whirlwinds",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 2 Whirlwinds hinzu: 75 Punkte",
             "Flugabwehr"
           ],
@@ -196,7 +196,7 @@
         {
           "name": "0–1 Fellblade Relics",
           "units": "Ein Fellblade",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Fellblade hinzu: 300 Punkte"
           ],
           "points": 300
@@ -210,7 +210,7 @@
         {
           "name": "Bastion",
           "units": "Ein Bastion",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 300
         },

@@ -106,7 +106,7 @@
         {
           "name": "Gefolge der Black Legion",
           "units": "Ein Chaos-Lord oder Sorcerer Lord, acht Chaos Space Marines",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Transport",
             "Champion",
@@ -130,7 +130,7 @@
         {
           "name": "Auserkorene",
           "units": "Vier Auserkorene, zwei Chaos Rhinos",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze zwei Chaos Rhinos durch zwei Chaos-Cybots: 75 Punkte",
             "Dämonenpakt"
           ],
@@ -139,7 +139,7 @@
         {
           "name": "Chaos-Terminatoren",
           "units": "Ein Chaos-Lord oder Sorcerer Lord, vier Chaos Terminatoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
             "Transport",
@@ -160,7 +160,7 @@
         {
           "name": "Raptorenkult",
           "units": "Ein Chaos-Lord oder Sorcerer Lord, vier Raptoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu 4 Raptoren hinzu: 30 Punkte pro Stück",
             "Dämonenpakt"
           ],
@@ -169,7 +169,7 @@
         {
           "name": "Panzerkompanie",
           "units": "Vier Chaos Predators",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 4 Chaos Predators durch 4 Chaos Land Raiders: 75 Punkte",
             "Stalker",
             "Vindicators"
@@ -179,7 +179,7 @@
         {
           "name": "Havocs",
           "units": "Ein Chaos-Lord oder Hexer-Lord, vier Havocs und zwei Chaos-Rhinos",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 2 Chaos Rhinos durch Chaos Land Raiders: 75 Punkte",
             "Dämonenpakt",
             "Stalker",
@@ -190,7 +190,7 @@
         {
           "name": "Bike-Kompanie",
           "units": "Ein Chaos-Lord oder Hexer-Lord und acht Chaos-Angriffsbikes",
-          "extraEinheits": [
+          "extraUnits": [
             "Dämonenpakt",
             "Ikonenträger"
           ],
@@ -205,28 +205,28 @@
         {
           "name": "Geißel-Meute",
           "units": "Vier Geißels",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Dezimator",
           "units": "Ein Decimator",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Chaos-Warhound-Titan",
           "units": "Ein Chaos Warhound-Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Todesrad",
           "units": "Ein Todesrad",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 300
         },
@@ -253,7 +253,7 @@
         {
           "name": "0–1 Chaos Kreuzer",
           "units": "Ein Kreuzer der Devastation-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
             "Schlachtschiff"
           ],
           "points": 150

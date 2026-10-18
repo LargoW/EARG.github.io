@@ -62,7 +62,7 @@
         {
           "name": "XV8-Krisis-Kampfanzug-Kader",
           "units": "Ein Shas'el und sechs XV8-Krisis-Kampfanzüge",
-          "extraEinheits": [
+          "extraUnits": [
             "Shas'o",
             "Krisis-Kampfanzüge",
             "Drohnen"
@@ -72,7 +72,7 @@
         {
           "name": "Schweres Kampfanzug-Kader",
           "units": "Ein Shas'el und drei XV104-Sturmflut-Kampfanzüge, drei XV107-R'varna-Kampfanzüge oder drei XV109-Y'vahra-Kampfanzüge",
-          "extraEinheits": [
+          "extraUnits": [
             "Shas'o",
             "Schwere Kampfanzüge",
             "Drohnen"
@@ -82,7 +82,7 @@
         {
           "name": "XV88-Koloss-Kampfanzug-Gruppe",
           "units": "Sechs XV88-Koloss-Kampfanzüge",
-          "extraEinheits": [
+          "extraUnits": [
             "Drohnen"
           ],
           "points": 300
@@ -96,7 +96,7 @@
         {
           "name": "Feuerkrieger-Angriffsgruppe",
           "units": "Acht Feuerkrieger, oder sechs Feuerkrieger und drei Teufelsrochen",
-          "extraEinheits": [
+          "extraUnits": [
             "Koloss-Kampfanzüge",
             "Drohnen",
             "Dornenhai"
@@ -106,7 +106,7 @@
         {
           "name": "Drohnengruppe",
           "units": "Acht Angriffsdrohnen",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze zwei Angriffsdrohnen durch zwei Raketen-Drohnen oder zwei Schilddrohnen (kostenlos) oder durch zwei Markiererdrohnen (25 Punkte)"
           ],
           "points": 150
@@ -114,7 +114,7 @@
         {
           "name": "Tarnkampfanzug-Gruppe",
           "units": "Sechs XV15-Geist-Kampfanzüge",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze drei XV15-Geist-Kampfanzüge durch drei XV95-Schattengeist-Kampfanzüge: 75 Punkte",
             "Drohnen"
           ],
@@ -123,7 +123,7 @@
         {
           "name": "Luftabwehr-Unterstützungsgruppe",
           "units": "Drei Dornenhaie",
-          "extraEinheits": [
+          "extraUnits": [
             "Drohnen"
           ],
           "points": 250
@@ -152,7 +152,7 @@
         {
           "name": "Tigerhai-Staffel",
           "units": "Zwei Tigerhai-Bomber (B)",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge sechs Angriffsdrohnen oder sechs Raketen-Drohnen hinzu: 75 Punkte"
           ],
           "points": 175
@@ -160,7 +160,7 @@
         {
           "name": "0–1 Raumschiff",
           "units": "Kreuzer der Protector-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Protector durch ein Schlachtschiff der Custodian-Klasse: 25 Punkte"
           ],
           "points": 200

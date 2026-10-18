@@ -73,7 +73,7 @@
         {
           "name": "1 Regimentshauptquartier der Baran-Belagerungsmeister",
           "units": "Ein Baran-Belagerungsmeister mit einem Kommissar und neun Belagerungsinfanteristen",
-          "extraEinheits": [
+          "extraUnits": [
               "40 cm Stacheldraht und 4 cm Schützengräben pro Infanterieeinheit im Verband: 50 Punkte. Ersetze 24 cm Schützengräben durch 2 Bunker: 25 Punkte.",
               "5 Belagerungsinfanteristen, 2 Scharfschützen, 2 Pioniere oder 2 Ogryns: 50 Punkte",
               "4 Rapiers, 3 Mole-Mörser, 3 Thudd-Geschütze, 2 Medusa-Kanonen mit 2 Geschützstellungen oder 1 Todesstoß: 75 Punkte",
@@ -84,7 +84,7 @@
         {
           "name": "Belagerungsinfanterie-Kompanie",
           "units": "Ein Baran-Befehlshaber mit einem Kommissar und neun Belagerungsinfanteristen",
-          "extraEinheits": [
+          "extraUnits": [
               "40 cm Stacheldraht und 4 cm Schützengräben pro Infanterieeinheit im Verband: 50 Punkte. Ersetze 24 cm Schützengräben durch 2 Bunker: 25 Punkte.",
               "5 Belagerungsinfanteristen, 2 Scharfschützen, 2 Pioniere oder 2 Ogryns: 50 Punkte",
               "4 Rapiers, 3 Mole-Mörser, 3 Thudd-Geschütze, 2 Medusa-Kanonen mit 2 Geschützstellungen oder 1 Todesstoß: 75 Punkte",
@@ -101,7 +101,7 @@
           {
             "name": "Schwere Panzerkompanie",
             "units": "Ein Kommissar und sechs Ragnarok-Schwere Kampfpanzer",
-            "extraEinheits": [
+            "extraUnits": [
               "Füge 3 Ragnarok-Schwere Kampfpanzer hinzu: 125 Punkte"
             ],
             "points": 350
@@ -109,7 +109,7 @@
         {
           "name": "Macharius-Kompanie",
           "units": "Ein Macharius-Kommandopanzer mit einem Kommissar und zwei Macharius-Panzern",
-          "extraEinheits": [
+          "extraUnits": [
               "Füge bis zu 3 Höllenhunde, Seuchenwölfe, oder Teufelshunde hinzu: 25 Punkte pro Stück"
           ],
           "points": 350
@@ -122,7 +122,7 @@
         {
           "name": "Belagerungsartilleriestellung",
           "units": "Vier Medusa-Kanonen und vier Geschützstellungen",
-          "extraEinheits": [
+          "extraUnits": [
               "Ersetze 4 Medusa-Kanonen und 4 Geschützstellungen durch 3 Bombarden und 3 Geschützstellungen: 25 Punkte"
           ],
           "points": 200
@@ -130,7 +130,7 @@
         {
           "name": "Haubitzenstellung",
           "units": "Drei Haubitzen und drei Geschützstellungen",
-          "extraEinheits": [
+          "extraUnits": [
               "Füge 3 Haubitzen und 3 Geschützstellungen hinzu: 100 Punkte; oder einen Kommissar, 6 Haubitzen und 6 Geschützstellungen: 200 Punkte",
               "Füge 1 schweres Flugabwehrgeschütz und 1 Geschützstellung hinzu: 50 Punkte"
           ],
@@ -139,14 +139,14 @@
         {
           "name": "Flakstellung",
           "units": "Drei schwere Flugabwehrgeschütze und drei Geschützstellungen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Leichte Artilleriestellung",
           "units": "Vier Rapiers, vier Thudd-Geschütze oder vier Mole-Mörser mit 16 cm Schützengräben",
-          "extraEinheits": [
+          "extraUnits": [
               "Füge 4 Einheiten desselben Typs, 16 cm Schützengräben und einen Kommissar hinzu: 125 Punkte"
           ],
           "points": 150
@@ -154,7 +154,7 @@
         {
           "name": "Greif-Batterie",
           "units": "Drei Greifs",
-          "extraEinheits": [
+          "extraUnits": [
               "Füge bis zu 3 Höllenhunde, Seuchenwölfe, oder Teufelshunde hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -162,7 +162,7 @@
         {
           "name": "Todesreiter",
           "units": "Sechs Todesreiter",
-          "extraEinheits": [
+          "extraUnits": [
               "Füge 6 Todesreiter und einen Kommissar hinzu: 100 Punkte",
               "Füge bis zu 3 Höllenhunde, Seuchenwölfe, oder Teufelshunde hinzu: 25 Punkte pro Stück"
           ],
@@ -171,7 +171,7 @@
         {
           "name": "Belagerungsaufklärungsstaffel",
           "units": "Vier Siegfried-Leichtpanzer",
-          "extraEinheits": [
+          "extraUnits": [
               "Füge bis zu 3 Höllenhunde, Seuchenwölfe, oder Teufelshunde hinzu: 25 Punkte pro Stück"
           ],
           "points": 125
@@ -179,7 +179,7 @@
       {
         "name": "Verteidigungslaser",
         "units": "Ein Verteidigungslaser",
-        "extraEinheits": [
+        "extraUnits": [
         ],
         "points": 200
       }
@@ -203,7 +203,7 @@
         "name": "0–1 Orbitale Unterstützung",
         "units": "Ein Kreuzer der Lunar-Klasse",
         "points": 125,
-        "extraEinheits": [
+        "extraUnits": [
           "Ersetze durch ein Schlachtschiff der Emperor-Klasse: 50 Punkte"
         ]
       }

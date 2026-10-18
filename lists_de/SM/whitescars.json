@@ -67,7 +67,7 @@
         {
           "name": "Bike-Verband",
           "units": "Acht White-Scars-Sturmbikes",
-          "extraEinheits": [
+          "extraUnits": [
             "Trikes",
             "Befehlshaber"
           ],
@@ -76,7 +76,7 @@
         {
           "name": "Taktische Trupps",
           "units": "Sechs Taktische Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Befehlshaber",
             "Razorbacks",
@@ -87,7 +87,7 @@
         {
           "name": "Terminatoren",
           "units": "Vier Terminatoren, zwei Land Raider Crusaders",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze bis zu 2 Land Raider Crusaders durch 2 Land Raiders je: 50 Punkte pro Stück",
             "Flugabwehr",
             "Befehlshaber",
@@ -104,7 +104,7 @@
         {
           "name": "Sturmtrupps",
           "units": "Vier Sturmtrupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Vindicators"
           ],
@@ -113,7 +113,7 @@
         {
           "name": "Land Speeder",
           "units": "Beliebige fünf der folgenden Einheiten: White Scars Land Speeder, White Scars Land Speeder Tornado",
-          "extraEinheits": [
+          "extraUnits": [
             "Land Speeder Variants"
           ],
           "points": 225
@@ -121,7 +121,7 @@
         {
           "name": "White-Scars-Scoutbikes",
           "units": "Fünf White-Scars-Scoutbikes",
-          "extraEinheits": [
+          "extraUnits": [
             "Trikes"
           ],
           "points": 150
@@ -129,7 +129,7 @@
         {
           "name": "Vindicators",
           "units": "Vier White Scars Vindicators",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Vindicators"
           ],
@@ -138,7 +138,7 @@
         {
           "name": "Whirlwinds",
           "units": "Drei Whirlwinds",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Whirlwind hinzu: 50 Punkte",
             "Flugabwehr"
           ],
@@ -168,7 +168,7 @@
         {
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Angriffskreuzer",
-          "extraEinheits": [
+          "extraUnits": [
             "Schlachtbarke"
           ],
           "points": 200
@@ -176,7 +176,7 @@
         {
           "name": "Warhounds",
           "units": "Ein Warhound-Titan",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 zusätzlichen Warhound-Titan hinzu: 200 Punkte"
           ],
           "points": 275

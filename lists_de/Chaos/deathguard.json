@@ -103,7 +103,7 @@
         {
           "name": "Gefolge der Death Guard",
           "units": "Ein Chaos-Lord oder Sorcerer Lord, vier Seuchenmarines, drei Chaos Space Marines, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Gefolge Transport",
             "Champion",
@@ -118,7 +118,7 @@
         {
           "name": "Terminatoren der Death Guard",
           "units": "Ein Chaos-Lord oder Sorcerer Lord, vier Blightlord Terminatoren, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Terminator Transport",
             "Champion",
@@ -137,7 +137,7 @@
         {
           "name": "Havocs",
           "units": "Ein Chaos-Lord oder Sorcerer Lord, vier Havocs, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Havoc Transport",
             "Cybots",
             "Vindicators",
@@ -149,7 +149,7 @@
         {
           "name": "Panzerkompanie",
           "units": "Fünf Death Guard Vindicators",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 5 Death Guard Vindicators durch 4 Death Guard Land Raiders: 25 Punkte",
             "Füge 2 Death Guard Vindicators hinzu: 80 Punkte",
             "Stalker"
@@ -170,28 +170,28 @@
         {
           "name": "Seuchenschnitter",
           "units": "Ein Plague Reaper",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Nurgle-Geißel-Meute",
           "units": "Vier Desecrators",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Blight Drones",
           "units": "Sieben Blight Drones",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Contagion Engines",
           "units": "Vier Contagion Engines",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 325
         }
@@ -204,14 +204,14 @@
         {
           "name": "Seuchenhund",
           "units": "Ein Plaguehound Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Repugnant",
           "units": "Ein Repugnant Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 600
         },

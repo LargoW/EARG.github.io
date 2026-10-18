@@ -81,7 +81,7 @@
         {
           "name": "1 Kabal des Schwarzen Herzens",
           "units": "Ein Archon in einer Einheit Inkubi und drei Inkubi",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge zwei Inkubi hinzu: 75 Punkte",
             "Schattenjäger",
             "Tragbares Netzportal",
@@ -93,7 +93,7 @@
         {
           "name": "Syndikat des Schwarzen Herzens",
           "units": "Ein Dracon, sechs Drukhari Krieger",
-          "extraEinheits": [
+          "extraUnits": [
             "Schattenjäger",
             "Tragbares Netzportal",
             "Transporter des Schwarzen Herzens",
@@ -104,7 +104,7 @@
         {
           "name": "Flottille des Schwarzen Herzens",
           "units": "Vier Schattenjäger",
-          "extraEinheits": [
+          "extraUnits": [
             "Schattenjäger"
           ],
           "points": 225
@@ -118,7 +118,7 @@
           {
             "name": "Mandrake-Kriegsschar",
             "units": "Vier Mandraks",
-            "extraEinheits": [
+            "extraUnits": [
                 "Füge bis zu zwei Mandraks hinzu: 25 Punkte pro Stück"
             ],
             "points": 125
@@ -126,7 +126,7 @@
           {
             "name": "Hellion-Kriegsschar",
             "units": "Vier Hellion-Himmelsbretter",
-            "extraEinheits": [
+            "extraUnits": [
               "Füge bis zu zwei Hellion-Himmelsbretter hinzu: 25 Punkte pro Stück",
               "Füge bis zu zwei Warpbestien hinzu: 25 Punkte pro Stück"
             ],
@@ -135,7 +135,7 @@
           {
             "name": "Hexenkult",
             "units": "Ein Succubus, vier Hagashîn",
-            "extraEinheits": [
+            "extraUnits": [
               "Tragbares Netzportal",
               "Transporter des Schwarzen Herzens"
             ],
@@ -144,7 +144,7 @@
         {
           "name": "Reaver-Kriegsschar",
           "units": "Sechs Reaver-Jetbikes",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Reaver-Jetbikes hinzu: 25 Punkte pro Stück"
           ],
           "points": 200
@@ -153,7 +153,7 @@
         {
           "name": "Haemonculus-Kult",
           "units": "Haemonculus Ancient, zwei Haemonculi und vier Folterer",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Grotesquen hinzu: 25 Punkte pro Stück",
             "Tragbares Netzportal",
             "Talos",
@@ -164,7 +164,7 @@
         {
           "name": "Talos-Schwarm",
           "units": "Vier Talos",
-          "extraEinheits": [
+          "extraUnits": [
             "Talos"
           ],
           "points": 225
@@ -172,14 +172,14 @@
         {
           "name": "Harpyien-Kriegsschar",
           "units": "Sechs Harpyien",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Schmerzschiff",
           "units": "Ein Schmerzschiff",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         }
@@ -192,35 +192,35 @@
         {
           "name": "Henker-Landungsmodul",
           "units": "Ein Henker-Landungsmodul",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 450
         },
         {
           "name": "Razorwing-Staffel",
           "units": "Zwei Razorwing-Abfangjäger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Voidraven-Staffel",
           "units": "Zwei Voidraven-Abfangjäger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Slavebringer",
           "units": "Ein Sklavenbringer-Angriffsboot",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Kreuzer der Torture-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         }

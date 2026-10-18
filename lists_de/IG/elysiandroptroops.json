@@ -69,7 +69,7 @@
         {
           "name": "0–1 Regimentshauptquartier",
           "units": "Ein Elysian Oberbefehlshaber mit einem Kommissar und sieben Elysianische Luftlandetruppen plus Transporter.",
-          "extraEinheits": [
+          "extraUnits": [
             "Abwurf-Sentinels",
             "Feuerunterstützung",
             "Infanterie (INF) Platoon"
@@ -79,7 +79,7 @@
         {
           "name": "Luftlandetruppenkompanie",
           "units": "Ein Elysian Befehlshaber mit einem Kommissar und sieben Elysianische Luftlandetruppen plus Transporter.",
-          "extraEinheits": [
+          "extraUnits": [
             "Abwurf-Sentinels",
             "Feuerunterstützung",
             "Infanterie (INF) Platoon"
@@ -95,7 +95,7 @@
         {
           "name": "Landungssentinel-Staffel",
           "units": "Sechs Abwurf-Sentinels",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 3 Sky Talons hinzu: 75 Punkte"
           ],
           "points": 175
@@ -103,7 +103,7 @@
         {
           "name": "Sentinel-Staffel",
           "units": "Vier Sentinels",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze alle Sentinels durch gepanzerte Sentinels: 25 Punkte",
             "Ersetze alle Sentinels durch Unterstützungs-Sentinels: 50 Punkte"
           ],
@@ -122,7 +122,7 @@
         {
           "name": "Tauros-Venator-Staffel",
           "units": "Vier Tauros Venators",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu 2 Tauros Venators hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
@@ -172,7 +172,7 @@
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Kreuzer der Lunar-Klasse",
           "points": 150,
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Kreuzer der Lunar-Klasse durch ein Schlachtschiff der Emperor-Klasse: 25 Punkte"
           ]
         }

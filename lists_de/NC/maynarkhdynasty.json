@@ -77,7 +77,7 @@
         {
           "name": "Necron-Phalanx",
           "units": "Acht Necronkrieger und ein Necronlord",
-          "extraEinheits": [
+          "extraUnits": [
             "Necron-Hochlord",
             "Canoptek-Phantome",
             "Canoptek-Gruftspinne",
@@ -94,7 +94,7 @@
         {
           "name": "Portal-Phalanx",
           "units": "Ein Monolith, zwei Obelisks",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze bis zu zwei Obelisks durch Monoliths: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -108,21 +108,21 @@
         {
           "name": "1+ Die Ungebetenen",
           "units": "Sieben Alpträume",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Obelisk-Phalanx",
           "units": "Vier Obelisks",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Zerstörer-Phalanx",
           "units": "Beliebige sieben der folgenden Einheiten: Destruktoren, Schwere Destruktoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Necron-Hochlord",
             "Ersetze einen Destruktor durch einen Destruktorlord: 25 Punkte"
           ],
@@ -138,7 +138,7 @@
         {
           "name": "Canoptek-Schwarm",
           "units": "Ein Canoptek Spyder, sechs Canoptek Skarabäen",
-          "extraEinheits": [
+          "extraUnits": [
             "Canoptek-Phantome"
           ],
           "points": 200
@@ -152,7 +152,7 @@
         {
           "name": "Megalith Conduit",
           "units": "Ein Megalith",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Obelisks (50 Punkte pro Stück) und/oder Monoliths (75 Punkte pro Stück) hinzu"
           ],
           "points": 350
@@ -160,7 +160,7 @@
         {
           "name": "0–1 Erntemaschine",
           "units": "Entweder ein Æonic Orb oder ein Abbatoir",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 450
         },

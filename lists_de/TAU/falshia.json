@@ -67,7 +67,7 @@
         {
           "name": "XV8-Krisis-Kampfanzug-Kader",
           "units": "Ein Shas'el und vier XV8-Krisis-Kampfanzüge",
-          "extraEinheits": [
+          "extraUnits": [
             "Shas'o",
             "Krisis-Kampfanzüge",
             "Angriffsdrohnen",
@@ -78,7 +78,7 @@
         {
           "name": "Strahlender Feuerkrieger-Kader",
           "units": "Acht strahlende Feuerkrieger oder sechs strahlende Feuerkrieger und drei Teufelsrochen",
-          "extraEinheits": [
+          "extraUnits": [
             "Dornenhai",
             "Gebundenes Team",
             "Angriffsdrohnen",
@@ -99,7 +99,7 @@
         {
           "name": "Hammerhai-Gruppe",
           "units": "Vier Ionen-Hammerhaie oder vier Fusions-Hammerhaie",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze vier Ionen- oder Fusions-Hammerhaie durch vier Massebeschleuniger-Hammerhaie: 25 Punkte",
             "Angriffsdrohnen",
             "Schwertfisch",
@@ -111,7 +111,7 @@
         {
           "name": "Drohnengruppe",
           "units": "Sechs Angriffsdrohnen",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffsdrohnen"
           ],
           "points": 150
@@ -119,7 +119,7 @@
         {
           "name": "Kroot-Söldner-Sippe",
           "units": "Ein Kroot-Söldner-Meisterweiser und neun Kroot-Söldner-Krieger",
-          "extraEinheits": [
+          "extraUnits": [
             "Kroot-Hunde",
             "Krootox",
             "Große Knarlocs"
@@ -129,7 +129,7 @@
         {
           "name": "Spähergruppe",
           "units": "Vier Späher, zwei Teufelsrochen",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffsdrohnen"
           ],
           "points": 175
@@ -137,7 +137,7 @@
         {
           "name": "XV25-Geist-Kampfanzug-Gruppe",
           "units": "Vier XV25-Geist-Kampfanzüge",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffsdrohnen"
           ],
           "points": 200
@@ -145,7 +145,7 @@
         {
           "name": "XV9-Hazard-Nahunterstützungsgruppe",
           "units": "Sechs XV9-04-Hazard-Kampfanzüge",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffsdrohnen"
           ],
           "points": 300
@@ -166,21 +166,21 @@
         {
           "name": "Razorshark-Staffel",
           "units": "Drei Razorshark Abfangjäger (F)",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Sunshark-Bomber (B)",
           "units": "Zwei Sunshark-Bomber (B)s",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "AX-1-0-Staffel",
           "units": "Zwei Tigerhai AX-1-0",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 350
         },

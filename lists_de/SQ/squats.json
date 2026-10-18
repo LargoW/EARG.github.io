@@ -65,7 +65,7 @@
         {
           "name": "Krieger-Bruderschaft",
           "units": "Squat-Hearthguards, neun Squat-Krieger",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze zwei Squat-Krieger durch zwei Rapieren oder zwei Squat-Donnerer: 25 Punkte",
             "Füge vier Squat-Krieger hinzu: 75 Punkte",
             "Klanlord",
@@ -77,7 +77,7 @@
         {
           "name": "Berserker-Bruderschaft",
           "units": "Squat-Hearthguards, sieben Squat-Berserker, vier Squat-Rhinos",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze vier Squat-Rhinos durch vier Termiten: 25 Punkte"
           ],
           "points": 200
@@ -91,7 +91,7 @@
         {
           "name": "Biker",
           "units": "Sechs Squat-Biker",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge ein Gildenmeister-Trike hinzu: 25 Punkte",
             "Ersetze bis zu drei Squat-Biker durch Squat-Trikes: kostenlos"
           ],
@@ -100,7 +100,7 @@
         {
           "name": "Donnerer",
           "units": "Vier Squat-Donnerer, zwei Squat-Rhinos",
-          "extraEinheits": [
+          "extraUnits": [
             "Donnerer-Transporter"
           ],
           "points": 175
@@ -108,21 +108,21 @@
         {
           "name": "Wachbatterie",
           "units": "Sechs Rapieren und/oder Tarantulas",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Leichte Artilleriebatterie",
           "units": "Sechs Thudd-Geschütze und/oder Maulwurf-Mörser",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Thunderfire-Batterie",
           "units": "Drei Squat-Salvenkanonen",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge drei Squat-Rhinos hinzu: 25 Punkte"
           ],
           "points": 150
@@ -130,14 +130,14 @@
         {
           "name": "Gyrokopter-Staffel",
           "units": "Vier Eisenadler-Gyrokopter",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Kastelan-Manipel",
           "units": "Ein Squat Tech-Priester, fünf Kastelan-Roboter",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Kastelan-Roboter hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -151,7 +151,7 @@
         {
           "name": "Höllenbohrer",
           "units": "Ein Höllenbohrer",
-          "extraEinheits": [
+          "extraUnits": [
             "Lebender Ahne"
           ],
           "points": 150
@@ -159,7 +159,7 @@
         {
           "name": "Overlord",
           "units": "Ein Overlord-Luftschiff",
-          "extraEinheits": [
+          "extraUnits": [
             "Lebender Ahne"
           ],
           "points": 250
@@ -167,14 +167,14 @@
         {
           "name": "Goliath-Batterie",
           "units": "Zwei Goliath-Megakanonen",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 350
         },
         {
           "name": "Zyklop",
           "units": "Ein Zyklop",
-          "extraEinheits": [
+          "extraUnits": [
             "Lebender Ahne"
           ],
           "points": 425
@@ -182,7 +182,7 @@
         {
           "name": "Koloss",
           "units": "Ein Koloss",
-          "extraEinheits": [
+          "extraUnits": [
             "Lebender Ahne"
           ],
           "points": 450
@@ -190,7 +190,7 @@
         {
           "name": "Landzug",
           "units": "Ein Squat-Landzug und zwischen zwei und vier Kampf-Cars",
-          "extraEinheits": [
+          "extraUnits": [
             "Lebender Ahne",
             "Drachen-Kampf-Car: 75 Punkte pro Stück",
             "Belagerungsmörser-Kampf-Car: 75 Punkte pro Stück",

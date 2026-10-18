@@ -79,7 +79,7 @@
         {
           "name": "Sturmtrupps",
           "units": "Vier Sturmtrupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Vindicators"
           ],
@@ -88,7 +88,7 @@
         {
           "name": "Bike-Verband",
           "units": "Fünf Sturm-Bikes",
-          "extraEinheits": [
+          "extraUnits": [
             "Trikes",
             "Befehlshaber"
           ],
@@ -97,7 +97,7 @@
         {
           "name": "Devastor-Trupps",
           "units": "Vier Devastor-Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Befehlshaber",
             "Land Raider Transport",
@@ -110,7 +110,7 @@
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Land Raider hinzu: 50 Punkte",
             "Flugabwehr"
           ],
@@ -119,7 +119,7 @@
         {
           "name": "Land Speeders",
           "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
-          "extraEinheits": [
+          "extraUnits": [
             "Typhoons"
           ],
           "points": 200
@@ -127,7 +127,7 @@
         {
           "name": "Predators",
           "units": "Vier Predator Destructors und/oder Predator Annihilators",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr"
           ],
           "points": 250
@@ -135,7 +135,7 @@
         {
           "name": "Aufklärer",
           "units": "Vier Aufklärer plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Razorbacks",
             "Scharfschützen"
           ],
@@ -144,7 +144,7 @@
         {
           "name": "Taktische Trupps",
           "units": "Sechs Taktische Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Befehlshaber",
             "Cybots",
@@ -157,7 +157,7 @@
         {
           "name": "Terminatoren",
           "units": "Vier Terminatoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Land Raider Transport"
           ],
@@ -166,7 +166,7 @@
         {
           "name": "Vindicators",
           "units": "Vier Vindicators",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr"
           ],
           "points": 225
@@ -174,7 +174,7 @@
         {
           "name": "Whirlwinds",
           "units": "Vier Whirlwinds",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr"
           ],
           "points": 275
@@ -213,7 +213,7 @@
         {
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Angriffskreuzer",
-          "extraEinheits": [
+          "extraUnits": [
             "Schlachtbarke"
           ],
           "points": 200
@@ -221,7 +221,7 @@
         {
           "name": "Warhounds",
           "units": "Ein Warhound-Titan",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 zusätzlichen Warhound-Titan hinzu: 200 Punkte"
           ],
           "points": 275
@@ -229,7 +229,7 @@
         {
           "name": "Reaver",
           "units": "Ein Reaver-Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 600
         }

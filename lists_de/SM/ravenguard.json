@@ -67,7 +67,7 @@
         {
           "name": "Sturmaufklärer",
           "units": "Drei Raven Guard Aufklärer, drei Land Speeder Storms",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
           ],
@@ -76,7 +76,7 @@
         {
           "name": "Taktische Trupps",
           "units": "Vier Taktische Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Flugabwehr",
             "Land Speeders",
@@ -93,7 +93,7 @@
         {
           "name": "Sternguard Veteran",
           "units": "Vier Sternguard-Veteranen plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Flugabwehr",
             "Land Speeders",
@@ -104,7 +104,7 @@
         {
           "name": "Vanguard Veteran",
           "units": "Vier Vanguard Veterans",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
           ],
@@ -113,7 +113,7 @@
         {
           "name": "Terminatoren",
           "units": "Beliebige vier der folgenden Einheiten: Terminatoren, Cyclone Terminatoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber"
           ],
           "points": 350
@@ -127,7 +127,7 @@
         {
           "name": "Sturmtrupps",
           "units": "Vier Sturmtrupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
           ],
@@ -136,7 +136,7 @@
         {
           "name": "Bike-Verband",
           "units": "Beliebige fünf der folgenden Einheiten: Trike, Sturm-Bikes",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
           ],
@@ -145,7 +145,7 @@
         {
           "name": "Devastor-Trupps",
           "units": "Vier Devastor-Trupps plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Flugabwehr",
             "Befehlshaber",
             "Land Speeders",
@@ -156,7 +156,7 @@
         {
           "name": "Land Speeders",
           "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
-          "extraEinheits": [
+          "extraUnits": [
             "Land Speeder Variants"
           ],
           "points": 200
@@ -164,7 +164,7 @@
         {
           "name": "Aufklärer",
           "units": "Vier Raven Guard Aufklärer plus Transporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Land Speeders",
             "Scharfschützen",
             "Razorbacks"
@@ -190,7 +190,7 @@
         {
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein leichter Kreuzer der Vanguard-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffskreuzer"
           ],
           "points": 150
@@ -198,7 +198,7 @@
         {
           "name": "Warhounds",
           "units": "Ein Warhound-Titan",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 zusätzlichen Warhound-Titan hinzu: 200 Punkte"
           ],
           "points": 275

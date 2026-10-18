@@ -76,7 +76,7 @@
         {
           "name": "Vorhut-Manipel",
           "units": "Ein Magos, neun Skitarii Vanguards",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 4 Skitarii Vanguards durch 4 Rapiers: kostenlos",
             "Füge bis zu zwei Onager-Dünenkrabbler hinzu: 50 Punkte pro Stück",
             "Füge bis zu zwei Skorpius-Desintegratoren hinzu: 50 Punkte pro Stück",
@@ -99,14 +99,14 @@
         {
           "name": "Sicarian Killclade",
           "units": "Vier Sicarianische Rostpirscher, zwei Sicarianische Infiltratoren",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Ranger-Kohorte",
           "units": "Vier Skitarii Ranger",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 2 Scorpius Duneriders, oder 3 Rapiers hinzu: 50 Punkte"
           ],
           "points": 150
@@ -114,7 +114,7 @@
         {
           "name": "Kastelan-Manipel",
           "units": "Ein Tech-Priester, fünf Kastelan-Roboter",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu 2 Kastelan-Roboter hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -122,7 +122,7 @@
         {
           "name": "Kataphron-Manipel",
           "units": "Ein Tech-Priester, fünf Kataphron-Brecher-Kampfservitoren oder fünf Kataphron-Zerstörer-Kampfservitoren",
-          "extraEinheits": [],
+          "extraUnits": [],
           "points": 250
         },
         {
@@ -133,7 +133,7 @@
         {
           "name": "Skorpius-Manipel",
           "units": "Vier Skorpius-Desintegratoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Skorpius-Desintegratoren hinzu: 50 Punkte pro Stück"
           ],
           "points": 225
@@ -141,7 +141,7 @@
         {
           "name": "Minoris-Kohorte",
           "units": "Zwei Ordinatus Minoris",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Ordinatus Minoris hinzu: 125 Punkte",
             "Unterstützungswaffe"
           ],
@@ -150,7 +150,7 @@
         {
           "name": "0–1 Ordinatus Majoris",
           "units": "Ein Ordinatus Armageddon (Nova Cannon)",
-          "extraEinheits": [
+          "extraUnits": [
             "Ordinatus Mars (Schallstörsender)",
             "Ordinatus Golgotha (Hellfire Missiles)"
           ],
@@ -165,13 +165,13 @@
         {
           "name": "Questoris-Banner",
           "units": "Zwei Questoris-Ritter (dürfen nicht aus verschiedenen Konfigurationen bestehen)",
-          "extraEinheits": [],
+          "extraUnits": [],
           "points": 325
         },
         {
           "name": "Warhound-Rudel",
           "units": "Zwei Warhound-Titanen, beide entweder in Standard- oder Unterstützungskonfiguration",
-          "extraEinheits": [
+          "extraUnits": [
             "Panzerjäger-Konfiguration"
           ],
           "points": 475
@@ -179,7 +179,7 @@
         {
           "name": "Warbringer-Titan",
           "units": "Ein Warbringer-Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 650
         },

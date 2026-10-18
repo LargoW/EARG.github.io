@@ -80,7 +80,7 @@
         {
           "name": "Nacht-Raptor-Kompanie",
           "units": "Ein Night-Lords-Hauptmann, sechs Raptoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu 2 Raptoren hinzu: 30 Punkte pro Stück",
             "Oberbefehlshaber",
             "Ikonenträger"
@@ -96,7 +96,7 @@
         {
           "name": "Auserkorene",
           "units": "Vier Night-Lords-Auserkorene, zwei Chaos Rhinos",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 2 Chaos Rhinos durch 4 Chaos Tarantulas: 25 Punkte"
           ],
           "points": 175
@@ -104,14 +104,14 @@
         {
           "name": "Warpkrallenkult",
           "units": "Drei Warp Talons, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Terminatorenkompanie",
           "units": "Ein Night-Lords-Hauptmann, vier Atramentar Terminatoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 2 Chaos-Spartan-Sturmpanzer hinzu: 150 Punkte",
             "Oberbefehlshaber",
             "Ikonenträger",
@@ -129,14 +129,14 @@
         {
           "name": "Destruktoren",
           "units": "Vier Chaos Destruktoren",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Terror-Kompanie",
           "units": "Ein Night-Lords-Hauptmann, vier Sturmtrupps der Night Lords, zwei Night-Lords-Cybots",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Ikonenträger",
             "Cybots",
@@ -147,7 +147,7 @@
         {
           "name": "Unterstützungskompanie",
           "units": "Ein Night-Lords-Hauptmann, sechs Chaos Space Marines, drei Chaos Rhinos",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 3 Chaos Rhinos durch 3 Chaos Land Raiders: 125 Punkte",
             "Oberbefehlshaber",
             "Ikonenträger",
@@ -158,7 +158,7 @@
         {
           "name": "Sturmkompanie",
           "units": "Ein Night-Lords-Hauptmann, sechs Chaos-Trikes",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Ikonenträger",
             "Stalker"
@@ -194,7 +194,7 @@
         {
           "name": "0–1 Angriffskreuzer",
           "units": "Chaos-Angriffskreuzer",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         }

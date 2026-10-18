@@ -86,7 +86,7 @@
         {
           "name": "Deathwatch-Kill-Team",
           "units": "Ein Deathwatch-Sergeant und drei Deathwatch-Taktische-Trupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze drei Deathwatch-Taktische-Trupps durch drei Deathwatch-Schwarze-Schilde: 25 Punkte",
             "Ersetze drei Deathwatch-Taktische-Trupps durch drei Deathwatch-Devastortrupps: 50 Punkte",
             "Oberbefehlshaber",
@@ -98,7 +98,7 @@
         {
           "name": "Angriff der Deathwatch",
           "units": "Ein Deathwatch-Sergeant, drei Deathwatch-Trikes und ein Deathwatch-Land-Speeder-Tornado",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Deathwatch-Spezialisten"
           ],
@@ -107,7 +107,7 @@
         {
           "name": "Deathwatch-Sturmtrupps",
           "units": "Ein Deathwatch-Sergeant und drei Deathwatch-Sturmtrupps",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Deathwatch-Land-Speeder-Tornado hinzu: 25 Punkte",
             "Oberbefehlshaber",
             "Deathwatch-Spezialisten"
@@ -117,7 +117,7 @@
         {
           "name": "Deathwatch-Terminatoren",
           "units": "Ein Deathwatch-Sergeant und zwei Deathwatch-Terminatoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Deathwatch-Spezialisten",
             "Deathwatch-Unterstützung"
@@ -127,7 +127,7 @@
         {
           "name": "0–1 Dark-Hunter-Zerstörer",
           "units": "Ein Zerstörer der Dark-Hunter-Klasse",
-          "extraEinheits": [],
+          "extraUnits": [],
           "points": 75
         }
       ]
@@ -139,7 +139,7 @@
         {
           "name": "0–1 Ordo Xenos Inquisitor Task Force",
           "units": "Ordo Xenos Inquisitor, neun Arbitrators, fünf Arbites Repressors",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Füge drei Leman Russ Thunderers hinzu: 150 Punkte"
           ],
@@ -148,7 +148,7 @@
         {
           "name": "Akolythen des Ordo Xenos",
           "units": "Drei Ordo Xenos Acolytes, drei Vendettas",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Vultures hinzu: 50 Punkte pro Stück"
           ],
           "points": 250
@@ -156,7 +156,7 @@
         {
           "name": "Planetarer Verteidigungszug",
           "units": "Acht PDF Infanterie (INF), vier Kultisten-Landtransporter",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze vier Kultisten-Landtransporter durch drei Thudd-Geschütze oder drei Flakteams: 25 Punkte"
           ],
           "points": 200
@@ -164,14 +164,14 @@
         {
           "name": "Leman-Russ-Staffel",
           "units": "Vier Leman Russ oder vier Leman Russ Thunderers",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Gepanzerte Sentinel-Staffel",
           "units": "Vier gepanzerte Sentinels",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 125
         }
@@ -189,7 +189,7 @@
         {
           "name": "Thunderhawk-Transporter",
           "units": "Ein Deathwatch Thunderhawk-Transporter",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         }

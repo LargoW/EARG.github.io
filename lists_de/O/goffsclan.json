@@ -62,10 +62,10 @@
         {
           "name": "Mob der Goffs",
           "units": "Zwei Bosse, sechs Boys, zwei Grots",
-          "extraEinheits": [
+          "extraUnits": [
               "Füge beliebig viele Boys hinzu: 15 Punkte pro Stück",
               "Füge beliebig viele Transportpanzas hinzu: 20 Punkte pro Stück",
-            "Füge beliebig viele Killa Bots, Kanonänbatterien, Kommandos, Skorchas, Waaghbikes und Warbuggies hinzu: 25 Punkte pro Stück",
+            "Füge beliebig viele Killa Bots, Kanonänbatterien, Kommandos, Brennabuggies, Waaghbikes und Warbuggies hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Flakpanzas, Kampfpanzas hinzu: 30 Punkte pro Stück",
             "Füge beliebig viele Deff Dreads, Deffkoptas hinzu: 35 Punkte pro Stück",
             "Füge beliebig viele Boys und Grots hinzu: 35 Punkte pro Stück",
@@ -93,8 +93,8 @@
         {
           "name": "Blitz-Brigade",
           "units": "Beliebige vier der folgenden Einheiten: Deffkopta, Flakpanza, Kampfpanza",
-          "extraEinheits": [
-            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
+          "extraUnits": [
+            "Füge beliebig viele Brennabuggies, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Flakpanzas, Kampfpanzas, Deffkoptas hinzu: 30 Punkte pro Stück",
             "0-1 Mega Wummenpanza: 100 Punkte",
             "0–1: Füge einem Mega Wummenpanza oder einem Kampfpanza einen Oddboy-Charakter hinzu: 50 Punkte"
@@ -116,9 +116,9 @@
         },
         {
           "name": "Kult des Heizakults",
-          "units": "Beliebige acht der folgenden Einheiten: Skorchas, Waaghbikes, Warbuggies",
-          "extraEinheits": [
-            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
+          "units": "Beliebige acht der folgenden Einheiten: Brennabuggies, Waaghbikes, Warbuggies",
+          "extraUnits": [
+            "Füge beliebig viele Brennabuggies, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Flakpanzas, Kampfpanzas hinzu: 30 Punkte pro Stück",
             "Füge beliebig viele Deffkoptas hinzu: 35 Punkte pro Stück",
             "0–1: Füge einem Kampfpanza einen Oddboy-Charakter hinzu: 50 Punkte"
@@ -141,8 +141,8 @@
         {
           "name": "Kommando-Mob",
           "units": "Sechs Kommandos",
-          "extraEinheits": [
-            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück",
+          "extraUnits": [
+            "Füge beliebig viele Brennabuggies, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Deffkoptas hinzu: 35 Punkte pro Stück"
           ],
           "points": 150
@@ -150,8 +150,8 @@
         {
           "name": "Stormboyz-Mob",
           "units": "Sechs Stormboys",
-          "extraEinheits": [
-            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück",
+          "extraUnits": [
+            "Füge beliebig viele Brennabuggies, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Deffkoptas hinzu: 35 Punkte pro Stück"
           ],
           "points": 150
@@ -159,7 +159,7 @@
         {
           "name": "Mekwummen-Mob",
           "units": "Fünf Kanonänbatterie",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge beliebig viele Transportpanzas und Kanonänbatterien hinzu: 20 Punkte pro Stück",
             "Füge beliebig viele Flakpanzas hinzu: 30 Punkte pro Stück",
             "0-1 Bosse: 35 Punkte",
@@ -183,7 +183,7 @@
         {
           "name": "Mek-Stampfa-Mob",
           "units": "Drei Stampfas",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge beliebig viele Killa Bots hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Flakpanzas hinzu: 30 Punkte pro Stück",
             "Füge beliebig viele Deff Dreads hinzu: 35 Punkte pro Stück",
@@ -195,7 +195,7 @@
         {
           "name": "Mek-Dread-Mob",
           "units": "Ein Deff Dread, vier Killa Bots",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge beliebig viele Killa Bots hinzu: 25 Punkte pro Stück",
             "Füge beliebig viele Deff Dreads, Flakpanzas hinzu: 35 Punkte pro Stück"
           ],
@@ -217,7 +217,7 @@
         },
         {
           "name": "Landungsschiff",
-          "units": "Ein Landa",
+          "units": "Ein Landungsschiff",
           "upgrades": [
           ],
           "points": 225
@@ -239,7 +239,7 @@
         {
           "name": "0–1 Kroozer",
           "units": "Ein Kill-Kreuzer",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Kill-Kreuzer durch einen Schlachtkreuzer: 50 Punkte"
           ],
           "points": 100

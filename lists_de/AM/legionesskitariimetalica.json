@@ -75,7 +75,7 @@
         {
           "name": "Hypaspist-Manipel",
           "units": "Ein Magos, neun Hypaspisten",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze drei Hypaspisten kostenlos durch drei Rapiers",
             "Ersetze zwei Hypaspisten durch zwei Sagitarii: 25 Punkte",
             "Minoris",
@@ -94,7 +94,7 @@
         {
           "name": "Ballistae-Kohorte",
           "units": "Vier Sagitarii",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 1 Einheit von Sagitarii durch 3 Rapiers: 25 Punkte",
             "Füge genug Chimären oder Chimedons hinzu, um den Verband ohne freie Plätze zu transportieren: 25 Punkte pro Stück",
             "Hydra"
@@ -104,7 +104,7 @@
         {
           "name": "Kastelan-Manipel",
           "units": "Ein Tech-Priester, fünf Kastelan-Roboter",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu 2 Kastelan-Roboter hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -112,21 +112,21 @@
         {
           "name": "Castellax-Manipel",
           "units": "Ein Tech-Priester, vier Castellax-Kampfautomaten",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Praetorianer-Manipel",
           "units": "Ein Tech-Priester, fünf Praetorian Combat Servitors",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Cataphractii-Manipel",
           "units": "Sechs Leman Russ, Leman Russ Demolishers oder Leman Russ Executioners",
-          "extraEinheits": [
+          "extraUnits": [
             "Hydra"
           ],
           "points": 375
@@ -134,7 +134,7 @@
         {
           "name": "Minoris-Kohorte",
           "units": "Zwei Ordinatus Minoris",
-          "extraEinheits": [
+          "extraUnits": [
             "Minoris",
             "Unterstützungswaffe"
           ],
@@ -143,7 +143,7 @@
         {
           "name": "0–1 Ordinatus Majoris",
           "units": "Ein Ordinatus Armageddon (Nova Cannon)",
-          "extraEinheits": [
+          "extraUnits": [
             "Ordinatus Mars (Schallstörsender)",
             "Ordinatus Golgotha (Hellfire Missiles)"
           ],
@@ -158,14 +158,14 @@
         {
           "name": "Paladin-Haus",
           "units": "Fünf Ritter-Paladins",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 450
         },
         {
           "name": "Warhound-Rudel",
           "units": "Zwei Warhound-Scout-Titanen, beide entweder in Standard- oder Unterstützungskonfiguration",
-          "extraEinheits": [
+          "extraUnits": [
             "Panzerjäger-Konfiguration"
           ],
           "points": 475
@@ -173,14 +173,14 @@
         {
           "name": "Reaver-Titan",
           "units": "Ein Reaver-Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 600
         },
         {
           "name": "Warlord-Titan",
           "units": "Ein Warlord-Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 750
         },

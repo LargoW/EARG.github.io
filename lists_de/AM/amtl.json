@@ -77,7 +77,7 @@
         {
           "name": "0–1 Imperator-Titan",
           "units": "Ein Imperator-Titan oder Warmonger-Titan, Veteranen-Princeps",
-          "extraEinheits": [
+          "extraUnits": [
             "Legat"
           ],
           "points": 950
@@ -85,7 +85,7 @@
         {
           "name": "Warlord-Titan",
           "units": "Ein Warlord-Titan (Todbringer- oder Nemesis-Klasse), Veteranen-Princeps",
-          "extraEinheits": [
+          "extraUnits": [
             "Legat"
           ],
           "points": 750
@@ -93,7 +93,7 @@
         {
           "name": "Reaver-Titan",
           "units": "Ein Reaver-Titan der Hun- oder Goth-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
             "Veteranen-Princeps"
           ],
           "points": 600
@@ -107,7 +107,7 @@
         {
           "name": "Warhound-Titanen",
           "units": "Ein Warhound-Titan, entweder in Standard- oder Unterstützungskonfiguration",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Warhound-Titan derselben Konfiguration hinzu: 200 Punkte",
             "Veteranen-Princeps",
             "Panzerjäger-Konfiguration"
@@ -117,7 +117,7 @@
         {
           "name": "Questoris-Banner",
           "units": "Zwei Questoris-Ritter (dürfen nicht aus verschiedenen Konfigurationen bestehen)",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 325
         }
@@ -130,7 +130,7 @@
         {
           "name": "Secutarii-Titanenwache",
           "units": "Ein Secutarii Axiarch, acht Secutarii Hoplites oder acht Secutarii Pelasts",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 2 Electro-Priests hinzu: 25 Punkte",
             "Ersetze 2 Secutarii Hoplites oder Pelasts durch 3 Chimären oder 3 Chimedons: 25 Punkte"
           ],
@@ -139,7 +139,7 @@
         {
           "name": "Kastelan-Manipel",
           "units": "Fünf Kastelan-Roboter, ein Tech-Priester",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu 2 Kastelan-Roboter hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -147,14 +147,14 @@
         {
           "name": "Castellax-Manipel",
           "units": "Ein Tech-Priester, vier Castellax-Kampfautomaten",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Minoris",
           "units": "Ordinatus Minoris",
-          "extraEinheits": [
+          "extraUnits": [
               "Füge 1 Ordinatus Minoris hinzu: 125 Punkte"
           ],
           "points": 200

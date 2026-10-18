@@ -86,7 +86,7 @@
         {
           "name": "Emperor's Children Gefolge",
           "units": "Ein Noise-Lord, drei Noise Marines, drei Chaos Space Marines, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Gefolge Transport",
             "Champion",
@@ -101,7 +101,7 @@
         {
           "name": "Emperor's Children Terminatoren",
           "units": "Ein Noise-Lord, vier Sirenshriek Terminatoren, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Terminator Transport",
             "Champion",
@@ -118,7 +118,7 @@
         {
           "name": "Auserkorene",
           "units": "Vier Auserkorene, zwei Emperor's Children Rhinos, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
               "Ersetze 2 Emperor's Children Rhinos durch 2 Emperor's Children Cybots: 75 Punkte"
           ],
           "points": 175
@@ -126,7 +126,7 @@
       {
         "name": "Slaanesh-Geißel-Meute",
         "units": "Vier Debasers",
-        "extraEinheits": [
+        "extraUnits": [
         ],
         "points": 250
       }
@@ -139,7 +139,7 @@
         {
           "name": "Bike-Kompanie",
           "units": "Ein Noise-Lord, sechs Chaos-Angriffsbikes und ein Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
               "Predators"
           ],
           "points": 250
@@ -147,7 +147,7 @@
         {
           "name": "Raptorenkult",
           "units": "Ein Noise-Lord, vier Raptoren, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Predators"
           ],
           "points": 200
@@ -155,7 +155,7 @@
         {
           "name": "Panzerkompanie",
           "units": "Vier Emperor's Children Predators",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 4 Emperor's Children Predators durch 4 Emperor's Children Land Raiders: 50 Punkte",
             "Stalker"
           ],
@@ -207,7 +207,7 @@
         {
           "name": "0–1 Chaos Kreuzer",
           "units": "Ein Kreuzer der Devastation-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
             "Schlachtschiff"
           ],
           "points": 150

@@ -51,7 +51,7 @@
         {
           "name": "Mob der Snakebites",
           "units": "Zwei Brutes, sechs Huntas und drei Grots",
-          "extraEinheits": [
+          "extraUnits": [
             "beliebig viele Huntas: 15 Punkte pro Stück",
             "beliebig viele Wildboyz: 15 Punkte pro Stück",
             "beliebig viele Boarboyz: 25 Punkte pro Stück",
@@ -81,7 +81,7 @@
         {
           "name": "Boarboyz-Mob",
           "units": "Ein Pigdok, acht Boarboyz",
-          "extraEinheits": [
+          "extraUnits": [
             "beliebig viele Boarboyz: 25 Punkte pro Stück",
             "Füge bis zu 1 Wyrdboy hinzu: 25 Punkte"
           ],
@@ -109,7 +109,7 @@
         {
           "name": "Junka-Brigade",
           "units": "Eine Brutes-Einheit, fünf Junkas und sechs Junkatrukks ",
-          "extraEinheits": [
+          "extraUnits": [
             "beliebig viele Junkas + Junkatrukk: 30 Punkte",
             "Füge eine Brutes-Einheit und einen Junkatrukk hinzu: 50 Punkte",
             "Füge 1 Wyrdboy zu einer Brutes-Einheit hinzu: 25 Punkte"
@@ -128,7 +128,7 @@
         {
           "name": "Lobba-Mob",
           "units": "Sechs Lobbas",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu 1 Einheit von Brutes hinzu: 35 Punkte"
           ],
           "points": 150
@@ -136,7 +136,7 @@
         {
           "name": "Madboyz-Mob",
           "units": "Sechs Madboyz",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu 6 Madboyz hinzu: 25 Punkte pro Stück",
             "Füge bis zu 3 Wyrdboys hinzu: 25 Punkte pro Stück"
           ],
@@ -145,7 +145,7 @@
         {
           "name": "Trappas-Mob",
           "units": "Acht Trappas",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge beliebig viele Trappas hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -153,7 +153,7 @@
         {
           "name": "Wildboyz-Mob",
           "units": "Ein Brute, sieben Wildboyz",
-          "extraEinheits": [
+          "extraUnits": [
             "beliebig viele Wildboyz: 15 Punkte pro Stück",
             "Füge eine Brutes-Einheit hinzu: 35 Punkte pro Stück",
             "Füge 1 Wyrdboy zu einer Brutes-Einheit hinzu: 25 Punkte",
@@ -181,7 +181,7 @@
           {
             "name": "Gargant-Mob der Snakebites",
             "units": "Ein Steam Gargant",
-            "extraEinheits": [
+            "extraUnits": [
                 "Füge 1 Steam Gargant hinzu: 175 Punkte"
             ],
             "points": 225

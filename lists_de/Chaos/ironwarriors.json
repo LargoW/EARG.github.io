@@ -77,7 +77,7 @@
         {
           "name": "Iron Krieger Gefolge",
           "units": "Ein Iron Krieger Warpsmith, sechs Chaos Space Marines",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 2 Chaos Space Marines durch 2 Havocs: 25 Punkte",
             "Oberbefehlshaber",
             "Transport",
@@ -91,7 +91,7 @@
         {
           "name": "Panzerkompanie der Iron Krieger",
           "units": "Sechs Chaos Vindicators",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 6 Chaos-Vindicators durch 6 Chaos-Predators (25 Punkte), 3 Chaos-Spartan-Sturmpanzer (75 Punkte) oder 6 Chaos-Land-Raider (125 Punkte)"
           ],
           "points": 275
@@ -99,7 +99,7 @@
         {
           "name": "Havocs",
           "units": "Ein Warpschmied der Iron Warriors, vier Havocs und ein Chaos-Spartan-Sturmpanzer",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Chaos-Spartan-Sturmpanzer durch 2 Chaos-Land-Raider: 25 Punkte",
             "Oberbefehlshaber",
             "Vindicators"
@@ -115,7 +115,7 @@
         {
           "name": "Auserkorene",
           "units": "Vier Auserkorene, zwei Chaos Rhinos",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 2 Chaos Rhinos durch 2 Chaos Siege Rhinos (10 Punkte), oder 2 Chaos Cybots oder 2 Chaos Siege Cybots (75 Punkte)",
             "Vindicators"
           ],
@@ -124,7 +124,7 @@
         {
           "name": "Bezashk Destruktoren",
           "units": "Ein Iron Krieger Warpsmith, vier Bezashk Destruktoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Vindicators"
           ],
           "points": 200
@@ -132,7 +132,7 @@
         {
           "name": "Cybot-Sturmrudel",
           "units": "Vier Chaos Cybots",
-          "extraEinheits": [
+          "extraUnits": [
             "Cybots",
             "Dreadclaws"
           ],
@@ -141,7 +141,7 @@
         {
           "name": "Tyrant Terminatoren",
           "units": "Ein Iron Krieger Warpsmith, vier Tyrant Siege Terminatoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Kyborgs",
             "Oberbefehlshaber",
             "Cybots",
@@ -158,7 +158,7 @@
         {
           "name": "Schwere Belagerungsmaschine",
           "units": "Iron-Krieger-Stormsword",
-          "extraEinheits": [
+          "extraUnits": [
             "Kyborgs",
             "Vindicators",
             "Cybots"
@@ -168,14 +168,14 @@
         {
           "name": "Bezashk-Belagerungsbatterie",
           "units": "Vier Bezashk Medusa",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Artilleriebatterie der Iron Krieger",
           "units": "Drei Iron Krieger Basilisken",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 Iron Krieger Basilisk hinzu: 75 Punkte"
           ],
           "points": 250
@@ -183,7 +183,7 @@
         {
           "name": "Schwere Belagerungspanzer",
           "units": "Zwei schwere Chaos-Typhon-Belagerungspanzer",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 schweren Chaos-Typhon-Belagerungspanzer hinzu: 125 Punkte"
           ],
           "points": 275
@@ -197,35 +197,35 @@
         {
           "name": "Maulerfiends",
           "units": "Vier Maulerfiends",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Dezimator",
           "units": "Ein Decimator",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Geißel-Meute",
           "units": "Vier Geißels",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Ordinatus Hereticus",
           "units": "Zwei Ordinatus Hereticus",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "0–1 Ordinatus Cyclothrathe",
           "units": "Ein Ordinatus Cyclothrathe",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 450
         },
@@ -242,7 +242,7 @@
         {
           "name": "0–1 Chaos Kreuzer",
           "units": "Ein Kreuzer der Devastation-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
             "Schlachtschiff"
           ],
           "points": 150

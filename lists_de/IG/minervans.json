@@ -73,7 +73,7 @@
         {
           "name": "Minervanische Panzerkompanie",
           "units": "Ein Leman Russ Vanquisher mit einem Kommissar-Captain, sieben Leman Russ",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze sieben Leman Russ durch sieben Leman Russ Thunderers: kostenlos",
             "Ersetze den Leman Russ Vanquisher durch ein Leman Russ Thunderer: kostenlos",
             "Oberbefehlshaber",
@@ -85,7 +85,7 @@
         {
           "name": "Minervanische Superschwere Panzerkompanie",
           "units": "Drei Baneblades, Stormblades, Stormswords, und/oder Shadowswords, ein mit einem Kommissar-Captain",
-          "extraEinheits": [
+          "extraUnits": [
             "Werte 1 Baneblade zu einem Stormhammer: 25 Punkte auf",
             "Oberbefehlshaber",
             "Flak",
@@ -96,7 +96,7 @@
         {
           "name": "Artilleriekompanie",
           "units": "Sechs Basilisken, ein mit einem Kommissar-Captain",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 6 Basilisken durch 6 Mantikors: 50 Punkte",
             "Oberbefehlshaber",
             "Flak"
@@ -112,7 +112,7 @@
         {
           "name": "Leman-Russ-Staffel",
           "units": "Vier Leman Russ",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 4 Leman Russ durch 4 Leman Russ Executioners, 4 Leman Russ Exterminators, 4 Leman Russ Demolishers, 4 Leman Russ Punishers, 4 Leman Russ Thunderers, oder 4 Leman Russ Conquerors",
             "Höllenhunde",
             "Flak"
@@ -122,7 +122,7 @@
         {
           "name": "Mechanisierter Infanteriezug",
           "units": "Sechs Infanterie (INF) und drei Chimären",
-          "extraEinheits": [
+          "extraUnits": [
             "Höllenhunde",
             "Leman Russ Kampfpanzer"
           ],
@@ -131,7 +131,7 @@
         {
           "name": "Artilleriebatterie",
           "units": "Drei Basilisken, drei Bombarden oder vier Medusa",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 3 Basilisken durch 3 Mantikors: 25 Punkte"
           ],
           "points": 225
@@ -139,21 +139,21 @@
         {
           "name": "Greif-Batterie",
           "units": "Drei Greifs",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Panzerjäger-Schwadron",
           "units": "Drei Leman Russ Destruktoren",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Superschwerer Panzerzug",
           "units": "Ein Baneblade, Stormsword, Shadowsword, oder Stormblade",
-          "extraEinheits": [
+          "extraUnits": [
               "Ersetze 1 Baneblade durch ein Shadowsword: 25 Punkte"
           ],
           "points": 175
@@ -161,21 +161,21 @@
         {
           "name": "Todesstoß-Batterie",
           "units": "Zwei Todesstoß-Raketensilos",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Flakbatterie",
           "units": "Drei Hydras",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Salamander-Staffel",
           "units": "Vier Salamander-Aufklärungspanzer",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         }
@@ -188,7 +188,7 @@
         {
           "name": "Warhounds",
           "units": "Ein Warhound-Titan",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 zusätzlichen Warhound-Titan hinzu: 200 Punkte"
           ],
           "points": 275
@@ -207,7 +207,7 @@
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Kreuzer der Lunar-Klasse",
           "points": 125,
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Kreuzer der Lunar-Klasse durch ein Schlachtschiff der Emperor-Klasse: 50 Punkte"
           ]
         }

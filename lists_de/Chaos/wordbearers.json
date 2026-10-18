@@ -106,7 +106,7 @@
         {
           "name": "Word Bearers Gefolge",
           "units": "Ein Word Bearer Coryphaus, sechs Chaos Space Marines, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Oberbefehlshaber",
             "Ikonenträger",
             "Transport",
@@ -121,7 +121,7 @@
         {
           "name": "Kultistenhorde",
           "units": "Ein Word Bearer Coryphaus, zehn Kultisten, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Ikonenträger",
             "Ersetze bis zu 2 Kultisten durch Mutanten: kostenlos",
             "Ersetze bis zu 2 Kultisten durch Chaos-Hunde: kostenlos",
@@ -140,7 +140,7 @@
         {
           "name": "Iconoclasts",
           "units": "Ein Word Bearer Coryphaus, vier Word Bearers Iconoclasts, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Ikonenträger",
             "Predators"
           ],
@@ -149,7 +149,7 @@
         {
           "name": "Havocs",
           "units": "Ein Word Bearer Coryphaus, vier Havocs, zwei Chaos Rhinos, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 2 Havocs durch 2 Daemonkin: kostenlos",
             "Ersetze 2 Chaos Rhinos durch Chaos Land Raiders, 2 Chaos Cybots: 75 Punkte",
             "Ikonenträger",
@@ -161,7 +161,7 @@
         {
           "name": "Panzerkompanie",
           "units": "Vier Chaos Predators",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 4 Chaos Predators durch 4 Chaos Vindicators (kostenlos) oder 4 Chaos Land Raiders (75 Punkte)",
             "Stalker"
           ],
@@ -170,7 +170,7 @@
         {
           "name": "Die Gesalbten",
           "units": "Ein Word Bearer Coryphaus, drei Chaos Terminatoren, drei Chaos Land Raiders, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 1 Chaos Terminatoren Einheit durch 2 Daemonkin: kostenlos",
             "Ersetze 3 Chaos Land Raiders durch 3 Chaos Cybots: kostenlos",
             "Oberbefehlshaber",
@@ -189,7 +189,7 @@
         {
           "name": "Cerberites",
           "units": "Drei Cerberites",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
@@ -201,14 +201,14 @@
         {
           "name": "Maulerfiends",
           "units": "Vier Maulerfiends",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Geißels",
           "units": "Vier Geißels",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         }
@@ -221,21 +221,21 @@
         {
           "name": "Dezimator",
           "units": "Ein Decimator",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Chaos-Ritter",
           "units": "Zwei Abtrünnige Ritter, Dämonenpakt",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Todesrad",
           "units": "Ein Todesrad",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 300
         },
@@ -247,14 +247,14 @@
         {
           "name": "Harbringer",
           "units": "Ein Harbringer-Bomber (B)",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "0–1 Chaos Kreuzer",
           "units": "Ein Kreuzer der Devastation-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
             "Schlachtschiff"
           ],
           "points": 125

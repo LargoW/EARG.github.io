@@ -60,7 +60,7 @@
         {
           "name": "Gefechtslinientrupp",
           "units": "Vier Intercessoren, Sturm-Intercessoren oder Hellblasters",
-          "extraEinheits": [
+          "extraUnits": [
             "Nahunterstützung",
             "Befehlshaber",
             "Transports",
@@ -76,7 +76,7 @@
         {
           "name": "Inceptortrupp",
           "units": "Vier Inceptors",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber"
           ],
           "points": 325
@@ -84,7 +84,7 @@
         {
           "name": "Suppressortrupp",
           "units": "Vier Suppressors",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber"
           ],
           "points": 325
@@ -92,7 +92,7 @@
         {
           "name": "Reivertrupp",
           "units": "Vier Reivers",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber"
           ],
           "points": 250
@@ -100,7 +100,7 @@
         {
           "name": "Infiltratoren-Trupp",
           "units": "Vier Infiltratoren",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber"
           ],
           "points": 225
@@ -113,7 +113,7 @@
         {
           "name": "Feuerunterstützungstrupp",
           "units": "Drei Aggressors oder drei Eradicators",
-          "extraEinheits": [
+          "extraUnits": [
             "Nahunterstützung",
             "Befehlshaber",
             "Transports",
@@ -124,7 +124,7 @@
         {
           "name": "Eliminatortrupp",
           "units": "Vier Eliminators",
-          "extraEinheits": [
+          "extraUnits": [
             "Transports"
           ],
           "points": 175
@@ -132,7 +132,7 @@
         {
           "name": "Ausreitertrupp",
           "units": "Vier Outriders",
-          "extraEinheits": [
+          "extraUnits": [
             "Befehlshaber",
             "Füge 2 Invaders hinzu: 75 Punkte"
           ],
@@ -141,14 +141,14 @@
         {
           "name": "Storm-Speeder",
           "units": "Drei Storm-Speeder, Hammerstrike oder Thunderstrike configuration",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Gladiators",
           "units": "Vier Gladiators, Lancer oder Reaper configuration",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 250
         }

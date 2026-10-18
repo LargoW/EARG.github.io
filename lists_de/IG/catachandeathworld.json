@@ -62,7 +62,7 @@
         {
           "name": "Regimentshauptquartier der Catachaner",
           "units": "Ein Catachanischer Oberbefehlshaber, sieben Catachanische Infanteristen (INF)",
-          "extraEinheits": [
+          "extraUnits": [
             "Todeswelt-Transporter (verpflichtend)",
             "Flakteam",
             "Ogryns",
@@ -73,7 +73,7 @@
         {
           "name": "Catachan-Kompanie",
           "units": "Ein Catachanischer Befehlshaber, sieben Catachanische Infanteristen (INF)",
-          "extraEinheits": [
+          "extraUnits": [
             "Todeswelt-Transporter (verpflichtend)",
             "Flakteam",
             "Ogryns",
@@ -90,7 +90,7 @@
         {
           "name": "Leman-Russ-Zug",
           "units": "Sechs Leman Russ, Leman Russ Demolisher oder Leman Russ Exterminator",
-          "extraEinheits": [
+          "extraUnits": [
             "Flak"
           ],
           "points": 375
@@ -98,7 +98,7 @@
         {
           "name": "Vulture-Staffel",
           "units": "Vier Vultures",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 1 Vulture durch 2 Vendettas: 25 Punkte"
           ],
           "points": 300
@@ -106,21 +106,21 @@
         {
           "name": "Artilleriebatterie",
           "units": "Drei Basilisken",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Todesstoß-Batterie",
           "units": "Zwei Todesstoß-Raketensilos",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Veteranenkompanie",
           "units": "Ein Catachanischer Befehlshaber und sieben Todesweltveteranen",
-          "extraEinheits": [
+          "extraUnits": [
             "Todeswelt-Transporter"
           ],
           "points": 200
@@ -128,7 +128,7 @@
         {
           "name": "Catachan-Superschwerer Panzerzug",
           "units": "Ein Hellhammer oder Stormblade",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 2 Ogryns hinzu: 50 Punkte pro Stück"
           ],
           "points": 200
@@ -136,28 +136,28 @@
         {
           "name": "Greif-Batterie",
           "units": "Drei Greifs",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Teufelshund-Staffel",
           "units": "Vier Teufelshunde",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Scharfschützenzug",
           "units": "Vier Scharfschützen, zwei Todeswelt-Chimären",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Catachan-Sentinel-Staffel",
           "units": "Vier Catachan-Sentinels",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 125
         }
@@ -181,7 +181,7 @@
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Kreuzer der Lunar-Klasse",
           "points": 125,
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Kreuzer durch ein Schlachtschiff der Emperor-Klasse: 50 Punkte"
           ]
         }

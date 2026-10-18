@@ -69,7 +69,7 @@
         {
           "name": "XV8-Krisis-Kampfanzug-Kader",
           "units": "Ein Shas'el und vier XV8-Krisis-Kampfanzüge",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffsdrohnen",
             "Shas'o",
             "Krisis-Kampfanzüge"
@@ -79,7 +79,7 @@
         {
           "name": "Feuerkrieger-Angriffsformation",
           "units": "Acht Feuerkrieger, oder sechs Feuerkrieger und drei Teufelsrochen.",
-          "extraEinheits": [
+          "extraUnits": [
             "Koloss-Kampfanzüge",
             "Himmlischer",
             "Piranhas",
@@ -101,7 +101,7 @@
         {
           "name": "Hammerhai-Gruppe",
           "units": "Vier Ionen-Hammerhaie oder vier Fusions-Hammerhaie",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze vier Ionen- oder Fusions-Hammerhaie durch vier Massebeschleuniger-Hammerhaie: 25 Punkte",
             "Angriffsdrohnen",
             "Hammerhaie",
@@ -113,7 +113,7 @@
         {
           "name": "XV88-Koloss-Kampfanzug-Gruppe",
           "units": "Sechs XV88-Koloss-Kampfanzüge",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffsdrohnen"
           ],
           "points": 300
@@ -121,7 +121,7 @@
         {
           "name": "Kroot-Söldner-Sippe",
           "units": "Ein Kroot-Söldner-Meisterweiser und neun Kroot-Söldner-Krieger",
-          "extraEinheits": [
+          "extraUnits": [
             "Kroot-Söldner",
             "Kroot-Hunde",
             "Krootox"
@@ -131,7 +131,7 @@
         {
           "name": "Spähergruppe",
           "units": "Vier Späher, zwei Teufelsrochen",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffsdrohnen"
           ],
           "points": 175
@@ -139,7 +139,7 @@
         {
           "name": "Antigrav-Aufklärungsgruppe",
           "units": "Beliebige sechs der folgenden Einheiten: Piranha, Tetra",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge bis zu zwei Piranhas hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -147,7 +147,7 @@
         {
           "name": "Luftabwehr-Unterstützungsgruppe",
           "units": "Drei Dornenhaie",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffsdrohnen"
           ],
           "points": 250
@@ -155,7 +155,7 @@
         {
           "name": "XV15-Geist-Kampfanzug-Gruppe",
           "units": "Sechs XV15-Geist-Kampfanzüge",
-          "extraEinheits": [
+          "extraUnits": [
             "Angriffsdrohnen"
           ],
           "points": 225
@@ -169,14 +169,14 @@
         {
           "name": "Barracuda-Staffel",
           "units": "Zwei Barracudas",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Tigerhai-Staffel",
           "units": "Zwei Tigerhai-Bomber (B)",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge sechs Angriffsdrohnen hinzu: 75 Punkte"
           ],
           "points": 175
@@ -184,28 +184,28 @@
         {
           "name": "AX-1-0-Staffel",
           "units": "Zwei Tigerhai AX-1-0",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 350
         },
         {
           "name": "Orca-Landungsschiff",
           "units": "Ein Orca",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
         {
           "name": "Manta-Landungsschiff",
           "units": "Ein Manta",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 550
         },
         {
           "name": "0–1 Raumschiff",
           "units": "Kreuzer der Protector-Klasse",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze den Protector durch ein Schlachtschiff der Custodian-Klasse: 25 Punkte"
           ],
           "points": 200

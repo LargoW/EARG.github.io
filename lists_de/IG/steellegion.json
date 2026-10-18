@@ -77,7 +77,7 @@
         {
           "name": "Regimentshauptquartier",
           "units": "Ein Stahllegion Oberbefehlshaber mit einem Kommissar, neun Infanterie (INF) und fünf Chimären",
-          "extraEinheits": [
+          "extraUnits": [
             "Alle"
           ],
           "points": 375
@@ -85,7 +85,7 @@
         {
           "name": "Mechanisierte Infanteriekompanie",
           "units": "Ein Stahllegion Befehlshaber mit einem Kommissar, neun Infanterie (INF) und fünf Chimären",
-          "extraEinheits": [
+          "extraUnits": [
             "Alle"
           ],
           "points": 325
@@ -93,7 +93,7 @@
         {
           "name": "Infanteriekompanie",
           "units": "Ein Stahllegion Befehlshaber mit einem Kommissar, zwölf Infanterie (INF)",
-          "extraEinheits": [
+          "extraUnits": [
             "Alle"
           ],
           "points": 250
@@ -101,7 +101,7 @@
         {
           "name": "Leman-Russ-Kompanie",
           "units": "Ein Leman Russ Vanquisher mit einem Kommissar, sieben Leman Russ",
-          "extraEinheits": [
+          "extraUnits": [
             "Flak",
             "Höllenhunde"
           ],
@@ -110,7 +110,7 @@
         {
           "name": "Superschwere Kompanie",
           "units": "Ein Kommissar, drei Baneblades und/oder Shadowswords",
-          "extraEinheits": [
+          "extraUnits": [
             "Ogryns",
             "Flak",
             "Höllenhunde"
@@ -120,7 +120,7 @@
         {
           "name": "Artilleriekompanie",
           "units": "Ein Kommissar, sechs Basilisken",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 6 Basilisken durch Mantikors: 50 Punkte",
             "Flak"
           ],
@@ -135,7 +135,7 @@
         {
           "name": "Mechanisierter Infanteriezug",
           "units": "Sechs Infanterie (INF) und drei Chimären",
-          "extraEinheits": [
+          "extraUnits": [
             "Höllenhunde"
           ],
           "points": 200
@@ -143,7 +143,7 @@
         {
           "name": "Artilleriebatterie",
           "units": "Drei Basilisken oder drei Bombarden",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze 3 Basilisken durch 3 Mantikors: 25 Punkte"
           ],
           "points": 225
@@ -151,21 +151,21 @@
         {
           "name": "Todesstoß-Batterie",
           "units": "Zwei Todesstoß-Raketensilos",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Greif-Batterie",
           "units": "Drei Greifs",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Flakbatterie",
           "units": "Drei Hydras",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 150
         },
@@ -177,14 +177,14 @@
         {
           "name": "Sentinel-Staffel",
           "units": "Vier Sentinels",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 100
         },
         {
           "name": "Superschwerer Panzerzug",
           "units": "Ein Baneblade",
-          "extraEinheits": [
+          "extraUnits": [
               "Ersetze 1 Baneblade durch ein Shadowsword: 25 Punkte"
           ],
           "points": 175
@@ -198,13 +198,13 @@
           "name": "Vulture-Staffel",
           "units": "Vier Vultures",
           "points": 300,
-          "extraEinheits": []
+          "extraUnits": []
         },
         {
           "name": "Stoßtruppenkompanie",
           "units": "Acht Stoßtruppen, ein mit einem Kommissar",
           "points": 200,
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 4 Taurox oder 4 Valkyries hinzu: 150 Punkte"
           ]
         }
@@ -217,7 +217,7 @@
         {
           "name": "Warhounds",
           "units": "Ein Warhound-Titan",
-          "extraEinheits": [
+          "extraUnits": [
             "Füge 1 zusätzlichen Warhound-Titan hinzu: 200 Punkte"
           ],
           "points": 275
@@ -225,14 +225,14 @@
         {
           "name": "Reaver",
           "units": "Ein Reaver-Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 600
         },
         {
           "name": "Klanlord",
           "units": "Ein Warlord-Titan",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 750
         },
@@ -250,7 +250,7 @@
           "name": "0–1 Orbitale Unterstützung",
           "units": "Ein Kreuzer der Lunar-Klasse",
           "points": 125,
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze durch ein Schlachtschiff der Emperor-Klasse: 50 Punkte"
           ]
         }

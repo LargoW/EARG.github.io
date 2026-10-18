@@ -95,7 +95,7 @@
             {
                 "name": "Kriegsschar der Wilden Reiter",
                 "units": "Acht Wilde Reiter von Saim-Hann, berittener Runenprophet von Saim-Hann",
-                "extraEinheits": [
+                "extraUnits": [
                     "Ersetze bis zu drei Wilde Reiter durch Viper von Saim-Hann und/oder Schleierläufer von Saim-Hann: kostenlos",
                     "(0–1 pro Armee) Ersetze eine Einheit Wilde Reiter durch einen Häuptling der Wilden Reiter: 50 Punkte",
                     "Füge bis zu zwei Saim-Hann-Hornets hinzu: 50 Punkte pro Stück"
@@ -105,7 +105,7 @@
             {
                 "name": "Berittene Gardisten-Kriegsschar",
                 "units": "Drei Wellenschlangen, Runenprophet, fünf Gardisten",
-                "extraEinheits": [
+                "extraUnits": [
                     "Ersetze zwei Eldar-Gardisten durch zwei Eldar-Schwerwaffenplattformen (kostenlos) oder eine Phantomdroiden-Einheit (25 Punkte)",
                     "Füge 1 Feuersturm hinzu: 50 Punkte"
                 ],
@@ -114,7 +114,7 @@
             {
                 "name": "Aspektkrieger-Kriegsschar",
                 "units": "Acht Sternenlanzen und/oder Kriegsfalken",
-                "extraEinheits": [
+                "extraUnits": [
                     "Füge bis zu zwei Exarchen hinzu: 25 Punkte pro Stück"
                 ],
                 "points": 300
@@ -129,7 +129,7 @@
             {
                 "name": "Wildreiter-Truppe",
                 "units": "Sechs Wilde Reiter von Saim-Hann",
-                "extraEinheits": [
+                "extraUnits": [
                     "Ersetze bis zu drei Wilde Reiter durch Viper von Saim-Hann und/oder Schleierläufer von Saim-Hann: kostenlos",
                     "Füge bis zu zwei Saim-Hann-Hornets hinzu: 50 Punkte pro Stück"
                 ],
@@ -138,7 +138,7 @@
             {
                 "name": "Berittener Aspektkriegertrupp",
                 "units": "Drei Wellenschlangen und sechs Aspektkrieger aus folgender Auswahl: Schwarze Khaindar, Asuryans Jäger, Feuerdrachen, Banshees, Skorpionkrieger",
-                "extraEinheits": [
+                "extraUnits": [
                     "Füge 1 Exarch hinzu: 25 Punkte"
                 ],
                 "points": 325
@@ -146,7 +146,7 @@
             {
                 "name": "Kriegsmaschinen von Vaul",
                 "units": "Ein Kriegsmaschine von Vaul aus folgender Auswahl: Kobra, Skorpion, Sturmserpent",
-                "extraEinheits": [
+                "extraUnits": [
                     "Füge bis zu zwei Kobra, Skorpion, und/oder Sturmserpent hinzu: 200 Punkte pro Stück"
                 ],
                 "points": 250
@@ -154,7 +154,7 @@
             {
                 "name": "Schwerter von Vaul",
                 "units": "Drei Falcons, drei Eldar-Gardisten",
-                "extraEinheits": [
+                "extraUnits": [
                     "Ersetze einen Falcon durch einen Feuersturm: kostenlos",
                     "Ersetze bis zu drei Eldar-Gardisten durch Eldar-Schwerwaffenplattformen: kostenlos"
                 ],
@@ -163,14 +163,14 @@
             {
                 "name": "Illum-Zar-Trupp",
                 "units": "Drei Illum Zars",
-                "extraEinheits": [
+                "extraUnits": [
                 ],
                 "points": 250
             },
             {
                 "name": "Nachtspinnen-Trupp",
                 "units": "Drei Nachtspinnen",
-                "extraEinheits": [
+                "extraUnits": [
                     "Füge 1 Nachtspinne hinzu: 75 Punkte"
                 ],
                 "points": 175
@@ -178,14 +178,14 @@
             {
                 "name": "Hornissen-Trupp",
                 "units": "Drei Saim-Hann-Hornets",
-                "extraEinheits": [
+                "extraUnits": [
                 ],
                 "points": 175
             },
             {
                 "name": "Kampfläufer-Trupp",
                 "units": "Vier Kampfläufer",
-                "extraEinheits": [
+                "extraUnits": [
                     "Füge bis zu zwei Kampfläufer hinzu: 25 Punkte pro Stück"
                 ],
                 "points": 150
@@ -199,28 +199,28 @@
         {
           "name": "Nachtschwingen-Staffel",
           "units": "Zwei Nachtschwingen-Abfangjäger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Phönix-Bomberstaffel",
           "units": "Drei Phönix-Bomber (B)",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "Vampire-Jäger",
           "units": "Ein Vampire-Jäger",
-          "extraEinheits": [
+          "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Phantom-Titanen",
           "units": "Zwei Phantom-Titanen",
-          "extraEinheits": [
+          "extraUnits": [
             "Gib dem Verband die Sonderregel 'Unabhängige Zwillinge': 50 Punkte"
           ],
           "points": 650
@@ -228,7 +228,7 @@
         {
           "name": "0–1 Raumschiff",
           "units": "Ein Phantomschiff",
-          "extraEinheits": [
+          "extraUnits": [
             "Ersetze es durch ein Drachenschiff: 125 Punkte"
           ],
           "points": 175
