@@ -402,13 +402,13 @@
           "abbreviation": "O",
           "lists": [
             {
-              "name": "Große Rotte der Bad Moons",
+              "name": "Großer Mob der Bad Moons",
               "file": "gargants",
               "status": "approved",
               "img": "images/Ork_Gargant.jpg"
             },
             {
-              "name": "Kriegsrotte des Goffs-Klans",
+              "name": "Kriegerbande des Goffs-Klans",
               "file": "goffsclan",
               "status": "approved",
               "img": "images/Ork_Goffs.jpg"

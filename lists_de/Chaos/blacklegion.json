@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_BlackLegion",
-  "intro": "Die Armeeorganisationsplan der Black Legion deckt ein breites Spektrum an Chaos-Space-Marine-Kriegsbanden und -Armeen des ungeteilten Chaos ab und bietet daher Zugriff auf mehr Einheitentypen als andere CSM-Listen.",
+  "intro": "Der Armeeorganisationsplan der Black Legion deckt ein breites Spektrum an Chaos-Space-Marine-Kriegsbanden und -Armeen des ungeteilten Chaos ab und bietet daher Zugriff auf mehr Einheitentypen als andere CSM-Listen.",
   "strategy": "Chaos Space Marine-Armeen haben einen Strategiewert von 4.",
   "Initiative": "Kern-, Elite- und Unterstützungsverbände der Black Legion sowie alle Verräter-Titanenverbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
@@ -91,7 +91,7 @@
       "from": "chaosnavy.json",
       "units": [
         "Höllenklinge Abfangjäger",
-        "Höllentalon-Jagdbomber",
+        "Höllenklaue-Jagdbomber",
         "Kreuzer der Devastation-Klasse",
         "Schlachtschiff der Despoiler-Klasse"
       ],
@@ -247,7 +247,7 @@
         },
         {
           "name": "Höllenklaue-Staffel",
-          "units": "Zwei Höllentalon-Jagdbombers",
+          "units": "Zwei Höllenklaue-Jagdbomber",
           "points": 225
         },
         {

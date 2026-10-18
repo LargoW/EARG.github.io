@@ -3,7 +3,7 @@
   "army": "Codex Astartes",
   "version": "1.0.beta",
   "release": "2022-04-01",
-  "intro": "Die Armeeorganisationsplan des Codex Astartes ermöglicht es dir, eine Armee aus einem der Space-Marine-Orden aufzustellen, die den Lehren des Codex Astartes folgen. Ihr flexibler Aufbau erlaubt es dir, eine Armee deines bevorzugten Space-Marine-Ordens auf dem Schlachtfeld zusammenzustellen.",
+  "intro": "Der Armeeorganisationsplan des Codex Astartes ermöglicht es dir, eine Armee aus einem der Space-Marine-Orden aufzustellen, die den Lehren des Codex Astartes folgen. Ihr flexibler Aufbau erlaubt es dir, eine Armee deines bevorzugten Space-Marine-Ordens auf dem Schlachtfeld zusammenzustellen.",
   "armyforge": "EAR_AdeptusAstartes_CodexAstartes",
   "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
   "Initiative": "Die Verbände der Thunderbolt- und Marauder-Staffeln haben einen Initiativwert von 2+. Alle übrigen Verbände haben einen Initiativwert von 1+.",

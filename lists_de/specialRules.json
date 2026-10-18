@@ -112,7 +112,7 @@
     {
       "title": "Schildbohrer",
       "description": [
-        "Waffen mit der Sonderregel <i>Schildbohrer</i> ignorieren Deflektorschilde, Ionenschilde, Energiefelder, Schattenfelder und Null-Schilde (Schattenfelder bieten weiterhin Deckung gegen Beschuss)."
+        "Waffen mit der Sonderregel <i>Schildbohrer</i> ignorieren Deflektorschilde, Ionenschilde, Schpezialfelda, Schattenfelder und Null-Schilde (Schattenfelder bieten weiterhin Deckung gegen Beschuss)."
       ]
     },
     {
@@ -148,7 +148,7 @@
     {
       "title": "Gravfallschirme",
       "description": [
-        "Einheiten mit der Sonderregel <i>Gravfallschirme</i> dürfen innerhalb von 10 cm statt der üblichen 5 cm von einem <i>Antigrav</i>-Transportfahrzeug aussteigen."
+        "Einheiten mit der Sonderregel <i>Gravfallschirme</i> dürfen innerhalb von 10cm statt der üblichen 5cm von einem <i>Antigrav</i>-Transportfahrzeug aussteigen."
       ]
     },
     {
@@ -166,7 +166,7 @@
     {
       "title": "Befestigte Stellungen",
       "description": [
-        "Befestigte Stellungen werden gleichzeitig mit dem Verband aufgestellt, für den sie gekauft wurden. Einheiten dieser Verbände müssen so in den befestigten Stellungen aufgestellt werden, dass kein Platz frei bleibt. Alle Teile einer befestigten Stellung müssen sich innerhalb von 5 cm zu einem anderen Teil befinden. Nach dem Aufstellen gelten befestigte Stellungen als Gelände, das die Sichtlinie nicht blockiert, und sie können von beiden Seiten genutzt werden. INF-Einheiten, die innerhalb einer befestigten Stellung Deckung erhalten, dürfen nur durch eine WE so beiseitegeschoben werden, dass sie nicht aus ihrer Stellung bewegt werden.",
+        "Befestigte Stellungen werden gleichzeitig mit dem Verband aufgestellt, für den sie gekauft wurden. Einheiten dieser Verbände müssen so in den befestigten Stellungen aufgestellt werden, dass kein Platz frei bleibt. Alle Teile einer befestigten Stellung müssen sich innerhalb von 5cm zu einem anderen Teil befinden. Nach dem Aufstellen gelten befestigte Stellungen als Gelände, das die Sichtlinie nicht blockiert, und sie können von beiden Seiten genutzt werden. INF-Einheiten, die innerhalb einer befestigten Stellung Deckung erhalten, dürfen nur durch eine WE so beiseitegeschoben werden, dass sie nicht aus ihrer Stellung bewegt werden.",
         "\u003cb\u003eGeschützstellung\u003c/b\u003e: Gewährt einer INF-Einheit einen Deckungswurf von 4+ oder einer AV- oder LV-Einheit (aber nicht H-AV) einen Deckungswurf von 5+.",
         "\u003cb\u003eBunker\u003c/b\u003e: Gewährt bis zu drei INF-Einheiten einen Deckungswurf von 3+ und Verstärkte Heckpanzerung. Gilt für AV und WE als gefährliches Gelände. Bunker dürfen maximal 8 cm x 8 cm gross sein.",
         "\u003cb\u003eSchützengraben\u003c/b\u003e: Gewährt INF einen Deckungswurf von 4+. Kann eine INF-Einheit pro 4 cm Länge aufnehmen. Gilt für AV als gefährliches Gelände.",
@@ -213,14 +213,14 @@
       "description": [
         "Tunnelbohrer dürfen vor Schlachtbeginn gleichzeitig mit den Raumschiffen aufgestellt werden, sodass sie die eigene Spielfeldkante berühren (siehe 4.3.1). Zu diesem Zeitpunkt müssen auch alle in ihnen transportierten Einheiten beiseitegestellt werden. Notiere geheim den Ort, an dem der Tunnelbohrer auftauchen soll, wie auch die Koordinaten einer Landezone (siehe 4.3.1). Notiere ausserdem geheim die Runde, in der er auftauchen wird. Soll er innerhalb der Aufstellungszone und bis zu 30 cm von einer Spielfeldkante entfernt auftauchen, kann er ab der ersten Runde eintreffen. Liegt der Auftauchpunkt innerhalb der Aufstellungszone und bis zu 65 cm von einer Spielfeldkante entfernt, kann er in Runde zwei erscheinen. Ab der dritten Runde kann er an jeder Stelle des Schlachtfelds erscheinen.",
         "Stelle die Tunnelbohrer zu Beginn der angegebenen Runde am notierten Ort auf, bevor bestimmt wird, wer den Strategiewurf gewinnt. Das Auftauchen gilt nicht als Bewegung und löst daher kein gegnerisches Feuerbereitschaftsfeuer aus. Wäre ein Tunnelbohrer auf Gelände aufgetaucht, das für ihn unpassierbar ist, unter einer befreundeten Einheit oder in einer gegnerischen Kontrollzone, wird angenommen, dass seine Bordsensoren ihn zu einem anderen Einstiegspunkt umleiten. Bewege die Einheit zum nächstgelegenen Ort, an dem sie auftauchen kann.",
-        "Bei Verbänden mit mehreren Tunnelbohrern muss nur ein gemeinsamer Auftauchort notiert werden. Stelle die erste Tunnelbohrer-Einheit dort auf. Alle weiteren Tunnelbohrer müssen innerhalb von 5 cm zu einem bereits aufgestellten Tunnelbohrer und vollständig innerhalb eines Radius von 15 cm um die ursprünglichen Auftauchkoordinaten aufgestellt werden; dieser Punkt darf ausserhalb der Bereiche liegen, in denen Tunnelbohrer in dieser Runde auftauchen können. Beim Auftauchen müssen Tunnelbohrer keine Würfe für gefährliches oder schwieriges Gelände ablegen. Nachdem alle Tunnelbohrer aufgestellt wurden, dürfen transportierte Einheiten sofort aussteigen und bei einem Auftauchen in Runde zwei auch auf der gegnerischen Spielfeldhälfte.",
+        "Bei Verbänden mit mehreren Tunnelbohrern muss nur ein gemeinsamer Auftauchort notiert werden. Stelle die erste Tunnelbohrer-Einheit dort auf. Alle weiteren Tunnelbohrer müssen innerhalb von 5cm zu einem bereits aufgestellten Tunnelbohrer und vollständig innerhalb eines Radius von 15 cm um die ursprünglichen Auftauchkoordinaten aufgestellt werden; dieser Punkt darf ausserhalb der Bereiche liegen, in denen Tunnelbohrer in dieser Runde auftauchen können. Beim Auftauchen müssen Tunnelbohrer keine Würfe für gefährliches oder schwieriges Gelände ablegen. Nachdem alle Tunnelbohrer aufgestellt wurden, dürfen transportierte Einheiten sofort aussteigen und bei einem Auftauchen in Runde zwei auch auf der gegnerischen Spielfeldhälfte.",
         "Das Aussteigen löst wie üblich Feuerbereitschaftsfeuer aus. Tunnelbohrer und alle von ihnen transportierten Einheiten dürfen in der Runde, in der sie erscheinen, eine Aktion durchführen."
       ]
     },
     {
       "title": "Planetare Selbstlandung",
       "description": [
-        "Selbstständige Planetare Landung wird genau wie Planetare Landung geplant (siehe 4.4). Sowohl die Ankunftsrunde als auch der Landeort werden festgelegt. Da diese Einheiten viel kleiner als Raumschiffe im Orbit sind, dürfen sie jedoch in derselben Runde eintreffen, in der sich ein anderes Raumschiff im Orbit befindet. In der festgelegten Runde wird der Verband mit Selbstständiger Planetarer Landung wie ein Raumschiff in der normalen Aktivierungsreihenfolge aktiviert. Bestimme die Aktion des Verbands und würfle zur Aktivierung. Misslingt die Aktivierung, verzögert sich seine Ankunft bis zur nächsten Runde. Gelingt sie, stelle den Verband in der geplanten Landezone auf und ermittle wie bei einer normalen Planetaren Landung die Abweichung gemäß 4.4; eingeschiffte Einheiten dürfen bis zu 5 cm entfernt aussteigen. anschließend wird die Aktion des Verbands in jeder Hinsicht normal fortgesetzt. Der Verband erhält also zu Beginn seiner Aktion die „freie Bewegung“ durch die Platzierung bei der Planetaren Landung, wird ansonsten aber normal aktiviert. Hinweis: Die Aktion wird bei der Aktivierung und vor der Abweichung gewählt. Wähle sie sorgfältig, denn ein ungünstiger Abweichungswurf kann manche Aktionen wirkungslos machen."
+        "Selbstständige Planetare Landung wird genau wie Planetare Landung geplant (siehe 4.4). Sowohl die Ankunftsrunde als auch der Landeort werden festgelegt. Da diese Einheiten viel kleiner als Raumschiffe im Orbit sind, dürfen sie jedoch in derselben Runde eintreffen, in der sich ein anderes Raumschiff im Orbit befindet. In der festgelegten Runde wird der Verband mit Selbstständiger Planetarer Landung wie ein Raumschiff in der normalen Aktivierungsreihenfolge aktiviert. Bestimme die Aktion des Verbands und würfle zur Aktivierung. Misslingt die Aktivierung, verzögert sich seine Ankunft bis zur nächsten Runde. Gelingt sie, stelle den Verband in der geplanten Landezone auf und ermittle wie bei einer normalen Planetaren Landung die Abweichung gemäß 4.4; eingeschiffte Einheiten dürfen bis zu 5cm entfernt aussteigen. anschließend wird die Aktion des Verbands in jeder Hinsicht normal fortgesetzt. Der Verband erhält also zu Beginn seiner Aktion die „freie Bewegung“ durch die Platzierung bei der Planetaren Landung, wird ansonsten aber normal aktiviert. Hinweis: Die Aktion wird bei der Aktivierung und vor der Abweichung gewählt. Wähle sie sorgfältig, denn ein ungünstiger Abweichungswurf kann manche Aktionen wirkungslos machen."
       ]
     },
     {
@@ -244,7 +244,7 @@
     {
       "title": "Erweiterte Befehlsreichweite",
       "description": [
-        "Verbände mit mindestens einer Einheit mit der Fähigkeit \u003ci\u003eExtended Command\u003c/i\u003e vergrössern die Reichweite, innerhalb derer Kommandeure in ihrem Verband andere Verbände bei einem gemeinsamen Angriff zum Folgen auffordern können, von 5 cm auf 15 cm (siehe 2.1.2)."
+        "Verbände mit mindestens einer Einheit mit der Fähigkeit \u003ci\u003eExtended Command\u003c/i\u003e vergrössern die Reichweite, innerhalb derer Kommandeure in ihrem Verband andere Verbände bei einem gemeinsamen Angriff zum Folgen auffordern können, von 5cm auf 15 cm (siehe 2.1.2)."
       ]
     },
     {
@@ -258,7 +258,7 @@
       "title": "Space-Marine-Transporter",
       "description": [
         "Space Marines sind eine sehr bewegliche Armee. Daher sind in den Punktkosten eines Kontingents normalerweise genügend Rhino-Transportfahrzeuge enthalten, um es und alle gekauften Aufwertungen zu transportieren. Bestimme die benötigte Anzahl Rhinos, nachdem alle Aufwertungen gekauft wurden. Es werden immer nur so viele Rhinos mitgeführt, wie zum Transport des Verbands mindestens erforderlich sind; zusätzliche Fahrzeuge als Ersatz für Verluste sind nicht erlaubt.",
-        "Beachte, dass viele Verbände keine Rhinos erhalten, meist weil sie nicht hineinpassen. Kontingente mit Rhinos sind im Einheitenabschnitt der gegenüberliegenden Armeeorganisationsplan mit „plus Transport“ gekennzeichnet.",
+        "Beachte, dass viele Verbände keine Rhinos erhalten, meist weil sie nicht hineinpassen. Kontingente mit Rhinos sind im Einheitenabschnitt des Armeeorganisationsplan mit „plus Transport“ gekennzeichnet.",
         "Du musst keine Rhinos mitnehmen, wenn du das nicht möchtest. Du kannst den Verband stattdessen zu Fuß einsetzen, zum Beispiel als Garnison, oder ihn in einem Thunderhawk transportieren.",
         "außerdem kannst du die Rhinos eines Kontingents durch Landungskapseln ersetzen. In diesem Fall kommt das Kontingent gemäß den Regeln für Planetare Landung (siehe Planetare Landung) in einer Landungskapsel ins Spiel. Beachte, dass du dafür auch einen Space-Marine-Schlachtkreuzer oder eine Kampfbarge benötigst, von dem aus die Landungskapseln eingesetzt werden.",
         "Vor jedem Spiel kann der Space-Marine-Spieler, nachdem die gegnerische Armee bekannt ist, aber bevor Missionsziele platziert werden, auswählen, welche Verbände mit der Aufwertung „plus Transport“ in Rhinos, Landungskapseln oder zu Fuß aufgestellt werden. Enthält ein Verband Einheiten, die nicht in Landungskapseln aufgestellt werden können, darf diese Option nicht ausgewählt werden."
@@ -280,7 +280,7 @@
       "title": "Imperial-Fists-Transporter",
       "description": [
         "Die Imperial Fists sind eine sehr bewegliche Armee. Daher sind in den Punktkosten eines Kontingents normalerweise genügend Rhino-Transportfahrzeuge enthalten, um es und alle gekauften Aufwertungen zu transportieren. Bestimme die benötigte Anzahl Rhinos, nachdem alle Aufwertungen gekauft wurden. Es werden immer nur so viele Rhinos mitgeführt, wie zum Transport des Verbands mindestens erforderlich sind; zusätzliche Fahrzeuge als Ersatz für Verluste sind nicht erlaubt.",
-        "Beachte, dass viele Verbände keine Rhinos erhalten, meist weil sie nicht hineinpassen. Kontingente mit Rhinos sind im Einheitenabschnitt der gegenüberliegenden Armeeorganisationsplan mit „plus Transport“ gekennzeichnet.",
+        "Beachte, dass viele Verbände keine Rhinos erhalten, meist weil sie nicht hineinpassen. Kontingente mit Rhinos sind im Einheitenabschnitt des Armeeorganisationsplan mit „plus Transport“ gekennzeichnet.",
         "Du musst keine Rhinos mitnehmen, wenn du das nicht möchtest. Du kannst den Verband stattdessen zu Fuß einsetzen, zum Beispiel als Garnison.",
         "Vor jedem Spiel kann der Spieler der Imperial Fists, nachdem die gegnerische Armee bekannt ist, aber bevor Missionsziele platziert werden, auswählen, welche Verbände mit der Aufwertung „plus Transport“ in Rhinos oder zu Fuß aufgestellt werden."
       ]
@@ -288,7 +288,7 @@
     {
       "title": "Im Sattel geboren",
       "description": [
-        "Die White Scars sind Meister blitzschneller Störangriffe und lassen dem Gegner nie zu, einen entscheidenden oder statischen Kampf zu erzwingen. Einheiten mit \u003ci\u003eIm Sattel geboren\u003c/i\u003e dürfen sich bis zu 15 cm statt der üblichen 5 cm neu formieren."
+        "Die White Scars sind Meister blitzschneller Störangriffe und lassen dem Gegner nie zu, einen entscheidenden oder statischen Kampf zu erzwingen. Einheiten mit \u003ci\u003eIm Sattel geboren\u003c/i\u003e dürfen sich bis zu 15 cm statt der üblichen 5cm neu formieren."
       ]
     },
     {
@@ -315,7 +315,7 @@
     {
       "title": "Ad-hoc-Kontingente",
       "description": [
-        "Das Ordo Xenos musste aus der Notwendigkeit heraus zum Experten für Improvisation werden, rasch lokale Verbündete sammeln und sich an die ständig wechselnden Fähigkeiten und Mitglieder der Deathwatch anpassen. Deshalb dürfen Verbände mit Befehlshaber die Fähigkeit auch einsetzen, wenn ihr eigener oder ein anderer befreundeter Verband innerhalb von 5 cm gegen einen Angriff verteidigt; erkläre beide Verbände dabei als vermischt (siehe 1.12.10). Nach der Erklärung als vermischt folgen die Verbände des Commanders genau denselben Regeln, als hätte der Gegner sie als vermischt erklärt. Beachte: Erklärt ein Spieler die Verbände als vermischt, gelten sie als vermischt."
+        "Das Ordo Xenos musste aus der Notwendigkeit heraus zum Experten für Improvisation werden, rasch lokale Verbündete sammeln und sich an die ständig wechselnden Fähigkeiten und Mitglieder der Deathwatch anpassen. Deshalb dürfen Verbände mit Befehlshaber die Fähigkeit auch einsetzen, wenn ihr eigener oder ein anderer befreundeter Verband innerhalb von 5cm gegen einen Angriff verteidigt; erkläre beide Verbände dabei als vermischt (siehe 1.12.10). Nach der Erklärung als vermischt folgen die Verbände des Commanders genau denselben Regeln, als hätte der Gegner sie als vermischt erklärt. Beachte: Erklärt ein Spieler die Verbände als vermischt, gelten sie als vermischt."
       ]
     },
     {
@@ -334,7 +334,7 @@
     {
       "title": "Lucifer-Muster-Maschine",
       "description": [
-        "Einheiten mit der Sonderregel Lucifer-Muster-Maschine erhalten bei einer Offensive zusätzlich 5 cm Geschwindigkeit."
+        "Einheiten mit der Sonderregel Lucifer-Muster-Maschine erhalten bei einer Offensive zusätzlich 5cm Geschwindigkeit."
       ]
     },
     {
@@ -588,7 +588,7 @@
     {
       "title": "Schlag und Flucht",
       "description": [
-        "Eldar-, Drukhari- und Harlekin-Verbände, die Vorrücken oder einen Eilschritt durchführen, dürfen vor oder nach jeder Bewegung Schießen, aber insgesamt weiterhin nur einmal. Entscheidet sich der Verband für einen Eilschritt, gilt der Trefferwurfmodifikator von -1 auch dann, wenn vor der Bewegung geschossen wird. außerdem dürfen Verbände, die einen Nahkampf gewinnen, sich bis zu ihrem Geschwindigkeitswert statt der üblichen 5 cm neu formieren."
+        "Eldar-, Drukhari- und Harlekin-Verbände, die Vorrücken oder einen Eilschritt durchführen, dürfen vor oder nach jeder Bewegung Schießen, aber insgesamt weiterhin nur einmal. Entscheidet sich der Verband für einen Eilschritt, gilt der Trefferwurfmodifikator von -1 auch dann, wenn vor der Bewegung geschossen wird. außerdem dürfen Verbände, die einen Nahkampf gewinnen, sich bis zu ihrem Geschwindigkeitswert statt der üblichen 5cm neu formieren."
       ]
     },
     {
@@ -610,7 +610,7 @@
       "title": "Unabhängige Zwillinge",
       "description": [
         "Die Sonderregel Unabhängige Zwillinge erlaubt einem Kriegsmaschinenverband, in jeder Hinsicht als zwei unabhängige Kriegsmaschinen zu agieren, auch bei der Bestimmung des BTS der Armee (jede Einheit gilt als eigener Verband und ist die Hälfte des ursprünglichen Verbandspunkts einschliesslich Aufwertungen wert). Wird eine der beiden Kriegsmaschinen zerstört, erhält die überlebende sofort eine Beschussmarke.",
-        "außerdem dürfen Unabhängige Zwillinge die Befehlshaber-Fähigkeit gemeinsam mit ihrem Zwilling einsetzen. In diesem Fall hat die Befehlshaber-Fähigkeit unbegrenzte statt der normalen Reichweite von 5 cm."
+        "außerdem dürfen Unabhängige Zwillinge die Befehlshaber-Fähigkeit gemeinsam mit ihrem Zwilling einsetzen. In diesem Fall hat die Befehlshaber-Fähigkeit unbegrenzte statt der normalen Reichweite von 5cm."
       ]
     },
     {
@@ -644,7 +644,7 @@
         "Dämonenpools sind nicht fraktionsgebunden. Die Grösse der Dämonenpools muss jederzeit für alle Spieler sichtbar sein; es wird empfohlen, ihre Grösse mit Markern oder Würfeln anzuzeigen. Beim Beschwören von Dämonen muss der Pool angepasst werden.",
         "Um Dämonen zu beschwören, kündigt der Verband dies an, bevor ein Aktionswurf abgelegt wird (aber nachdem die Aktion ausgewählt wurde). Wird der beschwörende Verband in einem anderen Verband transportiert (z. B. in einem Chaos-Thunderhawk), kann er nicht beschwören, wenn das Chaos-Thunderhawk aktiviert wird.",
         "Der Spieler würfelt anschliessend 2D3, um die Anzahl der Beschwörungspunkte dieses Verbands zu ermitteln. Der Verband darf dann Dämonen bis zur Höhe der erzielten Beschwörungspunkte beschwören; nicht verwendete Punkte verfallen. Die Anzahl ist ausserdem durch die noch verfügbaren Punkte im Pool der niederen oder grossen Dämonen begrenzt.",
-        "Beschworene Einheiten müssen vollständig innerhalb von 5 cm zu einer nicht beschworenen Einheit des beschwörenden Verbands aufgestellt werden (eine Kette beschworener Einheiten ist also nicht erlaubt). Hat der Verband die Fähigkeit Transport, dürfen neu beschworene Einheiten bei ausreichendem Platz darin aufgestellt werden. Sie dürfen nicht in gegnerischen Kontrollzonen oder auf unpassierbarem Gelände platziert werden. Beschworene Einheiten gehören regeltechnisch zum beschwörenden Verband, solange sie sich auf dem Schlachtfeld befinden.",
+        "Beschworene Einheiten müssen vollständig innerhalb von 5cm zu einer nicht beschworenen Einheit des beschwörenden Verbands aufgestellt werden (eine Kette beschworener Einheiten ist also nicht erlaubt). Hat der Verband die Fähigkeit Transport, dürfen neu beschworene Einheiten bei ausreichendem Platz darin aufgestellt werden. Sie dürfen nicht in gegnerischen Kontrollzonen oder auf unpassierbarem Gelände platziert werden. Beschworene Einheiten gehören regeltechnisch zum beschwörenden Verband, solange sie sich auf dem Schlachtfeld befinden.",
         "Beschworene niedere Dämonen sind Verbrauchbar, gelten ansonsten jedoch als normale Einheiten und werden berücksichtigt, wenn ermittelt wird, ob ein Verband einen Gegner im Nahkampf zahlenmässig übertrifft oder durch Beschussmarken aufgerieben wird usw. Im Nahkampf getötete Dämonen zählen auch zur Anzahl der vom Gegner ausgeschalteten Einheiten, wenn Modifikatoren für das Nahkampfergebnis ermittelt werden.",
         "Beschworene Einheiten bleiben bis zur Endphase der Runde im Spiel, in der sie beschworen wurden. Nachdem alle Verbände versucht haben, sich zu sammeln, werden alle beschworenen Einheiten vom Spielfeld entfernt und ihre Poolkosten dem jeweiligen Dämonenpool zurückerstattet. Dadurch kann der Verband aufgerieben werden, wenn seine Beschussmarken nun der Anzahl seiner Einheiten entsprechen oder sie übersteigen.",
         "Wird ein Verband aufgerieben, werden alle von ihm beschworenen Einheiten zerstört.",
@@ -1021,7 +1021,7 @@
       "title": "Alpha-Legion-Transporter",
       "description": [
         "Die Alpha Legion ist eine sehr bewegliche Armee. Daher sind in den Punktkosten eines Kontingents normalerweise genügend Rhino-Transportfahrzeuge enthalten, um es und alle gekauften Aufwertungen zu transportieren. Bestimme die benötigte Anzahl Rhinos, nachdem alle Aufwertungen gekauft wurden. Es werden immer nur so viele Rhinos mitgeführt, wie zum Transport des Verbands mindestens erforderlich sind; zusätzliche Fahrzeuge als Ersatz für Verluste sind nicht erlaubt.",
-        "Beachte, dass viele Verbände keine Rhinos erhalten, meist weil sie nicht hineinpassen. Kontingente mit Rhinos sind im Einheitenabschnitt der gegenüberliegenden Armeeorganisationsplan mit „plus Transport“ gekennzeichnet.",
+        "Beachte, dass viele Verbände keine Rhinos erhalten, meist weil sie nicht hineinpassen. Kontingente mit Rhinos sind im Einheitenabschnitt des Armeeorganisationsplan mit „plus Transport“ gekennzeichnet.",
         "Du musst keine Rhinos mitnehmen, wenn du das nicht möchtest. Du kannst den Verband stattdessen zu Fuß einsetzen, zum Beispiel als Garnison, oder ihn in einem Sturmadler transportieren.",
         "außerdem kannst du die Rhinos eines Kontingents durch Landungskapseln ersetzen. In diesem Fall kommt das Kontingent gemäß den Regeln für Planetare Landung in Landungskapseln ins Spiel (siehe Planetare Landung). Beachte, dass du dafür auch einen Chaos-Schlachtkreuzer benötigst, von dem aus die Landungskapseln eingesetzt werden.",
         "Vor jedem Spiel kann der Spieler der Alpha Legion, nachdem die gegnerische Armee bekannt ist, aber bevor Missionsziele platziert werden, auswählen, welche Verbände mit „plus Transport“ in Rhinos, Landungskapseln oder zu Fuß aufgestellt werden. Enthält ein Verband Einheiten, die nicht in Landungskapseln aufgestellt werden können, darf diese Option nicht ausgewählt werden."
@@ -1085,7 +1085,7 @@
       "title": "Necron-Portale",
       "description": [
         "Necron-Portale dürfen nur von INF sowie von AV- oder LV-Einheiten mit \u003ci\u003eGeländegängig\u003c/i\u003e verwendet werden. Jedes Portal darf pro Runde entweder zum Betreten oder zum Verlassen des Schlachtfelds verwendet werden, aber nicht für beides.",
-        "Ein Verband in Reserve darf im Rahmen jeder bewegungserlaubenden Aktion durch eine Einheit mit \u003ci\u003ePortal\u003c/i\u003e ins Spiel kommen. Miss seine Bewegung vom Mittelpunkt des Missionsziels (bei einem Gruftkomplex) oder von der Kante der Einheit aus. Verbände dürfen das Spielfeld auch durch ein Portal verlassen und in die Reserve zurückkehren. Ein Portal kann Einheiten außerdem ähnlich wie ein Lufttransporter aufnehmen. Endet die Aktion einer Einheit mit \u003ci\u003ePortal\u003c/i\u003e innerhalb von 5 cm zu allen Einheiten eines befreundeten Verbands, darf der Necron-Spieler das Portal aktivieren, um diesen Verband in Reserve zu versetzen. Aufgeriebene Einheiten mit \u003ci\u003ePortal\u003c/i\u003e dürfen nicht auf diese Weise Verbände aufnehmen.",
+        "Ein Verband in Reserve darf im Rahmen jeder bewegungserlaubenden Aktion durch eine Einheit mit \u003ci\u003ePortal\u003c/i\u003e ins Spiel kommen. Miss seine Bewegung vom Mittelpunkt des Missionsziels (bei einem Gruftkomplex) oder von der Kante der Einheit aus. Verbände dürfen das Spielfeld auch durch ein Portal verlassen und in die Reserve zurückkehren. Ein Portal kann Einheiten außerdem ähnlich wie ein Lufttransporter aufnehmen. Endet die Aktion einer Einheit mit \u003ci\u003ePortal\u003c/i\u003e innerhalb von 5cm zu allen Einheiten eines befreundeten Verbands, darf der Necron-Spieler das Portal aktivieren, um diesen Verband in Reserve zu versetzen. Aufgeriebene Einheiten mit \u003ci\u003ePortal\u003c/i\u003e dürfen nicht auf diese Weise Verbände aufnehmen.",
         "Wenn ein Verband in Reserve versetzt wird, darf er sofort durch ein anderes \u003ci\u003ePortal\u003c/i\u003e wieder ins Spiel kommen oder in Reserve bleiben. Das Betreten oder Verlassen eines \u003ci\u003ePortals\u003c/i\u003e erfordert eine vollständige Bewegung: Ein Verband mit einer Doppelaktion darf das Schlachtfeld also mit der ersten Bewegung verlassen und mit der zweiten durch ein anderes \u003ci\u003ePortal\u003c/i\u003e wieder betreten. Bei Vorrücken oder einer Offensive darf ein Verband jedoch nicht im Rahmen derselben Bewegung ein Portal betreten und ein anderes verlassen. Einheiten, die sich am Ende einer Bewegung außerhalb der Verband befinden, werden zerstört. Ein durch ein \u003ci\u003ePortal\u003c/i\u003e aufgenommener Verband muss in Reserve bleiben, bis er aktiviert werden kann, um ins Spiel zurückzukehren. Er darf in derselben Runde wieder aktiviert werden, in der er aufgenommen wurde, sofern er davor noch nicht aktiviert worden war.",
         "Jedes Mal, wenn ein Verband ein \u003ci\u003ePortal\u003c/i\u003e einer aufgeriebenen Einheit verwendet, erhält er eine Beschussmarke. Dies gilt auch für aufgeriebene Verbände, die ein aufgeriebenes Portal verwenden; dabei geht eine Einheit verloren, sofern nicht alle Einheiten Furchtlos sind.",
         "Befindet sich ein \u003ci\u003ePortal\u003c/i\u003e in einer gegnerischen Kontrollzone, muss jeder hindurchkommende Verband den blockierenden Verband offensiv angreifen. Befindet sich das Portal zudem direkt unter einer gegnerischen Einheit, darf der Verband das Schlachtfeld weiterhin durch das Portal betreten, muss aber so viel Basekontakt wie möglich mit den blockierenden Einheiten herstellen."
@@ -1116,9 +1116,9 @@
       ]
     },
     {
-      "title": "Großer Mek",
+      "title": "Big Mek",
       "description": [
-        "Jede Armee der Großen Gargant-Rotte muss einen kostenlosen Oberbefehlshaber namens Großer Mek enthalten. Der Große Mek schließt sich der teuersten Kriegsmaschine der Armee an."
+        "Jede Armee der Großen Gargant-Mobs muss einen kostenlosen Oberbefehlshaber namens Big Mek enthalten. Der Big Mek schließt sich der teuersten Kriegsmaschine der Armee an."
       ]
     },
     {
@@ -1128,9 +1128,9 @@
       ]
     },
     {
-      "title": "Energiefelder",
+      "title": "Schpezialfelda",
       "description": [
-        "Einige Ork-Kriegsmaschinen werden durch Energiefelder geschützt. Die Anzahl der Energiefelder jeder Kriegsmaschine ist auf ihrem Datenblatt angegeben. Energiefelder funktionieren genau wie Null-Schilde (siehe Null-Schilde), ausser dass sie nach dem Ausschalten durch einen Treffer nicht repariert werden können und für den Rest der Schlacht ausgefallen bleiben. Bei einer variablen Anzahl Energiefelder wird direkt nach der Aufstellung des Verbands auf dem Spielfeld oder ausserhalb des Spielfelds für sie gewürfelt."
+        "Einige Ork-Kriegsmaschinen werden durch Schpezialfelda geschützt. Die Anzahl der Schpezialfelda jeder Kriegsmaschine ist auf ihrem Datenblatt angegeben. Schpezialfelda funktionieren genau wie Null-Schilde (siehe Null-Schilde), ausser dass sie nach dem Ausschalten durch einen Treffer nicht repariert werden können und für den Rest der Schlacht ausgefallen bleiben. Bei einer variablen Anzahl Schpezialfelda wird direkt nach der Aufstellung des Verbands auf dem Spielfeld oder ausserhalb des Spielfelds für sie gewürfelt."
       ]
     },
     {
@@ -1144,7 +1144,7 @@
     {
       "title": "Waaaghbosse des Snakebite-Klans",
       "description": [
-        "Jede Armee des Snakebite-Klans muss einen kostenlosen Oberbefehlshaber namens Klanlord enthalten. Für den Klanlord müssen keine Punkte bezahlt werden. Er muss einer Brutes-Einheit im stärksten Verband der Armee angeschlossen werden, also dem Verband mit den meisten Einheiten, der ebenfalls eine Brutes-Einheit enthält. Kriegsmaschinen zählen als eine Einheit pro Schadenskapazitätspunkt."
+        "Jede Armee des Snakebite-Klans muss einen kostenlosen Oberbefehlshaber namens Waaaghboss enthalten. Für den Waaaghboss müssen keine Punkte bezahlt werden. Er muss einer Brutes-Einheit im stärksten Verband der Armee angeschlossen werden, also dem Verband mit den meisten Einheiten, der ebenfalls eine Brutes-Einheit enthält. Kriegsmaschinen zählen als eine Einheit pro Schadenskapazitätspunkt."
       ]
     },
     {
@@ -1162,7 +1162,7 @@
     {
       "title": "Los geht's",
       "description": [
-        "Einheiten mit der Sonderregel Los geht's erhalten zusätzlich 5 cm Geschwindigkeit, wenn ihr Verband eine Offensive durchführt."
+        "Einheiten mit der Sonderregel Los geht's erhalten zusätzlich 5cm Geschwindigkeit, wenn ihr Verband eine Offensive durchführt."
       ]
     },
     {
@@ -1180,7 +1180,7 @@
     {
       "title": "Waaaghboss des Goffs-Klans",
       "description": [
-        "Jede Kriegsrotte muss einen kostenlosen Oberbefehlshaber namens Klanlord enthalten. Enthält die Armee Große Gargants, muss der Klanlord einem davon angeschlossen werden. Andernfalls schließt er sich einer Gargant- oder Bosse-Einheit an."
+        "Jede Kriegerbande muss einen kostenlosen Oberbefehlshaber namens Waaaghboss enthalten. Enthält die Armee Große Garganten, muss der Waaaghboss einem davon angeschlossen werden. Andernfalls schließt er sich einer Gargant- oder Bosse-Einheit an."
       ]
     },
     {
@@ -1226,7 +1226,7 @@
     {
       "title": "Tau-Sprungmodule",
       "description": [
-        "Tau-Sprungmodule folgen allen Regeln für Sprungmodule. Verbände, die ausschliesslich aus Einheiten mit Tau-Sprungmodulen bestehen, dürfen am Ende einer Aktion Vorrücken, Eilschritt oder Marsch zusätzlich bis zu 10 cm weit bewegt werden. Diese zusätzliche Bewegung ist unabhängig davon erlaubt, ob die Einheit feuert, und erfolgt nach dem Schiessen. Sie darf in jede Richtung führen und folgt allen normalen Bewegungsregeln; Einheiten müssen also wie üblich den Zusammenhalt und Kontrollzonen beachten."
+        "Tau-Sprungmodule folgen allen Regeln für Sprungmodule. Verbände, die ausschliesslich aus Einheiten mit Tau-Sprungmodulen bestehen, dürfen am Ende einer Aktion Vorrücken, Eilschritt oder Marsch zusätzlich bis zu 10cm weit bewegt werden. Diese zusätzliche Bewegung ist unabhängig davon erlaubt, ob die Einheit feuert, und erfolgt nach dem Schiessen. Sie darf in jede Richtung führen und folgt allen normalen Bewegungsregeln; Einheiten müssen also wie üblich den Zusammenhalt und Kontrollzonen beachten."
       ]
     },
     {
@@ -1239,7 +1239,7 @@
       "title": "Synapse",
       "description": [
         "Die folgenden Regeln gelten nur für Primär- und Sekundär-Synapsenschwarm-Verbände. Synapsenkreaturen sind alle Einheiten mit der Sonderregel \u003ci\u003eSynapse\u003c/i\u003e. Ein Synapsenschwarm ohne verbliebene Synapsenkreaturen hat einen Initiativwert von 3+ und darf weder Missionsziele einnehmen noch bestreiten, einschliesslich „Sie Können Nicht Vorbei“.",
-        "Ein Synapsenschwarm mit verbliebenen Synapsenkreaturen darf am Ende seiner Aktion andere Synapsenschwarm-Verbände ohne verbliebene Synapsenkreaturen aufnehmen. Eine Einheit des aufnehmenden Verbands muss sich innerhalb von 5 cm zu einer Einheit der aufzunehmenden Verbände befinden. Einheiten und Beschussmarken des aufgenommenen Verbands werden Teil des aufnehmenden Verbands (aufgeriebene Verbände gelten als hätten sie so viele Beschussmarken wie verbliebene Einheiten bzw. anfängliche DC). Für das Ziel Brecht Ihren Willen gilt der aufgenommene Verband als vollständig zerstört."
+        "Ein Synapsenschwarm mit verbliebenen Synapsenkreaturen darf am Ende seiner Aktion andere Synapsenschwarm-Verbände ohne verbliebene Synapsenkreaturen aufnehmen. Eine Einheit des aufnehmenden Verbands muss sich innerhalb von 5cm zu einer Einheit der aufzunehmenden Verbände befinden. Einheiten und Beschussmarken des aufgenommenen Verbands werden Teil des aufnehmenden Verbands (aufgeriebene Verbände gelten als hätten sie so viele Beschussmarken wie verbliebene Einheiten bzw. anfängliche DC). Für das Ziel Brecht Ihren Willen gilt der aufgenommene Verband als vollständig zerstört."
       ]
     },
     {
@@ -1307,7 +1307,7 @@
       "description": [
         "Die Hive-Fleet-Hydra-Armee darf während der Schlacht Ganten hervorbringen, um ihre Reihen zu verstärken. Die Armee beginnt das Spiel mit einem Schwarm-Pool ausserhalb des Spielfelds. Beim Erstellen der Armee gekaufte Schwarm-Pool-Punkte ermöglichen es, Verbänden, die schwarmen, Einheiten mit der Sonderregel \u003ci\u003eGanten\u003c/i\u003e hinzuzufügen. Die Grösse des Schwarm-Pools muss jederzeit für alle Spieler sichtbar sein; es wird empfohlen, sie mit Markern oder Würfeln anzuzeigen. Beim Hervorbringen von Ganten muss die Poolgrösse angepasst werden. Du darfst jeden in der Armee verfügbaren Einheitentyp mit der Sonderregel \u003ci\u003eGanten\u003c/i\u003e hervorbringen, unabhängig von der ursprünglichen Zusammensetzung des Verbands.",
 
-        "In der Endphase, bevor sich Verbände gesammelt haben, darf jeder Tyraniden-Verband mit mindestens einer Einheit mit \u003ci\u003eSynapse\u003c/i\u003e schwarmen. Würfle 1D3, um die Anzahl der dem Verband verfügbaren Erzeugungspunkte zu bestimmen (modifiziert durch die Sonderregeln \u003ci\u003eVerstärkte Schwarmbildung (+x)\u003c/i\u003e und \u003ci\u003eUnterstützte Schwarmbildung\u003c/i\u003e). Der Verband darf anschliessend Ganten bis zur Höhe der erzielten Erzeugungspunkte hervorbringen. Alle so hinzugefügten Einheiten müssen innerhalb von 5 cm zu bereits vor dem Schwarmen auf dem Spielfeld befindlichen Einheiten platziert werden und dürfen nicht in gegnerischen Kontrollzonen oder auf unpassierbarem Gelände aufgestellt werden. Auch aufgeriebene Verbände dürfen schwarmen, müssen aber zwei Erzeugungspunkte pro hinzugefügter Einheit ausgeben.",
+        "In der Endphase, bevor sich Verbände gesammelt haben, darf jeder Tyraniden-Verband mit mindestens einer Einheit mit \u003ci\u003eSynapse\u003c/i\u003e schwarmen. Würfle 1D3, um die Anzahl der dem Verband verfügbaren Erzeugungspunkte zu bestimmen (modifiziert durch die Sonderregeln \u003ci\u003eVerstärkte Schwarmbildung (+x)\u003c/i\u003e und \u003ci\u003eUnterstützte Schwarmbildung\u003c/i\u003e). Der Verband darf anschliessend Ganten bis zur Höhe der erzielten Erzeugungspunkte hervorbringen. Alle so hinzugefügten Einheiten müssen innerhalb von 5cm zu bereits vor dem Schwarmen auf dem Spielfeld befindlichen Einheiten platziert werden und dürfen nicht in gegnerischen Kontrollzonen oder auf unpassierbarem Gelände aufgestellt werden. Auch aufgeriebene Verbände dürfen schwarmen, müssen aber zwei Erzeugungspunkte pro hinzugefügter Einheit ausgeben.",
 
         "Ein Verband, der sich sammelt, darf den Wurf ausserdem verwenden, um entweder Einheiten aus dem Schwarm-Pool hervorzubringen oder Beschussmarken zu entfernen. Bei einem Sammelwurf von 3 kann ein Verband zum Beispiel drei Beschussmarken entfernen, drei Ganten hervorbringen oder eine Beschussmarke entfernen und zwei Ganten hervorbringen."
       ]
@@ -1351,7 +1351,7 @@
     {
       "title": "Einsatz des Overlords",
       "description": [
-        "Einige Primaris Space Marines sind mit schweren Sprungmodulen oder Gravfallschirme ausgerüstet, die dafür vorgesehen sind, sie aus niedriger Umlaufbahn von den Landebuchten tief fliegender Angriffsschiffe auf das Schlachtfeld abzusetzen. Dies wird dadurch dargestellt, dass der Verband die Sonderregel \u003ci\u003eSelbststaendige Planetare Landung\u003c/i\u003e erhält, mit einer Ausnahme: Würfle nur für die erste Einheit des Verbands auf Abweichung. Stelle anschliessend alle übrigen Einheiten innerhalb von 5 cm zur ersten Einheit auf."
+        "Einige Primaris Space Marines sind mit schweren Sprungmodulen oder Gravfallschirme ausgerüstet, die dafür vorgesehen sind, sie aus niedriger Umlaufbahn von den Landebuchten tief fliegender Angriffsschiffe auf das Schlachtfeld abzusetzen. Dies wird dadurch dargestellt, dass der Verband die Sonderregel \u003ci\u003eSelbststaendige Planetare Landung\u003c/i\u003e erhält, mit einer Ausnahme: Würfle nur für die erste Einheit des Verbands auf Abweichung. Stelle anschliessend alle übrigen Einheiten innerhalb von 5cm zur ersten Einheit auf."
       ]
     }
   ]

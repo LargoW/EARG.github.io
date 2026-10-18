@@ -108,11 +108,11 @@
       ]
     },
     {
-      "name": "Lugganath-Kriegsrotten/Phantomrotten",
-      "description": "Für jede Kriegsrotte von Lugganath darf bis zu eine Phantomrotte von Lugganath gewählt werden.",
+      "name": "Lugganath-Kriegsscharn/Phantomkriegsscharn",
+      "description": "Für jede Kriegsschar von Lugganath darf bis zu eine Phantomkriegsschar von Lugganath gewählt werden.",
       "formations": [
         {
-          "name": "Kriegsrotte von Lugganath",
+          "name": "Kriegsschar von Lugganath",
           "units": "Ein Eldar-Runenprophet, vier Gardisten, fünf Schattenvipers",
           "extraEinheits": [
             "Eldar-Autarch",
@@ -121,7 +121,7 @@
           "points": 250
         },
         {
-          "name": "Phantomrotte von Lugganath",
+          "name": "Phantomkriegsschar von Lugganath",
           "units": "Ein Geisterseher, vier Phantom-Schnitter, vier Wellenschlangen",
           "extraEinheits": [
           ],
@@ -131,7 +131,7 @@
     },
     {
       "name": "Lugganath-Trupps",
-      "description": "Für jede Kriegsrotte oder Phantomrotte von Lugganath darf ein Lugganath-Trupp gewählt werden.",
+      "description": "Für jede Kriegsschar oder Phantomkriegsschar von Lugganath darf ein Lugganath-Trupp gewählt werden.",
       "formations": [
         {
           "name": "Korsaren-Aufklärer",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Saedaths der Maske des Verhüllten Pfads",
-      "description": "Für jede Kriegsrotte oder Phantomrotte aus Lugganath darf eine Saedath des Verhüllten Pfads gewählt werden.",
+      "description": "Für jede Kriegsschar oder Phantomkriegsschar aus Lugganath darf eine Saedath des Verhüllten Pfads gewählt werden.",
       "formations": [
         {
           "name": "Cegorachs Entkommen",

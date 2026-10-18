@@ -2138,7 +2138,7 @@
           "Unmodifizierter Rettungswurf",
           "Transport"
         ],
-        "notes": "Kann 12 Infanterieeinheiten oder Cybots transportieren; Terminatoren und Cybots zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer Cybots) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet). Effekt eines Kritischen Treffers: Die Einheit und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 4+ einen Treffer."
+        "notes": "Kann 12 Infanterieeinheiten oder Cybots transportieren; Terminatoren und Cybots zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer Cybots) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet). Effekt eines Kritischen Treffers: Die Einheit und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 4+ einen Treffer."
       },
       {
         "name": "Stormwolf-Sturmboot",
@@ -2607,7 +2607,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "Kann nur eine Verband aus folgenden Einheiten transportieren: Taktische Trupps, Devastor-Trupps, Cybot, Sternguard-Veteranen, Wolfsgarde-Terminatoren, Grey-Knights-Angriffstrupp oder Grey-Knights-Purgatortrupp. Nach der Landung der Landungskapsel greift ihr Todeswind alle gegnerischen Einheiten innerhalb von 15 cm an. Jede angegriffene gegnerische Verband erhält einen Beschussmarker dafür, dass sie unter Beschuss gerät, sowie einen zusätzlichen Beschussmarker pro Verlust. Anschließend müssen alle in der Landungskapsel transportierten Truppen innerhalb von 5 cm zur Landungskapsel oder innerhalb von 5 cm zu einer bereits gelandeten Einheit derselben Verband aussteigen, sofern alle Einheiten innerhalb von 15 cm zur Landungskapsel aufgestellt werden. Entferne die Landungskapselmodelle vom Spielfeld, sobald die transportierte Verband ausgestiegen ist."
+        "notes": "Kann nur eine Verband aus folgenden Einheiten transportieren: Taktische Trupps, Devastor-Trupps, Cybot, Sternguard-Veteranen, Wolfsgarde-Terminatoren, Grey-Knights-Angriffstrupp oder Grey-Knights-Purgatortrupp. Nach der Landung der Landungskapsel greift ihr Todeswind alle gegnerischen Einheiten innerhalb von 15 cm an. Jede angegriffene gegnerische Verband erhält einen Beschussmarker dafür, dass sie unter Beschuss gerät, sowie einen zusätzlichen Beschussmarker pro Verlust. Anschließend müssen alle in der Landungskapsel transportierten Truppen innerhalb von 5cm zur Landungskapsel oder innerhalb von 5cm zu einer bereits gelandeten Einheit derselben Verband aussteigen, sofern alle Einheiten innerhalb von 15 cm zur Landungskapsel aufgestellt werden. Entferne die Landungskapselmodelle vom Spielfeld, sobald die transportierte Verband ausgestiegen ist."
       },
       {
         "name": "Intercessor",

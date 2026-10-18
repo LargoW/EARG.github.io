@@ -89,10 +89,10 @@
       ]
     },
     {
-      "name": "Iyanden-Phantomrottes",
+      "name": "Iyanden-Phantomkriegsschars",
       "formations": [
         {
-          "name": "Phantomwachen-Phantomrotte",
+          "name": "Phantomwachen-Phantomkriegsschar",
           "units": "Eine Phantomdroiden-Einheit mit einem Geisterseher-Charakter und drei weitere Phantomdroiden",
           "extraEinheits": [
             "Phantomdroiden",
@@ -103,7 +103,7 @@
           "points": 250
         },
         {
-          "name": "Phantomklingen-Phantomrotte",
+          "name": "Phantomklingen-Phantomkriegsschar",
           "units": "Eine Phantomklingen-Einheit mit einem Geisterseher-Charakter und drei weitere Phantomklingen",
           "extraEinheits": [
             "Phantomdroiden",
@@ -117,7 +117,7 @@
     },
     {
       "name": "Iyanden-Verbände",
-      "description": "Bis zu zwei für jede gewählte Iyanden Phantomrotte.",
+      "description": "Bis zu zwei für jede gewählte Iyanden Phantomkriegsschar.",
       "formations": [
           {
             "name": "Gardisten",
@@ -297,6 +297,6 @@
   },
   "about": [
     "v1.0.Beta: Die Grundstruktur der EA:R-Liste für das Weltenschiff Iyanden basiert auf der NetEA-Version. Ergänzt wurden wichtige Änderungen und Erweiterungen, die größtenteils aus der Erstellung der überarbeiteten EA:R-Liste des Weltenschiffs Biel-Tan übernommen wurden. Da Phantomdroiden nun einen Rettungswurf von 3+ haben, wurde derselbe Rettungswurf auch den Phantomklingen verliehen. Da diese Einheiten keinen Rettungswurf von 4++ mehr haben und furchtlos sind, konnten ihre Verbände etwas günstiger bepunktet werden.",
-    "Die Sonderregel „Geländegängig“ der Phantomrotte wurde an die übrigen Phantomrotten angeglichen. Außerdem erhält die Liste Zugang zu einem Phantomritter-Verband mit dem Einheitentyp H-AV."
+    "Die Sonderregel „Geländegängig“ der Phantomkriegsschar wurde an die übrigen Phantomkriegsscharn angeglichen. Außerdem erhält die Liste Zugang zu einem Phantomritter-Verband mit dem Einheitentyp H-AV."
   ]
 }

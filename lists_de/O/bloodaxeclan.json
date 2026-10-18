@@ -13,7 +13,7 @@
   "usage": [
     "Im Gegensatz zu den starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Ihre Aufstellungsregeln tragen dem Rechnung. Am häufigsten sind Mobs; daneben gibt es spezialisierte Verbände wie Heizakulte und Blitzbrigaden. Die verfügbaren Verbandstypen sind im folgenden Armeeorganisationsplan aufgeführt. Dieser enthält folgende Informationen:",
     "<b>Einheiten</b> – Diese Spalte nennt die Einheiten eines Verbands. Ork-Spieler können die Einheitenzahl verdoppeln oder verdreifachen. Ein Verband mit doppelter Stärke ist ein Großverband, einer mit dreifacher Stärke ein Riesenverband.",
-    "<b>Aufwertungen</b> – Ein Ork-Verband kann zusätzliche Einheiten aus der Spalte „Aufwertungen“ erhalten, sofern keine andere Begrenzung angegeben ist. Bei Großverbänden wird die Begrenzung verdoppelt, bei Riesenverbänden verdreifacht. Ein normaler Kult der Geschwindigkeit kann beispielsweise 0–1 Oddboy enthalten, ein großer 0–2 und ein riesiger 0–3. Alle Kern-, zusätzlichen und kostenlosen Einheiten gelten als Teil desselben Verbands und dürfen sich nicht eigenständig bewegen.",
+    "<b>Aufwertungen</b> – Ein Ork-Verband kann zusätzliche Einheiten aus der Spalte „Aufwertungen“ erhalten, sofern keine andere Begrenzung angegeben ist. Bei Großverbänden wird die Begrenzung verdoppelt, bei Riesenverbänden verdreifacht. Ein normaler Heizakult kann beispielsweise 0–1 Oddboy enthalten, ein großer 0–2 und ein riesiger 0–3. Alle Kern-, zusätzlichen und kostenlosen Einheiten gelten als Teil desselben Verbands und dürfen sich nicht eigenständig bewegen.",
     "<b>Kosten</b> – Die meisten Ork-Verbände haben drei Punktwerte: normal, groß und riesig. Hat ein Verband nur einen Punktwert, kann seine Größe nicht erhöht werden."
   ],
   "units": [
@@ -28,7 +28,7 @@
         "Kommandos",
         "Stormboys",
         "Deffkopta",
-        "Warkopta",
+        "Waaghkopta",
         "Transportpanza",
         "Flakpanza",
         "Erbeuteter Leman Russ/Land Raider",
@@ -47,7 +47,7 @@
         "Blutäxte-Schlachtkreuzer"
       ],
       "unitRules": [
-        "Energiefelder",
+        "Schpezialfelda",
         "Super-Entbehrlich"
       ]
     }
@@ -57,7 +57,7 @@
       "name": "Ork-Verbände",
       "formations": [
         {
-          "name": "Rotte der Blutäxte",
+          "name": "Mob der Blutäxte",
           "units": "Zwei Bosse, sechs Boys, zwei Grots",
           "extraEinheits": [
             "Füge beliebig viele Looted Chimären/Rhinos, Killa Bots, Kommandos, Stormboys hinzu: 25 Punkte pro Stück",
@@ -131,7 +131,7 @@
           ]
         },
         {
-          "name": "Kommando-Kriegsrotte",
+          "name": "Kommando-Mob",
           "units": "Sechs Kommandos",
           "extraEinheits": [
             "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück"
@@ -139,7 +139,7 @@
           "points": 150
         },
         {
-          "name": "Stormboyz-Kriegsrotte",
+          "name": "Stormboyz-Mob",
           "units": "Sechs Stormboys",
           "extraEinheits": [
             "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück"
@@ -147,7 +147,7 @@
           "points": 150
         },
         {
-          "name": "Mekwummen-Rotte",
+          "name": "Mekwummen-Mob",
           "units": "Fünf Kanonänbatterie",
           "extraEinheits": [
             "Füge beliebig viele Transportpanzas und Kanonänbatterien hinzu: 25 Punkte pro Stück",
@@ -171,7 +171,7 @@
           ]
         },
         {
-          "name": "Mek-Stampfa-Rotte",
+          "name": "Mek-Stampfa-Mob",
           "units": "Drei Stampfas",
           "extraEinheits": [
             "Füge beliebig viele Killa Bots hinzu: 25 Punkte pro Stück",
@@ -195,7 +195,7 @@
           ]
         },
         {
-          "name": "Mek-Dread-Rotte",
+          "name": "Mek-Dread-Mob",
           "units": "Ein Cybot, drei Killa Bot",
           "extraEinheits": [
             "Füge beliebig viele Killa Bots hinzu: 25 Punkte pro Stück",

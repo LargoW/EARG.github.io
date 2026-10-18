@@ -6,7 +6,7 @@
   "armyforge": "EAR_Eldar_Ulthwe",
   "intro": "Mit dem folgenden Armeeorganisationsplan kannst du eine Eldar-Armee des Weltenschiffs Ulthwé aufstellen.",
   "strategy": "Weltenschiff-Eldar-Armeen haben einen Strategiewert von 4. Für das Weltenschiff Ulthwé gilt außerdem die Sonderregel 'Seher von Ulthwé'.",
-  "Initiative": "Ulthwé-Kriegsrotten, Aspektkrieger, Phantomritter, Titanen und Avatar-Verbände haben einen Initiativewert von 1+. Alle anderen Verbände haben einen Initiativewert von 2+.",
+  "Initiative": "Ulthwé-Kriegsscharn, Aspektkrieger, Phantomritter, Titanen und Avatar-Verbände haben einen Initiativewert von 1+. Alle anderen Verbände haben einen Initiativewert von 2+.",
   "specialRules": [
     "Seher von Ulthwé",
     "Avatar (Ulthwé)",
@@ -91,10 +91,10 @@
       ]
     },
     {
-      "name": "Ulthwé-Kriegsrottes",
+      "name": "Ulthwé-Kriegsschars",
       "formations": [
         {
-          "name": "Schwarze-Gardisten-Kriegsrotte",
+          "name": "Schwarze-Gardisten-Kriegsschar",
           "units": "Zwei Runenpropheten, sechs Eldar-Gardisten",
           "extraEinheits": [
             "Rat der Seher",
@@ -106,7 +106,7 @@
           "points": 175
         },
         {
-          "name": "Berittene Schwarze-Gardisten-Kriegsrotte",
+          "name": "Berittene Schwarze-Gardisten-Kriegsschar",
           "units": "Zwei Runenpropheten, sechs Eldar-Gardisten und vier Wellenschlangen",
           "extraEinheits": [
             "Rat der Seher",
@@ -119,7 +119,7 @@
     },
     {
       "name": "Ulthwé-Linien-Verbände",
-      "description": "Für jede Ulthwé-Kriegsrotte dürfen bis zu zwei Ulthwé-Linien-Verbände gewählt werden.",
+      "description": "Für jede Ulthwé-Kriegsschar dürfen bis zu zwei Ulthwé-Linien-Verbände gewählt werden.",
       "formations": [
           {
             "name": "Kampfläufer",

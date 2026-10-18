@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Yme-Loc-Kriegsrotten von Vaul",
+      "name": "Yme-Loc-Kriegsscharn von Vaul",
       "formations": [
         {
           "name": "Kriegsmaschinen von Vaul",
@@ -105,7 +105,7 @@
     },
     {
       "name": "Yme-Loc-Verbände",
-      "description": "Für jede Yme-Loc-Kriegsrotte von Vaul dürfen bis zu zwei Yme-Loc-Verbände gewählt werden.",
+      "description": "Für jede Yme-Loc-Kriegsschar von Vaul dürfen bis zu zwei Yme-Loc-Verbände gewählt werden.",
       "formations": [
         {
           "name": "Berittener Aspektkriegertrupp",

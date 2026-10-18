@@ -719,7 +719,7 @@
                 "Holofeld (5+)",
                 "Antigrav"
             ],
-            "crit": "Der Luchs wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 6+ einen Treffer."
+            "crit": "Der Luchs wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
         },
         {
             "name": "Skorpion",
@@ -739,7 +739,7 @@
                 "Holofeld (4+)",
                 "Antigrav"
             ],
-            "crit": "Der Skorpion wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei einer 6+ einen Treffer."
+            "crit": "Der Skorpion wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei einer 6+ einen Treffer."
         },
         {
             "name": "Kobra",
@@ -759,7 +759,7 @@
                 "Holofeld (4+)",
                 "Antigrav"
             ],
-            "crit": "Die Kobra wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei einer 6+ einen Treffer."
+            "crit": "Die Kobra wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei einer 6+ einen Treffer."
         },
         {
             "name": "Todespirscher",
@@ -779,7 +779,7 @@
                 "Holofeld (4+)",
                 "Antigrav"
             ],
-            "crit": "Der Todespirscher wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei einer 6+ einen Treffer."
+            "crit": "Der Todespirscher wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei einer 6+ einen Treffer."
         },
         {
             "name": "Sturmserpent",
@@ -799,7 +799,7 @@
                 "Netzportal",
                 "Antigrav"
             ],
-            "crit": "Der Sturmserpent wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei einer 6+ einen Treffer."
+            "crit": "Der Sturmserpent wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei einer 6+ einen Treffer."
         },
         {
             "name": "Leerenwirbler",
@@ -816,7 +816,7 @@
                 "Verstärkte Panzerung",
                 "Antigrav"
             ],
-            "crit": "Der Leerspinner wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei einer 6+ einen Treffer."
+            "crit": "Der Leerspinner wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei einer 6+ einen Treffer."
         },
         {
             "name": "Skathach-Phantomritter",
@@ -908,7 +908,7 @@
             "cc": 3,
             "ff": 3,
             "weapons": [
-                "ARME (wähle zwei. Höchstens eine 0–1)",
+                "Armbewaffnung (Wähle zwei. Höchstens eine 0–1)",
                 "Titanenpulsar",
                 "Schreckenspulsar",
                 "Sternpulsar",

@@ -116,7 +116,7 @@
       "description": "Für jeden Kabal-Verband dürfen bis zu zwei Partisanen-Verbände gewählt werden.",
       "formations": [
           {
-            "name": "Mandrake-Rotte",
+            "name": "Mandrake-Kriegsschar",
             "units": "Vier Mandraks",
             "extraEinheits": [
                 "Füge bis zu zwei Mandraks hinzu: 25 Punkte pro Stück"
@@ -124,7 +124,7 @@
             "points": 125
           },
           {
-            "name": "Hellion-Rotte",
+            "name": "Hellion-Kriegsschar",
             "units": "Vier Hellion-Himmelsbretter",
             "extraEinheits": [
               "Füge bis zu zwei Hellion-Himmelsbretter hinzu: 25 Punkte pro Stück",
@@ -142,7 +142,7 @@
             "points": 175
           },
         {
-          "name": "Reaver-Rotte",
+          "name": "Reaver-Kriegsschar",
           "units": "Sechs Reaver-Jetbikes",
           "extraEinheits": [
             "Füge bis zu zwei Reaver-Jetbikes hinzu: 25 Punkte pro Stück"
@@ -170,7 +170,7 @@
           "points": 225
         },
         {
-          "name": "Harpyien-Rotte",
+          "name": "Harpyien-Kriegsschar",
           "units": "Sechs Harpyien",
           "extraEinheits": [
           ],

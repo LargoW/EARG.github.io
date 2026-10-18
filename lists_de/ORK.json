@@ -8,7 +8,7 @@
         "name": "Waaghboss",
         "type": "CH",
         "weapons": [
-          "'Ore Dakka",
+          "Mehr Dakka",
           "Energieklaue"
         ],
         "specialRules": [
@@ -33,10 +33,10 @@
         ]
       },
       {
-        "name": "Großer Mek",
+        "name": "Big Mek",
         "type": "CH",
         "weapons": [
-          "'Ore Dakka"
+          "Mehr Dakka"
         ],
         "specialRules": [
           "Oberbefehlshaber"
@@ -47,35 +47,35 @@
         "type": "CH",
         "weapons": [
           "Supa-Zzap-Geschütz|0-1|",
-          "Superknarre|0-1|",
-          "W3+1 Energiefelder|0-1|"
+          "Mega Kanonä|0-1|",
+          "W3+1 Schpezialfelda|0-1|"
         ],
         "specialRules": [
-          "Ersetze eine Fette Wumme entweder durch ein Supa-Zzap-Geschütz oder durch eine Mega Kanonä; alternativ kann die Einheit W3+1 Kraftfelder erhalten."
+          "Ersetze eine Kanonä entweder durch ein Supa-Zzap-Geschütz oder durch eine Mega Kanonä; alternativ kann die Einheit W3+1 Kraftfelder erhalten."
         ]
       },
       {
         "name": "Bad-Moons-Oddboy",
         "type": "CH",
         "weapons": [
-          "Superknarre|0-1|",
+          "Mega Kanonä|0-1|",
           "Wyrdboy-Turm|0-1|",
-          "W3+1 Energiefelder|0-1|"
+          "W3+1 Schpezialfelda|0-1|"
         ],
         "specialRules": [
         ],
-        "notes": "Ersetze eine Fette Wumme entweder durch eine Mega Kanonä oder einen Wyrdboy-Turm. Alternativ kann die Einheit [*] W3+1 Schpezialkraftfelder erhalten."
+        "notes": "Ersetze eine Kanonä entweder durch eine Mega Kanonä oder einen Wyrdboy-Turm. Alternativ kann die Einheit [*] W3+1 Schpezialkraftfelder erhalten."
       },
       {
         "name": "Heizakult-Oddboy",
         "type": "CH",
         "weapons": [
-          "Hebewerfer|0-1|",
-          "W3+1 Energiefelder|0-1|",
-          "Deff-Rolla \u0026 frischer Anstrich|0-1|"
+          "Lifta Droppa|0-1|",
+          "W3+1 Schpezialfelda|0-1|",
+          "Deff-Rolla \u0026 Rote Farbä|0-1|"
         ],
         "specialRules": [
-          "Die Einheit ersetzt entweder eine Fette Wumme durch einen Hebewerfer, oder [*] erhält W3+1 Kraftfelder, oder [**] wird mit einer Deff-Rolla (Geländegängig) und mit frischem Anstrich (Geschwindigkeit um 10 cm) ausgerüstet"
+          "Die Einheit ersetzt entweder eine Kanonä durch einen Lifta Droppa, oder [*] erhält W3+1 Kraftfelder, oder [**] wird mit einer Deff-Rolla (Geländegängig) und mit Rota Farbä (erhöhe die Geschwindigkeit um 10cm) ausgerüstet"
         ]
       },
       {
@@ -105,7 +105,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Große Knarre"
+          "Fette Wumme"
         ],
         "specialRules": [
           "Los geht's"
@@ -133,8 +133,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Große Knarre|2|",
-          "Groß Choppas"
+          "Fette Wumme|2|",
+          "Fette Spalta"
         ],
         "specialRules": [
           "Anführer",
@@ -150,7 +150,7 @@
         "ff": 5,
         "weapons": [
           "Snazzguns",
-          "Groß Choppas"
+          "Fette Spalta"
         ],
         "specialRules": [
           "Anführer",
@@ -165,8 +165,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Zwillings-Sawn-Off Große Knarre",
-          "Groß Choppas"
+          "Zwillings-Abgesägtä Fette Wumme",
+          "Fette Spalta"
         ],
         "specialRules": [
           "Anführer",
@@ -180,7 +180,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Groß Geschütz"
+          "Kanonä"
         ],
         "specialRules": [
         ]
@@ -193,7 +193,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Große Knarre"
+          "Fette Wumme"
         ],
         "specialRules": [
           "Infiltratoren",
@@ -223,21 +223,21 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Zwillings-Sawn-Off Große Knarre"
+          "Zwillings-Abgesägtä Fette Wumme"
         ],
         "specialRules": [
           "Beritten"
         ]
       },
       {
-        "name": "Waaghbike-Ausreiter",
+        "name": "Waaghbike-Aufklärer",
         "type": "INF",
         "speed": 35,
         "armour": 5,
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Zwillings-Sawn-Off Große Knarre"
+          "Zwillings-Abgesägtä Fette Wumme"
         ],
         "specialRules": [
           "Beritten",
@@ -266,14 +266,14 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings-Große Knarre"
+          "Zwillings-Fette Wumme"
         ],
         "specialRules": [
           "Antigrav"
         ]
       },
       {
-        "name": "Warkopta",
+        "name": "Waaghkopta",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -296,7 +296,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Zwillings-Große Knarre"
+          "Zwillings-Fette Wumme"
         ],
         "specialRules": [
         ]
@@ -340,7 +340,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "W3 Energiefelder"
+          "W3 Schpezialfelda"
         ]
       },
       {
@@ -351,12 +351,12 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Große Knarre|2|"
+          "Fette Wumme|2|"
         ],
         "specialRules": [
           "Transport"
         ],
-        "notes": "2 Einheiten Boys, Bosse, Posas, Kommandos oder Grots. Kanonänbatterie belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten darf 1 Einheit Grots mitgeführt werden."
+        "notes": "2 Einheiten Boys, Bosse, Posas, Kommandos oder Grots. Kanonänbatterien belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten darf 1 Einheit Grots mitgeführt werden."
       },
       {
         "name": "Kampfpanza",
@@ -366,7 +366,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Groß Geschütz"
+          "Kanonä"
         ],
         "specialRules": [
           "Transport"
@@ -381,7 +381,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Groß Geschütz"
+          "Kanonä"
         ],
         "specialRules": [
           "Transport"
@@ -396,8 +396,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Groß Geschütz",
-          "Große Knarre|2|"
+          "Kanonä",
+          "Fette Wumme|2|"
         ],
         "specialRules": [
           "Transport"
@@ -484,7 +484,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Große Knarre",
+          "Fette Wumme",
           "Kampfklauen"
         ],
         "specialRules": [
@@ -500,7 +500,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Große Knarre|2|",
+          "Fette Wumme|2|",
           "Kampfklauen"
         ],
         "specialRules": [
@@ -516,7 +516,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Groß Geschütz",
+          "Kanonä",
           "Reparaturarm"
         ],
         "specialRules": [
@@ -533,7 +533,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Groß Geschütz|2-3|",
+          "Kanonä|2-3|",
           "Kampfhammer|0-1|"
         ],
         "specialRules": [
@@ -541,7 +541,7 @@
           "Geländegängig",
           "Los geht's"
         ],
-        "notes": "Bewaffnet entweder mit drei Kanonänbatterie oder mit zwei Fette Wummes und einem Kombat \u0027Ammer."
+        "notes": "Bewaffnet entweder mit drei Kanonän oder mit zwei Kanonän und einem Kampfhammer."
       },
       {
         "name": "Mega Transportpanza",
@@ -551,15 +551,15 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Groß Geschütz",
-          "Zwillings-Große Knarre|4|"
+          "Kanonä",
+          "Zwillings-Fette Wumme|4|"
         ],
         "specialRules": [
           "Schadenskapazität 3",
           "Transport"
         ],
-        "notes": "8 Boys, Posas, Bosse, Kommandos oder Grots. Kanonänbatterie belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grots-Einheiten mitgeführt werden.",
-        "crit": "Mega Transportpanza wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
+        "notes": "8 Boys, Posas, Bosse, Kommandos oder Grots. Kanonänbatterien belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grots-Einheiten mitgeführt werden.",
+        "crit": "Der Mega Transportpanza wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
       },
       {
         "name": "Mega Wummenpanza",
@@ -569,15 +569,15 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Groß Geschütz|3|",
-          "Zwillings-Große Knarre|5|"
+          "Kanonä|3|",
+          "Zwillings-Fette Wumme|5|"
         ],
         "specialRules": [
           "Schadenskapazität 3",
           "Transport"
         ],
-        "notes": "4 Boys, Bosse, Posas, Kommandos oder Grots. Kanonänbatterie belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 2 Grots-Einheiten mitgeführt werden.",
-        "crit": "Mega Wummenpanza wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
+        "notes": "4 Boys, Bosse, Posas, Kommandos oder Grots. Kanonänbatterien belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 2 Grots-Einheiten mitgeführt werden.",
+        "crit": "Der Mega Wummenpanza wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
       },
       {
         "name": "Flakka-Mega-Transportpanza",
@@ -587,13 +587,13 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Groß Geschütz",
+          "Kanonä",
           "Flakgeschütz|3|"
         ],
         "specialRules": [
           "Schadenskapazität 3"
         ],
-        "crit": "Die Flakka-Mega-Transportpanza wird zerstört. Alle transportierten Einheiten werden getötet, außer bei einer 6+."
+        "crit": "Die Flakka-Mega-Transportpanza wird zerstört, alle transportierten Einheiten werden getötet, außer bei einer 6+."
       },
       {
         "name": "Schädelhammer",
@@ -604,7 +604,7 @@
         "ff": 3,
         "weapons": [
           "Höllenzornkanone||FxF",
-          "Groß Geschütz||FxF",
+          "Kanonä||FxF",
           "Skorcha|2|FxF"
         ],
         "specialRules": [
@@ -621,12 +621,12 @@
         "ff": 4,
         "weapons": [
           "Blick des Mork",
-          "Superknarre|2-3|FxF",
+          "Mega Kanonä|2-3|FxF",
           "Killa-Spalta|0-1|"
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Energiefelder 1D3",
+          "Schpezialfelda 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -641,19 +641,19 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "KOPF (wähle eine)",
+          "Kopfbewaffnung (Wähle eine)",
           "Blick des Mork|0-1|",
           "Blick des Gork|0-1|",
-          "ARME (wähle zwei)",
-          "Superknarre|1-2|FxF",
+          "Armbewaffnung (Wähle zwei)",
+          "Mega Kanonä|1-2|FxF",
           "Killa-Spalta|0-1|FxF",
-          "BAUCH (wähle eine)",
-          "Superknarre|0-1|FxF",
+          "Bauchbewaffnung (Wähle eine)",
+          "Mega Kanonä|0-1|FxF",
           "Dakka-Kanone|0-1|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Energiefelder 1D3",
+          "Schpezialfelda 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -669,19 +669,19 @@
         "ff": 4,
         "weapons": [
           "Blick des Mork",
-          "Superknarre|2-3|FxF",
+          "Mega Kanonä|2-3|FxF",
           "Supa-Zzap-Geschütz|0-1|FxF",
           "Megaspalta|0-1|"
         ],
         "specialRules": [
           "Schadenskapazität 7",
-          "Energiefelder 1D3+3",
+          "Schpezialfelda 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
           "Bewaffnet entweder mit drei Mega Kanonäs oder mit zwei Mega Kanonäs und entweder einem Supa-Zzap-Geschütz oder einer Mega-Choppa"
         ],
-        "crit": "Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
+        "crit": "Der Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
         "name": "Gargant ",
@@ -691,28 +691,28 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "KOPF (wähle eine)",
+          "Kopfbewaffnung (Wähle eine)",
           "Blick des Mork|0-1|",
           "Blick des Gork|0-1|",
-          "ARME (wähle zwei)",
-          "Superknarre|0-2|FxF",
+          "Armbewaffnung (Wähle zwei)",
+          "Mega Kanonä|0-2|FxF",
           "Dakka-Kanone|0-2|FxF",
           "Megaspalta|0-2|",
           "Zzap-Geschütz|0-2|FxF",
-          "BAUCH (wähle eine)",
-          "Superknarre|0-1|FxF",
+          "Bauchbewaffnung (Wähle eine)",
+          "Mega Kanonä|0-1|FxF",
           "Supa-Skorcha|0-1|FxF",
           "Supa-Zzap-Geschütz|0-1|FxF",
           "Snappa|0-1|"
         ],
         "specialRules": [
           "Schadenskapazität 7",
-          "Energiefelder 1D3+3",
+          "Schpezialfelda 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
+        "crit": "Der Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
         "name": "Großer Gargant",
@@ -723,22 +723,22 @@
         "ff": 4,
         "weapons": [
           "Blick des Mork",
-          "Groß Geschütz|2|",
-          "Superknarre||FxF",
+          "Kanonä|2|",
+          "Mega Kanonä||FxF",
           "Zwillings-Mega Kanonä|1-2|FxF",
-          "Hebewerfer|0-1|"
+          "Lifta Droppa|0-1|"
         ],
         "specialRules": [
           "Schadenskapazität 10",
-          "Energiefelder 1D3+6",
+          "Schpezialfelda 1D3+6",
           "Göttermaschine",
           "Geteiltes Feuer",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Bewaffnet entweder mit zwei Zwillings-Mega-Kanonäs oder mit einer Zwillings-Mega-Kanonä und einem Hebewerfer"
+          "Bewaffnet entweder mit zwei Zwillings-Mega-Kanonäs oder mit einer Zwillings-Mega-Kanonä und einem Lifta Droppa"
         ],
-        "crit": "Großer Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
+        "crit": "Der Große Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
         "name": "Großer Gargant ",
@@ -748,31 +748,31 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Groß Geschütz|2|",
-          "KOPF (wähle eine)",
+          "Kanonä|2|",
+          "Kopfbewaffnung (Wähle eine)",
           "Blick des Mork|0-1|",
           "Blick des Gork|0-1|",
-          "ARME (wähle zwei)",
+          "Armbewaffnung (Wähle zwei)",
           "Zwillings-Mega Kanonä|0-2|FxF",
           "Dakka-Dakka-Kanone|0-2|FxF",
           "Mega-Lobba|0-2|FxF",
-          "Hebewerfer|0-1|",
-          "BAUCH (wähle eine)",
-          "Superknarre|0-1|FxF",
+          "Lifta Droppa|0-1|",
+          "Bauchbewaffnung (Wähle eine)",
+          "Mega Kanonä|0-1|FxF",
           "Supa-Skorcha|0-1|FxF",
           "Supa-Zzap-Geschütz|0-1|FxF",
           "Snappa|0-1|"
         ],
         "specialRules": [
           "Schadenskapazität 10",
-          "Energiefelder 1D3+6",
+          "Schpezialfelda 1D3+6",
           "Göttermaschine",
           "Geteiltes Feuer",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "Großer Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
+        "crit": "Der Große Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
         "name": "Mega-Gargant",
@@ -782,7 +782,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Groß Geschütz|4|",
+          "Kanonä|4|",
           "Wyrdboy-Turm",
           "2x Grot-gelenkte Rakete||FwA",
           "Zwillings-Supa-Zzap-Geschütz||FwA",
@@ -791,14 +791,14 @@
         ],
         "specialRules": [
           "Schadenskapazität 13",
-          "Energiefelder 1D3+9",
+          "Schpezialfelda 1D3+9",
           "Göttermaschine",
           "Geteiltes Feuer",
           "Geländegängig",
           "Furchtlos",
           "Verstärkte Panzerung"
         ],
-        "crit": "Mega Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
+        "crit": "Der Mega Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
         "name": "Jagdbomma",
@@ -806,7 +806,7 @@
         "speed": "Jagdbomber (FB)",
         "armour": 6,
         "weapons": [
-          "AC Zwillings-Große Knarre||FxF",
+          "AC Zwillings-Fette Wumme||FxF",
           "AC-Panzerknacker-Raketen||FxF"
         ],
         "specialRules": [
@@ -846,7 +846,7 @@
           "AC-Zwillings-Kustom-Megakanone||FxF"
         ],
         "specialRules": [
-          "Energiefelder 1D3"
+          "Schpezialfelda 1D3"
         ]
       },
       {
@@ -861,7 +861,7 @@
         "specialRules": [
           "Schadenskapazität 2"
         ],
-        "crit": "Bommer wird zerstört."
+        "crit": "Der Bommer wird zerstört."
       },
       {
         "name": "Landungsschiff",
@@ -881,7 +881,7 @@
           "Transport"
         ],
         "notes": "10 Killa Bots, Waaghbikes, Boys, Bosse, Kommandos, Stormboys oder Grots. Kanonänbatterie, Warbuggies, Skorchas und Deff Dreads belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grots-Einheiten mitgeführt werden.",
-        "crit": "Landa und alle transportierten Einheiten werden zerstört."
+        "crit": "Das Landungsschiff und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Landungsrakete",
@@ -900,7 +900,7 @@
           "Transport"
         ],
         "notes": "10 Killa Bots, Boys, Bosse, Kommandos, Stormboys oder Grots. Deff Dreads und Mega Dreads belegen jeweils 2 Plätze. [*] Muss das Spiel an Bord eines Blutäxte-Kill-Kreuzers oder Schlachtkreuzers beginnen und darf das Spiel nur durch Planetare Landung betreten.",
-        "crit": "Drop Rok und alle transportierten Einheiten werden zerstört"
+        "crit": "Die Landungsrakete und alle transportierten Einheiten werden zerstört"
       },
       {
         "name": "Kill-Kreuzer",
@@ -949,7 +949,7 @@
         ],
         "specialRules": [
           "Verzögerte Ankunft (darf erst ab Runde 2 eintreffen)",
-          "Transport: Kann 12 Landas und die auf ihnen mitgeführten Einheiten transportieren"
+          "Transport: Kann 12 Landungsschiffe und die auf ihnen mitgeführten Einheiten transportieren"
         ]
       },
       {
@@ -996,7 +996,7 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Groß Choppas",
+          "Fette Spalta",
           "Geklaute Knarren|2|"
         ],
         "specialRules": [
@@ -1109,7 +1109,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Große Knarre"
+          "Fette Wumme"
         ],
         "specialRules": [
           "Transport"
@@ -1124,8 +1124,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Groß Geschütz",
-          "Zwillings-Große Knarre|2|",
+          "Kanonä",
+          "Zwillings-Fette Wumme|2|",
           "Zähne und Hörner"
         ],
         "specialRules": [
@@ -1160,7 +1160,7 @@
         "ff": 5,
         "weapons": [
           "Flakgeschütz",
-          "Zwillings-Große Knarre|2|",
+          "Zwillings-Fette Wumme|2|",
           "Zähne und Hörner"
         ],
         "specialRules": [
@@ -1176,7 +1176,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Zwillings-Große Knarre|3|",
+          "Zwillings-Fette Wumme|3|",
           "Fangzähne und Hörner",
           "Supa-Lobba"
         ],
@@ -1196,8 +1196,8 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Zwillings-Große Knarre|4|",
-          "Groß Geschütz|2|",
+          "Zwillings-Fette Wumme|4|",
+          "Kanonä|2|",
           "Spießende Hauer"
         ],
         "specialRules": [
@@ -1217,7 +1217,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Stumpfe Superknarre||FxF",
+          "Stumpfe Mega Kanonä||FxF",
           "Megaspalta"
         ],
         "specialRules": [

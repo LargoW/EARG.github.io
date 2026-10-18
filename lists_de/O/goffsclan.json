@@ -1,11 +1,11 @@
 {
   "fraction": "Ork",
-  "army": "Kriegsrotte des Goffs-Klans, WAAAGH! Ghazghkull",
+  "army": "Mob des Goffs-Klans, WAAAGH! Ghazghkull",
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Ork_GoffsWarhorde",
-  "intro": "Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Kulte der Geschwindigkeit und Blitzbrigaden. Die verfügbaren Ork-Verbände sind im folgenden Armeeorganisationsplan aufgeführt.</p><p>Einige Ork-Verbände können in drei Größen aufgestellt werden: normal, groß oder riesig. Ein Großverband umfasst doppelt so viele Einheiten wie ein normaler Verband, ein Riesenverband dreimal so viele. Begrenzungen für Aufwertungen werden bei Großverbänden verdoppelt und bei Riesenverbänden verdreifacht. Ein normaler Kult der Geschwindigkeit kann beispielsweise 0–1 Oddboy enthalten, ein großer 0–2 und ein riesiger 0–3.",
-  "strategy": "Kriegsrotte des Goffs-Klans, WAAAGH! Ghazghkul-Armeen haben einen Strategiewert von 3.",
+  "intro": "Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Heizakulte und Blitzbrigaden. Die verfügbaren Ork-Verbände sind im folgenden Armeeorganisationsplan aufgeführt.</p><p>Einige Ork-Verbände können in drei Größen aufgestellt werden: normal, groß oder riesig. Ein Großverband umfasst doppelt so viele Einheiten wie ein normaler Verband, ein Riesenverband dreimal so viele. Begrenzungen für Aufwertungen werden bei Großverbänden verdoppelt und bei Riesenverbänden verdreifacht. Ein normaler Heizakult kann beispielsweise 0–1 Oddboy enthalten, ein großer 0–2 und ein riesiger 0–3.",
+  "strategy": "Mob des Goffs-Klans, WAAAGH! Ghazghkul-Armeen haben einen Strategiewert von 3.",
   "Initiative": "Alle Verbände haben einen Initiativwert von 3+.",
   "specialRules": [
     "Köppe zählen",
@@ -45,7 +45,7 @@
         "Schlachtkreuzer"
       ],
       "unitRules": [
-        "Energiefelder",
+        "Schpezialfelda",
         "Schlachtfestungen und Geschützfestungen",
         "Los geht's",
         "Super-Entbehrlich",
@@ -60,7 +60,7 @@
       "name": "Ork-Verbände",
       "formations": [
         {
-          "name": "Rotte der Goffs",
+          "name": "Mob der Goffs",
           "units": "Zwei Bosse, sechs Boys, zwei Grots",
           "extraEinheits": [
               "Füge beliebig viele Boys hinzu: 15 Punkte pro Stück",
@@ -139,7 +139,7 @@
           ]
         },
         {
-          "name": "Kommando-Kriegsrotte",
+          "name": "Kommando-Mob",
           "units": "Sechs Kommandos",
           "extraEinheits": [
             "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück",
@@ -148,7 +148,7 @@
           "points": 150
         },
         {
-          "name": "Stormboyz-Kriegsrotte",
+          "name": "Stormboyz-Mob",
           "units": "Sechs Stormboys",
           "extraEinheits": [
             "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück",
@@ -157,7 +157,7 @@
           "points": 150
         },
         {
-          "name": "Mekwummen-Rotte",
+          "name": "Mekwummen-Mob",
           "units": "Fünf Kanonänbatterie",
           "extraEinheits": [
             "Füge beliebig viele Transportpanzas und Kanonänbatterien hinzu: 20 Punkte pro Stück",
@@ -181,7 +181,7 @@
           ]
         },
         {
-          "name": "Mek-Stampfa-Rotte",
+          "name": "Mek-Stampfa-Mob",
           "units": "Drei Stampfas",
           "extraEinheits": [
             "Füge beliebig viele Killa Bots hinzu: 25 Punkte pro Stück",
@@ -193,7 +193,7 @@
           "points": 250
         },
         {
-          "name": "Mek-Dread-Rotte",
+          "name": "Mek-Dread-Mob",
           "units": "Ein Deff Dread, vier Killa Bots",
           "extraEinheits": [
             "Füge beliebig viele Killa Bots hinzu: 25 Punkte pro Stück",

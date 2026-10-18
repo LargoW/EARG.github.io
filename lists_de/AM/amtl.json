@@ -5,14 +5,14 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_AMTL",
   "strategy": "Collegia Titanica-Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Kampftitan-Verbände und der Warhound-Titanen-Verband haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+. Außerdem unterliegt der Questoris-Banner-Verband der Sonderregel „Ritterlichkeit“.",
+  "Initiative": "Kampftitan-Verbände und der Warhound-Titanen-Verband haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+. Außerdem unterliegen Questoris-Banner-Verbände der Sonderregel „Ritterlichkeit“.",
   "specialRules": [
   ],
   "units": [
     {
       "from": "ImperialAllies.json",
       "units": [
-        "Legate",
+        "Legat",
         "Veteranen-Princeps",
         "Warhound ",
         "Reaver-Titan, Hun-Klasse",
@@ -42,7 +42,7 @@
         "Chimäre",
         "Chimedon",
         "Kastelan-Roboter",
-        "Castellax-Kampffautomaten",
+        "Castellax-Kampfautomaten",
         "Ordinatus Minoris ",
         "Avenger-Sturzkampfflugzeug",
         "Lysander-Jäger",
@@ -78,7 +78,7 @@
           "name": "0–1 Imperator-Titan",
           "units": "Ein Imperator-Titan oder Warmonger-Titan, Veteranen-Princeps",
           "extraEinheits": [
-            "Legate"
+            "Legat"
           ],
           "points": 950
         },
@@ -86,7 +86,7 @@
           "name": "Warlord-Titan",
           "units": "Ein Warlord-Titan (Todbringer- oder Nemesis-Klasse), Veteranen-Princeps",
           "extraEinheits": [
-            "Legate"
+            "Legat"
           ],
           "points": 750
         },
@@ -146,7 +146,7 @@
         },
         {
           "name": "Castellax-Manipel",
-          "units": "Ein Tech-Priester, vier Castellax-Kampffautomaten",
+          "units": "Ein Tech-Priester, vier Castellax-Kampfautomaten",
           "extraEinheits": [
           ],
           "points": 175
@@ -163,7 +163,7 @@
     },
     {
       "name": "Adeptus Mechanicus Flotte",
-      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für Verbände der Flotte des Adeptus Mechanicus ausgegeben werden. Pro Warmonger-Titan oder Anvilus Carapace Landing Pad darf höchstens ein Lysander Jäger aufgestellt werden.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für Verbände der Flotte des Adeptus Mechanicus ausgegeben werden. Pro Warmonger-Titan oder Anvilus-Landeplattform darf höchstens ein Lysander Jäger aufgestellt werden.",
       "formations": [
         {
           "name": "Lysander-Jäger",
@@ -172,7 +172,7 @@
         },
         {
           "name": "Avenger-Staffel",
-          "units": "Zwei Avenger-Jagdbombers",
+          "units": "Zwei Avenger-Jagdbomber",
           "points": 175
         },
         {
@@ -188,13 +188,13 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "0–1 Legate",
-        "description": "Füge 1 Legate zum Verband hinzu",
+        "name": "0–1 Legat",
+        "description": "Füge 1 Legat zum Verband hinzu",
         "points": "50 Punkte"
       },
       {
         "name": "Veteranen-Princeps",
-        "description": "Füge einen Veteranen-Princeps zum Verband hinzu. Nicht mit einem Legate kombinierbar.",
+        "description": "Füge einen Veteranen-Princeps zum Verband hinzu. Nicht mit einem Legat kombinierbar.",
         "points": "25 Punkte"
       },
       {

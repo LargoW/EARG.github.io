@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Legate",
+        "name": "Legat",
         "type": "CH",
         "weapons": [],
         "specialRules": [
@@ -135,13 +135,13 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Rumpfbewaffung (wähle eine)",
+          "Rumpfbewaffung (Wähle eine)",
           "Gekoppelte Turbolaser-Destruktoren|0-1|FxF",
           "Gekoppelte Apocalypse-Raketenwerfer|0-1|FxF",
           "Gekoppelter Gatling-Blaster|0-1|FxF",
           "Gekoppelter Laserblaster|0-1|FxF",
           "Gekoppelte Titanen-Melterkanonen|0-1|",
-          "ARME (wähle zwei. Höchstens eine 0–1)",
+          "Armbewaffnung (Wähle zwei. Höchstens eine 0–1)",
           "Gatling-Blaster|0-2|FwA",
           "Turbolaserzerstörer|0-2|FwA",
           "Laserbrenner|0-2|",
@@ -170,14 +170,14 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Rumpfbewaffung (wähle eine)",
+          "Rumpfbewaffung (Wähle eine)",
           "2x Sperrfeuer-Rakete|0-1|FxF",
           "2x Vortex-Rakete|0-1|FxF",
           "Gekoppelte Turbolaser-Destruktoren|0-1|FxF",
           "Gekoppelter Gatling-Blaster|0-1|FxF",
           "Gekoppelter Laserblaster|0-1|FxF",
           "Gekoppelte Titanen-Plasmakanonen|0-1|FxF",
-          "Arme (wähle eine)",
+          "Arme (Wähle eine)",
           "2x Volcano Kanone|0-1|FwA",
           "2x Titan-Plasmakanone|0-1|FwA",
           "2x Plasma-Zerstörer|0-1|FwA",
@@ -234,7 +234,7 @@
           "Titan-Kettenfaust||",
           ">Unterstützungswaffen-Konfiguration<",
           "Apocalypse Raketenwerfer|2|FwA",
-          "Anvilus-Panzerungslandeplattform||FxF"
+          "Anvilus-Landeplattform||FxF"
         ],
         "specialRules": [
           "Schadenskapazität 6",
@@ -242,7 +242,7 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Anvilus-Panzerungslandeplattform: Verleiht allen Sperrfeuerwaffen des Verbands die Sonderregel „Indirektes Feuer (Indirekt)“."
+          "[*]Anvilus-Landeplattform: Verleiht allen Sperrfeuerwaffen des Verbands die Sonderregel „Indirektes Feuer (Indirekt)“."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
@@ -255,11 +255,11 @@
         "cc": 4,
         "ff": 3,
         "weapons": [
-          "Rumpfbewaffung (wähle eine)",
+          "Rumpfbewaffung (Wähle eine)",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Vulcan-Megabolter|0-1|FxF",
           "Turbolaserzerstörer|0-1|FxF",
-          "ARME (wähle zwei)",
+          "Armbewaffnung (Wähle zwei)",
           "Turbolaserzerstörer|0-2|FwA",
           "Gatling-Blaster|0-2|FwA",
           "Titan-Energiefaust|0-2|",
@@ -285,12 +285,12 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Rumpfbewaffung (wähle eine)",
+          "Rumpfbewaffung (Wähle eine)",
           "Warp-Rakete|0-1|FxF",
           "Todesstoß-Rakete|0-1|FxF",
           "Titan Plasmakanone|0-1|FxF",
-          "Anvilus-Panzerungslandeplattform|0-1|",
-          "ARME (wähle zwei. Höchstens eine 0–1)",
+          "Anvilus-Landeplattform|0-1|",
+          "Armbewaffnung (Wähle zwei. Höchstens eine 0–1)",
           "Turbolaserzerstörer|0-2|FwA",
           "Gatling-Blaster|0-2|FwA",
           "Apocalypse Raketenwerfer|0-2|FwA",
@@ -304,7 +304,7 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Anvilus Carapace Landing Pad: Verleiht allen BP-Waffen im Verband «Indirektes Feuer». Erlaubt den Kauf eines Lysander Abfangjäger (F)"
+          "[*]Anvilus-Landeplattform: Verleiht allen BP-Waffen im Verband «Indirektes Feuer». Erlaubt die Auswahl eines Lysander Abfangjäger (F)"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
@@ -318,11 +318,11 @@
         "ff": 3,
         "weapons": [
           "Anvilus Maschinenkanone Batterie|2|",
-          "Rumpfbewaffung (wähle eine)",
+          "Rumpfbewaffung (Wähle eine)",
           "Nemesis Tremorgeschütz|0-1|FxF",
           "Volcano Kanone|0-1|FxF",
           "Plasma-Zerstörer|0-1|FxF",
-          "ARME (wähle zwei. Höchstens eine 0–1)",
+          "Armbewaffnung (Wähle zwei. Höchstens eine 0–1)",
           "Turbolaserzerstörer|0-2|FwA",
           "Titan Plasmakanone|0-2|FwA",
           "Laserblaster|0-2|FwA",

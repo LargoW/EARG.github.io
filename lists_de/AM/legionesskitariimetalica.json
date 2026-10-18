@@ -22,7 +22,7 @@
         "Sagitarii",
         "Prätorianische Kampfservitoren",
         "Kastelan-Roboter",
-        "Castellax-Kampffautomaten",
+        "Castellax-Kampfautomaten",
         "Rapier",
         "Hydra",
         "Chimäre",
@@ -111,7 +111,7 @@
         },
         {
           "name": "Castellax-Manipel",
-          "units": "Ein Tech-Priester, vier Castellax-Kampffautomaten",
+          "units": "Ein Tech-Priester, vier Castellax-Kampfautomaten",
           "extraEinheits": [
           ],
           "points": 175
@@ -186,7 +186,7 @@
         },
         {
           "name": "Avenger-Staffel",
-          "units": "Zwei Avenger-Jagdbombers",
+          "units": "Zwei Avenger-Jagdbomber",
           "points": 175
         },
         {

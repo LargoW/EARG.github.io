@@ -4,7 +4,7 @@
   "version": "0.7.0",
   "release": "2022-04-01",
   "strategy": "Die Legiones Skitarii haben einen Strategiewert von 3.",
-  "Initiative": "Verbände der Collegia Titanica haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+. Außerdem unterliegt der Questoris-Banner-Verband der Sonderregel „Ritterlichkeit“. ",
+  "Initiative": "Verbände der Collegia Titanica haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+. Außerdem unterliegen Questoris-Banner-Verbände der Sonderregel „Ritterlichkeit“. ",
   "specialRules": [
     "Tunnelgräber"
   ],
@@ -185,7 +185,7 @@
         },
         {
           "name": "Avenger-Staffel",
-          "units": "Zwei Avenger-Jagdbombers",
+          "units": "Zwei Avenger-Jagdbomber",
           "points": 175
         },
         {

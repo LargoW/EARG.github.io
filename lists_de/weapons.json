@@ -16,28 +16,28 @@
             ]
         },
         {
-            "name": "KOPF (wähle eine)",
+            "name": "Kopfbewaffnung (Wähle eine)",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "Arme (wähle eine)",
+            "name": "Arme (Wähle eine)",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "ARME (wähle zwei)",
+            "name": "Armbewaffnung (Wähle zwei)",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "ARME (wähle zwei. Höchstens eine 0–1)",
+            "name": "Armbewaffnung (Wähle zwei. Höchstens eine 0–1)",
             "modes": [
                 {
                 }
@@ -51,7 +51,7 @@
             ]
         },
         {
-            "name": "BAUCH (wähle eine)",
+            "name": "Bauchbewaffnung (Wähle eine)",
             "modes": [
                 {
                 }
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "name": "Rumpfbewaffung (wähle eine)",
+            "name": "Rumpfbewaffung (Wähle eine)",
             "modes": [
                 {
                 }
@@ -378,7 +378,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Große Knarre",
+            "name": "AC Zwillings-Fette Wumme",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+/AA5+",
@@ -987,7 +987,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -1343,7 +1343,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -1488,7 +1488,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "FS"
                     ]
@@ -1537,7 +1537,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+2)",
                         "MW"
@@ -1795,7 +1795,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -2023,7 +2023,7 @@
             ]
         },
         {
-            "name": "Groß Choppas",
+            "name": "Fette Spalta",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -2034,7 +2034,7 @@
             ]
         },
         {
-            "name": "Große Knarre",
+            "name": "Fette Wumme",
             "modes": [
                 {
                     "firepower": "AP6+/AT6+",
@@ -2135,7 +2135,7 @@
                 {
                     "firepower": "AA5+",
                     "range": 30,
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -2175,7 +2175,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -2229,7 +2229,7 @@
             ]
         },
         {
-            "name": "Groß Geschütz",
+            "name": "Kanonä",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+",
@@ -2503,7 +2503,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -2522,7 +2522,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -2655,7 +2655,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "FS"
                     ]
@@ -2675,7 +2675,7 @@
             ]
         },
         {
-            "name": "Anvilus-Panzerungslandeplattform",
+            "name": "Anvilus-Landeplattform",
             "modes": [
                 {
                     "firepower": "2x AP5+/AT6+/AA6+",
@@ -2732,14 +2732,14 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "Lanze"
                     ]
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "Sturmangriff",
@@ -2748,7 +2748,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "Lanze"
                     ]
@@ -3143,7 +3143,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -3236,7 +3236,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW",
                         "Schildbohrer"
@@ -3755,7 +3755,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(W3+1)"
@@ -3772,7 +3772,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(W3+3)"
@@ -3791,7 +3791,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -3822,7 +3822,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "FS"
                     ]
@@ -4035,7 +4035,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -4051,7 +4051,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -4349,14 +4349,14 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -4407,7 +4407,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -4426,7 +4426,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -4504,7 +4504,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -4577,7 +4577,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "TK(1)"
 
@@ -4765,7 +4765,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -4917,7 +4917,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -5104,7 +5104,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -5287,7 +5287,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -5307,7 +5307,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -5327,7 +5327,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -5347,7 +5347,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -5367,7 +5367,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC",
                         "Psibolzen"
@@ -5550,7 +5550,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -5569,7 +5569,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -5588,7 +5588,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -5607,7 +5607,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -6229,7 +6229,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -6249,7 +6249,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -6371,7 +6371,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -6425,7 +6425,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -6446,7 +6446,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "Lanze",
@@ -6469,7 +6469,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW",
                         "Schildbrecher"
@@ -6541,7 +6541,7 @@
                     "range": 15
                 },
                 {
-                    "join": "and",
+                    "join": "und",
                     "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "EA(+1)",
@@ -6685,7 +6685,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+2)",
                         "MW"
@@ -6760,7 +6760,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -6812,7 +6812,7 @@
             ]
         },
         {
-            "name": "Hebewerfer",
+            "name": "Lifta Droppa",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -6823,7 +6823,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -6832,7 +6832,7 @@
             ]
         },
         {
-            "name": "Hebewerfer",
+            "name": "Lifta Droppa",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -6844,7 +6844,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -6934,7 +6934,7 @@
                     ]
                 },
                 {
-                    "join": "and",
+                    "join": "und",
                     "firepower": "Handfeuerwaffen",
                     "specialRules": [
                         "S"
@@ -6951,7 +6951,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "FS"
@@ -7071,7 +7071,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -7103,7 +7103,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -7135,7 +7135,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(W3)"
@@ -7180,7 +7180,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(W3)"
@@ -7201,7 +7201,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(W3)"
@@ -7222,7 +7222,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+2)",
                         "TK(W3)"
@@ -7318,7 +7318,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "FS"
                     ]
@@ -7429,7 +7429,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -7445,7 +7445,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -7550,7 +7550,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -7784,7 +7784,7 @@
             ]
         },
         {
-            "name": "\u0027Ore Dakka",
+            "name": "Mehr Dakka",
             "modes": [
                 {
                     "firepower": "Handfeuerwaffen",
@@ -7993,7 +7993,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(D2)"
@@ -8243,7 +8243,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -8528,7 +8528,7 @@
             ]
         },
         {
-            "name": "W3+1 Energiefelder",
+            "name": "W3+1 Schpezialfelda",
             "modes": [
                 {
                     "firepower": "n/a",
@@ -8718,7 +8718,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "Lanze"
                     ]
@@ -9007,7 +9007,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+2)",
                         "TK(W3)"
@@ -9056,7 +9056,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -9212,7 +9212,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "S"
                     ]
@@ -9280,7 +9280,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -9367,7 +9367,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -9503,7 +9503,7 @@
                 },
                 {
                     "firepower": "Sturmwaffe",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -9585,7 +9585,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -9603,7 +9603,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -9743,7 +9743,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -9843,7 +9843,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)"
                     ]
@@ -10010,7 +10010,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW",
@@ -10114,7 +10114,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -10220,7 +10220,7 @@
             ]
         },
         {
-            "name": "Stumpfe Superknarre",
+            "name": "Stumpfe Mega Kanonä",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -10232,7 +10232,7 @@
             ]
         },
         {
-            "name": "Superknarre",
+            "name": "Mega Kanonä",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -10405,7 +10405,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -10435,7 +10435,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -10513,7 +10513,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -10564,7 +10564,7 @@
                 },
                 {
                     "firepower": "Sturmwaffe",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -10584,7 +10584,7 @@
                 },
                 {
                     "firepower": "Sturmwaffe",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)"
@@ -10701,7 +10701,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "IC"
@@ -10922,7 +10922,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -11067,7 +11067,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -11087,7 +11087,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -11106,7 +11106,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -11124,7 +11124,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -11316,7 +11316,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+3)"
                     ]
@@ -11581,7 +11581,7 @@
             ]
         },
         {
-            "name": "Zwillings-Große Knarre",
+            "name": "Zwillings-Fette Wumme",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -11592,7 +11592,7 @@
             ]
         },
         {
-            "name": "Zwillings-Sawn-Off Große Knarre",
+            "name": "Zwillings-Abgesägtä Fette Wumme",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+",
@@ -11751,7 +11751,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -11771,7 +11771,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -11983,7 +11983,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -11999,7 +11999,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -12278,7 +12278,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+2)"
                     ]
@@ -12498,7 +12498,7 @@
                 },
                 {
                     "firepower": "Sturmwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -12526,7 +12526,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -12556,7 +12556,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -12588,7 +12588,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -12721,7 +12721,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -12765,7 +12765,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -12781,7 +12781,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -12820,7 +12820,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -12922,7 +12922,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]
@@ -12941,7 +12941,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "IC"
                     ]
@@ -13059,7 +13059,7 @@
                 },
                 {
                     "firepower": "Handfeuerwaffen",
-                    "join": "and",
+                    "join": "und",
                     "specialRules": [
                         "MW"
                     ]

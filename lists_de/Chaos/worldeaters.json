@@ -77,7 +77,7 @@
       "from": "chaosnavy.json",
       "units": [
         "Höllenklinge Abfangjäger",
-        "Höllentalon-Jagdbomber",
+        "Höllenklaue-Jagdbomber",
         "Kreuzer der Devastation-Klasse",
         "Schlachtschiff der Despoiler-Klasse"
       ],
@@ -228,7 +228,7 @@
         },
         {
           "name": "Höllenklaue-Staffel",
-          "units": "Zwei Höllentalon-Jagdbombers",
+          "units": "Zwei Höllenklaue-Jagdbomber",
           "points": 225
         },
         {

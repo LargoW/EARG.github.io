@@ -89,10 +89,10 @@
       ]
     },
     {
-      "name": "Kriegsrotten des Weltenschiffs Mymeara",
+      "name": "Kriegsscharn des Weltenschiffs Mymeara",
       "formations": [
         {
-          "name": "0–1 Schattengeist-Kriegsrotte",
+          "name": "0–1 Schattengeist-Kriegsschar",
           "units": "Acht Schattenspektren",
           "upgrades": [
             "Exarch, Phönixkönig"
@@ -100,7 +100,7 @@
           "points": 300
         },
         {
-          "name": "Aspektkrieger-Kriegsrotte",
+          "name": "Aspektkrieger-Kriegsschar",
           "units": "Zwei Wellenschlangen und vier Aspektkrieger-Einheiten aus folgender Auswahl: Schwarze Khaindar, Asuryans Jäger, Feuerdrachen, Banshees, Skorpionkrieger, Warpspinnen",
           "upgrades": [
             "Exarch"
@@ -108,7 +108,7 @@
           "points": 225
         },
         {
-          "name": "Gardisten-Kriegsrotte",
+          "name": "Gardisten-Kriegsschar",
           "units": "Fünf Gardisten, ein Runenleser, drei Wellenschlangen",
           "upgrades": [
             "Runenprophet"
@@ -119,7 +119,7 @@
     },
     {
       "name": "Mymeara-Verbände",
-      "description": "Für jede gewählte Kriegsrotte des Weltenschiffs Mymeara dürfen bis zu zwei Mymeara-Verbände aufgestellt werden.",
+      "description": "Für jede gewählte Kriegsschar des Weltenschiffs Mymeara dürfen bis zu zwei Mymeara-Verbände aufgestellt werden.",
       "formations": [
         {
           "name": "Korsaren-Wespen",

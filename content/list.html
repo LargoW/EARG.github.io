@@ -24,7 +24,7 @@
                         });
 
                         $.get("lists_de/" + race + "/" + list + ".log.html", function (data) {
-                            content.append("<h2>Über die Armeeliste</h2>")
+                            content.append("<h2>Über diesen Armeeorganisationsplan</h2>")
                             content.append(data);
 
                             $.get("lists_de/" + race + "/" + race + "_race.log.html", function (data) {

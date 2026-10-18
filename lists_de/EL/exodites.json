@@ -6,7 +6,7 @@
   "armyforge": "EAR_Eldar_Exodites",
   "intro": "Mit dem folgenden Armeeorganisationsplan kannst du eine Armee der Eldar-Exoditen aufstellen.",
   "strategy": "Exoditen-Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Alle Verbände haben einen Initiativewert von 2+. Die Drachenritter-, Windritter- und Ritter-Kriegsrotten der Exoditen unterliegen der Sonderregel Tapferkeit.",
+  "Initiative": "Alle Verbände haben einen Initiativewert von 2+. Die Drachenritter-, Windritter- und Ritter-Kriegsscharn der Exoditen unterliegen der Sonderregel Tapferkeit.",
   "specialRules": [
     "Weitsicht",
     "Ewiger Drache",
@@ -85,10 +85,10 @@
       ]
     },
     {
-      "name": "Exoditen-Kriegsrotten",
+      "name": "Exoditen-Kriegsscharn",
       "formations": [
         {
-          "name": "Drachenritter-Kriegsrotte",
+          "name": "Drachenritter-Kriegsschar",
           "units": "Ein Drachenfürst und acht Drachenritter",
           "points": "300",
           "extraEinheits": [
@@ -98,7 +98,7 @@
           ]
         },
         {
-          "name": "Windritter-Kriegsrotte",
+          "name": "Windritter-Kriegsschar",
           "units": "Ein Drachenfürst und acht Windritter",
           "points": "300",
           "extraEinheits": [
@@ -110,7 +110,7 @@
     },
     {
       "name": "Exoditen-Unterstützungsverbände",
-      "description": "Bis zu drei Unterstützungsformationen pro Kriegsrotten-Verband.",
+      "description": "Bis zu drei Unterstützungsformationen pro Kriegsscharn-Verband.",
       "formations": [
         {
           "name": "Drachen-Vorreiter",
@@ -192,7 +192,7 @@
           "points": 150
         },
         {
-          "name": "Exoditen-Ritterrotte",
+          "name": "Exoditen-RitterKriegsschar",
           "units": "Zwei Feuerstürme, zwei Helle Hengste oder zwei turmhohe Zerstörer-Ritter",
           "points": 275,
           "extraEinheits": [

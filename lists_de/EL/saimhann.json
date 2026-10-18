@@ -89,11 +89,11 @@
       ]
     },
     {
-      "name": "Saim-Hann-Kriegsrotten",
-      "description": "Für jede Kriegsrotte der Wilden Reiter darf jeweils eine Aspektkrieger-Kriegsrotte und eine Kriegsrotte berittener Gardisten gewählt werden.",
+      "name": "Saim-Hann-Kriegsscharn",
+      "description": "Für jede Kriegsschar der Wilden Reiter darf jeweils eine Aspektkrieger-Kriegsschar und eine Kriegsschar berittener Gardisten gewählt werden.",
         "formations": [
             {
-                "name": "Kriegsrotte der Wilden Reiter",
+                "name": "Kriegsschar der Wilden Reiter",
                 "units": "Acht Wilde Reiter von Saim-Hann, berittener Runenprophet von Saim-Hann",
                 "extraEinheits": [
                     "Ersetze bis zu drei Wilde Reiter durch Viper von Saim-Hann und/oder Schleierläufer von Saim-Hann: kostenlos",
@@ -103,7 +103,7 @@
                 "points": 275
             },
             {
-                "name": "Berittene Gardisten-Kriegsrotte",
+                "name": "Berittene Gardisten-Kriegsschar",
                 "units": "Drei Wellenschlangen, Runenprophet, fünf Gardisten",
                 "extraEinheits": [
                     "Ersetze zwei Eldar-Gardisten durch zwei Eldar-Schwerwaffenplattformen (kostenlos) oder eine Phantomdroiden-Einheit (25 Punkte)",
@@ -112,7 +112,7 @@
                 "points": 250
             },
             {
-                "name": "Aspektkrieger-Kriegsrotte",
+                "name": "Aspektkrieger-Kriegsschar",
                 "units": "Acht Sternenlanzen und/oder Kriegsfalken",
                 "extraEinheits": [
                     "Füge bis zu zwei Exarchen hinzu: 25 Punkte pro Stück"
@@ -123,7 +123,7 @@
     },
     {
       "name": "Saim-Hann-Verbände",
-      "description": "Bis zu drei Saim-Hann-Verbände pro gewählter Saim-Hann-Kriegsrotte.",
+      "description": "Bis zu drei Saim-Hann-Verbände pro gewählter Saim-Hann-Kriegsschar.",
         "formations": [
 
             {

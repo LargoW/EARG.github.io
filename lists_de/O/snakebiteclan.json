@@ -4,7 +4,7 @@
   "version": "1.0.Beta-2",
   "release": "2022-04-28",
   "armyforge": "EAR_Ork_FeralOrk",
-  "intro": "Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Kulte der Geschwindigkeit und Blitzbrigaden. Die verfügbaren Ork-Verbände sind im folgenden Armeeorganisationsplan aufgeführt.</p><p>Einige Ork-Verbände können in drei Größen aufgestellt werden: normal, groß oder riesig. Ein Großverband umfasst doppelt so viele Einheiten wie ein normaler Verband, ein Riesenverband dreimal so viele. Begrenzungen für Aufwertungen werden bei Großverbänden verdoppelt und bei Riesenverbänden verdreifacht. Ein normaler Kult der Geschwindigkeit kann beispielsweise 0–1 Oddboy enthalten, ein großer 0–2 und ein riesiger 0–3.",
+  "intro": "Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Heizakulte und Blitzbrigaden. Die verfügbaren Ork-Verbände sind im folgenden Armeeorganisationsplan aufgeführt.</p><p>Einige Ork-Verbände können in drei Größen aufgestellt werden: normal, groß oder riesig. Ein Großverband umfasst doppelt so viele Einheiten wie ein normaler Verband, ein Riesenverband dreimal so viele. Begrenzungen für Aufwertungen werden bei Großverbänden verdoppelt und bei Riesenverbänden verdreifacht. Ein normaler Heizakult kann beispielsweise 0–1 Oddboy enthalten, ein großer 0–2 und ein riesiger 0–3.",
   "strategy": "Snakebite Clan-Armeen haben einen Strategiewert von 3.",
   "Initiative": "Alle Verbände haben einen Initiativwert von 3+.",
   "specialRules": [
@@ -46,10 +46,10 @@
   ],
   "sections": [
     {
-      "name": "Kriegsrotten der Snakebites",
+      "name": "Kriegerscharen der Snakebites",
       "formations": [
         {
-          "name": "Rotte der Snakebites",
+          "name": "Mob der Snakebites",
           "units": "Zwei Brutes, sechs Huntas und drei Grots",
           "extraEinheits": [
             "beliebig viele Huntas: 15 Punkte pro Stück",
@@ -79,7 +79,7 @@
           ]
         },
         {
-          "name": "Boarboyz-Rotte",
+          "name": "Boarboyz-Mob",
           "units": "Ein Pigdok, acht Boarboyz",
           "extraEinheits": [
             "beliebig viele Boarboyz: 25 Punkte pro Stück",
@@ -103,8 +103,8 @@
       ]
     },
     {
-      "name": "Unterstützungsrotten der Snakebites",
-      "description": "Pro Kriegsrotte der Snakebites darf eine Unterstützungsrotte der Snakebites aufgestellt werden.",
+      "name": "Unterstützungsmobs der Snakebites",
+      "description": "Pro Mob der Snakebites darf ein Unterstützungsmob der Snakebites aufgestellt werden.",
       "formations": [
         {
           "name": "Junka-Brigade",
@@ -126,7 +126,7 @@
           ]
         },
         {
-          "name": "Lobba-Rotte",
+          "name": "Lobba-Mob",
           "units": "Sechs Lobbas",
           "extraEinheits": [
             "Füge bis zu 1 Einheit von Brutes hinzu: 35 Punkte"
@@ -134,7 +134,7 @@
           "points": 150
         },
         {
-          "name": "Madboyz-Rotte",
+          "name": "Madboyz-Mob",
           "units": "Sechs Madboyz",
           "extraEinheits": [
             "Füge bis zu 6 Madboyz hinzu: 25 Punkte pro Stück",
@@ -143,7 +143,7 @@
           "points": 150
         },
         {
-          "name": "Trappas-Rotte",
+          "name": "Trappas-Mob",
           "units": "Acht Trappas",
           "extraEinheits": [
             "Füge beliebig viele Trappas hinzu: 25 Punkte pro Stück"
@@ -151,7 +151,7 @@
           "points": 175
         },
         {
-          "name": "Wildboyz-Rotte",
+          "name": "Wildboyz-Mob",
           "units": "Ein Brute, sieben Wildboyz",
           "extraEinheits": [
             "beliebig viele Wildboyz: 15 Punkte pro Stück",
@@ -179,7 +179,7 @@
       "description": "Bis zu 25 % der verfügbaren Punkte dürfen für diese Verbände ausgegeben werden.",
       "formations": [
           {
-            "name": "Gargant-Rotte der Snakebites",
+            "name": "Gargant-Mob der Snakebites",
             "units": "Ein Steam Gargant",
             "extraEinheits": [
                 "Füge 1 Steam Gargant hinzu: 175 Punkte"

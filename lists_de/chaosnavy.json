@@ -16,7 +16,7 @@
         ]
       },
       {
-        "name": "Höllentalon-Jagdbomber",
+        "name": "Höllenklaue-Jagdbomber",
         "type": "AC",
         "speed": "Jagdbomber (FB)",
         "armour": 5,
@@ -356,7 +356,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "Kann einen Verband transportieren, der ausschließlich aus folgenden Einheiten besteht: Alpha-Legion-Marines, Alpha-Legion-Havocs, Alpha-Legion-Kopfjäger, Lernaean-Terminatoren oder Alpha Legion Cybots. Nach der Landung der Landungskapsel greift ihr Todeswind alle gegnerischen Einheiten innerhalb von 15 cm an. Jeder angegriffene gegnerische Verband erhält eine Beschussmarke, weil er unter Beschuss gerät, sowie eine zusätzliche Beschussmarke pro Verlust. Anschließend müssen alle transportierten Truppen innerhalb von 5 cm zur Landungskapsel oder zu einer bereits gelandeten Einheit desselben Verbands aussteigen, sofern alle Einheiten innerhalb von 15 cm zur Landungskapsel aufgestellt werden. Die Modelle der Landungskapsel sollten vom Spielfeld entfernt werden, sobald der transportierte Verband ausgestiegen ist."
+        "notes": "Kann einen Verband transportieren, der ausschließlich aus folgenden Einheiten besteht: Alpha-Legion-Marines, Alpha-Legion-Havocs, Alpha-Legion-Kopfjäger, Lernaean-Terminatoren oder Alpha Legion Cybots. Nach der Landung der Landungskapsel greift ihr Todeswind alle gegnerischen Einheiten innerhalb von 15 cm an. Jeder angegriffene gegnerische Verband erhält eine Beschussmarke, weil er unter Beschuss gerät, sowie eine zusätzliche Beschussmarke pro Verlust. Anschließend müssen alle transportierten Truppen innerhalb von 5cm zur Landungskapsel oder zu einer bereits gelandeten Einheit desselben Verbands aussteigen, sofern alle Einheiten innerhalb von 15 cm zur Landungskapsel aufgestellt werden. Die Modelle der Landungskapsel sollten vom Spielfeld entfernt werden, sobald der transportierte Verband ausgestiegen ist."
       }
     ]
   }
