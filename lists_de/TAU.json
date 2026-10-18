@@ -12,7 +12,7 @@
           "Honour Klinge"
         ],
         "specialRules": [
-          "Ethereal",
+          "Himmlischer",
           "Inspirierend",
           "Anführer",
           "Unmodifizierter Rettungswurf"
@@ -26,7 +26,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "Coordinated Fire"
+          "Koordinierter Beschuss"
         ]
       },
       {
@@ -37,7 +37,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Coordinated Fire"
+          "Koordinierter Beschuss"
         ]
       },
       {
@@ -52,7 +52,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Coordinated Fire"
+          "Koordinierter Beschuss"
         ]
       },
       {
@@ -107,7 +107,7 @@
           "Raketenbehälter"
         ],
         "specialRules": [
-          "Tau Jet Packs"
+          "Tau-Sprungmodule"
         ]
       },
       {
@@ -121,7 +121,7 @@
           "Zwillings-Impulskarabiner"
         ],
         "specialRules": [
-          "Tau Jet Packs"
+          "Tau-Sprungmodule"
         ]
       },
       {
@@ -132,8 +132,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Markerlights",
-          "Tau Jet Packs"
+          "Zielmarker",
+          "Tau-Sprungmodule"
         ]
       },
       {
@@ -146,8 +146,8 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Tau Jet Packs",
-          "Deflector Shield"
+          "Tau-Sprungmodule",
+          "Ablenkschild"
         ]
       },
       {
@@ -162,8 +162,8 @@
           "Impuls-Karabiner"
         ],
         "specialRules": [
-          "Coordinated Fire",
-          "Markerlights",
+          "Koordinierter Beschuss",
+          "Zielmarker",
           "Aufklärer"
         ]
       },
@@ -181,7 +181,7 @@
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
-          "Tau Jet Packs"
+          "Tau-Sprungmodule"
         ]
       },
       {
@@ -197,8 +197,8 @@
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
-          "Markerlights",
-          "Tau Jet Packs"
+          "Zielmarker",
+          "Tau-Sprungmodule"
         ]
       },
       {
@@ -214,10 +214,10 @@
         "specialRules": [
           "Erstschlag",
           "Verstärkte Panzerung",
-          "Markerlights",
-          "Scouts",
-          "Tau Jet Packs",
-          "Teleport"
+          "Zielmarker",
+          "Aufklärer",
+          "Tau-Sprungmodule",
+          "Teleportieren"
         ]
       },
       {
@@ -233,10 +233,10 @@
         "specialRules": [
           "Erstschlag",
           "Verstärkte Panzerung",
-          "Markerlights",
-          "Scouts",
-          "Tau Jet Packs",
-          "Teleport"
+          "Zielmarker",
+          "Aufklärer",
+          "Tau-Sprungmodule",
+          "Teleportieren"
         ]
       },
       {
@@ -251,8 +251,8 @@
         ],
         "specialRules": [
           "Aufklärer",
-          "Teleport",
-          "Tau Jet Packs",
+          "Teleportieren",
+          "Tau-Sprungmodule",
           "Zählt für den Transport als Gun Drone."
         ]
       },
@@ -267,9 +267,9 @@
           "Scharfschütze Drohne"
         ],
         "specialRules": [
-          "Teleport",
-          "Markerlights",
-          "Scouts",
+          "Teleportieren",
+          "Zielmarker",
+          "Aufklärer",
           "Zählt für den Transport als Fire Warrior."
         ]
       },
@@ -287,32 +287,32 @@
         ]
       },
       {
-        "name": "Kroot-Meisterweiser",
+        "name": "Kroot-Söldner-Meisterweiser",
         "type": "INF",
         "speed": 15,
         "armour": 6,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kroot-Gewehre"
+          "Kroot-Söldner-Gewehre"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Anführer",
           "Aufklärer"
         ]
       },
       {
-        "name": "Kroot-Krieger",
+        "name": "Kroot-Söldner-Krieger",
         "type": "INF",
         "speed": 15,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kroot-Gewehre"
+          "Kroot-Söldner-Gewehre"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Aufklärer"
         ]
       },
@@ -325,7 +325,7 @@
           "Fangzähne"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Aufklärer"
         ]
       },
@@ -337,7 +337,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Kroot-Geschütz",
+          "Kroot-Söldner-Geschütz",
           "Krootox-Klauen"
         ],
         "specialRules": [
@@ -351,7 +351,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Kroot-Bolterwerfer",
+          "Kroot-Söldner-Bolterwerfer",
           "Knarloc Klauen"
         ],
         "specialRules": [
@@ -388,9 +388,9 @@
           "Erstschlag",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
-          "Markerlights",
+          "Zielmarker",
           "Tau Jet Pack",
-          "Teleport",
+          "Teleportieren",
           "Geländegängig"
         ]
       },
@@ -436,8 +436,8 @@
           "Tetra Impulsgewehre"
         ],
         "specialRules": [
-          "Coordinated Fire",
-          "Markerlights",
+          "Koordinierter Beschuss",
+          "Zielmarker",
           "Aufklärer",
           "Antigrav"
         ]
@@ -457,7 +457,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "Kann zwei Einheiten Fire Warriors oder Pathfinders transportieren."
+        "notes": "Kann zwei Einheiten Feuerkrieger oder Späher transportieren."
       },
       {
         "name": "Schwertfisch",
@@ -473,7 +473,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "Kann eine Einheit Gun Drones transportieren."
+        "notes": "Kann eine Einheit Angriffsdrohnen transportieren."
       },
       {
         "name": "Raketen-Hammerhai",
@@ -491,7 +491,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "Kann 1 Einheit Gun Drones transportieren."
+        "notes": "Kann 1 Einheit Angriffsdrohnen transportieren."
       },
       {
         "name": "Ionen-Hammerhai",
@@ -509,7 +509,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "Kann 1 Einheit Gun Drones transportieren."
+        "notes": "Kann 1 Einheit Angriffsdrohnen transportieren."
       },
       {
         "name": "Massebeschleuniger-Hammerhai",
@@ -557,7 +557,7 @@
         ],
         "specialRules": [
           "Antigrav",
-          "Markerlights"
+          "Zielmarker"
         ]
       },
       {
@@ -589,7 +589,7 @@
         ],
         "specialRules": [
           "Tau Jet Pack",
-          "Tau Deflector Shield",
+          "Tau Ablenkschild",
           "Geländegängig"
         ]
       },
@@ -623,7 +623,7 @@
           "Impuls-Treiberkanone||FwA",
           "Zerstörer Raketen|2|",
           "Geschwindigkeitspeiler",
-          ">Support-Konfiguration<",
+          ">Unterstützungswaffen-Konfiguration<",
           "Impuls-Druckwellenkanone||FwA",
           "Zwillings-Intelligentes Raketensystem|2|",
           "Geschwindigkeitspeiler"
@@ -653,11 +653,11 @@
         "specialRules": [
           "Schadenskapazität: 5",
           "Furchtlos",
-          "Tau Deflector Shield",
+          "Tau Ablenkschild",
           "Geländegängig"
         ],
         "notes": "Mit einem Nexus-Raketenarray, einer Schweren Schienenkanone oder einem Puls-Ordnance-Multitreiber bewaffnet.",
-        "crit": "Der Tau Deflector Shield fällt aus und darf für den Rest des Spiels nicht mehr verwendet werden. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
+        "crit": "Der Tau Ablenkschild fällt aus und darf für den Rest des Spiels nicht mehr verwendet werden. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
       },
       {
         "name": "Manta",
@@ -675,15 +675,15 @@
         "specialRules": [
           "Schadenskapazität: 6",
           "Furchtlos",
-          "Markerlights",
+          "Zielmarker",
           "Planetfall",
           "Verstärkte Panzerung",
           "Hilfstransportschiff",
-          "Tau Deflector Shield",
+          "Tau Ablenkschild",
           "Transport"
         ],
-        "notes": "Kann zwölf Fire Warriors, Pathfinders, XV15 Stealth Battlesuits, XV25 Stealth Battlesuits, Gun Drones, Kroot Warriors, Kroot Master Shapers und Kroot Hounds transportieren. Krootox, XV8 Crisis, XV9-04 Hazard, XV88 Broadside und XV95 Ghostkeel Battlesuits zählen jeweils als zwei Einheiten. Zusätzlich können acht Piranha und Tetra mitgeführt werden. Devilfish, Hammerhead und Sky Ray zählen jeweils als zwei Einheiten.",
-        "crit": "Der Tau Deflector Shield fällt aus und darf für den Rest des Spiels nicht mehr verwendet werden. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
+        "notes": "Kann zwölf Feuerkrieger, Späher, XV15- und XV25-Geist-Kampfanzüge, Angriffsdrohnen, Kroot-Söldner-Krieger, Kroot-Söldner-Meisterweiser und Kroot-Hunde transportieren. Krootox, XV8-Krisis-, XV9-04-Hazard-, XV88-Koloss- und XV95-Schattengeist-Kampfanzüge zählen jeweils als zwei Einheiten. Zusätzlich können acht Piranhas und Tetras mitgeführt werden. Teufelsrochen, Hammerhaie und Dornenhaie zählen jeweils als zwei Einheiten.",
+        "crit": "Der Tau Ablenkschild fällt aus und darf für den Rest des Spiels nicht mehr verwendet werden. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
       }
     ]
   }

@@ -1,18 +1,18 @@
 {
-  "fraction": "Space Marines / Imperial Inquisition",
+  "fraction": "Space Marines / Imperiale Inquisition",
   "army": "Blood Ravens",
   "version": "0.5.0",
   "release": "2022-04-01",
   "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
   "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
-  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Verbände.",
+  "armyRules": "Die Sonderregel <i>Sie kennen keine Furcht</i> gilt für alle Verbände.",
   "specialRules": [
-    "Space Marine Transports",
-    "Grey Knights Transports",
-    "They Shall Know No Fear"
+    "Space-Marine-Transporter",
+    "Grey-Knights-Transporter",
+    "Sie kennen keine Furcht"
   ],
   "usage": [
-    "Die folgende Armeeliste ermöglicht es dir, eine Armee auf Grundlage der Blood Ravens mit Verbündeten des Ordo Malleus aufzustellen"
+    "Der folgende Armeeorganisationsplan ermöglicht es dir, eine Armee auf Grundlage der Blood Ravens mit Verbündeten des Ordo Malleus aufzustellen"
   ],
   "units": [
     {
@@ -40,21 +40,21 @@
         "Land Raider",
         "Land Raider Helios",
         "Vindicator",
-        "Vortimer-Land-Raider",
-        "Vortimer-Land-Raider-Redeemer",
-        "Nemesis Dreadknight",
-        "Storm Talon",
-        "Fire Raptor",
-        "Storm Eagle",
+        "Vortimer-Land-Schattenbarke",
+        "Vortimer-Land-Schattenbarke-Redeemer",
+        "Nemesis-Ritter",
+        "Sturmtalon",
+        "Feuerraptor",
+        "Sturmadler",
         "Vanguard-Klasse-Leichter-Kreuzer",
         "Grey-Knights-Angriffskreuzer",
         "Landungskapsel"
       ],
       "unitRules": [
-        "Teleport Homer",
+        "Teleportieren-Peilsender",
         "Erweiterte Befehlsreichweite",
-        "Faithful",
-        "Psybolts",
+        "Treu",
+        "Psibolzen",
         "Navis Nobilite"
       ]
     }
@@ -67,51 +67,51 @@
         {
           "name": "1 Orbitale Unterstützung",
           "units": "Vanguard-Klasse-Leichter-Kreuzer",
-          "extraUnits": [
-            "Ersetze den Light Cruiser durch ein Grey Knights Strike Cruiser: 75 Punkte"
+          "extraEinheits": [
+            "Ersetze den Leichter Kreuzer durch ein Grey Knights Angriffskreuzer: 75 Punkte"
           ],
           "points": 150
         },
         {
           "name": "Taktische Trupps",
-          "units": "Ein Blood Ravens Librarian, vier Tacticals plus Transporter",
-          "extraUnits": [
+          "units": "Ein Blood-Ravens-Scriptor, vier Taktische Trupps plus Transporter",
+          "extraEinheits": [
             "Oberbefehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Land Raiders"
           ],
           "points": 250
         },
         {
           "name": "Devastor-Trupps",
-          "units": "Ein Blood Ravens Librarian, vier Devastators plus Transporter",
-          "extraUnits": [
+          "units": "Ein Blood-Ravens-Scriptor, vier Devastor-Trupps plus Transporter",
+          "extraEinheits": [
             "Oberbefehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Land Raiders"
           ],
           "points": 275
         },
         {
           "name": "Sturmtrupps",
-          "units": "Ein Blood Ravens Librarian, vier Assaults",
-          "extraUnits": [
+          "units": "Ein Blood-Ravens-Scriptor, vier Sturmtrupps",
+          "extraEinheits": [
             "Oberbefehlshaber"
           ],
           "points": 200
         },
         {
-          "name": "Bikes",
-          "units": "Ein Blood Ravens Librarian, beliebige fünf der folgenden Einheiten: Assault Bikes, Attack Bike",
-          "extraUnits": [
+          "name": "Bike-Verband",
+          "units": "Ein Blood-Ravens-Scriptor, beliebige fünf der folgenden Einheiten: Sturm-Bikes, Trike",
+          "extraEinheits": [
             "Oberbefehlshaber"
           ],
           "points": 225
         },
                 {
           "name": "Vindicators",
-          "units": "Ein Blood Ravens Librarian, vier Vindicators",
-          "extraUnits": [
+          "units": "Ein Blood-Ravens-Scriptor, vier Vindicators",
+          "extraEinheits": [
             "Oberbefehlshaber"
           ],
           "points": 250
@@ -123,47 +123,47 @@
       "description": "Pro Blood Ravens Kontingent darf ein Grey Knights Kontingent aufgestellt werden",
       "formations": [
         {
-          "name": "Interceptor Squads",
-          "units": "Ein Justicar, drei Grey Knights Interceptor Squads",
-          "extraUnits": [
+          "name": "Grey-Knights-Abfangtrupps",
+          "units": "Ein Justicar der Grey Knights, drei Grey-Knights-Abfangtrupps",
+          "extraEinheits": [
             "Oberbefehlshaber"
           ],
           "points": 250
         },
         {
-          "name": "Strike Squads",
-          "units": "Ein Justicar, drei Grey Knights Strike Squads plus Transporter",
-          "extraUnits": [
+          "name": "Angriffstrupps",
+          "units": "Ein Justicar, drei Angriffstrupp der Grey Knightss plus Transporter",
+          "extraEinheits": [
             "Oberbefehlshaber",
-            "Grey Knights Support",
+            "Grey-Knights-Unterstützung",
             "Vortimer Razorbacks"
           ],
           "points": 250
         },
         {
-          "name": "Purgation Squads",
-          "units": "Ein Justicar, drei Grey Knights Purgation Squads plus Transporter",
-          "extraUnits": [
+          "name": "Grey-Knights-Purgatortrupps",
+          "units": "Ein Justicar der Grey Knights, drei Grey-Knights-Purgatortrupps plus Transporter",
+          "extraEinheits": [
             "Oberbefehlshaber",
-            "Grey Knights Support",
+            "Grey-Knights-Unterstützung",
             "Vortimer Razorbacks"
           ],
           "points": 275
         },
         {
           "name": "Terminatoren",
-          "units": "Ein Justicar, zwei Grey Knights Terminators",
-          "extraUnits": [
+          "units": "Ein Justicar, zwei Grey Knights Terminatoren",
+          "extraEinheits": [
             "Oberbefehlshaber",
-            "Grey Knights Support"
+            "Grey-Knights-Unterstützung"
           ],
           "points": 275
         },
         {
-          "name": "Dreadknights",
-          "units": "Zwei Nemesis Dreadknights",
-          "extraUnits": [
-          "Füge 1 additional Nemesis Dreadknight hinzu: 100 Punkte"
+          "name": "Nemesis-Ritter",
+          "units": "Zwei Nemesis-Ritter",
+          "extraEinheits": [
+          "Füge 1 zusätzlichen Nemesis-Ritter hinzu: 100 Punkte"
           ],
           "points": 250
         }
@@ -174,38 +174,38 @@
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
-          "name": "Storm Talons",
-          "units": "Zwei Storm Talons",
+          "name": "Sturmtalons",
+          "units": "Zwei Sturmtalons",
           "points": 200
         },
         {
-          "name": "Fire Raptor",
+          "name": "Feuerraptor",
           "units": "Ein Fire Raptor",
-          "extraUnits": [],
+          "extraEinheits": [],
           "points": 175
         },
         {
-          "name": "Storm Eagle",
-          "units": "Ein Storm Eagle",
+          "name": "Sturmadler",
+          "units": "Ein Sturmadler",
           "points": 175
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Upgrades",
+    "title": "Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
         "name": "(0–1 pro Armee) Oberbefehlshaber",
-        "description": "Ersetze 1 Blood Ravens Librarian durch a Blood Ravens Oberbefehlshaber, oder a Justicar durch einen Grey Knights Grand Master",
+        "description": "Ersetze einen Blood-Ravens-Scriptor durch einen Blood-Ravens-Oberbefehlshaber oder einen Justicar durch einen Großmeister der Grey Knights.",
         "points": [
           "50 Punkte"
         ]
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu 2 Dreadnoughts oder Hellfire Dreadnoughts hinzu",
+        "name": "Cybots",
+        "description": "Füge bis zu 2 Cybots oder Hellfire Cybots hinzu",
         "points": [
           "50 Punkte pro Stück",
           "75 Punkte pro Paar"
@@ -227,10 +227,10 @@
         ]
       },
             {
-        "name": "Grey Knights Support",
+        "name": "Grey-Knights-Unterstützung",
         "description": "Füge eine der folgenden Optionen zum Verband hinzu.",
         "points": [
-          "Bis zu zwei Doomglaive Dreadnoughts: 50 Punkte pro Stück",
+          "Bis zu zwei Doomglaive Cybots: 50 Punkte pro Stück",
           "Bis zu zwei Vortimer Land Raiders: 50 Punkte pro Stück",
           "Ein Vortimer Land Raider Redeemer: 50 Punkte"
         ]

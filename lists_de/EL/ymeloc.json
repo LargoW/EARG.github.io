@@ -1,17 +1,17 @@
 {
   "fraction": "Eldar",
-  "army": "Craftworld Yme-Loc",
+  "army": "Weltenschiff Yme-Loc",
   "version": "Alpha 0.6.1",
   "release": "2022-04-01",
   "strategy": "Eldar-Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Aspektkriegerformationen, Titanen und der Avatar haben einen Initiativewert von 1+. Alle anderen Formationen haben einen Initiativewert von 2+.",
+  "Initiative": "Aspektkriegerformationen, Titanen und der Avatar haben einen Initiativewert von 1+. Alle anderen Verbände haben einen Initiativewert von 2+.",
   "specialRules": [
     "Avatar (Yme-Loc)",
-    "May not Garrison (Yme-Loc)",
-    "Farsight",
-    "Hit and Run",
-    "Webway Portal",
-    "Large Webway Portal"
+    "Darf keine Garnison bilden (Yme-Loc)",
+    "Weitsicht",
+    "Schlag und Flucht",
+    "Netzportal",
+    "Großes Netzportal"
   ],
   "units": [
     {
@@ -25,7 +25,7 @@
         "Eldar-Schwerwaffenplattform",
         "Asuryans Jäger",
         "Feuerdrachen",
-        "Schwarze Kaindar",
+        "Schwarze Khaindar",
         "Banshees",
         "Skorpionkrieger",
         "Kriegsfalken",
@@ -41,12 +41,12 @@
         "Skorpion",
         "Kobra",
         "Sturmserpent",
-        "Revenant Titan",
+        "Phantom-Titan",
         "Phantomtitan",
         "Runenleser-Titan"
       ],
       "unitRules": [
-          "Holofields (x)",
+          "Holofelder (x)",
           "Lanze",
           "Schildbohrer",
           "Schildbrecher"
@@ -56,7 +56,7 @@
       "from": "eldarNavy.json",
       "units": [
         "Nachtschwinge-Abfangjäger",
-        "Phönix-Bomber",
+        "Phönix-Bomber (B)",
         "Phantomschiff",
         "Drachenschiff"
       ],
@@ -74,94 +74,94 @@
           "points": 0
         },
         {
-          "name": "0–1 Gate of Vaul",
-          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Gate of Vaul. Dieses zählt als Zielmarker und großes Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
+          "name": "0–1 Tor von Vaul",
+          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Tor von Vaul. Dieses zählt als Zielmarker und großes Netzportal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
           "points": 100
         }
       ]
     },
     {
-      "name": "Yme-Loc-Vaulhosts",
+      "name": "Yme-Loc-Kriegsrotten von Vaul",
       "formations": [
         {
-          "name": "Engines of Vaul",
-          "units": "Ein Engine of Vaul aus folgender Auswahl: Cobra, Scorpion, Storm Serpent",
-          "extraUnits": [
-            "Füge bis zu zwei zusätzliche Engines of Vaul hinzu: 200 Punkte pro Stück.",
-            "Bonesinger"
+          "name": "Kriegsmaschinen von Vaul",
+          "units": "Ein Kriegsmaschine von Vaul aus folgender Auswahl: Kobra, Skorpion, Sturmserpent",
+          "extraEinheits": [
+            "Füge bis zu zwei zusätzliche Kriegsmaschinen von Vaul hinzu: 200 Punkte pro Stück.",
+            "Knochensänger"
           ],
           "points": 250
         },
         {
-          "name": "Swords of Vaul",
+          "name": "Schwerter von Vaul",
           "units": "Sechs Falcons",
-          "extraUnits": [
-            "Ersetze bis zu zwei Falcons durch Firestorms: kostenlos",
-            "Füge sechs Guardians zur Formation hinzu: 100 Punkte"
+          "extraEinheits": [
+            "Ersetze bis zu zwei Falcons durch Feuerstürme: kostenlos",
+            "Füge sechs Gardisten zur Verband hinzu: 100 Punkte"
           ],
           "points": 275
         }
       ]
     },
     {
-      "name": "Yme-Loc-Troupes",
-      "description": "Für jede Yme-Loc Vaulhost dürfen bis zu zwei Yme-Loc-Troupes gewählt werden.",
+      "name": "Yme-Loc-Verbände",
+      "description": "Für jede Yme-Loc-Kriegsrotte von Vaul dürfen bis zu zwei Yme-Loc-Verbände gewählt werden.",
       "formations": [
         {
-          "name": "Beritten Aspect Warrior Troupe",
-          "units": "Drei Wave Serpents und sechs Aspektkrieger-Einheiten aus folgender Auswahl: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
-          "extraUnits": [
+          "name": "Berittener Aspektkriegertrupp",
+          "units": "Drei Wellenschlangen und sechs Aspektkrieger-Einheiten aus folgender Auswahl: Schwarze Khaindar, Asuryans Jäger, Feuerdrachen, Banshees, Skorpionkrieger, Kriegsfalken",
+          "extraEinheits": [
             "Exarch"
           ],
           "points": 325
         },
         {
-          "name": "Beritten Guardian Troupe",
-          "units": "Zwei Wave Serpents, zwei Falcons, ein Farseer, fünf Guardians",
-          "extraUnits": [
-            "Heavy Weapons"
+          "name": "Berittener Gardistentrupp",
+          "units": "Zwei Wellenschlangen, zwei Falcons, ein Runenprophet, fünf Gardisten",
+          "extraEinheits": [
+            "Schwere Waffen"
           ],
           "points": 300
         },
         {
-          "name": "Lynx Troupe",
-          "units": "Zwei Lynx",
-          "extraUnits": [
+          "name": "Luchs-Trupp",
+          "units": "Zwei Luchse",
+          "extraEinheits": [
           ],
           "points": 275
         },
         {
-          "name": "Wind Rider Troupe",
-          "units": "Sechs Vypers",
-          "extraUnits": [
+          "name": "Windreiter-Truppe",
+          "units": "Sechs Viper",
+          "extraEinheits": [
           ],
           "points": 200
         },
         {
-          "name": "Fire Prism Troupe",
-          "units": "Drei Fire Prisms",
-          "extraUnits": [
+          "name": "Illum-Zar-Trupp",
+          "units": "Drei Illum Zars",
+          "extraEinheits": [
           ],
           "points": 250
         },
         {
-          "name": "Fire Spinner Troupe",
-          "units": "Drei Night Spinners, ein Firestorm",
-          "extraUnits": [
+          "name": "Feuerwirbler-Trupp",
+          "units": "Drei Nachtspinnen, ein Feuersturm",
+          "extraEinheits": [
           ],
           "points": 225
         },
         {
-          "name": "Warp Hunter Troupe",
-          "units": "Drei Warp Hunters",
-          "extraUnits": [
+          "name": "Warpjägertrupp",
+          "units": "Drei Warpjäger",
+          "extraEinheits": [
           ],
           "points": 175
         },
         {
-          "name": "Hornet Troupe",
+          "name": "Hornissen-Trupp",
           "units": "Vier Hornets",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge bis zu zwei Hornets hinzu: 50 Punkte pro Stück"
           ],
           "points": 200
@@ -170,50 +170,50 @@
     },
     {
       "name": "Yme-Loc-Flugzeuge, Raumschiffe und Titanen",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Formationen ausgegeben werden..",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden..",
       "formations": [
         {
-          "name": "Nightwing Aerie",
-          "units": "Zwei Nightwing Interceptors",
-          "extraUnits": [
-            "Füge 1 Nightwing Interceptor hinzu: 75 Punkte"
+          "name": "Nachtschwingen-Staffel",
+          "units": "Zwei Nachtschwingen-Abfangjäger",
+          "extraEinheits": [
+            "Füge 1 Nachtschwinge-Abfangjäger hinzu: 75 Punkte"
           ],
           "points": 225
         },
         {
-          "name": "Phoenix Aerie",
-          "units": "Drei Phoenix Bombers",
-          "extraUnits": [
+          "name": "Phönix-Bomberstaffel",
+          "units": "Drei Phönix-Bomber (B)",
+          "extraEinheits": [
           ],
           "points": 325
         },
         {
-          "name": "Revenants",
-          "units": "Zwei Revenant Titans",
-          "extraUnits": [
+          "name": "Phantom-Titanen",
+          "units": "Zwei Phantom-Titanen",
+          "extraEinheits": [
           ],
           "points": 650
         },
         {
           "name": "Phantom",
-          "units": "Ein Phantom Titan",
-          "extraUnits": [
-            "Bonesinger"
+          "units": "Ein Phantomtitan",
+          "extraEinheits": [
+            "Knochensänger"
           ],
           "points": 700
         },
         {
-          "name": "0–1 Warlock Titan",
-          "units": "Ein Warlock Titan",
-          "extraUnits": [
+          "name": "0–1 Runenleser-Titan",
+          "units": "Ein Runenleser-Titan",
+          "extraEinheits": [
           ],
           "points": 850
         },
         {
           "name": "0–1 Raumschiff",
-          "units": "Ein Wraithship",
-          "extraUnits": [
-            "Ersetze durch ein Dragonship: 125 Punkte"
+          "units": "Ein Phantomschiff",
+          "extraEinheits": [
+            "Ersetze es durch ein Drachenschiff: 125 Punkte"
           ],
           "points": 175
         }
@@ -221,22 +221,22 @@
     }
   ],
   "upgrades": {
-    "title": "Yme-Loc Upgrades",
+    "title": "Aufwertungen von Yme-Loc",
     "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
         "name": "Exarch",
-        "description": "Füge 1 Eldar Exarch zu einer Aspect-Warriors-Einheit hinzu",
+        "description": "Füge 1 Eldar-Exarch zu einer Aspektkrieger-Einheit hinzu",
         "points": "25 Punkte"
       },
       {
-        "name": "Heavy Weapons",
-        "description": "Ersetze bis zu drei Eldar Guardians durch Eldar Heavy Weapon Platforms",
+        "name": "Schwere Waffen",
+        "description": "Ersetze bis zu drei Eldar-Gardisten durch Eldar-Schwerwaffenplattformen",
         "points": "kostenlos"
       },
       {
-        "name": "0–1 Bonesinger",
-        "description": "Füge 1 Bonesinger zu einer Kriegsmaschinen-Einheit im Verband hinzu.",
+        "name": "0–1 Knochensänger",
+        "description": "Füge einer Kriegsmaschinen-Einheit im Verband einen Knochensänger hinzu.",
         "points": "50 Punkte"
       }
     ]

@@ -9,7 +9,7 @@
   "specialRules": [
   ],
   "usage": [
-    "Diese Armeeliste ermöglicht es dir, eine Armee der Skitarii des Adeptus Mechanicus aufzustellen."
+    "Dieser Armeeorganisationsplan ermöglicht es dir, eine Armee der Skitarii des Adeptus Mechanicus aufzustellen."
   ],
   "units": [
     {
@@ -17,7 +17,7 @@
       "units": [
         "Magos Dominus",
         "Magos",
-        "Tech-Priester",
+        "Tech-Priesterer",
         "Hypaspisten",
         "Sagitarii",
         "Prätorianische Kampfservitoren",
@@ -27,7 +27,7 @@
         "Hydra",
         "Chimäre",
         "Chimedon",
-        "Leman Russ",
+        "Leman Russ Kampfpanzer",
         "Leman-Russ-Belagerungspanzer",
         "Leman-Russ-Henker",
         "Ordinatus Minoris",
@@ -45,26 +45,26 @@
     {
       "from": "QK.json",
       "units": [
-        "Knight-Paladin"
+        "Ritter-Paladin"
       ],
       "unitRules": [
-        "Bravery",
-        "Ionen Schild (x)",
+        "Tapferkeit",
+        "Ionenschild (x)",
         "Sturmangriff",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schweres gepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
       "from": "ImperialAllies.json",
       "units": [
         "Warhound ",
-        "Reaver Titan",
-        "Warlord Titan"
+        "Reaver-Titan",
+        "Warlord-Titan"
       ],
       "unitRules": [
-        "Null Schilde",
+        "Null-Schilde",
         "Göttermaschine",
-        "Split Fire"
+        "Geteiltes Feuer"
       ]
     }
   ],
@@ -73,11 +73,11 @@
       "name": "Legiones Metalica Kernverbände",
       "formations": [
         {
-          "name": "Hypaspist Maniple",
-          "units": "Ein Magos, neun Hypaspists",
-          "extraUnits": [
-            "Ersetze 3 Hypaspists durch 3 Rapiers: kostenlos",
-            "Ersetze 2 Hypaspists durch 2 Sagitarii: 25 Punkte",
+          "name": "Hypaspist-Manipel",
+          "units": "Ein Magos, neun Hypaspisten",
+          "extraEinheits": [
+            "Ersetze drei Hypaspisten kostenlos durch drei Rapiers",
+            "Ersetze zwei Hypaspisten durch zwei Sagitarii: 25 Punkte",
             "Minoris",
             "Oberbefehlshaber",
             "Hypaspist Transport",
@@ -92,49 +92,49 @@
       "description": "Pro Kernverband dürfen bis zu drei Metalica Line Verbände aufgestellt werden.",
       "formations": [
         {
-          "name": "Ballistae Cohort",
+          "name": "Ballistae-Kohorte",
           "units": "Vier Sagitarii",
-          "extraUnits": [
+          "extraEinheits": [
             "Ersetze 1 Einheit von Sagitarii durch 3 Rapiers: 25 Punkte",
-            "Füge genug Chimeras oder Chimedons hinzu, um den Verband ohne freie Plätze zu transportieren: 25 Punkte pro Stück",
+            "Füge genug Chimären oder Chimedons hinzu, um den Verband ohne freie Plätze zu transportieren: 25 Punkte pro Stück",
             "Hydra"
           ],
           "points": 150
         },
         {
-          "name": "Kastelan Maniple",
-          "units": "Ein Tech-Priest, fünf Kastelan-Roboter",
-          "extraUnits": [
+          "name": "Kastelan-Manipel",
+          "units": "Ein Tech-Priester, fünf Kastelan-Roboter",
+          "extraEinheits": [
             "Füge bis zu 2 Kastelan-Roboter hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         },
         {
-          "name": "Castellax Maniple",
-          "units": "Ein Tech-Priest, vier Castellax Battle-Automata",
-          "extraUnits": [
+          "name": "Castellax-Manipel",
+          "units": "Ein Tech-Priester, vier Castellax-Kampffautomaten",
+          "extraEinheits": [
           ],
           "points": 175
         },
         {
-          "name": "Praetorian Maniple",
-          "units": "Ein Tech-Priest, fünf Praetorian Combat Servitors",
-          "extraUnits": [
+          "name": "Praetorianer-Manipel",
+          "units": "Ein Tech-Priester, fünf Praetorian Combat Servitors",
+          "extraEinheits": [
           ],
           "points": 250
         },
         {
-          "name": "Cataphractii Maniple",
+          "name": "Cataphractii-Manipel",
           "units": "Sechs Leman Russ, Leman Russ Demolishers oder Leman Russ Executioners",
-          "extraUnits": [
+          "extraEinheits": [
             "Hydra"
           ],
           "points": 375
         },
         {
-          "name": "Minoris Cohort",
+          "name": "Minoris-Kohorte",
           "units": "Zwei Ordinatus Minoris",
-          "extraUnits": [
+          "extraEinheits": [
             "Minoris",
             "Unterstützungswaffe"
           ],
@@ -143,8 +143,8 @@
         {
           "name": "0–1 Ordinatus Majoris",
           "units": "Ein Ordinatus Armageddon (Nova Cannon)",
-          "extraUnits": [
-            "Ordinatus Mars (Sonic Disruptor)",
+          "extraEinheits": [
+            "Ordinatus Mars (Schallstörsender)",
             "Ordinatus Golgotha (Hellfire Missiles)"
           ],
           "points": 425
@@ -156,42 +156,42 @@
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
-          "name": "Paladin Household",
-          "units": "Fünf Knight-Paladins",
-          "extraUnits": [
+          "name": "Paladin-Haus",
+          "units": "Fünf Ritter-Paladins",
+          "extraEinheits": [
           ],
           "points": 450
         },
         {
-          "name": "Warhound Pack",
-          "units": "Zwei Warhound Scout Titans, beide entweder in Standard- oder Support-Konfiguration",
-          "extraUnits": [
-            "Tank-Hunter-Konfiguration"
+          "name": "Warhound-Rudel",
+          "units": "Zwei Warhound-Scout-Titanen, beide entweder in Standard- oder Unterstützungskonfiguration",
+          "extraEinheits": [
+            "Panzerjäger-Konfiguration"
           ],
           "points": 475
         },
         {
           "name": "Reaver-Titan",
-          "units": "Ein Reaver Titan",
-          "extraUnits": [
+          "units": "Ein Reaver-Titan",
+          "extraEinheits": [
           ],
           "points": 600
         },
         {
           "name": "Warlord-Titan",
-          "units": "Ein Warlord Titan",
-          "extraUnits": [
+          "units": "Ein Warlord-Titan",
+          "extraEinheits": [
           ],
           "points": 750
         },
         {
-          "name": "Avenger Squadron",
-          "units": "Zwei Avenger Strike Fighters",
+          "name": "Avenger-Staffel",
+          "units": "Zwei Avenger-Jagdbombers",
           "points": 175
         },
         {
-          "name": "0–1 Mechanicus Battleship",
-          "units": "Ein Ark Mechanicus Battleship",
+          "name": "0–1 Mechanicus Schlachtschiff",
+          "units": "Ein Ark-Mechanicus-Schlachtschiff",
           "points": 225
         }
       ]
@@ -208,14 +208,14 @@
       },
       {
         "name": "Hypaspist-Transporter",
-        "description": "Füge 1 Gorgon, 5 Chimeras, oder 5 Chimedons hinzu",
+        "description": "Füge 1 Gorgon, 5 Chimären, oder 5 Chimedons hinzu",
         "options": [
           {
             "description": "Ein Gorgon",
             "points": "100 Punkte"
           },
           {
-            "description": "Fünf Chimeras",
+            "description": "Fünf Chimären",
             "points": "125 Punkte"
           },
           {
@@ -241,7 +241,7 @@
       },
       {
         "name": "Ordinatus Mars",
-        "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Mars (Sonic Disruptor)",
+        "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Mars (Schallstörsender)",
         "points": "kostenlos"
       },
       {
@@ -250,8 +250,8 @@
         "points": "50 Punkte"
       },
       {
-        "name": "Tank Hunter",
-        "description": "Werte beide Warhounds auf Tank-Hunter-Konfiguration auf",
+        "name": "Panzerjäger",
+        "description": "Werte beide Warhound-Titanen auf die Panzerjäger-Konfiguration auf",
         "points": "50 Punkte"
       }
     ]

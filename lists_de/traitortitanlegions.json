@@ -31,7 +31,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Daemonic Focus"
+          "Dämonischer Fokus"
         ]
       },
       {
@@ -48,7 +48,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -69,7 +69,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Null Schilde 1",
+          "Null-Schilde 1",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -92,11 +92,11 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Death Storm oder Plasma Furnace"
+          "Muss entweder mit Todessturm oder Plasmaofen bewaffnet sein."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "Die Einheit erleidet 1 Schaden."
@@ -115,7 +115,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -136,7 +136,7 @@
           "Rumpfbewaffung (wähle eine)",
           "Corruptos Chaos Kanone|0-1|FxF",
           "Plasma-Verbrenner|0-1|FxF",
-          "Cyclone Kanone|0-1|FxF",
+          "Cyclone-Kanone|0-1|FxF",
           "Arme (wähle eine)",
           "2x Turboblaster||FwA",
           "2x Hex Kanone||FwA",
@@ -144,7 +144,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -167,7 +167,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -192,11 +192,11 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Hex Cannon, Turbo Blaster oder Plasma Cremator"
+          "Muss entweder mit Hex-Kanone, Turboblaster oder Plasma-Kremator bewaffnet sein."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -216,11 +216,11 @@
         ],
         "specialRules": [
           "Schadenskapazität 7",
-          "Null Schilde 3",
+          "Null-Schilde 3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Rot Cannon, Turbo Blaster oder Plasma Cremator"
+          "Muss entweder mit Fäulniskanone, Turboblaster oder Plasma-Kremator bewaffnet sein."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -241,11 +241,11 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Hex Cannon, Turbo Blaster oder Plasma Cremator"
+          "Muss entweder mit Hex-Kanone, Turboblaster oder Plasma-Kremator bewaffnet sein."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -259,17 +259,17 @@
         "weapons": [
           "Hex Kanone|0-1|FwA",
           "Turboblaster|0-1|FwA",
-          "Coruscant Hail|0-1|FwA",
+          "Coruscant-Hagel|0-1|FwA",
           "Strahl der Veränderung||FwA",
           "Flak-Flammenkanone"
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either Hex Cannon, Turbo Blaster oder Coruscant Hail"
+          "Muss entweder mit Hex-Kanone, Turboblaster oder Coruscant-Hagel bewaffnet sein."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -289,9 +289,9 @@
         ],
         "specialRules": [
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Schadenskapazität 8",
-          "Null Schilde 6",
+          "Null-Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -308,7 +308,7 @@
         "weapons": [
           "Strahl der Ekstase|0-1|FwA",
           "Plasma-Verbrenner|0-1|FwA",
-          "Cyclone Kanone|0-1|FwA",
+          "Cyclone-Kanone|0-1|FwA",
           "Strahlblaster|0-1|FwA",
           "Gekoppelte Schallverwüster||FxF",
           "Musk Flegel",
@@ -316,13 +316,13 @@
         ],
         "specialRules": [
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Schadenskapazität 8",
-          "Null Schilde 6",
+          "Null-Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either a Beam of Ecstasy, Plasma Incinerator, Cyclone Cannon oder Beam Blaster"
+          "Muss entweder mit Strahl der Ekstase, Plasma-Verbrenner, Cyclone-Kanone oder Strahlblaster bewaffnet sein."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -335,7 +335,7 @@
         "ff": 3,
         "weapons": [
           "Plasma-Verbrenner|0-1|FwA",
-          "Cyclone Kanone|0-1|FwA",
+          "Cyclone-Kanone|0-1|FwA",
           "Strahlblaster|0-1|FwA",
           "Schwerer Seuchenmörser||FxF",
           "Corruption Kanone||FxF",
@@ -343,13 +343,13 @@
         ],
         "specialRules": [
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Schadenskapazität 9",
-          "Null Schilde 5",
+          "Null-Schilde 5",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either a Plasma Incinerator, Cyclone Cannon oder Beam Blaster"
+          "Muss entweder mit Plasma-Verbrenner, Cyclone-Kanone oder Strahlblaster bewaffnet sein."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -363,7 +363,7 @@
         "weapons": [
           "Höllenschlagkanone|0-1|FwA",
           "Plasma-Verbrenner|0-1|FwA",
-          "Cyclone Kanone|0-1|FwA",
+          "Cyclone-Kanone|0-1|FwA",
           "Strahlblaster|0-1|FwA",
           "Havoc-Sperrfeuer-Rakete|6|FxF",
           "Schwanzgeschütz",
@@ -371,13 +371,13 @@
         ],
         "specialRules": [
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Schadenskapazität 8",
-          "Null Schilde 6",
+          "Null-Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either a Hellstrike Cannon, Plasma Incinerator, Cyclone Cannon oder Beam Blaster"
+          "Muss entweder mit Höllenschlagkanone, Plasma-Verbrenner, Cyclone-Kanone oder Strahlblaster bewaffnet sein."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -397,13 +397,13 @@
         ],
         "specialRules": [
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Schadenskapazität 8",
-          "Null Schilde 6",
+          "Null-Schilde 6",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Must be armed with either two Tzeentch Cannons, two Plasma Incinerators oder two Beam Blasters"
+          "Muss entweder mit zwei Tzeentch-Kanonen, zwei Plasma-Verbrennern oder zwei Strahlblastern bewaffnet sein."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind. Effekt eines Kritischen Treffers: Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jedes Spielzugs für jeden Schaden an der Einheit mit einem W6. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5 cm erleiden bei 5+ einen Treffer; bei 4–6 wurde der Schaden repariert. Jeder nicht reparierte Schaden verursacht 1 Schadenspunkt."
       },
@@ -423,9 +423,9 @@
         ],
         "specialRules": [
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Schadenskapazität 10",
-          "Null Schilde 8",
+          "Null-Schilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
@@ -449,9 +449,9 @@
         ],
         "specialRules": [
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Schadenskapazität 11",
-          "Null Schilde 7",
+          "Null-Schilde 7",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
@@ -475,9 +475,9 @@
         ],
         "specialRules": [
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Schadenskapazität 10",
-          "Null Schilde 8",
+          "Null-Schilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
@@ -500,9 +500,9 @@
         ],
         "specialRules": [
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Schadenskapazität 10",
-          "Null Schilde 8",
+          "Null-Schilde 8",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",

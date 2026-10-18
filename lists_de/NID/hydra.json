@@ -1,21 +1,21 @@
 {
   "fraction": "Tyranid",
-  "army": "Hive Fleet Hydra",
+  "army": "Schwarmflotte Hydra",
   "version": "1.0.Beta-2",
   "release": "2024-05-21",
   "armyforge": "EAR_Tyranid_HiveFleetHydra",
   "strategy": "Tyraniden-Armeen haben einen Strategiewert von 1.",
-  "Initiative": "Der Nexus Spawn-Schwarm hat einen Initiativewert von 1+. Alle anderen Tyraniden-Formationen haben einen Initiativewert von 2+. Außerdem unterliegen alle Formationen der Sonderregel Hive Mind.",
+  "Initiative": "Der Nexus Spawn-Schwarm hat einen Initiativewert von 1+. Alle anderen Tyraniden-Verbände haben einen Initiativewert von 2+. Außerdem unterliegen alle Verbände der Sonderregel Schwarmbewusstsein.",
   "specialRules": [
-    "Extreme Mobility",
-    "Hive Mind",
-    "Hive Mind Locus",
-    "Shoot the Big Ones!",
+    "Extreme Beweglichkeit",
+    "Schwarmbewusstsein",
+    "Knoten des Schwarmbewusstseins",
+    "Schießt auf die Großen!",
     "Synapse",
-    "Swarming"
+    "Schwarmbildung"
   ],
   "usage": [
-    "Mit der folgenden Armeeliste kannst du eine Armee der Tyraniden-Schwarmflotte Hydra aufstellen."
+    "Mit dem folgenden Armeeorganisationsplan kannst du eine Armee der Tyraniden-Schwarmflotte Hydra aufstellen."
   ],
   "units": [
     {
@@ -43,7 +43,7 @@
         "Malefaktor",
         "Stachel-Carnifex",
         "Kreischer-Killer-Carnifex",
-        "Harpyie",
+        "Harpyieie",
         "Schwarmdrude",
         "Schwarmwachen",
         "Tervigon",
@@ -56,10 +56,10 @@
         "Hydraphant"
       ],
       "unitRules": [
-        "Assisted Swarming",
-        "Augmented Swarming(+x)",
-        "Gaunts",
-        "Heavy Armoured Vehicle (H-AV)",
+        "Unterstützte Schwarmbildung",
+        "Verstärkte Schwarmbildung (+x)",
+        "Ganten",
+        "Schweres gepanzertes Fahrzeug (H-AV)",
         "Regeneration"
       ]
     }
@@ -69,31 +69,31 @@
       "name": "Primäre Synapsenschwärme",
       "formations": [
         {
-          "name": "0–1 Nexus Spawn Swarm",
-          "units": "Ein Hydra Dominatrix",
-          "extraUnits": [
-            "Ein bis vier Instinctive Swarms"
+          "name": "0–1 Nexus-Brutschwarm",
+          "units": "Ein Hydra-Dominatrix",
+          "extraEinheits": [
+            "Ein bis vier Instinktive Schwärme"
           ],
           "points": 400
         },
         {
-          "name": "Tyrant Swarm",
-          "units": "Ein Hive Tyrant",
-          "extraUnits": [
-            "Zwei bis vier Instinctive Swarms",
-            "Ersetze einen Hive Tyrant durch einen Hive Tyrant Shrike: kostenlos",
-            "0–1 Hive Tyrant in der Armee darf durch einen Swarmlord oder einen Swarmlord Shrike ersetzt werden: 75 Punkte"
+          "name": "Tyrannenschwarm",
+          "units": "Ein Schwarmtyrant",
+          "extraEinheits": [
+            "Zwei bis vier Instinktive Schwärme",
+            "Ersetze einen Schwarmtyrant durch einen Schwarmtyrant Shrike: kostenlos",
+            "0–1 Schwarmtyrant in der Armee darf durch einen Schwarmherrscher oder einen Schwarmherrscher-Shrike ersetzt werden: 75 Punkte"
           ],
           "points": 125
         },
         {
-          "name": "Assault Swarm",
-          "units": "Zwei Tyranid Warriors",
-          "extraUnits": [
-            "Ein bis zwei Instinctive Swarms",
-            "Mindestens 1 aus Gaunts, Gargoyles oder Bio-Support muss gewählt werden",
-            "Ersetze zwei Tyranid Warriors durch Tyranid Warrior Shrikes: kostenlos",
-            "Ersetze zwei Tyranid Warriors durch Zoanthropes: 25pts"
+          "name": "Sturmschwarm",
+          "units": "Zwei Tyranidenkrieger",
+          "extraEinheits": [
+            "Ein bis zwei Instinktive Schwärme",
+            "Mindestens 1 aus Ganten, Gargoyles oder Bio-Unterstützung muss gewählt werden",
+            "Ersetze zwei Tyranidenkrieger kostenlos durch Tyranidenkrieger-Shrikes",
+            "Ersetze zwei Tyranidenkrieger durch Zoantrophen: 25pts"
           ],
           "points": 100
         }
@@ -101,53 +101,53 @@
     },
     {
       "name": "Sekundäre Synapsenschwärme",
-      "description": "Pro Primary Synapse Swarm darf bis zu ein Secondary Synapse Swarm gewählt werden.",
+      "description": "Pro Primärsynapsenschwarm darf bis zu ein Sekundärsynapsenschwarm gewählt werden.",
       "formations": [
          {
-          "name": "Tervigon Spawn Swarm",
-          "units": "Ein Tervigon und zwei Barbgaunts, zwei Hormagaunts, oder zwei Termagants",
-          "extraUnits": [
-            "Füge 1 Tervigon und zwei Barbgaunts, zwei Hormagaunts, oder zwei Termagants hinzu: 100 Punkte",
-            "Ein bis zwei Instinctive Swarms"
+          "name": "Tervigon-Brutschwarm",
+          "units": "Ein Tervigon und zwei Barbgaunts, zwei Hormaganten, oder zwei Termaganten",
+          "extraEinheits": [
+            "Füge 1 Tervigon und zwei Barbgaunts, zwei Hormaganten, oder zwei Termaganten hinzu: 100 Punkte",
+            "Ein bis zwei Instinktive Schwärme"
           ],
           "points": 150
         },
         {
-          "name": "Harridan Swarm",
-          "units": "Ein Hive Harridan",
-          "extraUnits": [
-            "Füge 1 Hive Harridan hinzu: 100 Punkte",
-            "Null bis zwei Instinctive Swarms, ausgewählt aus Gargoyles oder Bio-Flyers"
+          "name": "Harridan-Schwarm",
+          "units": "Ein Schwarm-Harridan",
+          "extraEinheits": [
+            "Füge 1 Schwarm-Harridan hinzu: 100 Punkte",
+            "Null bis zwei Instinktive Schwärme, ausgewählt aus Gargoyles oder Bio-Flieger"
           ],
           "points": 175
         },
         {
           "name": "Brutnest",
-          "units": "Ein Spawn Nest",
-          "extraUnits": [
-            "Ein bis zwei Instinctive Swarms ausgewählt aus Gaunts, Bio-Artillery, Bio-Support oder Nest-Guard"
+          "units": "Ein Brutnest",
+          "extraEinheits": [
+            "Ein bis zwei Instinktive Schwärme, ausgewählt aus Ganten, Bio-Artillerie, Bio-Unterstützung oder Nestwache"
           ],
           "points": 150
         }
       ]
     },
     {
-      "name": "Häufige unabhängige Schwärme",
-      "description": "Pro Primary Synapse Swarm darf bis zu ein Common Independent Swarm gewählt werden. Diese Formationen dürfen höchstens ein Drittel der Armee ausmachen.",
+      "name": "Gewöhnliche unabhängige Schwärme",
+      "description": "Pro Primärsynapsenschwarm darf bis zu ein gewöhnlicher unabhängiger Schwarm gewählt werden. Diese Verbände dürfen höchstens ein Drittel der Armee ausmachen.",
       "formations": [
         {
-          "name": "Genestealer Swarm",
-          "units": "Ein Brood Lord, sechs Genestealers",
-          "extraUnits": [
-            "Füge bis zu drei Genestealers hinzu: 25 Punkte pro Stück"
+          "name": "Symbiontenschwarm",
+          "units": "Ein Symbiontenlord, sechs Symbionten",
+          "extraEinheits": [
+            "Füge bis zu drei Symbionten hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         },
         {
-          "name": "Infiltratoren Swarm",
-          "units": "Vier Lictors",
-          "extraUnits": [
-            "Ersetze vier Lictors durch vier Dimachaerons: kostenlos"
+          "name": "Infiltratorenschwarm",
+          "units": "Vier Liktors",
+          "extraEinheits": [
+            "Ersetze vier Liktors durch vier Dimachaerons: kostenlos"
           ],
           "points": 225
         }
@@ -155,13 +155,13 @@
     },
     {
       "name": "Seltene unabhängige Schwärme",
-      "description": "Pro Primary Synapse Swarm darf bis zu ein Rare Independent Swarm gewählt werden. Diese Formationen dürfen höchstens ein Drittel der Armee ausmachen.",
+      "description": "Pro Primärsynapsenschwarm darf bis zu ein seltener unabhängiger Schwarm gewählt werden. Diese Verbände dürfen höchstens ein Drittel der Armee ausmachen.",
       "formations": [
         {
-          "name": "Bio-Titan",
-          "units": "Ein Hierophant Bio-Titan",
-          "extraUnits": [
-            "Ersetze den Hierophant durch einen Hydraphant Bio-Titan: 100 Punkte"
+          "name": "Biotitan",
+          "units": "Ein Hierophant Biotitan",
+          "extraEinheits": [
+            "Ersetze den Hierophant durch einen Hydraphant Biotitan: 100 Punkte"
           ],
           "points": 325
         }
@@ -172,7 +172,7 @@
       "description": "Füge beliebig viele Einheiten hinzu, die das Spiel im Schwarmvorrat beginnen.",
       "formations": [
         {
-          "name": "Gaunt",
+          "name": "Gant",
           "units": "Füge dem Schwarmvorrat zwei Punkte hinzu.",
           "points": 15
         }
@@ -180,16 +180,16 @@
     }
   ],
   "upgrades": {
-    "title": "Instinctive Swarms",
-    "description": "Das Mindestmass an Instinctive Swarms muss zwingend gekauft werden.",
+    "title": "Instinktive Schwärme",
+    "description": "Das Mindestmaß an instinktiven Schwärmen muss zwingend ausgewählt werden.",
     "items": [
       {
-        "name": "Gaunts",
-        "description": "Fünf Termagants, Hormagaunts und/oder Barbgaunts",
+        "name": "Ganten",
+        "description": "Fünf Termaganten, Hormaganten und/oder Barbgaunts",
         "points": "75 Punkte"
       },
       {
-        "name": "Bio-Support",
+        "name": "Bio-Unterstützung",
         "description": "Vier Biovores und/oder Pyrovores",
         "points": "75 Punkte"
       },
@@ -199,8 +199,8 @@
         "points": "75 Punkte"
       },
       {
-        "name": "Bio-Flyers",
-        "description": "Drei Harpies oder drei Hive Crones",
+        "name": "Bio-Flieger",
+        "description": "Drei Harpies oder drei Schwarmdrudes",
         "points": "100 Punkte"
       },
       {
@@ -209,18 +209,18 @@
         "points": "75 Punkte"
       },
       {
-        "name": "Bio-Attack",
-        "description": "Zwei Exocrines oder zwei Malefactors",
+        "name": "Bio-Angriff",
+        "description": "Zwei Exocrines oder zwei Malefaktors",
         "points": "75 Punkte"
       },
       {
-        "name": "Bio-Artillery",
+        "name": "Bio-Artillerie",
         "description": "Drei Dactylis oder zwei Tyrannofexes",
         "points": "125 Punkte"
       },
       {
-        "name": "Nest-Guard (only Swarm Nest formations)",
-        "description": "Zwei Hive Guard",
+        "name": "Brutnestwache (nur Brutnest-Verbände)",
+        "description": "Zwei Schwarmwachen",
         "points": "50 Punkte"
       }
     ]

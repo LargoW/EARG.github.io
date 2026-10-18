@@ -62,7 +62,7 @@
               "img": "images/AstraMilitarum_Catachan.jpg"
             },
             {
-              "name": "Death Korps of Krieg",
+              "name": "Todeskorps von Krieg",
               "file": "deathkorps",
               "status": "approved",
               "img": "images/AstraMilitarum_Korps.jpg"
@@ -223,7 +223,7 @@
               "img": "images/Chaos_Noise.jpg"
             },
             {
-              "name": "Iron Warriors",
+              "name": "Iron Krieger",
               "file": "ironwarriors",
               "status": "approved",
               "img": "images/Chaos_Iron.jpg"
@@ -256,7 +256,7 @@
         },
         {
           "name": "Chaos-Kultisten",
-          "abbreviation": "Cultists",
+          "abbreviation": "Kultisten",
           "lists": [
             {
               "name": "Dämonischer Einfall",

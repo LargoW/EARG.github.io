@@ -1,33 +1,33 @@
 {
   "fraction": "Adeptus Mechanicus",
-  "army": "Knight World",
+  "army": "Ritterwelt",
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_KnightWorld",
-  "strategy": "Knight World-Armeen haben einen Strategiewert von 2.",
-  "Initiative": "Alle Verbände haben einen Initiativwert von 2+. Außerdem unterliegen alle Knight-Household-Verbände der Sonderregel „Bravery“. ",
+  "strategy": "Ritterwelt-Armeen haben einen Strategiewert von 2.",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 2+. Außerdem unterliegen alle Ritterhaus-Verbände der Sonderregel „Tapferkeit“.",
   "specialRules": [
-    "Bravery",
-    "Fortified Positions"
+    "Tapferkeit",
+    "Befestigte Stellungen"
   ],
   "units": [
     {
       "from": "QK.json",
       "units": [
-        "Seneschal",
-        "Knight-Baron",
-        "Knight-Paladin",
-        "Knight-Castellan",
-        "Knight-Lancer",
-        "Knight-Warden Demolisher",
-        "Knight-Warden Vanquisher",
-        "Knight-Warden Skysweeper",
-        "Knight-Errant"
+        "Seneschall",
+        "Ritter-Baron",
+        "Ritter-Paladin",
+        "Ritter-Castellan",
+        "Ritter-Lancer",
+        "Ritter-Warden-Demolisher",
+        "Ritter-Warden-Vanquisher",
+        "Ritter-Warden-Skyjäger",
+        "Ritter-Errant"
       ],
       "unitRules": [
-        "Ionen Schild (x)",
+        "Ionenschild (x)",
         "Sturmangriff",
-        "Heavy Armoured Vehicle (H-AV)",
+        "Schweres gepanzertes Fahrzeug (H-AV)",
         "Lanze"
       ]
     },
@@ -48,8 +48,8 @@
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Thunderbolt Fighter",
-        "Marauder Bomber"
+        "Donnerkeil-Jäger",
+        "Marauder-Bomber (B)"
       ],
       "unitRules": [
       ]
@@ -57,94 +57,94 @@
   ],
   "sections": [
     {
-      "name": "Knight World Kernhauss",
+      "name": "Ritterwelt-Kernhäuser",
       "formations": [
         {
-          "name": "Paladin Household",
-          "units": "Fünf Knight-Paladins",
-          "extraUnits": [
-            "Seneschal",
-            "Knight-Paladins",
-            "Knight-Baron"
+          "name": "Paladin-Haus",
+          "units": "Fünf Ritter-Paladins",
+          "extraEinheits": [
+            "Seneschall",
+            "Ritter-Paladins",
+            "Ritter-Baron"
           ],
           "points": 450
         }
       ]
     },
     {
-      "name": "Knight World Unterstützungshäuser",
+      "name": "Ritterwelt-Unterstützungshäuser",
       "description": "Pro Kernhaus dürfen bis zu zwei Unterstützungshäuser aufgestellt werden.",
       "formations": [
         {
-          "name": "Castellan Household",
-          "units": "Zwei Knight-Castellans (beliebige Kombination von Konfigurationen)",
-          "extraUnits": [
-            "Seneschal",
-            "Knight-Castellans"
+          "name": "Castellan-Haus",
+          "units": "Zwei Ritter-Castellans (beliebige Kombination von Konfigurationen)",
+          "extraEinheits": [
+            "Seneschall",
+            "Ritter-Castellans"
           ],
           "points": 300
         },
         {
-          "name": "Errant Household",
-          "units": "Drei Knight-Errants",
-          "extraUnits": [
-            "Seneschal",
-            "Knight-Errants"
+          "name": "Errant-Haus",
+          "units": "Drei Ritter-Errants",
+          "extraEinheits": [
+            "Seneschall",
+            "Ritter-Errants"
           ],
           "points": 325
         },
         {
-          "name": "Lancer Household",
-          "units": "Drei Knight-Lancer",
-          "extraUnits": [
-            "Seneschal",
-            "Knight-Lancer"
+          "name": "Lancer-Haus",
+          "units": "Drei Ritter-Lancer",
+          "extraEinheits": [
+            "Seneschall",
+            "Ritter-Lancer"
           ],
           "points": 350
         },
         {
-          "name": "Warden Household",
-          "units": "Vier Knight-Wardens (beliebige Kombination von Konfigurationen)",
-          "extraUnits": [
-            "Seneschal",
-            "Knight-Wardens"
+          "name": "Warden-Haus",
+          "units": "Vier Ritter-Wardens (beliebige Kombination von Konfigurationen)",
+          "extraEinheits": [
+            "Seneschall",
+            "Ritter-Wardens"
           ],
           "points": 350
         }
       ]
     },
     {
-      "name": "Knight World Gefolgsverbände",
+      "name": "Ritterwelt Gefolgsverbände",
       "description": "Pro Kern- oder Unterstützungshaus darf bis zu ein Gefolgsverband aufgestellt werden.",
       "formations": [
         {
-          "name": "Planetary Defense Platoon",
-          "units": "Acht PDF Infantry",
-          "extraUnits": [
-            "Land Transporters",
-            "Support Weapons",
-            "Entrenchments"
+          "name": "Planetarer Verteidigungszug",
+          "units": "Acht Infanteristen der Planetaren Verteidigungsstreitkräfte (INF)",
+          "extraEinheits": [
+            "Kultisten-Landtransporter",
+            "Unterstützungswaffen",
+            "Schanzanlagen"
           ],
           "points": 150
         },
         {
-          "name": "Rough Rider Platoon",
-          "units": "Sechs Rough Riders",
-          "extraUnits": [
+          "name": "Kavalleriezug",
+          "units": "Sechs Kavallerie",
+          "extraEinheits": [
           ],
           "points": 150
         },
         {
-          "name": "Flak Emplacement",
-          "units": "Drei Heavy AA Guns, drei Gun Emplacements",
-          "extraUnits": [
+          "name": "Flakstellung",
+          "units": "Drei schwere Flugabwehrgeschütze, drei Geschützstellungen",
+          "extraEinheits": [
           ],
           "points": 175
         },
         {
-          "name": "Howitzer Emplacement",
-          "units": "Vier Howitzers, vier Gun Emplacements",
-          "extraUnits": [
+          "name": "Haubitzenstellung",
+          "units": "Vier Haubitzen, vier Geschützstellungen",
+          "extraEinheits": [
           ],
           "points": 275
         }
@@ -155,77 +155,77 @@
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Imperiale Flotte Verbände ausgegeben werden.",
       "formations": [
         {
-          "name": "Thunderbolt Squadron",
-          "units": "Zwei Thunderbolt Fighters",
+          "name": "Donnerkeil-Staffel",
+          "units": "Zwei Donnerkeil-Jägers",
           "points": 175
         },
         {
-          "name": "Marauder Squadron",
-          "units": "Zwei Marauder Bombers",
+          "name": "Marauder-Staffel",
+          "units": "Zwei Marauder-Bomber (B)",
           "points": 250
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Knight World Aufwertungen",
+    "title": "Ritterwelt Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "Seneschal",
-        "description": "Füge 1 Seneschal zum Verband hinzu",
+        "name": "Seneschall",
+        "description": "Füge 1 Seneschall zum Verband hinzu",
         "points": "25 Punkte"
       },
       {
-        "name": "0–1 Knight-Baron",
-        "description": "Ersetze den Seneschal und seinen Knight durch einen Knight-Baron",
+        "name": "0–1 Ritter-Baron",
+        "description": "Ersetze den Seneschall und seinen Ritter durch einen Ritter-Baron",
         "points": "50 Punkte"
       },
             {
-        "name": "Knight-Paladins",
-        "description": "Füge bis zu 2 Knight-Paladins hinzu",
+        "name": "Paladin-Ritter",
+        "description": "Füge bis zu 2 Ritter-Paladins hinzu",
         "points": "75 Punkte pro Stück"
       },
       {
-        "name": "Knight-Castellans",
-        "description": "Füge bis zu 2 Knight-Castellans in beliebiger Konfiguration hinzu",
+        "name": "Castellan-Ritter",
+        "description": "Füge bis zu 2 Ritter-Castellans in beliebiger Konfiguration hinzu",
         "points": "125 Punkte pro Stück"
       },
       {
-        "name": "Knight-Lancer",
-        "description": "Füge bis zu 2 Knight-Lancers hinzu",
+        "name": "Lancer-Ritter",
+        "description": "Füge bis zu 2 Ritter-Lancers hinzu",
         "points": "100 Punkte pro Stück"
       },
       {
-        "name": "Knight-Wardens",
-        "description": "Füge bis zu 2 Knight-Wardens in beliebiger Konfiguration hinzu",
+        "name": "Warden-Ritter",
+        "description": "Füge bis zu zwei Questoris-Ritter-Wardens in beliebiger Konfiguration hinzu",
         "points": "75 Punkte pro Stück"
       },
       {
-        "name": "Knight-Errants",
-        "description": "Füge bis zu 2 Knight-Errants hinzu",
+        "name": "Errant-Ritter",
+        "description": "Füge bis zu 2 Ritter-Errants hinzu",
         "points": "100 Punkte pro Stück"
       },
       {
-        "name": "Land Transporters",
-        "description": "Füge 4 Land Transporters hinzu (keine weiteren Aufwertungen möglich).",
+        "name": "Kultisten-Landtransporter",
+        "description": "Füge 4 Kultisten-Landtransporter hinzu (keine weiteren Aufwertungen möglich).",
         "points": "25 Punkte"
       },
       {
-        "name": "Support Weapons",
-        "description": "Füge 3 Rapiers oder 2 Thudd Guns hinzu",
+        "name": "Unterstützungswaffen",
+        "description": "Füge 3 Rapiers oder 2 Thudd-Geschütze hinzu",
         "points": "50 Punkte"
       },
       {
-        "name": "Entrenchments",
-        "description": "40cm Razor Wire, 40cm Trenches",
+        "name": "Schanzanlagen",
+        "description": "40 cm Stacheldraht, 40 cm Schützengräben",
         "points": "50 Punkte"
       }
     ]
   },
   "about": [
-    "v1.0.Beta: Die Liste Knight World ist eine Mischung aus den Knight-Listen von E-UK und NetEA, wobei Werte und Struktur aus beiden übernommen wurden. Da diese Listen auf dem Retro-40k-Hintergrund der 1990er Jahre beruhen, wurden die Namen der meisten Knights geändert, um Namenskonflikte mit den Knights des aktuellen Hintergrunds zu vermeiden.",
-    "Die grösste Änderung gegenüber den Knights von E-UK und NetEA ist offensichtlich, dass Knights nicht mehr DC2 WE sind, sondern stattdessen H-AV. Diese Änderung macht Knight-Verbände deutlich vernünftiger zu spielen und zu bekämpfen und erleichtert es erheblich, innerhalb der EA-Regeln zu bleiben. Sie bedeutet auch, dass das Ausschalten des Baron mit einem Pin-Point kein Problem mehr darstellt.",
+    "Version 1.0 Beta: Die Ritterwelt-Liste ist eine Mischung aus den Ritterlisten von E-UK und NetEA, wobei Werte und Struktur aus beiden übernommen wurden. Da diese Listen auf dem Retro-40k-Hintergrund der 1990er-Jahre beruhen, wurden die Namen der meisten Ritter geändert, um Namenskonflikte mit den Rittern des aktuellen Hintergrunds zu vermeiden.",
+    "Die größte Änderung gegenüber den Ritterlisten von E-UK und NetEA ist, dass Ritter keine DC2-WE mehr sind, sondern stattdessen H-AV. Dadurch lassen sich Ritterverbände vernünftiger spielen und bekämpfen, und es ist deutlich einfacher, innerhalb der EA-Regeln zu bleiben. Außerdem ist es nun kein Problem mehr, den Baron mit einem Punktziel-Angriff auszuschalten.",
     "Eine weitere wesentliche Änderung ist, dass die Retainer-Verbände leichter zugänglich sind, wodurch die Liste etwas flexibler wird."
   ]
 }

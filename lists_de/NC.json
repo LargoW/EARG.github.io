@@ -19,7 +19,7 @@
           "Furchtlos",
           "Inspirierend",
           "Regeneration",
-          "Enduring"
+          "Ausdauernd"
         ]
       },
       {
@@ -39,7 +39,7 @@
           "Regeneration",
           "Beritten",
           "Antigrav",
-          "Enduring"
+          "Ausdauernd"
         ]
       },
       {
@@ -102,11 +102,11 @@
           "Klauen"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Regeneration",
-          "Teleport"
+          "Teleportieren"
         ],
-        "notes": "„The Unbidden“: Flayed Ones dürfen nur um Missionsziele konkurrieren, müssen das Spiel in Reserve beginnen und dürfen keine Necron-Portale verwenden."
+        "notes": "„Die Ungebetenen“: Alpträume dürfen nur um Missionsziele konkurrieren, müssen das Spiel in Reserve beginnen und dürfen keine Necron-Portale verwenden."
       },
       {
         "name": "Extinktoren",
@@ -144,13 +144,13 @@
         "ff": 5,
         "weapons": [
           "Teilchenstrahler",
-          "Tomb Spyder Klauen"
+          "Gruftspinnenklauen"
         ],
         "specialRules": [
           "Furchtlos",
           "Regeneration",
           "Anführer",
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
@@ -165,7 +165,7 @@
           "Furchtlos",
           "Maschinengeist",
           "Entbehrlich",
-          "Infiltratorens",
+          "Infiltratoren",
           "Regeneration"
         ]
       },
@@ -184,7 +184,7 @@
           "Entbehrlich",
           "Aufklärer",
           "Regeneration",
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
@@ -232,7 +232,7 @@
         "specialRules": [
           "Regeneration",
           "Aufklärer",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -280,10 +280,10 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Living Metal",
+          "Lebendes Metall",
           "Portal",
           "Antigrav",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -299,9 +299,9 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Living Metal",
+          "Lebendes Metall",
           "Antigrav",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -317,7 +317,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Antigrav",
-          "Enduring"
+          "Ausdauernd"
         ],
         "notes": "Transport: 2 Infanterieeinheiten"
       },
@@ -335,7 +335,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Antigrav",
-          "Enduring"
+          "Ausdauernd"
         ]
       },
       {
@@ -351,7 +351,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Antigrav",
-          "Enduring",
+          "Ausdauernd",
           "Befehlshaber",
           "Anführer"
         ]
@@ -370,7 +370,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Antigrav",
-          "Enduring"
+          "Ausdauernd"
         ]
       },
       {
@@ -386,7 +386,7 @@
         "specialRules": [
           "Regeneration",
           "Geländegängig",
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
@@ -406,7 +406,7 @@
           "Entbehrlich",
           "Regeneration",
           "Geländegängig",
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
@@ -422,7 +422,7 @@
           "Regeneration",
           "Furchtlos",
           "Maschinengeist",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -460,9 +460,9 @@
           "Schadenskapazität 2",
           "Furchtlos",
           "Maschinengeist",
-          "Living Metal",
-          "Teleport",
-          "Enduring"
+          "Lebendes Metall",
+          "Teleportieren",
+          "Ausdauernd"
         ],
         "crit": "Pylon wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 4+ einen Treffer."
       },
@@ -481,11 +481,11 @@
           "Schadenskapazität 4",
           "Furchtlos",
           "Portal",
-          "Living Metal",
+          "Lebendes Metall",
           "Antigrav",
-          "Teleport",
+          "Teleportieren",
           "Transport",
-          "Enduring"
+          "Ausdauernd"
         ],
         "notes": "Kann bis zu zwei Monolithen oder Obelisken transportieren.",
         "crit": "Das Portal des Megalith wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
@@ -502,9 +502,9 @@
         "specialRules": [
           "Schadenskapazität 6",
           "Furchtlos",
-          "Living Metal",
+          "Lebendes Metall",
           "Hilfstransportschiff",
-          "Enduring"
+          "Ausdauernd"
         ],
         "crit": "Æonic Orb wird zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer."
       },
@@ -522,10 +522,10 @@
         "specialRules": [
           "Schadenskapazität 6",
           "Furchtlos",
-          "Living Metal",
+          "Lebendes Metall",
           "Portal",
           "Antigrav",
-          "Enduring"
+          "Ausdauernd"
         ],
         "crit": "Das Portal des Abattoir wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
       }

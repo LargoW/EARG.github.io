@@ -36,8 +36,8 @@
         "Chaos Stalker"
       ],
       "unitRules": [
-          "Augment Summoning (+x)",
-          "Daemonic Focus"
+          "Verstärkte Beschwörung (+x)",
+          "Dämonischer Fokus"
       ]
     },
     {
@@ -60,9 +60,9 @@
       "from": "daemons.json",
       "units": [
         "Daemonettes of Slaanesh",
-        "Fiends of Slaanesh",
+        "Slaaneshbestien",
         "Seekers of Slaanesh",
-        "Keeper of Secrets"
+        "Hüter der Geheimnisse"
       ],
       "unitRules": [
       ]

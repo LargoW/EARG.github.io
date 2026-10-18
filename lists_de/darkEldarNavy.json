@@ -5,9 +5,9 @@
     ],
     "unit": [
       {
-        "name": "Razorwing Interceptor",
+        "name": "Razorwing-Abfangjäger",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 4,
         "weapons": [
           "AC Schattenlanze|2|",
@@ -18,9 +18,9 @@
         ]
       },
       {
-        "name": "Voidraven Interdictor",
+        "name": "Voidraven-Abfangjäger",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber (FB)",
         "armour": 4,
         "weapons": [
           "AC-Zwillings-Leerenlanze",
@@ -31,9 +31,9 @@
         ]
       },
       {
-        "name": "Slavebringer Assault Boat",
+        "name": "Sklavenbringer-Angriffsboot",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -51,7 +51,7 @@
         "crit": "Slavebringer und alle Einheiten an Bord werden zerstört."
       },
       {
-        "name": "Torture Class Cruiser",
+        "name": "Kreuzer der Torture-Klasse",
         "type": "SC",
         "weapons": [
           {

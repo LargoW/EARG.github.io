@@ -8,7 +8,7 @@
       {
         "name": "Barracuda",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 6,
         "weapons": [
           "AC Ionenkanone",
@@ -21,7 +21,7 @@
       {
         "name": "Rasierhai-Jäger",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 6,
         "weapons": [
           "Flakk-Raketenwerfer",
@@ -31,9 +31,9 @@
         ]
       },
       {
-        "name": "Sonnenhai-Bomber",
+        "name": "Sonnenhai-Bomber (B)",
         "type": "AC",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "weapons": [
           "AC-Impulsbombengenerator",
@@ -46,7 +46,7 @@
       {
         "name": "Schwertfisch-Jagdbomber",
         "type": "AC",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "weapons": [
           "Höllenschneider-Kampfklaue",
@@ -56,12 +56,12 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann drei Gun Drones transportieren."
+        "notes": "Kann drei Angriffsdrohnen transportieren."
       },
       {
         "name": "Schwertfisch AX-1-0",
         "type": "AC",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "weapons": [
           "AC-Zwillings-Schienenkanone",
@@ -75,7 +75,7 @@
       {
         "name": "Orca",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -88,7 +88,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "Kann zwölf Fire Warriors, Pathfinders, XV15 Stealth Battlesuits, XV25 Stealth Battlesuits, Gun Drones, Broadsides, Kroot Warriors, Kroot Master Shaper und Kroot Hounds transportieren. XV8 Crisis, XV9-04 Hazard, XV88 Broadside und XV95 Ghostkeel Battlesuits zählen jeweils als zwei Einheiten. Zusätzlich zu anderer Fracht können bis zu zwei Gun Drones mitgeführt werden.",
+        "notes": "Kann zwölf Feuerkrieger, Späher, XV15- und XV25-Geist-Kampfanzüge, Angriffsdrohnen, XV88-Koloss-Kampfanzüge, Kroot-Söldner-Krieger, Kroot-Söldner-Meisterweiser und Kroot-Hunde transportieren. XV8-Krisis-, XV9-04-Hazard-, XV88-Koloss- und XV95-Schattengeist-Kampfanzüge zählen jeweils als zwei Einheiten. Zusätzlich zur übrigen Fracht können bis zu zwei Angriffsdrohnen mitgeführt werden.",
         "crit": "Orca und alle transportierten Einheiten werden zerstört."
       },
       {

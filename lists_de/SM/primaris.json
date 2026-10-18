@@ -4,15 +4,15 @@
   "version": "1.0.beta",
   "release": "2022-05-28",
   "armyforge": "EAR_AdeptusAstartes_Primaris",
-  "intro": "Diese Armeeliste ermöglicht es dir, eine Armee der Primaris Space Marines aufzustellen.",
+  "intro": "Dieser Armeeorganisationsplan ermöglicht es dir, eine Armee der Primaris Space Marines aufzustellen.",
   "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
   "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
-  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Primaris-Kontingente und Flugzeugverbände.",
+  "armyRules": "Die Sonderregel <i>Sie kennen keine Furcht</i> gilt für alle Primaris-Kontingente und Flugzeugverbände.",
   "specialRules": [
-    "They Shall Know No Fear"
+    "Sie kennen keine Furcht"
   ],
   "usage": [
-    "Die folgende Armeeliste ..."
+    "Der folgende Armeeorganisationsplan ..."
   ],
   "units": [
     {
@@ -41,15 +41,15 @@
         "Gladiator-Lancer",
         "Gladiator-Reaper",
         "Gladiator-Valiant",
-        "Storm Speeder Thunderstrike",
-        "Storm Speeder Hammerstrike",
-        "Storm Talon",
+        "Storm-Speeder Thunderstrike",
+        "Storm-Speeder Hammerstrike",
+        "Sturmtalon",
         "Astraeus"
       ],
       "unitRules": [
         "Lanze",
-        "Overlord Insertion",
-        "Null Schilde"
+        "Einsatz des Overlords",
+        "Null-Schilde"
       ]
     }
   ],
@@ -58,13 +58,13 @@
       "name": "Primaris Kernkontingente",
       "formations": [
         {
-          "name": "Battle Line Squad",
-          "units": "Vier Intercessors, Assault Intercessors oder Hellblasters",
-          "extraUnits": [
-            "Close Support",
+          "name": "Gefechtslinientrupp",
+          "units": "Vier Intercessoren, Sturm-Intercessoren oder Hellblasters",
+          "extraEinheits": [
+            "Nahunterstützung",
             "Befehlshaber",
             "Transports",
-            "Geländegängigs"
+            "Läufer"
           ],
           "points": 250
         }
@@ -74,33 +74,33 @@
       "name": "Primaris Elitekontingente",
       "formations": [
         {
-          "name": "Inceptor Squad",
+          "name": "Inceptortrupp",
           "units": "Vier Inceptors",
-          "extraUnits": [
+          "extraEinheits": [
             "Befehlshaber"
           ],
           "points": 325
         },
         {
-          "name": "Suppressor Squad",
+          "name": "Suppressortrupp",
           "units": "Vier Suppressors",
-          "extraUnits": [
+          "extraEinheits": [
             "Befehlshaber"
           ],
           "points": 325
         },
         {
-          "name": "Reiver Squad",
+          "name": "Reivertrupp",
           "units": "Vier Reivers",
-          "extraUnits": [
+          "extraEinheits": [
             "Befehlshaber"
           ],
           "points": 250
         },
         {
-          "name": "Infiltratoren Squad",
-          "units": "Vier Infiltratorens",
-          "extraUnits": [
+          "name": "Infiltratoren-Trupp",
+          "units": "Vier Infiltratoren",
+          "extraEinheits": [
             "Befehlshaber"
           ],
           "points": 225
@@ -111,44 +111,44 @@
       "name": "Primaris Unterstützungskontingente",
       "formations": [
         {
-          "name": "Fire Support Squad",
+          "name": "Feuerunterstützungstrupp",
           "units": "Drei Aggressors oder drei Eradicators",
-          "extraUnits": [
-            "Close Support",
+          "extraEinheits": [
+            "Nahunterstützung",
             "Befehlshaber",
             "Transports",
-            "Geländegängigs"
+            "Läufer"
           ],
           "points": 250
         },
         {
-          "name": "Eliminator Squad",
+          "name": "Eliminatortrupp",
           "units": "Vier Eliminators",
-          "extraUnits": [
+          "extraEinheits": [
             "Transports"
           ],
           "points": 175
         },
         {
-          "name": "Outrider Squad",
+          "name": "Ausreitertrupp",
           "units": "Vier Outriders",
-          "extraUnits": [
+          "extraEinheits": [
             "Befehlshaber",
             "Füge 2 Invaders hinzu: 75 Punkte"
           ],
           "points": 250
         },
         {
-          "name": "Storm Speeders",
-          "units": "Drei Storm Speeders, Hammerstrike oder Thunderstrike configuration",
-          "extraUnits": [
+          "name": "Storm-Speeder",
+          "units": "Drei Storm-Speeder, Hammerstrike oder Thunderstrike configuration",
+          "extraEinheits": [
           ],
           "points": 175
         },
         {
           "name": "Gladiators",
           "units": "Vier Gladiators, Lancer oder Reaper configuration",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 250
         }
@@ -159,8 +159,8 @@
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
-          "name": "Storm Talons",
-          "units": "Zwei Storm Talons",
+          "name": "Sturmtalons",
+          "units": "Zwei Sturmtalons",
           "points": 200
         },
         {
@@ -176,7 +176,7 @@
     "description": "Jede Aufwertung darf pro Kontingent nur einmal gewählt werden.",
     "items": [
       {
-        "name": "Close Support",
+        "name": "Nahunterstützung",
         "description": "Füge bis zu 2 Gladiator Valiants hinzu",
         "points": "50 Punkte pro Stück"
       },
@@ -185,7 +185,7 @@
         "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {
-            "description": "Captain, Librarian",
+            "description": "Captain, Scriptor",
             "points": "25 Punkte"
           },
           {
@@ -213,11 +213,11 @@
         ]
       },
       {
-        "name": "Geländegängigs",
+        "name": "Läufer",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Füge bis zu 2 Redemptor Dreadnoughts hinzu",
+            "description": "Füge bis zu 2 Redemptor Cybots hinzu",
             "points": "75 Punkte pro Stück"
           },
           {

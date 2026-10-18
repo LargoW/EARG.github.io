@@ -23,20 +23,20 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Iron-Warriors-Kriegsschmied",
+        "name": "Iron-Krieger-Kriegsschmied",
         "type": "CH",
         "weapons": [
           "Servoarm"
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Battlefield Repairs",
-          "Bionics",
+          "Reparaturen auf dem Schlachtfeld",
+          "Bionik",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -48,7 +48,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Daemonic Pact",
+          "Dämonenpakt",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -73,7 +73,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Inspirierend",
-          "Augment Summoning (+2D3)",
+          "Verstärkte Beschwörung (+2D3)",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -98,8 +98,8 @@
         "specialRules": [
           "Inspirierend",
           "Oberbefehlshaber",
-          "Heralds of Truth",
-          "Augment Summoning (+W3)",
+          "Herolde der Wahrheit",
+          "Verstärkte Beschwörung (+W3)",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -122,22 +122,22 @@
           "Verdammnissirene"
         ],
         "specialRules": [
-            "Daemonic Focus",
+            "Dämonischer Fokus",
             "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Iron-Warriors-Warpenschmied",
+        "name": "Iron-Krieger-Warpenschmied",
         "type": "CH",
         "weapons": [
           "Servoarm"
         ],
         "specialRules": [
           "Anführer",
-          "Battlefield Repairs",
-          "Bionics",
+          "Reparaturen auf dem Schlachtfeld",
+          "Bionik",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -162,7 +162,7 @@
         "specialRules": [
           "Befehlshaber",
           "Anführer",
-          "Daemonic Pact",
+          "Dämonenpakt",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -208,8 +208,8 @@
             "n/a"
         ],
         "specialRules": [
-          "Heralds of Truth",
-          "Augment Summoning (+W3)",
+          "Herolde der Wahrheit",
+          "Verstärkte Beschwörung (+W3)",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -233,10 +233,10 @@
           "Dämonisch Possession"
         ],
         "specialRules": [
-          "Augment Summoning (+2D3)",
+          "Verstärkte Beschwörung (+2D3)",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "Darf geopfert werden. Vor dem Wurf für die Beschwörungspunkte des Verbands wird die Fähigkeit Augment Summoning (+2D3) dieser Einheit durch Augment Summoning (+6) ersetzt. Nach diesem Wurf wird die Einheit mit dem Champion zerstört; Schutzwürfe sind nicht zulässig. Eine auf diese Weise geopferte Einheit verursacht keinen Beschussmarker."
+        "notes": "Darf geopfert werden. Vor dem Wurf für die Beschwörungspunkte des Verbands wird die Fähigkeit Verstärkte Beschwörung (+2D3) dieser Einheit durch Verstärkte Beschwörung (+6) ersetzt. Nach diesem Wurf wird die Einheit mit dem Champion zerstört; Schutzwürfe sind nicht zulässig. Eine auf diese Weise geopferte Einheit verursacht keinen Beschussmarker."
       },
       {
         "name": "Night-Lords-Sergeant",
@@ -256,8 +256,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Augment Summoning (+1)",
-          "Daemonic Focus",
+          "Verstärkte Beschwörung (+1)",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
@@ -269,8 +269,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Augment Summoning (+W3)",
-          "Daemonic Focus",
+          "Verstärkte Beschwörung (+W3)",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -288,10 +288,10 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
-          "Teleport",
+          "Sprungmodule",
+          "Teleportieren",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -309,11 +309,11 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
-          "Teleport",
+          "Sprungmodule",
+          "Teleportieren",
           "Furchtlos",
-          "Daemonic Focus",
-          "Daemonic Pact",
+          "Dämonischer Fokus",
+          "Dämonenpakt",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -330,12 +330,12 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Heralds of Truth",
+          "Herolde der Wahrheit",
           "Verstärkte Panzerung",
-          "Jump Pack",
+          "Sprungmodule",
           "Furchtlos",
-          "Daemonic Focus",
-          "Augment Summoning (+W3)",
+          "Dämonischer Fokus",
+          "Verstärkte Beschwörung (+W3)",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -353,10 +353,10 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
-          "Teleport",
+          "Sprungmodule",
+          "Teleportieren",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -374,10 +374,10 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
-          "Teleport",
+          "Sprungmodule",
+          "Teleportieren",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -395,10 +395,10 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
-          "Teleport",
+          "Sprungmodule",
+          "Teleportieren",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -417,10 +417,10 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
-          "Warp Rift",
+          "Sprungmodule",
+          "Warp-Riss",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -473,7 +473,7 @@
         ]
       },
       {
-        "name": "Iron-Warriors-Sturmmarines",
+        "name": "Iron-Krieger-Sturmmarines",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -507,7 +507,7 @@
         ]
       },
       {
-        "name": "Iron-Warriors-Havocs",
+        "name": "Iron-Krieger-Havocs",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -564,7 +564,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Scharfschütze Gewehre"
+          "Scharfschützengewehre"
         ],
         "specialRules": [
           "Aufklärer"
@@ -583,7 +583,7 @@
         ],
         "specialRules": [
           "Starrköpfig",
-          "Infiltratorens",
+          "Infiltratoren",
           "Aufklärer",
           "Sabotage"
         ]
@@ -760,7 +760,7 @@
           "Warp-Klauen"
         ],
         "specialRules": [
-          "Teleport",
+          "Teleportieren",
           "Sprungmodule",
           "Furchtlos"
         ],
@@ -778,7 +778,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Infiltratorens",
+          "Infiltratoren",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -795,7 +795,7 @@
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -812,7 +812,7 @@
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -829,7 +829,7 @@
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -847,7 +847,7 @@
         "specialRules": [
           "Starrköpfig",
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -865,7 +865,7 @@
         "specialRules": [
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -883,7 +883,7 @@
         "specialRules": [
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -901,7 +901,7 @@
         "specialRules": [
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -919,7 +919,7 @@
         "specialRules": [
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Warp Rift",
+          "Warp-Riss",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -931,13 +931,13 @@
         "cc": 4,
         "ff": 2,
         "weapons": [
-          "Manifested Body Waffen"
+          "Waffen des manifestierten Körpers"
         ],
         "specialRules": [
           "Furchtlos",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -953,7 +953,7 @@
           "Furchtlos",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -1044,7 +1044,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators und Obliterators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren und Kyborgs) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Chaos-Belagerungsrhino",
@@ -1060,7 +1060,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators und Obliterators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren und Kyborgs) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Alpha-Legion-Rhino",
@@ -1076,7 +1076,7 @@
           "Starrköpfig",
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Death-Guard-Rhino",
@@ -1091,7 +1091,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Emperor's-Children-Rhino",
@@ -1106,7 +1106,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "World-Eaters-Rhino",
@@ -1121,7 +1121,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Thousand-Sons-Rhino",
@@ -1137,7 +1137,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Chaos Land Raider",
@@ -1155,10 +1155,10 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Chaos Terminators und Obliterators zählen jeweils als 2 Einheiten."
+        "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Chaos Terminatoren und Kyborgs zählen jeweils als 2 Einheiten."
       },
       {
-        "name": "Alpha-Legion-Land-Raider",
+        "name": "Alpha-Legion-Land-Schattenbarke",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1177,7 +1177,7 @@
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Emperor's-Children-Land-Raider",
+        "name": "Emperor's-Children-Land-Schattenbarke",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1195,7 +1195,7 @@
         "notes": "Kann 1 Sirenshriek-Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Death-Guard-Land-Raider",
+        "name": "Death-Guard-Land-Schattenbarke",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -1214,7 +1214,7 @@
         "notes": "Kann 1 Blightlord-Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "World-Eaters-Land-Raider",
+        "name": "World-Eaters-Land-Schattenbarke",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1229,10 +1229,10 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "Kann 2 Terminators, Mutilators oder 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Terminatoren, Mutilators oder 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Thousand-Sons-Land-Raider",
+        "name": "Thousand-Sons-Land-Schattenbarke",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1317,21 +1317,21 @@
         ]
       },
       {
-        "name": "Basilisk der Iron Warriors",
+        "name": "Basilisk der Iron Krieger",
         "type": "AV",
         "speed": 20,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Kanone",
+          "Erdbebenkanone",
           "Schwerer Bolter"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Greif der Iron Warriors",
+        "name": "Greif der Iron Krieger",
         "type": "AV",
         "speed": 30,
         "armour": 6,
@@ -1493,7 +1493,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Dreadnought Kettenfaust|2|"
+          "Cybot Kettenfaust|2|"
         ],
         "specialRules": [
           "Furchtlos",
@@ -1581,7 +1581,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "Kann 4 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminators zählen jeweils als 2 Einheiten."
+        "notes": "Kann 4 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminatoren zählen jeweils als 2 Einheiten."
       },
       {
         "name": "Schwerer Chaos-Typhon-Belagerungspanzer",
@@ -1601,7 +1601,7 @@
         ]
       },
       {
-        "name": "Iron-Warriors-Stormsword",
+        "name": "Iron-Krieger-Stormsword",
         "type": "WE",
         "speed": 15,
         "armour": 4,

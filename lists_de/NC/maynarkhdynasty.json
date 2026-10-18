@@ -1,22 +1,22 @@
 {
   "fraction": "Necron",
-  "army": "Maynarkh Dynasty",
+  "army": "Maynarkh-Dynastie",
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Necron_MaynarkhDynasty",
   "strategy": "Necron-Armeen haben einen Strategiewert von 1.",
-  "Initiative": "Alle Necron-Formationen haben einen Initiativewert von 1+.",
+  "Initiative": "Alle Necron-Verbände haben einen Initiativewert von 1+.",
   "specialRules": [
-    "Necron Reserves",
-    "Necron Garrisons",
-    "The Unbidden",
-    "Necron Portals",
-    "Extradimensional Conduit",
-    "Implacable Advance",
-    "Phase Out"
+    "Necron-Reserven",
+    "Necron-Garnisonen",
+    "Die Ungebetenen",
+    "Necron-Portale",
+    "Extradimensionaler Durchgang",
+    "Unaufhaltsamer Vormarsch",
+    "Phasenausfall"
   ],
   "usage": [
-    "Mit der folgenden Armeeliste kannst du eine Armee der Necrons der Maynarkh-Dynastie aufstellen."
+    "Mit dem folgenden Armeeorganisationsplan kannst du eine Armee der Necrons der Maynarkh-Dynastie aufstellen."
   ],
   "units": [
     {
@@ -44,15 +44,15 @@
       ],
       "unitRules": [
         "Regeneration",
-        "Living Metal",
+        "Lebendes Metall",
         "Maschinengeist",
-        "Enduring"
+        "Ausdauernd"
       ]
     },
     {
       "from": "necronNavy.json",
       "units": [
-        "Night Shroud Bomber",
+        "Nachtmantel-Bomber (B)",
         "Todessichel-Jäger",
         "Cairn-Klasse Gruftschiff"
       ],
@@ -65,8 +65,8 @@
       "name": "Spezialregeln der Maynarkh-Dynastie",
       "formations": [
         {
-          "name": "0–1 Necron Tomb Complex",
-          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Necron-Spielers durch einen Tomb Complex. Dieser zählt als Zielmarker und Necron-Portal und kann nicht zerstört werden. Formationen, die das Portal verwenden, messen vom Mittelpunkt des Zielmarkers aus.",
+          "name": "0–1 Necron-Gruftkomplex",
+          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Necron-Spielers durch einen Gruftkomplex. Dieser zählt als Zielmarker und Necron-Portal und kann nicht zerstört werden. Verbände, die das Portal verwenden, messen vom Mittelpunkt des Zielmarkers aus.",
           "points": 75
         }
       ]
@@ -75,13 +75,13 @@
       "name": "Kernformationen der Maynarkh-Dynastie",
       "formations": [
         {
-          "name": "Necron Phalanx",
-          "units": "Acht Necron Warriors und ein Necron Lord",
-          "extraUnits": [
-            "Overlord",
+          "name": "Necron-Phalanx",
+          "units": "Acht Necronkrieger und ein Necronlord",
+          "extraEinheits": [
+            "Necron-Hochlord",
             "Canoptek-Phantome",
             "Canoptek-Gruftspinne",
-            "Ersetze drei Necron Warriors durch drei Pariahs oder drei Immortals: 50 Punkte"
+            "Ersetze drei Necronkrieger durch drei Pariahs oder drei Extinktoren: 50 Punkte"
           ],
           "points": 300
         }
@@ -89,12 +89,12 @@
     },
     {
       "name": "Portalformationen der Maynarkh-Dynastie",
-      "description": "Für jede Necron Phalanx darf bis zu eine Portalformation gewählt werden.",
+      "description": "Für jede Necron-Phalanx darf bis zu eine Portalformation gewählt werden.",
       "formations": [
         {
-          "name": "Portal Phalanx",
+          "name": "Portal-Phalanx",
           "units": "Ein Monolith, zwei Obelisks",
-          "extraUnits": [
+          "extraEinheits": [
             "Ersetze bis zu zwei Obelisks durch Monoliths: 25 Punkte pro Stück"
           ],
           "points": 175
@@ -103,42 +103,42 @@
     },
     {
       "name": "Unterstützungsformationen der Maynarkh-Dynastie",
-      "description": "Für jede Necron Phalanx dürfen bis zu zwei Unterstützungsformationen gewählt werden. Eine Necron-Armee muss mindestens eine 'The Unbidden'-Formation enthalten.",
+      "description": "Für jede Necron-Phalanx dürfen bis zu zwei Unterstützungsformationen gewählt werden. Eine Necron-Armee muss mindestens eine 'Die Ungebetenen'-Verband enthalten.",
       "formations": [
         {
-          "name": "1+ The Unbidden",
-          "units": "Sieben Flayed Ones",
-          "extraUnits": [
+          "name": "1+ Die Ungebetenen",
+          "units": "Sieben Alpträume",
+          "extraEinheits": [
           ],
           "points": 200
         },
         {
-          "name": "Obelisk Phalanx",
+          "name": "Obelisk-Phalanx",
           "units": "Vier Obelisks",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 225
         },
         {
-          "name": "Destroyer Phalanx",
-          "units": "Beliebige sieben der folgenden Einheiten: Destroyers, Heavy Destroyers",
-          "extraUnits": [
-            "Overlord",
-            "Ersetze einen Destroyer durch einen Necron Destroyer Lord: 25 Punkte"
+          "name": "Zerstörer-Phalanx",
+          "units": "Beliebige sieben der folgenden Einheiten: Destruktoren, Schwere Destruktoren",
+          "extraEinheits": [
+            "Necron-Hochlord",
+            "Ersetze einen Destruktor durch einen Destruktorlord: 25 Punkte"
           ],
           "points": 275
         },
         {
-          "name": "Tomb Guardian",
+          "name": "Gruftwächter",
           "units": "Ein Pylon",
           "upgrades": [
           ],
           "points": 200
         },
         {
-          "name": "Canoptek Swarm",
-          "units": "Ein Canoptek Spyder, sechs Canoptek Scarabs",
-          "extraUnits": [
+          "name": "Canoptek-Schwarm",
+          "units": "Ein Canoptek Spyder, sechs Canoptek Skarabäen",
+          "extraEinheits": [
             "Canoptek-Phantome"
           ],
           "points": 200
@@ -147,20 +147,20 @@
     },
     {
       "name": "Ernter und Flotte der Maynarkh-Dynastie",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Formationen ausgegeben werden.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
           "name": "Megalith Conduit",
           "units": "Ein Megalith",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge bis zu zwei Obelisks (50 Punkte pro Stück) und/oder Monoliths (75 Punkte pro Stück) hinzu"
           ],
           "points": 350
         },
         {
-          "name": "0–1 Harvester Engine",
+          "name": "0–1 Erntemaschine",
           "units": "Entweder ein Æonic Orb oder ein Abbatoir",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 450
         },
@@ -179,8 +179,8 @@
           "points": 200
         },
         {
-          "name": "Night Shrouds",
-          "units": "Ein Night Shroud Bomber",
+          "name": "Nachtmantel-Bomberstaffel",
+          "units": "Ein Nachtmantel-Bomber (B)",
           "upgrades": [
           ],
           "points": 225
@@ -189,17 +189,17 @@
     }
   ],
   "upgrades": {
-    "title": "Maynarkh Dynasty Upgrades",
+    "title": "Aufwertungen der Maynarkh-Dynastie",
     "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "0–1 Overlord",
-        "description": "Ersetze entweder einen Necron Lord durch einen Necron Overlord, oder einen Necron Destroyer Lord durch einen Necron Destroyer Overlord",
+        "name": "0–1 Necron-Hochlord",
+        "description": "Ersetze entweder einen Necronlord durch einen Necron-Hochlord oder einen Destruktorlord durch einen Destruktor-Hochlord",
         "points": "75 Punkte"
       },
       {
-        "name": "Canoptec Wraiths",
-        "description": "Füge bis zu zwei Canoptek Wraiths hinzu",
+        "name": "Canoptek-Phantome",
+        "description": "Füge bis zu zwei Canoptek-Phantome hinzu",
         "points": "25 Punkte pro Stück"
       },
       {

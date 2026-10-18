@@ -4,25 +4,25 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_DarkAngels",
-  "intro": "Diese Armeeliste ermöglicht es dir, eine Armee des Space-Marine-Ordens Dark Angels oder eines seiner Nachfolgeorden aufzustellen.",
+  "intro": "Dieser Armeeorganisationsplan ermöglicht es dir, eine Armee des Space-Marine-Ordens Dark Angels oder eines seiner Nachfolgeorden aufzustellen.",
   "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
   "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
-  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Dark Angels-Kontingente.",
+  "armyRules": "Die Sonderregel <i>Sie kennen keine Furcht</i> gilt für alle Dark Angels-Kontingente.",
   "specialRules": [
-    "Teleport Homer",
-    "Space Marine Transports",
-    "They Shall Know No Fear"
+    "Teleportieren-Peilsender",
+    "Space-Marine-Transporter",
+    "Sie kennen keine Furcht"
   ],
   "units": [
     {
       "from": "SM.json",
       "units": [
-        "Dark Angels Captain",
+        "Captain der Dark Angels",
         "Ordenspriester",
         "Scriptor",
         "Oberbefehlshaber",
         "Sturmtrupps",
-        "Scouts",
+        "Aufklärer",
         "Taktische Trupps",
         "Dark-Angels-Devastortrupps",
         "Terminatoren",
@@ -31,9 +31,9 @@
         "Ravenwing-Schwarze-Ritter",
         "Ravenwing-Sturmbikes",
         "Ravenwing-Trike",
-        "Ravenwing-Land-Speeder",
-        "Ravenwing-Land-Speeder-Tornado",
-        "Ravenwing-Land-Speeder-Vengeance",
+        "Ravenwing-Land Speeder",
+        "Ravenwing-Land Speeder-Tornado",
+        "Ravenwing-Land Speeder-Vengeance",
         "Mortis-Cybot",
         "Hunter",
         "Stalker",
@@ -61,29 +61,29 @@
       "name": "Dark Angels Kernkontingente",
       "formations": [
         {
-          "name": "Ravenwing Attack",
-          "units": "Ein Black Knights, vier Ravenwing Assault Bikes, drei Ravenwing Land Speeders",
-          "extraUnits": [
-            "Attack Bikes",
+          "name": "Angriff der Ravenwing",
+          "units": "Eine Einheit Ravenwing-Schwarze-Ritter, vier Ravenwing-Sturmbikes, drei Ravenwing-Land Speeder",
+          "extraEinheits": [
+            "Trikes",
             "Befehlshaber"
           ],
           "points": 350
         },
         {
           "name": "Taktische Trupps",
-          "units": "Sechs Tacticals plus Transporter",
-          "extraUnits": [
+          "units": "Sechs Taktische Trupps plus Transporter",
+          "extraEinheits": [
             "Razorbacks",
-            "Anti-Air",
+            "Flugabwehr",
             "Befehlshaber",
             "Land Raiders"
           ],
           "points": 275
         },
         {
-          "name": "Deathwing Strike",
-          "units": "Beliebige vier der folgenden Einheiten: Terminators, Cyclone Terminators",
-          "extraUnits": [
+          "name": "Deathwing-Angriff",
+          "units": "Beliebige vier der folgenden Einheiten: Terminatoren, Cyclone Terminatoren",
+          "extraEinheits": [
             "Deathwing-Ritter",
             "Befehlshaber"
           ],
@@ -98,35 +98,35 @@
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge 1 Land Raider hinzu: 50 Punkte",
-            "Anti-Air"
+            "Flugabwehr"
           ],
           "points": 275
         },
         {
-          "name": "Ares Siege",
+          "name": "Ares-Belagerung",
           "units": "Drei Land Raider Ares, zwei Vindicators",
-          "extraUnits": [
+          "extraEinheits": [
             "Vindicators"
           ],
           "points": 375
       },
       {
         "name": "Devastor-Trupps",
-        "units": "Vier Dark Angels Devastators plus Transporter",
-        "extraUnits": [
+        "units": "Vier Dark Angels Devastor-Trupps plus Transporter",
+        "extraEinheits": [
           "Razorbacks",
-          "Anti-Air",
+          "Flugabwehr",
           "Befehlshaber",
           "Land Raiders"
         ],
         "points": 250
       },
       {
-        "name": "Deathwing Armour",
-        "units": "Drei Land Raiders, drei Terminators",
-        "extraUnits": [
+        "name": "Deathwing Rüstungswert (ARM)",
+        "units": "Drei Land Raiders, drei Terminatoren",
+        "extraEinheits": [
           "Befehlshaber"
         ],
         "points": 450
@@ -134,49 +134,49 @@
     {
       "name": "Predators",
       "units": "Vier Predator Destructors und/oder Predator Annihilators",
-      "extraUnits": [
-        "Anti-Air"
+      "extraEinheits": [
+        "Flugabwehr"
       ],
       "points": 250
     },
         {
           "name": "Sturmtrupps",
-          "units": "Vier Assaults",
-          "extraUnits": [
+          "units": "Vier Sturmtrupps",
+          "extraEinheits": [
             "Befehlshaber",
             "Vindicators"
           ],
           "points": 175
         },
         {
-          "name": "Ravenwing Support",
+          "name": "Ravenwing-Unterstützung",
           "units": "Vier Ravenwing Land Speeder Tornado",
-          "extraUnits": [
+          "extraEinheits": [
             "Venegance"
           ],
           "points": 175
         },
         {
-          "name": "Scouts",
-          "units": "Vier Scouts, zwei Rhinos",
-          "extraUnits": [
+          "name": "Aufklärer",
+          "units": "Vier Aufklärer, zwei Rhinos",
+          "extraEinheits": [
             "Razorbacks",
-            "Scharfschützes"
+            "Scharfschützen"
           ],
           "points": 150
         },
         {
           "name": "Whirlwinds",
           "units": "Vier Whirlwinds",
-          "extraUnits": [
-            "Anti-Air"
+          "extraEinheits": [
+            "Flugabwehr"
           ],
           "points": 275
         },
         {
           "name": "0–1 Dreadwing Relics",
           "units": "Ein Glaive",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge 1 Glaive hinzu: 300 Punkte"
           ],
           "points": 300
@@ -189,18 +189,18 @@
       "formations": [
         {
           "name": "Nephilims",
-          "units": "Zwei Ravenwing Nephilim Interceptors",
+          "units": "Zwei Ravenwing Nephilim Abfangjägers",
           "points": 225
         },
         {
           "name": "Dark Talons",
-          "units": "Zwei Ravenwing Dark Talon Fighters",
+          "units": "Zwei Ravenwing Dark Talon Abfangjäger (F)",
           "points": 250
         },
         {
-          "name": "1 Swordwing Support",
+          "name": "1 Schwertschwingen-Unterstützung",
           "units": "Hunter-Klasse-Zerstörer",
-          "extraUnits": [
+          "extraEinheits": [
             "Angriffskreuzer"
           ],
           "points": 100
@@ -213,13 +213,13 @@
     "description": "Jede Aufwertung darf pro Kontingent nur einmal gewählt werden.",
     "items": [
       {
-        "name": "Attack Bikes",
-        "description": "Ersetze beliebig viele Assault Bikes durch dieselbe Anzahl an Attack Bikes",
+        "name": "Trikes",
+        "description": "Ersetze beliebig viele Sturm-Bikes durch dieselbe Anzahl an Trikes",
         "points": "kostenlos"
       },
       {
         "name": "Deathwing-Ritter",
-        "description": "Ersetze 1 Einheit von Terminators durch Deathwing Knights",
+        "description": "Ersetze 1 Einheit von Terminatoren durch Deathwing Knights",
         "points": "25 Punkte"
       },
       {
@@ -232,7 +232,7 @@
       },
       {
         "name": "Angriffskreuzer",
-        "description": "Ersetze den Hunter Class Destroyer durch einen Strike Cruiser",
+        "description": "Ersetze den Hunter-Klasse-Zerstörer durch einen Angriffskreuzer",
         "points": "125 Punkte"
       },
       {
@@ -240,7 +240,7 @@
         "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {
-            "description": "Dark Angels Captain, Librarian",
+            "description": "Captain der Dark Angels, Scriptor",
             "points": "25 Punkte"
           },
           {
@@ -254,7 +254,7 @@
         ]
       },
       {
-        "name": "Anti-Air",
+        "name": "Flugabwehr",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
@@ -266,7 +266,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Füge 2 Mortis Dreadnoughts hinzu",
+            "description": "Füge 2 Mortis Cybots hinzu",
             "points": "100 Punkte"
           }
         ]
@@ -282,20 +282,20 @@
         "points": "25 Punkte pro Stück"
       },
       {
-        "name": "Scharfschützes",
-        "description": "Gib allen Scouts im Verband die Sonderregel „Scharfschütze“ für ihre Heavy Bolters.",
+        "name": "Scharfschützen",
+        "description": "Gib allen Aufklärer im Verband die Sonderregel „Scharfschütze“ für ihre Heavy Bolters.",
         "points": "25 Punkte"
       },
       {
         "name": "Venegance",
-        "description": "Ersetze 4 Ravenwing Land Speeder Tornado durch 4 Ravenwing Land Speeder Venegance",
+        "description": "Ersetze 4 Ravenwing Land Speeder Tornado durch 4 Ravenwing Land Speeder Vengeance",
         "points": "50 Punkte"
       }
     ]
   },
   "usage": [
-    "Die EA-R-Dark-Angels-Liste ist von der E-UK-Version der Liste inspiriert, doch die Unterschiede sind offensichtlich weit zahlreicher als die Gemeinsamkeiten. So wurde zwar der Unmodifizierter Rettungswurf der Ravenwing-Verbände beibehalten, die Deathwing-Regel jedoch gestrichen und die Regel Teleport Homer stark erweitert.",
-    "Abgesehen von der starren Struktur und den aus der EA-R-Liste Codex Astartes übernommenen Änderungen besteht der grösste Unterschied darin, dass sie keinen Zugriff auf Luftlandeverbände hat, den Spieler aber nachdrücklich dazu anregt, sich auf die Teleport-Aspekte der Dark-Angels-Hintergrundgeschichte zu konzentrieren und ein starkes Bodenspiel zu führen. Die Battle Barge wurde durch den Hunter Class Destroyer ersetzt, der der Armee eine günstigere Möglichkeit bietet, die Sonderregel Teleport Homer zu nutzen.",
-    "Eine Vielzahl der zahlreichen Spezialeinheiten der Dark Angels wurde hinzugefügt, was den Wegfall der Luftlandeoptionen und der Verbündeten der Collegia Titanica teilweise ausgleicht. Der Glaive, eine Reliktechnologie aus der Horus-Häresie, wurde aus thematischen Gründen auf einen Verband beschränkt, während die normalen Dreadnought-Ausrüstungen durch die Variante Mortis AA ersetzt wurden. Der Land Speeder Typhoon wurde durch den Land Speeder Venegance ersetzt und der Verband auf vier Einheiten verkleinert, um die Kosten niedrig zu halten und den Verband gegenüber dem Scout-Verband konkurrenzfähiger zu machen. Das Assaults-Kontingent wurde auf sechs Einheiten erweitert und enthält standardmässig einen Dark Angels Captain (der Teleport Homer bereitstellt), wodurch es in einer Liste ohne Thunderhawks relevanter wird. Der Nephilim ähnelt nun stärker dem Storm Talon, und der Dark Talon verschafft der Liste eine Jagdbomber-Option."
+    "Die EA-R-Dark-Angels-Liste ist von der E-UK-Version der Liste inspiriert, doch die Unterschiede sind offensichtlich weit zahlreicher als die Gemeinsamkeiten. So wurde zwar der Unmodifizierter Rettungswurf der Ravenwing-Verbände beibehalten, die Deathwing-Regel jedoch gestrichen und die Regel Teleportieren-Peilsender stark erweitert.",
+    "Abgesehen von der starren Struktur und den aus der EA-R-Liste Codex Astartes übernommenen Änderungen besteht der grösste Unterschied darin, dass sie keinen Zugriff auf Luftlandeverbände hat, den Spieler aber nachdrücklich dazu anregt, sich auf die Teleportieren-Aspekte der Dark-Angels-Hintergrundgeschichte zu konzentrieren und ein starkes Bodenspiel zu führen. Die Schlachtbarke wurde durch den Hunter-Klasse-Zerstörer ersetzt, der der Armee eine günstigere Möglichkeit bietet, die Sonderregel Teleportieren-Peilsender zu nutzen.",
+    "Eine Vielzahl der zahlreichen Spezialeinheiten der Dark Angels wurde hinzugefügt, was den Wegfall der Luftlandeoptionen und der Verbündeten der Collegia Titanica teilweise ausgleicht. Der Glaive, eine Reliktechnologie aus der Horus-Häresie, wurde aus thematischen Gründen auf einen Verband beschränkt, während die normalen Cybot-Ausrüstungen durch die Variante Mortis AA ersetzt wurden. Der Land Speeder Typhoon wurde durch den Land Speeder Vengeance ersetzt und der Verband auf vier Einheiten verkleinert, um die Kosten niedrig zu halten und den Verband gegenüber dem Scout-Verband konkurrenzfähiger zu machen. Das Sturmtrupps-Kontingent wurde auf sechs Einheiten erweitert und enthält standardmässig einen Captain der Dark Angels (der Teleportieren-Peilsender bereitstellt), wodurch es in einer Liste ohne Thunderhawks relevanter wird. Der Nephilim ähnelt nun stärker dem Sturmtalon, und der Dark Talon verschafft der Liste eine Jagdbomber-Option."
   ]
 }

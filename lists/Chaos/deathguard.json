@@ -36,8 +36,8 @@
         "Death Guard Stalker"
       ],
       "unitRules": [
-      "Augment Summoning (+x)",
-      "Daemonic Focus",
+      "Verstärkte Beschwörung (+x)",
+      "Dämonischer Fokus",
         "Heavy Armoured Vehicle (H-AV)"
       ]
     },
@@ -70,7 +70,7 @@
         "Plaguebearers of Nurgle",
         "Beasts of Nurgle",
         "Plague Drones of Nurgle",
-        "Great Unclean One"
+        "Großer Verpester"
       ],
       "unitRules": [
       ]

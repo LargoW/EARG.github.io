@@ -24,7 +24,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "Daemonic Focus"
+          "Dämonischer Fokus"
         ]
       },
       {
@@ -34,8 +34,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Daemonic Focus",
-          "Augment Summoning (+1)",
+          "Dämonischer Fokus",
+          "Verstärkte Beschwörung (+1)",
           "Anführer"
         ]
       },
@@ -571,7 +571,7 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Daemon Engine (Chaos Undivided)"
         ]
       },

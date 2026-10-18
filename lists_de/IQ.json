@@ -32,7 +32,7 @@
           "Energiewaffe"
         ],
         "specialRules": [
-          "Faithful",
+          "Treu",
           "Anführer"
         ]
       },
@@ -105,7 +105,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Furchtlos",
-          "Teleport Homer",
+          "Teleportieren-Peilsender",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -125,7 +125,7 @@
           "Befehlshaber",
           "Anführer",
           "Furchtlos",
-          "Teleport Homer",
+          "Teleportieren-Peilsender",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -247,7 +247,7 @@
           "Bolter"
         ],
         "specialRules": [
-          "Faithful"
+          "Treu"
         ]
       },
       {
@@ -261,7 +261,7 @@
           "Multimelter|2|"
         ],
         "specialRules": [
-          "Faithful"
+          "Treu"
         ]
       },
       {
@@ -275,7 +275,7 @@
           "Meltergewehre"
         ],
         "specialRules": [
-          "Faithful",
+          "Treu",
           "Aufklärer"
         ]
       },
@@ -290,7 +290,7 @@
           "Schwerer Flammenwerfer|2|"
         ],
         "specialRules": [
-          "Faithful"
+          "Treu"
         ]
       },
       {
@@ -304,7 +304,7 @@
           "Zwillings-Boltpistolen"
         ],
         "specialRules": [
-          "Faithful",
+          "Treu",
           "Sprungmodule"
         ]
       },
@@ -318,8 +318,8 @@
           "Eviszeratoren"
         ],
         "specialRules": [
-          "Faithful",
-          "Infiltratorens"
+          "Treu",
+          "Infiltratoren"
         ]
       },
       {
@@ -332,7 +332,7 @@
           "Kampfflegel"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Furchtlos",
           "Maschinengeist",
           "Entbehrlich"
@@ -348,7 +348,7 @@
           "Assassinenwaffen"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -421,8 +421,8 @@
           "Penitent Flegel"
         ],
         "specialRules": [
-          "Infiltratorens",
-          "Faithful",
+          "Infiltratoren",
+          "Treu",
           "Geländegängig"
         ]
       },
@@ -438,7 +438,7 @@
           "Penitent Flegel"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
@@ -453,10 +453,10 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Exorcist Werfer"
+          "Exorzist Werfer"
         ],
         "specialRules": [
-          "Faithful"
+          "Treu"
         ]
       },
       {
@@ -470,7 +470,7 @@
           "Whirlwind Werfer"
         ],
         "specialRules": [
-          "Faithful"
+          "Treu"
         ]
       },
       {
@@ -484,7 +484,7 @@
           "Jagd-Killer"
         ],
         "specialRules": [
-          "Faithful"
+          "Treu"
         ]
       },
       {
@@ -498,7 +498,7 @@
           "Sturmbolter"
         ],
         "specialRules": [
-          "Faithful",
+          "Treu",
           "Transport"
         ],
         "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
@@ -530,7 +530,7 @@
           "Schwerer Flammenwerfer"
         ],
         "specialRules": [
-          "Faithful",
+          "Treu",
           "Geländegängig",
           "Transport"
         ],
@@ -547,7 +547,7 @@
           "Zwillings-Multimelter"
         ],
         "specialRules": [
-          "Faithful",
+          "Treu",
           "Transport"
         ],
         "notes": "Kann eine Infanterieeinheit ohne Beritten oder Sprungmodule transportieren."
@@ -566,7 +566,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Faithful",
+          "Treu",
           "Verstärkte Panzerung",
           "Transport"
         ],
@@ -581,14 +581,14 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Exorcist Werfer|2|FxF",
+          "Exorzist Werfer|2|FxF",
           "Inferno Kanone|2|"
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Verstärkte Panzerung",
-          "Faithful",
+          "Treu",
           "Transport"
         ],
         "notes": "Kann acht Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren.",
@@ -609,16 +609,16 @@
         ],
         "specialRules": [
           "Schadenskapazität 8",
-          "Null Schilde 6",
+          "Null-Schilde 6",
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Verstärkte Panzerung",
           "Furchtlos",
-          "Faithful",
+          "Treu",
           "Transport"
         ],
         "notes": "Kann 8 Infanterieeinheiten ohne Beritten oder Jet Packs transportieren.",
-        "crit": "Cathedral of the God-Emperor erleidet W3 zusätzlichen Schaden, und W6 transportierte Einheiten erleiden einen Treffer."
+        "crit": "Die Kathedrale des Gottimperators erleidet W3 zusätzlichen Schaden, und W6 transportierte Einheiten erleiden einen Treffer."
       }
     ]
   }

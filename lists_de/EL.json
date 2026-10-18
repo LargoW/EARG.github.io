@@ -12,14 +12,14 @@
             "cc": 4,
             "ff": 5,
             "weapons": [
-                "Eldar Energiewaffe",
+                "Eldar-Energiewaffe",
                 "Shurikenkanone"
             ],
             "specialRules": [
                 "Oberbefehlshaber",
                 "Unmodifizierter Rettungswurf",
                 "Inspirierend",
-                "Wind-Swift"
+                "Windflink"
             ]
         },
         {
@@ -32,7 +32,7 @@
             "weapons": [],
             "specialRules": [
                 "Sprungmodule",
-                "Teleport",
+                "Teleportieren",
                 "Oberbefehlshaber",
                 "Unmodifizierter Rettungswurf",
                 "Inspirierend"
@@ -42,7 +42,7 @@
             "name": "Eldar-Autarch",
             "type": "CH",
             "weapons": [
-                "Eldar Energiewaffe"
+                "Eldar-Energiewaffe"
             ],
             "specialRules": [
                 "Oberbefehlshaber",
@@ -67,22 +67,22 @@
             ]
         },
         {
-            "name": "Runenprophetenrat",
+            "name": "Rat der Seher",
             "type": "INF",
             "speed": 15,
             "armour": 4,
             "cc": 4,
             "ff": 5,
             "weapons": [
-                "Witch Klingen",
-                "Psychic Powers"
+                "Hexenklingen",
+                "Psikräfte"
             ],
             "specialRules": [
                 "Oberbefehlshaber",
-                "Farsight",
+                "Weitsicht",
                 "Unmodifizierter Rettungswurf"
             ],
-            "notes": "Der Seer Council kann verwendet werden, um den Avatar zu beschwören."
+            "notes": "Der Rat der Seher kann verwendet werden, um den Avatar zu beschwören."
         },
         {
             "name": "Geisterseher",
@@ -90,9 +90,9 @@
             "weapons": [],
             "specialRules": [
                 "Befehlshaber",
-                "Farsight"
+                "Weitsicht"
             ],
-            "notes": "Einheiten mit einem Spiritseer können verwendet werden, um den Avatar zu beschwören."
+            "notes": "Einheiten mit einem Geisterseher können verwendet werden, um den Avatar zu beschwören."
         },
         {
             "name": "Avatar des Khaine",
@@ -112,7 +112,7 @@
                 "Unmodifizierter Rettungswurf",
                 "Geländegängig"
             ],
-            "crit": "Avatar wird zerstört. Alle Craftworld-Eldar-Verbände (eigene und gegnerische) mit Sichtlinie zum Avatar erhalten 1 Beschussmarke."
+            "crit": "Der Avatar wird zerstört. Alle Weltenschiff-Eldar-Verbände (eigene und gegnerische) mit Sichtlinie zum Avatar erhalten 1 Beschussmarke."
         },
         {
             "name": "Eldar-Exarch",
@@ -120,14 +120,14 @@
             "weapons": [
                 "Exarch-Fernkampfwaffe|0-1",
                 "Exarch-Nahkampfwaffe|0-1",
-                "Feuerpike|0-1",
-                "Reaper-Werfer|0-1",
+                "Feuerlanze|0-1",
+                "Khaindar-Raketenwerfer|0-1",
                 "Sternenlanze|0-1"
             ],
             "specialRules": [
                 "Inspirierend"
             ],
-            "notes": "Dire Avengers, Swooping Hawks und Warp Spiders haben eine Exarch-Fernkampfwaffe. Howling Banshees und Striking Scorpions haben eine Exarch-Nahkampfwaffe. Dark Reapers haben einen Reaper Launcher, Fire Dragons eine Firepike und Shining Spears eine Starlance."
+            "notes": "Asuryans Jäger, Kriegsfalken und Warpspinnen haben eine Exarch-Fernkampfwaffe. Banshees und Skorpionkrieger haben eine Exarch-Nahkampfwaffe. Schwarze Khaindar haben einen Khaindar-Raketenwerfer, Feuerdrachen eine Feuerlanze und Sternenlanzen eine Sternenlanze."
         },
         {
             "name": "Berittener Runenprophet von Saim-Hann",
@@ -137,17 +137,17 @@
             "cc": 4,
             "ff": 5,
             "weapons": [
-                "Witch Klingen",
+                "Hexenklingen",
                 "Shurikenkanone"
             ],
             "specialRules": [
                 "Befehlshaber",
-                "Farsight",
+                "Weitsicht",
                 "Beritten",
                 "Antigrav",
-                "Wind-Swift"
+                "Windflink"
             ],
-            "notes": "Der berittene Farseer kann verwendet werden, um den Avatar zu beschwören."
+            "notes": "Der berittene Runenprophet kann verwendet werden, um den Avatar zu beschwören."
         },
         {
             "name": "Eldar-Runenprophet",
@@ -157,14 +157,14 @@
             "cc": 4,
             "ff": 5,
             "weapons": [
-                "Witch Klingen",
-                "Shuriken-Pistolen"
+                "Hexenklingen",
+                "Shurikenpistolen"
             ],
             "specialRules": [
-                "Farsight",
+                "Weitsicht",
                 "Befehlshaber"
             ],
-            "notes": "Der Farseer kann verwendet werden, um den Avatar zu beschwören."
+            "notes": "Der Runenprophet kann verwendet werden, um den Avatar zu beschwören."
         },
         {
             "name": "Eldar-Gardisten",
@@ -185,7 +185,7 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Streulaser"
+                "Impulslaser"
             ],
             "specialRules": [
             ]
@@ -197,10 +197,10 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Vibro Kanone|0-1",
+                "Vibrokanone|0-1",
                 "Unterstützungs-D-Kanone|0-1"
             ],
-            "notes": "Bewaffnet entweder mit einer Vibro Cannon oder einer Support D-Cannon."
+            "notes": "Bewaffnet entweder mit einer Vibrokanone oder einer Unterstützungs-D-Kanone."
         },
         {
             "name": "Ranger",
@@ -210,11 +210,11 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Langgewehre",
-                "Shuriken-Pistolen"
+                "Ranger-Jagdgewehr",
+                "Shurikenpistolen"
             ],
             "specialRules": [
-                "Scouts"
+                "Aufklärer"
             ]
         },
         {
@@ -225,11 +225,11 @@
             "cc": 5,
             "ff": 5,
             "weapons": [
-                "Langgewehre",
-                "Shuriken-Pistolen"
+                "Ranger-Jagdgewehr",
+                "Shurikenpistolen"
             ],
             "specialRules": [
-                "Scouts",
+                "Aufklärer",
                 "Sprungmodule"
             ]
         },
@@ -292,7 +292,7 @@
             "specialRules": [
                 "Beritten",
                 "Antigrav",
-                "Wind-Swift"
+                "Windflink"
             ]
         },
         {
@@ -303,13 +303,13 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Scharfschütze Gewehr"
+                "Scharfschützengewehr"
             ],
             "specialRules": [
                 "Beritten",
                 "Antigrav",
                 "Aufklärer",
-                "Wind-Swift"
+                "Windflink"
             ]
         },
         {
@@ -333,18 +333,18 @@
             "cc": 5,
             "ff": 5,
             "weapons": [
-                "Fusionsgeschütze"
+                "Fusionsstrahler"
             ]
         },
         {
-            "name": "Schwarze Kaindar",
+            "name": "Schwarze Khaindar",
             "type": "INF",
             "speed": 15,
             "armour": 4,
             "cc": 5,
             "ff": 4,
             "weapons": [
-                "Reaper-Werfer"
+                "Khaindar-Raketenwerfer"
             ]
         },
         {
@@ -356,7 +356,7 @@
             "ff": 5,
             "weapons": [
                 "Mandiblaster",
-                "Shuriken-Pistolen"
+                "Shurikenpistolen"
             ],
             "specialRules": [
             ]
@@ -370,11 +370,11 @@
             "ff": 5,
             "weapons": [
                 "Bansheemaske",
-                "Shuriken-Pistolen"
+                "Shurikenpistolen"
             ],
             "specialRules": [
                 "Erstschlag",
-                "Infiltratorens"
+                "Infiltratoren"
             ]
         },
         {
@@ -406,7 +406,7 @@
             "specialRules": [
                 "Sprungmodule",
                 "Aufklärer",
-                "Teleport"
+                "Teleportieren"
             ]
         },
         {
@@ -417,10 +417,10 @@
             "cc": 5,
             "ff": 4,
             "weapons": [
-                "Prism Gewehre"
+                "Prismengewehre"
             ],
             "specialRules": [
-                "Teleport",
+                "Teleportieren",
                 "Sprungmodule"
             ]
         },
@@ -451,7 +451,7 @@
             "specialRules": [
                 "Furchtlos"
             ],
-            "notes": "Zählt beim Transport als eine Einheit Wraithguards."
+            "notes": "Zählt beim Transport als eine Einheit Phantomdroiden."
         },
         {
             "name": "Phantomdroiden",
@@ -489,7 +489,7 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Streulaser"
+                "Impulslaser"
             ],
             "specialRules": [
                 "Antigrav"
@@ -503,11 +503,11 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Streulaser"
+                "Impulslaser"
             ],
             "specialRules": [
                 "Antigrav",
-                "Wind-Swift"
+                "Windflink"
             ]
         },
         {
@@ -519,7 +519,7 @@
             "ff": 5,
             "weapons": [
                 "Splitterkanone",
-                "Zwillings-Splinter Gewehr"
+                "Zwillings-Splittergewehr"
             ],
             "specialRules": [
                 "Antigrav",
@@ -534,8 +534,8 @@
             "cc": 6,
             "ff": 6,
             "weapons": [
-                "Streulaser",
-                "Eldar Raketenwerfer"
+                "Impulslaser",
+                "Eldar-Raketenwerfer"
             ],
             "specialRules": [
                 "Aufklärer",
@@ -570,7 +570,7 @@
             "specialRules": [
                 "Antigrav",
                 "Aufklärer",
-                "Wind-Swift"
+                "Windflink"
             ]
         },
         {
@@ -582,16 +582,16 @@
             "ff": 4,
             "weapons": [
                 "Phantomkanone",
-                "Singing Speer"
+                "Singspeer"
             ],
             "specialRules": [
                 "Oberbefehlshaber",
-                "Farsight",
+                "Weitsicht",
                 "Furchtlos",
                 "Verstärkte Panzerung",
                 "Geländegängig"
             ],
-            "notes": "Der Wraithseer kann verwendet werden, um den Avatar zu beschwören."
+            "notes": "Der Phantomseher kann verwendet werden, um den Avatar zu beschwören."
         },
         {
             "name": "Phantomlord",
@@ -601,7 +601,7 @@
             "cc": 3,
             "ff": 4,
             "weapons": [
-                "Eldar Energiefaust",
+                "Eldar-Energiefaust",
                 "Zwillings-Laserlanze"
             ],
             "specialRules": [
@@ -625,7 +625,7 @@
                 "Antigrav",
                 "Transport"
             ],
-            "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Swooping Hawks, Wraithblades oder Wraithguards. Wraithblades und Wraithguards belegen jeweils 2 Plätze."
+            "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Runenprophet, Gardisten, Eldar-Ranger, Eldar-Schwerwaffenplattform, Banshees, Skorpionkrieger, Feuerdrachen, Asuryans Jäger, Schwarze Khaindar, Kriegsfalken, Phantomklingen oder Phantomdroiden. Phantomklingen und Phantomdroiden belegen jeweils 2 Plätze."
         },
         {
             "name": "Falcon",
@@ -636,13 +636,13 @@
             "ff": 4,
             "weapons": [
                 "Impulslaser",
-                "Streulaser"
+                "Impulslaser"
             ],
             "specialRules": [
                 "Antigrav",
                 "Transport"
             ],
-            "notes": "Kann bis zu 1 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
+            "notes": "Kann bis zu 1 der folgenden Einheiten transportieren: Runenprophet, Gardisten, Eldar-Ranger, Eldar-Schwerwaffenplattform, Banshees, Skorpionkrieger, Feuerdrachen, Asuryans Jäger, Schwarze Khaindar oder Kriegsfalken."
         },
         {
             "name": "Illum Zar",
@@ -652,7 +652,7 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Prism Kanone"
+                "Prismenkanone"
             ],
             "specialRules": [
                 "Antigrav"
@@ -700,7 +700,7 @@
                 "Antigrav",
                 "Transport"
             ],
-            "notes": "Kann bis zu 1 der folgenden Einheiten transportieren: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
+            "notes": "Kann bis zu 1 der folgenden Einheiten transportieren: Runenprophet, Gardisten, Eldar-Ranger, Eldar-Schwerwaffenplattform, Banshees, Skorpionkrieger, Feuerdrachen, Asuryans Jäger, Schwarze Khaindar oder Kriegsfalken."
         },
         {
             "name": "Luchs",
@@ -716,10 +716,10 @@
             "specialRules": [
                 "Schadenskapazität: 2",
                 "Verstärkte Panzerung",
-                "Holofield (5+)",
+                "Holofeld (5+)",
                 "Antigrav"
             ],
-            "crit": "Lynx wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
+            "crit": "Der Luchs wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 6+ einen Treffer."
         },
         {
             "name": "Skorpion",
@@ -731,15 +731,15 @@
             "weapons": [
                 "Zwillings-Pulsar",
                 "Shurikenkanone",
-                "Streulaser|2"
+                "Impulslaser|2"
             ],
             "specialRules": [
                 "Schadenskapazität: 3",
                 "Verstärkte Panzerung",
-                "Holofield (4+)",
+                "Holofeld (4+)",
                 "Antigrav"
             ],
-            "crit": "Scorpion wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
+            "crit": "Der Skorpion wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei einer 6+ einen Treffer."
         },
         {
             "name": "Kobra",
@@ -750,16 +750,16 @@
             "ff": 5,
             "weapons": [
                 "Cobra D-Kanone||FxF",
-                "Eldar Raketenwerfer",
+                "Eldar-Raketenwerfer",
                 "Shurikenkanone"
             ],
             "specialRules": [
                 "Schadenskapazität: 3",
                 "Verstärkte Panzerung",
-                "Holofield (4+)",
+                "Holofeld (4+)",
                 "Antigrav"
             ],
-            "crit": "Cobra wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
+            "crit": "Die Kobra wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei einer 6+ einen Treffer."
         },
         {
             "name": "Todespirscher",
@@ -770,16 +770,16 @@
             "ff": 5,
             "weapons": [
                 "Prismenstrahler||FxF",
-                "Eldar Raketenwerfer",
+                "Eldar-Raketenwerfer",
                 "Shurikenkanone"
             ],
             "specialRules": [
                 "Schadenskapazität: 3",
                 "Verstärkte Panzerung",
-                "Holofield (4+)",
+                "Holofeld (4+)",
                 "Antigrav"
             ],
-            "crit": "Deathstalker wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
+            "crit": "Der Todespirscher wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei einer 6+ einen Treffer."
         },
         {
             "name": "Sturmserpent",
@@ -789,17 +789,17 @@
             "cc": 6,
             "ff": 5,
             "weapons": [
-                "Sturm-Serpent Impulslaser",
-                "Streulaser"
+                "Sturmserpent-Impulslaser",
+                "Impulslaser"
             ],
             "specialRules": [
                 "Schadenskapazität: 3",
                 "Verstärkte Panzerung",
-                "Holofield (4+)",
-                "Webway Portal",
+                "Holofeld (4+)",
+                "Netzportal",
                 "Antigrav"
             ],
-            "crit": "Storm Serpent wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
+            "crit": "Der Sturmserpent wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei einer 6+ einen Treffer."
         },
         {
             "name": "Leerenwirbler",
@@ -816,7 +816,7 @@
                 "Verstärkte Panzerung",
                 "Antigrav"
             ],
-            "crit": "Void Spinner wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
+            "crit": "Der Leerspinner wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei einer 6+ einen Treffer."
         },
         {
             "name": "Skathach-Phantomritter",
@@ -830,12 +830,12 @@
                 "Zwillings-Shurikenkanone"
             ],
             "specialRules": [
-                "Holofield (3+)",
+                "Holofeld (3+)",
                 "Furchtlos",
                 "Geländegängig",
-                "Teleport"
+                "Teleportieren"
             ],
-            "notes": "Skathach Wraithknights sind entweder mit einer Zwillings Deathshroud Cannon oder einer Zwillings Inferno Lanze bewaffnet."
+            "notes": "Skathach-Phantomritter sind entweder mit einer Zwillings-Todeshüllenkanone oder einer Zwillings-Inferno-Lanze bewaffnet."
         },
         {
             "name": "Phantomritter",
@@ -851,15 +851,15 @@
                 "Zwillings-Shurikenkanone"
             ],
             "specialRules": [
-                "Holofield (3+)",
-                "Verstärkte Panzerung (Scattershield)",
+                "Holofeld (3+)",
+                "Verstärkte Panzerung (Streuschild)",
                 "Furchtlos",
                 "Geländegängig"
             ],
-            "notes": "Muss entweder mit Schweres Zwillings Wraithcannons, Ghostglaive und Scattershield oder einer Suncannon bewaffnet sein. Sonderregel [*]: Der Scattershield verleiht dem Modell die Sonderregel Verstärkte Panzerung."
+            "notes": "Muss entweder mit Zwillings-Schweren Phantomkanonen, Geistergleve und Streuschild oder mit einer Sonnenkanone bewaffnet sein. Sonderregel [*]: Der Streuschild verleiht dem Modell die Sonderregel „Verstärkte Panzerung“."
         },
         {
-            "name": "Revenant Titan",
+            "name": "Phantom-Titan",
             "type": "WE",
             "speed": 35,
             "armour": 5,
@@ -867,16 +867,16 @@
             "ff": 4,
             "weapons": [
                 "Wiedergänger-Pulsar|2|",
-                "Eldar Raketenwerfer|2|"
+                "Eldar-Raketenwerfer|2|"
             ],
             "specialRules": [
                 "Schadenskapazität: 3",
                 "Furchtlos",
-                "Holofield (3+)",
-                "Jump Pack",
+                "Holofeld (3+)",
+                "Sprungmodule",
                 "Geländegängig"
             ],
-            "crit": "Der Holofield-Projektor des Revenant Titan wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
+            "crit": "Der Holofeldprojektor des Phantom-Titans wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
         },
         {
             "name": "Phantomtitan",
@@ -887,18 +887,18 @@
             "ff": 3,
             "weapons": [
                 "Titanenpulsar|1-2|",
-                "Eldar Titan Energiefaust|0-1|",
-                "Zwillings-Eldar Raketenwerfer|2|"
+                "Eldar-Titan-Energiefaust|0-1|",
+                "Zwillings-Eldar-Raketenwerfer|2|"
             ],
             "specialRules": [
                 "Schadenskapazität: 6",
                 "Furchtlos",
-                "Holofield (3+)",
+                "Holofeld (3+)",
                 "Anführer",
                 "Verstärkte Panzerung",
                 "Geländegängig"
             ],
-            "crit": "Der Holofield-Projektor des Phantom Titan wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
+            "crit": "Der Holofeldprojektor des Phantomtitanen wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
         },
         {
             "name": "Mymeara-Phantomtitan",
@@ -912,22 +912,22 @@
                 "Titanenpulsar",
                 "Schreckenspulsar",
                 "Sternpulsar",
-                "Titan Vibro Kanone",
-                "Titan D-Kanone",
-                "Eldar Titan Energiefaust|0-1|",
+                "Titan-Vibrokanone",
+                "Titan-D-Kanone",
+                "Eldar-Titan-Energiefaust|0-1|",
                 "Ashuna-Valcry'le|0-1|",
                 "RÜCKENPANZER",
-                "Zwillings-Eldar Raketenwerfer|2|"
+                "Zwillings-Eldar-Raketenwerfer|2|"
             ],
             "specialRules": [
                 "Schadenskapazität: 6",
                 "Furchtlos",
-                "Holofield (3+)",
+                "Holofeld (3+)",
                 "Anführer",
                 "Verstärkte Panzerung",
                 "Geländegängig"
             ],
-            "crit": "Der Holofield-Projektor des Phantom Titan wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
+            "crit": "Der Holofeldprojektor des Phantomtitanen wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
         },
         {
             "name": "Runenleser-Titan",
@@ -938,20 +938,20 @@
             "ff": 3,
             "weapons": [
                 "Psionische Lanze",
-                "Eldar Titan Energiefaust",
-                "Zwillings-Eldar Raketenwerfer|2|"
+                "Eldar-Titan-Energiefaust",
+                "Zwillings-Eldar-Raketenwerfer|2|"
             ],
             "specialRules": [
                 "Schadenskapazität: 6",
                 "Furchtlos",
-                "Holofield (3+)",
+                "Holofeld (3+)",
                 "Inspirierend",
-                "Farsight",
+                "Weitsicht",
                 "Anführer",
                 "Verstärkte Panzerung",
                 "Geländegängig"
             ],
-            "crit": "Der Holofield-Projektor des Warlock Titan wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
+            "crit": "Der Holofeldprojektor des Runenleser-Titans wird zerstört. Weitere kritische Treffer verursachen 1 zusätzlichen Schaden."
         }
     ]
   }

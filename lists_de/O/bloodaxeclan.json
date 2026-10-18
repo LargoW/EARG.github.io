@@ -1,20 +1,20 @@
 {
   "fraction": "Ork",
-  "army": "Clan Blood Axes, Red WAAAGH!",
+  "army": "Klan der Blutäxte, Roter WAAAGH!",
   "version": "",
   "release": "2022-04-01",
   "strategy": "Ork-Armeen haben einen Strategiewert von 3.",
   "Initiative": "Alle Verbände haben einen Initiativwert von 3+.",
   "specialRules": [
-    "Mob Rule",
-    "Power of the Waaagh!",
-    "Blood Axes Warlord"
+    "Köppe zählen",
+    "Macht des Waaagh!",
+    "Klanlord der Blutäxte"
   ],
   "usage": [
-    "Anders als die sehr starren Verbände des Imperiums variieren Ork-Verbände stark in Grösse und Zusammensetzung. Die Regeln für die Aufstellung von Ork-Verbänden spiegeln dies wider. Der häufigste Typ eines Ork-Verbands ist die Warband. Es gibt auch andere, spezialisiertere Verbände, wie Kults of Speed und Blitz Brigades. Die verschiedenen Typen von Ork-Verbänden, die du wählen kannst, sind in der folgenden Armeeliste aufgeführt. Die Armeeliste enthält die folgenden Informationen:",
-    "<b>Einheiten</b> – Die Einheiten, aus denen der Verband besteht. Ork-Spieler können die Anzahl der Einheiten im Verband verdoppeln oder verdreifachen. Ein Verband mit der doppelten üblichen Einheitenzahl heißt Big-Verband, ein Verband mit der dreifachen Anzahl 'Uge -Verband.",
-    "<b>Aufwertungen</b> – Ein Ork-Verband kann zusätzliche Einheiten aus der Spalte „Aufwertungen“ erhalten, sofern keine andere Begrenzung angegeben ist. Eine Begrenzung wird bei einem Big-Verband verdoppelt und bei einem 'Uge-Verband verdreifacht. Eine normale Kult of Speed kann beispielsweise 0–1 Oddboy enthalten, eine Big-Kult of Speed 0–2 und eine 'Uge-Kult of Speed 0–3. Alle Kern-, Zusatz- und kostenlosen Einheiten eines Ork-Verbands gelten als Teil desselben großen Verbands und dürfen sich nicht eigenständig bewegen.",
-    "<b>Kosten</b> – Die meisten Ork-Verbände haben drei Punktwerte: Normal, Big und 'Uge. Hat ein Verband nur einen Punktwert, kann seine Größe nicht erhöht werden."
+    "Im Gegensatz zu den starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Ihre Aufstellungsregeln tragen dem Rechnung. Am häufigsten sind Mobs; daneben gibt es spezialisierte Verbände wie Heizakulte und Blitzbrigaden. Die verfügbaren Verbandstypen sind im folgenden Armeeorganisationsplan aufgeführt. Dieser enthält folgende Informationen:",
+    "<b>Einheiten</b> – Diese Spalte nennt die Einheiten eines Verbands. Ork-Spieler können die Einheitenzahl verdoppeln oder verdreifachen. Ein Verband mit doppelter Stärke ist ein Großverband, einer mit dreifacher Stärke ein Riesenverband.",
+    "<b>Aufwertungen</b> – Ein Ork-Verband kann zusätzliche Einheiten aus der Spalte „Aufwertungen“ erhalten, sofern keine andere Begrenzung angegeben ist. Bei Großverbänden wird die Begrenzung verdoppelt, bei Riesenverbänden verdreifacht. Ein normaler Kult der Geschwindigkeit kann beispielsweise 0–1 Oddboy enthalten, ein großer 0–2 und ein riesiger 0–3. Alle Kern-, zusätzlichen und kostenlosen Einheiten gelten als Teil desselben Verbands und dürfen sich nicht eigenständig bewegen.",
+    "<b>Kosten</b> – Die meisten Ork-Verbände haben drei Punktwerte: normal, groß und riesig. Hat ein Verband nur einen Punktwert, kann seine Größe nicht erhöht werden."
   ],
   "units": [
     {
@@ -47,26 +47,26 @@
         "Blutäxte-Schlachtkreuzer"
       ],
       "unitRules": [
-        "Power Fields",
+        "Energiefelder",
         "Super-Entbehrlich"
       ]
     }
   ],
   "sections": [
     {
-      "name": "Ork Verbände",
+      "name": "Ork-Verbände",
       "formations": [
         {
-          "name": "Blood Axe Warband",
-          "units": "Zwei Nobz, sechs Boyz, zwei Grotz",
-          "extraUnits": [
-            "Füge beliebig viele Looted Chimeras/Rhinos, Killa Kans, Kommandos, Stormboyz hinzu: 25 Punkte pro Stück",
-            "Füge beliebig viele Deffkoptas, Dreadnoughts, Looted Hydras, Looted Leman Russ/Land Raiders  hinzu: 35 Punkte pro Stück",
-            "Füge beliebig viele Stompas hinzu: 50 Punkte pro Stück",
-            "Füge beliebig viele Battlefortresses hinzu: 115 Punkte pro Stück",
-            "Füge beliebig viele Gunfortresses hinzu: 115 Punkte pro Stück",
-            "0-2 Nobz: 35 Punkte pro Stück",
-            "0-1 Füge 1 Oddboy Charakter zu einem Battlefortress, Gunfortress, Gunwagon oder Big Gun Einheit hinzu: 50 Punkte"
+          "name": "Rotte der Blutäxte",
+          "units": "Zwei Bosse, sechs Boys, zwei Grots",
+          "extraEinheits": [
+            "Füge beliebig viele Looted Chimären/Rhinos, Killa Bots, Kommandos, Stormboys hinzu: 25 Punkte pro Stück",
+            "Füge beliebig viele Deffkoptas, Cybots, Looted Hydras, Looted Leman Russ/Land Raiders  hinzu: 35 Punkte pro Stück",
+            "Füge beliebig viele Stampfas hinzu: 50 Punkte pro Stück",
+            "Füge beliebig viele Mega Transportpanzas hinzu: 115 Punkte pro Stück",
+            "Füge beliebig viele Mega Wummenpanzas hinzu: 115 Punkte pro Stück",
+            "0-2 Bosse: 35 Punkte pro Stück",
+            "0–1: Füge einen Oddboy-Charakter zu einer Mega Transportpanza-, Mega Wummenpanza-, Kampfpanza- oder Einheit mit Fetter Wumme hinzu: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -74,23 +74,23 @@
               "points": "200"
             },
             {
-              "name": "Big",
+              "name": "Groß",
               "points": "325"
             },
             {
-              "name": "'Uge",
+              "name": "Riesig",
               "points": "450"
             }
           ]
         },
         {
-          "name": "Loota Brigade",
+          "name": "Plünderer-Brigade",
           "units": "Beliebige vier der folgenden Einheiten: Looted Leman Russ",
-          "extraUnits": [
-            "Füge beliebig viele Skorchas, Warbikes, Warbuggies hinzu: 25 Punkte pro Stück",
-            "Füge beliebig viele Deffkoptas, Flakwagons, Gunwagons hinzu: 35 Punkte pro Stück",
-            "0-1: Ein Gunfortress: 115 Punkte",
-            "0-1: Add 1 Oddboy Charakter zu einem Gunfortress oder Gunwagon Einheit: 50 Punkte"
+          "extraEinheits": [
+            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
+            "Füge beliebig viele Deffkoptas, Flakpanzas, Kampfpanzas hinzu: 35 Punkte pro Stück",
+            "0-1: Ein Mega Wummenpanza: 115 Punkte",
+            "0–1: Füge einen Oddboy-Charakter zu einer Mega Wummenpanza- oder Kampfpanza-Einheit hinzu: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -98,22 +98,22 @@
               "points": "150"
             },
             {
-              "name": "Big",
+              "name": "Groß",
               "points": "250"
             },
             {
-              "name": "'Uge",
+              "name": "Riesig",
               "points": "350"
             }
           ]
         },
         {
-          "name": "Kult of Speed",
-          "units": "Beliebige acht der folgenden Einheiten: Skorchas, Warbikes, Warbuggies",
-          "extraUnits": [
-            "Füge beliebig viele Skorchas, Warbikes, Warbuggies hinzu: 25 Punkte pro Stück",
-            "Füge beliebig viele Deffkoptas, Flakwagons, Gunwagons hinzu: 35 Punkte pro Stück",
-            "0-1: Add 1 Oddboy Charakter zu einem Gunwagon Einheit: 50 Punkte"
+          "name": "Kult des Heizakults",
+          "units": "Beliebige acht der folgenden Einheiten: Skorchas, Waaghbikes, Warbuggies",
+          "extraEinheits": [
+            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
+            "Füge beliebig viele Deffkoptas, Flakpanzas, Kampfpanzas hinzu: 35 Punkte pro Stück",
+            "0–1: Füge einen Oddboy-Charakter zu einer Kampfpanza-Einheit hinzu: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -121,39 +121,39 @@
               "points": "200"
             },
             {
-              "name": "Big",
+              "name": "Groß",
               "points": "350"
             },
             {
-              "name": "'Uge",
+              "name": "Riesig",
               "points": "500"
             }
           ]
         },
         {
-          "name": "Kommandos Warhorde",
+          "name": "Kommando-Kriegsrotte",
           "units": "Sechs Kommandos",
-          "extraUnits": [
-            "Füge beliebig viele Skorchas, Warbikes, Warbuggies, Kommandos, Stormboyz hinzu: 25 Punkte pro Stück"
+          "extraEinheits": [
+            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
         },
         {
-          "name": "Stormboyz Warhorde",
-          "units": "Sechs Stormboyz",
-          "extraUnits": [
-            "Füge beliebig viele Skorchas, Warbikes, Warbuggies, Kommandos, Stormboyz hinzu: 25 Punkte pro Stück"
+          "name": "Stormboyz-Kriegsrotte",
+          "units": "Sechs Stormboys",
+          "extraEinheits": [
+            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies, Kommandos, Stormboys hinzu: 25 Punkte pro Stück"
           ],
           "points": 150
         },
         {
-          "name": "Mekwummen Mob",
-          "units": "Fünf Big Gunz",
-          "extraUnits": [
-            "Füge beliebig viele Battlewagons, Big Gunz hinzu: 25 Punkte pro Stück",
-            "Füge beliebig viele Flakwagons hinzu: 35 Punkte pro Stück",
-            "0-1 Nobz: 35 Punkte",
-            "0-1 Füge 1 Oddboy Charakter zu einem Big Gun Einheit hinzu: 50 Punkte"
+          "name": "Mekwummen-Rotte",
+          "units": "Fünf Kanonänbatterie",
+          "extraEinheits": [
+            "Füge beliebig viele Transportpanzas und Kanonänbatterien hinzu: 25 Punkte pro Stück",
+            "Füge beliebig viele Flakpanzas hinzu: 35 Punkte pro Stück",
+            "0-1 Bosse: 35 Punkte",
+            "0–1: Füge einen Oddboy-Charakter zu einer Einheit mit Fetter Wumme hinzu: 50 Punkte"
           ],
           "pointsOptions": [
             {
@@ -161,23 +161,23 @@
               "points": "125"
             },
             {
-              "name": "Big",
+              "name": "Groß",
               "points": "225"
             },
             {
-              "name": "'Uge",
+              "name": "Riesig",
               "points": "325"
             }
           ]
         },
         {
-          "name": "Mekboy Stompamob",
-          "units": "Drei Stompas",
-          "extraUnits": [
-            "Füge beliebig viele Killa Kans hinzu: 25 Punkte pro Stück",
-            "Füge beliebig viele Dreadnoughts, Flakwagons hinzu: 35 Punkte pro Stück",
-            "Füge beliebig viele Stompas hinzu: 50 Punkte pro Stück",
-            "0-1: Supa-Stompa: 275 Punkte"
+          "name": "Mek-Stampfa-Rotte",
+          "units": "Drei Stampfas",
+          "extraEinheits": [
+            "Füge beliebig viele Killa Bots hinzu: 25 Punkte pro Stück",
+            "Füge beliebig viele Cybots, Flakpanzas hinzu: 35 Punkte pro Stück",
+            "Füge beliebig viele Stampfas hinzu: 50 Punkte pro Stück",
+            "0-1: Supa-Stampfa: 275 Punkte"
           ],
           "pointsOptions": [
             {
@@ -185,21 +185,21 @@
               "points": "225"
             },
             {
-              "name": "Big",
+              "name": "Groß",
               "points": "375"
             },
             {
-              "name": "'Uge",
+              "name": "Riesig",
               "points": "525"
             }
           ]
         },
         {
-          "name": "Mekboy Dreadmob",
-          "units": "Ein Dreadnought, drei Killa Kan",
-          "extraUnits": [
-            "Füge beliebig viele Killa Kans hinzu: 25 Punkte pro Stück",
-            "Füge beliebig viele Dreadnoughts, Flakwagons hinzu: 35 Punkte pro Stück"
+          "name": "Mek-Dread-Rotte",
+          "units": "Ein Cybot, drei Killa Bot",
+          "extraEinheits": [
+            "Füge beliebig viele Killa Bots hinzu: 25 Punkte pro Stück",
+            "Füge beliebig viele Cybots, Flakpanzas hinzu: 35 Punkte pro Stück"
           ],
           "pointsOptions": [
             {
@@ -207,20 +207,20 @@
               "points": "125"
             },
             {
-              "name": "Big",
+              "name": "Groß",
               "points": "200"
             },
             {
-              "name": "'Uge",
+              "name": "Riesig",
               "points": "275"
             }
           ]
         },
         {
-          "name": "0–1 Kill Kroozer",
-          "units": "Ein Kill Kroozer",
-          "extraUnits": [
-            "Ersetze den Kill Kroozer durch ein Battlekroozer für +50 Punkte"
+          "name": "0–1 Kill-Kreuzer",
+          "units": "Ein Kill-Kreuzer",
+          "extraEinheits": [
+            "Ersetze den Kill-Kreuzer durch einen Schlachtkreuzer für +50 Punkte"
           ],
           "points": 100
         }
@@ -231,10 +231,10 @@
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
-          "name": "Fighta-Bommer Skwadron",
-          "units": "Drei Fighta-Bommers",
+          "name": "Jagdbomma-Staffel",
+          "units": "Drei Jagdbommas",
           "upgrades": [
-            "Füge bis zu 6 Fighta-Bommers hinzu: 50 Punkte pro Stück"
+            "Füge bis zu 6 Jagdbommas hinzu: 50 Punkte pro Stück"
           ],
           "points": 150
         },
@@ -254,7 +254,7 @@
         },
         {
           "name": "Großer Gargant",
-          "units": "Ein Great Gargant",
+          "units": "Ein Großer Gargant",
           "upgrades": [
           ],
           "points": 700

@@ -31,10 +31,10 @@
         "name": "Weltenliedsänger",
         "type": "CH",
         "weapons": [
-          "Singing Speer"
+          "Singspeer"
         ],
         "specialRules": [
-          "Farsight",
+          "Weitsicht",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
@@ -77,7 +77,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Eldar Raketenwerfer"
+          "Eldar-Raketenwerfer"
         ],
         "specialRules": [
           "Geländegängig"
@@ -91,7 +91,7 @@
         "cc": 5,
         "ff": 6,
         "weapons": [
-          "Langgewehre"
+          "Ranger-Jagdgewehr"
         ],
         "specialRules": [
           "Beritten",
@@ -146,7 +146,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Streulaser",
+          "Impulslaser",
           "Klauen, Zähne \u0026 Schwanz"
         ],
         "specialRules": [
@@ -178,7 +178,7 @@
           "Ritter-Impulslaser"
         ],
         "specialRules": [
-          "Holofield (4+)",
+          "Holofeld (4+)",
           "Furchtlos",
           "Geländegängig"
         ]
@@ -194,7 +194,7 @@
           "Ritter-Psioniklanze"
         ],
         "specialRules": [
-          "Holofield (4+)",
+          "Holofeld (4+)",
           "Furchtlos",
           "Reinforced Armor",
           "Geländegängig"
@@ -208,11 +208,11 @@
         "ff": 4,
         "weapons": [
           "Ritter-Psioniklanze",
-          "Streulaser",
+          "Impulslaser",
           "Ritter-Nahkampfwaffen"
         ],
         "specialRules": [
-          "Holofield (4+)",
+          "Holofeld (4+)",
           "Furchtlos",
           "Geländegängig"
         ]
@@ -231,7 +231,7 @@
           "Schadenskapazität: 3",
           "Geländegängig"
         ],
-        "crit": "Great Megadon wird zerstört."
+        "crit": "Der Große Megadon wird zerstört."
       },
       {
         "name": "Ewiger Drache",
@@ -251,7 +251,7 @@
           "Sprungmodule",
           "Inspirierend"
         ],
-        "crit": "Eternal Drake wird zerstört. Alle Exodite-Eldar-Verbände (eigene und gegnerische) mit Sichtlinie zum Eternal Drake erhalten 1 Beschussmarke."
+        "crit": "Ewiger Drache wird zerstört. Alle Exodite-Eldar-Verbände (eigene und gegnerische) mit Sichtlinie zum Ewiger Drache erhalten 1 Beschussmarke."
       },
       {
         "name": "Kolossaler Carnosaurus",
@@ -269,7 +269,7 @@
           "Furchtlos",
           "Geländegängig"
         ],
-        "crit": "Colossal Carnosaur erleidet 1 zusätzlichen Schaden."
+        "crit": "Der Kolossale Carnosaurus erleidet 1 zusätzlichen Schaden."
       }
     ]
   }

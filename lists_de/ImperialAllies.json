@@ -13,7 +13,7 @@
         ]
       },
       {
-        "name": "Veteran Princeps",
+        "name": "Veteranen-Princeps",
         "type": "CH",
         "weapons": [],
         "specialRules": [
@@ -38,9 +38,9 @@
         ],
         "specialRules": [
           "Schadenskapazität 10",
-          "Null Schilde 8",
+          "Null-Schilde 8",
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
@@ -50,7 +50,7 @@
         "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Warmonger Titan",
+        "name": "Warmonger-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -65,9 +65,9 @@
         ],
         "specialRules": [
           "Schadenskapazität 10",
-          "Null Schilde 8",
+          "Null-Schilde 8",
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Furchtlos",
           "Erweiterte Befehlsreichweite",
           "Verstärkte Panzerung",
@@ -78,7 +78,7 @@
         "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Warmaster Titan",
+        "name": "Warmaster-Titan",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -92,9 +92,9 @@
         ],
         "specialRules": [
           "Schadenskapazität 9",
-          "Null Schilde 7",
+          "Null-Schilde 7",
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -117,9 +117,9 @@
         ],
         "specialRules": [
           "Schadenskapazität 8",
-          "Null Schilde 6",
+          "Null-Schilde 6",
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -128,7 +128,7 @@
         "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Warlord Titan, Todbringer Klasse",
+        "name": "Warlord-Titan, Todbringer-Klasse",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -145,16 +145,16 @@
           "Gatling-Blaster|0-2|FwA",
           "Turbolaserzerstörer|0-2|FwA",
           "Laserbrenner|0-2|",
-          "Titan Energiefaust|0-2|",
+          "Titan-Energiefaust|0-2|",
           "Titan Plasmakanone|0-2|FwA",
           "Volcano Kanone|0-1|FwA",
           "Plasma-Zerstörer|0-1|FwA"
         ],
         "specialRules": [
           "Schadenskapazität 8",
-          "Null Schilde 6",
+          "Null-Schilde 6",
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -163,7 +163,7 @@
         "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Warlord Titan, Nemesis Klasse",
+        "name": "Warlord-Titan, Nemesis-Klasse",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -179,16 +179,16 @@
           "Gekoppelte Titanen-Plasmakanonen|0-1|FxF",
           "Arme (wähle eine)",
           "2x Volcano Kanone|0-1|FwA",
-          "2x Titan Plasmakanone|0-1|FwA",
+          "2x Titan-Plasmakanone|0-1|FwA",
           "2x Plasma-Zerstörer|0-1|FwA",
           "2x Tremorgeschütz|0-1|FwA",
           "2x Laserblaster|0-1|FwA"
         ],
         "specialRules": [
           "Schadenskapazität 8",
-          "Null Schilde 6",
+          "Null-Schilde 6",
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -209,7 +209,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -218,7 +218,7 @@
         "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Reaver Titan ",
+        "name": "Reaver-Titan",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -230,25 +230,25 @@
           "Apocalypse Raketenwerfer||FxF",
           ">Nahkampf-Konfiguration<",
           "Apocalypse Raketenwerfer||FxF",
-          "Titan Meltakanone||FxF",
-          "Titan Kettenfaust||",
-          ">Support-Konfiguration<",
+          "Titan-Melterkanone||FxF",
+          "Titan-Kettenfaust||",
+          ">Unterstützungswaffen-Konfiguration<",
           "Apocalypse Raketenwerfer|2|FwA",
           "Anvilus-Panzerungslandeplattform||FxF"
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Anvilus Carapace Landing Pad: Gives all BP-type weapons in the formation 'Indirect Fire'"
+          "[*]Anvilus-Panzerungslandeplattform: Verleiht allen Sperrfeuerwaffen des Verbands die Sonderregel „Indirektes Feuer (Indirekt)“."
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Reaver Titan, Hun Class",
+        "name": "Reaver-Titan, Hun-Klasse",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -262,14 +262,14 @@
           "ARME (wähle zwei)",
           "Turbolaserzerstörer|0-2|FwA",
           "Gatling-Blaster|0-2|FwA",
-          "Titan Energiefaust|0-2|",
-          "Titan Kettenfaust|0-2|",
+          "Titan-Energiefaust|0-2|",
+          "Titan-Kettenfaust|0-2|",
           "Laserbrenner|0-2|",
-          "Titan Meltakanone|0-2|"
+          "Titan-Melterkanone|0-2|"
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -278,7 +278,7 @@
         "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Reaver Titan, Goth Class",
+        "name": "Reaver-Titan, Goth-Klasse",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -300,17 +300,17 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "[*]Anvilus Carapace Landing Pad: Verleiht allen BP-Waffen im Verband «Indirektes Feuer». Erlaubt den Kauf eines Lysander Fighters"
+          "[*]Anvilus Carapace Landing Pad: Verleiht allen BP-Waffen im Verband «Indirektes Feuer». Erlaubt den Kauf eines Lysander Abfangjäger (F)"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "Der Plasmareaktor der Einheit wurde beschädigt. Würfle in der Endphase jeder Runde einen W6 für jeden Reaktorbruch der Einheit. Bei einer 1 wird die Einheit zerstört und alle Einheiten innerhalb von 5cm erleiden bei einem Wurf von 5+ einen Treffer; bei einer 4–6 ist der Bruch repariert. Jeder nicht reparierte Bruch verursacht 1 Schaden."
       },
       {
-        "name": "Warbringer Titan",
+        "name": "Warbringer-Titan",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -332,7 +332,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 6",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -353,7 +353,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -372,16 +372,16 @@
           ">Standard-Konfiguration<",
           "Plasma-Blaster||FwA",
           "Vulcan-Megabolter||FwA",
-          ">Support-Konfiguration<",
+          ">Unterstützungswaffen-Konfiguration<",
           "Inferno Geschütz||FwA",
           "Vulcan-Megabolter||FwA",
-          ">Tank-Hunter-Konfiguration<",
+          ">Panzerjäger-Konfiguration<",
           "Plasma-Blaster||FwA",
           "Späher-Turbolaserzerstörer||FwA"
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"

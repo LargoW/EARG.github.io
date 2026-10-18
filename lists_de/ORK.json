@@ -51,7 +51,7 @@
           "W3+1 Energiefelder|0-1|"
         ],
         "specialRules": [
-          "Ersetze eine Big-Gun-Waffe durch entweder eine Supa-Zzap-Gun oder eine Soopagun; alternativ darf die Einheit W3+1 Kraftfelder erhalten"
+          "Ersetze eine Fette Wumme entweder durch ein Supa-Zzap-Geschütz oder durch eine Mega Kanonä; alternativ kann die Einheit W3+1 Kraftfelder erhalten."
         ]
       },
       {
@@ -59,12 +59,12 @@
         "type": "CH",
         "weapons": [
           "Superknarre|0-1|",
-          "Weirdboy-Turm|0-1|",
+          "Wyrdboy-Turm|0-1|",
           "W3+1 Energiefelder|0-1|"
         ],
         "specialRules": [
         ],
-        "notes": "Ersetze eine Big-Gun-Waffe entweder durch eine Soopagun oder einen Weirdboy Tower. Alternativ kann die Einheit [*] W3+1 Schpezialkraftfelder erhalten."
+        "notes": "Ersetze eine Fette Wumme entweder durch eine Mega Kanonä oder einen Wyrdboy-Turm. Alternativ kann die Einheit [*] W3+1 Schpezialkraftfelder erhalten."
       },
       {
         "name": "Heizakult-Oddboy",
@@ -75,7 +75,7 @@
           "Deff-Rolla \u0026 frischer Anstrich|0-1|"
         ],
         "specialRules": [
-          "Die Einheit ersetzt entweder eine Big Gun durch eine Lifta Droppa, oder [*] erhält W3+1 Kraftfelder, oder [**] wird mit einer Deff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm) ausgerüstet"
+          "Die Einheit ersetzt entweder eine Fette Wumme durch einen Hebewerfer, oder [*] erhält W3+1 Kraftfelder, oder [**] wird mit einer Deff-Rolla (Geländegängig) und mit frischem Anstrich (Geschwindigkeit um 10 cm) ausgerüstet"
         ]
       },
       {
@@ -108,7 +108,7 @@
           "Große Knarre"
         ],
         "specialRules": [
-          "‘Ere we Go"
+          "Los geht's"
         ]
       },
       {
@@ -122,7 +122,7 @@
         ],
         "specialRules": [
           "Super-Entbehrlich",
-          "‘Ere we Go"
+          "Los geht's"
         ]
       },
       {
@@ -138,7 +138,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "‘Ere we Go"
+          "Los geht's"
         ]
       },
       {
@@ -154,7 +154,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "‘Ere we Go"
+          "Los geht's"
         ]
       },
       {
@@ -196,7 +196,7 @@
           "Große Knarre"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Aufklärer"
         ]
       },
@@ -326,7 +326,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "1 Einheit Boyz oder Nobz. Einheiten dürfen während des Transports schießen und an Feuergefechten teilnehmen, sofern sich kein gegnerisches Modell in Basekontakt mit dem Transporter befindet."
+        "notes": "1 Einheit Boys oder Bosse. Einheiten dürfen während des Transports schießen und an Feuergefechten teilnehmen, sofern sich kein gegnerisches Modell in Basekontakt mit dem Transporter befindet."
       },
       {
         "name": "Mek-Speedsta",
@@ -340,7 +340,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "W3 Power Fields"
+          "W3 Energiefelder"
         ]
       },
       {
@@ -356,7 +356,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "2 Einheiten Boyz, Nobz, Flash Gitz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten darf 1 Einheit Grotz mitgeführt werden."
+        "notes": "2 Einheiten Boys, Bosse, Posas, Kommandos oder Grots. Kanonänbatterie belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten darf 1 Einheit Grots mitgeführt werden."
       },
       {
         "name": "Kampfpanza",
@@ -371,7 +371,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "1 Einheit Boyz, Nobz, Flash Gitz, Kommandos oder Grotz."
+        "notes": "1 Einheit Boys, Bosse, Posas, Kommandos oder Grots."
       },
       {
         "name": "Heizakult-Kampfpanza",
@@ -386,7 +386,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
+        "notes": "1 Einheit Boys, Bosse, Kommandos oder Grots."
       },
       {
         "name": "Erbeuteter Leman Russ/Land Raider",
@@ -402,7 +402,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
+        "notes": "1 Einheit Boys, Bosse, Kommandos oder Grots."
       },
       {
         "name": "Erbeuteter Vindicator/Thunderer",
@@ -444,7 +444,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "1 Einheit Boyz, Nobz, Flash Gitz, Kommandos oder Grotz."
+        "notes": "1 Einheit Boys, Bosse, Posas, Kommandos oder Grots."
       },
       {
         "name": "Heizakult-Flakpanza",
@@ -459,7 +459,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
+        "notes": "1 Einheit Boys, Bosse, Kommandos oder Grots."
       },
       {
         "name": "Erbeutete Hydra/Stalker",
@@ -474,7 +474,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "1 Einheit Boyz, Nobz, Kommandos oder Grotz."
+        "notes": "1 Einheit Boys, Bosse, Kommandos oder Grots."
       },
       {
         "name": "Killa Bot",
@@ -489,7 +489,7 @@
         ],
         "specialRules": [
           "Geländegängig",
-          "‘Ere we Go"
+          "Los geht's"
         ]
       },
       {
@@ -505,7 +505,7 @@
         ],
         "specialRules": [
             "Geländegängig",
-            "‘Ere we Go"
+            "Los geht's"
         ]
       },
       {
@@ -522,7 +522,7 @@
         "specialRules": [
           "Anführer",
           "Geländegängig",
-          "‘Ere we Go"
+          "Los geht's"
         ]
       },
       {
@@ -539,9 +539,9 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "‘Ere we Go"
+          "Los geht's"
         ],
-        "notes": "Bewaffnet entweder mit drei Big Gunz oder mit zwei Big Guns und einem Kombat \u0027Ammer."
+        "notes": "Bewaffnet entweder mit drei Kanonänbatterie oder mit zwei Fette Wummes und einem Kombat \u0027Ammer."
       },
       {
         "name": "Mega Transportpanza",
@@ -558,8 +558,8 @@
           "Schadenskapazität 3",
           "Transport"
         ],
-        "notes": "8 Boyz, Flash Gitz, Nobz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grotz-Einheiten mitgeführt werden.",
-        "crit": "Battlefortress wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
+        "notes": "8 Boys, Posas, Bosse, Kommandos oder Grots. Kanonänbatterie belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grots-Einheiten mitgeführt werden.",
+        "crit": "Mega Transportpanza wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
       },
       {
         "name": "Mega Wummenpanza",
@@ -576,8 +576,8 @@
           "Schadenskapazität 3",
           "Transport"
         ],
-        "notes": "4 Boyz, Nobz, Flash Gitz, Kommandos oder Grotz. Big Gunz belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 2 Grotz-Einheiten mitgeführt werden.",
-        "crit": "Gunfortress wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
+        "notes": "4 Boys, Bosse, Posas, Kommandos oder Grots. Kanonänbatterie belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 2 Grots-Einheiten mitgeführt werden.",
+        "crit": "Mega Wummenpanza wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
       },
       {
         "name": "Flakka-Mega-Transportpanza",
@@ -593,7 +593,7 @@
         "specialRules": [
           "Schadenskapazität 3"
         ],
-        "crit": "Flakkafortress wird zerstört, alle transportierten Einheiten werden getötet, ausser sie würfeln eine 6+."
+        "crit": "Die Flakka-Mega-Transportpanza wird zerstört. Alle transportierten Einheiten werden getötet, außer bei einer 6+."
       },
       {
         "name": "Schädelhammer",
@@ -626,12 +626,12 @@
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Power Fields 1D3",
+          "Energiefelder 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "Der Kopf des Supa-Stompa wird weggeschossen und er erhält für den Rest des Spiels einen Modifikator von -1 auf alle Trefferwürfe beim Schiessen. Weitere kritische Treffer verursachen stattdessen 1 zusätzlichen Schaden."
+        "crit": "Der Kopf des Supa-Stampfa wird weggeschossen und er erhält für den Rest des Spiels einen Modifikator von -1 auf alle Trefferwürfe beim Schiessen. Weitere kritische Treffer verursachen stattdessen 1 zusätzlichen Schaden."
       },
       {
         "name": "Supa-Stampfa ",
@@ -653,12 +653,12 @@
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Power Fields 1D3",
+          "Energiefelder 1D3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "Der Kopf des Supa-Stompa wird weggeschossen und er erhält für den Rest des Spiels einen Modifikator von -1 auf alle Trefferwürfe beim Schiessen. Weitere kritische Treffer verursachen stattdessen 1 zusätzlichen Schaden."
+        "crit": "Der Kopf des Supa-Stampfa wird weggeschossen und er erhält für den Rest des Spiels einen Modifikator von -1 auf alle Trefferwürfe beim Schiessen. Weitere kritische Treffer verursachen stattdessen 1 zusätzlichen Schaden."
       },
       {
         "name": "Gargant",
@@ -675,11 +675,11 @@
         ],
         "specialRules": [
           "Schadenskapazität 7",
-          "Power Fields 1D3+3",
+          "Energiefelder 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Bewaffnet entweder mit drei Soopaguns oder mit zwei Soopaguns und entweder einer Supa-Zzap-Gun oder einer Mega-Choppa"
+          "Bewaffnet entweder mit drei Mega Kanonäs oder mit zwei Mega Kanonäs und entweder einem Supa-Zzap-Geschütz oder einer Mega-Choppa"
         ],
         "crit": "Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
@@ -707,7 +707,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 7",
-          "Power Fields 1D3+3",
+          "Energiefelder 1D3+3",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
@@ -725,20 +725,20 @@
           "Blick des Mork",
           "Groß Geschütz|2|",
           "Superknarre||FxF",
-          "Zwillings-Soopagun|1-2|FxF",
+          "Zwillings-Mega Kanonä|1-2|FxF",
           "Hebewerfer|0-1|"
         ],
         "specialRules": [
           "Schadenskapazität 10",
-          "Power Fields 1D3+6",
+          "Energiefelder 1D3+6",
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Bewaffnet entweder mit zwei Zwillings Soopaguns oder mit einer Zwillings Soopagun und einer Lifta-Droppa"
+          "Bewaffnet entweder mit zwei Zwillings-Mega-Kanonäs oder mit einer Zwillings-Mega-Kanonä und einem Hebewerfer"
         ],
-        "crit": "Great Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
+        "crit": "Großer Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
         "name": "Großer Gargant ",
@@ -753,7 +753,7 @@
           "Blick des Mork|0-1|",
           "Blick des Gork|0-1|",
           "ARME (wähle zwei)",
-          "Zwillings-Soopagun|0-2|FxF",
+          "Zwillings-Mega Kanonä|0-2|FxF",
           "Dakka-Dakka-Kanone|0-2|FxF",
           "Mega-Lobba|0-2|FxF",
           "Hebewerfer|0-1|",
@@ -765,14 +765,14 @@
         ],
         "specialRules": [
           "Schadenskapazität 10",
-          "Power Fields 1D3+6",
+          "Energiefelder 1D3+6",
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "Great Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
+        "crit": "Großer Gargant fängt Feuer. Würfle in der Endphase jeder Runde 1W6 für jedes auf der Einheit brennende Feuer. 1: Ein weiteres Feuer entsteht. 5-6: Das Feuer wird gelöscht. Jeder Wurf von 1-4 verursacht 1 Schaden."
       },
       {
         "name": "Mega-Gargant",
@@ -783,17 +783,17 @@
         "ff": 4,
         "weapons": [
           "Groß Geschütz|4|",
-          "Weirdboy-Turm",
+          "Wyrdboy-Turm",
           "2x Grot-gelenkte Rakete||FwA",
           "Zwillings-Supa-Zzap-Geschütz||FwA",
-          "Soopagunz Belly Batterie||FxF",
+          "Mega-Kanonä-Bauchbatterie||FxF",
           "Kampfarme"
         ],
         "specialRules": [
           "Schadenskapazität 13",
-          "Power Fields 1D3+9",
+          "Energiefelder 1D3+9",
           "Göttermaschine",
-          "Split Fire",
+          "Geteiltes Feuer",
           "Geländegängig",
           "Furchtlos",
           "Verstärkte Panzerung"
@@ -803,7 +803,7 @@
       {
         "name": "Jagdbomma",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber (FB)",
         "armour": 6,
         "weapons": [
           "AC Zwillings-Große Knarre||FxF",
@@ -815,7 +815,7 @@
       {
         "name": "Dakkajet",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 6,
         "weapons": [
           "AC-Zwillings-Supa-Knarre|2|FxF"
@@ -826,7 +826,7 @@
       {
         "name": "Blitza-Bomma",
         "type": "AC",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 5,
         "weapons": [
           "AC Flakka",
@@ -839,20 +839,20 @@
       {
         "name": "Wazbom-Blastajet",
         "type": "AC",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "weapons": [
           "AC Flakka",
           "AC-Zwillings-Kustom-Megakanone||FxF"
         ],
         "specialRules": [
-          "Power Fields 1D3"
+          "Energiefelder 1D3"
         ]
       },
       {
         "name": "Bomma",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "weapons": [
           "AC-Flakka-Dakka",
@@ -866,7 +866,7 @@
       {
         "name": "Landungsschiff",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 5,
         "cc": 6,
         "ff": 4,
@@ -880,7 +880,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "10 Killa Kans, Warbikes, Boyz, Nobz, Kommandos, Stormboyz oder Grotz. Big Gunz, Warbuggies, Skorchas und Deff Dreads belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grotz-Einheiten mitgeführt werden.",
+        "notes": "10 Killa Bots, Waaghbikes, Boys, Bosse, Kommandos, Stormboys oder Grots. Kanonänbatterie, Warbuggies, Skorchas und Deff Dreads belegen jeweils 2 Plätze. Zusätzlich zu anderen transportierten Einheiten dürfen 4 Grots-Einheiten mitgeführt werden.",
         "crit": "Landa und alle transportierten Einheiten werden zerstört."
       },
       {
@@ -899,7 +899,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "10 Killa Kans, Boyz, Nobz, Kommandos, Stormboyz oder Grotz. Deff Dreads und Mega Dreads belegen jeweils 2 Plätze. [*] Muss das Spiel an Bord eines Blood Axes Kill Kroozer oder Battlekroozer beginnen und darf das Spiel nur durch Planetare Landung betreten.",
+        "notes": "10 Killa Bots, Boys, Bosse, Kommandos, Stormboys oder Grots. Deff Dreads und Mega Dreads belegen jeweils 2 Plätze. [*] Muss das Spiel an Bord eines Blutäxte-Kill-Kreuzers oder Schlachtkreuzers beginnen und darf das Spiel nur durch Planetare Landung betreten.",
         "crit": "Drop Rok und alle transportierten Einheiten werden zerstört"
       },
       {
@@ -985,7 +985,7 @@
         "specialRules": [
           "Beritten",
           "Geländegängig",
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
@@ -1000,8 +1000,8 @@
           "Geklaute Knarren|2|"
         ],
         "specialRules": [
-          "Rush ‘em Ladz",
-          "‘Ere we Go",
+          "Stürmt los, Jungs",
+          "Los geht's",
           "Anführer"
         ]
       },
@@ -1017,7 +1017,7 @@
           "Spaltas"
         ],
         "specialRules": [
-          "‘Ere we Go"
+          "Los geht's"
         ]
       },
       {
@@ -1031,7 +1031,7 @@
           "Große Knarren"
         ],
         "specialRules": [
-          "‘Ere we Go"
+          "Los geht's"
         ]
       },
       {
@@ -1056,7 +1056,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "‘Ere we Go"
+          "Los geht's"
         ]
       },
       {
@@ -1071,7 +1071,7 @@
           "Feuer Bomben"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Aufklärer"
         ]
       },
@@ -1086,7 +1086,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "‘Ere we Go"
+          "Los geht's"
         ]
       },
       {
@@ -1129,11 +1129,11 @@
           "Zähne und Hörner"
         ],
         "specialRules": [
-          "‘Ere we Go",
+          "Los geht's",
           "Geländegängig",
           "Transport"
         ],
-        "notes": "Kann bis zu 4 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 2 Grotz mitgeführt werden."
+        "notes": "Kann bis zu 4 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 2 Grots mitgeführt werden."
       },
       {
         "name": "Supa-Lobba-Squiggofant",
@@ -1147,7 +1147,7 @@
           "Zähne und Hörner"
         ],
         "specialRules": [
-          "‘Ere we Go",
+          "Los geht's",
           "Geländegängig"
         ]
       },
@@ -1164,7 +1164,7 @@
           "Zähne und Hörner"
         ],
         "specialRules": [
-          "‘Ere we Go",
+          "Los geht's",
           "Geländegängig"
         ]
       },
@@ -1185,8 +1185,8 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "Kann bis zu 8 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 4 Grotz mitgeführt werden.",
-        "crit": "Gargantuan Squiggoth wird zerstört."
+        "notes": "Kann bis zu 8 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 4 Grots mitgeführt werden.",
+        "crit": "Gargantuan Squiggofant wird zerstört."
       },
       {
         "name": "Orkeosaurus",
@@ -1206,7 +1206,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "Kann bis zu 16 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 6 Grotz mitgeführt werden.",
+        "notes": "Kann bis zu 16 der folgenden Einheiten transportieren: Huntas, Brutes, Squig Katapult oder Wildboyz. Zusätzlich zu anderen Einheiten dürfen bis zu 6 Grots mitgeführt werden.",
         "crit": "Orkeosaurus erleidet 1 zusätzlichen Schaden, und W3 zufällige transportierte Einheiten erleiden einen Treffer."
       },
       {

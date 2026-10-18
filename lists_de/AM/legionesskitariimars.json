@@ -6,10 +6,10 @@
   "strategy": "Die Legiones Skitarii haben einen Strategiewert von 3.",
   "Initiative": "Verbände der Collegia Titanica haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+. Außerdem unterliegt der Questoris-Banner-Verband der Sonderregel „Ritterlichkeit“. ",
   "specialRules": [
-    "Tunnelgräbers"
+    "Tunnelgräber"
   ],
   "usage": [
-    "Diese Armeeliste ermöglicht es dir, eine Armee der Skitarii des Adeptus Mechanicus aufzustellen."
+    "Dieser Armeeorganisationsplan ermöglicht es dir, eine Armee der Skitarii des Adeptus Mechanicus aufzustellen."
   ],
   "units": [
     {
@@ -17,7 +17,7 @@
       "units": [
         "Magos Dominus",
         "Magos",
-        "Tech-Priester",
+        "Tech-Priesterer",
         "Skitarii-Vorhut",
         "Sicarianische Rostpirscher",
         "Sicarian-Infiltratoren",
@@ -45,27 +45,27 @@
     {
       "from": "QK.json",
       "units": [
-        "Questoris Knight-Paladin",
-        "Questoris Knight-Errant",
-        "Questoris Knight-Crusader",
-        "Questoris Knight-Gallant",
-        "Questoris Knight-Warden"
+        "Questoris-Ritter-Paladin",
+        "Questoris-Ritter-Errant",
+        "Questoris-Ritter-Crusader",
+        "Questoris-Ritter-Gallant",
+        "Questoris-Ritter-Warden"
       ],
       "unitRules": [
-        "Heavy Armoured Vehicle (H-AV)",
+        "Schweres gepanzertes Fahrzeug (H-AV)",
         "Starrköpfig",
         "Ritterlichkeit",
-        "Ionen Schild (x)"
+        "Ionenschild (x)"
       ]
     },
     {
       "from": "ImperialAllies.json",
       "units": [
         "Warhound ",
-        "Warbringer Titan"
+        "Warbringer-Titan"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Null-Schilde"
       ]
     }
   ],
@@ -74,20 +74,20 @@
       "name": "Legiones Mars Kernverbände",
       "formations": [
         {
-          "name": "Vanguard Maniple",
+          "name": "Vorhut-Manipel",
           "units": "Ein Magos, neun Skitarii Vanguards",
-          "extraUnits": [
+          "extraEinheits": [
             "Ersetze 4 Skitarii Vanguards durch 4 Rapiers: kostenlos",
-            "Füge bis zu 2 Onager Dunecrawlers hinzu: 50 Punkte pro Stück",
-            "Füge bis zu 2 Skorpius Disintegrators hinzu: 50 Punkte pro Stück",
+            "Füge bis zu zwei Onager-Dünenkrabbler hinzu: 50 Punkte pro Stück",
+            "Füge bis zu zwei Skorpius-Desintegratoren hinzu: 50 Punkte pro Stück",
             "Oberbefehlshaber",
-            "Vanguard Transport"
+            "Vanguard-Transporter"
           ],
           "points": 225
         },
         {
-          "name": "Onager Cataphractii",
-          "units": "Zwei Onager Dunecrawlers mit Icarus Array, sechs Onager Dunecrawlers mit another single configuration",
+          "name": "Onager-Kataphrakten-Manipel",
+          "units": "Zwei Onager-Dünenkrabbler mit Icarus-Array und sechs Onager-Dünenkrabbler mit jeweils derselben weiteren Konfiguration",
           "points": 450
         }
       ]
@@ -98,50 +98,50 @@
       "formations": [
         {
           "name": "Sicarian Killclade",
-          "units": "Vier Sicarian Ruststalkers, zwei Sicarian Infiltratorens",
-          "extraUnits": [
+          "units": "Vier Sicarianische Rostpirscher, zwei Sicarianische Infiltratoren",
+          "extraEinheits": [
           ],
           "points": 175
         },
         {
-          "name": "Ranger Cohort",
-          "units": "Vier Skitarii Rangers",
-          "extraUnits": [
+          "name": "Ranger-Kohorte",
+          "units": "Vier Skitarii Ranger",
+          "extraEinheits": [
             "Füge 2 Scorpius Duneriders, oder 3 Rapiers hinzu: 50 Punkte"
           ],
           "points": 150
         },
         {
-          "name": "Kastelan Maniple",
-          "units": "Ein Tech-Priest, fünf Kastelan-Roboter",
-          "extraUnits": [
+          "name": "Kastelan-Manipel",
+          "units": "Ein Tech-Priester, fünf Kastelan-Roboter",
+          "extraEinheits": [
             "Füge bis zu 2 Kastelan-Roboter hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         },
         {
-          "name": "Kataphron Maniple",
-          "units": "Ein Tech-Priest, fünf Kataphron Breacher Battle Servitors oder fünf Kataphron Destroyer Battle Servitors",
-          "extraUnits": [],
+          "name": "Kataphron-Manipel",
+          "units": "Ein Tech-Priester, fünf Kataphron-Brecher-Kampfservitoren oder fünf Kataphron-Zerstörer-Kampfservitoren",
+          "extraEinheits": [],
           "points": 250
         },
         {
-          "name": "Onager Maniple",
-          "units": "Ein Onager Dunecrawlers mit Icarus Array, drei Onager Dunecrawlers mit another single configuration",
+          "name": "Onager-Manipel",
+          "units": "Ein Onager-Dünenkrabbler mit Icarus-Array und drei Onager-Dünenkrabbler mit jeweils derselben weiteren Konfiguration",
           "points": 225
         },
         {
-          "name": "Skorpius Maniple",
-          "units": "Vier Skorpius Disintegrators",
-          "extraUnits": [
-            "Füge bis zu 2 Skorpius Disintegrators hinzu: 50 Punkte pro Stück"
+          "name": "Skorpius-Manipel",
+          "units": "Vier Skorpius-Desintegratoren",
+          "extraEinheits": [
+            "Füge bis zu zwei Skorpius-Desintegratoren hinzu: 50 Punkte pro Stück"
           ],
           "points": 225
         },
         {
-          "name": "Minoris Cohort",
+          "name": "Minoris-Kohorte",
           "units": "Zwei Ordinatus Minoris",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge 1 Ordinatus Minoris hinzu: 125 Punkte",
             "Unterstützungswaffe"
           ],
@@ -150,8 +150,8 @@
         {
           "name": "0–1 Ordinatus Majoris",
           "units": "Ein Ordinatus Armageddon (Nova Cannon)",
-          "extraUnits": [
-            "Ordinatus Mars (Sonic Disruptor)",
+          "extraEinheits": [
+            "Ordinatus Mars (Schallstörsender)",
             "Ordinatus Golgotha (Hellfire Missiles)"
           ],
           "points": 425
@@ -163,34 +163,34 @@
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
-          "name": "Questoris Banner",
-          "units": "Zwei Questoris Knights (darf nicht mix configurations)",
-          "extraUnits": [],
+          "name": "Questoris-Banner",
+          "units": "Zwei Questoris-Ritter (dürfen nicht aus verschiedenen Konfigurationen bestehen)",
+          "extraEinheits": [],
           "points": 325
         },
         {
-          "name": "Warhound Pack",
-          "units": "Zwei Warhound Titans, beide entweder in Standard- oder Support-Konfiguration",
-          "extraUnits": [
-            "Tank-Hunter-Konfiguration"
+          "name": "Warhound-Rudel",
+          "units": "Zwei Warhound-Titanen, beide entweder in Standard- oder Unterstützungskonfiguration",
+          "extraEinheits": [
+            "Panzerjäger-Konfiguration"
           ],
           "points": 475
         },
         {
-          "name": "Warbringer Titan",
-          "units": "Ein Warbringer Titan",
-          "extraUnits": [
+          "name": "Warbringer-Titan",
+          "units": "Ein Warbringer-Titan",
+          "extraEinheits": [
           ],
           "points": 650
         },
         {
-          "name": "Avenger Squadron",
-          "units": "Zwei Avenger Strike Fighters",
+          "name": "Avenger-Staffel",
+          "units": "Zwei Avenger-Jagdbombers",
           "points": 175
         },
         {
-          "name": "0–1 Mechanicus Battleship",
-          "units": "Ein Ark Mechanicus Battleship",
+          "name": "0–1 Mechanicus Schlachtschiff",
+          "units": "Ein Ark-Mechanicus-Schlachtschiff",
           "points": 225
         }
       ]
@@ -213,9 +213,9 @@
         "name": "Vanguard-Transporter",
         "options": [
           {
-            "description": "Füge 1 Gorgon, 5 Skorpius Duneriders, oder 5 Termites (muss durch Graben das Schlachtfeld betreten) hinzu",
+            "description": "Füge einen Gorgon, fünf Skorpius-Dünenreiter oder fünf Termiten hinzu (diese müssen sich eingraben, um das Schlachtfeld zu betreten)",
             "points": [
-              "Termites: 75 Punkte",
+              "Termiten: 75 Punkte",
               "Gorgon: 100 Punkte",
               "Duneriders: 100 Punkte"
             ]
@@ -235,7 +235,7 @@
         "name": "Ordinatus Mars",
         "options": [
           {
-            "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Mars (Sonic Disruptor)",
+            "description": "Ersetze den Ordinatus Armageddon durch einen Ordinatus Mars (Schallstörsender)",
             "points": "kostenlos"
           }
         ]
@@ -250,10 +250,10 @@
         ]
       },
       {
-        "name": "Tank Hunter",
+        "name": "Panzerjäger",
         "options": [
           {
-            "description": "Werte beide Warhounds auf Tank-Hunter-Konfiguration auf",
+            "description": "Werte beide Warhound-Titanen auf die Panzerjäger-Konfiguration auf",
             "points": "50 Punkte"
           }
         ]

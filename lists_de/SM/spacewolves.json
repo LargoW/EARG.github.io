@@ -6,14 +6,14 @@
   "armyforge": "EAR_AdeptusAstartes_SpaceWolves",
   "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
   "Initiative": "Alle Verbände haben einen Initiativwert von 1+.",
-  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Space-Wolves-Packs und Flugzeugverbände. <i>Pack Mentality</i> gilt für alle Kern- und Elite-Packs.",
+  "armyRules": "Die Sonderregel <i>Sie kennen keine Furcht</i> gilt für alle Space-Wolves-Rudel und Flugzeugverbände. <i>Rudelmentalität</i> gilt für alle Kern- und Elite-Rudel.",
   "specialRules": [
-    "Pack Mentality",
-    "Space Marine Transports",
-    "They Shall Know No Fear"
+    "Rudelmentalität",
+    "Space-Marine-Transporter",
+    "Sie kennen keine Furcht"
   ],
   "usage": [
-    "Die folgende Armeeliste ermöglicht es dir, eine Armee von Space Marines des Space-Wolves-Ordens aufzustellen."
+    "Der folgende Armeeorganisationsplan ermöglicht es dir, eine Armee von Space Marines des Space-Wolves-Ordens aufzustellen."
   ],
   "units": [
     {
@@ -21,7 +21,7 @@
       "units": [
         "Großwolf-Oberbefehlshaber",
         "Wolfslord-Kapitän",
-        "Wolf Standard Bearer",
+        "Wolfsstandartenträger",
         "Blutklauen-Sturmtrupps",
         "Himmelsklauen-Sturmtrupps",
         "Graumähnen-Taktische-Trupps",
@@ -30,7 +30,7 @@
         "Schnellklauen-Sturmbikes",
         "Fenriswölfe",
         "Donnerwolfkavallerie",
-        "Wolf-Scouts",
+        "Wolf-Aufklärer",
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
@@ -46,9 +46,9 @@
         "Stalker",
         "Whirlwind",
         "Vindicator",
-        "Storm Talon",
+        "Sturmtalon",
         "Stormwolf-Sturmboot",
-        "Stormfang Gunship",
+        "Stormfang-Landungsschiff",
         "Schlachtbarke",
         "Angriffskreuzer",
         "Landungskapsel"
@@ -63,51 +63,51 @@
         "Warhound"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Null-Schilde"
       ]
     }
   ],
   "sections": [
     {
-      "name": "Space Wolves Kern-Packs",
+      "name": "Kernrudel der Space Wolves",
       "formations": [
         {
-          "name": "Hunting Pack",
-          "units": "Ein Wolf Lord Captain, ein Wolf Standard Bearer und sechs Grey Hunter Tacticals plus Transporter",
-          "extraUnits": [
-            "Anti-Air",
-            "Dreadnoughts",
+          "name": "Jagd-Rudel",
+          "units": "Ein Wolfslord-Kapitän, ein Wolfsstandartenträger, sechs Graumähnen-Taktische-Trupps plus Transporter",
+          "extraEinheits": [
+            "Flugabwehr",
+            "Cybots",
             "Exterminators",
             "Fenriswölfe",
-            "Heavy Transports",
+            "Schwere Transporter",
             "Oberbefehlshaber"
           ],
           "points": 275
         },
         {
-          "name": "Blood Claw Assault Pack",
-          "units": "Sechs Blood Claw Assaults",
-          "extraUnits": [
-            "Füge 'plus Transporter' zum Verband hinzu: 25 Punkte",
-            "Dreadnoughts",
+          "name": "Blutklauen-Sturmrudel",
+          "units": "Sechs Blutklauen-Sturmtrupps",
+          "extraEinheits": [
+            "Füge dem Verband einen Transporter hinzu: 25 Punkte",
+            "Cybots",
             "Fenriswölfe",
             "Wolfslord-Kapitän"
           ],
           "points": 225
         },
         {
-          "name": "Sky Claw Assault Pack",
-          "units": "Sechs Sky Claw Assaults",
-          "extraUnits": [
+          "name": "Himmelsklaue-Sturmrudel",
+          "units": "Sechs Himmelsklauen-Sturmtrupps",
+          "extraEinheits": [
             "Fenriswölfe",
             "Wolfslord-Kapitän"
           ],
           "points": 225
         },
         {
-          "name": "Swift Claw Bikes Pack",
-          "units": "Sechs Swift Claw Assault Bikes",
-          "extraUnits": [
+          "name": "Schnellklauen-Sturmbike-Rudel",
+          "units": "Sechs Schnellklauen-Sturmbikes",
+          "extraEinheits": [
             "Fenriswölfe",
             "Wolfslord-Kapitän"
           ],
@@ -116,44 +116,44 @@
       ]
     },
     {
-      "name": "Space Wolf Elite-Packs",
-      "description": "Du darfst nicht mehr Elite-Packs eines Typs als Hunting Packs aufstellen.",
+      "name": "Elite-Rudel der Space Wolves",
+      "description": "Du darfst nicht mehr Elite-Rudel eines Typs als Jagd-Rudel aufstellen.",
       "formations": [
         {
-          "name": "Long Fang Pack",
-          "units": "Ein Wolf Lord Captain, vier Long Fang Devastators",
-          "extraUnits": [
-            "Anti-Air",
-            "Dreadnoughts",
+          "name": "Langfang-Rudel",
+          "units": "Ein Wolfslord-Kapitän und vier Langfang-Devastortrupps",
+          "extraEinheits": [
+            "Flugabwehr",
+            "Cybots",
             "Exterminators",
             "Fenriswölfe",
-            "Heavy Transports",
+            "Schwere Transporter",
             "Oberbefehlshaber"
           ],
           "points": 275
         },
         {
           "name": "Donnerwolfkavallerie",
-          "units": "Ein Wolf Lord Captain, vier Thunderwolf Cavalry",
-          "extraUnits": [
+          "units": "Ein Wolfslord-Kapitän und vier Donnerwolfkavalleristen",
+          "extraEinheits": [
             "Fenriswölfe",
             "Oberbefehlshaber"
           ],
           "points": 275
         },
         {
-          "name": "Wolf Guard Terminator Pack",
-          "units": "Ein Wolf Lord Captain, vier Wolf Guard Terminators plus Transporter",
-          "extraUnits": [
-            "Dreadnoughts",
+          "name": "Wolfsgarde-Terminatorrudel",
+          "units": "Ein Wolfslord-Kapitän, vier Wolfsgarde-Terminatoren und ein Transporter",
+          "extraEinheits": [
+            "Cybots",
             "Oberbefehlshaber"
           ],
           "points": 375
         },
         {
-          "name": "Wolf Scout Pack",
-          "units": "Vier Wolf Scouts plus Transporter",
-          "extraUnits": [
+          "name": "Wolfscout-Rudel",
+          "units": "Vier Wolf-Aufklärer und ein Transporter",
+          "extraEinheits": [
             "Fenriswölfe",
             "Wolfslord-Kapitän"
           ],
@@ -168,16 +168,16 @@
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge 1 Land Raider hinzu: 50 Punkte",
-            "Anti-Air"
+            "Flugabwehr"
           ],
           "points": 275
         },
         {
           "name": "Land Speeders",
           "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
-          "extraUnits": [
+          "extraEinheits": [
             "Typhoons"
           ],
           "points": 200
@@ -185,24 +185,24 @@
         {
           "name": "Predators",
           "units": "Vier Predator Annihilators und/oder Predator Destructors",
-          "extraUnits": [
-            "Anti-Air"
+          "extraEinheits": [
+            "Flugabwehr"
           ],
           "points": 250
         },
         {
           "name": "Vindicators",
           "units": "Vier Vindicators",
-          "extraUnits": [
-            "Anti-Air"
+          "extraEinheits": [
+            "Flugabwehr"
           ],
           "points": 225
         },
         {
           "name": "Whirlwinds",
           "units": "Vier Whirlwinds",
-          "extraUnits": [
-            "Anti-Air"
+          "extraEinheits": [
+            "Flugabwehr"
           ],
           "points": 275
         }
@@ -214,34 +214,34 @@
       "formations": [
         {
           "name": "0–1 Orbitale Unterstützung",
-          "units": "Ein Strike Cruiser",
-          "extraUnits": [
+          "units": "Ein Angriffskreuzer",
+          "extraEinheits": [
             "Schlachtbarke"
           ],
           "points": 200
         },
         {
-          "name": "Storm Talons",
-          "units": "Zwei Storm Talons",
+          "name": "Sturmtalons",
+          "units": "Zwei Sturmtalons",
           "points": 200
         },
         {
           "name": "Stormwolf-Sturmboot",
-          "units": "Ein Stormwolf Assault Boat",
-          "extraUnits": [
+          "units": "Ein Stormwolf-Sturmboot",
+          "extraEinheits": [
           ],
           "points": 225
         },
         {
-          "name": "Stormfang Gunship",
-          "units": "Ein Stormfang Gunship",
+          "name": "Stormfang-Landungsschiff",
+          "units": "Ein Stormfang-Landungsschiff",
           "points": 175
         },
         {
           "name": "Warhounds",
-          "units": "Ein Warhound Titan",
-          "extraUnits": [
-            "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
+          "units": "Ein Warhound-Titan",
+          "extraEinheits": [
+            "Füge 1 zusätzlichen Warhound-Titan hinzu: 200 Punkte"
           ],
           "points": 275
         }
@@ -253,7 +253,7 @@
     "description": "Jede Aufwertung darf pro Pack nur einmal gewählt werden.",
     "items": [
       {
-        "name": "Anti-Air",
+        "name": "Flugabwehr",
         "description": "Füge eine beliebige der folgenden Einheiten zum Verband hinzu",
         "options": [
           {
@@ -268,11 +268,11 @@
       },
       {
         "name": "Schlachtbarke",
-        "description": "Ersetze den Strike Cruiser durch einen Battle Barge",
+        "description": "Ersetze den Angriffskreuzer durch einen Schlachtbarke",
         "points": "75 Punkte"
       },
       {
-        "name": "Dreadnoughts",
+        "name": "Cybots",
         "description": "Füge bis zu 2 der folgenden Einheiten zum Verband hinzu.",
         "options": [
           {
@@ -280,7 +280,7 @@
             "points": "50 Punkte pro Stück"
           },
           {
-            "description": "Wulfen Dreadnought",
+            "description": "Wulfen Cybot",
             "points": "75 Punkte pro Stück"
           }
         ]
@@ -296,7 +296,7 @@
         "points": "25 Punkte pro Stück"
       },
       {
-        "name": "Heavy Transports",
+        "name": "Schwere Transporter",
         "description": "Füge beliebig viele Razorbacks oder Land Raiders hinzu, bis zur erforderlichen Anzahl, um den Verband zu transportieren",
         "options": [
           {
@@ -316,12 +316,12 @@
       },
       {
         "name": "Wolfslord-Kapitän",
-        "description": "Füge 1 Wolf Lord Captain zum Verband hinzu",
+        "description": "Füge dem Verband einen Wolfslord-Kapitän hinzu.",
         "points": "25 Punkte"
       },
       {
         "name": "0–1 Oberbefehlshaber",
-        "description": "Ersetze 1 Wolf Lord Captain durch einen Great Wolf Oberbefehlshaber",
+        "description": "Ersetze einen Wolfslord-Kapitän durch einen Großwolf-Oberbefehlshaber.",
         "points": "50 Punkte"
       }
     ]

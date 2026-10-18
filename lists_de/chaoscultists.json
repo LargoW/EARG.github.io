@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Arch-Heretic",
+        "name": "Erzhäretiker",
         "type": "CH",
         "weapons": [
           "Dämon Waffe"
@@ -15,20 +15,20 @@
         ]
       },
       {
-        "name": "Icon Bearer",
+        "name": "Ikonenträger",
         "type": "CH",
         "weapons": [
           "n/a"
         ],
         "specialRules": [
-          "Daemonic Focus",
-          "Augment Summoning (+1)",
+          "Dämonischer Fokus",
+          "Verstärkte Beschwörung (+1)",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Demagogue",
+        "name": "Demagoge",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -40,20 +40,20 @@
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+2D3)"
+          "Verstärkte Beschwörung (+2D3)"
         ]
       },
       {
-        "name": "Daemonic Icon",
+        "name": "Dämonische Ikone",
         "type": "CH",
         "weapons": [],
         "specialRules": [
-          "Daemonic Pact",
-          "Augment Summoning (+1)"
+          "Dämonenpakt",
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Aspiring Champion",
+        "name": "Aufstrebender Champion",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -70,7 +70,7 @@
         ]
       },
       {
-        "name": "Fallen Befehlshaber",
+        "name": "Gefallener Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -100,9 +100,9 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
-          "Jump Pack",
+          "Sprungmodule",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -119,7 +119,7 @@
         ]
       },
       {
-        "name": "Mutants",
+        "name": "Mutanten",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -133,7 +133,7 @@
         ]
       },
       {
-        "name": "Cultist Cavalry",
+        "name": "Kultistenkavallerie",
         "type": "INF",
         "speed": 30,
         "armour": 5,
@@ -149,7 +149,7 @@
         ]
       },
       {
-        "name": "Big Mutants",
+        "name": "Große Mutanten",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -164,7 +164,7 @@
         "notes": "Zählt beim Transport als zwei INF-Einheiten."
       },
       {
-        "name": "Chaos Spawn",
+        "name": "Chaosbrut",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -179,7 +179,7 @@
         "notes": "Zählt beim Transport als 2 INF-Einheiten."
       },
       {
-        "name": "Winged Chaos Spawn",
+        "name": "Geflügelte Chaosbrut",
         "type": "INF",
         "speed": 25,
         "armour": 4,
@@ -195,7 +195,7 @@
         ]
       },
       {
-        "name": "Chaos Hounds",
+        "name": "Chaos-Hunde",
         "type": "INF",
         "speed": 30,
         "armour": 6,
@@ -209,7 +209,7 @@
         "notes": "Kann nicht transportiert werden."
       },
       {
-        "name": "Land Transporter",
+        "name": "Landtransporter",
         "type": "LV",
         "speed": 30,
         "armour": 5,
@@ -224,7 +224,7 @@
         "notes": "Kann zwei Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren."
       },
       {
-        "name": "Technical",
+        "name": "Bewaffneter Geländewagen",
         "type": "LV",
         "speed": 30,
         "armour": 5,
@@ -237,7 +237,7 @@
         ]
       },
       {
-        "name": "Chaos Altar",
+        "name": "Chaosaltar",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -252,13 +252,13 @@
           "Unmodifizierter Rettungswurf",
           "Furchtlos",
           "Inspirierend",
-          "Daemonic Focus",
-          "Augmented Summoning (+W3)"
+          "Dämonischer Fokus",
+          "Augmented Beschwörung (+W3)"
         ],
-        "crit": "Chaos Altar wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen MW-Treffer."
+        "crit": "Der Chaosaltar wird zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 6+ einen MW-Treffer."
       },
       {
-        "name": "Warp Altar",
+        "name": "Warpaltar",
         "type": "WE",
         "speed": 10,
         "armour": 4,
@@ -273,14 +273,14 @@
             "Unmodifizierter Rettungswurf",
             "Furchtlos",
             "Inspirierend",
-            "Daemonic Focus",
-            "Augmented Summoning (+W3)",
-          "Chaos Gate"
+            "Dämonischer Fokus",
+            "Augmented Beschwörung (+W3)",
+          "Chaostor"
         ],
         "crit": "Warp Altar wird zerstört. Alle Daemon-Legion-Einheiten innerhalb von 5cm werden zerstört, alle anderen Einheiten innerhalb von 5cm erleiden bei 6+ einen MW-Treffer."
       },
       {
-        "name": "Pox Walkers of Nurgle",
+        "name": "Seuchenwandler des Nurgle",
         "type": "INF",
         "speed": 10,
         "cc": 6,
@@ -289,8 +289,8 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Infiltratorens",
-          "Infestation"
+          "Infiltratoren",
+          "Befall"
         ]
       },
       {
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "name": "Tzaangor Disc Riders",
+        "name": "Tzaangor-Discreiter",
         "type": "INF",
         "speed": 30,
         "armour": 5,
@@ -324,7 +324,7 @@
         ]
       },
       {
-        "name": "Mutalith Vortex Beast",
+        "name": "Mutalith-Vortexbestie",
         "type": "LV",
         "speed": 15,
         "armour": 5,
@@ -339,7 +339,7 @@
           "Geländegängig",
           "Verstärkte Panzerung",
           "Regeneration",
-          "Augment Summoning (+2D3)"
+          "Verstärkte Beschwörung (+2D3)"
         ]
       }
     ]

@@ -27,7 +27,7 @@
           "Knochenschwerter"
         ],
         "specialRules": [
-          "Hive Mind Locus",
+          "Knoten des Schwarmbewusstseins",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
@@ -47,14 +47,14 @@
           "Knochenschwerter"
         ],
         "specialRules": [
-          "Hive Mind Locus",
+          "Knoten des Schwarmbewusstseins",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer",
-          "Jump Pack"
+          "Sprungmodule"
         ]
       },
       {
@@ -69,8 +69,8 @@
           "Große Klauen"
         ],
         "specialRules": [
-          "Assisted Swarming",
-          "Hive Mind Locus",
+          "Unterstützte Schwarmbildung",
+          "Knoten des Schwarmbewusstseins",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
@@ -91,15 +91,15 @@
           "Große Klauen"
         ],
         "specialRules": [
-          "Assisted Swarming",
-          "Hive Mind Locus",
+          "Unterstützte Schwarmbildung",
+          "Knoten des Schwarmbewusstseins",
           "Inspirierend",
           "Synapse",
           "Furchtlos",
           "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer",
-          "Jump Pack"
+          "Sprungmodule"
         ]
       },
       {
@@ -138,7 +138,7 @@
           "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer",
-          "Jump Pack"
+          "Sprungmodule"
         ]
       },
       {
@@ -213,7 +213,7 @@
           "Grabklauen"
         ],
         "specialRules": [
-          "Gaunts",
+          "Ganten",
           "Tunnelgräber"
         ]
       },
@@ -227,7 +227,7 @@
           "Fleischbohrer"
         ],
         "specialRules": [
-          "Gaunts"
+          "Ganten"
         ]
       },
       {
@@ -237,10 +237,10 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Gaunt-Biokanone"
+          "Ganten-Biokanone"
         ],
         "specialRules": [
-          "Gaunts"
+          "Ganten"
         ]
       },
       {
@@ -252,8 +252,8 @@
           "Reißende Klauen"
         ],
         "specialRules": [
-          "Gaunts",
-          "Infiltratorens"
+          "Ganten",
+          "Infiltratoren"
         ]
       },
       {
@@ -266,7 +266,7 @@
           "Schwarmangriff"
         ],
         "specialRules": [
-          "Gaunts",
+          "Ganten",
           "Sprungmodule"
         ]
       },
@@ -281,7 +281,7 @@
         ],
         "specialRules": [
           "Aufklärer",
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
@@ -323,10 +323,10 @@
         ],
         "specialRules": [
           "Erstschlag",
-          "Infiltratorens",
+          "Infiltratoren",
           "Unmodifizierter Rettungswurf",
           "Aufklärer",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -345,7 +345,7 @@
         ]
       },
       {
-        "name": "Harpyie",
+        "name": "Harpyieie",
         "type": "AV",
         "speed": 35,
         "armour": 5,
@@ -434,7 +434,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Kann bis zu vier Einheiten Barbgaunts, Termagants, Hormagaunts, Gargoyles und Raveners transportieren. Biovores, Pyrovores, Tyranid Warriors und Zoanthropes zählen jeweils als eineinhalb Einheiten, aufgerundet."
+        "notes": "Kann bis zu vier Einheiten Barbgaunts, Termaganten, Hormaganten, Gargoyles und Venatoren transportieren. Biovores, Pyrovores, Tyranidenkrieger und Zoantrophen zählen jeweils als eineinhalb Einheiten, aufgerundet."
       },
       {
         "name": "Stachel-Carnifex",
@@ -448,7 +448,7 @@
           "Reißende Klauen"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Verstärkte Panzerung"
         ]
       },
@@ -464,7 +464,7 @@
           "Große Klauen"
         ],
         "specialRules": [
-           "Infiltratorens",
+           "Infiltratoren",
           "Verstärkte Panzerung"
         ]
       },
@@ -492,16 +492,16 @@
         "weapons": [
           "Frag Stacheln",
           "Große Klauen",
-          "Gauntbeutel"
+          "Gantenbeutel"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Transport",
-          "Augmented Swarming(+1)",
+          "Augmented Schwarmbildung(+1)",
           "Synapse",
           "Furchtlos"
         ],
-        "notes": "Kann zwei Einheiten mit der Sonderregel „Gaunts“ transportieren."
+        "notes": "Kann zwei Einheiten mit der Sonderregel „Ganten“ transportieren."
       },
       {
         "name": "Tyrannofex",
@@ -719,11 +719,11 @@
         "specialRules": [
           "Schadenskapazität: 3",
           "Synapse",
-          "Assisted Swarming",
+          "Unterstützte Schwarmbildung",
           "Furchtlos",
           "Regeneration"
         ],
-        "crit": "Spawn Nest wird zerstört."
+        "crit": "Brutnest wird zerstört."
       },
       {
         "name": "Dagon-Dominatrix",
@@ -733,14 +733,14 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan-Biokanone",
+          "Biotitan-Biokanone",
           "Bioplasmastrahl",
           "Bioplasma-Salve",
           "Massive Sensenklauen"
         ],
         "specialRules": [
           "Schadenskapazität: 6",
-          "Hive Mind Locus",
+          "Knoten des Schwarmbewusstseins",
           "Synapse",
           "Furchtlos",
           "Anführer",
@@ -762,11 +762,11 @@
         "weapons": [
           "Bioenergieimpuls",
           "Massive Sensenklauen",
-          "Gauntbeutel"
+          "Gantenbeutel"
         ],
         "specialRules": [
           "Schadenskapazität: 6",
-          "Hive Mind Locus",
+          "Knoten des Schwarmbewusstseins",
           "Synapse",
           "Furchtlos",
           "Anführer",
@@ -775,10 +775,10 @@
           "Verstärkte Panzerung",
           "Regeneration",
           "Transport",
-          "Augmented Swarming(+1)",
-          "Assisted Swarming"
+          "Augmented Schwarmbildung(+1)",
+          "Unterstützte Schwarmbildung"
         ],
-        "notes": "Kann fünf Einheiten mit der Sonderregel „Gaunts“ transportieren. Darf Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, das niedriger als sein Körper und bis zu 2 cm breit ist.",
+        "notes": "Kann fünf Einheiten mit der Sonderregel „Ganten“ transportieren. Darf Einheiten sowie unpassierbares oder gefährliches Gelände überschreiten, das niedriger als sein Körper und bis zu 2 cm breit ist.",
         "crit": "Würfle einen W6: 1: Einheiten im Basekontakt werden bei 6+ von einem MW-Angriff getroffen. 2-5: Erleidet 1 zusätzlichen Schaden. 6: Erleidet W3 zusätzlichen Schaden."
       },
       {
@@ -789,7 +789,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan-Biokanone",
+          "Biotitan-Biokanone",
           "Hagel aus Stachelspeeren",
           "Massive Sensenklauen"
         ],
@@ -810,7 +810,7 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Bio-Titan-Biokanone",
+          "Biotitan-Biokanone",
           "Bioplasma-Salve",
           "Hagel aus Stachelspeeren",
           "Ripper-Tentakel",

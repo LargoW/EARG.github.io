@@ -1,17 +1,17 @@
 {
   "fraction": "Ork",
-  "army": "Evil Sunz Speed Freeks, WAAAGH! Gazbag",
+  "army": "Speedfreaks der Evil Sunz, WAAAGH! Gazbag",
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Ork_EvilSunzSpeedFreeks",
-  "intro": "Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Kults of Speed und Blitz Brigades. Die verfügbaren Ork-Verbände sind in der folgenden Armeeliste aufgeführt.</p><p>Einige Ork-Verbände gibt es in verschiedenen Größen: Normal, Big und 'Uge. Ein Big-Verband ist doppelt so groß, ein 'Uge-Verband dreimal so groß. Begrenzungen für Aufwertungen werden bei einem Big-Verband verdoppelt und bei einem 'Uge-Verband verdreifacht. So kann eine normale Kult of Speed beispielsweise 0–1 Oddboy enthalten, eine Big-Kult of Speed 0–2 und eine 'Uge-Kult of Speed 0–3.",
-  "strategy": "Speed Freek-Armeen haben einen Strategiewert von 3.",
+  "intro": "Im Gegensatz zu den sehr starren Verbänden des Imperiums unterscheiden sich Ork-Verbände stark in Größe und Zusammensetzung. Die Regeln zur Zusammenstellung von Ork-Verbänden spiegeln dies wider. Die häufigste Art eines Ork-Verbands ist die Kriegsbande. Daneben gibt es weitere, spezialisierte Verbände wie Kulte der Geschwindigkeit und Blitzbrigaden. Die verfügbaren Ork-Verbände sind im folgenden Armeeorganisationsplan aufgeführt.</p><p>Einige Ork-Verbände können in drei Größen aufgestellt werden: normal, groß oder riesig. Ein Großverband umfasst doppelt so viele Einheiten wie ein normaler Verband, ein Riesenverband dreimal so viele. Begrenzungen für Aufwertungen werden bei Großverbänden verdoppelt und bei Riesenverbänden verdreifacht. Ein normaler Kult der Geschwindigkeit kann beispielsweise 0–1 Oddboy enthalten, ein großer 0–2 und ein riesiger 0–3.",
+  "strategy": "Speedfreak-Armeen haben einen Strategiewert von 3.",
   "Initiative": "Alle Verbände haben einen Initiativwert von 3+.",
   "specialRules": [
-    "Mob Rule",
-    "Power of the Waaagh!",
-    "Speed Freeks",
-    "Speed Freeks Warlord"
+    "Köppe zählen",
+    "Macht des Waaagh!",
+    "Speedfreaks",
+    "Waaaghboss der Speedfreaks"
   ],
   "units": [
     {
@@ -42,27 +42,27 @@
         "Schlachtkreuzer"
       ],
       "unitRules": [
-        "Power Fields",
-        "Battlefortresses and Gunfortresses",
+        "Energiefelder",
+        "Schlachtfestungen und Geschützfestungen",
         "Super-Entbehrlich",
-        "‘Ere we Go"
+        "Los geht's"
       ]
     }
   ],
   "sections": [
     {
-      "name": "Ork Verbände",
+      "name": "Ork-Verbände",
       "formations": [
         {
-          "name": "Evil Sunz Blitz Brigade",
-          "units": "Beliebige vier der folgenden Einheiten: Deffkopta, Flakwagon, Gunwagon",
-          "extraUnits": [
-            "Füge beliebig viele Flakwagons, Gunwagons oder Deffkoptas hinzu: 30 Punkte pro Stück",
-            "Füge 1 Boyz-Einheit zu einem beliebigen Gunwagon oder Flakwagon im Verband hinzu: 15 Punkte pro Stück",
-            "Ersetze beliebig viele Gunwagons durch Spleenrippas: 20 Punkte pro Stück",
-            "Ersetze 1 Gunwagon durch ein Mekboy Speedsta: 30 Punkte",
-            "Füge 1 Battlefortress oder Gunfortress Einheit hinzu: 100 Punkte",
-            "Füge beliebig vielen Battlefortress- oder Gunfortress-Einheiten einen Speed Freek Oddboy Charakter hinzu (max. 1 Oddboy pro Fortress): 50 Punkte pro Stück"
+          "name": "Blitz-Brigade der Evil Sunz",
+          "units": "Beliebige vier der folgenden Einheiten: Deffkopta, Flakpanza, Kampfpanza",
+          "extraEinheits": [
+            "Füge beliebig viele Flakpanzas, Kampfpanzas oder Deffkoptas hinzu: 30 Punkte pro Stück",
+            "Füge 1 Boys-Einheit zu einem beliebigen Kampfpanza oder Flakpanza im Verband hinzu: 15 Punkte pro Stück",
+            "Ersetze beliebig viele Kampfpanzas durch Spleenrippas: 20 Punkte pro Stück",
+            "Ersetze 1 Kampfpanza durch ein Mek-Speedsta: 30 Punkte",
+            "Füge 1 Mega Transportpanza oder Mega Wummenpanza Einheit hinzu: 100 Punkte",
+            "Füge beliebig vielen Mega Transportpanza- oder Mega Wummenpanza-Einheiten einen Oddboy-Charakter der Speedfreaks hinzu (max. 1 Oddboy pro Festung): 50 Punkte pro Stück"
           ],
           "pointsOptions": [
             {
@@ -70,35 +70,35 @@
               "points": "150"
             },
             {
-              "name": "Big",
+              "name": "Groß",
               "points": "250"
             },
             {
-              "name": "'Uge",
+              "name": "Riesig",
               "points": "350"
             }
           ]
         },
         {
-          "name": "Evil Sunz Fortress Mob",
-          "units": "Zwei Battlefortress oder Gunfortress-Einheiten",
-          "extraUnits": [
-            "Füge beliebig viele Boyz hinzu: 15 Punkte pro Stück",
-            "Füge beliebig viele Flakwagons oder Gunwagons hinzu: 30 Punkte pro Stück",
-            "Füge bis zu 2 Nobz hinzu: 35 Punkte pro Stück",
-            "Füge beliebig vielen Battlefortress- oder Gunfortress-Einheiten einen Speed Freek Oddboy Charakter hinzu (max. 1 Oddboy pro Fortress): 50 Punkte pro Stück",
-            "Füge bis zu 2 Battlefortress oder Gunfortress-Einheiten hinzu: 100 Punkte"
+          "name": "Festungsrotte der Evil Sunz",
+          "units": "Zwei Mega Transportpanza oder Mega Wummenpanza-Einheiten",
+          "extraEinheits": [
+            "Füge beliebig viele Boys hinzu: 15 Punkte pro Stück",
+            "Füge beliebig viele Flakpanzas oder Kampfpanzas hinzu: 30 Punkte pro Stück",
+            "Füge bis zu 2 Bosse hinzu: 35 Punkte pro Stück",
+            "Füge beliebig vielen Mega Transportpanza- oder Mega Wummenpanza-Einheiten einen Oddboy-Charakter der Speedfreaks hinzu (max. 1 Oddboy pro Festung): 50 Punkte pro Stück",
+            "Füge bis zu 2 Mega Transportpanza oder Mega Wummenpanza-Einheiten hinzu: 100 Punkte"
           ],
           "points": 250
         },
         {
-          "name": "Evil Sunz Kult of Speed",
-          "units": "Acht der folgenden Einheiten: Skorchas, Warbikes, Warbuggies",
-          "extraUnits": [
-            "Füge beliebig viele Skorchas, Warbikes, Warbuggies hinzu: 25 Punkte pro Stück",
-            "Füge beliebig viele Flakwagons, Gunwagons hinzu: 30 Punkte pro Stück",
+          "name": "Heizakult der Evil Sunz",
+          "units": "Acht der folgenden Einheiten: Skorchas, Waaghbikes, Warbuggies",
+          "extraEinheits": [
+            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
+            "Füge beliebig viele Flakpanzas, Kampfpanzas hinzu: 30 Punkte pro Stück",
             "Füge beliebig viele Deffkoptas hinzu: 35 Punkte pro Stück",
-            "Füge bis zu 2 Nob Warbikes (35 Punkte pro Stück) oder Mekboy Speedstas (50 Punkte pro Stück) hinzu"
+            "Füge bis zu 2 Boss-Waaghbikes (35 Punkte pro Stück) oder Mek-Speedstas (50 Punkte pro Stück) hinzu"
           ],
           "pointsOptions": [
             {
@@ -106,24 +106,24 @@
               "points": "200"
             },
             {
-              "name": "Big",
+              "name": "Groß",
               "points": "350"
             },
             {
-              "name": "'Uge",
+              "name": "Riesig",
               "points": "500"
             }
           ]
         },
         {
-          "name": "Evil Sunz Warband",
-          "units": "Ein Nobz, drei Boyz, vier Speed Freek Trukks, plus vier Warbikes, Skorchas und/oder Warbuggies",
-          "extraUnits": [
-            "Ersetze 1 Einheit von Nobz und 1 Speed Freek Trukk durch 1 Nob Warbikes Einheit: kostenlos",
-            "Füge beliebig viele Boyz und Speed Freek Trukk hinzu: 25 Punkte pro Stück",
-            "Füge beliebig viele Skorchas, Warbikes, Warbuggies hinzu: 25 Punkte pro Stück",
-            "Füge beliebig viele Flakwagons hinzu: 30 Punkte pro Stück",
-            "Füge 1 Nob Warbikes (35 Punkte) oder Mekboy Speedsta (50 Punkte) hinzu"
+          "name": "Rotte der Evil Sunz",
+          "units": "Ein Bosse, drei Boys, vier Speedfreak Pikk-Ups, plus vier Waaghbikes, Skorchas und/oder Warbuggies",
+          "extraEinheits": [
+            "Ersetze 1 Einheit von Bosse und 1 Speedfreak Pikk-Up durch 1 Boss-Waaghbikes Einheit: kostenlos",
+            "Füge beliebig viele Boys und Speedfreak Pikk-Up hinzu: 25 Punkte pro Stück",
+            "Füge beliebig viele Skorchas, Waaghbikes, Warbuggies hinzu: 25 Punkte pro Stück",
+            "Füge beliebig viele Flakpanzas hinzu: 30 Punkte pro Stück",
+            "Füge 1 Boss-Waaghbikes (35 Punkte) oder Mek-Speedsta (50 Punkte) hinzu"
           ],
           "pointsOptions": [
             {
@@ -131,30 +131,30 @@
               "points": "200"
             },
             {
-              "name": "Big",
+              "name": "Groß",
               "points": "350"
             },
             {
-              "name": "'Uge",
+              "name": "Riesig",
               "points": "500"
             }
           ]
         },
         {
-          "name": "Evil Sunz Warbike Outriders",
-          "units": "Sechs Warbike Outriders",
-          "extraUnits": [
+          "name": "Waaghbike-Ausreiter der Evil Sunz",
+          "units": "Sechs Waaghbike Outriders",
+          "extraEinheits": [
           ],
           "points": 175
         }
       ]
     },
     {
-      "name": "Speed Freek 'Craft formations",
+      "name": "Konstruktionen des Heizakults",
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
-          "name": "Fighta Skwadron",
+          "name": "Jagdbomma-Staffel",
           "units": "Vier Dakkajets",
           "upgrades": [
             "Füge bis zu 4 Dakkajets hinzu: 35 Punkte pro Stück"
@@ -162,8 +162,8 @@
           "points": 200
         },
         {
-          "name": "Blitza Skwadron",
-          "units": "Drei Blitza-Bommers",
+          "name": "Blitza-Staffel",
+          "units": "Drei Blitza-Bommas",
           "upgrades": [
           ],
           "points": 200
@@ -177,9 +177,9 @@
         },
         {
           "name": "0–1 Kroozer",
-          "units": "Ein Kill Kroozer",
-          "extraUnits": [
-            "Ersetze den Kill Kroozer durch ein Battlekroozer: 50 Punkte"
+          "units": "Ein Kill-Kreuzer",
+          "extraEinheits": [
+            "Ersetze den Kill-Kreuzer durch einen Schlachtkreuzer: 50 Punkte"
           ],
           "points": 100
         }

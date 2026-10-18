@@ -21,8 +21,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Daemonic Focus",
-          "Augment Summoning (+1)",
+          "Dämonischer Fokus",
+          "Verstärkte Beschwörung (+1)",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -40,7 +40,7 @@
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+2D3)"
+          "Verstärkte Beschwörung (+2D3)"
         ]
       },
       {
@@ -50,7 +50,7 @@
         ],
         "specialRules": [
           "Daemonic Pact",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
@@ -103,7 +103,7 @@
           "Verstärkte Panzerung",
           "Jump Pack",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -253,7 +253,7 @@
           "Unmodifizierter Rettungswurf",
           "Furchtlos",
           "Inspirierend",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Augmented Summoning (+W3)"
         ],
         "crit": "The Chaos Altar is destroyed. All units within 5cm suffers a MW hit on 6+."
@@ -274,7 +274,7 @@
             "Unmodifizierter Rettungswurf",
             "Furchtlos",
             "Inspirierend",
-            "Daemonic Focus",
+            "Dämonischer Fokus",
             "Augmented Summoning (+W3)",
           "Chaos Gate"
         ],
@@ -340,7 +340,7 @@
           "Geländegängig",
           "Verstärkte Panzerung",
           "Regeneration",
-          "Augment Summoning (+2D3)"
+          "Verstärkte Beschwörung (+2D3)"
         ]
       }
     ]

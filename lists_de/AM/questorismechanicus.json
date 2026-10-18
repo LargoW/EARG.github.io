@@ -5,45 +5,45 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_QuestorisMechanicus",
   "strategy": "Questoris Mechanicus-Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Alle Verbände haben einen Initiativwert von 2+. Außerdem unterliegen alle Knight-Banner-Verbände der Sonderregel „Ritterlichkeit“. ",
+  "Initiative": "Alle Verbände haben einen Initiativwert von 2+. Außerdem unterliegen alle Ritterbanner-Verbände der Sonderregel „Ritterlichkeit“.",
   "specialRules": [
     "Ritterlichkeit"
   ],
   "usage": [
-    "Diese Armeeliste ermöglicht es dir, eine Armee des Questoris Mechanicus des Adeptus Mechanicus aufzustellen."
+    "Dieser Armeeorganisationsplan ermöglicht es dir, eine Armee des Questoris Mechanicus des Adeptus Mechanicus aufzustellen."
   ],
   "units": [
     {
       "from": "QK.json",
       "units": [
-        "Lord Seneschal",
-        "Seneschal",
-        "Zwillings Icarus Autocannon",
-        "Dominus Knight-Castellan",
-        "Dominus Knight-Valiant",
-        "Questoris Knight-Paladin",
-        "Questoris Knight-Errant",
-        "Questoris Knight-Crusader",
-        "Questoris Knight-Gallant",
-        "Questoris Knight-Warden",
-        "Questoris Knight-Preceptor",
-        "Questoris Relic Knight-Styrix",
-        "Questoris Relic Knight-Magaera",
-        "Cerastus Knight-Lancer",
-        "Cerastus Knight-Acheron",
-        "Cerastus Knight-Castigator",
-        "Cerastus Relic Knight-Atrapos",
-        "Armiger Knight-Warglaive",
-        "Armiger Knight-Helverin",
-        "Armiger Relic Knight-Moirax",
-        "Acastus Relic Knight-Porphyrion",
-        "Acastus Relic Knight-Asterius"
+        "Seneschallord",
+        "Seneschall",
+        "Zwillings-Icarus-Autokanone",
+        "Dominus-Ritter-Castellan",
+        "Dominus-Ritter-Valiant",
+        "Questoris-Ritter-Paladin",
+        "Questoris-Ritter-Errant",
+        "Questoris-Ritter-Crusader",
+        "Questoris-Ritter-Gallant",
+        "Questoris-Ritter-Warden",
+        "Questoris-Ritter-Preceptor",
+        "Questoris-Reliktritter-Styrix",
+        "Questoris-Reliktritter-Magaera",
+        "Cerastus-Ritter-Lancer",
+        "Cerastus-Ritter-Acheron",
+        "Cerastus-Ritter-Castigator",
+        "Cerastus-Reliktritter-Atrapos",
+        "Armiger-Ritter-Warglaive",
+        "Armiger-Ritter-Helverin",
+        "Armiger-Reliktritter-Moirax",
+        "Acastus-Reliktritter-Porphyrion",
+        "Acastus-Reliktritter-Asterius"
       ],
       "unitRules": [
         "Starrköpfig",
-        "Ionen Schild (x)",
-        "Ionic Flare Shield",
-        "Heavy Armoured Vehicle (H-AV)",
+        "Ionenschild (x)",
+        "Ionen-Flammenschild",
+        "Schweres gepanzertes Fahrzeug (H-AV)",
         "Schildbohrer",
         "Schildbrecher",
         "Sturmangriff",
@@ -69,25 +69,25 @@
   "sections": [
     {
       "name": "Kernbanner",
-      "description": "Pro Questoris Banner darf bis zu ein Dominus Banner aufgestellt werden.",
+      "description": "Pro Questoris-Banner darf bis zu ein Dominus-Banner aufgestellt werden.",
       "formations": [
         {
           "name": "Questoris",
-          "units": "Zwei Questoris Knight-Paladins, Crusaders, Errants, Wardens oder Gallants. Konfigurationen dürfen nicht gemischt werden",
-          "extraUnits": [
-            "Füge 1 Questoris Knight derselben Konfiguration hinzu: 125 Punkte",
-            "Füge jedem Questoris Knight in einem Verband mit Knight-Paladins, Crusaders oder Errants 1 Zwillings Icarus Autocannon hinzu: 25 Punkte",
-            "Seneschal",
-            "Lord Seneschal"
+          "units": "Zwei Questoris-Ritter in einer dieser Konfigurationen: Paladin, Crusader, Errant, Warden oder Gallant. Konfigurationen dürfen nicht gemischt werden.",
+          "extraEinheits": [
+            "Füge einen Questoris-Ritter derselben Konfiguration hinzu: 125 Punkte",
+            "Füge jedem Questoris-Ritter in einem Verband mit Paladin-, Crusader- oder Errant-Konfiguration eine Zwillings-Icarus Maschinenkanone hinzu: 25 Punkte",
+            "Seneschall",
+            "Seneschallord"
           ],
           "points": 325
         },
         {
           "name": "Dominus",
-          "units": "Ein Dominus Knight",
-          "extraUnits": [
-            "Seneschal",
-            "Lord Seneschal"
+          "units": "Ein Dominus-Ritter",
+          "extraEinheits": [
+            "Seneschall",
+            "Seneschallord"
           ],
           "points": 250
         }
@@ -99,57 +99,57 @@
       "formations": [
         {
           "name": "Cerastus",
-          "units": "Ein Cerastus Knight",
-          "extraUnits": [
-            "Füge 1 Cerastus Knight derselben Konfiguration hinzu: 175 Punkte",
-            "Seneschal"
+          "units": "Ein Cerastus-Ritter",
+          "extraEinheits": [
+            "Füge einen Cerastus-Ritter derselben Konfiguration hinzu: 175 Punkte",
+            "Seneschall"
           ],
           "points": 225
         },
         {
           "name": "Armiger",
-          "units": "Vier Knight-Warglaives oder drei Knight-Helverins",
-          "extraUnits": [
-            "Füge 1 Armiger Knight derselben Konfiguration hinzu: 50 Punkte",
-            "Füge 1 Knight-Preceptor mit einem Seneschal hinzu: 175 Punkte"
+          "units": "Vier Armiger-Ritter-Warglaives oder drei Armiger-Ritter-Helverins",
+          "extraEinheits": [
+            "Füge einen Armiger-Ritter derselben Konfiguration hinzu: 50 Punkte",
+            "Füge einen Questoris-Ritter-Preceptor mit einem Seneschall hinzu: 175 Punkte"
           ],
           "points": 200
         }
       ]
     },
     {
-      "name": "Relic Banner",
-      "description": "Pro angefangene 1.500 Punkte der Armee darf ein Relic Banner aufgestellt werden.",
+      "name": "Reliktbanner",
+      "description": "Pro angefangene 1.500 Punkte der Armee darf ein Reliktbanner aufgestellt werden.",
       "formations": [
         {
-          "name": "Armiger Reliquae",
-          "units": "Drei Armiger Relic Knight-Moirax derselben Konfiguration",
-          "extraUnits": [
+          "name": "Armiger-Reliktbanner",
+          "units": "Drei Armiger-Reliktritter-Moirax derselben Konfiguration",
+          "extraEinheits": [
           ],
           "points": 175
         },
         {
-          "name": "Questoris Reliquae",
-          "units": "Ein Questoris Relic Knight-Styrix oder Knight-Magaera",
-          "extraUnits": [
-            "Füge 1 Questoris Relic Knight derselben Konfiguration hinzu: 175 Punkte",
-            "Seneschal"
+          "name": "Questoris-Reliktbanner",
+          "units": "Ein Questoris-Reliktritter-Styrix oder ein Questoris-Reliktritter-Magaera",
+          "extraEinheits": [
+            "Füge einen Questoris-Reliktritter derselben Konfiguration hinzu: 175 Punkte",
+            "Seneschall"
           ],
           "points": 200
         },
         {
-          "name": "Cerastus Reliquae",
-          "units": "Ein Seneschal, ein Cerastus Relic Knight-Atrapos",
-          "extraUnits": [
+          "name": "Cerastus-Reliktbanner",
+          "units": "Ein Seneschall, ein Cerastus-Reliktritter-Atrapos",
+          "extraEinheits": [
           ],
           "points": 300
         },
         {
-          "name": "Acastus Reliquae",
-          "units": "Ein Acastus Relic Knight-Porphyrion oder Knight-Asterius",
-          "extraUnits": [
-            "Füge 1 Acastus Relic Knight derselben Konfiguration hinzu: 225 Punkte",
-            "Seneschal"
+          "name": "Acastus-Reliktbanner",
+          "units": "Ein Acastus-Reliktritter-Porphyrion oder ein Acastus-Reliktritter-Asterius",
+          "extraEinheits": [
+            "Füge einen Acastus-Reliktritter derselben Konfiguration hinzu: 225 Punkte",
+            "Seneschall"
           ],
           "points": 300
         }
@@ -157,37 +157,37 @@
     },
     {
       "name": "Mechanicus Verbündete",
-      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für Verbündete der Forge World ausgegeben werden.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte darf für Verbündete der Schmiedewelten ausgegeben werden.",
       "formations": [
         {
-          "name": "Skitarii Maniple",
-          "units": "Magos, neun Hypaspists, ein Gorgon",
-          "extraUnits": [
-            "Ersetze den Gorgon durch 5 Skorpius Duneriders: kostenlos"
+          "name": "Skitarii-Manipel",
+          "units": "Ein Magos, neun Hypaspisten und ein Gorgon",
+          "extraEinheits": [
+            "Ersetze den Gorgon kostenlos durch fünf Skorpius-Dünenreiter"
           ],
           "points": 325
         },
         {
-          "name": "Onager Maniple",
-          "units": "Ein Onager Dunecrawler mit Icarus Array, drei Onager Dunecrawlers mit another single configuration",
+          "name": "Onager-Manipel",
+          "units": "Ein Onager-Dünenkrabbler mit Icarus-Array und drei Onager-Dünenkrabbler mit jeweils derselben weiteren Konfiguration",
           "points": 225
         },
         {
-          "name": "Skorpius Maniple",
-          "units": "Vier Skorpius Disintegrators",
-          "extraUnits": [
-            "Füge bis zu 2 Skorpius Disintegrators hinzu: 50 Punkte pro Stück"
+          "name": "Skorpius-Manipel",
+          "units": "Vier Skorpius-Desintegratoren",
+          "extraEinheits": [
+            "Füge bis zu zwei Skorpius-Desintegratoren hinzu: 50 Punkte pro Stück"
           ],
           "points": 225
         },
         {
-          "name": "Avenger Squadron",
-          "units": "Zwei Avenger Strike Fighters",
+          "name": "Avenger-Staffel",
+          "units": "Zwei Avenger-Jagdbombers",
           "points": 175
         },
         {
-          "name": "0–1 Mechanicus Battleship",
-          "units": "Ein Ark Mechanicus Battleship",
+          "name": "0–1 Mechanicus-Schlachtschiff",
+          "units": "Ein Ark-Mechanicus-Schlachtschiff",
           "points": 225
         }
       ]
@@ -198,13 +198,13 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "Seneschal",
-        "description": "Füge 1 Seneschal zum Verband hinzu",
+        "name": "Seneschall",
+        "description": "Füge 1 Seneschall zum Verband hinzu",
         "points": "25 Punkte"
       },
       {
-        "name": "Lord Seneschal (0–1 pro Armee)",
-        "description": "Ersetze den Seneschal durch einen Lord Seneschal",
+        "name": "Seneschallord (0–1 pro Armee)",
+        "description": "Ersetze den Seneschall durch einen Seneschallord",
         "points": "50 Punkte"
       }
     ]

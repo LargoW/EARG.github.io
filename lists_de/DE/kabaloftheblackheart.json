@@ -1,20 +1,20 @@
 {
   "fraction": "Drukhari",
-  "army": "Kabal of the Black Heart",
+  "army": "Kabal des Schwarzen Herzens",
   "version": "1.0.Beta-2",
   "release": "2023-01-28",
   "armyforge": "EAR_DarkEldar_KabaloftheBlackHeart",
   "strategy": "Armeen des Kabals des Schwarzen Herzens haben einen Strategiewert von 4.",
-  "Initiative": "Alle Black Heart-Kabal-Formationen sowie Wych-Cult- und Executioner-Formationen haben einen Initiativewert von 1+. Alle anderen Formationen haben einen Initiativewert von 2+.",
+  "Initiative": "Alle Verbände des Kabals des Schwarzen Herzens sowie Hagashîn-Kult- und Henker-Verbände haben einen Initiativewert von 1+. Alle anderen Verbände haben einen Initiativewert von 2+.",
   "specialRules": [
-    "Fleet of Foot",
-    "Hit and Run",
-    "Black Heart Coterie",
-    "May not Garrison (Black Heart)",
-    "Webway Portal"
+    "Flink zu Fuß",
+    "Schlag und Flucht",
+    "Kabal des Schwarzen Herzens",
+    "Darf keine Garnison bilden (Schwarzes Herz)",
+    "Netzportal"
   ],
   "usage": [
-    "Mit der folgenden Armeeliste kannst du eine Armee des Kabals des Schwarzen Herzens aufstellen."
+    "Mit dem folgenden Armeeorganisationsplan kannst du eine Armee des Kabals des Schwarzen Herzens aufstellen."
   ],
   "units": [
     {
@@ -45,18 +45,18 @@
       ],
       "unitRules": [
       "Lanze",
-      "Shadowfields",
+      "Schattenfelder",
       "Hilfstransportschiff",
-      "Wind-Swift"
+      "Windflink"
       ]
     },
     {
       "from": "darkEldarNavy.json",
       "units": [
-        "Razorwing Interceptor",
-        "Voidraven Interdictor",
-        "Slavebringer Assault Boat",
-        "Torture Class Cruiser"
+        "Razorwing-Abfangjäger",
+        "Voidraven-Abfangjäger",
+        "Sklavenbringer-Angriffsboot",
+        "Kreuzer der Torture-Klasse"
       ],
       "unitRules": [
         "Schildbrecher"
@@ -68,118 +68,118 @@
       "name": "Drukhari-Spezialeinheiten",
       "formations": [
         {
-          "name": "0–1 Wraithgate",
-          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Drukhari-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden.",
+          "name": "0–1 Netzportal",
+          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Drukhari-Spielers durch ein Netzportal. Dieses zählt als Zielmarker und kann weder angegriffen noch auf irgendeine Weise beschädigt werden.",
           "points": 50
         }
       ]
     },
     {
-      "name": "Black-Heart-Kabal-Formationen",
-      "description": "Die Armee muss eine Black Heart Coterie enthalten.",
+      "name": "Verbände des Kabals des Schwarzen Herzens",
+      "description": "Die Armee muss einen Kabal des Schwarzen Herzens enthalten.",
       "formations": [
         {
-          "name": "1 Black Heart Coterie",
-          "units": "Ein Arcon in einer Einheit Incubi, drei Incubi",
-          "extraUnits": [
-            "Füge zwei Incubi hinzu: 75 Punkte",
-            "Ravagers",
-            "Portable Webway",
-            "Black Heart Transport",
-            "Warriors"
+          "name": "1 Kabal des Schwarzen Herzens",
+          "units": "Ein Archon in einer Einheit Inkubi und drei Inkubi",
+          "extraEinheits": [
+            "Füge zwei Inkubi hinzu: 75 Punkte",
+            "Schattenjäger",
+            "Tragbares Netzportal",
+            "Transporter des Schwarzen Herzens",
+            "Krieger"
           ],
           "points": 225
         },
         {
-          "name": "Black Heart Syndicate",
-          "units": "Ein Dracon, sechs Dark Eldar Warriors",
-          "extraUnits": [
-            "Ravagers",
-            "Portable Webway",
-            "Black Heart Transport",
-            "Warriors"
+          "name": "Syndikat des Schwarzen Herzens",
+          "units": "Ein Dracon, sechs Drukhari Krieger",
+          "extraEinheits": [
+            "Schattenjäger",
+            "Tragbares Netzportal",
+            "Transporter des Schwarzen Herzens",
+            "Krieger"
           ],
           "points": 250
         },
         {
-          "name": "Black Heart Flotilla",
-          "units": "Vier Ravagers",
-          "extraUnits": [
-            "Ravagers"
+          "name": "Flottille des Schwarzen Herzens",
+          "units": "Vier Schattenjäger",
+          "extraEinheits": [
+            "Schattenjäger"
           ],
           "points": 225
         }
       ]
     },
     {
-      "name": "Black-Heart-Partisan-Formationen",
-      "description": "Für jede Kabal-Formation dürfen bis zu zwei Partisan-Formationen gewählt werden.",
+      "name": "Black-Heart-Partisanen-Verbände",
+      "description": "Für jeden Kabal-Verband dürfen bis zu zwei Partisanen-Verbände gewählt werden.",
       "formations": [
           {
-            "name": "Mandrake Throng",
-            "units": "Vier Mandrakes",
-            "extraUnits": [
-                "Füge bis zu zwei Mandrakes hinzu: 25 Punkte pro Stück"
+            "name": "Mandrake-Rotte",
+            "units": "Vier Mandraks",
+            "extraEinheits": [
+                "Füge bis zu zwei Mandraks hinzu: 25 Punkte pro Stück"
             ],
             "points": 125
           },
           {
-            "name": "Hellion Murder",
-            "units": "Vier Hellion Skyboards",
-            "extraUnits": [
-              "Füge bis zu zwei Hellion Skyboards hinzu: 25 Punkte pro Stück",
-              "Füge bis zu zwei Warp Beasts hinzu: 25 Punkte pro Stück"
+            "name": "Hellion-Rotte",
+            "units": "Vier Hellion-Himmelsbretter",
+            "extraEinheits": [
+              "Füge bis zu zwei Hellion-Himmelsbretter hinzu: 25 Punkte pro Stück",
+              "Füge bis zu zwei Warpbestien hinzu: 25 Punkte pro Stück"
             ],
             "points": 150
           },
           {
-            "name": "Wych Cult",
-            "units": "Ein Succubus, vier Wyches",
-            "extraUnits": [
-              "Portable Webway",
-              "Black Heart Transport"
+            "name": "Hexenkult",
+            "units": "Ein Succubus, vier Hagashîn",
+            "extraEinheits": [
+              "Tragbares Netzportal",
+              "Transporter des Schwarzen Herzens"
             ],
             "points": 175
           },
         {
-          "name": "Reaver Gang",
-          "units": "Sechs Reaver Jet Bikes",
-          "extraUnits": [
-            "Füge bis zu zwei Reaver Jet Bikes hinzu: 25 Punkte pro Stück"
+          "name": "Reaver-Rotte",
+          "units": "Sechs Reaver-Jetbikes",
+          "extraEinheits": [
+            "Füge bis zu zwei Reaver-Jetbikes hinzu: 25 Punkte pro Stück"
           ],
           "points": 200
         },
 
         {
-          "name": "Haemonculi Coven",
-          "units": "Haemonculus Ancient, zwei Haemonculi und vier Wracks",
-          "extraUnits": [
-            "Füge bis zu zwei Grotesques hinzu: 25 Punkte pro Stück",
-            "Portable Webway",
+          "name": "Haemonculus-Kult",
+          "units": "Haemonculus Ancient, zwei Haemonculi und vier Folterer",
+          "extraEinheits": [
+            "Füge bis zu zwei Grotesquen hinzu: 25 Punkte pro Stück",
+            "Tragbares Netzportal",
             "Talos",
-            "Black Heart Transport"
+            "Transporter des Schwarzen Herzens"
           ],
           "points": 225
         },
         {
-          "name": "Talos Swarm",
+          "name": "Talos-Schwarm",
           "units": "Vier Talos",
-          "extraUnits": [
+          "extraEinheits": [
             "Talos"
           ],
           "points": 225
         },
         {
-          "name": "Scourge Flight",
-          "units": "Sechs Scourges",
-          "extraUnits": [
+          "name": "Harpyien-Rotte",
+          "units": "Sechs Harpyien",
+          "extraEinheits": [
           ],
           "points": 250
         },
         {
-          "name": "Vessel of Pain",
-          "units": "Ein Vessel of Pain",
-          "extraUnits": [
+          "name": "Schmerzschiff",
+          "units": "Ein Schmerzschiff",
+          "extraEinheits": [
           ],
           "points": 250
         }
@@ -187,40 +187,40 @@
     },
     {
       "name": "Commorragh-Flotte und Kriegsmaschinen",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Commorragh-Navy- und Kriegsmaschinen-Formationen ausgegeben werden.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Commorragh-Flotte- und Kriegsmaschinen-Verbände ausgegeben werden.",
       "formations": [
         {
-          "name": "Executioner",
-          "units": "Ein Executioner Landing Module",
-          "extraUnits": [
+          "name": "Henker-Landungsmodul",
+          "units": "Ein Henker-Landungsmodul",
+          "extraEinheits": [
           ],
           "points": 450
         },
         {
-          "name": "Razorwing Cast",
-          "units": "Zwei Razorwing Interceptors",
-          "extraUnits": [
+          "name": "Razorwing-Staffel",
+          "units": "Zwei Razorwing-Abfangjäger",
+          "extraEinheits": [
           ],
           "points": 225
         },
         {
-          "name": "Voidraven Cast",
-          "units": "Zwei Voidraven Interdictors",
-          "extraUnits": [
+          "name": "Voidraven-Staffel",
+          "units": "Zwei Voidraven-Abfangjäger",
+          "extraEinheits": [
           ],
           "points": 250
         },
         {
           "name": "Slavebringer",
-          "units": "Ein Slavebringer Assault Boat",
-          "extraUnits": [
+          "units": "Ein Sklavenbringer-Angriffsboot",
+          "extraEinheits": [
           ],
           "points": 200
         },
         {
           "name": "0–1 Orbitale Unterstützung",
-          "units": "Ein Torture Class Cruiser",
-          "extraUnits": [
+          "units": "Ein Kreuzer der Torture-Klasse",
+          "extraEinheits": [
           ],
           "points": 250
         }
@@ -228,12 +228,12 @@
     }
   ],
   "upgrades": {
-    "title": "Black Heart Upgrades",
+    "title": "Aufwertungen des Schwarzen Herzens",
     "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "Ravagers",
-        "description": "Füge bis zu zwei Ravagers hinzu",
+        "name": "Schattenjäger",
+        "description": "Füge bis zu zwei Schattenjäger hinzu",
         "points": "50 Punkte pro Stück"
       },
       {
@@ -245,22 +245,22 @@
         ]
       },
       {
-        "name": "Warriors",
-        "description": "Füge zwei Dark Eldar Warriors hinzu.",
+        "name": "Krieger",
+        "description": "Füge zwei Drukhari Krieger hinzu.",
         "points": "50 Punkte"
       },
       {
-        "name": "(0–1 pro Armee) Portable Webway",
-        "description": "Füge einem Archon-, Dracon-, Succubus- oder Haemonculus-Ancient-Charakter ein Portable Webway Portal hinzu. Dieses Portable Webway darf einmal pro Spiel verwendet werden. Nachdem der Verband des Charakters (oder der ihn tragende Verband) eine Aktion abgeschlossen hat, darfst du einen kleinen Sperrfeuer-Schablonenmarker vollständig innerhalb von 15 cm zur Einheit des Charakters (oder zur ihn tragenden Einheit) und ausserhalb gegnerischer Kontrollzonen platzieren. Dieser Marker zählt als Webway Portal, das nicht angegriffen oder in irgendeiner Weise beschädigt werden kann. Entferne diesen Webway-Portal-Marker in der Endphase der Runde vor dem Sammeln.",
+        "name": "(0–1 pro Armee) Tragbares Netzportal",
+        "description": "Füge einem Archon, Dracon, Succubus oder ältesten Haemonculus ein tragbares Netzportal hinzu. Dieses darf einmal pro Spiel verwendet werden. Nachdem der Verband des Charakters (oder der Verband, in dem er sich befindet) eine Aktion abgeschlossen hat, darfst du einen kleinen Sperrfeuermarker vollständig innerhalb von 15 cm um die Einheit des Charakters (oder die ihn transportierende Einheit) und außerhalb gegnerischer Kontrollzonen platzieren. Der Marker zählt als Netzportal und kann weder angegriffen noch beschädigt werden. Entferne ihn in der Endphase der Runde vor dem Sammeln.",
         "points": "50 Punkte"
       },
       {
-        "name": "Black Heart Transport",
+        "name": "Transporter des Schwarzen Herzens",
         "description": "Beliebige Kombinationen von Transportoptionen dürfen gewählt werden, um einen Verband zu transportieren, solange nach Möglichkeit kein Fahrzeug einen leeren Transportplatz hat. Nicht alle Einheiten eines Verbands benötigen ein Transportfahrzeug. Gewählte Transportoptionen dürfen nur Einheiten desselben Verbands transportieren.",
         "points": [
-          "Raiders: kostenlos",
-          "Zwei Venoms: 25 Punkte",
-          "0-1 Barge of Pleasure: 125 Punkte"
+          "Schattenbarkes: kostenlos",
+          "Zwei Schattenvipers: 25 Punkte",
+          "0-1 Lustbarke: 125 Punkte"
         ]
       }
     ]

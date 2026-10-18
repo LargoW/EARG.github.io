@@ -1,18 +1,18 @@
 {
   "fraction": "Tyranid",
-  "army": "Hive Fleet Dagon",
+  "army": "Schwarmflotte Dagon",
   "version": "1.0.beta-4",
   "release": "2024-05-21",
   "armyforge": "EAR_Tyranid_HiveFleetDagon",
   "strategy": "Tyraniden-Armeen haben einen Strategiewert von 1.",
-  "Initiative": "Der Nexus-Schwarm hat einen Initiativewert von 1+. Alle anderen Tyraniden-Formationen haben einen Initiativewert von 2+. Außerdem unterliegen alle Formationen der Sonderregel 'Hive Mind'.",
+  "Initiative": "Der Nexus-Schwarm hat einen Initiativewert von 1+. Alle anderen Tyraniden-Verbände haben einen Initiativewert von 2+. Außerdem unterliegen alle Verbände der Sonderregel 'Schwarmbewusstsein'.",
   "specialRules": [
     "Synapse",
-    "Hive Mind Locus",
-    "Hive Mind",
-    "Shoot the Big Ones!",
-    "Extreme Mobility",
-    "Tunnelgräbers"
+    "Knoten des Schwarmbewusstseins",
+    "Schwarmbewusstsein",
+    "Schießt auf die Großen!",
+    "Extreme Beweglichkeit",
+    "Tunnelgräber"
   ],
   "units": [
     {
@@ -41,7 +41,7 @@
         "Exocrine",
         "Haruspex",
         "Malefaktor",
-        "Harpyie",
+        "Harpyieie",
         "Schwarmdrude",
         "Trygon-Alpha",
         "Trygon",
@@ -56,17 +56,17 @@
         "Hydraphant"
       ],
       "unitRules": [
-          "Gaunts",
+          "Ganten",
           "Regeneration",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schweres gepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
       "from": "nidsNavy.json",
       "units": [
-        "Mycetic Spore",
+        "Landungsspore",
         "Razorfiend",
-        "Hive Ship"
+        "Schwarm-Schiff"
       ],
       "unitRules": [
       ]
@@ -79,32 +79,32 @@
         {
           "name": "0–1 Nexus Swarm",
           "units": "Ein Dagon Dominatrix",
-          "extraUnits": [
-            "Ein bis vier Instinctive Swarms"
+          "extraEinheits": [
+            "Ein bis vier Instinktive Schwärme"
           ],
           "points": 400
         },
         {
-          "name": "Tyrant Swarm",
-          "units": "Ein Hive Tyrant",
-          "extraUnits": [
-            "Zwei bis vier Instinctive Swarms",
-            "Ersetze den Hive Tyrant durch einen Hive Tyrant Shrike: kostenlos",
-            "0–1 Hive Tyrant in der Armee darf durch den Dagon Overlord ersetzt werden: 75 Punkte",
-            "Ersetze den Dagon Overlord durch einen Dagon Overlord Shrike: kostenlos",
-            "Transportiere die Formation in einer Mycetic Spore (alle Einheiten müssen transportiert werden können) und setze sie gemäß den Planetary-Assault-Regeln von einer Razorfiend oder einem Hive Ship aus ein: 50 Punkte"
+          "name": "Tyrannenschwarm",
+          "units": "Ein Schwarmtyrant",
+          "extraEinheits": [
+            "Zwei bis vier Instinktive Schwärme",
+            "Ersetze den Schwarmtyrant durch einen Schwarmtyrant Shrike: kostenlos",
+            "Ein Schwarmtyrant pro Armee darf durch den Dagon-Oberherrscher ersetzt werden: 75 Punkte",
+            "Ersetze den Dagon-Oberherrscher kostenlos durch einen Dagon-Oberherrscher-Shrike",
+            "Transportiere den Verband in einer Landungsspore (alle Einheiten müssen transportiert werden können) und setze ihn gemäß den Regeln für Planetare Landung von einer Razorfiend oder einem Schwarm-Schiff aus ein: 50 Punkte"
           ],
           "points": 125
         },
         {
-          "name": "Assault Swarm",
-          "units": "Zwei Tyranid Warriors",
-          "extraUnits": [
-            "Ein bis zwei Instinctive Swarms",
-            "Mindestens 1 aus Gaunts, Gargoyles oder Bio-Support muss gewählt werden",
-            "Ersetze zwei Tyranid Warriors durch Tyranid Warrior Shrikes: kostenlos",
-            "Ersetze zwei Tyranid Warriors durch Zoanthropes: 25pts",
-            "Transportiere die Formation in einer Mycetic Spore (alle Einheiten müssen transportiert werden können) und setze sie gemäß den Planetary-Assault-Regeln von einer Razorfiend oder einem Hive Ship aus ein: 50 Punkte"
+          "name": "Sturmschwarm",
+          "units": "Zwei Tyranidenkrieger",
+          "extraEinheits": [
+            "Ein bis zwei Instinktive Schwärme",
+            "Mindestens 1 aus Ganten, Gargoyles oder Bio-Unterstützung muss gewählt werden",
+            "Ersetze zwei Tyranidenkrieger kostenlos durch Tyranidenkrieger-Shrikes",
+            "Ersetze zwei Tyranidenkrieger durch Zoantrophen: 25 Punkte",
+            "Transportiere den Verband in einer Landungsspore (alle Einheiten müssen transportiert werden können) und setze ihn gemäß den Regeln für Planetare Landung von einer Razorfiend oder einem Schwarm-Schiff aus ein: 50 Punkte"
           ],
           "points": 100
         }
@@ -112,37 +112,37 @@
     },
     {
       "name": "Sekundäre Synapsenschwärme",
-      "description": "Pro Primary Synapse Swarm darf bis zu ein Secondary Synapse Swarm gewählt werden.",
+      "description": "Pro Primärsynapsenschwarm darf bis zu ein Sekundärsynapsenschwarm gewählt werden.",
       "formations": [
         {
-          "name": "Nest Swarm",
+          "name": "Brutnestschwarm",
           "units": "Ein Hive Nest",
-          "extraUnits": [
-            "Ein bis zwei Instinctive Swarms ausgewählt aus Gaunts, Gargoyles, Bio-Support, oder Bio-Artillery"
+          "extraEinheits": [
+            "Ein bis zwei Instinktive Schwärme, ausgewählt aus Ganten, Gargoyles, Bio-Unterstützung, oder Bio-Artillerie"
           ],
           "points": 150
         },
         {
-          "name": "Breacher Swarm",
+          "name": "Brecherschwarm",
           "units": "Ein Hierodule Prime (Barbed oder Scythed)",
-          "extraUnits": [
-            "Ein bis zwei Instinctive Swarms ausgewählt aus Gaunts, Gargoyles, Burrower, Carnifex oder Bio-Attack"
+          "extraEinheits": [
+            "Ein bis zwei Instinktive Schwärme, ausgewählt aus Ganten, Gargoyles, Gräber, Carnifex oder Bio-Angriff"
           ],
           "points": 125
         },
         {
-          "name": "Infestation Swarm",
+          "name": "Befall Swarm",
           "units": "Drei Ravener Alphas oder ein Trygon Prime",
-          "extraUnits": [
-            "Ein bis zwei Burrower Instinctive Swarms"
+          "extraEinheits": [
+            "Ein bis zwei Gräber-Instinktive Schwärme"
           ],
           "points": 150
         },
         {
-          "name": "Harasser Swarm",
+          "name": "Störschwarm",
           "units": "Ein Harridan",
-          "extraUnits": [
-            "Null bis zwei Instinctive Swarms, ausgewählt aus Gargoyles oder Bio-Flyers",
+          "extraEinheits": [
+            "Null bis zwei Instinktive Schwärme, ausgewählt aus Gargoyles oder Bio-Flieger",
             "Füge 1 Harridan hinzu: 100 Punkte"
           ],
           "points": 175
@@ -150,21 +150,21 @@
       ]
     },
     {
-      "name": "Häufige unabhängige Schwärme",
-      "description": "Pro Primary Synapse Swarm darf bis zu ein Common Independent Swarm gewählt werden. Diese Formationen dürfen höchstens ein Drittel der Armee ausmachen.",
+      "name": "Gewöhnliche unabhängige Schwärme",
+      "description": "Pro Primärsynapsenschwarm darf bis zu ein gewöhnlicher unabhängiger Schwarm gewählt werden. Diese Verbände dürfen höchstens ein Drittel der Armee ausmachen.",
       "formations": [
         {
-          "name": "Genestealer Swarm",
-          "units": "Ein Brood Lord, sechs Genestealers",
-          "extraUnits": [
-            "Füge bis zu drei Genestealers hinzu: 25 Punkte pro Stück"
+          "name": "Symbiontenschwarm",
+          "units": "Ein Symbiontenlord, sechs Symbionten",
+          "extraEinheits": [
+            "Füge bis zu drei Symbionten hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         },
         {
-          "name": "Lictor Swarm",
-          "units": "Vier Lictors",
-          "extraUnits": [
+          "name": "Liktor-Schwarm",
+          "units": "Vier Liktoren",
+          "extraEinheits": [
           ],
           "points": 225
         }
@@ -172,21 +172,21 @@
     },
     {
       "name": "Seltene unabhängige Schwärme",
-      "description": "Pro Primary Synapse Swarm darf bis zu ein Rare Independent Swarm gewählt werden. Diese Formationen dürfen höchstens ein Drittel der Armee ausmachen.",
+      "description": "Pro Primärsynapsenschwarm darf bis zu ein seltener unabhängiger Schwarm gewählt werden. Diese Verbände dürfen höchstens ein Drittel der Armee ausmachen.",
       "formations": [
         {
-          "name": "Bio-Titan",
-          "units": "Ein Hierophant Bio-Titan",
-          "extraUnits": [
-            "Ersetze den Hierophant durch einen Hydraphant Bio-Titan: 100 Punkte"
+          "name": "Biotitan",
+          "units": "Ein Hierophant Biotitan",
+          "extraEinheits": [
+            "Ersetze den Hierophant durch einen Hydraphant Biotitan: 100 Punkte"
           ],
           "points": 325
         },
         {
           "name": "Bio-Vessel",
           "units": "Ein Razorfiend",
-          "extraUnits": [
-            "Ersetze die Razorfiend durch ein Hive Ship: kostenlos"
+          "extraEinheits": [
+            "Ersetze die Razorfiend durch ein Schwarm-Schiff: kostenlos"
           ],
           "points": 150
         }
@@ -194,16 +194,16 @@
     }
   ],
   "upgrades": {
-    "title": "Instinctive Swarms",
-    "description": "Das Mindestmass an Instinctive Swarms muss zwingend gekauft werden.",
+    "title": "Instinktive Schwärme",
+    "description": "Das Mindestmaß an instinktiven Schwärmen muss zwingend ausgewählt werden.",
     "items": [
       {
-        "name": "Gaunts",
-        "description": "Fünf Termagants, fünf Barbgaunts oder fünf Hormagaunts",
+        "name": "Ganten",
+        "description": "Fünf Termaganten, fünf Barbgaunts oder fünf Hormaganten",
         "points": "75 Punkte"
       },
       {
-        "name": "Bio-Support",
+        "name": "Bio-Unterstützung",
         "description": "Vier Biovores",
         "points": "75 Punkte"
       },
@@ -213,8 +213,8 @@
         "points": "75 Punkte"
       },
       {
-        "name": "Bio-Flyers",
-        "description": "Drei Harpies oder drei Hive Crones",
+        "name": "Bio-Flieger",
+        "description": "Drei Harpies oder drei Schwarmdrudes",
         "points": "100 Punkte"
       },
       {
@@ -223,13 +223,13 @@
         "points": "75 Punkte"
       },
       {
-        "name": "Bio-Artillery",
+        "name": "Bio-Artillerie",
         "description": "Drei Dactylis",
         "points": "125 Punkte"
       },
       {
-        "name": "Bio-Attack",
-        "description": "Zwei Haruspex, zwei Exocrines oder zwei Malefactors",
+        "name": "Bio-Angriff",
+        "description": "Zwei Haruspex, zwei Exocrines oder zwei Malefaktors",
         "points": "75 Punkte"
       },
       {
@@ -238,8 +238,8 @@
         "points": "125 Punkte"
       },
       {
-        "name": "Burrower",
-        "description": "Zwei Trygons oder fünf Raveners",
+        "name": "Gräber",
+        "description": "Zwei Trygons oder fünf Venatoren",
         "points": "100 Punkte"
       }
     ]

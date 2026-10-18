@@ -656,7 +656,7 @@
       "description": [
         "All formations in the Black Legion worship Chaos Undivided. Chaos Undivided formations with Daemonic Pact may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
-        "Greater Daemons: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean One (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
+        "Greater Daemons: Slaanesh Hüter der Geheimnisse (8), Nurgle Großer Verpester (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
         "No more than one of each type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than one Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning each type of daemonic unit varies, the Daemon Pool cost is always one."
       ]
@@ -666,7 +666,7 @@
       "description": [
         "All formations in Word Bearers worship Chaos Undivided. Chaos Undivided formations with Daemonic Pact may summon any of the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).",
-        "Greater Daemons: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean One (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
+        "Greater Daemons: Slaanesh Hüter der Geheimnisse (8), Nurgle Großer Verpester (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8)",
         "No more than one of each type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than one Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning each type of daemonic unit varies, the Daemon Pool cost is always one."
       ]
@@ -675,8 +675,8 @@
       "title": "Emperor's Children Summoning Rules",
       "description": [
         "All formations in Emperor's Children worship the Prince of Pleasure, Slaanesh. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
-        "Lesser Daemons: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2)",
-        "Greater Daemons: Keeper of Secrets (8)",
+        "Lesser Daemons: Daemonettes of Slaanesh (1), Slaaneshbestien (1), Seekers of Slaanesh (2)",
+        "Greater Daemons: Hüter der Geheimnisse (8)",
         "No more than one of each type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than one Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning each type of daemonic unit varies, the Daemon Pool cost is always one."
       ]
@@ -686,7 +686,7 @@
       "description": [
         "All formations in Death Guard worship the Plague Lord, Nurgle. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2)",
-        "Greater Daemons: Great Unclean One (8)",
+        "Greater Daemons: Großer Verpester (8)",
         "No more than one of each type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than one Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning each type of daemonic unit varies, the Daemon Pool cost is always one."
       ]
@@ -716,7 +716,7 @@
       "description": [
         "All Chaos Cultists formations in the Lost and the Damned worship Chaos Undivided. Formations with Daemonic Pact may summon the following Daemons (brackets indicating the Summoning Points cost):",
         "Lesser Daemons: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1)",
-        "Greater Daemons: Keeper of Secrets (8), Great Unclean One (8), Bloodthirster (8), Lord of Change (8)",
+        "Greater Daemons: Hüter der Geheimnisse (8), Großer Verpester (8), Bloodthirster (8), Lord of Change (8)",
         "No more than one of each type of Greater Daemon can be on the battlefield at the same time. No formation can contain more than one Greater Daemon at a time.",
         "Note that while the Summoning Points cost of summoning each type of daemonic unit varies, the Daemon Pool cost is always one."
       ]
@@ -750,7 +750,7 @@
       "title": "Daemonic Incursion Summoning Rules",
       "description": [
         "Formations in a Daemonic Incursion army may summon Lesser Daemons from the power they are aligned with. They do not need an upgrade to do so. Cultist Coven formations are aligned with all powers present in the army at the start of the battle. (Brackets indicating the Summoning Points cost):",
-        "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2)",
+        "Slaanesh: Daemonettes of Slaanesh (1), Slaaneshbestien (1), Seekers of Slaanesh (2)",
         "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2)",
         "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2)",
         "Tzeentch: Horrors of Tzeentch (1), Screamers of Tzeentch (1), Flamers of Tzeentch (2)",
@@ -762,7 +762,7 @@
       "title": "TTL Summoning Rules",
       "description": [
         "TTL formations with Daemonic Pact may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
-        "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1)",
+        "Slaanesh: Daemonettes of Slaanesh (1), Slaaneshbestien (1)",
         "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1)",
         "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1)",
         "Tzeentch: Horrors of Tzeentch (1), Flamers of Tzeentch (1)",
@@ -775,7 +775,7 @@
       "title": "QT Summoning Rules",
       "description": [
         "Formations with Daemonic Pact in a Questor Traitoris army may summon Lesser Daemons from the power they are aligned with (brackets indicating the Summoning Points cost):",
-        "Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1)",
+        "Slaanesh: Daemonettes of Slaanesh (1), Slaaneshbestien (1)",
         "Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1)",
         "Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1)",
         "Tzeentch: Horrors of Tzeentch (1), Flamers of Tzeentch (1)",
@@ -832,15 +832,15 @@
       ]
     },
     {
-      "title": "Augment Summoning (+x)",
+      "title": "Verstärkte Beschwörung (+x)",
       "description": [
-        "Units with Augment Summoning (+x) add a number of summoning points equal to 'x' when the formation they are in summons daemons (see Summoning). For example, a unit noted as having Augment Summoning (+2) would allow a formation with a Daemonic Pact to roll 2D3+2 for summoning points as opposed to the usual 2D3."
+        "Units with Verstärkte Beschwörung (+x) add a number of summoning points equal to 'x' when the formation they are in summons daemons (see Summoning). For example, a unit noted as having Verstärkte Beschwörung (+2) would allow a formation with a Daemonic Pact to roll 2D3+2 for summoning points as opposed to the usual 2D3."
       ]
     },
     {
-      "title": "Daemonic Focus",
+      "title": "Dämonischer Fokus",
       "description": [
-        "Units with Daemonic focus may keep any oder all summoned units that belong to the formation in play. Summoned units do not vanish back into the warp after the formation has attempted to rally. Daemonic Focus may not be used to keep summoned units in play if the formation is broken. Multiples of Daemonic Focus have no additional effect."
+        "Units with Daemonic focus may keep any oder all summoned units that belong to the formation in play. Summoned units do not vanish back into the warp after the formation has attempted to rally. Dämonischer Fokus may not be used to keep summoned units in play if the formation is broken. Multiples of Dämonischer Fokus have no additional effect."
       ]
     },
     {
@@ -852,7 +852,7 @@
     {
       "title": "Changer of Ways",
       "description": [
-        "Formations containing Thousands Sons Daemon Princes and Scarab Occult Terminators may only contain units of INF and AV units with Geländegängig, and must be held in the reserves at the start of the game. Such formations may only enter the Battlefield through a Warp Rift."
+        "Formations containing Thousands Sons Daemon Princes and Scarab Occult Terminators may only contain units of INF and AV units with Geländegängig, and must be held in the reserves at the start of the game. Such formations may only enter the Battlefield through a Warp Riss."
       ]
     },
     {
@@ -964,7 +964,7 @@
     {
       "title": "The Great Ritual",
       "description": [
-        "All Exalted Greater Daemons and all Daemon Legion formations must be held in the reserves at the start of the game. Exalted Greater Daemons may either enter the battlefield through a Warp Rift, oder they can enter through a Chaos Gate (even if they had previously plotted a Warp Rift). Daemon Legion formations may only enter the battlefield through a Chaos Gate."
+        "All Exalted Greater Daemons and all Daemon Legion formations must be held in the reserves at the start of the game. Exalted Greater Daemons may either enter the battlefield through a Warp Riss, oder they can enter through a Chaos Gate (even if they had previously plotted a Warp Riss). Daemon Legion formations may only enter the battlefield through a Chaos Gate."
       ]
     },
     {
@@ -981,17 +981,17 @@
       ]
     },
     {
-      "title": "Warp Rift",
+      "title": "Warp Riss",
       "description": [
-        "Formations with at least one model with the Warp Rift special rule must start the game in the reserves, and may only enter the battlefield through a Warp Rift oder a Chaos Gate.",
+        "Formations with at least one model with the Warp Riss special rule must start the game in the reserves, and may only enter the battlefield through a Warp Riss oder a Chaos Gate.",
         "Warp Rifts are plotted exactly as Planetare Selbstlandung. Both the turn in which the formation arrives and the landing coordinates must be recorded. The turn each formation arrives does not have to be announced.",
-        "The plotted coordinates of the Warp Rift must be located within 60cm from the friendly Blitz objective if the formation arrives in turn one, and anywhere on the battlefield on turn two oder three.",
-        "On the designated turn the Warp Rift formation is activated in the normal activation sequence, as with Planetare Selbstlandung.",
+        "The plotted coordinates of the Warp Riss must be located within 60cm from the friendly Blitz objective if the formation arrives in turn one, and anywhere on the battlefield on turn two oder three.",
+        "On the designated turn the Warp Riss formation is activated in the normal activation sequence, as with Planetare Selbstlandung.",
         "First the action for the formation must be decided. After this roll to summon daemons, and then roll to activate. If the formation fails to activate it must take a Hold action. It may then either enter the battlefield through any available Chaos Gate, oder its arrival is delayed to the following turn, and it remains in the reserves.",
-        "If the activation is successful, place a Warp Rift token at the plotted coordinates. It does not scatter.",
-        "If a Warp Rift would open on terrain that is impassable for units in the formation that will enter through it, under a friendly unit, oder in an enemy zone of control, then it is assumed that will divert towards another entry point. The location for the Warp Rift should be moved to the nearest point where it can open.",
-        "Finally, the activated formation carries out the order determined at the start of its action, and must move the formation out of the Warp Rift. Measure all distances from the centre point of the token.",
-        "All units from the activating formation must move out of the Warp Rift. Any units that are unable to exit the Warp Rift are destroyed. The Warp Rift token is then removed from the battlefield."
+        "If the activation is successful, place a Warp Riss token at the plotted coordinates. It does not scatter.",
+        "If a Warp Riss would open on terrain that is impassable for units in the formation that will enter through it, under a friendly unit, oder in an enemy zone of control, then it is assumed that will divert towards another entry point. The location for the Warp Riss should be moved to the nearest point where it can open.",
+        "Finally, the activated formation carries out the order determined at the start of its action, and must move the formation out of the Warp Riss. Measure all distances from the centre point of the token.",
+        "All units from the activating formation must move out of the Warp Riss. Any units that are unable to exit the Warp Riss are destroyed. The Warp Riss token is then removed from the battlefield."
       ]
     },
     {

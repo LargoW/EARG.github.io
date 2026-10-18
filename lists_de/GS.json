@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Genestealer Patriarch",
+        "name": "Symbiontenpatriarch",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -17,12 +17,12 @@
           "Oberbefehlshaber",
           "Inspirierend",
           "Aufklärer",
-          "Infiltratorens",
+          "Infiltratoren",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Genestealer Magus",
+        "name": "Symbiontenmagus",
         "type": "CH",
         "weapons": [
           "Psionikerkräfte"
@@ -33,7 +33,7 @@
         ]
       },
       {
-        "name": "Coven Locus",
+        "name": "Konklaven-Locus",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -43,7 +43,7 @@
         ]
       },
       {
-        "name": "Broodlord",
+        "name": "Symbiontenlord",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -55,17 +55,17 @@
         ]
       },
       {
-        "name": "Jackal Alphus",
+        "name": "Schakal-Alphus",
         "type": "CH",
         "weapons": [
-          "Scharfschütze Gewehr"
+          "Scharfschützengewehr"
         ],
         "specialRules": [
           "Anführer"
         ]
       },
       {
-        "name": "Hybrid Primus",
+        "name": "Hybrid-Primus",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -78,11 +78,11 @@
         "specialRules": [
           "Inspirierend",
           "Befehlshaber",
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
-        "name": "Hybrid Acolytes",
+        "name": "Akolythenhybriden",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -93,11 +93,11 @@
           "Klauen"
         ],
         "specialRules": [
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
-        "name": "Hybrid Aberrants",
+        "name": "Hybrid-Aberranten",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -106,11 +106,11 @@
           "Riesenkeulen"
         ],
         "specialRules": [
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
-        "name": "Coven Bikers",
+        "name": "Konklaven-Biker",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -148,11 +148,11 @@
         ],
         "specialRules": [
           "Aufklärer",
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
-        "name": "Hybrid Metamorphs",
+        "name": "Metamorph-Hybriden",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -162,8 +162,8 @@
           "Metamorph-Biomorphe"
         ],
         "specialRules": [
-          "Teleport",
-          "Infiltratorens"
+          "Teleportieren",
+          "Infiltratoren"
         ]
       },
       {
@@ -179,14 +179,14 @@
         ],
         "specialRules": [
           "Erstschlag",
-          "Infiltratorens",
+          "Infiltratoren",
           "Aufklärer",
           "Unmodifizierter Rettungswurf",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
-        "name": "Coven Limousine",
+        "name": "Konklaven-Limousine",
         "type": "LV",
         "speed": 30,
         "armour": 4,
@@ -198,10 +198,10 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Hybrid Aberrants und Genestealer Patriarch zählen jeweils als zwei Einheiten."
+        "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Hybrid-Aberranten und Symbiontenpatriarch zählen jeweils als zwei Einheiten."
       },
       {
-        "name": "Coven Technical",
+        "name": "Konklaven-Geländewagen",
         "type": "LV",
         "speed": 30,
         "armour": 5,
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "name": "Coven Ridgerunner",
+        "name": "Konklaven-Ridgerunner",
         "type": "LV",
         "speed": 30,
         "armour": 5,
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "name": "Coven Goliath",
+        "name": "Konklaven-Goliath",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -241,12 +241,12 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Hybrid Aberrants und der Genestealer Patriarch zählen jeweils als 2 Einheiten."
+        "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Hybrid-Aberranten und der Symbiontenpatriarch zählen jeweils als 2 Einheiten."
       },
       {
-        "name": "Coven Thunderbolt Fighter",
+        "name": "Kultisten-Donnerkeil-Jäger",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber (FB)",
         "armour": 6,
         "weapons": [
           "AC-Multilaser||FxF",
@@ -257,7 +257,7 @@
         ]
       },
       {
-        "name": "Cult Infantry",
+        "name": "Kultisten-Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -267,12 +267,12 @@
           "Lasergewehre"
         ],
         "specialRules": [
-          "Brood Brothers"
+          "Brutbrüder"
         ],
         "notes": "Jede zweite Kult-Infanterieeinheit ist mit einer Maschinenkanone bewaffnet."
       },
       {
-        "name": "Cult Fire Support",
+        "name": "Kultisten-Feuerunterstützung",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -281,11 +281,11 @@
           "Maschinenkanone|2|"
         ],
         "specialRules": [
-          "Brood Brothers"
+          "Brutbrüder"
         ]
       },
       {
-        "name": "Cult Mutants",
+        "name": "Kultisten-Mutanten",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -296,11 +296,11 @@
           "Kettenschwerter"
         ],
         "specialRules": [
-          "Brood Brothers"
+          "Brutbrüder"
         ]
       },
       {
-        "name": "Cult Hellhound",
+        "name": "Kultisten-Höllenhund",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -311,11 +311,11 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Brood Brothers"
+          "Brutbrüder"
         ]
       },
       {
-        "name": "Cult Leman Russ",
+        "name": "Kultisten-Leman-Russ",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -327,12 +327,12 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Brood Brothers",
+          "Brutbrüder",
           "Verstärkte Panzerung"
         ]
       },
       {
-        "name": "Cult Leman Russ Demolisher",
+        "name": "Kultisten-Leman-Russ-Demolisher",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -344,12 +344,12 @@
           "Plasmakanone|2|"
         ],
         "specialRules": [
-          "Brood Brothers",
+          "Brutbrüder",
           "Verstärkte Panzerung"
         ]
       },
       {
-        "name": "Cult Hydra",
+        "name": "Kultisten-Hydra",
         "type": "AV",
         "speed": 30,
         "armour": 6,
@@ -360,11 +360,11 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Brood Brothers"
+          "Brutbrüder"
         ]
       },
       {
-        "name": "Cult Griffon",
+        "name": "Kultisten-Greif",
         "type": "AV",
         "speed": 30,
         "armour": 6,
@@ -375,26 +375,26 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Brood Brothers"
+          "Brutbrüder"
         ]
       },
       {
-        "name": "Cult Basilisk",
+        "name": "Kultisten-Basilisk",
         "type": "AV",
         "speed": 20,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Kanone",
+          "Erdbebenkanone",
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Brood Brothers"
+          "Brutbrüder"
         ]
       },
       {
-        "name": "Cult Chimera",
+        "name": "Kultisten-Chimäre",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -405,13 +405,13 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Brood Brothers",
+          "Brutbrüder",
           "Transport"
         ],
         "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Cult Land Transporter",
+        "name": "Kultisten-Landtransporter",
         "type": "LV",
         "speed": 30,
         "armour": 5,
@@ -421,13 +421,13 @@
           "Schwerer Maschinengewehr"
         ],
         "specialRules": [
-          "Brood Brothers",
+          "Brutbrüder",
           "Transport"
         ],
         "notes": "Kann 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Cult Baneblade",
+        "name": "Kultisten-Baneblade",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -447,7 +447,7 @@
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
-        "name": "Cult Stormblade",
+        "name": "Kultisten-Stormblade",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -465,7 +465,7 @@
         "crit": "Die Einheit wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
-        "name": "Cult Shadowsword",
+        "name": "Kultisten-Shadowsword",
         "type": "WE",
         "speed": 15,
         "armour": 4,

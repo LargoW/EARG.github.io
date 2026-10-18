@@ -3,14 +3,14 @@
   "army": "Codex Astartes",
   "version": "1.0.beta",
   "release": "2022-04-01",
-  "intro": "Die Armeeliste des Codex Astartes ermöglicht es dir, eine Armee aus einem der Space-Marine-Orden aufzustellen, die den Lehren des Codex Astartes folgen. Ihr flexibler Aufbau erlaubt es dir, eine Armee deines bevorzugten Space-Marine-Ordens auf dem Schlachtfeld zusammenzustellen.",
+  "intro": "Die Armeeorganisationsplan des Codex Astartes ermöglicht es dir, eine Armee aus einem der Space-Marine-Orden aufzustellen, die den Lehren des Codex Astartes folgen. Ihr flexibler Aufbau erlaubt es dir, eine Armee deines bevorzugten Space-Marine-Ordens auf dem Schlachtfeld zusammenzustellen.",
   "armyforge": "EAR_AdeptusAstartes_CodexAstartes",
   "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
   "Initiative": "Die Verbände der Thunderbolt- und Marauder-Staffeln haben einen Initiativwert von 2+. Alle übrigen Verbände haben einen Initiativwert von 1+.",
-  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle Codex-Astartes-Detachements und Space-Marine-Flugzeugverbände.",
+  "armyRules": "Die Sonderregel <i>Sie kennen keine Furcht</i> gilt für alle Codex-Astartes-Detachements und Space-Marine-Flugzeugverbände.",
   "specialRules": [
-    "Space Marine Transports",
-    "They Shall Know No Fear"
+    "Space-Marine-Transporter",
+    "Sie kennen keine Furcht"
   ],
   "units": [
     {
@@ -21,7 +21,7 @@
         "Scriptor",
         "Oberbefehlshaber",
         "Sturmtrupps",
-        "Scouts",
+        "Aufklärer",
         "Taktische Trupps",
         "Devastor-Trupps",
         "Terminatoren",
@@ -41,8 +41,8 @@
         "Rhino",
         "Whirlwind",
         "Vindicator",
-        "Landing Craft",
-        "Storm Talon",
+        "Landungsschiff",
+        "Sturmtalon",
         "Thunderhawk",
         "Schlachtbarke",
         "Angriffskreuzer",
@@ -55,17 +55,17 @@
       "from": "ImperialAllies.json",
       "units": [
         "Warhound",
-        "Reaver Titan"
+        "Reaver-Titan"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Null-Schilde"
       ]
     },
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Thunderbolt Fighter",
-        "Marauder Bomber"
+        "Donnerkeil-Jäger",
+        "Marauder-Bomber (B)"
       ],
       "unitRules": [
       ]
@@ -78,30 +78,30 @@
       "formations": [
         {
           "name": "Sturmtrupps",
-          "units": "Vier Assaults",
-          "extraUnits": [
+          "units": "Vier Sturmtrupps",
+          "extraEinheits": [
             "Befehlshaber",
             "Vindicators"
           ],
           "points": 175
         },
         {
-          "name": "Bikes",
-          "units": "Fünf Assault Bikes",
-          "extraUnits": [
-            "Attack Bikes",
+          "name": "Bike-Verband",
+          "units": "Fünf Sturm-Bikes",
+          "extraEinheits": [
+            "Trikes",
             "Befehlshaber"
           ],
           "points": 200
         },
         {
           "name": "Devastor-Trupps",
-          "units": "Vier Devastators plus Transporter",
-          "extraUnits": [
-            "Anti-Air",
+          "units": "Vier Devastor-Trupps plus Transporter",
+          "extraEinheits": [
+            "Flugabwehr",
             "Befehlshaber",
             "Land Raider Transport",
-            "Dreadnoughts",
+            "Cybots",
             "Razorback",
             "Vindicators"
           ],
@@ -110,16 +110,16 @@
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge 1 Land Raider hinzu: 50 Punkte",
-            "Anti-Air"
+            "Flugabwehr"
           ],
           "points": 275
         },
         {
           "name": "Land Speeders",
           "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
-          "extraUnits": [
+          "extraEinheits": [
             "Typhoons"
           ],
           "points": 200
@@ -127,27 +127,27 @@
         {
           "name": "Predators",
           "units": "Vier Predator Destructors und/oder Predator Annihilators",
-          "extraUnits": [
-            "Anti-Air"
+          "extraEinheits": [
+            "Flugabwehr"
           ],
           "points": 250
         },
         {
-          "name": "Scouts",
-          "units": "Vier Scouts plus Transporter",
-          "extraUnits": [
+          "name": "Aufklärer",
+          "units": "Vier Aufklärer plus Transporter",
+          "extraEinheits": [
             "Razorbacks",
-            "Scharfschützes"
+            "Scharfschützen"
           ],
           "points": 150
         },
         {
           "name": "Taktische Trupps",
-          "units": "Sechs Tacticals plus Transporter",
-          "extraUnits": [
-            "Anti-Air",
+          "units": "Sechs Taktische Trupps plus Transporter",
+          "extraEinheits": [
+            "Flugabwehr",
             "Befehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Land Raider Transport",
             "Razorback",
             "Vindicators"
@@ -156,8 +156,8 @@
         },
         {
           "name": "Terminatoren",
-          "units": "Vier Terminators",
-          "extraUnits": [
+          "units": "Vier Terminatoren",
+          "extraEinheits": [
             "Befehlshaber",
             "Land Raider Transport"
           ],
@@ -166,16 +166,16 @@
         {
           "name": "Vindicators",
           "units": "Vier Vindicators",
-          "extraUnits": [
-            "Anti-Air"
+          "extraEinheits": [
+            "Flugabwehr"
           ],
           "points": 225
         },
         {
           "name": "Whirlwinds",
           "units": "Vier Whirlwinds",
-          "extraUnits": [
-            "Anti-Air"
+          "extraEinheits": [
+            "Flugabwehr"
           ],
           "points": 275
         }
@@ -186,8 +186,8 @@
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
-          "name": "Storm Talons",
-          "units": "Zwei Storm Talons",
+          "name": "Sturmtalons",
+          "units": "Zwei Sturmtalons",
           "points": 200
         },
         {
@@ -196,40 +196,40 @@
           "points": 225
         },
         {
-          "name": "Marauder Squadron",
-          "units": "Zwei Marauder Bombers",
+          "name": "Marauder-Staffel",
+          "units": "Zwei Marauder-Bomber (B)",
           "points": 250
         },
         {
-          "name": "Thunderbolt Squadron",
-          "units": "Zwei Thunderbolt Fighters",
+          "name": "Donnerkeil-Staffel",
+          "units": "Zwei Donnerkeil-Jägers",
           "points": 175
         },
         {
           "name": "Landungsschiff",
-          "units": "Ein Landing Craft",
+          "units": "Ein Landungsschiff",
           "points": 325
         },
         {
           "name": "0–1 Orbitale Unterstützung",
-          "units": "Ein Strike Cruiser",
-          "extraUnits": [
+          "units": "Ein Angriffskreuzer",
+          "extraEinheits": [
             "Schlachtbarke"
           ],
           "points": 200
         },
         {
           "name": "Warhounds",
-          "units": "Ein Warhound Titan",
-          "extraUnits": [
-            "Füge 1 additional Warhound Titan hinzu: 200 Punkte"
+          "units": "Ein Warhound-Titan",
+          "extraEinheits": [
+            "Füge 1 zusätzlichen Warhound-Titan hinzu: 200 Punkte"
           ],
           "points": 275
         },
         {
           "name": "Reaver",
-          "units": "Ein Reaver Titan",
-          "extraUnits": [
+          "units": "Ein Reaver-Titan",
+          "extraEinheits": [
           ],
           "points": 600
         }
@@ -241,7 +241,7 @@
     "description": "Jede Aufwertung darf pro Kontingent nur einmal gewählt werden.",
     "items": [
       {
-        "name": "Anti-Air",
+        "name": "Flugabwehr",
         "description": "Füge eine beliebige der folgenden Einheiten zum Verband hinzu",
         "options": [
           {
@@ -255,13 +255,13 @@
         ]
       },
       {
-        "name": "Attack Bikes",
-        "description": "Ersetze beliebig viele Assault Bikes durch dieselbe Anzahl an Attack Bikes",
+        "name": "Trikes",
+        "description": "Ersetze beliebig viele Sturm-Bikes durch dieselbe Anzahl an Trikes",
         "points": "kostenlos"
       },
       {
         "name": "Schlachtbarke",
-        "description": "Ersetze den Strike Cruiser durch einen Battle Barge",
+        "description": "Ersetze den Angriffskreuzer durch einen Schlachtbarke",
         "points": "75 Punkte"
       },
       {
@@ -269,7 +269,7 @@
         "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {
-            "description": "Captain, Librarian",
+            "description": "Captain, Scriptor",
             "points": "25 Punkte"
           },
           {
@@ -283,8 +283,8 @@
         ]
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge 2 beliebige der folgenden Einheiten hinzu: Dreadnought, Hellfire Dreadnought.",
+        "name": "Cybots",
+        "description": "Füge 2 beliebige der folgenden Einheiten hinzu: Cybot, Hellfire Cybot.",
         "points": [
           "50 Punkte pro Stück"
         ]
@@ -300,8 +300,8 @@
         "points": "25 Punkte pro Stück"
       },
       {
-        "name": "Scharfschützes",
-        "description": "Gib allen Scouts im Verband die Sonderregel „Scharfschütze“ für ihre Heavy Bolters.",
+        "name": "Scharfschützen",
+        "description": "Gib allen Aufklärer im Verband die Sonderregel „Scharfschütze“ für ihre Heavy Bolters.",
         "points": "25 Punkte"
       },
       {

@@ -4,17 +4,17 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_AlphaLegion",
-  "strategy": "Chaos-Space-Marine-Armeen haben einen Strategiewert von 4. Außerdem unterliegen Alpha-Legion-Armeen der Sonderregel „The Harrowing“.",
-  "Initiative": "Cultist-Coven- und Cultist-Unterstützungsverbände haben einen Initiativwert von 2+. Alle übrigen Verbände haben einen Initiativwert von 1+.",
+  "strategy": "Chaos-Space-Marine-Armeen haben einen Strategiewert von 4. Außerdem unterliegen Alpha-Legion-Armeen der Sonderregel „Die Heimsuchung“.",
+  "Initiative": "Kultistenkonklave- und Kultisten-Unterstützungsverbände haben einen Initiativwert von 2+. Alle übrigen Verbände haben einen Initiativwert von 1+.",
   "specialRules": [
-    "The Harrowing",
-    "Alpha Legion Transports",
-    "Summoning",
-    "Alpha Legion Summoning Rules",
-    "Fickle Masters"
+    "Die Heimsuchung",
+    "Alpha-Legion-Transporter",
+    "Beschwörung",
+    "Beschwörungsregeln der Alpha Legion",
+    "Launische Meister"
   ],
   "intro": [
-    "Diese Armeeliste ermöglicht es dir, eine Armee der Alpha Legion mit Verbündeten der Verräter-Imperialen-Armee aufzustellen."
+    "Dieser Armeeorganisationsplan ermöglicht es dir, eine Armee der Alpha Legion mit Verbündeten der Verräter-Imperialen-Armee aufzustellen."
   ],
   "units": [
     {
@@ -31,7 +31,7 @@
         "Alpha-Legion-Rhino",
         "Alpha-Legion-Vindicator",
         "Alpha-Legion-Predator",
-        "Alpha-Legion-Land-Raider",
+        "Alpha-Legion-Land-Schattenbarke",
         "Alpha-Legion-Sicarian-Kampfpanzer"
       ],
       "unitRules": [
@@ -42,18 +42,18 @@
     {
       "from": "chaoscultists.json",
       "units": [
-        "Daemon Prince",
-        "Aspiring Champion",
-        "Daemonic Icon",
-        "Cultists",
-        "Mutants",
-        "Chaos Spawn",
-        "Chaos Hounds",
-        "Land Transporter"
+        "Dämonenprinz",
+        "Aufstrebender Champion",
+        "Dämonische Ikone",
+        "Kultisten",
+        "Mutanten",
+        "Chaosbrut",
+        "Chaos-Hunde",
+        "Landtransporter"
       ],
       "unitRules": [
-        "Daemonic Focus",
-        "Augment Summoning (+x)"
+        "Dämonischer Fokus",
+        "Verstärkte Beschwörung (+x)"
       ]
     },
     {
@@ -71,11 +71,11 @@
     {
       "from": "daemons.json",
       "units": [
-        "Daemonettes of Slaanesh",
-        "Plaguebearers of Nurgle",
-        "Bloodletters of Khorne",
-        "Horrors of Tzeentch",
-        "Daemonic Beasts of Chaos Undivided"
+        "Dämonetten des Slaanesh",
+        "Seuchenhüter des Nurgle",
+        "Zerfleischer des Khorne",
+        "Horrors des Tzeentch",
+        "Dämonische Bestien des ungeteilten Chaos"
       ],
       "unitRules": [
       ]
@@ -83,11 +83,11 @@
     {
       "from": "chaosnavy.json",
       "units": [
-        "Chaos Xiphon Interceptor",
-        "Alpha Legion Storm Eagle",
-        "Chaos Fire Raptor",
-        "Chaos Strike Cruiser",
-        "Alpha Legion Drop Pod"
+        "Chaos-Xiphon-Abfangjäger",
+        "Sturmadler der Alpha Legion",
+        "Chaos-Feuerraptor",
+        "Chaos-Angriffskreuzer",
+        "Landungskapsel der Alpha Legion"
       ],
       "unitRules": [
       ]
@@ -95,31 +95,31 @@
   ],
   "sections": [
     {
-      "name": "Alpha Legion Kernverbände",
-      "description": "Pro Alpha Legion Marines Verband darf bis zu ein Cultist Coven Verband aufgestellt werden",
+      "name": "Alpha-Legion-Kernverbände",
+      "description": "Pro Alpha-Legion-Marines Verband darf bis zu ein Kultistenkonklave Verband aufgestellt werden",
       "formations": [
         {
           "name": "Alpha-Legion-Marines",
-          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Marines plus Transporter",
-          "extraUnits": [
-            "Ersetze 4 Alpha Legion Marines durch 4 Alpha Legion Havocs: 50 Punkte",
-            "Füge bis zu 2 Alpha Legion Land Raiders hinzu: 50 Punkte pro Stück",
+          "units": "Ein Alpha-Legion-Lord oder Alpha-Legion-Hexer, vier Alpha-Legion-Marines plus Transporter",
+          "extraEinheits": [
+            "Ersetze 4 Alpha-Legion-Marines durch 4 Alpha-Legion-Havocs: 50 Punkte",
+            "Füge bis zu 2 Alpha-Legion-Land-Schattenbarken hinzu: 50 Punkte pro Stück",
             "Oberbefehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Vindicators",
             "Predators"
           ],
           "points": 200
         },
         {
-          "name": "Cultist Coven",
-          "units": "Ein Aspiring Champion, neun Cultists und/oder Mutants",
-          "extraUnits": [
-            "Füge 1 Daemonic Icon zum Aspiring Champion hinzu: 25 Punkte",
-            "Füge genügend Land Transporters hinzu, um den Verband zu transportieren: 10 Punkte pro Stück",
-            "Ersetze beliebig viele Land Transporters durch Chimeras: 15 Punkte pro Stück",
-            "Füge bis zu 3 Chaos Hounds hinzu: 10 Punkte pro Stück",
-            "Füge 1 Chaos Spawn hinzu: 35 Punkte",
+          "name": "Kultistenkonklave",
+          "units": "Ein Aspirantenchampion, neun Kultisten und/oder Mutanten",
+          "extraEinheits": [
+            "Füge 1 Dämonische Ikone zum Aspirantenchampion hinzu: 25 Punkte",
+            "Füge genügend Kultisten-Landtransporter hinzu, um den Verband zu transportieren: 10 Punkte pro Stück",
+            "Ersetze beliebig viele Kultisten-Landtransporter durch Chimären: 15 Punkte pro Stück",
+            "Füge bis zu 3 Chaos-Hunde hinzu: 10 Punkte pro Stück",
+            "Füge 1 Chaosbrut hinzu: 35 Punkte",
             "Füge 1 Hydra hinzu: 50 Punkte",
             "Oberbefehlshaber"
           ],
@@ -128,22 +128,22 @@
       ]
     },
     {
-      "name": "Alpha Legion Elitekontingente",
-      "description": "Pro Alpha Legion Marines Verband dürfen bis zu ein Alpha Legion Elitekontingent aufgestellt werden.",
+      "name": "Alpha-Legion-Elitekontingente",
+      "description": "Pro Alpha-Legion-Marines Verband dürfen bis zu ein Alpha-Legion-Elitekontingent aufgestellt werden.",
       "formations": [
         {
           "name": "Destruktoren",
-          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Destroyers",
-          "extraUnits": [
+          "units": "Ein Alpha-Legion-Lord oder Alpha-Legion-Hexer, vier Alpha-Legion-Destruktoren",
+          "extraEinheits": [
             "Oberbefehlshaber",
             "Predators"
           ],
           "points": 200
         },
         {
-          "name": "Headhunters",
-          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Alpha Legion Headhunters plus Transporter",
-          "extraUnits": [
+          "name": "Kopfjäger",
+          "units": "Ein Alpha-Legion-Lord oder Alpha-Legion-Hexer, vier Alpha-Legion-Kopfjäger plus Transporter",
+          "extraEinheits": [
             "Oberbefehlshaber",
             "Vindicators"
           ],
@@ -151,17 +151,17 @@
         },
         {
           "name": "Terminatoren",
-          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Lernaean Terminators plus Transporter",
-          "extraUnits": [
+          "units": "Ein Alpha-Legion-Lord oder Alpha-Legion-Hexer, vier Lernaean-Terminatoren plus Transporter",
+          "extraEinheits": [
             "Oberbefehlshaber",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 275
         },
         {
           "name": "Sicarians",
-          "units": "Vier Alpha Legion Sicarian Battle Tanks",
-          "extraUnits": [
+          "units": "Vier Sicarian-Kampfpanzer der Alpha Legion",
+          "extraEinheits": [
             "Predators"
           ],
           "points": 275
@@ -169,69 +169,69 @@
       ]
     },
     {
-      "name": "Cultist Unterstützungsverbände",
-      "description": "Pro Cultist-Coven-Verband dürfen bis zu zwei Cultist-Unterstützungsverbände aufgestellt werden.",
+      "name": "Kultisten-Unterstützungsverbände",
+      "description": "Pro Kultistenkonklave-Verband dürfen bis zu zwei Kultisten-Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
-          "name": "Rough Rider Platoon",
-          "units": "Sechs Rough Riders",
-          "extraUnits": [
-            "Füge 1 Daemonic Icon hinzu: 75 Punkte"
+          "name": "Kavalleriezug",
+          "units": "Sechs Kavallerie",
+          "extraEinheits": [
+            "Füge 1 Dämonische Ikone hinzu: 75 Punkte"
           ],
           "points": 150
         },
         {
-          "name": "Salamander Squadron",
-          "units": "Vier Salamander Scout Tanks",
-          "extraUnits": [
+          "name": "Salamander-Staffel",
+          "units": "Vier Salamander-Aufklärungspanzer",
+          "extraEinheits": [
           ],
           "points": 150
         },
         {
-          "name": "Flak Battery",
+          "name": "Flakbatterie",
           "units": "Drei Hydras",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 150
         },
         {
-          "name": "Griffon Battery",
-          "units": "Drei Griffons",
-          "extraUnits": [
+          "name": "Greif-Batterie",
+          "units": "Drei Greifs",
+          "extraEinheits": [
           ],
           "points": 175
         }
       ]
     },
     {
-      "name": "Alpha Legion Flotte",
+      "name": "Alpha-Legion-Flotte",
       "description": "Bis zu einem Drittel der verfügbaren Punkte darf für die Alpha-Legion-Flotte ausgegeben werden.",
       "formations": [
         {
-          "name": "Storm Eagle",
-          "units": "Ein Alpha Legion Storm Eagle",
-          "extraUnits": [
+          "name": "Sturmadler",
+          "units": "Ein Sturmadler der Alpha Legion",
+          "extraEinheits": [
           ],
           "points": 175
         },
         {
-          "name": "Fire Raptor",
-          "units": "Ein Chaos Fire Raptor",
-          "extraUnits": [
+          "name": "Feuerraptor",
+          "units": "Ein Chaos-Feuerraptor",
+          "extraEinheits": [
           ],
           "points": 175
         },
         {
-          "name": "Xiphon Squadron",
-          "units": "Zwei Chaos Xiphon Interceptors",
-          "extraUnits": [
+          "name": "Xiphon-Staffel",
+          "units": "Zwei Chaos-Xiphon-Abfangjäger",
+          "extraEinheits": [
           ],
           "points": 225
         },
         {
-          "name": "0–1 Strike Cruiser",
-          "units": "Ein Chaos Strike Cruiser",
-          "extraUnits": [
+          "name": "0–1 Angriffskreuzer",
+          "units": "Ein Chaos-Angriffskreuzer",
+          "extraEinheits": [
           ],
           "points": 200
         }
@@ -241,15 +241,15 @@
       "name": "Dämonenpool",
       "formations": [
         {
-          "name": "Lesser Daemon Pool",
-          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool",
+          "name": "Pool niederer Dämonen",
+          "units": "Beliebig viele Punkte aus dem Pool niederer Dämonen",
           "points": 20
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Alpha Legion Aufwertungen",
+    "title": "Alpha-Legion-Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
@@ -257,11 +257,11 @@
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Werte den Aspiring Champion zu einem Daemon Prince",
+            "description": "Werte den Aspirantenchampion zu einem Dämonenprinz",
             "points": "100 Punkte"
           },
           {
-            "description": "„I'm Alpharius!“ Die Armee profitiert von der Sonderregel Oberbefehlshaber, solange sich mindestens ein Alpha Legion Lord auf dem Schlachtfeld befindet. Der Verband muss einen Alpha Legion Lord enthalten.",
+            "description": "„Ich bin Alpharius!“ Die Armee profitiert von der Sonderregel Oberbefehlshaber, solange sich mindestens ein Alpha-Legion-Lord auf dem Schlachtfeld befindet. Der Verband muss einen Alpha-Legion-Lord enthalten.",
             "points": "75 Punkte"
           }
         ]
@@ -277,8 +277,8 @@
         "points": "50 Punkte pro Stück"
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu 2 Alpha Legion Dreadnoughts hinzu",
+        "name": "Cybots",
+        "description": "Füge bis zu 2 Alpha Legion Cybots hinzu",
         "points": "50 Punkte pro Stück"
       }
     ]

@@ -86,14 +86,14 @@
             ]
         },
         {
-            "name": "\u003eSupport-Konfiguration\u003c",
+            "name": "\u003eUnterstützungswaffen-Konfiguration\u003c",
             "modes": [
                 {
                 }
             ]
         },
         {
-            "name": "\u003eTank-Hunter-Konfiguration\u003c",
+            "name": "\u003ePanzerjäger-Konfiguration\u003c",
             "modes": [
                 {
                 }
@@ -459,7 +459,7 @@
             ]
         },
         {
-            "name": "AC Colossus Bombe",
+            "name": "AC Koloss Bombe",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -725,7 +725,7 @@
             ]
         },
         {
-            "name": "AC Streulaser",
+            "name": "AC Impulslaser",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+/AA5+",
@@ -894,7 +894,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-Eldar Raketenwerfer",
+            "name": "AC Eldar-Zwillingsraketenwerfer",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -1186,7 +1186,7 @@
             ]
         },
         {
-            "name": "AC Vampire Hunter Zwillings-Pulsar",
+            "name": "AC Vampire-Jäger-Zwillingspulsar",
             "modes": [
                 {
                     "firepower": "2x MW2+",
@@ -1288,7 +1288,7 @@
             ]
         },
         {
-            "name": "Kaban-Disruptor",
+            "name": "Kaban-Störsender",
             "modes": [
                 {
                     "firepower": "4x AP5+/AT6+",
@@ -1496,7 +1496,7 @@
             ]
         },
         {
-            "name": "Archeotech Kinetic Zerstörer",
+            "name": "Archeotech-Kinetikzerstörer",
             "modes": [
                 {
                     "firepower": "Handfeuerwaffen",
@@ -2090,7 +2090,7 @@
             ]
         },
         {
-            "name": "Gaunt-Biokanone",
+            "name": "Ganten-Biokanone",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -2207,7 +2207,7 @@
             ]
         },
         {
-            "name": "Bio-Titan-Biokanone",
+            "name": "Biotitan-Biokanone",
             "modes": [
                 {
                     "firepower": "4x AP3+/AT4+",
@@ -2218,7 +2218,7 @@
             ]
         },
         {
-            "name": "Bio-Titan-Biokanone",
+            "name": "Biotitan-Biokanone",
             "modes": [
                 {
                     "firepower": "4x AP3+/AT4+",
@@ -2789,7 +2789,7 @@
             ]
         },
         {
-            "name": "Titan Kettenfaust",
+            "name": "Titan-Kettenfaust",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -2801,7 +2801,7 @@
             ]
         },
         {
-            "name": "Dreadnought Kettenfaust",
+            "name": "Cybot Kettenfaust",
             "modes": [
                 {
                     "firepower": "Sturmwaffe",
@@ -2926,7 +2926,7 @@
             ]
         },
         {
-            "name": "Coruscant Hail",
+            "name": "Coruscant-Hagel",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -2983,7 +2983,7 @@
             ]
         },
         {
-            "name": "Cyclone Kanone",
+            "name": "Cyclone-Kanone",
             "modes": [
                 {
                     "firepower": "6x AP4+/AT4+",
@@ -3194,7 +3194,7 @@
             ]
         },
         {
-            "name": "Cyclops-Sprengladung",
+            "name": "Zyklop-Sprengladung",
             "modes": [
                 {
                     "firepower": "Sturmwaffe",
@@ -3594,7 +3594,7 @@
             ]
         },
         {
-            "name": "Vibro Kanone",
+            "name": "Vibrokanone",
             "modes": [
                 {
                     "firepower": "2x AP3+/AT6+",
@@ -3890,7 +3890,7 @@
             ]
         },
         {
-            "name": "Earthshaker Kanone",
+            "name": "Erdbebenkanone",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+",
@@ -3906,7 +3906,7 @@
             ]
         },
         {
-            "name": "Zwillings-Earthshaker Kanone",
+            "name": "Zwillings-Erdbebenkanone",
             "modes": [
                 {
                     "firepower": "AP3+/AT3+",
@@ -3946,7 +3946,7 @@
             ]
         },
         {
-            "name": "Eldar Raketenwerfer",
+            "name": "Eldar-Raketenwerfer",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+/AA6+",
@@ -3957,7 +3957,7 @@
             ]
         },
         {
-            "name": "Eldar Energiefaust",
+            "name": "Eldar-Energiefaust",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -3969,7 +3969,7 @@
             ]
         },
         {
-            "name": "Eldar Energiewaffe",
+            "name": "Eldar-Energiewaffe",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -4114,7 +4114,7 @@
             ]
         },
         {
-            "name": "Exorcist Werfer",
+            "name": "Exorzist Werfer",
             "modes": [
                 {
                     "firepower": "2x AP5+/AT5+",
@@ -4203,7 +4203,7 @@
             ]
         },
         {
-            "name": "Feuerpike",
+            "name": "Feuerlanze",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -4493,7 +4493,7 @@
             ]
         },
         {
-            "name": "Fusionsgeschütze",
+            "name": "Fusionsstrahler",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -4529,7 +4529,7 @@
                     "firepower": "AP4+/AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Psybolts"
+                        "Psibolzen"
                     ]
                 }
             ]
@@ -4541,13 +4541,13 @@
                     "firepower": "2x AP4+/AT5+",
                     "range": 45,
                     "specialRules": [
-                        "Psybolts"
+                        "Psibolzen"
                     ]
                 }
             ]
         },
         {
-            "name": "Gauntbeutel",
+            "name": "Gantenbeutel",
             "modes": [
                 {
                     "firepower": "n/a",
@@ -4859,7 +4859,7 @@
             ]
         },
         {
-            "name": "Grotesques Klingen",
+            "name": "Grotesquen Klingen",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -4896,7 +4896,7 @@
             ]
         },
         {
-            "name": "Guardian Speer",
+            "name": "Gardistenspeer",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -4982,7 +4982,7 @@
             ]
         },
         {
-            "name": "Harlequin\u0027s Umarmung",
+            "name": "Harlekins Umarmung",
             "modes": [
                 {
                     "firepower": "Sturmwaffe",
@@ -4993,7 +4993,7 @@
             ]
         },
         {
-            "name": "Harlequin Kuss",
+            "name": "Kuss des Harlekins",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -5362,7 +5362,7 @@
                     "range": 15,
                     "specialRules": [
                         "IC",
-                        "Psybolts"
+                        "Psibolzen"
                     ]
                 },
                 {
@@ -5370,7 +5370,7 @@
                     "join": "and",
                     "specialRules": [
                         "IC",
-                        "Psybolts"
+                        "Psibolzen"
                     ]
                 }
             ]
@@ -5405,7 +5405,7 @@
                     "range": 45,
                     "specialRules": [
                         "D",
-                        "Apocalyptic Barrage",
+                        "Apokalyptisches Sperrfeuer",
                         "Slow"
                     ]
                 }
@@ -6135,7 +6135,7 @@
             ]
         },
         {
-            "name": "Icarus Batterie",
+            "name": "Icarus-Array",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -6502,7 +6502,7 @@
             ]
         },
         {
-            "name": "Kroot-Bolterwerfer",
+            "name": "Kroot-Söldner-Bolterwerfer",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -6513,7 +6513,7 @@
             ]
         },
         {
-            "name": "Kroot-Geschütz",
+            "name": "Kroot-Söldner-Geschütz",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -6524,7 +6524,7 @@
             ]
         },
         {
-            "name": "Kroot-Gewehre",
+            "name": "Kroot-Söldner-Gewehre",
             "modes": [
                 {
                     "firepower": "Handfeuerwaffen",
@@ -6912,7 +6912,7 @@
             ]
         },
         {
-            "name": "Langgewehre",
+            "name": "Ranger-Jagdgewehr",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -6924,7 +6924,7 @@
             ]
         },
         {
-            "name": "Ghost Walker Langgewehre",
+            "name": "Geisterläufer-Ranger-Jagdgewehr",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -7050,7 +7050,7 @@
             ]
         },
         {
-            "name": "Manifested Body Waffen",
+            "name": "Waffen des manifestierten Körpers",
             "modes": [
                 {
                     "firepower": "3x AP5+/AT5+/AA6+",
@@ -7168,7 +7168,7 @@
             ]
         },
         {
-            "name": "Titan Meltakanone",
+            "name": "Titan-Melterkanone",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -7384,7 +7384,7 @@
             ]
         },
         {
-            "name": "Mime Concealed Klingen",
+            "name": "Verborgene Mimerklingen",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -7528,7 +7528,7 @@
             ]
         },
         {
-            "name": "Nemesis Psionische Waffen",
+            "name": "Nemesis-Psionikwaffen",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -7761,7 +7761,7 @@
             ]
         },
         {
-            "name": "Ogryn Waffen",
+            "name": "Ogryn-Waffen",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -7795,7 +7795,7 @@
             ]
         },
         {
-            "name": "Overlord Sperrfeuer",
+            "name": "Overlord-Sperrfeuer",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -8137,7 +8137,7 @@
             ]
         },
         {
-            "name": "2x Titan Plasmakanone",
+            "name": "2x Titan-Plasmakanone",
             "modes": [
                 {
                     "firepower": "3x MW2+",
@@ -8640,7 +8640,7 @@
             ]
         },
         {
-            "name": "Prism Kanone",
+            "name": "Prismenkanone",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+/AA5+",
@@ -8707,7 +8707,7 @@
             ]
         },
         {
-            "name": "Prism Gewehre",
+            "name": "Prismengewehre",
             "modes": [
                 {
                     "firepower": "AT5+",
@@ -8793,7 +8793,7 @@
                     "firepower": "AP5+/AT6+",
                     "range": 30,
                     "specialRules": [
-                        "Psybolts"
+                        "Psibolzen"
                     ]
                 }
             ]
@@ -8805,7 +8805,7 @@
                     "firepower": "AP3+/AT4+",
                     "range": 45,
                     "specialRules": [
-                        "Psybolts"
+                        "Psibolzen"
                     ]
                 }
             ]
@@ -8817,7 +8817,7 @@
                     "firepower": "AP4+/AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Psybolts"
+                        "Psibolzen"
                     ]
                 }
             ]
@@ -8829,13 +8829,13 @@
                     "firepower": "AP4+/AT5+/AA5+",
                     "range": 15,
                     "specialRules": [
-                        "Psybolts"
+                        "Psibolzen"
                     ]
                 }
             ]
         },
         {
-            "name": "Psychic Powers",
+            "name": "Psikräfte",
             "modes": [
                 {
                     "firepower": "Handfeuerwaffen",
@@ -9388,7 +9388,7 @@
             ]
         },
         {
-            "name": "Reaper-Werfer",
+            "name": "Khaindar-Raketenwerfer",
             "modes": [
                 {
                     "firepower": "AP3+/AT6+",
@@ -9432,12 +9432,12 @@
             ]
         },
         {
-            "name": "Wiedererweckungssphäre",
+            "name": "Regeneratorsphäre",
             "modes": [
                 {
                     "firepower": "n/a",
                     "specialRules": [
-                        "Resurrection Orb",
+                        "Regeneratorsphäre",
                         "SS"
                     ]
                 }
@@ -9611,7 +9611,7 @@
             ]
         },
         {
-            "name": "Streulaser",
+            "name": "Impulslaser",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+",
@@ -9872,7 +9872,7 @@
             ]
         },
         {
-            "name": "Shuriken-Pistolen",
+            "name": "Shurikenpistolen",
             "modes": [
                 {
                     "firepower": "Handfeuerwaffen",
@@ -9969,7 +9969,7 @@
             ]
         },
         {
-            "name": "Singing Speer",
+            "name": "Singspeer",
             "modes": [
                 {
                     "firepower": "Handfeuerwaffen",
@@ -10020,7 +10020,7 @@
             ]
         },
         {
-            "name": "Skorcha",
+            "name": "Brennabuggy",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -10146,7 +10146,7 @@
             ]
         },
         {
-            "name": "Scharfschütze Gewehr",
+            "name": "Scharfschützengewehr",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -10158,7 +10158,7 @@
             ]
         },
         {
-            "name": "Scharfschütze Gewehre",
+            "name": "Scharfschützengewehre",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -10244,7 +10244,7 @@
             ]
         },
         {
-            "name": "Zwillings-Soopagun",
+            "name": "Zwillings-Mega Kanonä",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -10256,7 +10256,7 @@
             ]
         },
         {
-            "name": "Soopagunz Belly Batterie",
+            "name": "Mega-Kanonä-Bauchbatterie",
             "modes": [
                 {
                     "firepower": "10BP",
@@ -10280,7 +10280,7 @@
             ]
         },
         {
-            "name": "Schall-Disruptor",
+            "name": "Schallstörsender",
             "modes": [
                 {
                     "firepower": "10BP",
@@ -10737,6 +10737,18 @@
                     "range": 30,
                     "specialRules": [
                         "S"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Skorcha",
+            "modes": [
+                {
+                    "firepower": "AP4+",
+                    "range": 15,
+                    "specialRules": [
+                        "IC"
                     ]
                 }
             ]
@@ -11261,7 +11273,7 @@
             ]
         },
         {
-            "name": "Titan D-Kanone",
+            "name": "Titan-D-Kanone",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -11282,7 +11294,7 @@
             ]
         },
         {
-            "name": "Titan Energiefaust",
+            "name": "Titan-Energiefaust",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -11294,7 +11306,7 @@
             ]
         },
         {
-            "name": "Eldar Titan Energiefaust",
+            "name": "Eldar-Titan-Energiefaust",
             "modes": [
                 {
                     "firepower": "6x AP4+/AT4+",
@@ -11357,7 +11369,7 @@
             ]
         },
         {
-            "name": "Tomb Spyder Klauen",
+            "name": "Gruftspinnenklauen",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -11450,7 +11462,7 @@
             ]
         },
         {
-            "name": "Schwerer Icarus Batterie",
+            "name": "Schweres Icarus-Array",
             "modes": [
                 {
                     "firepower": "3x AP4+/AT5+/AA5+",
@@ -11619,7 +11631,7 @@
             ]
         },
         {
-            "name": "Zwillings-Eldar Raketenwerfer",
+            "name": "Zwillings-Eldar-Raketenwerfer",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -12040,7 +12052,7 @@
             ]
         },
         {
-            "name": "Sturm-Serpent Impulslaser",
+            "name": "Sturmserpent-Impulslaser",
             "modes": [
                 {
                     "firepower": "2x AT3+",
@@ -12092,7 +12104,7 @@
             ]
         },
         {
-            "name": "Zwillings-Splinter Gewehr",
+            "name": "Zwillings-Splittergewehr",
             "modes": [
                 {
                     "firepower": "Handfeuerwaffen",
@@ -12245,7 +12257,7 @@
             ]
         },
         {
-            "name": "Titan Vibro Kanone",
+            "name": "Titan-Vibrokanone",
             "modes": [
                 {
                     "firepower": "5x AT2+",
@@ -12631,7 +12643,7 @@
             ]
         },
         {
-            "name": "Weirdboy-Turm",
+            "name": "Wyrdboy-Turm",
             "modes": [
                 {
                     "firepower": "MW4+/AA6+",
@@ -12689,7 +12701,7 @@
             ]
         },
         {
-            "name": "Witch Klingen",
+            "name": "Hexenklingen",
             "modes": [
                 {
                     "firepower": "Sturmwaffen",
@@ -13078,8 +13090,8 @@
     ],
   "rules": [
     {
-      "name": "Apocalyptic Barrage",
-      "description": "Apocalyptic Barrage"
+      "name": "Apokalyptisches Sperrfeuer",
+      "description": "Apokalyptisches Sperrfeuer"
     },
     {
       "name": "D",
@@ -13115,7 +13127,7 @@
     },
     {
       "name": "GM",
-      "description": "Guided Missiles"
+      "description": "Gelenkte Raketen"
     },
     {
       "name": "IC",
@@ -13123,7 +13135,7 @@
     },
     {
       "name": "Ind",
-      "description": "Indirect Fire"
+      "description": "Indirektes Feuer (Indirekt)"
     },
     {
       "name": "Sturmangriff",
@@ -13139,11 +13151,11 @@
     },
     {
       "name": "MW",
-      "description": "Macro Weapon"
+      "description": "Makrowaffe"
     },
     {
-      "name": "Resurrection Orb",
-      "description": "Resurrection Orb"
+      "name": "Regeneratorsphäre",
+      "description": "Regeneratorsphäre"
     },
     {
       "name": "Portal",
@@ -13155,7 +13167,7 @@
     },
     {
       "name": "Heck",
-      "description": "Rear Arc"
+      "description": "Heck Arc"
     },
     {
       "name": "Schildbrecher",
@@ -13178,52 +13190,52 @@
       "description": "Schildbohrer"
     },
     {
-      "name": "Psybolts",
-      "description": "Psybolts"
+      "name": "Psibolzen",
+      "description": "Psibolzen"
     },
     {
       "name": "TK(1)",
-      "description": "Titan Killer"
+      "description": "Titanen-Killer (TK)"
     },
     {
       "name": "TK(D2)",
-      "description": "Titan Killer"
+      "description": "Titanen-Killer (TK)"
     },
     {
       "name": "TK(W3+1)",
-      "description": "Titan Killer"
+      "description": "Titanen-Killer (TK)"
     },
     {
       "name": "TK(W3+3)",
-      "description": "Titan Killer"
+      "description": "Titanen-Killer (TK)"
     },
     {
       "name": "TK(W3)",
-      "description": "Titan Killer"
+      "description": "Titanen-Killer (TK)"
     },
     {
       "name": "TK(W6)",
-      "description": "Titan Killer"
+      "description": "Titanen-Killer (TK)"
     },
     {
       "name": "TK(W6+1)",
-      "description": "Titan Killer"
+      "description": "Titanen-Killer (TK)"
     },
     {
       "name": "TK(W6+2)",
-      "description": "Titan Killer"
+      "description": "Titanen-Killer (TK)"
     },
     {
-      "name": "Unstable",
-      "description": "Unstable"
+      "name": "Instabil",
+      "description": "Instabil"
     },
     {
       "name": "Spec[*]",
-      "description": "Special Rule"
+      "description": "Sonderregel"
     },
     {
       "name": "Spec[**]",
-      "description": "Special Rule [**]"
+      "description": "Sonderregel [**]"
     }
   ]
 }

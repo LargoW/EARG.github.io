@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Exalted Keeper of Secrets",
+        "name": "Erhabener Hüter der Geheimnisse",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -22,12 +22,12 @@
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
-          "Daemonic Focus",
-          "Warp Rift",
+          "Dämonischer Fokus",
+          "Warp-Riss",
           "Geländegängig",
-          "Augment Summoning (+W3)"
+          "Verstärkte Beschwörung (+W3)"
         ],
-        "crit": "Exalted Greater Daemon wird zerstört. Alle beschworenen Dämonen innerhalb von 5cm werden zerstört."
+        "crit": "Der Erhabene Große Dämon wird zerstört. Alle beschworenen Dämonen innerhalb von 5cm werden zerstört."
       },
       {
         "name": "Hüter der Geheimnisse",
@@ -45,14 +45,14 @@
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Geländegängig",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ],
-        "crit": "Greater Daemon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört"
+        "crit": "Der Große Dämon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört"
       },
       {
-        "name": "Herald of Slaanesh",
+        "name": "Herold des Slaanesh",
         "type": "INF",
         "speed": 20,
         "armour": 4,
@@ -63,13 +63,13 @@
           "Kakophonischer Schallstoß"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Herald of Slaanesh on Seeker Chariot",
+        "name": "Herold des Slaanesh auf Sucherstreitwagen",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -80,13 +80,13 @@
           "Kakophonischer Schallstoß"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Daemonettes of Slaanesh",
+        "name": "Dämonetten des Slaanesh",
         "type": "INF",
         "speed": 20,
         "armour": 4,
@@ -100,7 +100,7 @@
         ]
       },
       {
-        "name": "Fiends of Slaanesh",
+        "name": "Slaaneshbestien",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -114,7 +114,7 @@
         ]
       },
       {
-        "name": "Seekers of Slaanesh",
+        "name": "Slaanesh-Reiterinnen",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -130,7 +130,7 @@
         ]
       },
       {
-        "name": "Exalted Great Unclean One",
+        "name": "Erhabener Großer Verpester",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -147,12 +147,12 @@
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
-          "Daemonic Focus",
-          "Warp Rift",
+          "Dämonischer Fokus",
+          "Warp-Riss",
           "Geländegängig",
-          "Augment Summoning (+W3)"
+          "Verstärkte Beschwörung (+W3)"
         ],
-        "crit": "Exalted Greater Daemon wird zerstört. Alle beschworenen Dämonen innerhalb von 5cm werden zerstört."
+        "crit": "Der Erhabene Große Dämon wird zerstört. Alle beschworenen Dämonen innerhalb von 5cm werden zerstört."
       },
       {
         "name": "Großer Verpester",
@@ -170,14 +170,14 @@
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Geländegängig",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ],
-        "crit": "Greater Daemon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört"
+        "crit": "Der Große Dämon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört"
       },
       {
-        "name": "Herald of Nurgle on Palanquin",
+        "name": "Herold des Nurgle auf einer Sänfte",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -188,13 +188,13 @@
           "Nurglinge"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Herald of Nurgle on Blight Fly",
+        "name": "Herold des Nurgle auf Seuchenfliege",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -205,15 +205,15 @@
           "Seuchenfliege"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Beritten",
           "Sprungmodule",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Plaguebearers of Nurgle",
+        "name": "Seuchenhüter des Nurgle",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -227,7 +227,7 @@
         ]
       },
       {
-        "name": "Beasts of Nurgle",
+        "name": "Seuchenbestien des Nurgle",
         "type": "INF",
         "speed": 25,
         "armour": 4,
@@ -241,7 +241,7 @@
         ]
       },
       {
-        "name": "Plague Drones of Nurgle",
+        "name": "Seuchendrohnen des Nurgle",
         "type": "INF",
         "speed": 25,
         "armour": 4,
@@ -259,7 +259,7 @@
         ]
       },
       {
-        "name": "Exalted Bloodthirster",
+        "name": "Erhabener Blutdämon",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -276,13 +276,13 @@
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
-          "Daemonic Focus",
-          "Warp Rift",
+          "Dämonischer Fokus",
+          "Warp-Riss",
           "Geländegängig",
-          "Jump Pack",
-          "Augment Summoning (+W3)"
+          "Sprungmodule",
+          "Verstärkte Beschwörung (+W3)"
         ],
-        "crit": "Exalted Greater Daemon wird zerstört. Alle beschworenen Dämonen innerhalb von 5cm werden zerstört."
+        "crit": "Der Erhabene Große Dämon wird zerstört. Alle beschworenen Dämonen innerhalb von 5cm werden zerstört."
       },
       {
         "name": "Blutdämon",
@@ -300,15 +300,15 @@
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Geländegängig",
-          "Jump Pack",
-          "Augment Summoning (+1)"
+          "Sprungmodule",
+          "Verstärkte Beschwörung (+1)"
         ],
-        "crit": "Greater Daemon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört"
+        "crit": ". Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört"
       },
       {
-        "name": "Herald of Khorne on Skull Cannon",
+        "name": "Herold des Khorne auf Schädelkanone",
         "type": "LV",
         "speed": 20,
         "armour": 4,
@@ -318,14 +318,14 @@
           "Schädelkanone"
         ],
         "specialRules": [
-            "Daemonic Focus",
-            "Infiltratorens",
+            "Dämonischer Fokus",
+            "Infiltratoren",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Herald of Khorne on Juggernaut",
+        "name": "Herold des Khorne auf Moloch",
         "type": "INF",
         "speed": 25,
         "armour": 4,
@@ -337,13 +337,13 @@
         "specialRules": [
           "Beritten",
           "Geländegängig",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Bloodletters of Khorne",
+        "name": "Zerfleischer des Khorne",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -357,7 +357,7 @@
         ]
       },
       {
-        "name": "Fleshhounds of Khorne",
+        "name": "Bluthunde des Khorne",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -371,7 +371,7 @@
         ]
       },
       {
-        "name": "Bloodcrushers of Khorne",
+        "name": "Zerschmetterer des Khorne",
         "type": "INF",
         "speed": 25,
         "armour": 4,
@@ -387,7 +387,7 @@
         ]
       },
       {
-        "name": "Exalted Lord of Change",
+        "name": "Erhabener Herrscher des Wandels",
         "type": "WE",
         "speed": 30,
         "armour": 4,
@@ -404,13 +404,13 @@
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
-          "Daemonic Focus",
-          "Warp Rift",
+          "Dämonischer Fokus",
+          "Warp-Riss",
           "Geländegängig",
-          "Jump Pack",
-          "Augment Summoning (+W3)"
+          "Sprungmodule",
+          "Verstärkte Beschwörung (+W3)"
         ],
-        "crit": "Exalted Greater Daemon wird zerstört. Alle Dämonen-Einheiten innerhalb von 5cm werden zerstört."
+        "crit": "Der Erhabene Große Dämon wird zerstört. Alle Dämonen-Einheiten innerhalb von 5cm werden zerstört."
       },
       {
         "name": "Herrscher des Wandels",
@@ -428,15 +428,15 @@
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Geländegängig",
-          "Jump Pack",
-          "Augment Summoning (+1)"
+          "Sprungmodule",
+          "Verstärkte Beschwörung (+1)"
         ],
-        "crit": "Greater Daemon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört."
+        "crit": "Der Große Dämon wird zerstört. Alle beschworenen Dämonen-Einheiten innerhalb von 5cm werden bei 5+ zerstört."
       },
       {
-        "name": "Herald of Tzeentch",
+        "name": "Herold des Tzeentch",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -446,13 +446,13 @@
           "Violettes Feuer des Tzeentch"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Herald of Tzeentch on Burning Chariot",
+        "name": "Herold des Tzeentch auf Brennendem Streitwagen",
         "type": "LV",
         "speed": 30,
         "armour": 4,
@@ -463,13 +463,13 @@
         ],
         "specialRules": [
           "Sprungmodule",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Horrors of Tzeentch",
+        "name": "Horrors des Tzeentch",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -484,7 +484,7 @@
         ]
       },
       {
-        "name": "Flamers of Tzeentch",
+        "name": "Feuerdämonen des Tzeentch",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -499,7 +499,7 @@
         ]
       },
       {
-        "name": "Screamers of Tzeentch",
+        "name": "Kreischer des Tzeentch",
         "type": "INF",
         "speed": 30,
         "armour": 5,
@@ -514,7 +514,7 @@
         ]
       },
       {
-        "name": "Daemonic Beasts of Chaos Undivided",
+        "name": "Dämonische Bestien des ungeteilten Chaos",
         "type": "INF",
         "speed": 30,
         "armour": 5,
@@ -528,7 +528,7 @@
         ]
       },
       {
-        "name": "Furies of Chaos Undivided",
+        "name": "Furien des ungeteilten Chaos",
         "type": "INF",
         "speed": 30,
         "armour": 5,
@@ -537,14 +537,14 @@
           "Klauen"
         ],
         "specialRules": [
-          "In Midnight Clad",
+          "Im Mitternachtsschwarz",
           "Entbehrlich",
           "Sprungmodule",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Soul Grinder",
+        "name": "Seelenzermalmer",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -555,8 +555,8 @@
           "Warpschwert"
         ],
         "specialRules": [
-          "Daemonic Focus",
-          "Infiltratorens",
+          "Dämonischer Fokus",
+          "Infiltratoren",
           "Geländegängig",
           "Unmodifizierter Rettungswurf"
         ]

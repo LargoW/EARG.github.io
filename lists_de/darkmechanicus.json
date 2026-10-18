@@ -24,7 +24,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "Daemonic Focus"
+          "Dämonischer Fokus"
         ]
       },
       {
@@ -34,8 +34,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Daemonic Focus",
-          "Augment Summoning (+1)",
+          "Dämonischer Fokus",
+          "Verstärkte Beschwörung (+1)",
           "Anführer"
         ]
       },
@@ -79,7 +79,7 @@
           "Energie-Klauen"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Furchtlos"
         ]
       },
@@ -249,12 +249,12 @@
           ">Unterstützungswaffen<",
           "Plasma-Verbrenner|0-1|FxF",
           "Kanone des Chaos|0-1|FxF",
-          "Cyclone Kanone|0-1|FxF",
+          "Cyclone-Kanone|0-1|FxF",
           "4x Havoc-Sperrfeuer-Rakete|0-1|FwA"
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -277,11 +277,11 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "notes": "Mit einem Turbo-Blaster, Doom Burner, Plasma Cremator oder einer Zwillings-Hades-Maschinenkanone bewaffnet.",
+        "notes": "Mit einem Turboblaster, Verdammnisbrenner, Plasma-Kremator oder einer Zwillings-Hades-Maschinenkanone bewaffnet.",
         "crit": "Ordinatus wird zerstört, und alle Einheiten innerhalb von 5cm erleiden bei 5+ einen Treffer."
       },
       {
@@ -303,7 +303,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -323,7 +323,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -337,18 +337,18 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Kaban-Disruptor||FwA",
+          "Kaban-Störsender||FwA",
           "Kaban-Konversionsstrahler||FwA",
           "Kaban-Schwanzgeschütze"
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Anführer",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "crit": "Kaban Machine wird zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer."
+        "crit": "Kaban-Maschine wird zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer."
       },
       {
         "name": "Geißel",
@@ -366,9 +366,9 @@
         "specialRules": [
           "Furchtlos",
           "Geländegängig",
-          "Infiltratorens",
+          "Infiltratoren",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ]
       },
       {
@@ -384,7 +384,7 @@
         "specialRules": [
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ]
       },
       {
@@ -401,7 +401,7 @@
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
           "Geländegängig",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ]
       },
       {
@@ -418,7 +418,7 @@
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
           "Geländegängig",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ]
       },
       {
@@ -435,9 +435,9 @@
         "specialRules": [
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Infiltratorens",
+          "Infiltratoren",
           "Geländegängig",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ]
       },
       {
@@ -456,7 +456,7 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ]
       },
       {
@@ -476,7 +476,7 @@
           "Aufklärer",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ]
       },
       {
@@ -495,7 +495,7 @@
           "Aufklärer",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ]
       },
       {
@@ -516,7 +516,7 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ]
       },
       {
@@ -539,9 +539,9 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ],
-        "crit": "Knight-Tyrant wird zerstört."
+        "crit": "Der Tyrannenritter wird zerstört."
       },
       {
         "name": "Dreadblade-Ritter",
@@ -571,8 +571,8 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Daemonic Focus",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonischer Fokus",
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ]
       },
 
@@ -592,7 +592,7 @@
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ],
         "crit": "Decimator wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
@@ -609,13 +609,13 @@
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Chaos Undivided)"
+          "Dämonenmaschine (Ungeteiltes Chaos)"
         ],
-        "crit": "Death Wheel wird zerstört."
+        "crit": "Todesrad wird zerstört."
       },
       {
         "name": "Chaos-Schrein",
@@ -630,14 +630,14 @@
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Chaos Undivided)",
+          "Dämonenmaschine (Ungeteiltes Chaos)",
           "Transport"
         ],
         "notes": "Kann 14 Infanterieeinheiten ohne Beritten oder Sprungmodule transportieren. Chaosbruten, Terminatoren und Cybots zählen jeweils als zwei Einheiten.",
-        "crit": "Shrine of Chaos erleidet 1 zusätzlichen Schaden. W3 transportierte Einheiten erleiden einen Treffer."
+        "crit": "Schrein des Chaos erleidet 1 zusätzlichen Schaden. W3 transportierte Einheiten erleiden einen Treffer."
       },
       {
         "name": "Entwürdiger",
@@ -655,9 +655,9 @@
         "specialRules": [
           "Furchtlos",
           "Geländegängig",
-          "Infiltratorens",
+          "Infiltratoren",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Slaanesh)"
+          "Dämonenmaschine (Slaanesh)"
         ]
       },
       {
@@ -676,7 +676,7 @@
           "Aufklärer",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Slaanesh)"
+          "Dämonenmaschine (Slaanesh)"
         ]
       },
       {
@@ -694,7 +694,7 @@
           "Furchtlos",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Slaanesh)"
+          "Dämonenmaschine (Slaanesh)"
         ]
       },
       {
@@ -712,7 +712,7 @@
           "Furchtlos",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Slaanesh)"
+          "Dämonenmaschine (Slaanesh)"
         ]
       },
       {
@@ -728,11 +728,11 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Slaanesh)"
+          "Dämonenmaschine (Slaanesh)"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "Questor erleidet 1 Schaden."
@@ -751,11 +751,11 @@
         ],
         "specialRules": [
           "Schadenskapazität 3",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Slaanesh)"
+          "Dämonenmaschine (Slaanesh)"
         ],
         "notes": "Kann Einheiten und Geländestücke überschreiten, die niedriger als die Knie der Einheit und weniger als 2 cm breit sind.",
         "crit": "Subjugator erleidet 1 Schaden."
@@ -775,9 +775,9 @@
         "specialRules": [
           "Furchtlos",
           "Geländegängig",
-          "Infiltratorens",
+          "Infiltratoren",
           "Regeneration",
-          "Daemon Engine (Nurgle)"
+          "Dämonenmaschine (Nurgle)"
         ]
       },
       {
@@ -795,7 +795,7 @@
           "Furchtlos",
           "Sprungmodule",
           "Regeneration",
-          "Daemon Engine (Nurgle)"
+          "Dämonenmaschine (Nurgle)"
         ]
       },
       {
@@ -812,7 +812,7 @@
         "specialRules": [
           "Furchtlos",
           "Regeneration",
-          "Daemon Engine (Nurgle)"
+          "Dämonenmaschine (Nurgle)"
         ]
       },
       {
@@ -834,7 +834,7 @@
           "Verstärkte Panzerung",
           "Furchtlos",
           "Regeneration",
-          "Daemon Engine (Nurgle)"
+          "Dämonenmaschine (Nurgle)"
         ],
         "crit": "Plague Reaper wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
@@ -857,9 +857,9 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Regeneration",
-          "Daemon Engine (Nurgle)"
+          "Dämonenmaschine (Nurgle)"
         ],
-        "crit": "Knight-Desecrator wird zerstört."
+        "crit": "Der Entweiher-Ritter wird zerstört."
       },
       {
         "name": "Seuchenturm",
@@ -878,11 +878,11 @@
           "Schadenskapazität 4",
           "Furchtlos",
           "Regeneration",
-          "Daemon Engine (Nurgle)",
+          "Dämonenmaschine (Nurgle)",
           "Transport"
         ],
         "notes": "Kann 14 Infanterieeinheiten transportieren. Große Mutanten, Chaosbruten, Terminatoren, Dämonenprinzen, Blight Drones und Chaos-Cybots zählen jeweils als zwei Einheiten.",
-        "crit": "Plague Tower erleidet 1 zusätzlichen Schaden. 1W3 zufällige transportierte Einheiten erleiden einen Treffer."
+        "crit": "Seuchenturm erleidet 1 zusätzlichen Schaden. 1W3 zufällige transportierte Einheiten erleiden einen Treffer."
       },
       {
         "name": "Schlachtbestie",
@@ -899,9 +899,9 @@
         "specialRules": [
           "Furchtlos",
           "Geländegängig",
-          "Infiltratorens",
+          "Infiltratoren",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Khorne)"
+          "Dämonenmaschine (Khorne)"
         ]
       },
       {
@@ -917,7 +917,7 @@
         "specialRules": [
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Khorne)"
+          "Dämonenmaschine (Khorne)"
         ]
       },
       {
@@ -932,9 +932,9 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Infiltratorens",
+          "Infiltratoren",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Khorne)"
+          "Dämonenmaschine (Khorne)"
         ]
       },
       {
@@ -951,7 +951,7 @@
         "specialRules": [
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Khorne)"
+          "Dämonenmaschine (Khorne)"
         ]
       },
       {
@@ -973,9 +973,9 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Khorne)"
+          "Dämonenmaschine (Khorne)"
         ],
-        "crit": "Knight-Rampager wird zerstört."
+        "crit": "Der Rampager-Ritter wird zerstört."
       },
       {
         "name": "Großer Messingskorpion",
@@ -993,10 +993,10 @@
         "specialRules": [
           "Schadenskapazität 3",
           "Furchtlos",
-          "Infiltratorens",
+          "Infiltratoren",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Khorne)"
+          "Dämonenmaschine (Khorne)"
         ],
         "crit": "Greater Brass Scorpion wird zerstört."
       },
@@ -1017,9 +1017,9 @@
           "Verstärkte Panzerung",
           "Furchtlos",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Khorne)"
+          "Dämonenmaschine (Khorne)"
         ],
-        "crit": "Lord of Battles erleidet 1 zusätzlichen Schaden."
+        "crit": "Herr der Schlachten erleidet 1 zusätzlichen Schaden."
       },
       {
         "name": "Schädelturm",
@@ -1038,9 +1038,9 @@
           "Verstärkte Panzerung",
           "Furchtlos",
           "Regeneration",
-          "Daemon Engine (Khorne)"
+          "Dämonenmaschine (Khorne)"
         ],
-        "crit": "Tower of Skulls erleidet 1 zusätzlichen Schaden."
+        "crit": "Turm der Schädel erleidet 1 zusätzlichen Schaden."
       },
       {
         "name": "Täuscher",
@@ -1058,9 +1058,9 @@
         "specialRules": [
           "Furchtlos",
           "Geländegängig",
-          "Infiltratorens",
+          "Infiltratoren",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Tzeentch)"
+          "Dämonenmaschine (Tzeentch)"
         ]
       },
       {
@@ -1078,7 +1078,7 @@
           "Furchtlos",
           "Antigrav",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Tzeentch)"
+          "Dämonenmaschine (Tzeentch)"
         ]
       },
       {
@@ -1100,9 +1100,9 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Tzeentch)"
+          "Dämonenmaschine (Tzeentch)"
         ],
-        "crit": "Knight-Despoiler wird zerstört."
+        "crit": "Der Schänder-Ritter wird zerstört."
       },
       {
         "name": "Spiegelbestie",
@@ -1118,9 +1118,9 @@
         "specialRules": [
           "Schadenskapazität 2",
           "Furchtlos",
-          "Jump Pack",
+          "Sprungmodule",
           "Unmodifizierter Rettungswurf",
-          "Daemon Engine (Tzeentch)"
+          "Dämonenmaschine (Tzeentch)"
         ],
         "crit": "Die Runen, die den gefangenen Dämon binden, zerbrechen und der Mirrorfiend wird zerstört. Alle Modelle innerhalb von 5cm erleiden bei 4+ einen Treffer."
       },
@@ -1141,7 +1141,7 @@
           "Verstärkte Panzerung",
           "Furchtlos",
           "Hilfstransportschiff",
-          "Daemon Engine (Tzeentch)",
+          "Dämonenmaschine (Tzeentch)",
           "Regeneration"
         ],
         "crit": "Warp Palace erleidet 1 zusätzlichen Schaden. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen zusätzlichen MW-Treffer."

@@ -1,18 +1,18 @@
 {
-  "fraction": "Tyranids",
-  "army": "Cult of the Rusted Claw",
+  "fraction": "Tyraniden",
+  "army": "Kult der Rostklaue",
   "version": "1.0.beta-3",
   "release": "2024-05-21",
   "armyforge": "EAR_GenestealerCult_Cult",
-  "intro": "Mit der Armeeliste des Kults der Rostklaue kannst du eine Armee dieses Genestealer-Kults aufstellen. Die Liste stellt eine Armee mit Einheiten aus allen Stadien des Genestealer-Infektionszyklus dar.",
-  "strategy": "Genestealer-Kult-Armeen haben einen Strategiewert von 2.",
-  "Initiative": "Alle Formationen haben einen Initiativewert von 2+ und unterliegen der Sonderregel 'Broodmind'.",
+  "intro": "Mit der Armeeorganisationsplan des Kults der Rostklaue kannst du eine Armee dieses Symbiontenkults aufstellen. Die Liste stellt eine Armee mit Einheiten aus allen Phasen des Infektionszyklus der Symbionten dar.",
+  "strategy": "Symbiontenkult-Armeen haben einen Strategiewert von 2.",
+  "Initiative": "Alle Verbände haben einen Initiativewert von 2+ und unterliegen der Sonderregel 'Brutbewusstsein'.",
   "specialRules": [
-    "Broodcoven",
-    "Broodmind",
-    "Extreme Mobility (Genestealer Cult)",
-    "Genestealer Cult Characters",
-    "Tunnelgräbers"
+    "Brutkult",
+    "Brutbewusstsein",
+    "Extreme Beweglichkeit (Symbiontenkult)",
+    "Charaktere des Symbiontenkults",
+    "Tunnelgräber"
   ],
   "units": [
     {
@@ -34,16 +34,16 @@
         "Ridgerunner",
         "Landtransporter",
         "Ausreiter-Quadbike",
-        "Technical",
+        "Bewaffneter Geländewagen",
         "Konklaven-Limousine",
-        "Goliath Truck",
-        "Goliath Rockgrinder",
+        "Goliath-Truck",
+        "Goliath-Schürfer",
         "Transportlasterkanone",
         "Sturm-Bagger"
       ],
       "unitRules": [
         "Erweiterte Befehlsreichweite",
-        "Honour Guard"
+        "Ehrengarde"
       ]
     },
     {
@@ -61,75 +61,75 @@
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Thunderbolt Fighter"
+        "Donnerkeil-Jäger"
       ],
       "unitRules": []
     }
   ],
   "sections": [
     {
-      "name": "Akolyten-Formationen",
-      "description": "Es muss eine Broodcoven-Formation gewählt werden.",
+      "name": "Akolyten-Verbände",
+      "description": "Es muss eine Brutkult-Verband gewählt werden.",
       "formations": [
         {
-          "name": "1 Broodcoven",
-          "units": "Ein Genestealer Patriarch und acht Metamorph Hybrids",
-          "extraUnits": [
-            "Cult Transports",
+          "name": "1 Brutkult",
+          "units": "Ein Symbiontenpatriarch und acht Metamorph-Hybriden",
+          "extraEinheits": [
+            "Kulttransporter",
             "Symbionten",
-            "Technicals"
+            "Bewaffnete Geländewagen"
           ],
           "points": 275
         },
         {
-          "name": "Acolyte Coven",
-          "units": "Ein Metamorph Hybrids mit Hybrid Iconward, und sieben Acolyte Hybrids",
-          "extraUnits": [
-            "Mineshaft Infiltratorens",
+          "name": "Akolythenkult",
+          "units": "Ein Metamorph-Hybrid mit einem Hybrid-Ikonwart und sieben Akolythenhybriden",
+          "extraEinheits": [
+            "Minenstollen-Infiltratoren",
             "Aberranten",
             "Akolythenhybriden",
-            "Coven Anführer",
-            "Cult Transports",
-            "Heavy Mining Machinery",
-            "Technicals"
+            "Konklaven-Anführer",
+            "Kulttransporter",
+            "Schwere Bergbaumaschinen",
+            "Bewaffnete Geländewagen"
           ],
           "points": 175
         }
       ]
     },
     {
-      "name": "Elite-Formationen",
-      "description": "Bis zu eine Elite-Formation pro Acolyte-Formation.",
+      "name": "Elite-Verbände",
+      "description": "Pro Akolythenformation darf eine Eliteformation gewählt werden.",
       "formations": [
         {
-          "name": "Atalan Jackals",
-          "units": "Ein Hybrid Iconward, zehn Neophyte Outriders",
-          "extraUnits": [
-            "Coven Anführer",
-            "Quadbikes",
-            "Technicals"
+          "name": "Atalan-Schakale",
+          "units": "Ein Hybrid-Ikonwart, zehn Neophyten-Ausreiter",
+          "extraEinheits": [
+            "Konklaven-Anführer",
+            "Ausreiter-Quadbikes",
+            "Bewaffnete Geländewagen"
           ],
           "points": 225
         },
         {
-          "name": "Genestealer Swarm",
-          "units": "Ein Brood Lord, sechs Genestealers",
-          "extraUnits": [
+          "name": "Symbiontenschwarm",
+          "units": "Ein Symbiontenpatriarch, sechs Symbionten",
+          "extraEinheits": [
             "Symbionten"
           ],
           "points": 175
         },
         {
-          "name": "Shock Assault Coven",
-          "units": "Ein Hybrid Iconward, 4 Aberrants, und entweder 4 Goliath Trucks oder 4 Goliath Rock Grinders",
-          "extraUnits": [
-            "Coven Anführer",
-            "Technicals"
+          "name": "Sturmangriffs-Konklave",
+          "units": "Ein Hybrid-Ikonwart, vier Aberranten und entweder vier Goliath-Trucks oder vier Goliath-Schürfer",
+          "extraEinheits": [
+            "Konklaven-Anführer",
+            "Bewaffnete Geländewagen"
           ],
           "points": 275
       },
       {
-        "name": "Ridgerunners",
+        "name": "Ridgerunner-Staffel",
         "units": "Sechs Ridgerunner",
         "points": 200
       }
@@ -137,107 +137,107 @@
     },
     {
       "name": "Unterstützungsformationen",
-      "description": "Bis zu eine Unterstützungsformation pro Acolyte-Formation.",
+      "description": "Bis zu eine Unterstützungsformation pro Akolythenformation.",
       "formations": [
         {
-          "name": "Mechanized Neophyte Platoon",
-          "units": "Ein Hybrid Iconward, sechs Neophytes und drei Chimeras",
-          "extraUnits": [
-            "Coven Anführer",
+          "name": "Mechanisierter Neophytenzug",
+          "units": "Ein Hybrid-Ikonwart, sechs Neophyten und drei Chimären",
+          "extraEinheits": [
+            "Konklaven-Anführer",
             "Flak",
-            "Hellhounds"
+            "Höllenhunde"
           ],
           "points": 200
         },
         {
-          "name": "Neophyte Company",
-          "units": "Ein Hybrid Iconward, dreizehn Neophytes",
-          "extraUnits": [
-            "Coven Anführer",
-            "Support Weapons"
+          "name": "Neophytenkompanie",
+          "units": "Ein Hybrid-Ikonwart, dreizehn Neophyten",
+          "extraEinheits": [
+            "Konklaven-Anführer",
+            "Unterstützungswaffen"
           ],
           "points": 250
         },
         {
-          "name": "Sentinel Squadron",
+          "name": "Sentinel-Staffel",
           "units": "Vier Sentinels",
-          "extraUnits": [],
+          "extraEinheits": [],
           "points": 100
         },
         {
-          "name": "Flak Battery",
+          "name": "Flakbatterie",
           "units": "Drei Hydras",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 150
         },
         {
-          "name": "Artillery Battery",
-          "units": "Drei Basilisks",
-          "extraUnits": [
+          "name": "Artilleriebatterie",
+          "units": "Drei Basilisken",
+          "extraEinheits": [
           ],
           "points": 225
         },
         {
-          "name": "Leman Russ Squadron",
-          "units": "Vier Leman Russ",
-          "extraUnits": [
+          "name": "Leman-Russ-Staffel",
+          "units": "Vier Leman-Russ-Kampfpanzer",
+          "extraEinheits": [
           ],
           "points": 275
         },
         {
-          "name": "Thunderbolts",
-          "units": "Zwei Thunderbolts",
-          "extraUnits": [],
+          "name": "Donnerkeil-Jäger",
+          "units": "Zwei Donnerkeil-Jäger",
+          "extraEinheits": [],
           "points": 175
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Upgrades",
+    "title": "Aufwertungen",
     "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "Mineshaft Infiltratorens",
-        "description": "Alle Einheiten im Verband erhalten die Sonderregel 'Tunneling', dürfen aber nur die Aufwertungen 'Acolytes', 'Aberrants' und 'Coven Anführer' haben",
+        "name": "Minenstollen-Infiltratoren",
+        "description": "Alle Einheiten im Verband erhalten die Sonderregel „Tunnelgräber“, dürfen aber nur die Aufwertungen „Akolythen“, „Aberranten“ und „Konklaven-Anführer“ haben.",
         "points": "kostenlos"
       },
       {
         "name": "Aberranten",
-        "description": "Ersetze bis zu two Acolyte Hybrids durch Aberrants",
+        "description": "Ersetze bis zu zwei Akolythenhybriden durch Aberranten.",
         "points": "15 Punkte pro Stück"
       },
       {
         "name": "Akolythenhybriden",
-        "description": "Füge bis zu vier Acolyte Hybrids hinzu",
+        "description": "Füge bis zu vier Akolythenhybriden hinzu.",
         "points": "15 Punkte pro Stück"
       },
       {
-        "name": "Acolyte Transports",
-        "description": "Füge dem Verband Land Transporters, Coven Limousines, Goliath Trucks oder Goliath Rockgrinders hinzu, bis zur erforderlichen Anzahl, um alle Infanterieeinheiten im Verband zu transportieren",
+        "name": "Akolythen-Transporter",
+        "description": "Füge dem Verband so viele Kultisten-Landtransporter, Konklaven-Limousinen, Goliath-Trucks oder Goliath-Schürfer hinzu, wie erforderlich sind, um alle Infanterieeinheiten zu transportieren.",
         "options": [
           {
-            "description": "Land Transporter (Acolyte Coven only)",
+            "description": "Kultisten-Landtransporter (nur Akolythenkult)",
             "points": "10 Punkte pro Stück"
           },
           {
-            "description": "Coven Limousine (Broodcoven only)",
+            "description": "Konklaven-Limousine (nur Brutkult)",
             "points": "15 Punkte pro Stück"
           },
           {
-            "description": "Goliath Truck",
+            "description": "Goliath-Truck",
             "points": "25 Punkte pro Stück"
           },
           {
-            "description": "Goliath Rockgrinder",
+            "description": "Goliath-Schürfer",
             "points": "25 Punkte pro Stück"
           }
         ]
       },
       {
-        "name": "Coven Anführer",
-        "description": "Ersetze a Hybrid Iconward durch einen Genestealer Primus oder Genestealer Magus.",
+        "name": "Konklaven-Anführer",
+        "description": "Ersetze einen Hybrid-Ikonwart durch einen Symbiontenprimus oder Symbiontenmagus.",
         "options": [
           {
             "description": "Symbiontenprimus",
@@ -250,14 +250,14 @@
         ]
       },
       {
-        "name": "Support Weapons",
+        "name": "Unterstützungswaffen",
         "options": [
           {
-            "description": "Füge zwei Neophyte Fire Support units hinzu",
+            "description": "Füge zwei Neophyten-Feuerunterstützungseinheiten hinzu.",
             "points": "50 Punkte"
           },
           {
-            "description": "Füge drei Cult Heavy Mortar Support units hinzu",
+            "description": "Füge drei Kult-Schwerer-Mörser-Unterstützungseinheiten hinzu.",
             "points": "75 Punkte"
           }
         ]
@@ -269,17 +269,17 @@
       },
       {
         "name": "Symbionten",
-        "description": "Füge bis zu drei Genestealers hinzu",
+        "description": "Füge bis zu drei Symbionten hinzu.",
         "points": "25 Punkte pro Stück"
       },
       {
-        "name": "Hellhounds",
-        "description": "Füge bis zu zwei Hellhounds hinzu",
+        "name": "Höllenhunde",
+        "description": "Füge bis zu zwei Höllenhunde hinzu.",
         "points": "25 Punkte pro Stück"
       },
       {
-        "name": "Heavy Mining Machinery",
-        "description": "Füge 1 aus folgender Auswahl War Engines zur Formation hinzu",
+        "name": "Schwere Bergbaumaschinen",
+        "description": "Füge eine Kriegsmaschine aus folgender Auswahl zum Verband hinzu.",
         "options": [
           {
             "description": "Sturm-Bagger",
@@ -293,12 +293,12 @@
       },
       {
         "name": "Quadbikes",
-        "description": "Ersetze bis zu five Neophyte Outriders durch Outrider Quadbikes",
+        "description": "Ersetze bis zu fünf Neophyten-Ausreiter durch Ausreiter-Quadbikes.",
         "points": "kostenlos"
       },
       {
-        "name": "Technicals",
-        "description": "Füge bis zu zwei Technicals hinzu",
+        "name": "Bewaffnete Geländewagen",
+        "description": "Füge bis zu zwei Bewaffnete Geländewagen hinzu",
         "points": "20 Punkte pro Stück"
       }
     ]

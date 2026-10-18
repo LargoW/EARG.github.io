@@ -4,15 +4,15 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_ImperialFists",
-  "intro": "Diese Armeeliste ermöglicht es dir, eine Armee des Space-Marine-Ordens Imperial Fists oder eines seiner Nachfolgeorden aufzustellen. Die Imperial Fists sind auf Belagerungskriegsführung spezialisiert.",
+  "intro": "Dieser Armeeorganisationsplan ermöglicht es dir, eine Armee des Space-Marine-Ordens Imperial Fists oder eines seiner Nachfolgeorden aufzustellen. Die Imperial Fists sind auf Belagerungskriegsführung spezialisiert.",
   "strategy": "Space Marine-Armeen haben einen Strategiewert von 5.",
-  "Initiative": "Tarantula- und Hyperios-Emplacement-Verbände haben einen Initiativwert von 2+. Alle übrigen Verbände haben einen Initiativwert von 1+.",
-  "armyRules": "Die Sonderregel <i>They Shall Know No Fear</i> gilt für alle non-'Maschinengeist' Imperial Fists-Kontingente.",
+  "Initiative": "Tarantula- und Hyperios-Flakstellungsverbände haben einen Initiativwert von 2+. Alle übrigen Verbände haben einen Initiativwert von 1+.",
+  "armyRules": "Die Sonderregel <i>Sie kennen keine Furcht</i> gilt für alle Kontingente der Imperial Fists, die keinen Maschinengeist besitzen.",
   "specialRules": [
-    "Imperial Fists Transports",
-    "They Shall Know No Fear",
-    "Siege Specialists",
-    "Fortified Positions"
+    "Imperial-Fists-Transporter",
+    "Sie kennen keine Furcht",
+    "Belagerungsspezialisten",
+    "Befestigte Stellungen"
   ],
   "units": [
     {
@@ -25,7 +25,7 @@
         "Sturm-Centurions",
         "Devastor-Centurions",
         "Devastor-Trupps",
-        "Scouts",
+        "Aufklärer",
         "Space-Marine-Rapier",
         "Space-Marine-Thunderfire",
         "Taktische Trupps",
@@ -50,7 +50,7 @@
         "Vindicator",
         "Bastion",
         "Fellblade",
-        "Storm Talon"
+        "Sturmtalon"
       ],
       "unitRules": [
       ]
@@ -68,10 +68,10 @@
     {
       "from": "ImperialAllies.json",
       "units": [
-          "Reaver Titan, Goth Class"
+          "Reaver-Titan, Goth-Klasse"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Null-Schilde"
       ]
     }
   ],
@@ -81,38 +81,38 @@
       "formations": [
         {
           "name": "Devastor-Trupps",
-          "units": "Vier Devastators plus Transporter",
-          "extraUnits": [
+          "units": "Vier Devastor-Trupps plus Transporter",
+          "extraEinheits": [
             "Achilles",
-            "Anti-Air",
+            "Flugabwehr",
             "Befehlshaber",
             "Land Raider Transport",
             "Razorbacks",
-            "Siege Equipment",
+            "Belagerungsausrüstung",
             "Vindicators",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 225
         },
         {
           "name": "Vindicators",
           "units": "Vier Vindicators",
-          "extraUnits": [
-            "Anti-Air",
+          "extraEinheits": [
+            "Flugabwehr",
             "Vindicators"
           ],
           "points": 225
       },
         {
           "name": "Taktische Trupps",
-          "units": "Sechs Tacticals plus Transporter",
-          "extraUnits": [
+          "units": "Sechs Taktische Trupps plus Transporter",
+          "extraEinheits": [
             "Achilles",
-            "Anti-Air",
+            "Flugabwehr",
             "Befehlshaber",
             "Land Raider Transport",
             "Razorbacks",
-            "Siege Equipment",
+            "Belagerungsausrüstung",
             "Vindicators"
           ],
           "points": 275
@@ -126,10 +126,10 @@
           {
             "name": "Land Raiders",
             "units": "Drei Land Raiders",
-            "extraUnits": [
+            "extraEinheits": [
               "Füge 1 Land Raider hinzu: 50 Punkte",
               "Achilles",
-              "Anti-Air",
+              "Flugabwehr",
               "Vindicators"
             ],
             "points": 275
@@ -138,34 +138,34 @@
         {
           "name": "Predators",
           "units": "Vier Predator Destructors und/oder Predator Annihilators",
-          "extraUnits": [
-            "Anti-Air"
+          "extraEinheits": [
+            "Flugabwehr"
           ],
           "points": 250
         },
         {
           "name": "Land Speeders",
           "units": "Beliebige fünf der folgenden Einheiten: Land Speeder, Land Speeder Tornado",
-          "extraUnits": [
+          "extraEinheits": [
             "Typhoons"
           ],
           "points": 200
         },
         {
-          "name": "Scouts",
-          "units": "Vier Scouts plus Transporter",
-          "extraUnits": [
+          "name": "Aufklärer",
+          "units": "Vier Aufklärer plus Transporter",
+          "extraEinheits": [
             "Darf Siege Rhinos statt normaler Rhinos erhalten: 25 Punkte",
             "Razorbacks",
-            "Scharfschützes",
+            "Scharfschützen",
             "Vindicators"
           ],
           "points": 150
         },
         {
           "name": "Terminatoren",
-          "units": "Vier Terminators",
-          "extraUnits": [
+          "units": "Vier Terminatoren",
+          "extraEinheits": [
             "Achilles",
             "Befehlshaber",
             "Land Raider Transport",
@@ -175,8 +175,8 @@
         },
         {
           "name": "Centurions",
-          "units": "Vier Assault und/oder Devastator Centurions",
-          "extraUnits": [
+          "units": "Vier Sturm- und/oder Devastor-Centurions",
+          "extraEinheits": [
             "Achilles",
             "Land Raider Transport",
             "Vindicators"
@@ -187,16 +187,16 @@
         {
           "name": "Whirlwinds",
           "units": "Vier Whirlwinds",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge 2 Whirlwinds hinzu: 75 Punkte",
-            "Anti-Air"
+            "Flugabwehr"
           ],
           "points": 275
         },
         {
           "name": "0–1 Fellblade Relics",
           "units": "Ein Fellblade",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge 1 Fellblade hinzu: 300 Punkte"
           ],
           "points": 300
@@ -204,13 +204,13 @@
       ]
     },
     {
-      "name": "Imperial Fists Statische Verteidigungsanlagen, Flotte & Titan Legion Verbündete",
+      "name": "Statische Verteidigungsanlagen, Flotten- und Titanenlegionsverbündete der Imperial Fists",
       "description": "Bis zu einem Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden. Pro Aufklärungskontingent darf höchstens ein Tarantula- oder Hyperios-Verband aufgestellt werden.",
       "formations": [
         {
           "name": "Bastion",
           "units": "Ein Bastion",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 300
         },
@@ -230,13 +230,13 @@
           "points": 150
         },
         {
-          "name": "Storm Talons",
-          "units": "Zwei Storm Talons",
+          "name": "Sturmtalons",
+          "units": "Zwei Sturmtalons",
           "points": 200
         },
         {
           "name": "Reaver",
-          "units": "Ein Reaver Titan (Goth Class)",
+          "units": "Ein Reaver-Titan der Goth-Klasse",
           "points": 600
         }
       ]
@@ -247,7 +247,7 @@
     "description": "Jede Aufwertung darf pro Kontingent nur einmal gewählt werden.",
     "items": [
       {
-        "name": "Anti-Air",
+        "name": "Flugabwehr",
         "description": "Füge eine beliebige der folgenden Einheiten zum Verband hinzu",
         "options": [
           {
@@ -265,7 +265,7 @@
         "description": "Füge einen beliebigen der folgenden Charaktere einer Einheit im Verband hinzu",
         "options": [
           {
-            "description": "Captain, Librarian",
+            "description": "Captain, Scriptor",
             "points": "25 Punkte"
           },
           {
@@ -283,8 +283,8 @@
         ]
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge 2 beliebige der folgenden Einheiten hinzu: Dreadnought, Hellfire Dreadnought, Siege Dreadnought.",
+        "name": "Cybots",
+        "description": "Füge 2 beliebige der folgenden Einheiten hinzu: Cybot, Hellfire Cybot, Siege Cybot.",
         "points": [
           "50 Punkte pro Stück"
         ]
@@ -300,13 +300,13 @@
         "points": "25 Punkte pro Stück"
       },
       {
-        "name": "Scharfschützes",
-        "description": "Gib allen Scouts im Verband die Sonderregel „Scharfschütze“ für ihre Heavy Bolters.",
+        "name": "Scharfschützen",
+        "description": "Gib allen Aufklärer im Verband die Sonderregel „Scharfschütze“ für ihre Heavy Bolters.",
         "points": "25 Punkte"
       },
       {
-        "name": "Siege Equipment",
-        "description": "Der Verband darf statt normaler Rhinos Siege Rhinos einsetzen oder „plus transport“ durch Space Marine Rapiers oder Space Marine Thunderfires ersetzen.",
+        "name": "Belagerungsausrüstung",
+        "description": "Der Verband darf statt normaler Rhinos Belagerungs-Rhinos einsetzen oder die Option „plus Transporter“ durch Space-Marine-Rapiers oder Space-Marine-Thunderfires ersetzen.",
         "points": [
           "25 Punkte für Siege Rhinos",
           "25 Punkte für zwei Rapiers oder zwei Thunderfires",

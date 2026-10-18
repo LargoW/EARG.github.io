@@ -8,7 +8,7 @@
         "name": "Korsaren-Felarch",
         "type": "CH",
         "weapons": [
-          "Eldar Energiewaffe"
+          "Eldar-Energiewaffe"
         ],
         "specialRules": [
           "Befehlshaber",
@@ -36,8 +36,8 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Shuriken-Pistolen",
-          "Eldar Energiewaffe"
+          "Shurikenpistolen",
+          "Eldar-Energiewaffe"
         ],
         "specialRules": ["Sprungmodule"]
       },
@@ -49,7 +49,7 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Ghost Walker Langgewehre"
+          "Geisterläufer-Ranger-Jagdgewehr"
         ],
         "specialRules": ["Sprungmodule", "Aufklärer"]
       },
@@ -77,18 +77,18 @@
         "ff": 5,
         "weapons": [
           "Splitterkanone",
-          "Zwillings-Splinter Gewehr"
+          "Zwillings-Splittergewehr"
         ],
         "specialRules": [
           "Antigrav",
           "Transport"
         ],
-        "notes": "Kann eine Einheit Corsair Warriors, Corsair Veterans oder Ghost Walkers transportieren."
+        "notes": "Kann eine Einheit Korsarenkrieger, Korsarenveteranen oder Geisterläufer transportieren."
       },
       {
         "name": "Korsaren-Nachtschwinge-Abfangjäger",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 5,
         "weapons": [
           "Höllenfeuerkanone",
@@ -99,15 +99,15 @@
         ]
       },
       {
-        "name": "Korsaren-Vampire-Raider",
+        "name": "Korsaren-Vampire-Schattenbarke",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
           "AC Impulslaser|2|",
-          "AC Streulaser"
+          "AC Impulslaser"
         ],
         "specialRules": [
           "Schadenskapazität: 2",
@@ -115,8 +115,8 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Kann bis zu acht der folgenden Einheiten transportieren: Corsair Warriors, Corsair Veterans, Ghost Walker oder Corsair Wasp Walker. Corsair Wasp Walker belegen jeweils zwei Plätze.",
-        "crit": "Vampire Raider und alle Einheiten an Bord werden zerstört."
+        "notes": "Kann bis zu acht der folgenden Einheiten transportieren: Korsarenkrieger, Korsarenveteranen, Geisterläufer oder Korsaren-Wespen. Korsaren-Wespen belegen jeweils zwei Plätze.",
+        "crit": "Vampire Schattenbarke und alle Einheiten an Bord werden zerstört."
       }
     ]
   }

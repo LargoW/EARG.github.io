@@ -63,7 +63,7 @@
           "Klaives"
         ],
         "specialRules": [
-            "Infiltratorens"
+            "Infiltratoren"
         ]
       },
       {
@@ -77,7 +77,7 @@
           "Splitterkanone"
         ],
         "specialRules": [
-            "Wind-Swift"
+            "Windflink"
         ]
       },
       {
@@ -92,7 +92,7 @@
           "Mandrake Klingen"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Aufklärer"
         ]
       },
@@ -109,8 +109,8 @@
         ],
         "specialRules": [
           "Sprungmodule",
-          "Teleport",
-          "Wind-Swift"
+          "Teleportieren",
+          "Windflink"
         ]
       },
       {
@@ -149,7 +149,7 @@
         "armour": 4,
         "cc": 4,
         "weapons": [
-          "Grotesques Klingen"
+          "Grotesquen Klingen"
         ],
         "specialRules": [
           "Furchtlos",
@@ -202,7 +202,7 @@
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
@@ -231,7 +231,7 @@
         ],
         "specialRules": [
           "Sprungmodule",
-          "Scouts"
+          "Aufklärer"
         ]
       },
       {
@@ -259,14 +259,14 @@
         "ff": 5,
         "weapons": [
           "Splitterkanone",
-          "Zwillings-Splinter Gewehr"
+          "Zwillings-Splittergewehr"
         ],
         "specialRules": [
           "Antigrav",
           "Transport",
-          "Wind-Swift"
+          "Windflink"
         ],
-        "notes": "Kann eine Einheit Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren."
+        "notes": "Kann eine Einheit Krieger, Inkubi, Haemonculi, Folterer oder Hagashîn transportieren."
       },
       {
         "name": "Schattenbarke",
@@ -281,9 +281,9 @@
         "specialRules": [
           "Antigrav",
           "Transport",
-          "Wind-Swift"
+          "Windflink"
         ],
-        "notes": "Kann zwei Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren."
+        "notes": "Kann zwei Einheiten Krieger, Inkubi, Haemonculi, Folterer oder Hagashîn transportieren."
       },
       {
         "name": "Schattenjäger",
@@ -298,7 +298,7 @@
         ],
         "specialRules": [
           "Antigrav",
-          "Wind-Swift"
+          "Windflink"
         ]
       },
       {
@@ -313,7 +313,7 @@
         ],
         "specialRules": [
           "Antigrav",
-          "Wind-Swift"
+          "Windflink"
         ]
       },
       {
@@ -328,10 +328,10 @@
         ],
         "specialRules": [
           "Antigrav",
-          "Wind-Swift",
+          "Windflink",
           "Transport"
         ],
-        "notes": "Kann zwei Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren. Grotesken zählen jeweils als zwei Einheiten."
+        "notes": "Kann zwei Einheiten Krieger, Inkubi, Haemonculi, Folterer oder Hagashîn transportieren. Grotesken zählen jeweils als zwei Einheiten."
       },
       {
         "name": "Vergnügungsbarke",
@@ -350,9 +350,9 @@
             "Schattenfelder2",
             "Antigrav",
             "Transport",
-            "Wind-Swift"
+            "Windflink"
         ],
-        "notes": "Kann sechs Einheiten Warriors, Incubi, Haemonculi, Wracks oder Wyches transportieren. Grotesken zählen jeweils als zwei Einheiten. Darf nur Einheiten aus dem eigenen Verband transportieren.",
+        "notes": "Kann sechs Einheiten Krieger, Inkubi, Haemonculi, Folterer oder Hagashîn transportieren. Grotesken zählen jeweils als zwei Einheiten. Darf nur Einheiten aus dem eigenen Verband transportieren.",
         "crit": "Barge erleidet 1 zusätzlichen Schaden. 1W3 zufällige transportierte Einheiten erleiden einen Treffer."
       },
       {
@@ -371,9 +371,9 @@
           "Schadenskapazität 3",
           "Schattenfelder2",
             "Antigrav",
-            "Wind-Swift"
+            "Windflink"
         ],
-        "crit": "Vessel of Pain wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
+        "crit": "Schmerzschiff wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 6+ einen Treffer."
       },
       {
         "name": "Peiniger-Titan",
@@ -394,7 +394,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "crit": "Tormentor Titan erleidet 1 zusätzlichen Schaden und verliert alle verbleibenden Shadowfields."
+        "crit": "Peiniger-Titan erleidet 1 zusätzlichen Schaden und verliert alle verbleibenden Schattenfelder."
       },
       {
         "name": "Henker-Landungsmodul",
@@ -416,8 +416,8 @@
           "Furchtlos",
           "Transport"
         ],
-        "notes": "Kann bis zu zehn Infanterieeinheiten transportieren. Grotesken zählen jeweils als zwei Einheiten. Zusätzlich kann es bis zu fünf leichte oder gepanzerte Fahrzeuge oder ein Vessel of Pain oder eine Barge of Pleasure transportieren.",
-        "crit": "Executioner erleidet 1 zusätzlichen Schaden. W3 zufällige transportierte Einheiten erleiden einen Treffer."
+        "notes": "Kann bis zu zehn Infanterieeinheiten transportieren. Grotesken zählen jeweils als zwei Einheiten. Zusätzlich kann es bis zu fünf leichte oder gepanzerte Fahrzeuge oder ein Schmerzschiff oder eine Lustbarke transportieren.",
+        "crit": "Das Henker-Landungsmodul erleidet 1 zusätzlichen Schaden. W3 zufällige transportierte Einheiten erleiden einen Treffer."
       }
     ]
   }

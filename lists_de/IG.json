@@ -93,7 +93,7 @@
           "Energiewaffe"
         ],
         "specialRules": [
-          "Grav-Chutes",
+          "Gravfallschirme",
           "Oberbefehlshaber"
         ]
       },
@@ -136,7 +136,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Grav-Chutes",
+          "Gravfallschirme",
           "Befehlshaber"
         ]
       },
@@ -374,7 +374,7 @@
           "Lasergewehre"
         ],
         "specialRules": [
-          "Grav-Chutes"
+          "Gravfallschirme"
         ]
       },
       {
@@ -435,7 +435,7 @@
         "ff": 5,
         "weapons": [
           "Ripper-Geschütze",
-          "Ogryn Waffen"
+          "Ogryn-Waffen"
         ],
         "specialRules": [
         ],
@@ -453,7 +453,7 @@
           "Jagdlanzen"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Beritten",
           "Geländegängig"
         ]
@@ -470,7 +470,7 @@
           "Jagdlanzen"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Beritten",
           "Geländegängig",
           "Aufklärer"
@@ -483,7 +483,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Scharfschütze Gewehre"
+          "Scharfschützengewehre"
         ],
         "specialRules": [
           "Aufklärer"
@@ -517,7 +517,7 @@
         ],
         "specialRules": [
           "Aufklärer",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -560,7 +560,7 @@
           "Melterbomben"
         ],
         "specialRules": [
-          "Geländegängig (also works against enemy fortifications)"
+          "Geländegängig (wirkt auch gegen feindliche Befestigungsanlagen)"
         ]
       },
       {
@@ -588,7 +588,7 @@
           "Plasmageschütze"
         ],
         "specialRules": [
-          "Grav-Chutes",
+          "Gravfallschirme",
           "Aufklärer"
         ]
       },
@@ -628,7 +628,7 @@
           "Raketenwerfer|2"
         ],
         "specialRules": [
-          "Grav-Chutes"
+          "Gravfallschirme"
         ]
       },
       {
@@ -735,7 +735,7 @@
           "Multimelter"
         ],
         "specialRules": [
-          "Grav-Chutes",
+          "Gravfallschirme",
           "Geländegängig"
         ]
       },
@@ -956,7 +956,7 @@
           "Schwerer Maschinengewehr"
         ],
         "specialRules": [
-          "Transport: One Infantry unit, and one Rapier oder Thudd Gun"
+          "Transportkapazität: eine Infanterieeinheit und ein Rapier- oder Thudd-Geschütz"
         ]
       },
       {
@@ -970,7 +970,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Transport: One Earthshaker Gun oder Heavy AA Gun"
+          "Transport: eine Erdbebenkanone oder eine Schwere Flugabwehrkanone"
         ]
       },
       {
@@ -1038,7 +1038,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Earthshaker Kanone",
+          "Erdbebenkanone",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1073,14 +1073,14 @@
         ]
       },
       {
-        "name": "Erderschüttererkanone",
+        "name": "Erdbebenkanone",
         "type": "LV",
         "speed": 5,
         "armour": 6,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Earthshaker Kanone"
+          "Erdbebenkanone"
         ],
         "specialRules": [
         ]
@@ -1238,7 +1238,7 @@
         ]
       },
       {
-        "name": "Leman Russ Executioner",
+        "name": "Leman-Russ-Henker",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -1284,7 +1284,7 @@
         ]
       },
       {
-        "name": "Leman Russ Demolisher",
+        "name": "Leman-Russ-Belagerungspanzer",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -1300,7 +1300,7 @@
         ]
       },
       {
-        "name": "Leman Russ Destroyer",
+        "name": "Leman-Russ-Zerstörer",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -1362,7 +1362,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "Kann zwei Infanterieeinheiten oder einen Drop Sentinel transportieren. Ogryns können nicht transportiert werden."
+        "notes": "Kann zwei Infanterieeinheiten oder einen Abwurf-Sentinel transportieren. Ogryns können nicht transportiert werden."
       },
       {
         "name": "Sky Talon",
@@ -1378,7 +1378,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "Kann ein leichtes Fahrzeug (LV) oder zwei Drop Sentinels transportieren."
+        "notes": "Kann ein leichtes Fahrzeug (LV) oder zwei Abwurf-Sentinels transportieren."
       },
       {
         "name": "Vulture",
@@ -1412,7 +1412,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "Kann zwei Infanterieeinheiten oder einen Drop Sentinel transportieren. Ogryns können nicht transportiert werden."
+        "notes": "Kann zwei Infanterieeinheiten oder einen Abwurf-Sentinel transportieren. Ogryns können nicht transportiert werden."
       },
       {
         "name": "Malcador",
@@ -1500,7 +1500,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Zwillings-Earthshaker Kanone"
+          "Zwillings-Erdbebenkanone"
         ],
         "specialRules": [
         ],

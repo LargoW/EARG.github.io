@@ -7,13 +7,13 @@
   "strategy": "Chaos Space Marine-Armeen haben einen Strategiewert von 4.",
   "Initiative": "Death-Guard-Kern-, Elite- und Traitor-Titan-Verbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Death Guard Summoning Rules",
-    "Fickle Masters",
-    "Death Guard Characters"
+    "Beschwörung",
+    "Beschwörungsregeln der Death Guard",
+    "Launische Meister",
+    "Charaktere der Death Guard"
   ],
   "intro": [
-    "Diese Armeeliste ermöglicht es dir, eine Armee der Verräterlegion Death Guard aufzustellen. Die Death Guard ist eine langsam vorrückende Streitmacht aus unerbittlicher Infanterie, unterstützt von mächtigen Dämonenmaschinen, die ihre Feinde mit Giftwaffen vernichten."
+    "Dieser Armeeorganisationsplan ermöglicht es dir, eine Armee der Verräterlegion Death Guard aufzustellen. Die Death Guard ist eine langsam vorrückende Streitmacht aus unerbittlicher Infanterie, unterstützt von mächtigen Dämonenmaschinen, die ihre Feinde mit Giftwaffen vernichten."
   ],
   "units": [
     {
@@ -30,24 +30,24 @@
         "Seuchenfürsten-Terminatoren",
         "Seuchenmarines",
         "Death-Guard-Rhino",
-        "Death-Guard-Land-Raider",
+        "Death-Guard-Land-Schattenbarke",
         "Death-Guard-Vindicator",
         "Chaos-Cybot",
         "Death-Guard-Jäger"
       ],
       "unitRules": [
-      "Augment Summoning (+x)",
-      "Daemonic Focus",
-        "Heavy Armoured Vehicle (H-AV)"
+      "Verstärkte Beschwörung (+x)",
+      "Dämonischer Fokus",
+        "Schweres gepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
       "from": "chaoscultists.json",
       "units": [
-        "Pox Walkers of Nurgle"
+        "Seuchenwandler des Nurgle"
       ],
       "unitRules": [
-        "Infestation"
+        "Befall"
       ]
     },
     {
@@ -61,16 +61,16 @@
       ],
       "unitRules": [
         "Regeneration",
-        "Daemon Engine (x)"
+        "Dämonenmaschine (x)"
       ]
     },
     {
       "from": "daemons.json",
       "units": [
-        "Plaguebearers of Nurgle",
-        "Beasts of Nurgle",
-        "Plague Drones of Nurgle",
-        "Great Unclean One"
+        "Seuchenhüter des Nurgle",
+        "Seuchenbestien des Nurgle",
+        "Seuchendrohnen des Nurgle",
+        "Großer Verpester"
       ],
       "unitRules": [
       ]
@@ -82,14 +82,14 @@
         "Abscheulicher Titan"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Null-Schilde"
       ]
     },
     {
       "from": "chaosnavy.json",
       "units": [
-        "Heldrake",
-        "Harbringer Bomber",
+        "Höllendrache",
+        "Harbringer-Bomber (B)",
         "Plagueship"
       ],
       "unitRules": [
@@ -101,30 +101,30 @@
       "name": "Death Guard Kernverbände",
       "formations": [
         {
-          "name": "Death Guard Retinue",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Plague Marines, drei Chaos Space Marines, Daemonic Pact",
-          "extraUnits": [
+          "name": "Gefolge der Death Guard",
+          "units": "Ein Chaos-Lord oder Sorcerer Lord, vier Seuchenmarines, drei Chaos Space Marines, Dämonenpakt",
+          "extraEinheits": [
             "Oberbefehlshaber",
-            "Retinue Transport",
+            "Gefolge Transport",
             "Champion",
             "Stalker",
-            "Icon Bearer",
+            "Ikonenträger",
             "Vindicators",
             "Havocs",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 325
         },
         {
-          "name": "Death Guard Terminators",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Blightlord Terminators, Daemonic Pact",
-          "extraUnits": [
+          "name": "Terminatoren der Death Guard",
+          "units": "Ein Chaos-Lord oder Sorcerer Lord, vier Blightlord Terminatoren, Dämonenpakt",
+          "extraEinheits": [
             "Oberbefehlshaber",
             "Terminator Transport",
             "Champion",
-            "Icon Bearer",
+            "Ikonenträger",
             "Vindicators",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 400
         }
@@ -136,20 +136,20 @@
       "formations": [
         {
           "name": "Havocs",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, Daemonic Pact",
-          "extraUnits": [
+          "units": "Ein Chaos-Lord oder Sorcerer Lord, vier Havocs, Dämonenpakt",
+          "extraEinheits": [
             "Havoc Transport",
-            "Dreadnoughts",
+            "Cybots",
             "Vindicators",
-            "Icon Bearer",
+            "Ikonenträger",
             "Stalker"
           ],
           "points": 225
         },
         {
-          "name": "Armoured Company",
+          "name": "Panzerkompanie",
           "units": "Fünf Death Guard Vindicators",
-          "extraUnits": [
+          "extraEinheits": [
             "Ersetze 5 Death Guard Vindicators durch 4 Death Guard Land Raiders: 25 Punkte",
             "Füge 2 Death Guard Vindicators hinzu: 80 Punkte",
             "Stalker"
@@ -163,35 +163,35 @@
       "description": "Pro Kernverband dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
-          "name": "Pox Walker Infestation",
-          "units": "Sieben Pox Walkers",
+          "name": "Pox Geländegängig Befall",
+          "units": "Sieben Seuchenwandler",
           "points": 125
         },
         {
-          "name": "Plague Reaper",
+          "name": "Seuchenschnitter",
           "units": "Ein Plague Reaper",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 200
         },
         {
-          "name": "Nurgle Defiler Pack",
+          "name": "Nurgle-Geißel-Meute",
           "units": "Vier Desecrators",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 250
         },
         {
           "name": "Blight Drones",
           "units": "Sieben Blight Drones",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 250
         },
         {
           "name": "Contagion Engines",
           "units": "Vier Contagion Engines",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 325
         }
@@ -202,27 +202,27 @@
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden",
       "formations": [
         {
-          "name": "Plaguehound",
+          "name": "Seuchenhund",
           "units": "Ein Plaguehound Titan",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 275
         },
         {
           "name": "Repugnant",
           "units": "Ein Repugnant Titan",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 600
         },
         {
-          "name": "Heldrakes",
-          "units": "Zwei Heldrakes",
+          "name": "Höllendrachen",
+          "units": "Zwei Höllendrachen",
           "points": 225
         },
         {
           "name": "Harbringer",
-          "units": "Ein Harbringer Bomber",
+          "units": "Ein Harbringer-Bomber (B)",
           "points": 300
         },
         {
@@ -237,12 +237,12 @@
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
-          "name": "Lesser Daemon Pool",
-          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool",
+          "name": "Pool niederer Dämonen",
+          "units": "Beliebig viele Punkte aus dem Pool niederer Dämonen",
           "points": 20
         },
         {
-          "name": "Greater Daemon Pool",
+          "name": "Pool Großer Dämonen",
           "units": "Beliebig viele Punkte aus dem Greater-Daemon-Pool. Der erste ist kostenlos.",
           "points": 50
         }
@@ -258,17 +258,17 @@
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Ersetze den Chaos Lord durch einen Warlord",
+            "description": "Ersetze den Chaos-Lord durch einen Klanlord",
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze den Chaos Lord und seine Einheit durch einen Daemon Prince of Nurgle.",
+            "description": "Ersetze den Chaos-Lord und seine Einheit durch einen Dämonenprinz des Nurgle.",
             "points": "100 Punkte"
           }
         ]
       },
       {
-        "name": "Retinue-Transporter",
+        "name": "Gefolge-Transporter",
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
@@ -276,7 +276,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Füge 1 Plague Tower hinzu",
+            "description": "Füge 1 Seuchenturm hinzu",
             "points": "150 Punkte"
         },
           {
@@ -294,7 +294,7 @@
             "points": "100 Punkte"
         },
         {
-          "description": "Füge 1 Plague Tower hinzu",
+          "description": "Füge 1 Seuchenturm hinzu",
           "points": "150 Punkte"
       }
         ]
@@ -314,17 +314,17 @@
         ]
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu 2 Dreadnoughts zum Verband hinzu",
+        "name": "Cybots",
+        "description": "Füge bis zu 2 Cybots zum Verband hinzu",
         "points": "50 Punkte pro Stück"
       },
       {
         "name": "Champion",
-        "description": "Füge einen Champion of Chaos-Charakter zum Verband hinzu.",
+        "description": "Füge einen Chaoschampion-Charakter zum Verband hinzu.",
         "points": "50 Punkte"
       },
       {
-        "name": "Icon Bearer",
+        "name": "Ikonenträger",
         "description": "Füge 1 Icon Bearer character hinzu",
         "points": "25 Punkte"
       },

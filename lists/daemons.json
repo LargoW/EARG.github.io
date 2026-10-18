@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Exalted Keeper of Secrets",
+        "name": "Exalted Hüter der Geheimnisse",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -22,15 +22,15 @@
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
-          "Daemonic Focus",
-          "Warp Rift",
+          "Dämonischer Fokus",
+          "Warp Riss",
           "Geländegängig",
-          "Augment Summoning (+W3)"
+          "Verstärkte Beschwörung (+W3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
       },
       {
-        "name": "Keeper of Secrets",
+        "name": "Hüter der Geheimnisse",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -45,14 +45,14 @@
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Geländegängig",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
       },
       {
-        "name": "Herald of Slaanesh",
+        "name": "Herold des Slaanesh",
         "type": "INF",
         "speed": 20,
         "armour": 4,
@@ -63,13 +63,13 @@
           "Cacophonic Blast"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Herald of Slaanesh on Seeker Chariot",
+        "name": "Herold des Slaanesh on Seeker Chariot",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -80,9 +80,9 @@
           "Cacophonic Blast"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
@@ -100,7 +100,7 @@
         ]
       },
       {
-        "name": "Fiends of Slaanesh",
+        "name": "Slaaneshbestien",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -130,7 +130,7 @@
         ]
       },
       {
-        "name": "Exalted Great Unclean One",
+        "name": "Exalted Großer Verpester",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -147,15 +147,15 @@
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
-          "Daemonic Focus",
-          "Warp Rift",
+          "Dämonischer Fokus",
+          "Warp Riss",
           "Geländegängig",
-          "Augment Summoning (+W3)"
+          "Verstärkte Beschwörung (+W3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
       },
       {
-        "name": "Great Unclean One",
+        "name": "Großer Verpester",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -170,14 +170,14 @@
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Geländegängig",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
       },
       {
-        "name": "Herald of Nurgle on Palanquin",
+        "name": "Herold des Nurgle on Palanquin",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -188,13 +188,13 @@
           "Nurglings"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Herald of Nurgle on Blight Fly",
+        "name": "Herold des Nurgle on Blight Fly",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -205,11 +205,11 @@
           "Blight Fly"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Beritten",
           "Sprungmodule",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
@@ -276,11 +276,11 @@
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
-          "Daemonic Focus",
-          "Warp Rift",
+          "Dämonischer Fokus",
+          "Warp Riss",
           "Geländegängig",
           "Jump Pack",
-          "Augment Summoning (+W3)"
+          "Verstärkte Beschwörung (+W3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
       },
@@ -300,15 +300,15 @@
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Geländegängig",
           "Jump Pack",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
       },
       {
-        "name": "Herald of Khorne on Skull Cannon",
+        "name": "Herold des Khorne on Skull Cannon",
         "type": "LV",
         "speed": 20,
         "armour": 4,
@@ -318,14 +318,14 @@
           "Skull Cannon"
         ],
         "specialRules": [
-            "Daemonic Focus",
+            "Dämonischer Fokus",
             "Infiltratorens",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Herald of Khorne on Juggernaut",
+        "name": "Herold des Khorne on Juggernaut",
         "type": "INF",
         "speed": 25,
         "armour": 4,
@@ -337,9 +337,9 @@
         "specialRules": [
           "Beritten",
           "Geländegängig",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
@@ -404,11 +404,11 @@
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
-          "Daemonic Focus",
-          "Warp Rift",
+          "Dämonischer Fokus",
+          "Warp Riss",
           "Geländegängig",
           "Jump Pack",
-          "Augment Summoning (+W3)"
+          "Verstärkte Beschwörung (+W3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All Daemon units within 5cm are destroyed."
       },
@@ -428,15 +428,15 @@
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Inspirierend",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Geländegängig",
           "Jump Pack",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+."
       },
       {
-        "name": "Herald of Tzeentch",
+        "name": "Herold des Tzeentch",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -446,13 +446,13 @@
           "Violet Fire of Tzeentch"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
-        "name": "Herald of Tzeentch on Burning Chariot",
+        "name": "Herold des Tzeentch on Burning Chariot",
         "type": "LV",
         "speed": 30,
         "armour": 4,
@@ -463,9 +463,9 @@
         ],
         "specialRules": [
           "Sprungmodule",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
-          "Augment Summoning (+1)"
+          "Verstärkte Beschwörung (+1)"
         ]
       },
       {
@@ -555,7 +555,7 @@
           "Warpsword"
         ],
         "specialRules": [
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Infiltratorens",
           "Geländegängig",
           "Unmodifizierter Rettungswurf"

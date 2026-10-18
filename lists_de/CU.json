@@ -58,7 +58,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Guardian Speer"
+          "Gardistenspeer"
         ],
         "notes": "Verstärkte Panzerung"
       },
@@ -82,11 +82,11 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Guardian Speer"
+          "Gardistenspeer"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Invunerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -98,12 +98,12 @@
         "ff": 4,
         "weapons": [
           "Venatari-Lanze",
-          "Archeotech Kinetic Zerstörer"
+          "Archeotech-Kinetikzerstörer"
         ],
         "specialRules": [
           "Verstärkte Panzerung",
           "Sprungmodule",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -120,9 +120,9 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung",
-          "Terminator Aquilon zählen für den Transport als Terminators."
+          "Terminator Aquilon zählen für den Transport als Terminatoren."
         ]
       },
       {
@@ -158,7 +158,7 @@
         ]
       },
       {
-        "name": "Achilles-Contemptor-Dreadnought",
+        "name": "Achilles-Contemptor-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -169,15 +169,15 @@
           "Achilles Energielanze"
         ],
         "specialRules": [
-          "Reniforced Armour",
-          "Teleport",
+          "Verstärkte Panzerung (ARM)",
+          "Teleportieren",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Contemptor Dreadnought Achilles zählen für den Transport als Dreadnoughts."
+          "Contemptor Cybot Achilles zählen für den Transport als Cybots."
         ]
       },
       {
-        "name": "Schwerer Telemon-Dreadnought",
+        "name": "Schwerer Telemon-Cybot",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -188,11 +188,11 @@
           "Telemon-Faust|2|"
         ],
         "specialRules": [
-          "Reniforced Armour",
-          "Teleport",
+          "Verstärkte Panzerung (ARM)",
+          "Teleportieren",
           "Geländegängig",
           "Unmodifizierter Rettungswurf",
-          "Contemptor Dreadnought Achilles zählen für den Transport als Dreadnoughts."
+          "Contemptor Cybot Achilles zählen für den Transport als Cybots."
         ]
       },
       {
@@ -246,7 +246,7 @@
         "notes": "Kann eine Terminatoreinheit oder zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Custodes-Land-Raider",
+        "name": "Custodes-Land-Schattenbarke",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -296,7 +296,7 @@
       {
         "name": "Orion-Angriffsschiff",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 5,
         "ff": 4,

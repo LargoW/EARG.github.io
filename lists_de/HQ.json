@@ -5,19 +5,19 @@
     ],
     "unit": [
       {
-        "name": "Harlequin Avatar",
+        "name": "Harlekin-Avatar",
         "type": "CH",
         "weapons": [
-          "Harlequin Kuss"
+          "Kuss des Harlekins"
         ],
         "specialRules": [
           "Anführer",
           "Befehlshaber"
         ],
-        "notes": "Darf sich nur Harlekin-Troupen oder Skyweaver-Jetbikes anschließen."
+        "notes": "Darf sich nur Harlekin-Truppn oder Skyweaver-Jetbikes anschließen."
       },
       {
-        "name": "Master Mime",
+        "name": "Meistermime",
         "type": "CH",
         "weapons": [
           "Monomolecular Klinge"
@@ -27,17 +27,17 @@
         ]
       },
       {
-        "name": "Solitaire",
+        "name": "Solitär",
         "type": "CH",
         "weapons": [
-          "Harlequin Kuss"
+          "Kuss des Harlekins"
         ],
         "specialRules": [
           "Inspirierend"
         ]
       },
       {
-        "name": "Shadowseer",
+        "name": "Schattenseher",
         "type": "CH",
         "weapons": [
           "Lichtsplitter"
@@ -48,22 +48,22 @@
         ]
       },
       {
-        "name": "Mimes",
+        "name": "Mimen",
         "type": "INF",
         "speed": 20,
         "cc": 3,
         "weapons": [
-          "Mime Concealed Klingen"
+          "Verborgene Mimerklingen"
         ],
         "specialRules": [
-          "Holofield (5+)",
+          "Holofeld (5+)",
           "Aufklärer",
-          "Infiltratorens",
-        "Teleport"
+          "Infiltratoren",
+        "Teleportieren"
         ]
       },
       {
-        "name": "Death Jesters",
+        "name": "Todesnarren",
         "type": "INF",
         "speed": 15,
         "cc": 5,
@@ -72,29 +72,29 @@
           "Shrieker Kanonen"
         ],
         "specialRules": [
-          "Holofield (5+)",
-          "Infiltratorens",
-          "Teleport",
-          "Wind-Swift"
+          "Holofeld (5+)",
+          "Infiltratoren",
+          "Teleportieren",
+          "Windflink"
         ]
       },
       {
-        "name": "Harlequin Troupe",
+        "name": "Harlekin-Trupp",
         "type": "INF",
         "speed": 15,
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Harlequin's Umarmung"
+          "Harlekins Umarmung"
         ],
         "specialRules": [
-          "Holofield (5+)",
-          "Infiltratorens",
-          "Teleport"
+          "Holofeld (5+)",
+          "Infiltratoren",
+          "Teleportieren"
         ]
       },
       {
-        "name": "Skyweaver Jetbikes",
+        "name": "Skyweaver-Jetbikes",
         "type": "INF",
         "speed": 40,
         "armour": 5,
@@ -105,11 +105,11 @@
           "Zephyrgleve"
         ],
         "specialRules": [
-          "Holofield (5+)",
+          "Holofeld (5+)",
           "Beritten",
           "Antigrav",
-          "Teleport",
-          "Wind-Swift"
+          "Teleportieren",
+          "Windflink"
         ]
       },
       {
@@ -124,10 +124,10 @@
           "Shurikenkanone"
         ],
         "specialRules": [
-            "Holofield (5+)",
+            "Holofeld (5+)",
             "Antigrav",
-            "Teleport",
-            "Wind-Swift"
+            "Teleportieren",
+            "Windflink"
         ]
       },
       {
@@ -141,11 +141,11 @@
           "Shurikenkanone"
         ],
         "specialRules": [
-        "Holofield (5+)",
+        "Holofeld (5+)",
             "Antigrav",
-            "Teleport",
-            "Wind-Swift",
-          "Transport 1 (May carry one Harlequins Troupe oder Death Jesters)"
+            "Teleportieren",
+            "Windflink",
+          "Transport 1 (kann eine Harlekin-Trupp oder eine Einheit Todesnarren transportieren)"
         ]
       }
     ]

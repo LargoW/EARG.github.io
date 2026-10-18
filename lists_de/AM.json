@@ -153,7 +153,7 @@
         ],
         "specialRules": [
           "Erstschlag",
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
@@ -166,7 +166,7 @@
           "Transonic Klingen"
         ],
         "specialRules": [
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
@@ -204,7 +204,7 @@
         ]
       },
       {
-        "name": "Tech-Priester",
+        "name": "Tech-Priesterer",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -417,12 +417,12 @@
           "Auslöschungsstrahler|0-1|",
           "Schwerer Zwillings-Phosphorblaster|0-1|",
           "Neutronenlaser|0-1|",
-          "Icarus Batterie|0-1|"
+          "Icarus-Array|0-1|"
         ],
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Muss zwischen Eradication Beamer, Schweres Zwillings Phosphor Blaster, Icarus Array und Neutron Laser wählen. Onager Dunecrawlers mit Eradication Beamer erhalten einen Feuergefechtswert von 4+."
+        "notes": "Muss zwischen Auslöschungsstrahler, schwerem Zwillings-Phosphorblaster, Icarus-Array und Neutronenlaser wählen. Onager-Dünenkrabbler mit Auslöschungsstrahler erhalten einen Feuergefechtswert von 4+."
       },
       {
         "name": "Chimäre",
@@ -518,7 +518,7 @@
         "notes": "Kann zwei Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Muss das Spiel in Reserve beginnen und darf das Schlachtfeld nur durch Tunnelbewegung betreten."
       },
       {
-        "name": "Leman Russ",
+        "name": "Leman Russ Kampfpanzer",
         "type": "AV",
         "speed": 20,
         "armour": 4,
@@ -577,7 +577,7 @@
           ">Kampfwaffen<",
           "Turbolaserzerstörer|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
-          "Schwerer Icarus Batterie|0-1|",
+          "Schweres Icarus-Array|0-1|",
           "Titan Plasmakanone|0-1|FxF",
           "Titan-Meltakanone|0-1|",
           "Gatling-Blaster|0-1|FxF",
@@ -588,7 +588,7 @@
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -607,14 +607,14 @@
           ">Kampfwaffen<",
           "Turbolaserzerstörer|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
-          "Schwerer Icarus Batterie|0-1|",
+          "Schweres Icarus-Array|0-1|",
           "Titan Plasmakanone|0-1|FxF",
           "Titan-Meltakanone|0-1|",
           "Gatling-Blaster|0-1|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 2",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -634,13 +634,13 @@
           ">Ordinatus Armageddon<",
           "Novakanone||FxF",
           ">Ordinatus Mars<",
-          "Schall-Disruptor||FxF",
+          "Schallstörsender||FxF",
           ">Ordinatus Golgotha<",
           "Höllenfeuer-Rakete|6|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 4",
-          "Null Schilde 4",
+          "Null-Schilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
         ],
@@ -685,7 +685,7 @@
       {
         "name": "Lysander-Jäger",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 6,
         "weapons": [
           "AC-Multilaser||FxF",
@@ -697,7 +697,7 @@
       {
         "name": "Avenger-Sturzkampfflugzeug",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber (FB)",
         "armour": 5,
         "weapons": [
           "AC-Avenger-Bolterkanone||FxF",
@@ -751,7 +751,7 @@
         "specialRules": [
           "Verzögerte Ankunft (darf erst ab Runde 2 auf dem Schlachtfeld eintreffen)"
         ],
-        "notes": "Ist entweder mit Orbitalbombardement oder zwei Punktziel-Angriffen ausgerüstet (die Auswahl erfolgt zu Beginn der Schlacht)."
+        "notes": "Ist entweder mit Orbitalbombardement oder zwei Präzisionsschüssen ausgerüstet (die Auswahl erfolgt zu Beginn der Schlacht)."
       }
     ]
   }

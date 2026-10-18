@@ -1,16 +1,16 @@
 {
-  "fraction": "Scenario",
+  "fraction": "Szenario",
   "army": "Kampflinie",
   "version": "1.0.Beta",
   "release": "2022-04-01",
-  "strategy": "EA-Ragnarok Scenario",
+  "strategy": "EA-Ragnarök-Szenario",
   "Initiative": "Kampflinie",
   "specialRules": [
-    "General Tournament Tiebreaker Rules"
+    "Allgemeine Turnier-Stichentscheidungsregeln"
   ],
   "usage": [
     "Turnierregeln für Epic Armageddon",
-    "Die Turnierregeln von EA-Ragnarok sind für die gemeinsame Verwendung mit den EA-Ragnarok-Armeelisten ausgelegt. Sie ermöglichen zwei Spielern, mit wenig oder ganz ohne Vorbereitung ein ausgeglichenes Gefecht auszutragen. Sie eignen sich hervorragend für spontane Spiele in Clubs oder auf Veranstaltungen und sorgen bei Turnieren für ausgeglichene Partien. Turnierspiele stellen in vielerlei Hinsicht die „grundlegendste“ Spielform dar und sollen möglichst einfach und zugänglich sein, damit Epic-Spieler ohne großen Aufwand spielen können. Daher erfordern die Turnierregeln kaum Vorbereitung: Es genügt, Armeen aus den Armeelisten zusammenzustellen.",
+    "Die Turnierregeln von EA:Ragnarök sind für die gemeinsame Verwendung mit den Armeeorganisationsplänen von EA:Ragnarök ausgelegt. Sie ermöglichen zwei Spielern, mit wenig oder ganz ohne Vorbereitung ein ausgeglichenes Gefecht auszutragen. Sie eignen sich hervorragend für spontane Spiele in Clubs oder auf Veranstaltungen und sorgen bei Turnieren für ausgeglichene Partien. Turnierspiele stellen in vielerlei Hinsicht die „grundlegendste“ Spielform dar und sollen möglichst einfach und zugänglich sein, damit Epic-Spieler ohne großen Aufwand spielen können. Daher erfordern die Turnierregeln kaum Vorbereitung: Es genügt, Armeen anhand der Armeeorganisationspläne zusammenzustellen.",
     "Aufstellung",
     "Der Turniertisch ist 120 cm × 180 cm groß (4 × 6 Fuß). Der Spieler mit dem höheren Strategiewert darf die Spielfeldkante wählen, an der er aufstellt. Haben beide Spieler denselben Strategiewert, würfeln sie aus, wer die Spielfeldkante wählen darf. Gewählt werden kann eine lange Kante oder eine Ecke (auf halber Länge jeder langen und kurzen Kante). Der Gegner stellt an der gegenüberliegenden Kante oder Ecke.",
     "*Aufstellungsbeispiele findest du auf der Hauptseite.",
@@ -24,7 +24,7 @@
     "Prüfe am Ende jeder Runde, wie viele Zielmarker du kontrollierst. Zielmarker haben kein „Gedächtnis“: Du verlierst die Kontrolle über einen eroberten Zielmarker, wenn sich am Ende einer späteren Runde keine befreundete Einheit innerhalb von 15 cm davon befindet.",
     "",
     "Raumschiffe und Garnisonen aufstellen",
-    "Jeder Spieler darf bis zu zwei seiner Garnisonsverbände in Overwatch beginnen lassen. Diese Verbände stellen Wachposten dar, die als Stolperdraht und zur Sicherung der Zielmarker eingesetzt wurden. Es wird angenommen, dass sie bereits in ihrer vorherigen Aktionsphase in Overwatch gegangen sind. Dieser Overwatch-Status bleibt in der ersten Runde bestehen.",
+    "Jeder Spieler darf bis zu zwei seiner Garnisonsverbände in Feuerbereitschaft beginnen lassen. Diese Verbände stellen Wachposten dar, die als Stolperdraht und zur Sicherung der Zielmarker eingesetzt wurden. Es wird angenommen, dass sie bereits in ihrer vorherigen Aktionsphase in Feuerbereitschaft gegangen sind. Dieser Feuerbereitschaft-Status bleibt in der ersten Runde bestehen.",
     "Falls ein Spieler Raumschiffe einsetzt, werden diese jetzt vor allen anderen Einheiten aufgestellt (siehe 4.3). Einheiten, die durch Planetfall ins Spiel kommen, werden ebenfalls jetzt beiseitegelegt (siehe 4.4).",
     "Garnisonseinheiten auf dem Spielfeld werden nach den Raumschiffen aufgestellt. Die folgenden Verbände dürfen zu Spielbeginn als Garnisonen aufgestellt werden:",
     "Verbände, bei denen mindestens die Hälfte der Einheiten (aufgerundet) Kundschafter sind",
@@ -43,15 +43,15 @@
     "Siegesbedingungen",
     "Hat ein Spieler am Ende einer Runde mindestens 4 Siegesbedingungen erfüllt, endet das Spiel. Vergleicht die erfüllten Siegesbedingungen und ermittelt die Turnier-/Schlachtpunkte.",
     "Prüfe am Ende der dritten und vierten Spielrunde, ob einer der Spieler gewonnen hat. Hat bis zum Ende der vierten Runde niemand gewonnen, entscheidet die Stichentscheid-Regel über den Sieger.",
-    "Jeder Spieler versucht, fünf sogenannte Ziele zu erfüllen. Du gewinnst, wenn du in der Endphase der dritten oder vierten Runde mindestens zwei Ziele und mehr Ziele als dein Gegner erfüllt hast. Die fünf Ziele sind: Blitzkrieg, Break Their Spirit, Defend The Flag, Take And Hold und They Shall Not Pass.",
-    "Blitzkrieg: Du erfüllst dieses Ziel, indem du den gegnerischen Zielmarker an der Spielfeldkante eroberst, der zu Beginn des Spiels platziert wurde.",
-    "Break Their Spirit: Du erfüllst dieses Ziel, indem du den Verband mit den meisten Punkten in der gegnerischen Armee zerstörst (nicht nur aufreibst). Bei mehreren punktgleichen Verbänden genügt es, einen davon zu zerstören.",
-    "Defend The Flag: Du erfüllst dieses Ziel, wenn du alle drei Zielmarker in deiner Spielfeldhälfte kontrollierst.",
-    "Take and Hold: Du erfüllst dieses Ziel, indem du insgesamt zwei Zielmarker in der gegnerischen Spielfeldhälfte eroberst.",
-    "They Shall Not Pass: Du erfüllst dieses Ziel, wenn sich keine ungebrochenen feindlichen Verbände in deiner Spielfeldhälfte befinden.",
+    "Jeder Spieler versucht, fünf sogenannte Ziele zu erfüllen. Du gewinnst, wenn du in der Endphase der dritten oder vierten Runde mindestens zwei Ziele und mehr Ziele als dein Gegner erfüllt hast. Die fünf Ziele sind: Blitzkrieg, Brecht Ihren Willen, Verteidigt Die Flagge, Sichern Und Halten und Sie Können Nicht Vorbei.",
+    "Blitzkrieg: Erobern und Halten des Zielmarkers an der gegnerischen Tischkante.",
+    "Brecht Ihren Willen: Zerstörung des punkteintensivsten gegnerischen Verbands.",
+    "Verteidigt Die Flagge: Kontrollieren aller drei Zielmarker in der eigenen Tischhälfte.",
+    "Sichern Und Halten: Kontrollieren von zwei Zielmarkern in der gegnerischen Tischhälfte.",
+    "Sie Können Nicht Vorbei: Keine unaufgeriebenen feindlichen Verbände in der eigenen Tischhälfte.",
     "Hat bis zum Ende der vierten oder einer späteren Runde keiner der Spieler gewonnen, würfeln beide Spieler mit einem W6, um zu bestimmen, ob das Spiel eine weitere Runde dauert oder mit einem Gleichstand endet.",
     "Würfeln beide Spieler dieselbe Zahl, wird eine weitere Runde gespielt. Am Ende dieser Runde würfeln sie erneut, um festzustellen, ob das Spiel endet oder fortgesetzt wird. Würfeln sie unterschiedliche Zahlen, endet das Spiel mit einem Gleichstand.",
-    "Battle Tie Break",
+    "Schlacht-Stichentscheid",
     "Ein Gleichstand wird durch Auszählen der Verluste jeder Seite entschieden. Aufgeriebene Verbände oder Verbände mit weniger als halber Stärke zählen mit der Hälfte ihrer Punktkosten als Schlachtpunkte; vollständig zerstörte Verbände sowie Verbände, die sowohl aufgerieben sind als auch weniger als halbe Stärke haben, zählen mit ihren gesamten Punktkosten. Eine Differenz von mindestens 250 BP ergibt ein Unentschieden mit Sieger, eine Differenz unter 250 BP ein vollständiges Unentschieden. Turnier-Siegespunkte berechnen:",
     "Gibt ein Spieler auf oder erscheint nicht innerhalb von 30 Minuten, erhält der Gegner einen vollen Sieg. Muss ein Spiel aus Zeitmangel vor Runde 4 abgebrochen werden, bestimmt die aktuelle Anzahl der Zielmarker das Ergebnis. Bei einem vorzeitigen Ende in Runde 2 erhalten beide Seiten einen Abzug von 4, bei einem Ende in Runde 3 einen Abzug von 2. Erscheint ein Spieler mehr als 5 Minuten verspätet, erhält er die Strafpunkte beider Spieler."
   ]

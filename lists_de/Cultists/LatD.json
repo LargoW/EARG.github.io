@@ -1,43 +1,43 @@
 {
-  "fraction": "Chaos Cultists",
-  "army": "Lost and the Damned",
+  "fraction": "Chaos-Kultisten",
+  "army": "Die Verlorenen und Verdammten",
   "version": "1.0.Beta-2",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_LatD",
-  "strategy": "Lost and the Damned-Armeen haben einen Strategiewert von 1.",
+  "strategy": "Die Armeen der Verlorenen und Verdammten haben einen Strategiewert von 1.",
   "Initiative": "Chaos Space Marine-Verbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Lost and the Damned Summoning Rules",
-    "LatD Eternal Animosity"
+    "Beschwörung",
+    "Beschwörungsregeln der Verlorenen und Verdammten",
+    "Ewige Feindschaft der Verlorenen und Verdammten"
   ],
   "usage": [
-    "Diese Armeeliste ermöglicht es dir, eine Armee auf Grundlage der Lost and the Damned, der Chaos-Kultisten, aufzustellen."
+    "Dieser Armeeorganisationsplan ermöglicht es dir, eine Armee aus den Verlorenen und Verdammten sowie den Chaos-Kultisten aufzustellen."
   ],
   "units": [
     {
       "from": "chaoscultists.json",
       "units": [
-        "Arch-Heretic",
-        "Demagogue",
-        "Icon Bearer",
-        "Aspiring Champion",
-        "Daemon Prince",
-        "Cultists",
-        "Mutants",
-        "Big Mutants",
-        "Chaos Hounds",
-        "Chaos Altar",
-        "Chaos Spawn",
-        "Technical",
-        "Land Transporter",
-        "Pox Walkers of Nurgle"
+        "Erzhäretiker",
+        "Demagoge",
+        "Ikonenträger",
+        "Aufstrebender Champion",
+        "Dämonenprinz",
+        "Kultisten",
+        "Mutanten",
+        "Große Mutanten",
+        "Chaos-Hunde",
+        "Chaosaltar",
+        "Chaosbrut",
+        "Bewaffneter Geländewagen",
+        "Landtransporter",
+        "Seuchenwandler des Nurgle"
       ],
       "unitRules": [
-      "Fickle Masters",
-      "Infestation",
-        "Augment Summoning (+x)",
-        "Daemonic Focus"
+      "Launische Meister",
+      "Befall",
+        "Verstärkte Beschwörung (+x)",
+        "Dämonischer Fokus"
       ]
     },
     {
@@ -59,8 +59,8 @@
       ],
       "unitRules": [
         "Regeneration",
-        "Null Schilde",
-        "Daemon Engine (x)"
+        "Null-Schilde",
+        "Dämonenmaschine (x)"
       ]
     },
     {
@@ -75,7 +75,7 @@
     {
       "from": "chaosnavy.json",
       "units": [
-        "Heldrake",
+        "Höllendrache",
         "Firelord"
       ],
       "unitRules": [
@@ -84,15 +84,15 @@
     {
       "from": "daemons.json",
       "units": [
-        "Daemonettes of Slaanesh",
-        "Plaguebearers of Nurgle",
-        "Bloodletters of Khorne",
-        "Horrors of Tzeentch",
-        "Keeper of Secrets",
-        "Great Unclean One",
-        "Bloodthirster",
-        "Lord of Change",
-        "Daemonic Beasts of Chaos Undivided"
+        "Dämonetten des Slaanesh",
+        "Seuchenhüter des Nurgle",
+        "Zerfleischer des Khorne",
+        "Horrors des Tzeentch",
+        "Hüter der Geheimnisse",
+        "Großer Verpester",
+        "Blutdämon",
+        "Herrscher des Wandels",
+        "Dämonische Bestien des ungeteilten Chaos"
       ],
       "unitRules": [
       ]
@@ -100,12 +100,12 @@
   ],
   "sections": [
     {
-      "name": "Cultist Coven Verbände",
+      "name": "Kultistenkonklaven-Verbände",
       "formations": [
         {
-          "name": "Cultist Coven",
-          "units": "Ein Aspiring Champion, neun Chaos Cultists und/oder Mutants, Daemonic Pact",
-          "extraUnits": [
+          "name": "Kultistenkonklave",
+          "units": "Ein Aspirantenchampion, neun Chaos-Kultisten und/oder Mutanten, Dämonenpakt",
+          "extraEinheits": [
             "Alle"
           ],
           "points": 200
@@ -113,45 +113,45 @@
       ]
     },
     {
-      "name": "Chaos-, Dark-Mechanicus- und Infestations-Unterstützungszirkel",
-      "description": "Nurgle/Tzeentch-Verbände dürfen nicht mit Slaanesh/Khorne-Verbänden in derselben Armee gemischt werden. Pro angefangene 1.500 Punkte der Armee dürfen bis zu zwei Unterstützungszirkel aufgestellt werden; dabei gilt eine Begrenzung von 0–1 pro Cultist-Coven-Armee.",
+      "name": "Chaos-, Dark-Mechanicus- und Befalls-Unterstützungszirkel",
+      "description": "Nurgle/Tzeentch-Verbände dürfen nicht mit Slaanesh/Khorne-Verbänden in derselben Armee gemischt werden. Pro angefangene 1.500 Punkte der Armee dürfen bis zu zwei Unterstützungszirkel aufgestellt werden; dabei gilt eine Begrenzung von 0–1 pro Kultistenkonklaven-Armee.",
       "formations": [
         {
-          "name": "Chaos Space Marines of Chaos Undivided",
-          "units": "Sechs Chaos Space Marines, drei Chaos Rhinos, Daemonic Pact",
-          "extraUnits": [
-            "Füge 1 Champion of Chaos hinzu: 50 Punkte"
+          "name": "Chaos Space Marines des Ungeteilten Chaos",
+          "units": "Sechs Chaos Space Marines, drei Chaos Rhinos, Dämonenpakt",
+          "extraEinheits": [
+            "Füge 1 Chaoschampion hinzu: 50 Punkte"
           ],
           "points": 275
         },
         {
-          "name": "Cerberites of Chaos Undivided",
+          "name": "Cerberiten des Ungeteilten Chaos",
           "units": "Drei Cerberites",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 200
         },
         {
-          "name": "Defilers of Chaos Undivided",
-          "units": "Vier Defilers",
+          "name": "Verwüster des Ungeteilten Chaos",
+          "units": "Vier Geißels",
           "upgrades": [
           ],
           "points": 250
         },
         {
-          "name": "Heldrakes of Chaos Undivided",
-          "units": "Zwei Heldrakes",
+          "name": "Höllendrachen des Ungeteilten Chaos",
+          "units": "Zwei Höllendrachen",
           "points": 225
         },
         {
-          "name": "Hell-Striders of Slaanesh",
+          "name": "Höllenstreiter des Slaanesh",
           "units": "Vier Hell-Striders",
           "upgrades": [
           ],
           "points": 225
         },
         {
-          "name": "Questors of Slaanesh",
+          "name": "Quästoren des Slaanesh",
           "units": "Ein Questor",
           "upgrades": [
             "Füge 1 Questor hinzu: 200 Punkte"
@@ -159,7 +159,7 @@
           "points": 275
         },
         {
-          "name": "Subjugators of Slaanesh",
+          "name": "Unterwerfer des Slaanesh",
           "units": "Ein Subjugator",
           "upgrades": [
             "Füge 1 Subjugator hinzu: 200 Punkte"
@@ -167,61 +167,61 @@
           "points": 275
         },
         {
-          "name": "Plague Tower of Nurgle",
-          "units": "Ein Plague Tower",
+          "name": "Seuchenturm des Nurgle",
+          "units": "Ein Seuchenturm",
           "upgrades": [
           ],
           "points": 200
         },
         {
-          "name": "Contagion Engines of Nurgle",
+          "name": "Seuchenmaschinen des Nurgle",
           "units": "Vier Contagion Engines",
           "upgrades": [
           ],
           "points": 325
         },
         {
-          "name": "Pox Walkers of Nurgle",
-          "units": "Sieben Pox Walkers",
+          "name": "Seuchenwandler des Nurgle",
+          "units": "Sieben Seuchenwandler",
           "points": 100
         },
         {
-          "name": "Cannons of Khorne",
-          "units": "Vier Cannons of Khorne",
+          "name": "Kanonen des Khorne",
+          "units": "Vier Kanonen des Khorne",
           "upgrades": [
           ],
           "points": 225
         },
         {
-          "name": "Khorne Daemonic Assault Engines",
-          "units": "Vier Daemonic Assault Engines",
+          "name": "Dämonische Sturmmaschinen des Khorne",
+          "units": "Vier dämonische Sturmmaschinen",
           "upgrades": [
           ],
           "points": 225
         },
         {
-          "name": "Khorne Lord of Battles",
-          "units": "Ein Lord of Battles",
+          "name": "Herr der Schlachten des Khorne",
+          "units": "Ein Herr der Schlachten",
           "upgrades": [
           ],
           "points": 425
         },
         {
-          "name": "Silver Towers of Tzeentch",
+          "name": "Silbertürme des Tzeentch",
           "units": "Vier Silver Towers",
           "upgrades": [
           ],
           "points": 275
         },
         {
-          "name": "Warp Palace of Tzeentch",
+          "name": "Warp-Palast des Tzeentch",
           "units": "Ein Warp Palace",
           "upgrades": [
           ],
           "points": 450
         },
         {
-          "name": "Firelords of Tzeentch",
+          "name": "Feuerfürsten des Tzeentch",
           "units": "Zwei Firelords",
           "upgrades": [
             "Füge 1 Firelord hinzu: 100 Punkte"
@@ -235,12 +235,12 @@
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
-          "name": "Lesser Daemon Pool",
-          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool",
+          "name": "Pool niederer Dämonen",
+          "units": "Beliebig viele Punkte aus dem Pool niederer Dämonen",
           "points": 20
         },
         {
-          "name": "Greater Daemon Pool",
+          "name": "Pool Großer Dämonen",
           "units": "Beliebig viele Punkte aus dem Greater-Daemon-Pool.",
           "points": 75
         }
@@ -248,7 +248,7 @@
     }
   ],
   "upgrades": {
-    "title": "Aufwertungen für Lost and the Damned",
+    "title": "Aufwertungen für die Verlorenen und Verdammten",
     "description": "Jede Aufwertung darf pro Verband nur einmal gewählt werden. Höchstens 4 verschiedene Aufwertungen pro Verband.",
     "items": [
       {
@@ -256,58 +256,58 @@
         "description": "Wähle eine der folgenden Optionen:",
         "options": [
           {
-            "description": "Füge 1 Arch-Heretic-Charakter zu einem Demagogue oder Aspiring Champion in der Armee hinzu",
+            "description": "Füge 1 Arch-Heretic-Charakter zu einem Demagogue oder Aspirantenchampion in der Armee hinzu",
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze 1 Aspiring Champion durch einen Daemon Prince",
+            "description": "Ersetze 1 Aspirantenchampion durch einen Dämonenprinz",
             "points": "100 Punkte"
           }
         ]
       },
       {
-        "name": "Demagogue",
-        "description": "Ersetze den Aspiring Champion durch einen Demagogue",
+        "name": "Demagoge",
+        "description": "Ersetze den Aspirantenchampion durch einen Demagogue",
         "points": "25 Punkte"
       },
       {
-        "name": "Icon Bearer",
+        "name": "Ikonenträger",
         "description": "Füge 1 Icon Bearer character hinzu",
         "points": "25 Punkte"
       },
       {
-        "name": "Cultists/Mutants",
-        "description": "Füge bis zu 4 Cultists/Mutants hinzu",
+        "name": "Kultisten/Mutanten",
+        "description": "Füge bis zu 4 Kultisten/Mutanten hinzu",
         "points": "10 Punkte pro Stück"
       },
       {
-        "name": "Big Mutants",
-        "description": "Ersetze bis zu 4 Cultists/Mutants durch Big Mutants",
+        "name": "Große Mutanten",
+        "description": "Ersetze bis zu 4 Kultisten/Mutanten durch Große Mutanten",
         "points": "15 Punkte pro Stück"
       },
       {
-        "name": "Chaos Spawn",
-        "description": "Füge 1 Chaos Spawn hinzu",
+        "name": "Chaosbrut",
+        "description": "Füge 1 Chaosbrut hinzu",
         "points": "35 Punkte"
       },
       {
-        "name": "Chaos Hounds",
-        "description": "Füge bis zu 3 Chaos Hounds hinzu",
+        "name": "Chaos-Hunde",
+        "description": "Füge bis zu 3 Chaos-Hunde hinzu",
         "points": "10 Punkte pro Stück"
       },
       {
-        "name": "Chaos Altar",
-        "description": "Füge 1 Chaos Altar hinzu",
+        "name": "Chaosaltar",
+        "description": "Füge 1 Chaosaltar hinzu",
         "points": "150 Punkte"
       },
       {
-        "name": "Technicals",
-        "description": "Füge bis zu 4 Technicals hinzu",
+        "name": "Bewaffnete Geländewagen",
+        "description": "Füge bis zu 4 Bewaffnete Geländewagen hinzu",
         "points": "20 Punkte pro Stück"
       },
       {
-        "name": "Land Transporters",
-        "description": "Füge genügend Land Transporters hinzu, um den Verband zu transportieren",
+        "name": "Kultisten-Landtransporter",
+        "description": "Füge genügend Kultisten-Landtransporter hinzu, um den Verband zu transportieren",
         "points": "10 Punkte pro Stück"
       }
     ]

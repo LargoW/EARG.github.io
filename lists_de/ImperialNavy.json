@@ -5,9 +5,9 @@
     ],
     "unit": [
       {
-        "name": "Lightning Strike Fighter",
+        "name": "Blitzschlag-Jäger",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber (FB)",
         "armour": 6,
         "weapons": [
           "Blackstar-Hurrikanbolter||FxF",
@@ -17,9 +17,9 @@
         ]
       },
       {
-        "name": "Lightning Interceptor",
+        "name": "Blitzschlag-Abfangjäger",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 6,
         "weapons": [
           "Blackstar-Hurrikanbolter||FxF",
@@ -29,9 +29,9 @@
         ]
       },
       {
-        "name": "Thunderbolt Fighter",
+        "name": "Donnerkeil-Jäger",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber (FB)",
         "armour": 6,
         "weapons": [
           "AC-Multilaser||FxF",
@@ -42,9 +42,9 @@
         ]
       },
       {
-        "name": "Avenger Strike Fighter",
+        "name": "Avenger-Jagdbomber",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber (FB)",
         "armour": 5,
         "weapons": [
           "AC-Avenger-Bolterkanone||FxF",
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "name": "Marauder-Bomber",
+        "name": "Marauder-Bomber (B)",
         "type": "AC",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "weapons": [
           "Blackstar-Hurrikanbolter||FxF",
@@ -68,9 +68,9 @@
         ]
       },
       {
-        "name": "Marauder Destroyer",
+        "name": "Marauder-Zerstörer",
         "type": "AC",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "weapons": [
           "AC Zwillings-Maschinenkanone|3|FxF",
@@ -82,20 +82,20 @@
         ]
       },
       {
-        "name": "Marauder Colossus",
+        "name": "Marauder Koloss",
         "type": "AC",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "weapons": [
           "Blackstar-Hurrikanbolter||FxF",
-          "AC Colossus Bombe||FxF",
+          "AC Koloss Bombe||FxF",
           "AC-Zwillings-Schwerbolterturm|2|"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Lunar Class Cruiser",
+        "name": "Kreuzer der Lunar-Klasse",
         "type": "SC",
         "weapons": [
           {
@@ -110,7 +110,7 @@
         ]
       },
       {
-        "name": "Emperor Class Battleship",
+        "name": "Schlachtschiff der Emperor-Klasse",
         "type": "SC",
         "weapons": [
           {

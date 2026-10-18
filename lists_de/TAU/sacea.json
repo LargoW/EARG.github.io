@@ -4,14 +4,14 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Tau_SaCea",
-  "intro": "Mit der Sa'cea-Tau-Armeeliste kannst du eine Tau-Armee des Sa'cea-Septums aufstellen.",
+  "intro": "Mit dem Sa'cea-Tau-Armeeorganisationsplan kannst du eine Tau-Armee des Sa'cea-Septums aufstellen.",
   "strategy": "Tau-Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Crisis-Battlesuit- und Manta-Formationen haben einen Initiativewert von 1+. Alle anderen Formationen haben einen Initiativewert von 2+.",
+  "Initiative": "XV8-Krisis-Kampfanzug- und Manta-Verbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
-    "Tiger Shark Gun Drones"
+    "Angriffsdrohnen des Tigerhais"
   ],
   "usage": [
-    "Mit der folgenden Armeeliste kannst du eine Armee der Welt Sa'cea des Tau-Imperiums aufstellen."
+    "Mit dem folgenden Armeeorganisationsplan kannst du eine Armee der Welt Sa'cea des Tau-Imperiums aufstellen."
   ],
   "units": [
     {
@@ -24,8 +24,8 @@
         "Feuerkrieger",
         "Angriffsdrohnen",
         "Kroot-Hunde",
-        "Kroot-Meisterweiser",
-        "Kroot-Krieger",
+        "Kroot-Söldner-Meisterweiser",
+        "Kroot-Söldner-Krieger",
         "Krootox",
         "Späher",
         "XV15 Geist-Kampfanzüge",
@@ -40,12 +40,12 @@
         "Manta"
       ],
       "unitRules": [
-        "Coordinated Fire",
-        "Ethereal",
-        "Guided Missiles",
-        "Markerlights",
-        "Tau Jet Packs",
-        "Deflector Shield"
+        "Koordinierter Beschuss",
+        "Himmlischer",
+        "Gelenkte Raketen",
+        "Zielmarker",
+        "Tau-Sprungmodule",
+        "Ablenkschild"
       ]
     },
     {
@@ -67,27 +67,27 @@
       "name": "Sa'cea-Kader",
       "formations": [
         {
-          "name": "XV8 Crisis Battlesuit Cadre",
-          "units": "Ein Shas'el, vier XV8 Crisis Battlesuits",
-          "extraUnits": [
+          "name": "XV8-Krisis-Kampfanzug-Kader",
+          "units": "Ein Shas'el und vier XV8-Krisis-Kampfanzüge",
+          "extraEinheits": [
             "Angriffsdrohnen",
             "Shas'o",
-            "Crisis Suits"
+            "Krisis-Kampfanzüge"
           ],
           "points": 250
         },
         {
-          "name": "Fire Warrior Strike Cadre",
-          "units": "Acht Fire Warriors, oder sechs Fire Warriors und drei Devilfish.",
-          "extraUnits": [
-            "Broadsides",
+          "name": "Feuerkrieger-Angriffsformation",
+          "units": "Acht Feuerkrieger, oder sechs Feuerkrieger und drei Teufelsrochen.",
+          "extraEinheits": [
+            "Koloss-Kampfanzüge",
             "Himmlischer",
             "Piranhas",
             "Feuerkrieger",
             "Späher",
-            "Hammerheads",
+            "Hammerhaie",
             "Dornenhai",
-            "Bonded Team",
+            "Gebundenes Team",
             "Angriffsdrohnen"
           ],
           "points": 225
@@ -99,63 +99,63 @@
       "description": "Bis zu drei für jeden gewählten Sa'cea Cadre.",
       "formations": [
         {
-          "name": "Hammerhead Group",
-          "units": "Vier Ion oder vier Fusion Hammerheads",
-          "extraUnits": [
-            "Ersetze vier Ion oder Fusion Hammerheads durch vier Rail Hammerheads: 25 Punkte",
+          "name": "Hammerhai-Gruppe",
+          "units": "Vier Ionen-Hammerhaie oder vier Fusions-Hammerhaie",
+          "extraEinheits": [
+            "Ersetze vier Ionen- oder Fusions-Hammerhaie durch vier Massebeschleuniger-Hammerhaie: 25 Punkte",
             "Angriffsdrohnen",
-            "Hammerheads",
+            "Hammerhaie",
             "Piranhas",
             "Dornenhai"
           ],
           "points": 200
         },
         {
-          "name": "XV88 Broadside Group",
-          "units": "Sechs XV88 Broadside Battlesuits",
-          "extraUnits": [
+          "name": "XV88-Koloss-Kampfanzug-Gruppe",
+          "units": "Sechs XV88-Koloss-Kampfanzüge",
+          "extraEinheits": [
             "Angriffsdrohnen"
           ],
           "points": 300
         },
         {
-          "name": "Kroot Kindred",
-          "units": "Ein Kroot Master Shapers, neun Kroot Warriors",
-          "extraUnits": [
-            "Kroot",
+          "name": "Kroot-Söldner-Sippe",
+          "units": "Ein Kroot-Söldner-Meisterweiser und neun Kroot-Söldner-Krieger",
+          "extraEinheits": [
+            "Kroot-Söldner",
             "Kroot-Hunde",
             "Krootox"
           ],
           "points": 175
         },
         {
-          "name": "Pathfinder Group",
-          "units": "Vier Pathfinders, zwei Devilfish",
-          "extraUnits": [
+          "name": "Spähergruppe",
+          "units": "Vier Späher, zwei Teufelsrochen",
+          "extraEinheits": [
             "Angriffsdrohnen"
           ],
           "points": 175
         },
         {
-          "name": "Recon Antigrav Group",
+          "name": "Antigrav-Aufklärungsgruppe",
           "units": "Beliebige sechs der folgenden Einheiten: Piranha, Tetra",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge bis zu zwei Piranhas hinzu: 25 Punkte pro Stück"
           ],
           "points": 175
         },
         {
-          "name": "Skysweep Support Group",
-          "units": "Drei Sky Rays",
-          "extraUnits": [
+          "name": "Luftabwehr-Unterstützungsgruppe",
+          "units": "Drei Dornenhaie",
+          "extraEinheits": [
             "Angriffsdrohnen"
           ],
           "points": 250
         },
         {
-          "name": "XV15 Stealth Group",
-          "units": "Sechs XV15 Stealth Battlesuits",
-          "extraUnits": [
+          "name": "XV15-Geist-Kampfanzug-Gruppe",
+          "units": "Sechs XV15-Geist-Kampfanzüge",
+          "extraEinheits": [
             "Angriffsdrohnen"
           ],
           "points": 225
@@ -164,49 +164,49 @@
     },
     {
       "name": "Sa'cea-Flugzeuge, Raumschiffe und Titanen",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Formationen ausgegeben werden.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
-          "name": "Barracuda Squadron",
+          "name": "Barracuda-Staffel",
           "units": "Zwei Barracudas",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 150
         },
         {
-          "name": "Tiger Shark Squadron",
-          "units": "Zwei Tiger Shark Bombers",
-          "extraUnits": [
-            "Füge sechs Gun Drones hinzu: 75 Punkte"
+          "name": "Tigerhai-Staffel",
+          "units": "Zwei Tigerhai-Bomber (B)",
+          "extraEinheits": [
+            "Füge sechs Angriffsdrohnen hinzu: 75 Punkte"
           ],
           "points": 175
         },
         {
-          "name": "AX-1-0s Squadron",
-          "units": "Zwei Tiger Shark AX-1-0s",
-          "extraUnits": [
+          "name": "AX-1-0-Staffel",
+          "units": "Zwei Tigerhai AX-1-0",
+          "extraEinheits": [
           ],
           "points": 350
         },
         {
-          "name": "Orca Dropship",
+          "name": "Orca-Landungsschiff",
           "units": "Ein Orca",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 150
         },
         {
-          "name": "Manta Dropship",
+          "name": "Manta-Landungsschiff",
           "units": "Ein Manta",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 550
         },
         {
           "name": "0–1 Raumschiff",
           "units": "Kreuzer der Protector-Klasse",
-          "extraUnits": [
-            "Ersetze den Protector durch ein Custodian Class Battleship: 25 Punkte"
+          "extraEinheits": [
+            "Ersetze den Protector durch ein Schlachtschiff der Custodian-Klasse: 25 Punkte"
           ],
           "points": 200
         }
@@ -214,11 +214,11 @@
     }
   ],
   "upgrades": {
-    "title": "Upgrades",
+    "title": "Aufwertungen",
     "description": "Maximal drei Aufwertungen pro Verband. Jede Aufwertung darf nur einmal pro Verband gewählt werden.",
     "items": [
       {
-        "name": "Bonded Team",
+        "name": "Gebundenes Team",
         "description": "Gib dem Verband Anführer (diese Sonderfähigkeit wird keiner bestimmten Einheit hinzugefügt)",
         "points": "25 Punkte"
       },
@@ -228,13 +228,13 @@
         "points": "75 Punkte"
       },
       {
-        "name": "0–1 Ethereal",
-        "description": "Einmal pro Armee darf eine Fire-Warriors-Einheit einen Ethereal erhalten",
+        "name": "0–1 Himmlischer",
+        "description": "Einmal pro Armee darf eine Feuerkrieger-Einheit einen Himmlischen erhalten",
         "points": "50 Punkte"
       },
       {
-        "name": "Crisis Suits",
-        "description": "Füge zwei oder four XV8 Crisis Battlesuits hinzu",
+        "name": "Krisis-Kampfanzüge",
+        "description": "Füge zwei oder vier XV8-Krisis-Kampfanzüge hinzu",
         "points": [
           "75 Punkte für zwei",
           "150 Punkte für vier"
@@ -245,23 +245,23 @@
         "description": "Füge eine der folgenden Optionen hinzu:",
         "options": [
           {
-            "description": "Füge vier Fire Warriors hinzu",
+            "description": "Füge vier Feuerkrieger hinzu",
             "points": "100 Punkte"
           },
           {
-            "description": "Füge vier Fire Warriors und two Devilfish hinzu",
+            "description": "Füge vier Feuerkrieger und zwei Teufelsrochen hinzu",
             "points": "125 Punkte"
           }
         ]
       },
       {
         "name": "Späher",
-        "description": "Füge zwei Pathfinders und one Devilfish hinzu",
+        "description": "Füge zwei Späher und einen Teufelsrochen hinzu",
         "points": "100 Punkte"
       },
       {
-        "name": "Broadsides",
-        "description": "Füge drei XV88 Broadside Battlesuits hinzu",
+        "name": "Koloss-Kampfanzüge",
+        "description": "Füge drei XV88-Koloss-Kampfanzüge hinzu",
         "points": "125 Punkte"
       },
       {
@@ -271,31 +271,31 @@
       },
       {
         "name": "Angriffsdrohnen",
-        "description": "Füge zwei Gun Drones hinzu",
+        "description": "Füge zwei Angriffsdrohnen hinzu",
         "points": "25 Punkte"
       },
       {
-        "name": "Hammerheads",
+        "name": "Hammerhaie",
         "description": "Füge eine der folgenden Optionen hinzu:",
         "options": [
           {
-            "description": "Füge zwei Ion Hammerheads hinzu",
+            "description": "Füge zwei Ionen-Hammerhaie hinzu",
             "points": "75 Punkte"
           },
           {
-            "description": "Füge bis zu zwei Rail Hammerheads oder bis zu zwei Fusion Hammerheads hinzu",
+            "description": "Füge bis zu zwei Massebeschleuniger-Hammerhaie oder bis zu zwei Fusions-Hammerhaie hinzu",
             "points": "50 Punkte pro Stück"
           }
         ]
       },
       {
         "name": "Kroot-Söldner",
-        "description": "Füge vier Kroot Warriors hinzu",
+        "description": "Füge vier Kroot-Söldner-Krieger hinzu",
         "points": "50 Punkte"
       },
       {
         "name": "Kroot-Hunde",
-        "description": "Füge zwei Kroot Hounds hinzu",
+        "description": "Füge zwei Kroot-Hunde hinzu",
         "points": "25 Punkte"
       },
       {
@@ -305,7 +305,7 @@
       },
       {
         "name": "Dornenhai",
-        "description": "Füge 1 Sky Ray hinzu",
+        "description": "Füge 1 Dornenhai hinzu",
         "points": "100 Punkte"
       }
     ]

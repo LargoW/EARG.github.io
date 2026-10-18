@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Lord Seneschal",
+        "name": "Seneschallord",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -17,7 +17,7 @@
         ]
       },
       {
-        "name": "Seneschal",
+        "name": "Seneschall",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -28,7 +28,7 @@
         ]
       },
       {
-        "name": "Zwillings Icarus Autocannon",
+        "name": "Zwillings-Icarus-Autokanone",
         "type": "CH",
         "weapons": [
           "Zwillings-Icarus Maschinenkanone"
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "name": "Ironstorm Missile Pod",
+        "name": "Ironstorm-Raketenbehälter",
         "type": "CH",
         "weapons": [
           "Sturmfurie-Raketen||FwA"
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "name": "Armiger Knight-Warglaive",
+        "name": "Armiger-Ritter-Warglaive",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -60,11 +60,11 @@
           "Starrköpfig",
           "Geländegängig",
           "Aufklärer",
-          "Ionen Schild (4+)"
+          "Ionenschild (4+)"
         ]
       },
       {
-        "name": "Armiger Knight-Helverin",
+        "name": "Armiger-Ritter-Helverin",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -77,11 +77,11 @@
           "Starrköpfig",
           "Geländegängig",
           "Aufklärer",
-          "Ionen Schild (4+)"
+          "Ionenschild (4+)"
         ]
       },
       {
-        "name": "Armiger Relic Knight-Moirax",
+        "name": "Armiger-Reliktritter-Moirax",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -96,13 +96,13 @@
           "Starrköpfig",
           "Geländegängig",
           "Aufklärer",
-          "Ionen Schild (4+)",
-          "Ionic Flare Shield"
+          "Ionenschild (4+)",
+          "Ionen-Flammenschild"
         ],
         "notes": "Muss entweder mit Lightning Locks oder mit Volkite Veuglaire und Gyges Siege Claw bewaffnet sein."
       },
       {
-        "name": "Questoris Knight-Paladin",
+        "name": "Questoris-Ritter-Paladin",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -117,11 +117,11 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Questoris Knight-Errant",
+        "name": "Questoris-Ritter-Errant",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -136,11 +136,11 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Questoris Knight-Crusader",
+        "name": "Questoris-Ritter-Crusader",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -155,11 +155,11 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Questoris Knight-Gallant",
+        "name": "Questoris-Ritter-Gallant",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -175,11 +175,11 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Questoris Knight-Warden",
+        "name": "Questoris-Ritter-Warden",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -195,11 +195,11 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Questoris Knight-Preceptor",
+        "name": "Questoris-Ritter-Preceptor",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -214,11 +214,11 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Questoris Knight-Freeblade",
+        "name": "Questoris-Ritter-Freeblade",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -241,11 +241,11 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Questoris Relic Knight-Styrix",
+        "name": "Questoris-Reliktritter-Styrix",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -262,12 +262,12 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ionen Schild (3+)",
-          "Ionic Flare Shield"
+          "Ionenschild (3+)",
+          "Ionen-Flammenschild"
         ]
       },
       {
-        "name": "Questoris Relic Knight-Magaera",
+        "name": "Questoris-Reliktritter-Magaera",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -283,12 +283,12 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Ionen Schild (3+)",
-          "Ionic Flare Shield"
+          "Ionenschild (3+)",
+          "Ionen-Flammenschild"
         ]
       },
       {
-        "name": "Dominus Knight-Castellan",
+        "name": "Dominus-Ritter-Castellan",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -304,11 +304,11 @@
           "Starrköpfig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Dominus Knight-Valiant",
+        "name": "Dominus-Ritter-Valiant",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -324,11 +324,11 @@
           "Starrköpfig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Cerastus Knight-Acheron",
+        "name": "Cerastus-Ritter-Acheron",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -344,11 +344,11 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Cerastus Knight-Castigator",
+        "name": "Cerastus-Ritter-Castigator",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -364,11 +364,11 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ]
       },
       {
-        "name": "Cerastus Knight-Lancer",
+        "name": "Cerastus-Ritter-Lancer",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -383,12 +383,12 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ionen Schild (3+)",
-          "Ionic Flare Shield"
+          "Ionenschild (3+)",
+          "Ionen-Flammenschild"
         ]
       },
       {
-        "name": "Cerastus Relic Knight-Atrapos",
+        "name": "Cerastus-Reliktritter-Atrapos",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -404,12 +404,12 @@
           "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ionen Schild (3+)",
-          "Ionic Flare Shield"
+          "Ionenschild (3+)",
+          "Ionen-Flammenschild"
         ]
       },
       {
-        "name": "Acastus Relic Knight-Porphyrion",
+        "name": "Acastus-Reliktritter-Porphyrion",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -425,12 +425,12 @@
           "Starrköpfig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ],
-        "crit": "The Acastus Knight takes 1 additional damage."
+        "crit": "Der Acastus-Ritter erleidet 1 zusätzlichen Schadenspunkt."
       },
       {
-        "name": "Acastus Relic Knight-Asterius",
+        "name": "Acastus-Reliktritter-Asterius",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -446,12 +446,12 @@
           "Starrköpfig",
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ionen Schild (3+)"
+          "Ionenschild (3+)"
         ],
-        "crit": "The Acastus Knight takes 1 additional damage."
+        "crit": "Der Acastus-Ritter erleidet 1 zusätzlichen Schadenspunkt."
       },
       {
-        "name": "Knight-Baron",
+        "name": "Ritter-Baron",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -469,11 +469,11 @@
           "Furchtlos",
           "Geländegängig",
           "Inspirierend",
-          "Ionen Schild (4+)"
+          "Ionenschild (4+)"
         ]
       },
       {
-        "name": "Knight-Paladin",
+        "name": "Ritter-Paladin",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -487,11 +487,11 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ionen Schild (4+)"
+          "Ionenschild (4+)"
         ]
       },
       {
-        "name": "Knight-Castellan",
+        "name": "Ritter-Castellan",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -505,11 +505,11 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ionen Schild (4+)"
+          "Ionenschild (4+)"
         ]
       },
       {
-        "name": "Knight-Lancer",
+        "name": "Ritter-Lancer",
         "type": "H-AV",
         "speed": 30,
         "armour": 5,
@@ -523,11 +523,11 @@
           "Verstärkte Panzerung",
           "Geländegängig",
           "Aufklärer",
-          "Ionen Schild (4+)"
+          "Ionenschild (4+)"
         ]
       },
       {
-        "name": "Knight-Errant",
+        "name": "Ritter-Errant",
         "type": "H-AV",
         "speed": 25,
         "armour": 5,
@@ -541,11 +541,11 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ionen Schild (4+)"
+          "Ionenschild (4+)"
         ]
       },
       {
-        "name": "Knight-Warden Demolisher",
+        "name": "Ritter-Warden-Demolisher",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -558,11 +558,11 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ionen Schild (4+)"
+          "Ionenschild (4+)"
         ]
       },
       {
-        "name": "Knight-Warden Vanquisher",
+        "name": "Ritter-Warden-Vanquisher",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -574,11 +574,11 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ionen Schild (4+)"
+          "Ionenschild (4+)"
         ]
       },
       {
-        "name": "Knight-Warden Skysweeper",
+        "name": "Ritter-Warden-Skyjäger",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -591,7 +591,7 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Geländegängig",
-          "Ionen Schild (4+)"
+          "Ionenschild (4+)"
         ]
       }
     ]

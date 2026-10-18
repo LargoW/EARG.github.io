@@ -23,7 +23,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -73,7 +73,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Inspirierend",
-          "Augment Summoning (+2D3)",
+          "Verstärkte Beschwörung (+2D3)",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -99,7 +99,7 @@
           "Inspirierend",
           "Oberbefehlshaber",
           "Heralds of Truth",
-          "Augment Summoning (+W3)",
+          "Verstärkte Beschwörung (+W3)",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -122,7 +122,7 @@
           "Doom Siren"
         ],
         "specialRules": [
-            "Daemonic Focus",
+            "Dämonischer Fokus",
             "Befehlshaber",
           "Anführer",
           "Unmodifizierter Rettungswurf"
@@ -209,7 +209,7 @@
         ],
         "specialRules": [
           "Heralds of Truth",
-          "Augment Summoning (+W3)",
+          "Verstärkte Beschwörung (+W3)",
           "Anführer",
           "Unmodifizierter Rettungswurf"
         ]
@@ -233,10 +233,10 @@
           "Daemonic Possession"
         ],
         "specialRules": [
-          "Augment Summoning (+2D3)",
+          "Verstärkte Beschwörung (+2D3)",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "May be sacrificed. Before rolling its formations summoning points this unit’s Augment Summoning (+2D3) ability is changed to Augment Summoning (+6). After this roll the unit with the Champion is destroyed with no saves allowed. A unit sacrificed in this way does not cause a Blast Marker."
+        "notes": "May be sacrificed. Before rolling its formations summoning points this unit’s Verstärkte Beschwörung (+2D3) ability is changed to Verstärkte Beschwörung (+6). After this roll the unit with the Champion is destroyed with no saves allowed. A unit sacrificed in this way does not cause a Blast Marker."
       },
       {
         "name": "Night Lords Sergeant",
@@ -256,8 +256,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Augment Summoning (+1)",
-          "Daemonic Focus",
+          "Verstärkte Beschwörung (+1)",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
@@ -269,8 +269,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Augment Summoning (+W3)",
-          "Daemonic Focus",
+          "Verstärkte Beschwörung (+W3)",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -291,7 +291,7 @@
           "Jump Pack",
           "Teleport",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -312,7 +312,7 @@
           "Jump Pack",
           "Teleport",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Daemonic Pact",
           "Unmodifizierter Rettungswurf"
         ]
@@ -334,8 +334,8 @@
           "Verstärkte Panzerung",
           "Jump Pack",
           "Furchtlos",
-          "Daemonic Focus",
-          "Augment Summoning (+W3)",
+          "Dämonischer Fokus",
+          "Verstärkte Beschwörung (+W3)",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -356,7 +356,7 @@
           "Jump Pack",
           "Teleport",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -377,7 +377,7 @@
           "Jump Pack",
           "Teleport",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -398,7 +398,7 @@
           "Jump Pack",
           "Teleport",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -418,9 +418,9 @@
           "Oberbefehlshaber",
           "Verstärkte Panzerung",
           "Jump Pack",
-          "Warp Rift",
+          "Warp Riss",
           "Furchtlos",
-          "Daemonic Focus",
+          "Dämonischer Fokus",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -919,7 +919,7 @@
         "specialRules": [
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Warp Rift",
+          "Warp Riss",
           "Verstärkte Heckpanzerung"
         ]
       },

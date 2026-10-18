@@ -1,15 +1,15 @@
 {
   "fraction": "Astra Militarum",
-  "army": "Catachan Jungle Fighters",
+  "army": "Catachanische Dschungelkämpfer",
   "version": "0.7.2",
   "release": "2022-04-01",
-  "strategy": "Catachan Jungle Fighter-Armeen haben einen Strategiewert von 3.",
+  "strategy": "Armeen der Catachanischen Dschungelkämpfer haben einen Strategiewert von 3.",
   "Initiative": "Alle Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
-    "Catachan Commanders"
+    "Catachan-Befehlshaber"
   ],
   "usage": [
-    "Diese Armeeliste ermöglicht es dir, eine Armee eines Regiments der Catachan Jungle Fighters aufzustellen."
+    "Mit diesem Armeeorganisationsplan kannst du eine Armee eines Regiments der Catachanischen Dschungelkämpfer aufstellen."
   ],
   "units": [
     {
@@ -34,7 +34,7 @@
         "Teufelshund",
         "Leman Russ Kampfpanzer",
         "Leman Russ Exterminator",
-        "Leman Russ Demolisher",
+        "Leman-Russ-Belagerungspanzer",
         "Hellhammer",
         "Stormblade",
         "Shadowsword"
@@ -46,10 +46,10 @@
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Thunderbolt Fighter",
-        "Marauder Bomber",
-        "Lunar Class Cruiser",
-        "Emperor Class Battleship"
+        "Donnerkeil-Jäger",
+        "Marauder-Bomber (B)",
+        "Kreuzer der Lunar-Klasse",
+        "Schlachtschiff der Emperor-Klasse"
       ],
       "unitRules": [
       ]
@@ -60,24 +60,24 @@
       "name": "Catachan Kernkompanien",
       "formations": [
         {
-          "name": "Catachan Regimental HQ",
-          "units": "Ein Catachan Oberbefehlshaber, sieben Catachan Infantry",
-          "extraUnits": [
-            "Death World Transport (Compulsory)",
-            "Flakk Teams",
+          "name": "Regimentshauptquartier der Catachaner",
+          "units": "Ein Catachanischer Oberbefehlshaber, sieben Catachanische Infanteristen (INF)",
+          "extraEinheits": [
+            "Todeswelt-Transporter (verpflichtend)",
+            "Flakteam",
             "Ogryns",
-            "Devil Dogs"
+            "Teufelshunde"
           ],
           "points": 225
         },
         {
-          "name": "Catachan Company",
-          "units": "Ein Catachan Befehlshaber, sieben Catachan Infantry",
-          "extraUnits": [
-            "Death World Transport (Compulsory)",
-            "Flakk Teams",
+          "name": "Catachan-Kompanie",
+          "units": "Ein Catachanischer Befehlshaber, sieben Catachanische Infanteristen (INF)",
+          "extraEinheits": [
+            "Todeswelt-Transporter (verpflichtend)",
+            "Flakteam",
             "Ogryns",
-            "Devil Dogs"
+            "Teufelshunde"
           ],
           "points": 150
         }
@@ -88,115 +88,115 @@
       "description": "Pro Kernkompanie dürfen bis zu zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
-          "name": "Leman Russ Platoon",
-          "units": "Sechs Leman Russ, Leman Russ Demolishers, oder Leman Russ Exterminators",
-          "extraUnits": [
+          "name": "Leman-Russ-Zug",
+          "units": "Sechs Leman Russ, Leman Russ Demolisher oder Leman Russ Exterminator",
+          "extraEinheits": [
             "Flak"
           ],
           "points": 375
         },
         {
-          "name": "Vulture Squadron",
+          "name": "Vulture-Staffel",
           "units": "Vier Vultures",
-          "extraUnits": [
+          "extraEinheits": [
             "Ersetze 1 Vulture durch 2 Vendettas: 25 Punkte"
           ],
           "points": 300
         },
         {
-          "name": "Artillery Battery",
-          "units": "Drei Basilisks",
-          "extraUnits": [
+          "name": "Artilleriebatterie",
+          "units": "Drei Basilisken",
+          "extraEinheits": [
           ],
           "points": 225
         },
         {
-          "name": "Deathstrike Battery",
-          "units": "Zwei Deathstrikes",
-          "extraUnits": [
+          "name": "Todesstoß-Batterie",
+          "units": "Zwei Todesstoß-Raketensilos",
+          "extraEinheits": [
           ],
           "points": 225
         },
         {
-          "name": "Veteran Company",
-          "units": "Ein Catachan Befehlshaber und sieben Death World Veterans",
-          "extraUnits": [
-            "Death World Transport"
+          "name": "Veteranenkompanie",
+          "units": "Ein Catachanischer Befehlshaber und sieben Todesweltveteranen",
+          "extraEinheits": [
+            "Todeswelt-Transporter"
           ],
           "points": 200
         },
         {
-          "name": "Catachan Super-Heavy Platoon",
+          "name": "Catachan-Superschwerer Panzerzug",
           "units": "Ein Hellhammer oder Stormblade",
-          "extraUnits": [
+          "extraEinheits": [
             "Füge 2 Ogryns hinzu: 50 Punkte pro Stück"
           ],
           "points": 200
         },
         {
-          "name": "Griffon Battery",
-          "units": "Drei Griffons",
-          "extraUnits": [
+          "name": "Greif-Batterie",
+          "units": "Drei Greifs",
+          "extraEinheits": [
           ],
           "points": 175
         },
         {
-          "name": "Devil Dog Squadron",
-          "units": "Vier Devil Dogs",
-          "extraUnits": [
+          "name": "Teufelshund-Staffel",
+          "units": "Vier Teufelshunde",
+          "extraEinheits": [
           ],
           "points": 200
         },
         {
-          "name": "Scharfschütze Platoon",
-          "units": "Vier Scharfschützes, zwei Death World Chimeras",
-          "extraUnits": [
+          "name": "Scharfschützenzug",
+          "units": "Vier Scharfschützen, zwei Todeswelt-Chimären",
+          "extraEinheits": [
           ],
           "points": 150
         },
         {
-          "name": "Catachan Sentinel Squadron",
-          "units": "Vier Catachan Sentinels",
-          "extraUnits": [
+          "name": "Catachan-Sentinel-Staffel",
+          "units": "Vier Catachan-Sentinels",
+          "extraEinheits": [
           ],
           "points": 125
         }
       ]
     },
     {
-      "name": "Imperial Flotte Verbände",
-      "description": "Bis zu ein Viertel der verfügbaren Punkte darf für Imperiale Flotte Verbände ausgegeben werden",
+      "name": "Verbände der Imperialen Flotte",
+      "description": "Bis zu ein Viertel der verfügbaren Punkte darf für Verbände der Imperialen Flotte ausgegeben werden.",
       "formations": [
         {
-          "name": "Thunderbolt Squadron",
-          "units": "Zwei Thunderbolt Fighters",
+          "name": "Donnerkeil-Staffel",
+          "units": "Zwei Donnerkeil-Jäger",
           "points": 175
         },
         {
-          "name": "Marauder Squadron",
-          "units": "Zwei Marauder Bombers",
+          "name": "Marauder-Staffel",
+          "units": "Zwei Marauder-Bomber (B)",
           "points": 250
         },
         {
           "name": "0–1 Orbitale Unterstützung",
-          "units": "Ein Lunar Class Cruiser",
+          "units": "Ein Kreuzer der Lunar-Klasse",
           "points": 125,
-          "extraUnits": [
-            "Ersetze den Cruiser durch ein Emperor Class Battleship: 50 Punkte"
+          "extraEinheits": [
+            "Ersetze den Kreuzer durch ein Schlachtschiff der Emperor-Klasse: 50 Punkte"
           ]
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Catachan Aufwertungen",
+    "title": "Catachan-Aufwertungen",
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "Flakk Teams",
+        "name": "Flakteam",
         "options": [
           {
-            "description": "Ersetze bis zu 2 Catachan Infantry durch Flakk Teams",
+            "description": "Ersetze bis zu 2 Catachanische Infanteristen (INF) durch Flakteams",
             "points": "25 Punkte pro Stück"
           }
         ]
@@ -205,16 +205,16 @@
         "name": "Ogryns",
         "options": [
           {
-            "description": "Füge bis zu 2 Ogryns hinzu, jeweils mit einer Deathworld Chimera. Der Verband darf nicht in Valkyries transportiert werden.",
+            "description": "Füge bis zu 2 Ogryns hinzu, jeweils mit einer Todeswelt-Chimäre. Der Verband darf nicht in Valkyries transportiert werden.",
             "points": "50 Punkte pro Stück"
           }
         ]
       },
       {
-        "name": "Devil Dogs",
+        "name": "Teufelshunde",
         "options": [
           {
-            "description": "Füge bis zu 2 Devil Dogs hinzu",
+            "description": "Füge bis zu 2 Teufelshunde hinzu",
             "points": "25 Punkte pro Stück"
           }
         ]
@@ -229,14 +229,14 @@
         ]
       },
       {
-        "name": "Death-World-Transporter",
+        "name": "Todeswelt-Transporter",
         "options": [
           {
             "description": "Wähle eine der folgenden Optionen:",
             "points": ""
           },
           {
-            "description": "Füge genügend Death World Chimeras hinzu, um den gesamten Verband ohne freie Transportkapazität zu transportieren",
+            "description": "Füge genügend Todeswelt-Chimären hinzu, um den gesamten Verband ohne freie Transportkapazität zu transportieren.",
             "points": "25 Punkte pro Stück"
           },
           {

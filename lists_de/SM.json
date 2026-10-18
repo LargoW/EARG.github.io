@@ -30,7 +30,7 @@
         ]
       },
       {
-        "name": "Wolf Standard Bearer",
+        "name": "Wolfsstandartenträger",
         "type": "CH",
         "weapons": [],
         "specialRules": [
@@ -39,7 +39,7 @@
         ]
       },
       {
-        "name": "Dark Angels Captain",
+        "name": "Captain der Dark Angels",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -48,7 +48,7 @@
           "Befehlshaber",
           "Unmodifizierter Rettungswurf",
           "Anführer",
-          "Teleport Homer"
+          "Teleportieren-Peilsender"
         ]
       },
       {
@@ -69,7 +69,7 @@
         "specialRules": [
           "Erweiterte Befehlsreichweite",
           "Befehlshaber",
-          "Teleport Homer",
+          "Teleportieren-Peilsender",
           "Anführer"
         ]
       },
@@ -102,7 +102,7 @@
           "Energiewaffe"
         ],
         "specialRules": [
-          "Bionics",
+          "Bionik",
           "Befehlshaber",
           "Unmodifizierter Rettungswurf",
           "Anführer"
@@ -125,7 +125,7 @@
           "Servoarm"
         ],
         "specialRules": [
-          "Battlefield Repairs",
+          "Reparaturen auf dem Schlachtfeld",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
@@ -148,7 +148,7 @@
           "Schmetterschlag"
         ],
         "specialRules": [
-          "Teleport Homer",
+          "Teleportieren-Peilsender",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
@@ -162,7 +162,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Teleport Homer",
+          "Teleportieren-Peilsender",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -173,7 +173,7 @@
           "Energiewaffe"
         ],
         "specialRules": [
-          "Bionics",
+          "Bionik",
           "Oberbefehlshaber",
           "Unmodifizierter Rettungswurf"
         ]
@@ -211,7 +211,7 @@
           "Unmodifizierter Rettungswurf",
           "Oberbefehlshaber",
           "Erweiterte Befehlsreichweite",
-          "Teleport Homer"
+          "Teleportieren-Peilsender"
         ]
       },
       {
@@ -253,9 +253,9 @@
           "Kettenschwerter"
         ],
         "specialRules": [
-          "Infiltratorens"
+          "Infiltratoren"
         ],
-        "notes": "Zählt für Transportzwecke als Tacticals."
+        "notes": "Zählt für Transportzwecke als Taktische Trupps."
       },
       {
         "name": "Himmelsklauen-Sturmtrupps",
@@ -329,7 +329,7 @@
           "Beritten",
           "Geländegängig"
         ],
-        "notes": "Zählt beim Transport als Terminators."
+        "notes": "Zählt beim Transport als Terminatoren."
       },
       {
         "name": "Todeskompanie-Marines",
@@ -344,9 +344,9 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Infiltratorens"
+          "Infiltratoren"
         ],
-        "notes": "Zählt beim Transport als Tacticals."
+        "notes": "Zählt beim Transport als Taktische Trupps."
       },
       {
         "name": "Devastor-Trupps",
@@ -381,7 +381,7 @@
           "Laserkanone|2",
           "Schwerer Bolter"
         ],
-        "notes": "Zählen für Transportzwecke als Devastators."
+        "notes": "Zählen für Transportzwecke als Devastor-Trupps."
       },
       {
         "name": "Dark-Angels-Devastortrupps",
@@ -407,7 +407,7 @@
         ]
       },
       {
-        "name": "Scouts",
+        "name": "Aufklärer",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -417,12 +417,12 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Aufklärer"
         ]
       },
       {
-        "name": "Raven-Guard-Scouts",
+        "name": "Raven-Guard-Aufklärer",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -432,13 +432,13 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Expert Reconnaissance",
-          "Infiltratorens",
+          "Expertenaufklärung",
+          "Infiltratoren",
           "Aufklärer"
         ]
       },
       {
-        "name": "Wolf-Scouts",
+        "name": "Wolf-Aufklärer",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -448,7 +448,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltratoren",
           "Aufklärer"
         ]
       },
@@ -474,7 +474,7 @@
           "Bolter",
           "Kettenschwerter"
         ],
-        "notes": "Zählen für Transportzwecke als Tacticals."
+        "notes": "Zählen für Transportzwecke als Taktische Trupps."
       },
       {
         "name": "Deathwatch-Taktische-Trupps",
@@ -551,7 +551,7 @@
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -585,7 +585,7 @@
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung",
           "Unmodifizierter Rettungswurf"
         ]
@@ -604,7 +604,7 @@
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -621,7 +621,7 @@
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -638,7 +638,7 @@
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung"
         ]
       },
@@ -655,7 +655,7 @@
         "specialRules": [
           "Furchtlos",
           "Verstärkte Panzerung",
-          "Teleport",
+          "Teleportieren",
           "Verstärkte Heckpanzerung",
           "Unmodifizierter Rettungswurf"
         ]
@@ -673,10 +673,10 @@
           "Nemesis Dämon Hämmer"
         ],
         "specialRules": [
-          "Faithful",
+          "Treu",
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
-          "Teleport",
+          "Teleportieren",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -695,7 +695,7 @@
         "specialRules": [
           "Verstärkte Panzerung"
         ],
-        "notes": "Zählt beim Transport als Terminators."
+        "notes": "Zählt beim Transport als Terminatoren."
       },
       {
         "name": "Devastor-Centurions",
@@ -712,7 +712,7 @@
         "specialRules": [
           "Verstärkte Panzerung"
         ],
-        "notes": "Zählt beim Transport als Terminators."
+        "notes": "Zählt beim Transport als Terminatoren."
       },
       {
         "name": "Sanguinische-Garde",
@@ -726,10 +726,10 @@
           "Karmesinrote Gleven"
         ],
         "specialRules": [
-          "Honour Guard",
+          "Ehrengarde",
           "Sprungmodule"
         ],
-        "notes": "Zählt beim Transport als Assaults."
+        "notes": "Zählt beim Transport als Sturmtrupps."
       },
       {
         "name": "Protektorgarde-Veteranen",
@@ -743,8 +743,8 @@
           "Veteranengarde-Bolter"
         ],
         "specialRules": [
-          "Infiltratorens",
-          "Teleport",
+          "Infiltratoren",
+          "Teleportieren",
           "Sturmangriff"
         ]
       },
@@ -789,10 +789,10 @@
         "weapons": [
           "Psikanone",
           "Holocaust",
-          "Nemesis Psionische Waffen"
+          "Nemesis-Psionikwaffen"
         ],
         "specialRules": [
-          "Faithful",
+          "Treu",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -808,7 +808,7 @@
           "Holocaust"
         ],
         "specialRules": [
-          "Faithful",
+          "Treu",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -821,12 +821,12 @@
         "ff": 3,
         "weapons": [
           "Holocaust",
-          "Nemesis Psionische Waffen"
+          "Nemesis-Psionikwaffen"
         ],
         "specialRules": [
-          "Faithful",
+          "Treu",
           "Unmodifizierter Rettungswurf",
-          "Teleport",
+          "Teleportieren",
           "Sprungmodule"
         ]
       },
@@ -842,7 +842,7 @@
           "Kettenschwerter"
         ],
         "specialRules": [
-          "Born in the Saddle",
+          "Im Sattel geboren",
           "Beritten",
           "Geländegängig"
         ]
@@ -859,7 +859,7 @@
           "Kettenschwerter"
         ],
         "specialRules": [
-          "Born in the Saddle",
+          "Im Sattel geboren",
           "Beritten",
           "Aufklärer",
           "Geländegängig"
@@ -899,7 +899,7 @@
         ]
       },
       {
-        "name": "Nemesis Dreadknight",
+        "name": "Nemesis-Ritter",
         "type": "LV",
         "speed": 15,
         "armour": 4,
@@ -912,9 +912,9 @@
         "specialRules": [
           "Geländegängig",
           "Verstärkte Panzerung",
-          "Infiltratorens",
-          "Teleport",
-          "Faithful",
+          "Infiltratoren",
+          "Teleportieren",
+          "Treu",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -940,7 +940,7 @@
           "Dragonfire-Schwere Bolter"
         ],
         "specialRules": [
-          "Teleport Homer",
+          "Teleportieren-Peilsender",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -968,7 +968,7 @@
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
-          "Teleport Homer"
+          "Teleportieren-Peilsender"
         ]
       },
       {
@@ -985,7 +985,7 @@
           "Antigrav",
           "Transport"
         ],
-        "notes": "Kann 1 Einheit Scouts transportieren."
+        "notes": "Kann 1 Einheit Aufklärer transportieren."
       },
       {
         "name": "Land Speeder",
@@ -1003,7 +1003,7 @@
         ]
       },
       {
-        "name": "White-Scars-Land-Speeder",
+        "name": "White-Scars-Land Speeder",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1013,13 +1013,13 @@
           "Multimelter"
         ],
         "specialRules": [
-          "Wind-Swift",
+          "Windflink",
           "Aufklärer",
           "Antigrav"
         ]
       },
       {
-        "name": "Ravenwing-Land-Speeder",
+        "name": "Ravenwing-Land Speeder",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1032,7 +1032,7 @@
           "Aufklärer",
           "Antigrav",
           "Unmodifizierter Rettungswurf",
-          "Teleport Homer"
+          "Teleportieren-Peilsender"
         ]
       },
       {
@@ -1052,7 +1052,7 @@
         ]
       },
       {
-        "name": "White-Scars-Land-Speeder-Tornado",
+        "name": "White-Scars-Land Speeder-Tornado",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1063,7 +1063,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Wind-Swift",
+          "Windflink",
           "Aufklärer",
           "Antigrav"
         ]
@@ -1082,12 +1082,12 @@
         "specialRules": [
           "Aufklärer",
           "Antigrav",
-          "Teleport Homer",
+          "Teleportieren-Peilsender",
           "Unmodifizierter Rettungswurf"
         ]
       },
       {
-        "name": "Ravenwing-Land-Speeder-Tornado",
+        "name": "Ravenwing-Land Speeder-Tornado",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1101,7 +1101,7 @@
           "Aufklärer",
           "Antigrav",
           "Unmodifizierter Rettungswurf",
-          "Teleport Homer"
+          "Teleportieren-Peilsender"
         ]
       },
       {
@@ -1121,7 +1121,7 @@
         ]
       },
       {
-        "name": "White-Scars-Land-Speeder-Typhoon",
+        "name": "White-Scars-Land Speeder-Typhoon",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1132,7 +1132,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Wind-Swift",
+          "Windflink",
           "Aufklärer",
           "Antigrav"
         ]
@@ -1153,7 +1153,7 @@
         ]
       },
       {
-        "name": "White-Scars-Land-Speeder-Tempest",
+        "name": "White-Scars-Land Speeder-Tempest",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1164,12 +1164,12 @@
           "Sturmkanone"
         ],
         "specialRules": [
-          "Wind-Swift",
+          "Windflink",
           "Antigrav"
         ]
       },
       {
-        "name": "Ravenwing-Land-Speeder-Vengeance",
+        "name": "Ravenwing-Land Speeder-Vengeance",
         "type": "LV",
         "speed": 30,
         "armour": 4,
@@ -1182,7 +1182,7 @@
         "specialRules": [
           "Antigrav",
           "Unmodifizierter Rettungswurf",
-          "Teleport Homer"
+          "Teleportieren-Peilsender"
         ]
       },
       {
@@ -1196,8 +1196,8 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Born in the Saddle",
-          "Wind-Swift",
+          "Im Sattel geboren",
+          "Windflink",
           "Geländegängig"
         ]
       },
@@ -1212,8 +1212,8 @@
           "Multimelter"
         ],
         "specialRules": [
-          "Born in the Saddle",
-          "Wind-Swift",
+          "Im Sattel geboren",
+          "Windflink",
           "Geländegängig"
         ]
       },
@@ -1228,7 +1228,7 @@
           "Inspirierend",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "Kann nur einer Dreadnought-Einheit beliebiger Konfiguration hinzugefügt werden."
+        "notes": "Kann nur einer Cybot-Einheit beliebiger Konfiguration hinzugefügt werden."
       },
       {
         "name": "Cybot",
@@ -1275,7 +1275,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Infiltratorens",
+          "Infiltratoren",
           "Geländegängig"
         ]
       },
@@ -1306,10 +1306,10 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Infiltratorens",
+          "Infiltratoren",
           "Geländegängig"
         ],
-        "notes": "Zählt beim Transport als Dreadnought."
+        "notes": "Zählt beim Transport als Cybot."
       },
       {
         "name": "Mortis-Cybot",
@@ -1324,7 +1324,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Zählt beim Transport als Dreadnought."
+        "notes": "Zählt beim Transport als Cybot."
       },
       {
         "name": "Deathwing-Cybot",
@@ -1340,7 +1340,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Zählt beim Transport als Dreadnought."
+        "notes": "Zählt beim Transport als Cybot."
       },
       {
         "name": "Furioso-Cybot",
@@ -1356,7 +1356,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Zählt beim Transport als Dreadnought."
+        "notes": "Zählt beim Transport als Cybot."
       },
       {
         "name": "Hellfire-Cybot",
@@ -1372,7 +1372,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Zählt beim Transport als Dreadnought."
+        "notes": "Zählt beim Transport als Cybot."
       },
       {
         "name": "Doomglaive-Cybot",
@@ -1387,7 +1387,7 @@
         ],
         "specialRules": [
           "Geländegängig",
-          "Faithful",
+          "Treu",
           "Unmodifizierter Rettungswurf"
         ]
       },
@@ -1406,7 +1406,7 @@
           "Verstärkte Panzerung",
           "Geländegängig"
         ],
-        "notes": "Zählt beim Transport als Dreadnought."
+        "notes": "Zählt beim Transport als Cybot."
       },
       {
         "name": "Belagerungs-Cybot",
@@ -1423,7 +1423,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "Zählt beim Transport als Dreadnought."
+        "notes": "Zählt beim Transport als Cybot."
       },
       {
         "name": "Predator Annihilator",
@@ -1461,7 +1461,7 @@
           "Multimelter|2"
         ],
         "specialRules": [
-          "Lucifer Pattern Engine"
+          "Lucifer-Muster-Maschine"
         ]
       },
       {
@@ -1476,7 +1476,7 @@
           "Schwerer Flammenwerfer|2"
         ],
         "specialRules": [
-          "Lucifer Pattern Engine"
+          "Lucifer-Muster-Maschine"
         ]
       },
       {
@@ -1537,7 +1537,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 1 Infanterieeinheit (außer Terminators) ohne Sprungmodule oder Beritten transportieren. Bewaffnet entweder mit einer Zwillings-Laserkanone oder einem Zwillings-Schwerbolter. Razorbacks mit Zwillings-Schwerbolter erhalten einen Feuergefechtswert von 4+."
+        "notes": "Kann 1 Infanterieeinheit (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren. Bewaffnet entweder mit einer Zwillings-Laserkanone oder einem Zwillings-Schwerbolter. Razorbacks mit Zwillings-Schwerbolter erhalten einen Feuergefechtswert von 4+."
       },
       {
         "name": "Blood-Angels-Razorback",
@@ -1568,9 +1568,9 @@
         ],
         "specialRules": [
           "Transport",
-          "Lucifer Pattern Engine"
+          "Lucifer-Muster-Maschine"
         ],
-        "notes": "Kann 1 Infanterieeinheit (außer Terminators) ohne Sprungmodule oder Beritten transportieren. Bewaffnet entweder mit einer Zwillings-Laserkanone oder einem Zwillings-Schwerbolter. Razorbacks mit Zwillings-Schwerbolter erhalten einen Feuergefechtswert von 4+."
+        "notes": "Kann 1 Infanterieeinheit (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren. Bewaffnet entweder mit einer Zwillings-Laserkanone oder einem Zwillings-Schwerbolter. Razorbacks mit Zwillings-Schwerbolter erhalten einen Feuergefechtswert von 4+."
       },
       {
         "name": "Deathwatch-Razorback",
@@ -1599,7 +1599,7 @@
         ],
         "specialRules": [
           "Transport",
-          "Faithful",
+          "Treu",
           "Unmodifizierter Rettungswurf"
         ],
         "notes": "Kann 1 Infanterieeinheit (außer einer Terminator-Einheit) ohne Sprungmodule oder Beritten transportieren."
@@ -1617,7 +1617,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Blood-Angels-Rhino",
@@ -1631,9 +1631,9 @@
         ],
         "specialRules": [
           "Transport",
-          "Lucifer Pattern Engine"
+          "Lucifer-Muster-Maschine"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Belagerungs-Rhino",
@@ -1649,7 +1649,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Damokles-Kommandorhino",
@@ -1665,7 +1665,7 @@
           "Erweiterte Befehlsreichweite",
           "Transport"
         ],
-        "notes": "Kann 1 Infanterieeinheit (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 1 Infanterieeinheit (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Grey-Knights-Rhino",
@@ -1679,10 +1679,10 @@
         ],
         "specialRules": [
           "Transport",
-          "Faithful",
+          "Treu",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
             {
         "name": "Grey-Knights-Razorback",
@@ -1696,10 +1696,10 @@
         ],
         "specialRules": [
           "Transport",
-          "Faithful",
+          "Treu",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "Kann 2 Infanterieeinheiten (außer Terminators) ohne Sprungmodule oder Beritten transportieren."
+        "notes": "Kann 2 Infanterieeinheiten (außer Terminatoren) ohne Sprungmodule oder Beritten transportieren."
       },
       {
         "name": "Hunter",
@@ -1723,7 +1723,7 @@
           "Jagd-Killer"
         ],
         "specialRules": [
-          "Lucifer Pattern Engine"
+          "Lucifer-Muster-Maschine"
         ]
       },
       {
@@ -1748,7 +1748,7 @@
           "Icarus-Sturmkanonen"
         ],
         "specialRules": [
-          "Lucifer Pattern Engine"
+          "Lucifer-Muster-Maschine"
         ]
       },
       {
@@ -1832,10 +1832,10 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
+        "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; Terminatoren zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
       },
       {
-        "name": "Deathwing-Land-Raider",
+        "name": "Deathwing-Land-Schattenbarke",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1854,7 +1854,7 @@
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Vortimer-Land-Raider",
+        "name": "Vortimer-Land-Schattenbarke",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1866,7 +1866,7 @@
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Faithful",
+          "Treu",
           "Verstärkte Heckpanzerung",
           "Transport",
           "Unmodifizierter Rettungswurf"
@@ -1874,7 +1874,7 @@
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Vortimer-Land-Raider-Redeemer",
+        "name": "Vortimer-Land-Schattenbarke-Redeemer",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1886,12 +1886,12 @@
         ],
         "specialRules": [
           "Verstärkte Panzerung",
-          "Faithful",
+          "Treu",
           "Verstärkte Heckpanzerung",
           "Transport",
           "Unmodifizierter Rettungswurf"
         ],
-        "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
+        "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren; Terminatoren zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
       },
       {
         "name": "Land Raider Ares",
@@ -1944,7 +1944,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Kann 1 Dreadnought oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Zählt beim Transport selbst als Land Raider."
+        "notes": "Kann 1 Cybot oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Zählt beim Transport selbst als Land Raider."
       },
       {
         "name": "Land Raider Crusader",
@@ -1962,10 +1962,10 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
+        "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminatoren zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
       },
       {
-        "name": "Deathwatch-Land-Raider",
+        "name": "Deathwatch-Land-Schattenbarke",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -1978,10 +1978,10 @@
         "specialRules": [
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung",
-          "Teleport Homer",
+          "Teleportieren-Peilsender",
           "Transport"
         ],
-        "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
+        "notes": "Kann 3 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren. Terminatoren zählen jeweils als 1,5 Einheiten (aufgerundet). Zählt beim Transport selbst als Land Raider."
       },
       {
         "name": "Land Raider Helios",
@@ -2021,7 +2021,7 @@
         "notes": "Kann 1 Terminator-Einheit oder 2 Infanterieeinheiten ohne Sprungmodule oder Beritten transportieren."
       },
       {
-        "name": "Land Raider Wrath of Mjalnar",
+        "name": "Land Raider Zorn von Mjalnar",
         "type": "AV",
         "speed": 25,
         "armour": 4,
@@ -2057,7 +2057,7 @@
           "Verstärkte Panzerung",
           "Verstärkte Heckpanzerung"
         ],
-        "notes": "Muss entweder 2 Rapier Laser Destroyers oder 2 Thunderfire Cannons erhalten. Eine Bastion gilt nach ihrer Zerstörung als Ruinengelände.",
+        "notes": "Muss entweder 2 Rapier Laser Destruktoren oder 2 Salvenkanones erhalten. Eine Bastion gilt nach ihrer Zerstörung als Ruinengelände.",
         "crit": "Bastion erleidet 1 zusätzlichen Schaden."
       },
       {
@@ -2100,7 +2100,7 @@
       {
         "name": "Deathwatch-Landungsschiff",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 5,
         "ff": 3,
@@ -2115,13 +2115,13 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Kann 12 Infanterieeinheiten, Attack Bikes oder Dreadnoughts transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer Dreadnoughts) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet).",
+        "notes": "Kann 12 Infanterieeinheiten, Trikes oder Cybots transportieren; Terminatoren und Cybots zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer Cybots) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet).",
         "crit": "Die Einheit und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer."
       },
       {
         "name": "Grey-Knights-Landungsschiff",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 5,
         "ff": 3,
@@ -2132,18 +2132,18 @@
         "specialRules": [
           "Schadenskapazität 4",
           "Furchtlos",
-          "Faithful",
+          "Treu",
           "Planetfall",
           "Verstärkte Panzerung",
           "Unmodifizierter Rettungswurf",
           "Transport"
         ],
-        "notes": "Kann 12 Infanterieeinheiten oder Dreadnoughts transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer Dreadnoughts) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet). Effekt eines Kritischen Treffers: Die Einheit und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 4+ einen Treffer."
+        "notes": "Kann 12 Infanterieeinheiten oder Cybots transportieren; Terminatoren und Cybots zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer Cybots) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet). Effekt eines Kritischen Treffers: Die Einheit und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5 cm erleiden bei 4+ einen Treffer."
       },
       {
         "name": "Stormwolf-Sturmboot",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 5,
         "cc": 5,
         "ff": 4,
@@ -2158,13 +2158,13 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "Kann 6 Infanterieeinheiten ohne Beritten transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zählt beim Transport selbst als Landing Craft.",
+        "notes": "Kann 6 Infanterieeinheiten ohne Beritten transportieren; Terminatoren und Cybots zählen jeweils als 2 Einheiten. Zählt beim Transport selbst als Landungsschiff.",
         "crit": "Stormwolf und alle transportierten Einheiten werden zerstört."
       },
       {
-        "name": "Stormfang Gunship",
+        "name": "Stormfang-Landungsschiff",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 5,
         "weapons": [
           "AC Helfrost Zerstörer||FxF",
@@ -2178,9 +2178,9 @@
         "crit": "Stormfang wird zerstört."
       },
       {
-        "name": "Storm Talon",
+        "name": "Sturmtalon",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 5,
         "weapons": [
           "AC Zwillings-Sturmkanone||FwA",
@@ -2188,9 +2188,9 @@
         ]
       },
       {
-        "name": "Deathwatch Storm Talon",
+        "name": "Deathwatch Sturmtalon",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 5,
         "weapons": [
           "AC Zwillings-Sturmkanone||FwA",
@@ -2198,9 +2198,9 @@
         ]
       },
       {
-        "name": "Grey Knights Storm Talon",
+        "name": "Grey Knights Sturmtalon",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 5,
         "weapons": [
           "AC Zwillings-Sturmkanone||FwA",
@@ -2226,15 +2226,15 @@
           "Verstärkte Panzerung",
           "Antigrav",
           "Planetfall",
-          "Descent of Angels",
+          "Abstieg der Engel",
           "Transport"
         ],
-        "notes": "Kann 1 Terminator oder 2 Infanterieeinheiten ohne Beritten transportieren. Zusätzlich kann 1 Dreadnought mitgeführt werden. Zählt beim Transport selbst als Drop Pod."
+        "notes": "Kann 1 Terminator oder 2 Infanterieeinheiten ohne Beritten transportieren. Zusätzlich kann 1 Cybot mitgeführt werden. Zählt beim Transport selbst als Landungskapsel."
       },
       {
         "name": "Corvus-Blackstar-Landungsschiff",
         "type": "AC/WE",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber (FB)",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -2246,15 +2246,15 @@
         "specialRules": [
           "Schadenskapazität 2",
           "Planetfall",
-          "Wings of the Sky Angel",
+          "Schwingen des Himmelsengels",
           "Transport"
         ],
-        "notes": "Kann 3 Infanterieeinheiten oder Attack Bikes transportieren. Terminators zählen jeweils als 1,5 Einheiten (aufgerundet). Zusätzlich kann 1 Dreadnought oder Land Speeder mitgeführt werden."
+        "notes": "Kann 3 Infanterieeinheiten oder Trikes transportieren. Terminatoren zählen jeweils als 1,5 Einheiten (aufgerundet). Zusätzlich kann 1 Cybot oder Land Speeder mitgeführt werden."
       },
       {
         "name": "Ravenwing-Nephilim",
         "type": "AC",
-        "speed": "Fighter",
+        "speed": "Jäger",
         "armour": 5,
         "weapons": [
           "AC-Zwillings-Schwere Bolter||FxF",
@@ -2267,7 +2267,7 @@
       {
         "name": "Ravenwing-Dark-Talon",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber (FB)",
         "armour": 5,
         "weapons": [
           "AC Rift Kanone||FxF",
@@ -2279,9 +2279,9 @@
         ]
       },
       {
-        "name": "Fire Raptor",
+        "name": "Feuerraptor",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 5,
         "weapons": [
           "AC-Zwillings-Avenger-Bolterkanone||FxF",
@@ -2295,9 +2295,9 @@
         "crit": "Fire Raptor wird zerstört."
       },
       {
-        "name": "Storm Eagle",
+        "name": "Sturmadler",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 5,
         "cc": 6,
         "ff": 4,
@@ -2312,13 +2312,13 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Kann 4 Infanterieeinheiten ohne Beritten transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zählt beim Transport selbst als Thunderhawk.",
-        "crit": "Storm Eagle und alle transportierten Einheiten werden zerstört."
+        "notes": "Kann 4 Infanterieeinheiten ohne Beritten transportieren; Terminatoren und Cybots zählen jeweils als 2 Einheiten. Zählt beim Transport selbst als Thunderhawk.",
+        "crit": "Der Sturmadler und alle transportierten Einheiten werden zerstört."
       },
       {
-        "name": "Darkwing Storm Eagle",
+        "name": "Darkwing-Sturmadler",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 5,
         "cc": 6,
         "ff": 4,
@@ -2334,13 +2334,13 @@
           "Unmodifizierter Rettungswurf",
           "Transport"
         ],
-        "notes": "Kann 4 Infanterieeinheiten ohne Beritten transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten.",
-        "crit": "Storm Eagle und alle transportierten Einheiten werden zerstört."
+        "notes": "Kann 4 Infanterieeinheiten ohne Beritten transportieren; Terminatoren und Cybots zählen jeweils als 2 Einheiten.",
+        "crit": "Der Sturmadler und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Thunderhawk",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 6,
         "ff": 4,
@@ -2356,13 +2356,13 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Kann 8 Infanterieeinheiten oder Attack Bikes transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten.",
+        "notes": "Kann 8 Infanterieeinheiten oder Trikes transportieren; Terminatoren und Cybots zählen jeweils als 2 Einheiten.",
         "crit": "Thunderhawk und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Thunderhawk-Transporter",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -2377,12 +2377,12 @@
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
-        "crit": "Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
+        "crit": "Thunderhawk-Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Iron-Hands-Thunderhawk-Transporter",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -2396,13 +2396,13 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Dreadnoughts, Hunters, Predators, Razorbacks, Rhinos, Stalkers und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
-        "crit": "Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
+        "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Cybots, Hunters, Predators, Razorbacks, Rhinos, Stalkers und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
+        "crit": "Thunderhawk-Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Deathwatch-Thunderhawk-Transporter",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -2417,12 +2417,12 @@
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
-        "crit": "Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
+        "crit": "Thunderhawk-Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
         "name": "Grey-Knights-Thunderhawk-Transporter",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 6,
         "ff": 4,
@@ -2434,17 +2434,17 @@
           "Schadenskapazität 2",
           "Planetfall",
           "Verstärkte Panzerung",
-          "Faithful",
+          "Treu",
           "Unmodifizierter Rettungswurf",
           "Transport"
         ],
         "notes": "Kann bis zu 2 der folgenden Einheiten transportieren: Stalkers, Hunters, Predators, Razorbacks, Rhinos und Vindicators. Land Raiders zählen jeweils als 2 Einheiten. Außerdem dürfen darin transportierte Infanterieeinheiten mitgeführt werden; sie gelten beim Aussteigen als innerhalb dieser Fahrzeuge befindlich.",
-        "crit": "Thunderhawk Transporter und alle transportierten Einheiten werden zerstört."
+        "crit": "Thunderhawk-Transporter und alle transportierten Einheiten werden zerstört."
       },
       {
-        "name": "Thunderhawk-Bomber",
+        "name": "Thunderhawk-Bomber (B)",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "weapons": [
           "Kampfgeschütz||FxF",
@@ -2462,7 +2462,7 @@
       {
         "name": "Landungsschiff",
         "type": "AC/WE",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "cc": 6,
         "ff": 3,
@@ -2477,8 +2477,8 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "Kann 12 Infanterieeinheiten, Attack Bikes oder Dreadnoughts transportieren; Terminators und Dreadnoughts zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer H-AV und Dreadnoughts) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet).",
-        "crit": "Landing Craft und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer."
+        "notes": "Kann 12 Infanterieeinheiten, Trikes oder Cybots transportieren; Terminatoren und Cybots zählen jeweils als 2 Einheiten. Zusätzlich können bis zu 6 gepanzerte Fahrzeugeinheiten (außer H-AV und Cybots) mitgeführt werden; Land Raiders zählen jeweils als 1,5 Einheiten (aufgerundet).",
+        "crit": "Landungsschiff und alle transportierten Einheiten werden zerstört. Alle Einheiten innerhalb von 5cm erleiden einen Treffer."
       },
       {
         "name": "Hunter-Klasse-Zerstörer",
@@ -2514,7 +2514,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 4 Infanterieeinheiten transportieren. Diese dürfen das Spielfeld nur durch Teleportieren betreten. Zusätzlich dürfen 5 Corvus Blackstars und 3 Thunderhawk Transporters samt den von ihnen transportierten Einheiten mitgeführt werden."
+        "notes": "Kann 4 Infanterieeinheiten transportieren. Diese dürfen das Spielfeld nur durch Teleportieren betreten. Zusätzlich dürfen 5 Corvus-Blackstar-Landungsschiffe und 3 Thunderhawk-Transporter samt den von ihnen transportierten Einheiten mitgeführt werden."
       },
       {
         "name": "Vanguard-Klasse-Leichter-Kreuzer",
@@ -2532,7 +2532,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 12 Infanterieeinheiten, Attack Bikes oder Dreadnoughts sowie 5 leichte oder gepanzerte Fahrzeugeinheiten (außer Attack Bikes und Dreadnoughts), 2 Thunderhawks und genügend Drop Pods für alle übrigen mitgeführten Einheiten transportieren."
+        "notes": "Kann 12 Infanterieeinheiten, Trikes oder Cybots sowie 5 leichte oder gepanzerte Fahrzeugeinheiten (außer Trikes und Cybots), 2 Thunderhawks und genügend Landungskapseln für alle übrigen mitgeführten Einheiten transportieren."
       },
       {
         "name": "Angriffskreuzer",
@@ -2550,7 +2550,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Kann 20 Infanterieeinheiten, Attack Bikes oder Dreadnoughts sowie 10 leichte oder gepanzerte Fahrzeugeinheiten (außer Attack Bikes und Dreadnoughts), 6 Thunderhawks und genügend Drop Pods oder Landing Craft für alle übrigen mitgeführten Einheiten transportieren."
+        "notes": "Kann 20 Infanterieeinheiten, Trikes oder Cybots sowie 10 leichte oder gepanzerte Fahrzeugeinheiten (außer Trikes und Cybots), 6 Thunderhawks und genügend Landungskapseln oder Landungsschiff für alle übrigen mitgeführten Einheiten transportieren."
       },
       {
         "name": "Grey-Knights-Angriffskreuzer",
@@ -2569,7 +2569,7 @@
           "Navis Nobilite",
           "Transport"
         ],
-        "notes": "Kann 20 Infanterieeinheiten, Attack Bikes oder Dreadnoughts sowie 10 leichte oder gepanzerte Fahrzeugeinheiten (außer Attack Bikes und Dreadnoughts), 6 Thunderhawks/Storm Eagles und genügend Drop Pods oder Landing Craft für alle übrigen mitgeführten Einheiten transportieren."
+        "notes": "Kann 20 Infanterieeinheiten, Trikes oder Cybots sowie 10 leichte oder gepanzerte Fahrzeugeinheiten (außer Trikes und Cybots), 6 Thunderhawks/Sturmadler und genügend Landungskapseln oder Landungsschiffe für alle übrigen mitgeführten Einheiten transportieren."
       },
       {
         "name": "Schlachtbarke",
@@ -2588,13 +2588,13 @@
           "Verzögerte Ankunft (darf erst ab Runde 2 eintreffen)",
           "Transport"
         ],
-        "notes": "Kann 30 Infanterieeinheiten, Attack Bikes oder Dreadnoughts sowie 20 gepanzerte Fahrzeugeinheiten (außer Attack Bikes und Dreadnoughts), 9 Thunderhawks und genügend Drop Pods oder Landing Craft für alle übrigen mitgeführten Einheiten transportieren."
+        "notes": "Kann 30 Infanterieeinheiten, Trikes oder Cybots sowie 20 gepanzerte Fahrzeugeinheiten (außer Trikes und Cybots), 9 Thunderhawks und genügend Landungskapseln oder Landungsschiff für alle übrigen mitgeführten Einheiten transportieren."
       },
       {
         "name": "Landungskapsel",
         "weapons": [
           {
-            "name": "Deathwind",
+            "name": "Todeswind",
             "modes": [
               {
                 "firepower": "AP6+/AT6+",
@@ -2607,7 +2607,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "Kann nur eine Formation aus folgenden Einheiten transportieren: Tacticals, Devastators, Dreadnought, Sternguard Veterans, Wolf Guard Terminators, Grey Knights Strike Squad oder Grey Knights Purgation Squad. Nach der Landung der Drop Pod greift ihr Deathwind alle gegnerischen Einheiten innerhalb von 15 cm an. Jede angegriffene gegnerische Formation erhält einen Beschussmarker dafür, dass sie unter Beschuss gerät, sowie einen zusätzlichen Beschussmarker pro Verlust. Anschließend müssen alle in der Drop Pod transportierten Truppen innerhalb von 5 cm zur Drop Pod oder innerhalb von 5 cm zu einer bereits gelandeten Einheit derselben Formation aussteigen, sofern alle Einheiten innerhalb von 15 cm zur Drop Pod aufgestellt werden. Entferne die Drop-Pod-Modelle vom Spielfeld, sobald die transportierte Formation ausgestiegen ist."
+        "notes": "Kann nur eine Verband aus folgenden Einheiten transportieren: Taktische Trupps, Devastor-Trupps, Cybot, Sternguard-Veteranen, Wolfsgarde-Terminatoren, Grey-Knights-Angriffstrupp oder Grey-Knights-Purgatortrupp. Nach der Landung der Landungskapsel greift ihr Todeswind alle gegnerischen Einheiten innerhalb von 15 cm an. Jede angegriffene gegnerische Verband erhält einen Beschussmarker dafür, dass sie unter Beschuss gerät, sowie einen zusätzlichen Beschussmarker pro Verlust. Anschließend müssen alle in der Landungskapsel transportierten Truppen innerhalb von 5 cm zur Landungskapsel oder innerhalb von 5 cm zu einer bereits gelandeten Einheit derselben Verband aussteigen, sofern alle Einheiten innerhalb von 15 cm zur Landungskapsel aufgestellt werden. Entferne die Landungskapselmodelle vom Spielfeld, sobald die transportierte Verband ausgestiegen ist."
       },
       {
         "name": "Intercessor",
@@ -2631,7 +2631,7 @@
           "Schwere Boltpistole & Kettenschwert"
         ],
         "specialRules": [
-          "Infiltratorens"
+          "Infiltratoren"
         ]
       },
       {
@@ -2658,7 +2658,7 @@
         "specialRules": [
           "Sprungmodule",
           "Reinforced Armor",
-          "Overlord Insertion"
+          "Einsatz des Overlords"
         ]
       },
       {
@@ -2726,7 +2726,7 @@
         ],
         "specialRules": [
           "Sprungmodule",
-          "Overlord Insertion",
+          "Einsatz des Overlords",
           "Reinforced Armor"
         ]
       },
@@ -2739,8 +2739,8 @@
         "ff": 4,
         "weapons": [],
         "specialRules": [
-          "Infiltratorens",
-          "Overlord Insertion",
+          "Infiltratoren",
+          "Einsatz des Overlords",
           "Aufklärer"
         ]
       },
@@ -2767,7 +2767,7 @@
         "ff": 5,
         "weapons": [],
         "specialRules": [
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -2881,7 +2881,7 @@
         ]
       },
       {
-        "name": "Storm Speeder Thunderstrike",
+        "name": "Storm-Speeder Thunderstrike",
         "type": "AV",
         "speed": "35",
         "armour": 4,
@@ -2897,7 +2897,7 @@
         ]
       },
       {
-        "name": "Storm Speeder Hammerstrike",
+        "name": "Storm-Speeder Hammerstrike",
         "type": "AV",
         "speed": "35",
         "armour": 4,
@@ -2925,7 +2925,7 @@
         ],
         "specialRules": [
           "Schadenskapazität: 4",
-          "Null Schilde 2",
+          "Null-Schilde 2",
           "Verstärkte Panzerung"
         ],
         "crit": "Astraeus wird zerstört. Alle Einheiten innerhalb von 5cm erleiden bei 5+ einen Treffer."

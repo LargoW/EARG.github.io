@@ -4,12 +4,12 @@
   "version": "1.1",
   "release": "2022-04-01",
   "strategy": "Adeptus-Custodes-Armeen haben einen Strategiewert von 5.",
-  "Initiative": "Alle Formationen haben einen Initiativewert von 1+.",
+  "Initiative": "Alle Verbände haben einen Initiativewert von 1+.",
   "specialRules": [
-    "Adeptus Custodians"
+    "Adeptus-Custodes"
   ],
   "usage": [
-    "Mit der folgenden Armeeliste kannst du eine Adeptus-Custodes-Armee aufstellen. Für alle Einheiten außer den Sisters of Silence gilt die Sonderregel 'Adeptus Custodians'."
+    "Mit dem folgenden Armeeorganisationsplan kannst du eine Adeptus-Custodes-Armee aufstellen. Für alle Einheiten außer den Schwestern der Stille gilt die Sonderregel 'Adeptus-Custodes'."
   ],
   "units": [
     {
@@ -26,12 +26,12 @@
         "Venatari",
         "Schwester der Stille",
         "Vertus Praetors",
-        "Achilles-Contemptor-Dreadnought",
-        "Schwerer Telemon-Dreadnought",
+        "Achilles-Contemptor-Cybot",
+        "Schwerer Telemon-Cybot",
         "Antigravschweber Pallas",
         "Caladius-Antigravpanzer",
         "Coronus",
-        "Custodes-Land-Raider",
+        "Custodes-Land-Schattenbarke",
         "Rhino der Schwestern der Stille",
         "Jäger der Schwestern der Stille",
         "Orion-Angriffsschiff"
@@ -42,7 +42,7 @@
     {
       "from": "SM.json",
       "units": [
-        "Storm Talon"
+        "Sturmtalon"
       ],
       "unitRules": [
       ]
@@ -50,11 +50,11 @@
   ],
   "sections": [
     {
-      "name": "Adeptus-Custodes-Kern-Detachments",
+      "name": "Adeptus-Custodes-Kernverbände",
       "formations": [
         {
-          "name": "Custodes Guardian Squad",
-          "units": "Zwei Sagittarum sowie entweder zwei Guardian oder zwei Sentinel Guard und zwei Venerable Land Raiders oder zwei Coronus",
+          "name": "Custodes-Gardistentrupp",
+          "units": "Zwei Sagittarum sowie entweder zwei Custodesgardisten oder zwei Sentinel-Wächter und zwei ehrwürdige Custodes-Land-Schattenbarke oder zwei Coronus",
           "upgrades": [
             "Befehlshaber"
           ],
@@ -63,33 +63,33 @@
       ]
     },
     {
-      "name": "Adeptus-Custodes-Elite-Detachments",
+      "name": "Adeptus-Custodes-Eliteverbände",
       "description": "Pro Kerndetachment darf ein Elite-Detachment gewählt werden.",
       "formations": [
         {
-          "name": "Warden Wing",
-          "units": "5 Wardens",
+          "name": "Wächterstaffel",
+          "units": "Fünf Custodeshüter",
           "upgrades": [
             "Befehlshaber",
-            "Dreadnaught",
+            "Cybot",
             "Transport"
           ],
           "points": 325
         },
         {
-          "name": "Dreadnaught Wing",
-          "units": "3 aus folgender Auswahl in beliebiger Kombination: Contemptor Dreadnought Achilles oder Telemon Heavy Dreadnoughts",
+          "name": "Cybot-Staffel",
+          "units": "Drei in beliebiger Kombination aus Achilles-Contemptor-Cybots oder schweren Telemon-Cybots",
           "upgrades": [
-            "Dreadnaught"
+            "Cybot"
           ],
           "points": 300
         },
         {
-          "name": "Aquilon Custodians",
-          "units": "Vier Aquilon Terminators",
+          "name": "Aquilon-Custodes",
+          "units": "Vier Aquilon Terminatoren",
           "upgrades": [
             "Befehlshaber",
-            "Dreadnaught",
+            "Cybot",
             "Transport"
           ],
           "points": 375
@@ -97,11 +97,11 @@
       ]
     },
     {
-      "name": "Adeptus-Custodes-Unterstützungs-Detachments",
-      "description": "Pro Kerndetachment dürfen zwei Unterstützungs-Detachments gewählt werden.",
+      "name": "Adeptus-Custodes-Unterstützungsverbände",
+      "description": "Pro Kernverband dürfen zwei Unterstützungsverbände gewählt werden.",
       "formations": [
         {
-          "name": "Venatari Wing",
+          "name": "Venatari-Staffel",
           "units": "Fünf Venatari",
           "upgrades": [
             "Befehlshaber"
@@ -117,24 +117,24 @@
           "points": 250
         },
         {
-          "name": "Pallas Amour",
-          "units": "Vier Pallas tanks",
+          "name": "Pallas-Antigravpanzer",
+          "units": "Vier Pallas-Antigravpanzer",
           "upgrades": [
           ],
           "points": 225
         },
         {
-          "name": "Caladius Armour",
-          "units": "Drei Caladius tanks",
+          "name": "Caladius-Antigravpanzer",
+          "units": "Drei Caladius-Antigravpanzer",
           "upgrades": [
           ],
           "points": 225
         },
         {
-          "name": "Null Maiden Cadre",
-          "units": "Sechs Sisters of Silence Einheiten und 3 Null-Maiden Rhinos",
+          "name": "Kader der Schwestern der Stille",
+          "units": "Sechs Einheiten der Schwestern der Stille und drei Rhinos der Schwestern der Stille",
           "upgrades": [
-            "Null-Maiden Hunter"
+            "Jäger der Schwestern der Stille"
           ],
           "points": 300
         }
@@ -142,23 +142,23 @@
     },
     {
       "name": "Lufttransport und imperiale Verbündete der Adeptus Custodes",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Formationen ausgegeben werden.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
-          "name": "Orion Assault Ship",
-          "units": "Ein Orion Assault Ship",
+          "name": "Orion-Angriffsschiff",
+          "units": "Ein Orion-Angriffsschiff",
           "points": 225
         },
         {
-          "name": "Adeptus Astartes Storm Talons",
-          "units": "Zwei Storm Talons",
+          "name": "Sturmtalons der Adeptus Astartes",
+          "units": "Zwei Sturmtalons",
           "points": 200
         }
       ]
     }
   ],
   "upgrades": {
-    "title": "Adeptus Custodes Upgrades",
+    "title": "Aufwertungen der Adeptus Custodes",
     "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
@@ -166,7 +166,7 @@
         "description": "Füge einen der folgenden Charaktere zu einer beliebigen Einheit im Verband hinzu",
         "options": [
           {
-            "description": "Captain General, Oblivion Kinght Centura",
+            "description": "Generalkommandant, Centura der Oblivion Knights",
             "points": "50 Punkte"
           },
           {
@@ -176,30 +176,30 @@
         ]
       },
       {
-        "name": "Null-Maiden Hunter",
-        "description": "Füge 1 Null-Maiden Hunter hinzu",
+        "name": "Jäger der Schwestern der Stille",
+        "description": "Füge 1 Jäger der Schwestern der Stille hinzu",
         "points": "75 Punkte pro Stück"
       },
       {
-        "name": "Dreadnaught",
-        "description": "Füge bis zu zwei aus folgender Auswahl Dreadnaughts zur Formation hinzu",
+        "name": "Cybot",
+        "description": "Füge bis zu zwei aus folgender Auswahl Cybots zur Verband hinzu",
         "options": [
           {
-            "description": "Contemptor Dreadnought Achilles",
+            "description": "Contemptor Cybot Achilles",
             "points": "100 Punkte"
           },
           {
-            "description": "Telemon Heavy Dreadnought",
+            "description": "Schwerer Telemon-Cybot",
             "points": "100 Punkte"
           }
         ]
       },
       {
-        "name": "Transport",
+        "name": "Transporter",
         "description": "Füge genügend der folgenden Optionen hinzu, um den gesamten Verband zu transportieren.",
         "options": [
           {
-            "description": "Venerable Land Raiders",
+            "description": "Ehrwürdige Custodes-Land-Schattenbarken",
             "points": "50 Punkte pro Stück"
           },
           {

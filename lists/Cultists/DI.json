@@ -23,30 +23,30 @@
     {
       "from": "daemons.json",
       "units": [
-        "Herald of Slaanesh",
-        "Herald of Slaanesh on Seeker Chariot",
+        "Herold des Slaanesh",
+        "Herold des Slaanesh on Seeker Chariot",
         "Daemonettes of Slaanesh",
-        "Fiends of Slaanesh",
+        "Slaaneshbestien",
         "Seekers of Slaanesh",
-        "Herald of Nurgle on Palanquin",
-        "Herald of Nurgle on Blight Fly",
+        "Herold des Nurgle on Palanquin",
+        "Herold des Nurgle on Blight Fly",
         "Plaguebearers of Nurgle",
         "Beasts of Nurgle",
         "Plague Drones of Nurgle",
-        "Herald of Khorne on Skull Cannon",
-        "Herald of Khorne on Juggernaut",
+        "Herold des Khorne on Skull Cannon",
+        "Herold des Khorne on Juggernaut",
         "Bloodletters of Khorne",
         "Fleshhounds of Khorne",
         "Bloodcrushers of Khorne",
-        "Herald of Tzeentch",
-        "Herald of Tzeentch on Burning Chariot",
+        "Herold des Tzeentch",
+        "Herold des Tzeentch on Burning Chariot",
         "Horrors of Tzeentch",
         "Flamers of Tzeentch",
         "Screamers of Tzeentch",
-        "Exalted Keeper of Secrets",
-        "Keeper of Secrets",
-        "Exalted Great Unclean One",
-        "Great Unclean One",
+        "Exalted Hüter der Geheimnisse",
+        "Hüter der Geheimnisse",
+        "Exalted Großer Verpester",
+        "Großer Verpester",
         "Exalted Bloodthirster",
         "Bloodthirster",
         "Exalted Lord of Change",
@@ -54,9 +54,9 @@
         "Soul Grinder"
       ],
       "unitRules": [
-          "Augment Summoning (+x)",
-          "Daemonic Focus",
-          "Warp Rift"
+          "Verstärkte Beschwörung (+x)",
+          "Dämonischer Fokus",
+          "Warp Riss"
       ]
     },
     {
@@ -104,7 +104,7 @@
       "formations": [
         {
           "name": "Exalted Greater Daemon of Slaanesh",
-          "units": "One Exalted Keeper of Secrets ",
+          "units": "One Exalted Hüter der Geheimnisse ",
           "extraUnits": [
             "Soul Grinder"
           ],
@@ -112,7 +112,7 @@
         },
         {
           "name": "Exalted Greater Daemon of Nurgle",
-          "units": "One Exalted Great Unclean One",
+          "units": "One Exalted Großer Verpester",
           "extraUnits": [
             "Soul Grinder"
           ],
@@ -142,40 +142,40 @@
       "formations": [
         {
           "name": "Slaneesh Legion of Excess",
-          "units": "Two Herald of Slaanesh, five Lesser Daemon Pool points",
+          "units": "Two Herold des Slaanesh, five Lesser Daemon Pool points",
           "extraUnits": [
-            "Replace two Herald of Slaanesh with a Keeper of Secrets: 125 points",
-            "Replace two Herald of Slaanesh with two Herald of Slaanesh on Seeker Chariot: 25 points",
+            "Replace two Herold des Slaanesh with a Hüter der Geheimnisse: 125 points",
+            "Replace two Herold des Slaanesh with two Herold des Slaanesh on Seeker Chariot: 25 points",
             "Soul Grinder"
           ],
           "points": 200
         },
         {
           "name": "Nurgle Plague Legion ",
-          "units": "Two Herald of Nurgle on Palanquin, five Lesser Daemon Pool points",
+          "units": "Two Herold des Nurgle on Palanquin, five Lesser Daemon Pool points",
           "extraUnits": [
-            "Replace two Herald of Nurgle on Palanquin with a Great Unclean One: 125 points",
-            "Replace two Herald of Nurgle on Palanquin with two Herald of Nurgle on Blight Fly: 25 points",
+            "Replace two Herold des Nurgle on Palanquin with a Großer Verpester: 125 points",
+            "Replace two Herold des Nurgle on Palanquin with two Herold des Nurgle on Blight Fly: 25 points",
             "Soul Grinder"
           ],
           "points": 200
         },
         {
           "name": "Khorne Blood Legion",
-          "units": "Two Herald of Khorne on Juggernauts, five Lesser Daemon Pool points",
+          "units": "Two Herold des Khorne on Juggernauts, five Lesser Daemon Pool points",
           "extraUnits": [
-            "Replace two Herald of Khorne on Juggernaut with a Bloodthirster: 150 points",
-            "Replace two Herald of Khorne on Juggernaut with two Herald of Khorne on Skull Cannon: 25 points",
+            "Replace two Herold des Khorne on Juggernaut with a Bloodthirster: 150 points",
+            "Replace two Herold des Khorne on Juggernaut with two Herold des Khorne on Skull Cannon: 25 points",
             "Soul Grinder"
           ],
           "points": 200
         },
         {
           "name": "Tzeentch Scintillating Legion",
-          "units": "Two Herald of Tzeentch, five Lesser Daemon Pool points",
+          "units": "Two Herold des Tzeentch, five Lesser Daemon Pool points",
           "extraUnits": [
-            "Replace two Herald of Tzeentch with a Lord of Change: 150 points",
-            "Replace two Herald of Tzeentch with two Herald of Tzeentch on Burning Chariot: 25 points",
+            "Replace two Herold des Tzeentch with a Lord of Change: 150 points",
+            "Replace two Herold des Tzeentch with two Herold des Tzeentch on Burning Chariot: 25 points",
             "Soul Grinder"
           ],
           "points": 200

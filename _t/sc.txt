@@ -27,29 +27,29 @@ specialRules.json:322 Wings of the Sky Angel
 specialRules.json:515 May not Garrison (Kabal of the Black Heart)
 specialRules.json:629 Masters of the Webway
 specialRules.json:658 Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).
-specialRules.json:659 Grosse Dämonen: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean One (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8).
+specialRules.json:659 Grosse Dämonen: Slaanesh Hüter der Geheimnisse (8), Nurgle Großer Verpester (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8).
 specialRules.json:668 Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).
-specialRules.json:669 Grosse Dämonen: Slaanesh Keeper of Secrets (8), Nurgle Great Unclean One (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8).
-specialRules.json:678 Niedere Dämonen: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2).
+specialRules.json:669 Grosse Dämonen: Slaanesh Hüter der Geheimnisse (8), Nurgle Großer Verpester (8), Khorne Bloodthirster (8), Tzeentch Lord of Change (8).
+specialRules.json:678 Niedere Dämonen: Daemonettes of Slaanesh (1), Slaaneshbestien (1), Seekers of Slaanesh (2).
 specialRules.json:688 Niedere Dämonen: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2).
 specialRules.json:698 Niedere Dämonen: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2).
 specialRules.json:708 Niedere Dämonen: Horrors of Tzeentch (1), Flamers of Tzeentch (1), Screamers of Tzeentch (1).
 specialRules.json:715 Lost and the Damned Summoning Rules
 specialRules.json:717 Alle Chaos-Kultistenverbände der Lost and the Damned verehren das Ungeteilte Chaos. Verbände mit Daemonic Pact dürfen die folgenden Dämonen beschwören (die Beschwörungspunktekosten stehen in Klammern):
 specialRules.json:718 Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).
-specialRules.json:719 Grosse Dämonen: Keeper of Secrets (8), Great Unclean One (8), Bloodthirster (8), Lord of Change (8).
+specialRules.json:719 Grosse Dämonen: Hüter der Geheimnisse (8), Großer Verpester (8), Bloodthirster (8), Lord of Change (8).
 specialRules.json:728 Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).
 specialRules.json:744 Niedere Dämonen: Daemonettes of Slaanesh (1), Plaguebearers of Nurgle (1), Bloodletters of Khorne (1), Horrors of Tzeentch (1), Daemonic Beasts of Chaos Undivided (1).
-specialRules.json:753 Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1), Seekers of Slaanesh (2).
+specialRules.json:753 Slaanesh: Daemonettes of Slaanesh (1), Slaaneshbestien (1), Seekers of Slaanesh (2).
 specialRules.json:754 Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1), Plague Drones of Nurgle (2).
 specialRules.json:755 Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1), Bloodcrushers of Khorne (2).
 specialRules.json:756 Tzeentch: Horrors of Tzeentch (1), Screamers of Tzeentch (1), Flamers of Tzeentch (2).
-specialRules.json:765 Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1).
+specialRules.json:765 Slaanesh: Daemonettes of Slaanesh (1), Slaaneshbestien (1).
 specialRules.json:766 Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1).
 specialRules.json:767 Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1).
 specialRules.json:768 Tzeentch: Horrors of Tzeentch (1), Flamers of Tzeentch (1).
 specialRules.json:769 Ungeteiltes Chaos: Daemonettes of Slaanesh (2), Plaguebearers of Nurgle (2), Bloodletters of Khorne (2), Horrors of Tzeentch (2), Daemonic Beasts of Chaos Undivided (1).
-specialRules.json:778 Slaanesh: Daemonettes of Slaanesh (1), Fiends of Slaanesh (1).
+specialRules.json:778 Slaanesh: Daemonettes of Slaanesh (1), Slaaneshbestien (1).
 specialRules.json:779 Nurgle: Plaguebearers of Nurgle (1), Beasts of Nurgle (1).
 specialRules.json:780 Khorne: Bloodletters of Khorne (1), Fleshhounds of Khorne (1).
 specialRules.json:781 Tzeentch: Horrors of Tzeentch (1), Flamers of Tzeentch (1).
@@ -72,12 +72,12 @@ traitortitanlegions.json:352 Must be armed with either a Plasma Incinerator, Cyc
 traitortitanlegions.json:380 Must be armed with either a Hellstrike Cannon, Plasma Incinerator, Cyclone Cannon oder Beam Blaster
 traitortitanlegions.json:406 Must be armed with either two Tzeentch Cannons, two Plasma Incinerators oder two Beam Blasters
 DI.json:20 Diese Armeeliste ermöglicht es dir, eine Armee auf Grundlage einer Dämonischen Invasion aufzustellen, unterstützt von den Lost and the Damned.
-DI.json:147 Ersetze 2 Herald of Slaanesh durch ein Keeper of Secrets: 125 Punkte
-DI.json:148 Ersetze 2 Herald of Slaanesh durch 2 Herald of Slaanesh on Seeker Chariot: 25 Punkte
-DI.json:158 Ersetze 2 Herald of Nurgle on Palanquin durch 2 Herald of Nurgle on Blight Fly: 25 Punkte
-DI.json:168 Ersetze 2 Herald of Khorne on Juggernaut durch 2 Herald of Khorne on Skull Cannon: 25 Punkte
-DI.json:177 Ersetze 2 Herald of Tzeentch durch ein Lord of Change: 150 Punkte
-DI.json:178 Ersetze 2 Herald of Tzeentch durch 2 Herald of Tzeentch on Burning Chariot: 25 Punkte
+DI.json:147 Ersetze 2 Herold des Slaanesh durch ein Hüter der Geheimnisse: 125 Punkte
+DI.json:148 Ersetze 2 Herold des Slaanesh durch 2 Herold des Slaanesh on Seeker Chariot: 25 Punkte
+DI.json:158 Ersetze 2 Herold des Nurgle on Palanquin durch 2 Herold des Nurgle on Blight Fly: 25 Punkte
+DI.json:168 Ersetze 2 Herold des Khorne on Juggernaut durch 2 Herold des Khorne on Skull Cannon: 25 Punkte
+DI.json:177 Ersetze 2 Herold des Tzeentch durch ein Lord of Change: 150 Punkte
+DI.json:178 Ersetze 2 Herold des Tzeentch durch 2 Herold des Tzeentch on Burning Chariot: 25 Punkte
 LatD.json:3 Lost and the Damned
 LatD.json:7 Lost and the Damned-Armeen haben einen Strategiewert von 1.
 LatD.json:11 Lost and the Damned Summoning Rules

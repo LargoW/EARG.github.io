@@ -1,22 +1,22 @@
 {
   "fraction": "Drukhari / Harlekine",
-  "army": "Kabal of the Wraithkind",
+  "army": "Kabal der Wraithkind",
   "version": "1.0.Beta",
   "release": "2023-03-08",
   "armyforge": "EAR_Harlequins_MasqueoftheMidnightSorrow",
   "strategy": "Drukhari-Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Wraithkind-Kabale, Harlekine und Tormentor-Titan-Formationen haben einen Initiativewert von 1+. Alle anderen Formationen haben einen Initiativewert von 2+.",
+  "Initiative": "Wraithkind-Kabale, Harlekine und Peiniger-Titan-Verbände haben einen Initiativewert von 1+. Alle anderen Verbände haben einen Initiativewert von 2+.",
   "specialRules": [
-    "Fleet of Foot",
-    "Hit and Run",
-    "Wraithkind Coterie",
-    "May not Garrison (Wraithkind)",
-    "Webway Portal",
-    "Masters of the Webway",
-    "Cegorach, the Laughing God"
+    "Flink zu Fuß",
+    "Schlag und Flucht",
+    "Wraithkind-Gefolge",
+    "Darf keine Garnison bilden (Wraithkind)",
+    "Netzportal",
+    "Meister des Netzportals",
+    "Cegorach, der Lachende Gott"
   ],
   "usage": [
-    "Mit der folgenden Armeeliste kannst du eine Armee des Kabals der Wraithkind mit Harlequin-Verbündeten aufstellen."
+    "Mit dem folgenden Armeeorganisationsplan kannst du eine Armee der Wraithkind-Kabale mit Harlekin-Verbündeten aufstellen."
   ],
   "units": [
     {
@@ -44,18 +44,18 @@
       ],
       "unitRules": [
           "Lanze",
-          "Shadowfields",
-          "Wind-Swift"
+          "Schattenfelder",
+          "Windflink"
       ]
     },
     {
       "from": "HQ.json",
       "units": [
-        "Shadowseer",
-        "Solitaire",
-        "Death Jesters",
-        "Harlequin Troupe",
-        "Skyweaver Jetbikes",
+        "Schattenseher",
+        "Solitär",
+        "Todesnarren",
+        "Harlekin-Trupp",
+        "Skyweaver-Jetbikes",
         "Starweaver",
         "Voidweaver"
       ],
@@ -65,9 +65,9 @@
     {
       "from": "darkEldarNavy.json",
       "units": [
-        "Razorwing Interceptor",
-        "Voidraven Interdictor",
-        "Torture Class Cruiser"
+        "Razorwing-Abfangjäger",
+        "Voidraven-Abfangjäger",
+        "Kreuzer der Torture-Klasse"
       ],
       "unitRules": [
         "Schildbrecher"
@@ -79,9 +79,9 @@
       "name": "Wraithkind-Spezialregeln",
       "formations": [
         {
-          "name": "0–1 Wraithgate",
-          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Drukhari-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden.",
-          "extraUnits": [
+          "name": "0–1 Netzportal",
+          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Drukhari-Spielers durch ein Netzportal. Dieses zählt als Zielmarker und kann weder angegriffen noch auf irgendeine Weise beschädigt werden.",
+          "extraEinheits": [
           ],
             "points": 50
         }
@@ -89,36 +89,36 @@
     },
     {
       "name": "Wraithkind-Kabale",
-      "description": "Die Armee muss eine Black Heart Coterie enthalten.",
+      "description": "Die Armee muss einen Kabal des Schwarzen Herzens enthalten.",
       "formations": [
         {
-          "name": "1 Wraithkind Coterie",
-          "units": "Ein Arcon in einer Einheit Incubi, drei Incubi",
-          "extraUnits": [
-            "Füge zwei Incubi hinzu: 75 Punkte",
-            "Warriors",
-            "Ravagers",
-            "Portable Webway Portal",
-            "Wraithkind Transport"
+          "name": "1 Wraithkind-Gefolge",
+          "units": "Ein Archon mit drei weiteren Inkubi",
+          "extraEinheits": [
+            "Füge zwei Inkubi hinzu: 75 Punkte",
+            "Kabalenkrieger",
+            "Schattenjäger",
+            "Tragbares Netzportal",
+            "Wraithkind-Transport"
           ],
           "points": 225
         },
         {
-          "name": "Wraithkind Flotilla",
-          "units": "Vier Reapers",
-          "extraUnits": [
-            "Ravagers"
+          "name": "Wraithkind-Flottille",
+          "units": "Vier Schnitter",
+          "extraEinheits": [
+            "Schattenjäger"
           ],
           "points": 250
         },
         {
-          "name": "Wraithkind Syndicate",
-          "units": "Ein Dracon, sechs Dark Eldar Warriors",
-          "extraUnits": [
-            "Warriors",
-            "Ravagers",
-            "Portable Webway Portal",
-            "Wraithkind Transport"
+          "name": "Wraithkind-Syndikat",
+          "units": "Ein Dracon, sechs Drukhari-Kabalenkrieger",
+          "extraEinheits": [
+            "Kabalenkrieger",
+            "Schattenjäger",
+            "Tragbares Netzportal",
+            "Wraithkind-Transport"
           ],
           "points": 250
         }
@@ -126,39 +126,39 @@
     },
     {
       "name": "Wraithkind-Partisanen",
-      "description": "Für jede Wraithkind-Kabal darf bis zu eine Wraithkind-Partisanen-Formation gewählt werden.",
+      "description": "Für jede Wraithkind-Kabale kann ein Wraithkind-Partisanenverband gewählt werden.",
       "formations": [
           {
-            "name": "Mandrake Throng",
-            "units": "Vier Mandrakes",
-            "extraUnits": [
-                "Füge bis zu zwei Mandrakes hinzu: 25 Punkte pro Stück"
+            "name": "Mandrakenschwarm",
+            "units": "Vier Mandraks",
+            "extraEinheits": [
+                "Füge bis zu zwei Mandraks hinzu: 25 Punkte pro Stück"
             ],
             "points": 125
           },
           {
-            "name": "Haemonculi Coven",
-            "units": "Haemonculus Ancient, zwei Haemonculi und vier Wracks",
-            "extraUnits": [
-              "Füge bis zu zwei Grotesques hinzu: 25 Punkte pro Stück",
-              "Portable Webway",
+            "name": "Haemonculus-Kult",
+            "units": "ältester Haemonculus, zwei Haemonculi und vier Folterer",
+            "extraEinheits": [
+              "Füge bis zu zwei Grotesquen hinzu: 25 Punkte pro Stück",
+              "Tragbares Netzportal",
               "Talos",
-              "Wraithkind Transport"
+              "Wraithkind-Transport"
             ],
             "points": 225
           },
           {
-            "name": "Talos Swarm",
+            "name": "Talos-Schwarm",
             "units": "Vier Talos",
-            "extraUnits": [
+            "extraEinheits": [
               "Talos"
             ],
             "points": 225
           },
         {
-          "name": "Scourge Flight",
-          "units": "Sechs Scourges",
-          "extraUnits": [
+          "name": "Harpyien-Flugstaffel",
+          "units": "Sechs Harpyien",
+          "extraEinheits": [
           ],
           "points": 250
         }
@@ -166,23 +166,23 @@
     },
     {
       "name": "Harlekine",
-      "description": "Für jede Wraithkind-Kabal darf bis zu eine Harlequin-Formation und für jede Harlequin-Masque bis zu eine Harlequin-Unterstützungsformation gewählt werden.",
+      "description": "Für jede Wraithkind-Kabale darf ein Harlekin-Verband und für jede Harlekin-Maske ein Harlekin-Unterstützungsverband gewählt werden.",
       "formations": [
         {
-          "name": "Harlequin Masque",
-          "units": "Ein Shadowseer, drei Harlequin Troupes, ein Death Jesters, vier Starweavers",
-          "extraUnits": [
-              "Ersetze vier Starweavers durch zwei Harlequin Troupe und ein Death Jesters: kostenlos",
-             "Füge bis zu drei Skyweaver Jetbikes hinzu: 25 Punkte pro Stück",
-             "(0–1 pro Armee) Füge einer Harlequin Troupe einen Solitaire hinzu: 50 Punkte"
+          "name": "Harlekin-Maske",
+          "units": "Ein Schattenseher, drei Harlekin-Trupps, ein Todesnarr und vier Starweaver",
+          "extraEinheits": [
+              "Ersetze vier Starweaver durch zwei Harlekin-Trupps und einen Todesnarren: kostenlos",
+             "Füge bis zu drei Skyweaver-Jetbikes hinzu: 25 Punkte pro Stück",
+             "(0–1 pro Armee) Füge einer Harlekin-Trupp einen Solitär hinzu: 50 Punkte"
           ],
           "points": 275
       },
         {
-          "name": "Harlequin Support",
-          "units": "Vier Voidweavers",
-          "extraUnits": [
-             "Füge bis zu drei Skyweaver Jetbikes hinzu: 25 Punkte pro Stück"
+          "name": "Unterstützung der Harlekine",
+          "units": "Vier Voidweaver",
+          "extraEinheits": [
+             "Füge bis zu drei Skyweaver-Jetbikes hinzu: 25 Punkte pro Stück"
           ],
           "points": 250
         }
@@ -190,40 +190,40 @@
     },
     {
       "name": "Commorragh-Flotte und Kriegsmaschinen",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Commorragh-Navy- und Kriegsmaschinen-Formationen ausgegeben werden.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für Commorragh-Flotte- und Kriegsmaschinen-Verbände ausgegeben werden.",
         "formations": [
             {
-                "name": "Vessel of Pain",
-                "units": "Ein Vessel of Pain",
-                "extraUnits": [
+                "name": "Schmerzschiff",
+                "units": "Ein Schmerzschiff",
+                "extraEinheits": [
                 ],
                 "points": 250
             },
             {
-                "name": "Tormentor",
-                "units": "Ein Tormentor Titan",
-                "extraUnits": [
+                "name": "Peiniger",
+                "units": "Ein Peiniger-Titan",
+                "extraEinheits": [
                 ],
                 "points": 350
             },
             {
-                "name": "Razorwing Cast",
-                "units": "Zwei Razorwing Interceptors",
-                "extraUnits": [
+                "name": "Razorwing-Geschwader",
+                "units": "Zwei Razorwing-Abfangjäger",
+                "extraEinheits": [
                 ],
                 "points": 200
             },
             {
-                "name": "Voidraven Cast",
-                "units": "Zwei Voidraven Interdictors",
-                "extraUnits": [
+                "name": "Voidraven-Geschwader",
+                "units": "Zwei Voidraven-Abfangjäger",
+                "extraEinheits": [
                 ],
                 "points": 225
             },
             {
                 "name": "0–1 Orbitale Unterstützung",
-                "units": "Ein Torture Class Cruiser",
-                "extraUnits": [
+                "units": "Ein Kreuzer der Torture-Klasse",
+                "extraEinheits": [
                 ],
                 "points": 250
             }
@@ -231,17 +231,17 @@
     }
   ],
   "upgrades": {
-    "title": "Wraithkind Upgrades",
+    "title": "Aufwertungen der Wraithkind-Kabale",
     "description": "Jede Aufwertung darf nur einmal pro Verband gewählt werden",
     "items": [
       {
-        "name": "Warriors",
-        "description": "Füge zwei Dark Eldar Warriors hinzu.",
+        "name": "Kabalenkrieger",
+        "description": "Füge zwei Drukhari-Kabalenkrieger hinzu.",
         "points": "50 Punkte"
       },
       {
-        "name": "Ravagers",
-        "description": "Füge bis zu zwei Dark Eldar Ravagers hinzu.",
+        "name": "Schattenjäger",
+        "description": "Füge bis zu zwei Drukhari-Schattenjäger hinzu.",
         "points": "50 Punkte pro Stück"
       },
       {
@@ -253,17 +253,17 @@
         ]
       },
       {
-        "name": "(0–1 pro Armee) Portable Webway",
-        "description": "Füge einem Archon-, Dracon- oder Haemonculus-Ancient-Charakter ein Portable Webway Portal hinzu. Dieses Portable Webway darf einmal pro Spiel verwendet werden. Nachdem der Verband des Charakters (oder der ihn tragende Verband) eine Aktion abgeschlossen hat, darfst du einen kleinen Sperrfeuer-Schablonenmarker vollständig innerhalb von 15 cm zur Einheit des Charakters (oder zur ihn tragenden Einheit) und ausserhalb gegnerischer Kontrollzonen platzieren. Dieser Marker zählt als Webway Portal, das nicht angegriffen oder in irgendeiner Weise beschädigt werden kann. Entferne diesen Webway-Portal-Marker in der Endphase der Runde vor dem Sammeln.",
+        "name": "(0–1 pro Armee) Tragbares Netzportal",
+        "description": "Füge einem Archon, Dracon oder ältesten Haemonculus ein tragbares Netzportal hinzu. Dieses darf einmal pro Spiel verwendet werden. Nachdem der Verband des Charakters (oder der ihn tragende Verband) eine Aktion abgeschlossen hat, darfst du einen kleinen Sperrfeuermarker vollständig innerhalb von 15 cm zur Einheit des Charakters (oder zur ihn tragenden Einheit) und außerhalb gegnerischer Kontrollzonen platzieren. Dieser Marker zählt als Netzportal und kann weder angegriffen noch beschädigt werden. Entferne den Netzportalmarker in der Endphase der Runde vor dem Sammeln.",
         "points": "50 Punkte"
       },
       {
-        "name": "Wraithkind Transport",
+        "name": "Wraithkind-Transporter",
         "description": "Beliebige Kombinationen von Transportoptionen dürfen gewählt werden, um einen Verband zu transportieren, solange nach Möglichkeit kein Fahrzeug einen leeren Transportplatz hat. Nicht alle Einheiten eines Verbands benötigen ein Transportfahrzeug. Gewählte Transportoptionen dürfen nur Einheiten desselben Verbands transportieren.",
         "points": [
-          "Raiders: kostenlos",
+          "Schattenbarken: kostenlos",
           "Tantalus: 25 Punkte",
-          "0-1 Barge of Pleasure: 125 Punkte"
+          "0-1 Lustbarke: 125 Punkte"
         ]
         }
     ]

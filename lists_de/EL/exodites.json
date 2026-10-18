@@ -1,19 +1,19 @@
 {
   "fraction": "Eldar",
-  "army": "Exodites",
+  "army": "Exoditen",
   "version": "1.0.Beta",
   "release": "2024-04-15",
   "armyforge": "EAR_Eldar_Exodites",
-  "intro": "Mit der folgenden Armeeliste kannst du eine Exoditen-Eldar-Armee aufstellen.",
+  "intro": "Mit dem folgenden Armeeorganisationsplan kannst du eine Armee der Eldar-Exoditen aufstellen.",
   "strategy": "Exoditen-Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Alle Formationen haben einen Initiativewert von 2+. Die Dragon Knight-, Wind Knight- und Exodite Knight Warhosts unterliegen der Sonderregel Bravery.",
+  "Initiative": "Alle Verbände haben einen Initiativewert von 2+. Die Drachenritter-, Windritter- und Ritter-Kriegsrotten der Exoditen unterliegen der Sonderregel Tapferkeit.",
   "specialRules": [
-    "Farsight",
-    "Eternal Drake",
-    "Innate Mobility",
-    "Hit and Run",
-    "Webway Portal",
-    "Bravery"
+    "Weitsicht",
+    "Ewiger Drache",
+    "Angeborene Beweglichkeit",
+    "Schlag und Flucht",
+    "Netzportal",
+    "Tapferkeit"
   ],
   "units": [
     {
@@ -39,8 +39,8 @@
         "Kolossaler Carnosaurus"
       ],
       "unitRules": [
-        "Heavy Armoured Vehicle (H-AV)",
-        "Holofields (x)",
+        "Schweres gepanzertes Fahrzeug (H-AV)",
+        "Holofelder (x)",
         "Lanze",
         "Sturmangriff",
         "Schildbohrer",
@@ -56,7 +56,7 @@
         "Korsarenveteran",
         "Korsaren-Wespe",
         "Korsaren-Schattenviper",
-        "Korsaren-Vampire-Raider",
+        "Korsaren-Vampire-Schattenbarke",
         "Korsaren-Nachtschwinge-Abfangjäger"
       ],
       "unitRules": [
@@ -68,136 +68,136 @@
       "name": "Exoditen-Spezialregeln",
       "formations": [
         {
-          "name": "Dragon Prince (0–1 pro Armee)",
-          "units": "Ersetze einen Dragonlord in der Armee durch einen Dragon Prince",
+          "name": "Drachenprinz (0–1 pro Armee)",
+          "units": "Ersetze einen Drachenfürsten der Armee durch einen Drachenprinzen.",
           "points": "50 Punkte"
         },
         {
-          "name": "Eternal Drake (0–1 pro Armee)",
-          "units": "Ein Eternal Drake",
+          "name": "Ewiger Drache (0–1 pro Armee)",
+          "units": "Ein Ewiger Drache",
           "points": 50
         },
         {
-          "name": "Wraithgate (0–1 pro Armee)",
-          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Wraithgate. Dieses zählt als Zielmarker und Webway Portal und kann weder angegriffen noch auf irgendeine Weise beschädigt werden. ",
+          "name": "Netzportal (0–1 pro Armee)",
+          "units": "Ersetze einen Zielmarker in der Spielfeldhälfte des Eldar-Spielers durch ein Netzportal. Dieses zählt als Zielmarker und kann weder angegriffen noch auf irgendeine Weise beschädigt werden.",
           "points": "kostenlos"
         }
       ]
     },
     {
-      "name": "Exoditen-Warhost-Formationen",
+      "name": "Exoditen-Kriegsrotten",
       "formations": [
         {
-          "name": "Dragon Knight Warhost",
-          "units": "Ein Dragonlord und acht Dragon Knights",
+          "name": "Drachenritter-Kriegsrotte",
+          "units": "Ein Drachenfürst und acht Drachenritter",
           "points": "300",
-          "extraUnits": [
-            "Dragon Prince",
-            "Füge einen Worldsinger-Charakter hinzu: 25 Punkte",
-            "Ersetze zwei Dragon Knights durch zwei Skyward Dragons: 25 Punkte. Alternativ kannst du bis zu zwei Dragon Knights durch Bloodfang Megadons ersetzen: 25 Punkte pro Stück."
+          "extraEinheits": [
+            "Drachenprinz",
+            "Füge einen Weltenliedsänger-Charakter hinzu: 25 Punkte",
+            "Ersetze zwei Drachenritter durch zwei Himmelsdrachen: 25 Punkte. Alternativ kannst du bis zu zwei Drachenritter durch Blutrachen-Megadons ersetzen: 25 Punkte pro Stück."
           ]
         },
         {
-          "name": "Wind Knight Warhost",
-          "units": "Ein Dragonlord und acht Wind Knights",
+          "name": "Windritter-Kriegsrotte",
+          "units": "Ein Drachenfürst und acht Windritter",
           "points": "300",
-          "extraUnits": [
-            "Dragon Prince",
-            "Füge einen Worldsinger-Charakter hinzu: 25 Punkte"
+          "extraEinheits": [
+            "Drachenprinz",
+            "Füge einen Weltenliedsänger-Charakter hinzu: 25 Punkte"
           ]
         }
       ]
     },
     {
-      "name": "Exodite Unterstützungsformationen",
-      "description": "Bis zu drei Unterstützungsformationen pro Warhost-Formation.",
+      "name": "Exoditen-Unterstützungsverbände",
+      "description": "Bis zu drei Unterstützungsformationen pro Kriegsrotten-Verband.",
       "formations": [
         {
-          "name": "Dragon Outriders",
-          "units": "Vier Dragon Outriders",
+          "name": "Drachen-Vorreiter",
+          "units": "Vier Drachen-Vorreiter",
           "points": "125"
         },
         {
-          "name": "Skyward Dragon Troupe",
-          "units": "Fünf Skyward Dragons",
+          "name": "Himmelsdrachen-Trupp",
+          "units": "Fünf Himmelsdrachen",
           "points": "200",
-          "extraUnits": [
-            "Ersetze zwei Skyward Dragons durch zwei Bloodfang Megadons: 25 Punkte."
+          "extraEinheits": [
+            "Ersetze zwei Himmelsdrachen durch zwei Blutrachen-Megadons: 25 Punkte."
           ]
         },
         {
-          "name": "Exodite Militia Troupe",
-          "units": "Acht Exodite Militia und ein Worldsinger",
+          "name": "Exoditenmiliz-Trupp",
+          "units": "Acht Exoditenmiliz und ein Weltenliedsänger",
           "points": "175",
-          "extraUnits": [
-            "Ersetze bis zu drei Exodite Militia durch Exodite Weapons Platforms: 25 Punkte pro Stück.",
-            "Füge zwei Exodite Wraithguards hinzu: 75 Punkte"
+          "extraEinheits": [
+            "Ersetze bis zu drei Exoditenmiliz durch Exoditen-Waffenplattformen: 25 Punkte pro Stück.",
+            "Füge zwei Exoditen-Phantomdroiden hinzu: 75 Punkte"
           ]
         },
         {
-          "name": "Voidprism Troupe",
-          "units": "Vier Voidprism Megadons",
+          "name": "Leerenprisma-Trupp",
+          "units": "Vier Leerenprisma-Megadons",
           "points": "225",
-          "extraUnits": [
+          "extraEinheits": [
           ]
         },
         {
-          "name": "Great Megadon Troupe",
-          "units": "Ein Great Megadon",
+          "name": "Großmegadon-Trupp",
+          "units": "Ein Großer Megadon",
           "points": "175",
-          "extraUnits": [
-            "Füge bis zu zwei Great Megadons hinzu: 125 Punkte pro Stück"
+          "extraEinheits": [
+            "Füge bis zu zwei Große Megadons hinzu: 125 Punkte pro Stück"
           ]
         },
         {
-          "name": "Colossal Carnosaur",
-          "units": "Ein Colossal Carnosaur",
+          "name": "Kolossaler Carnosaurus",
+          "units": "Ein Kolossaler Carnosaurus",
           "points": "350"
         }
       ]
     },
     {
       "name": "Unterstützung durch Eldar-Ritter und Korsaren",
-      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Formationen ausgegeben werden.",
+      "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
-          "name": "Corsairs Raiding Party",
-          "units": "Vier Corsair Warriors und ein Felarch",
-          "extraUnits": [
-            "Füge bis zu zwei Corsair Wasp Walkers hinzu: 25 Punkte pro Stück",
-            "Füge bis zu zwei Corsair Veterans hinzu: 25 Punkte pro Stück",
-            "Füge bis zu zwei Ghost Walkers hinzu: 25 Punkte pro Stück",
-            "Füge ausreichend Corsair Venoms hinzu, um die gesamte Formation zu transportieren: 25 Punkte pro Stück. Wenn Venoms hinzugefügt werden, muss die gesamte Formation transportiert werden."
+          "name": "Korsaren-Raubzug",
+          "units": "Vier Korsarenkrieger und ein Korsaren-Felarch",
+          "extraEinheits": [
+            "Füge bis zu zwei Korsaren-Wespen hinzu: 25 Punkte pro Stück",
+            "Füge bis zu zwei Korsarenveteranen hinzu: 25 Punkte pro Stück",
+            "Füge bis zu zwei Geisterläufer hinzu: 25 Punkte pro Stück",
+            "Füge genügend Korsaren-Schattenvipern hinzu, um den gesamten Verband zu transportieren: 25 Punkte pro Stück. Wenn Schattenvipern hinzugefügt werden, muss der gesamte Verband transportiert werden."
           ],
           "points": 150
         },
         {
-          "name": "Corsair Vampire (0–1 pro Raubzug-Trupp)",
-          "units": "Ein Corsair Vampire Raider",
-          "extraUnits": [
+          "name": "Korsaren-Vampire-Schattenbarke (0–1 pro Raubzug-Trupp)",
+          "units": "Eine Korsaren-Vampire-Schattenbarke",
+          "extraEinheits": [
           ],
           "points": 200
         },
                 {
-          "name": "Corsair Nightwings",
-          "units": "Zwei Nightwing Interceptors",
-          "extraUnits": [
-            "Füge 1 Nightwing Interceptor hinzu: 75 Punkte"
+          "name": "Korsaren-Nachtschwingen-Staffel",
+          "units": "Zwei Korsaren-Nachtschwinge-Abfangjäger",
+          "extraEinheits": [
+            "Füge einen Korsaren-Nachtschwinge-Abfangjäger hinzu: 75 Punkte"
           ],
           "points": 225
         },
         {
-          "name": "Corsairs Fire Support (0–1 pro Raubzug-Trupp)",
-          "units": "Vier Corsair Wasp Walkers",
+          "name": "Korsaren-Feuerunterstützung (0–1 pro Raubzug-Trupp)",
+          "units": "Vier Korsaren-Wespen",
           "points": 150
         },
         {
-          "name": "Exodite Knight Warhost",
-          "units": "Zwei Fire Gale, oder zwei Bright Stallion, oder zwei Towering Destroyer Knights",
+          "name": "Exoditen-Ritterrotte",
+          "units": "Zwei Feuerstürme, zwei Helle Hengste oder zwei turmhohe Zerstörer-Ritter",
           "points": 275,
-          "extraUnits": [
-            "Füge einen Knight derselben Konfiguration zur Formation hinzu: 100 Punkte",
-            "Füge einen Worldsinger-Charakter hinzu: 50 Punkte"
+          "extraEinheits": [
+            "Füge einen Ritter derselben Konfiguration zum Verband hinzu: 100 Punkte",
+            "Füge einen Weltenliedsänger-Charakter hinzu: 50 Punkte"
           ]
         }
       ]

@@ -5,15 +5,15 @@
   "release": "2024-04-15",
   "armyforge": "EAR_Chaos_WordBearers",
   "strategy": "Word Bearer-Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Die Word-Bearers-Retinue und alle Word-Bearers-Elite-Verbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
+  "Initiative": "Die Word-Bearers-Gefolge und alle Word-Bearers-Elite-Verbände haben einen Initiativwert von 1+. Alle übrigen Verbände haben einen Initiativwert von 2+.",
   "specialRules": [
-    "Summoning",
-    "Word Bearers Summoning Rules",
-    "Fickle Masters",
-    "Word Bearers Characters"
+    "Beschwörung",
+    "Beschwörungsregeln der Word Bearers",
+    "Launische Meister",
+    "Charaktere der Word Bearers"
   ],
   "usage": [
-    "Diese Armeeliste ermöglicht es dir, eine Armee der Word Bearers nach ihren bevorzugten Einsatzmethoden aufzustellen."
+    "Dieser Armeeorganisationsplan ermöglicht es dir, eine Armee der Word Bearers nach ihren bevorzugten Einsatzmethoden aufzustellen."
   ],
   "units": [
     {
@@ -36,9 +36,9 @@
         "Chaos-Cybot"
       ],
       "unitRules": [
-          "Augment Summoning (+x)",
-          "Daemonic Focus",
-          "Heralds of Truth"
+          "Verstärkte Beschwörung (+x)",
+          "Dämonischer Fokus",
+          "Herolde der Wahrheit"
       ]
     },
     {
@@ -53,19 +53,19 @@
         "Abtrünniger Ritter"
       ],
       "unitRules": [
-        "Daemon Engine (x)",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Dämonenmaschine (x)",
+        "Schweres gepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
       "from": "chaoscultists.json",
       "units": [
-        "Cultists",
-        "Mutants",
-        "Chaos Spawn",
-        "Chaos Hounds",
-        "Land Transporter",
-        "Chaos Altar"
+        "Kultisten",
+        "Mutanten",
+        "Chaosbrut",
+        "Chaos-Hunde",
+        "Landtransporter",
+        "Chaosaltar"
       ],
       "unitRules": [
       ]
@@ -73,15 +73,15 @@
     {
       "from": "daemons.json",
       "units": [
-        "Daemonettes of Slaanesh",
-        "Plaguebearers of Nurgle",
-        "Bloodletters of Khorne",
-        "Horrors of Tzeentch",
-        "Keeper of Secrets",
-        "Great Unclean One",
-        "Bloodthirster",
-        "Lord of Change",
-        "Daemonic Beasts of Chaos Undivided"
+        "Dämonetten des Slaanesh",
+        "Seuchenhüter des Nurgle",
+        "Zerfleischer des Khorne",
+        "Horrors des Tzeentch",
+        "Hüter der Geheimnisse",
+        "Großer Verpester",
+        "Blutdämon",
+        "Herrscher des Wandels",
+        "Dämonische Bestien des ungeteilten Chaos"
       ],
       "unitRules": [
       ]
@@ -89,10 +89,10 @@
     {
       "from": "chaosnavy.json",
       "units": [
-        "Heldrake",
-        "Harbringer Bomber",
-        "Devastation Class Cruiser",
-        "Despoiler Class Battleship"
+        "Höllendrache",
+        "Harbringer-Bomber (B)",
+        "Kreuzer der Devastation-Klasse",
+        "Schlachtschiff der Despoiler-Klasse"
       ],
       "unitRules": [
       ]
@@ -101,33 +101,33 @@
   "sections": [
     {
       "name": "Word Bearers Kernverbände",
-      "description": "Pro Word Bearer Retinue dürfen bis zu zwei Cultist Hosts aufgestellt werden.",
+      "description": "Pro Word Bearer Gefolge dürfen bis zu zwei Kultistenhorden aufgestellt werden.",
       "formations": [
         {
-          "name": "Word Bearers Retinue",
-          "units": "Ein Word Bearer Coryphaus, sechs Chaos Space Marines, Daemonic Pact",
-          "extraUnits": [
+          "name": "Word Bearers Gefolge",
+          "units": "Ein Word Bearer Coryphaus, sechs Chaos Space Marines, Dämonenpakt",
+          "extraEinheits": [
             "Oberbefehlshaber",
-            "Icon Bearer",
+            "Ikonenträger",
             "Transport",
             "Havocs",
-            "Possessed",
-            "Dreadnoughts",
+            "Besessene",
+            "Cybots",
             "Predators",
             "Stalker"
           ],
           "points": 275
         },
         {
-          "name": "Cultist Host",
-          "units": "Ein Word Bearer Coryphaus, zehn Cultists, Daemonic Pact",
-          "extraUnits": [
-            "Icon Bearer",
-            "Ersetze bis zu 2 Cultists durch Mutants: kostenlos",
-            "Ersetze bis zu 2 Cultists durch Chaos Hounds: kostenlos",
-            "Ersetze bis zu 2 Cultists durch Chaos Spawn: 25 Punkte pro Stück",
-            "Füge genügend Land Transporters hinzu, um den Verband zu transportieren mit no space left over hinzu: 10 Punkte pro Stück",
-            "Füge 1 Chaos Altar hinzu: 150 Punkte"
+          "name": "Kultistenhorde",
+          "units": "Ein Word Bearer Coryphaus, zehn Kultisten, Dämonenpakt",
+          "extraEinheits": [
+            "Ikonenträger",
+            "Ersetze bis zu 2 Kultisten durch Mutanten: kostenlos",
+            "Ersetze bis zu 2 Kultisten durch Chaos-Hunde: kostenlos",
+            "Ersetze bis zu 2 Kultisten durch Chaosbrut: 25 Punkte pro Stück",
+            "Füge genügend Kultisten-Landtransporter hinzu, um den Verband ohne freie Transportkapazität zu transportieren: 10 Punkte pro Stück",
+            "Füge 1 Chaosaltar hinzu: 150 Punkte"
           ],
           "points": 225
         }
@@ -135,46 +135,46 @@
     },
     {
       "name": "Word Bearers Eliteverbände",
-      "description": "Pro Word Bearers Retinue darf bis zu ein Eliteverband aufgestellt werden.",
+      "description": "Pro Word Bearers Gefolge darf bis zu ein Eliteverband aufgestellt werden.",
       "formations": [
         {
           "name": "Iconoclasts",
-          "units": "Ein Word Bearer Coryphaus, vier Word Bearers Iconoclasts, Daemonic Pact",
-          "extraUnits": [
-            "Icon Bearer",
+          "units": "Ein Word Bearer Coryphaus, vier Word Bearers Iconoclasts, Dämonenpakt",
+          "extraEinheits": [
+            "Ikonenträger",
             "Predators"
           ],
           "points": 225
         },
         {
           "name": "Havocs",
-          "units": "Ein Word Bearer Coryphaus, vier Havocs, zwei Chaos Rhinos, Daemonic Pact",
-          "extraUnits": [
+          "units": "Ein Word Bearer Coryphaus, vier Havocs, zwei Chaos Rhinos, Dämonenpakt",
+          "extraEinheits": [
             "Ersetze 2 Havocs durch 2 Daemonkin: kostenlos",
-            "Ersetze 2 Chaos Rhinos durch Chaos Land Raiders, 2 Chaos Dreadnoughts: 75 Punkte",
-            "Icon Bearer",
+            "Ersetze 2 Chaos Rhinos durch Chaos Land Raiders, 2 Chaos Cybots: 75 Punkte",
+            "Ikonenträger",
             "Predators",
             "Stalker"
           ],
           "points": 250
         },
         {
-          "name": "Armoured Company",
+          "name": "Panzerkompanie",
           "units": "Vier Chaos Predators",
-          "extraUnits": [
+          "extraEinheits": [
             "Ersetze 4 Chaos Predators durch 4 Chaos Vindicators (kostenlos) oder 4 Chaos Land Raiders (75 Punkte)",
             "Stalker"
           ],
           "points": 200
         },
         {
-          "name": "The Anointed",
-          "units": "Ein Word Bearer Coryphaus, drei Chaos Terminators, drei Chaos Land Raiders, Daemonic Pact",
-          "extraUnits": [
-            "Ersetze 1 Chaos Terminators Einheit durch 2 Daemonkin: kostenlos",
-            "Ersetze 3 Chaos Land Raiders durch 3 Chaos Dreadnoughts: kostenlos",
+          "name": "Die Gesalbten",
+          "units": "Ein Word Bearer Coryphaus, drei Chaos Terminatoren, drei Chaos Land Raiders, Dämonenpakt",
+          "extraEinheits": [
+            "Ersetze 1 Chaos Terminatoren Einheit durch 2 Daemonkin: kostenlos",
+            "Ersetze 3 Chaos Land Raiders durch 3 Chaos Cybots: kostenlos",
             "Oberbefehlshaber",
-            "Icon Bearer",
+            "Ikonenträger",
             "Stalker",
             "Predators"
           ],
@@ -184,12 +184,12 @@
     },
     {
       "name": "Dämonenmaschinen Verbände",
-      "description": "Pro Cultist Host Verband dürfen bis zu ein Daemon Engine Verband aufgestellt werden.",
+      "description": "Pro Kultistenhorden-Verband darf bis zu ein Dämonenmaschinen-Verband aufgestellt werden.",
       "formations": [
         {
           "name": "Cerberites",
           "units": "Drei Cerberites",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 200
         },
@@ -201,14 +201,14 @@
         {
           "name": "Maulerfiends",
           "units": "Vier Maulerfiends",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 225
         },
         {
-          "name": "Defilers",
-          "units": "Vier Defilers",
-          "extraUnits": [
+          "name": "Geißels",
+          "units": "Vier Geißels",
+          "extraEinheits": [
           ],
           "points": 250
         }
@@ -219,43 +219,43 @@
       "description": "Bis zu ein Drittel der verfügbaren Punkte darf für diese Verbände ausgegeben werden.",
       "formations": [
         {
-          "name": "Decimator",
+          "name": "Dezimator",
           "units": "Ein Decimator",
-          "extraUnits": [
+          "extraEinheits": [
           ],
           "points": 225
         },
         {
-          "name": "Chaos Knights",
-          "units": "Zwei Knight-Renegades, Daemonic Pact",
-          "extraUnits": [
+          "name": "Chaos-Ritter",
+          "units": "Zwei Abtrünnige Ritter, Dämonenpakt",
+          "extraEinheits": [
           ],
           "points": 300
         },
         {
           "name": "Todesrad",
-          "units": "Ein Death Wheel",
-          "extraUnits": [
+          "units": "Ein Todesrad",
+          "extraEinheits": [
           ],
           "points": 300
         },
         {
-          "name": "Heldrakes",
-          "units": "Zwei Heldrakes",
+          "name": "Höllendrachen",
+          "units": "Zwei Höllendrachen",
           "points": 225
         },
         {
           "name": "Harbringer",
-          "units": "Ein Harbringer Bomber",
-          "extraUnits": [
+          "units": "Ein Harbringer-Bomber (B)",
+          "extraEinheits": [
           ],
           "points": 300
         },
         {
-          "name": "0–1 Chaos Cruiser",
-          "units": "Ein Devastation Class Cruiser",
-          "extraUnits": [
-            "Battleship"
+          "name": "0–1 Chaos Kreuzer",
+          "units": "Ein Kreuzer der Devastation-Klasse",
+          "extraEinheits": [
+            "Schlachtschiff"
           ],
           "points": 125
         }
@@ -266,12 +266,12 @@
       "description": "Es dürfen beliebig viele Punkte für den Dämonenpool ausgegeben werden.",
       "formations": [
         {
-          "name": "Lesser Daemon Pool",
-          "units": "Beliebig viele Punkte aus dem Lesser-Daemon-Pool. Für jeden Daemonic Pact in der Armee kommt ein Punkt hinzu.",
+          "name": "Pool niederer Dämonen",
+          "units": "Beliebig viele Punkte aus dem Pool niederer Dämonen. Für jeden Dämonenpakt in der Armee kommt ein Punkt hinzu.",
           "points": 20
         },
         {
-          "name": "Greater Daemon Pool",
+          "name": "Pool Großer Dämonen",
           "units": "Beliebig viele Punkte aus dem Greater-Daemon-Pool.",
           "points": 50
         }
@@ -283,8 +283,8 @@
     "description": "Jede Aufwertung darf pro Verband einmal gewählt werden.",
     "items": [
       {
-        "name": "Battleship",
-        "description": "Ersetze den Devastation Class Cruiser durch ein Despoiler Class Battleship",
+        "name": "Schlachtschiff",
+        "description": "Ersetze den Kreuzer der Devastation-Klasse durch ein Schlachtschiff der Despoiler-Klasse",
         "points": "50 Punkte"
       },
       {
@@ -298,7 +298,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Füge 1 Daemon Prince Einheit zum Verband hinzu",
+            "description": "Füge 1 Dämonenprinz Einheit zum Verband hinzu",
             "points": "100 Punkte"
           }
         ]
@@ -321,13 +321,13 @@
         ]
       },
       {
-        "name": "Icon Bearer",
+        "name": "Ikonenträger",
         "description": "Füge 1 Icon Bearer character hinzu",
         "points": "25 Punkte"
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu 3 Chaos Dreadnoughts hinzu",
+        "name": "Cybots",
+        "description": "Füge bis zu 3 Chaos Cybots hinzu",
         "points": "50 Punkte pro Stück"
       },
       {

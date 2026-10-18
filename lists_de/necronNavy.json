@@ -7,7 +7,7 @@
       {
         "name": "Nachtsichel-Transporter",
         "type": "WE/AC",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 5,
         "weapons": [
           "AC Zwillings-Tesla Zerstörer",
@@ -17,14 +17,14 @@
           "Schadenskapazität: 1",
           "Furchtlos",
           "Regeneration",
-          "Enduring",
+          "Ausdauernd",
           "[*]Portal. Darf nur verwendet werden, um das Schlachtfeld zu betreten, nicht um in die Reserve zu wechseln. Darf nur im gelandeten Zustand verwendet werden."
         ]
       },
       {
         "name": "Todessichel-Jäger",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber (FB)",
         "armour": 5,
         "weapons": [
           "AC Zwillings-Tesla Zerstörer",
@@ -32,13 +32,13 @@
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
-          "Enduring"
+          "Ausdauernd"
         ]
       },
       {
-        "name": "Night Shroud Bomber",
+        "name": "Nachtmantel-Bomber (B)",
         "type": "AC",
-        "speed": "Bomber",
+        "speed": "Bomber (B) (B)",
         "armour": 4,
         "weapons": [
           "AC Zwillings-Tesla Zerstörer",
@@ -46,7 +46,7 @@
         ],
         "specialRules": [
           "Unmodifizierter Rettungswurf",
-          "Enduring"
+          "Ausdauernd"
         ]
       },
       {

@@ -1,16 +1,16 @@
 {
-  "fraction": "Scenario",
+  "fraction": "Szenario",
   "army": "Zündet die Leuchtfeuer",
   "version": "1.0.Beta",
   "release": "2022-04-01",
-  "strategy": "EA-Ragnarok Scenario",
+  "strategy": "EA-Ragnarök-Szenario",
   "Initiative": "Kampflinie",
   "specialRules": [
-    "General Tournament Tiebreaker Rules"
+    "Allgemeine Turnier-Stichentscheidungsregeln"
   ],
   "usage": [
     "Turnierregeln für Epic Armageddon",
-    "Die Turnierregeln von EA-Ragnarok sind für die gemeinsame Verwendung mit den EA-Ragnarok-Armeelisten ausgelegt. Sie ermöglichen zwei Spielern, mit wenig oder ganz ohne Vorbereitung ein ausgeglichenes Gefecht auszutragen. Sie eignen sich hervorragend für spontane Spiele in Clubs oder auf Veranstaltungen und sorgen bei Turnieren für ausgeglichene Partien. Turnierspiele stellen in vielerlei Hinsicht die „grundlegendste“ Spielform dar und sollen möglichst einfach und zugänglich sein, damit Epic-Spieler ohne großen Aufwand spielen können. Daher erfordern die Turnierregeln kaum Vorbereitung: Es genügt, Armeen aus den Armeelisten zusammenzustellen.",
+    "Die Turnierregeln von EA:Ragnarök sind für die gemeinsame Verwendung mit den Armeeorganisationsplänen von EA:Ragnarök ausgelegt. Sie ermöglichen zwei Spielern, mit wenig oder ganz ohne Vorbereitung ein ausgeglichenes Gefecht auszutragen. Sie eignen sich hervorragend für spontane Spiele in Clubs oder auf Veranstaltungen und sorgen bei Turnieren für ausgeglichene Partien. Turnierspiele stellen in vielerlei Hinsicht die „grundlegendste“ Spielform dar und sollen möglichst einfach und zugänglich sein, damit Epic-Spieler ohne großen Aufwand spielen können. Daher erfordern die Turnierregeln kaum Vorbereitung: Es genügt, Armeen anhand der Armeeorganisationspläne zusammenzustellen.",
     "In diesem Szenario müssen alle Leuchtfeuer gezündet werden, um die Kommandanten darüber zu informieren, dass ein ausreichend großer Brückenkopf für eine umfassende Luftlandung gesichert wurde. Halte so viel Gelände wie möglich, dränge den Gegner aus der Landezone und führe deine Seite zum Sieg.",
     "Aufstellung",
     "Der Turniertisch ist 120 cm × 180 cm groß (4 × 6 Fuß). Der Spieler mit dem höheren Strategiewert darf die Spielfeldkante wählen, an der er aufstellt. Haben beide Spieler denselben Strategiewert, würfeln sie aus, wer die Spielfeldkante wählen darf. Gewählt werden kann eine lange Kante oder eine Ecke (auf halber Länge jeder langen und kurzen Kante). Der Gegner stellt an der gegenüberliegenden Kante oder Ecke.",
@@ -23,7 +23,7 @@
     "Platziert abwechselnd Zielmarker, bis insgesamt sechs auf dem Spielfeld liegen. Als Zielmarker kann jeder geeignete Gegenstand dienen; wenn möglich, empfehlen wir Geländestücke. Ein Kampf um einen echten Bunker oder Treibstofflager ist reizvoller als ein Gefecht um eine Pappmarke.",
     "Jeder Zielmarker steht zu Spielbeginn unter der Kontrolle des Spielers, in dessen Spielfeldhälfte er sich befindet.",
     "Raumschiffe und Garnisonen aufstellen",
-    "Jeder Spieler darf bis zu zwei seiner Garnisonsverbände in Overwatch beginnen lassen. Diese Verbände stellen Wachposten dar, die als Stolperdraht und zur Sicherung der Zielmarker eingesetzt wurden. Es wird angenommen, dass sie bereits in ihrer vorherigen Aktionsphase in Overwatch gegangen sind. Dieser Overwatch-Status bleibt in der ersten Runde bestehen.",
+    "Jeder Spieler darf bis zu zwei seiner Garnisonsverbände in Feuerbereitschaft beginnen lassen. Diese Verbände stellen Wachposten dar, die als Stolperdraht und zur Sicherung der Zielmarker eingesetzt wurden. Es wird angenommen, dass sie bereits in ihrer vorherigen Aktionsphase in Feuerbereitschaft gegangen sind. Dieser Feuerbereitschaft-Status bleibt in der ersten Runde bestehen.",
     "Falls ein Spieler Raumschiffe einsetzt, werden diese jetzt vor allen anderen Einheiten aufgestellt (siehe 4.3). Einheiten, die durch Planetfall ins Spiel kommen, werden ebenfalls jetzt beiseitegelegt (siehe 4.4).",
     "Garnisonseinheiten auf dem Spielfeld werden nach den Raumschiffen aufgestellt. Die folgenden Verbände dürfen zu Spielbeginn als Garnisonen aufgestellt werden:",
     "Verbände, bei denen mindestens die Hälfte der Einheiten (aufgerundet) Kundschafter sind",
