@@ -20,7 +20,9 @@
         "Warlord-Titan, Todbringer-Klasse",
         "Warlord-Titan, Nemesis-Klasse",
         "Imperator-Titan",
-        "Warmonger-Titan"
+        "Warmonger-Titan",
+        "Warlord-Titan",
+        "Reaver-Titan"
       ],
       "unitRules": [
         "Erweiterte Befehlsreichweite",
@@ -46,7 +48,8 @@
         "Ordinatus Minoris ",
         "Avenger-Sturzkampfflugzeug",
         "Lysander-Jäger",
-        "Ark-Mechanicus-Schlachtschiff"
+        "Ark-Mechanicus-Schlachtschiff",
+        "Ordinatus Minoris"
       ],
       "unitRules": [
         "Maschinengeist",

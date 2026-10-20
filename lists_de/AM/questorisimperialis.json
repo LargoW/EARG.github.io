@@ -22,7 +22,8 @@
         "Ritter-Warden-Demolisher",
         "Ritter-Warden-Vanquisher",
         "Ritter-Warden-Skyjäger",
-        "Ritter-Errant"
+        "Ritter-Errant",
+        "Questoris-Ritter-Warden"
       ],
       "unitRules": [
         "Ionenschild (x)",

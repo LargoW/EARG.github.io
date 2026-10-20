@@ -43,7 +43,8 @@
         "Sturmtalon",
         "Angriffskreuzer",
         "Vanguard-Klasse-Leichter-Kreuzer",
-        "Landungskapsel"
+        "Landungskapsel",
+        "Aufklärer"
       ],
       "unitRules": [
           "Expertenaufklärung",

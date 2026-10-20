@@ -46,7 +46,11 @@
         "Thunderhawk-Transporter",
         "Schlachtbarke",
         "Angriffskreuzer",
-        "Landungskapsel"
+        "Landungskapsel",
+        "Captain",
+        "Oberbefehlshaber",
+        "Devastor-Trupps",
+        "Hunter"
       ],
       "unitRules": [
         "Bionik",
@@ -59,7 +63,8 @@
       "from": "ImperialAllies.json",
       "units": [
         "Reaver-Titan, Hun-Klasse",
-        "Warhound "
+        "Warhound ",
+        "Reaver-Titan"
       ],
       "unitRules": [
         "Null-Schilde"

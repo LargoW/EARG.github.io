@@ -33,7 +33,10 @@
         "Sky Talon",
         "Valkyrie",
         "Vendetta",
-        "Vulture"
+        "Vulture",
+        "Infanterie",
+        "Stoßtruppen",
+        "Feuerunterstützungstrupp"
       ],
       "unitRules": [
         "Gravfallschirme"

@@ -49,7 +49,9 @@
         "Sturmserpent",
         "Phantomritter",
         "Phantom-Titan",
-        "Phantomtitan"
+        "Phantomtitan",
+        "Eldar-Jetbikes",
+        "Viper"
       ],
       "unitRules": [
           "Holofelder (x)",

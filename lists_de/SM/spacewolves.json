@@ -51,7 +51,8 @@
         "Stormfang-Landungsschiff",
         "Schlachtbarke",
         "Angriffskreuzer",
-        "Landungskapsel"
+        "Landungskapsel",
+        "Oberbefehlshaber"
       ],
       "unitRules": [
         "Erweiterte Befehlsreichweite"

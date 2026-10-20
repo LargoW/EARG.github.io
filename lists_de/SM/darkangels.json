@@ -50,7 +50,14 @@
         "Ravenwing-Dark-Talon",
         "Hunter-Klasse-Zerstörer",
         "Angriffskreuzer",
-        "Landungskapsel"
+        "Landungskapsel",
+        "Captain",
+        "Sturm-Bikes",
+        "Devastor-Trupps",
+        "Trike",
+        "Land Speeder",
+        "Land Speeder Tornado",
+        "Cybot"
       ],
       "unitRules": [
       ]

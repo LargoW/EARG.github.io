@@ -51,7 +51,10 @@
         "Schlachtbarke",
         "Angriffskreuzer",
         "Vanguard-Klasse-Leichter-Kreuzer",
-        "Landungskapsel"
+        "Landungskapsel",
+        "Razorback",
+        "Hunter",
+        "Stalker"
       ],
       "unitRules": [
         "Ehrengarde",

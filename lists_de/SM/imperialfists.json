@@ -68,7 +68,9 @@
     {
       "from": "ImperialAllies.json",
       "units": [
-          "Reaver-Titan, Goth-Klasse"
+          "Reaver-Titan, Goth-Klasse",
+
+          "Reaver-Titan"
       ],
       "unitRules": [
         "Null-Schilde"

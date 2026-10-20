@@ -36,7 +36,10 @@
         "Shadowsword",
         "Baneblade",
         "Stormsword",
-        "Stormblade"
+        "Stormblade",
+        "Sentinel",
+        "Bombarde",
+        "Hydra"
       ],
       "unitRules": [
         "Schweres gepanzertes Fahrzeug (H-AV)"

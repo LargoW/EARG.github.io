@@ -899,7 +899,7 @@
           "Verstärkte Heckpanzerung",
           "Transport"
         ],
-        "notes": "10 Killa Bots, Boys, Bosse, Kommandos, Stormboys oder Grots. Deff Dreads und Mega Dreads belegen jeweils 2 Plätze. [*] Muss das Spiel an Bord eines Blutäxte-Kill-Kreuzers oder Schlachtkreuzers beginnen und darf das Spiel nur durch Planetare Landung betreten.",
+        "notes": "10 Killa Bots, Boys, Bosse, Kommandos, Stormboys oder Grots. Deff Dreads und Mega Dreads belegen jeweils 2 Plätze. [*] Muss das Spiel an Bord eines Blood Axes Kill Kroozer oder Blood Axes Battlekroozer beginnen und darf das Spiel nur durch Planetare Landung betreten.",
         "crit": "Die Landungsrakete und alle transportierten Einheiten werden zerstört"
       },
       {
@@ -917,7 +917,7 @@
         ]
       },
       {
-        "name": "Blutäxte-Kill-Kreuzer",
+        "name": "Blood Axes Kill Kroozer",
         "type": "SC",
         "weapons": [
           {
@@ -953,7 +953,7 @@
         ]
       },
       {
-        "name": "Blutäxte-Schlachtkreuzer",
+        "name": "Blood Axes Battlekroozer",
         "type": "SC",
         "weapons": [
           {

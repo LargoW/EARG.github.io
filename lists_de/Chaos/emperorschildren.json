@@ -33,7 +33,9 @@
         "Emperor's-Children-Land-Schattenbarke",
         "Emperor's-Children-Predator",
         "Emperor's-Children-Cybot",
-        "Chaos-Jäger"
+        "Chaos-Jäger",
+        "Dämonenprinz",
+        "Havocs"
       ],
       "unitRules": [
           "Verstärkte Beschwörung (+x)",

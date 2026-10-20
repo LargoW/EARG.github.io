@@ -36,13 +36,16 @@
         "Mega Transportpanza",
         "Mega Wummenpanza",
         "Supa-Stampfa ",
+        "Supa-Stampfa",
         "Gargant ",
         "Großer Gargant ",
         "Mega-Gargant",
         "Jagdbomma",
         "Bomma",
         "Kill-Kreuzer",
-        "Schlachtkreuzer"
+        "Schlachtkreuzer",
+        "Gargant",
+        "Großer Gargant"
       ],
       "unitRules": [
           "Los geht's",

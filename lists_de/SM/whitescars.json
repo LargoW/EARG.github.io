@@ -43,7 +43,14 @@
         "Thunderhawk",
         "Schlachtbarke",
         "Angriffskreuzer",
-        "Landungskapsel"
+        "Landungskapsel",
+        "Captain",
+        "Trike",
+        "Land Speeder",
+        "Land Speeder Tornado",
+        "Land Speeder Typhoon",
+        "Land Speeder Tempest",
+        "Vindicator"
       ],
       "unitRules": [
         "Im Sattel geboren",
