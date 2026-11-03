@@ -826,7 +826,7 @@
       {
         "name": "Blitza-Bomma",
         "type": "AC",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 5,
         "weapons": [
           "AC Flakka",
@@ -839,7 +839,7 @@
       {
         "name": "Wazbom-Blastajet",
         "type": "AC",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 4,
         "weapons": [
           "AC Flakka",
@@ -852,7 +852,7 @@
       {
         "name": "Bomma",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 4,
         "weapons": [
           "AC-Flakka-Dakka",
@@ -866,7 +866,7 @@
       {
         "name": "Landungsschiff",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 5,
         "cc": 6,
         "ff": 4,

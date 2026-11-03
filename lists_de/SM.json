@@ -2100,7 +2100,7 @@
       {
         "name": "Deathwatch-Landungsschiff",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 4,
         "cc": 5,
         "ff": 3,
@@ -2121,7 +2121,7 @@
       {
         "name": "Grey-Knights-Landungsschiff",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 4,
         "cc": 5,
         "ff": 3,
@@ -2143,7 +2143,7 @@
       {
         "name": "Stormwolf-Sturmboot",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 5,
         "cc": 5,
         "ff": 4,
@@ -2164,7 +2164,7 @@
       {
         "name": "Stormfang-Landungsschiff",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 5,
         "weapons": [
           "AC Helfrost Zerstörer||FxF",
@@ -2281,7 +2281,7 @@
       {
         "name": "Feuerraptor",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 5,
         "weapons": [
           "AC-Zwillings-Avenger-Bolterkanone||FxF",
@@ -2297,7 +2297,7 @@
       {
         "name": "Sturmadler",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 5,
         "cc": 6,
         "ff": 4,
@@ -2318,7 +2318,7 @@
       {
         "name": "Darkwing-Sturmadler",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 5,
         "cc": 6,
         "ff": 4,
@@ -2340,7 +2340,7 @@
       {
         "name": "Thunderhawk",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 4,
         "cc": 6,
         "ff": 4,
@@ -2362,7 +2362,7 @@
       {
         "name": "Thunderhawk-Transporter",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -2382,7 +2382,7 @@
       {
         "name": "Iron-Hands-Thunderhawk-Transporter",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -2402,7 +2402,7 @@
       {
         "name": "Deathwatch-Thunderhawk-Transporter",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -2422,7 +2422,7 @@
       {
         "name": "Grey-Knights-Thunderhawk-Transporter",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 4,
         "cc": 6,
         "ff": 4,
@@ -2444,14 +2444,14 @@
       {
         "name": "Thunderhawk-Bomber (B)",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+        "speed": "Bomber (B)",
         "armour": 4,
         "weapons": [
           "Kampfgeschütz||FxF",
           "AC-Zwillings-Schwere Bolter|2|FxF",
           "AC-Zwillings-Schwere Bolter||Left",
           "AC-Zwillings-Schwere Bolter||Right",
-          "AC Bombe Racks||FxF"
+          "AC Bombenträger||FxF"
         ],
         "specialRules": [
           "Schadenskapazität 2",
@@ -2462,7 +2462,7 @@
       {
         "name": "Landungsschiff",
         "type": "AC/WE",
-        "speed": "Bomber (B) (B)",
+                "speed": "Bomber (B)",
         "armour": 4,
         "cc": 6,
         "ff": 3,
