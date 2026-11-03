@@ -20,9 +20,7 @@
         "Warlord-Titan, Todbringer-Klasse",
         "Warlord-Titan, Nemesis-Klasse",
         "Imperator-Titan",
-        "Warmonger-Titan",
-        "Warlord-Titan",
-        "Reaver-Titan"
+        "Warmonger-Titan"
       ],
       "unitRules": [
         "Erweiterte Befehlsreichweite",

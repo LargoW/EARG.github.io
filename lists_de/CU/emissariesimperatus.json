@@ -42,11 +42,7 @@
     {
       "from": "SM.json",
       "units": [
-        "Sturmtalon",
-
-        "Cybot",
-
-        "Rhino"
+        "Sturmtalon"
       ],
       "unitRules": [
       ]

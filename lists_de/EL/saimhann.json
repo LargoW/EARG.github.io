@@ -48,9 +48,7 @@
         "Feuersturm",
         "Skorpion",
         "Kobra",
-        "Sturmserpent",
-        "Phantom-Titan",
-        "Viper"
+        "Sturmserpent"
       ],
         "unitRules": [
             "Holofelder (x)",

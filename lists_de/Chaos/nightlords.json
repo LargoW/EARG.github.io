@@ -35,8 +35,7 @@
         "Chaos-Spartan-Sturmpanzer",
         "Chaos-Jäger",
         "Chaos-Angriffs-Bike",
-        "Night-Lords-Cybot",
-        "Dämonenprinz"
+        "Night-Lords-Cybot"
       ],
       "unitRules": [
         "Verstärkte Beschwörung (+x)",
@@ -68,8 +67,7 @@
         "Chaos-Feuerraptor",
         "Chaos-Thunderhawk",
         "Kreuzer der Devastation-Klasse",
-        "Schlachtschiff der Despoiler-Klasse",
-        "Chaos-Angriffskreuzer"
+        "Schlachtschiff der Despoiler-Klasse"
       ],
       "unitRules": [
       ]

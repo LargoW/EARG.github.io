@@ -422,7 +422,7 @@
         ]
       },
       {
-        "name": "Raven-Guard-Aufklärer",
+        "name": "Raven Guard Scouts",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -831,7 +831,7 @@
         ]
       },
       {
-        "name": "White-Scars-Sturmbikes",
+        "name": "White Scars Sturmbikes",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -848,7 +848,7 @@
         ]
       },
       {
-        "name": "White-Scars-Scoutbikes",
+        "name": "White Scars Scoutbikes",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -1003,7 +1003,7 @@
         ]
       },
       {
-        "name": "White-Scars-Land Speeder",
+        "name": "White Scars Land Speeder",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1052,7 +1052,7 @@
         ]
       },
       {
-        "name": "White-Scars-Land Speeder-Tornado",
+        "name": "White Scars Land Speeder-Tornado",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1121,7 +1121,7 @@
         ]
       },
       {
-        "name": "White-Scars-Land Speeder-Typhoon",
+        "name": "White Scars Land Speeder-Typhoon",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1153,7 +1153,7 @@
         ]
       },
       {
-        "name": "White-Scars-Land Speeder-Tempest",
+        "name": "White Scars Land Speeder-Tempest",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1186,7 +1186,7 @@
         ]
       },
       {
-        "name": "White-Scars-Trike",
+        "name": "White Scars Trike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1202,7 +1202,7 @@
         ]
       },
       {
-        "name": "White-Scars-Melta-Bike",
+        "name": "White Scars Melta-Bike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -1788,7 +1788,7 @@
         ]
       },
       {
-        "name": "White-Scars-Vindicator",
+        "name": "White Scars Vindicator",
         "type": "AV",
         "speed": 30,
         "armour": 4,

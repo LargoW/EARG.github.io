@@ -26,7 +26,7 @@
         "Todeswelt-Chimäre",
         "Basilisk",
         "Greif",
-        "Todesstoß",
+        "Todesstoß Raketenlafette",
         "Vulture",
         "Valkyrie",
         "Vendetta",
@@ -113,7 +113,7 @@
         },
         {
           "name": "Todesstoß-Batterie",
-          "units": "Zwei Todesstoß-Raketensilos",
+          "units": "Zwei Todesstoß Raketenlafette",
           "extraUnits": [
           ],
           "points": 225

@@ -63,8 +63,7 @@
       "from": "ImperialAllies.json",
       "units": [
         "Reaver-Titan, Hun-Klasse",
-        "Warhound ",
-        "Reaver-Titan"
+        "Warhound "
       ],
       "unitRules": [
         "Null-Schilde"

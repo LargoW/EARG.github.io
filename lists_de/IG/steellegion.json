@@ -27,7 +27,7 @@
         "Bombarde",
         "Chimäre",
         "Taurox",
-        "Todesstoß",
+        "Todesstoß Raketenlafette",
         "Greif",
         "Höllenhund",
         "Hydra",
@@ -39,8 +39,7 @@
         "Valkyrie",
         "Vulture",
         "Shadowsword",
-        "Baneblade",
-        "Todesstoß-Raketensilo"
+        "Baneblade"
       ],
       "unitRules": [
       ]
@@ -151,7 +150,7 @@
         },
         {
           "name": "Todesstoß-Batterie",
-          "units": "Zwei Todesstoß-Raketensilos",
+          "units": "Zwei Todesstoß Raketenlafette",
           "extraUnits": [
           ],
           "points": 225

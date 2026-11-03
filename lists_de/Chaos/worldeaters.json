@@ -38,9 +38,7 @@
         "World-Eaters-Vindicator",
         "Chaos Land Raider",
         "Chaos-Spartan-Sturmpanzer",
-        "Berserker-Cybot",
-        "Dämonenprinz",
-        "Chaos Rhino"
+        "Berserker-Cybot"
       ],
       "unitRules": [
           "Verstärkte Beschwörung (+x)",

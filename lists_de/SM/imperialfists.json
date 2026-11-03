@@ -25,7 +25,7 @@
         "Sturm-Centurions",
         "Devastor-Centurions",
         "Devastor-Trupps",
-                "Scout",
+        "Scout",
         "Space-Marine-Rapier",
         "Space-Marine-Thunderfire",
         "Taktische Trupps",
@@ -68,9 +68,7 @@
     {
       "from": "ImperialAllies.json",
       "units": [
-          "Reaver-Titan, Goth-Klasse",
-
-          "Reaver-Titan"
+          "Reaver-Titan, Goth-Klasse"
       ],
       "unitRules": [
         "Null-Schilde"

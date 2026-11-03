@@ -45,9 +45,7 @@
         "Deathwatch-Land-Schattenbarke",
         "Corvus-Blackstar-Landungsschiff",
         "Deathwatch-Thunderhawk-Transporter",
-        "Dark-Hunter-Klasse-Zerstörer",
-        "Oberbefehlshaber",
-        "Thunderhawk-Transporter"
+        "Dark-Hunter-Klasse-Zerstörer"
       ],
       "unitRules": [
         "Sie kennen keine Furcht"
@@ -64,9 +62,7 @@
         "Gepanzerter Sentinel",
         "Leman Russ Kampfpanzer",
         "Leman Russ Thunderer",
-        "Landtransporter",
-        "Infanterie",
-        "Sentinel"
+        "Landtransporter"
       ],
       "unitRules": []
     }

@@ -24,7 +24,7 @@
         "Gepanzerter Sentinel",
         "Basilisk",
         "Medusa",
-        "Todesstoß",
+        "Todesstoß Raketenlafette",
         "Chimäre",
         "Höllenhund",
         "Leman Russ Kampfpanzer",
@@ -36,10 +36,7 @@
         "Shadowsword",
         "Baneblade",
         "Stormsword",
-        "Stormblade",
-        "Sentinel",
-        "Bombarde",
-        "Hydra"
+        "Stormblade"
       ],
       "unitRules": [
         "Schweres gepanzertes Fahrzeug (H-AV)"

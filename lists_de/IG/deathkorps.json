@@ -31,7 +31,7 @@
         "Trojan",
         "Bombarde",
         "Greif",
-        "Todesstoß",
+        "Todesstoß Raketenlafette",
         "Seuchenwolf",
         "Sturm-Chimäre",
         "Leman Russ Kampfpanzer",
@@ -43,7 +43,6 @@
         "Baneblade",
         "Stormsword",
         "Shadowsword",
-        "Sentinel",
         "Todesstoß-Raketensilo"
       ],
       "unitRules": [
@@ -159,7 +158,7 @@
         },
         {
           "name": "Todesstoß-Batterie",
-          "units": "Zwei Todesstoß-Raketensilos",
+          "units": "Zwei Todesstoß Raketenlafette",
           "extraUnits": [
           ],
           "points": 225
