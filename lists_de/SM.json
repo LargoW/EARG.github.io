@@ -407,7 +407,7 @@
         ]
       },
       {
-        "name": "Aufklärer",
+        "name": "Scout",
         "type": "INF",
         "speed": 15,
         "armour": 5,
