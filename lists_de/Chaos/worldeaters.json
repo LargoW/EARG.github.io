@@ -165,8 +165,8 @@
       "description": "Pro Kernverband dürfen zwei Unterstützungsverbände aufgestellt werden.",
       "formations": [
         {
-          "name": "Doomblasters",
-          "units": "Drei Doomblasters",
+          "name": "Verdammnisblaster",
+          "units": "Drei Verdammnisblaster",
           "extraUnits": [
           ],
           "points": 200
