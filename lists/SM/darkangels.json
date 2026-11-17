@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_DarkAngels",
-  "intro": "The following army list allows you to field an army based on the Dark Angels Space Marine chapter oder any of its successor chapters.",
+  "intro": "The following army list allows you to field an army based on the Dark Angels Space Marine chapter or any of its successor chapters.",
   "strategy": "Space Marine armies have a Strategy Rating of 5.",
   "Initiative": "All formations have an Initiative Rating of 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Dark Angels detachments.",
@@ -20,7 +20,7 @@
         "Dark Angels Captain",
         "Chaplain",
         "Librarian",
-        "Oberbefehlshaber",
+        "Supreme Commander",
         "Assaults",
         "Scouts",
         "Tacticals",
@@ -65,7 +65,7 @@
           "units": "One Black Knights, four Ravenwing Assault Bikes, three Ravenwing Land Speeders",
           "extraUnits": [
             "Attack Bikes",
-            "Befehlshaber"
+            "Commander"
           ],
           "points": 350
         },
@@ -75,7 +75,7 @@
           "extraUnits": [
             "Razorbacks",
             "Anti-Air",
-            "Befehlshaber",
+            "Commander",
             "Land Raiders"
           ],
           "points": 275
@@ -85,7 +85,7 @@
           "units": "Any four of the following units: Terminators, Cyclone Terminators",
           "extraUnits": [
             "Deathwing Knights",
-            "Befehlshaber"
+            "Commander"
           ],
           "points": 350
         }
@@ -118,7 +118,7 @@
         "extraUnits": [
           "Razorbacks",
           "Anti-Air",
-          "Befehlshaber",
+          "Commander",
           "Land Raiders"
         ],
         "points": 250
@@ -127,13 +127,13 @@
         "name": "Deathwing Armour",
         "units": "Three Land Raiders, three Terminators",
         "extraUnits": [
-          "Befehlshaber"
+          "Commander"
         ],
         "points": 450
     },
     {
       "name": "Predators",
-      "units": "Four Predator Destructors und/oder Predator Annihilators",
+      "units": "Four Predator Destructors and/or Predator Annihilators",
       "extraUnits": [
         "Anti-Air"
       ],
@@ -143,7 +143,7 @@
           "name": "Assaults",
           "units": "Four Assaults",
           "extraUnits": [
-            "Befehlshaber",
+            "Commander",
             "Vindicators"
           ],
           "points": 175
@@ -161,7 +161,7 @@
           "units": "Four Scouts, two Rhinos",
           "extraUnits": [
             "Razorbacks",
-            "Scharfschützes"
+            "Snipers"
           ],
           "points": 150
         },
@@ -236,7 +236,7 @@
         "points": "125 points"
       },
       {
-        "name": "Befehlshaber",
+        "name": "Commander",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {
@@ -248,7 +248,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Oberbefehlshaber",
+            "description": "0–1 Supreme Commander",
             "points": "75 points"
           }
         ]
@@ -282,8 +282,8 @@
         "points": "25 points each"
       },
       {
-        "name": "Scharfschützes",
-        "description": "Give all Scouts in the formation 'Scharfschütze' on their Heavy Bolters",
+        "name": "Snipers",
+        "description": "Give all Scouts in the formation 'Sniper' on their Heavy Bolters",
         "points": "25 points"
       },
       {
@@ -294,7 +294,7 @@
     ]
   },
   "usage": [
-    "The EA-R Dark Angels list is inspired by the E-UK version of the list, but the differences are obviously way more numerous than the similarities. For example, while the Unmodifizierter Rettungswurf on the Ravenwing formations has been retained, the Deathwing rule has been dropped, and the Teleport Homer rule is greatly expanded.",
+    "The EA-R Dark Angels list is inspired by the E-UK version of the list, but the differences are obviously way more numerous than the similarities. For example, while the Invulnerable Save on the Ravenwing formations has been retained, the Deathwing rule has been dropped, and the Teleport Homer rule is greatly expanded.",
     "Apart from the rigid structure and the changes inherited from the EA-R Codex Astartes list, the most major difference is that it has no access to air assault formations, but strongly encourages the player to concentrate on the Teleport aspects of the Dark Angels fluff, and bringing a strong ground game. The Battle Barge has been replaced with the Hunter Class Destroyer, which provides the army with a cheaper way to use the Teleport Homer special rule.",
     "A great number of the Dark Angels' many special units has been added, somewhat compensating for the loss of air assault options and Collegia Titanica allies. The Glaive, being a relic Horus Heresy technology, has been restricted to one formation for thematic purposes, while the normal Dreadnought loadouts have been replaced with the Mortis AA variant. The Land Speeder Typhoon has been replaced with the Land Speeder Venegance, and the formation reduced to four units to keep the cost down, and make the formation more competitive with the Scout formation. The Assaults detachment was expanded to six units and comes with a Dark Angels Captain as standard (providing Teleport Homer), making them more relevant in a list without Thunderhawks. The Nephilim is now more similar to the Storm Talon, and the Dark Talon provides the list with a Fighter-Bomber option."
   ]

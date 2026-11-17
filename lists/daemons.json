@@ -5,7 +5,7 @@
     ],
     "unit": [
       {
-        "name": "Exalted Hüter der Geheimnisse",
+        "name": "Exalted Keeper of Secrets",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -16,21 +16,21 @@
           "Lash of Torment"
         ],
         "specialRules": [
-          "Schadenskapazität4",
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
-          "Anführer",
-          "Befehlshaber",
-          "Inspirierend",
-          "Dämonischer Fokus",
-          "Warp Riss",
-          "Geländegängig",
-          "Verstärkte Beschwörung (+W3)"
+          "Damage Capacity 4",
+          "Reinforced Armour",
+          "Invulnerable Save",
+          "Leader",
+          "Commander",
+          "Inspiring",
+          "Daemonic Focus",
+          "Warp Rift",
+          "Walker",
+          "Augment Summoning (+D3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
       },
       {
-        "name": "Hüter der Geheimnisse",
+        "name": "Keeper of Secrets",
         "type": "WE",
         "speed": 20,
         "armour": 4,
@@ -41,18 +41,18 @@
           "Lash of Torment"
         ],
         "specialRules": [
-          "Schadenskapazität3",
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
-          "Inspirierend",
-          "Dämonischer Fokus",
-          "Geländegängig",
-          "Verstärkte Beschwörung (+1)"
+          "Damage Capacity 3",
+          "Reinforced Armour",
+          "Invulnerable Save",
+          "Inspiring",
+          "Daemonic Focus",
+          "Walker",
+          "Augment Summoning (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
       },
       {
-        "name": "Herold des Slaanesh",
+        "name": "Herald of Slaanesh",
         "type": "INF",
         "speed": 20,
         "armour": 4,
@@ -63,13 +63,13 @@
           "Cacophonic Blast"
         ],
         "specialRules": [
-          "Dämonischer Fokus",
-          "Unmodifizierter Rettungswurf",
-          "Verstärkte Beschwörung (+1)"
+          "Daemonic Focus",
+          "Invulnerable Save",
+          "Augment Summoning (+1)"
         ]
       },
       {
-        "name": "Herold des Slaanesh on Seeker Chariot",
+        "name": "Herald of Slaanesh on Seeker Chariot",
         "type": "LV",
         "speed": 35,
         "armour": 4,
@@ -80,9 +80,9 @@
           "Cacophonic Blast"
         ],
         "specialRules": [
-          "Dämonischer Fokus",
-          "Unmodifizierter Rettungswurf",
-          "Verstärkte Beschwörung (+1)"
+          "Daemonic Focus",
+          "Invulnerable Save",
+          "Augment Summoning (+1)"
         ]
       },
       {
@@ -95,12 +95,12 @@
           "Piercing Claws"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Invulnerable Save"
         ]
       },
       {
-        "name": "Slaaneshbestien",
+        "name": "Fiends of Slaanesh",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -109,8 +109,8 @@
           "Claws"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Invulnerable Save"
         ]
       },
       {
@@ -123,14 +123,14 @@
           "Barbed Claws"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf",
-          "Beritten",
-          "Geländegängig"
+          "Expendable",
+          "Invulnerable Save",
+          "Mounted",
+          "Walker"
         ]
       },
       {
-        "name": "Exalted Großer Verpester",
+        "name": "Exalted Great Unclean One",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -141,21 +141,21 @@
           "Filth Mace"
         ],
         "specialRules": [
-          "Schadenskapazität5",
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
-          "Anführer",
-          "Befehlshaber",
-          "Inspirierend",
-          "Dämonischer Fokus",
-          "Warp Riss",
-          "Geländegängig",
-          "Verstärkte Beschwörung (+W3)"
+          "Damage Capacity 5",
+          "Reinforced Armour",
+          "Invulnerable Save",
+          "Leader",
+          "Commander",
+          "Inspiring",
+          "Daemonic Focus",
+          "Warp Rift",
+          "Walker",
+          "Augment Summoning (+D3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
       },
       {
-        "name": "Großer Verpester",
+        "name": "Great Unclean One",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -166,18 +166,18 @@
           "Filth Mace"
         ],
         "specialRules": [
-          "Schadenskapazität4",
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
-          "Inspirierend",
-          "Dämonischer Fokus",
-          "Geländegängig",
-          "Verstärkte Beschwörung (+1)"
+          "Damage Capacity 4",
+          "Reinforced Armour",
+          "Invulnerable Save",
+          "Inspiring",
+          "Daemonic Focus",
+          "Walker",
+          "Augment Summoning (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
       },
       {
-        "name": "Herold des Nurgle on Palanquin",
+        "name": "Herald of Nurgle on Palanquin",
         "type": "INF",
         "speed": 15,
         "armour": 3,
@@ -188,13 +188,13 @@
           "Nurglings"
         ],
         "specialRules": [
-          "Dämonischer Fokus",
-          "Unmodifizierter Rettungswurf",
-          "Verstärkte Beschwörung (+1)"
+          "Daemonic Focus",
+          "Invulnerable Save",
+          "Augment Summoning (+1)"
         ]
       },
       {
-        "name": "Herold des Nurgle on Blight Fly",
+        "name": "Herald of Nurgle on Blight Fly",
         "type": "INF",
         "speed": 30,
         "armour": 4,
@@ -205,11 +205,11 @@
           "Blight Fly"
         ],
         "specialRules": [
-          "Dämonischer Fokus",
-          "Beritten",
-          "Sprungmodule",
-          "Unmodifizierter Rettungswurf",
-          "Verstärkte Beschwörung (+1)"
+          "Daemonic Focus",
+          "Mounted",
+          "Jump Packs",
+          "Invulnerable Save",
+          "Augment Summoning (+1)"
         ]
       },
       {
@@ -222,8 +222,8 @@
           "Plagueswords"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Invulnerable Save"
         ]
       },
       {
@@ -236,8 +236,8 @@
           "Slobbering Affection"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Invulnerable Save"
         ]
       },
       {
@@ -252,10 +252,10 @@
           "Blight Fly"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Beritten",
-          "Sprungmodule",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Mounted",
+          "Jump Packs",
+          "Invulnerable Save"
         ]
       },
       {
@@ -270,17 +270,17 @@
           "Lash of Khorne"
         ],
         "specialRules": [
-          "Schadenskapazität4",
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
-          "Anführer",
-          "Befehlshaber",
-          "Inspirierend",
-          "Dämonischer Fokus",
-          "Warp Riss",
-          "Geländegängig",
+          "Damage Capacity 4",
+          "Reinforced Armour",
+          "Invulnerable Save",
+          "Leader",
+          "Commander",
+          "Inspiring",
+          "Daemonic Focus",
+          "Warp Rift",
+          "Walker",
           "Jump Pack",
-          "Verstärkte Beschwörung (+W3)"
+          "Augment Summoning (+D3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
       },
@@ -296,19 +296,19 @@
           "Lash of Khorne"
         ],
         "specialRules": [
-          "Schadenskapazität3",
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
-          "Inspirierend",
-          "Dämonischer Fokus",
-          "Geländegängig",
+          "Damage Capacity 3",
+          "Reinforced Armour",
+          "Invulnerable Save",
+          "Inspiring",
+          "Daemonic Focus",
+          "Walker",
           "Jump Pack",
-          "Verstärkte Beschwörung (+1)"
+          "Augment Summoning (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+"
       },
       {
-        "name": "Herold des Khorne on Skull Cannon",
+        "name": "Herald of Khorne on Skull Cannon",
         "type": "LV",
         "speed": 20,
         "armour": 4,
@@ -318,14 +318,14 @@
           "Skull Cannon"
         ],
         "specialRules": [
-            "Dämonischer Fokus",
-            "Infiltratorens",
-          "Unmodifizierter Rettungswurf",
-          "Verstärkte Beschwörung (+1)"
+            "Daemonic Focus",
+            "Infiltrators",
+          "Invulnerable Save",
+          "Augment Summoning (+1)"
         ]
       },
       {
-        "name": "Herold des Khorne on Juggernaut",
+        "name": "Herald of Khorne on Juggernaut",
         "type": "INF",
         "speed": 25,
         "armour": 4,
@@ -335,11 +335,11 @@
           "Juggernaut"
         ],
         "specialRules": [
-          "Beritten",
-          "Geländegängig",
-          "Dämonischer Fokus",
-          "Unmodifizierter Rettungswurf",
-          "Verstärkte Beschwörung (+1)"
+          "Mounted",
+          "Walker",
+          "Daemonic Focus",
+          "Invulnerable Save",
+          "Augment Summoning (+1)"
         ]
       },
       {
@@ -352,8 +352,8 @@
           "Hellblades"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Invulnerable Save"
         ]
       },
       {
@@ -363,11 +363,11 @@
         "armour": 5,
         "cc": 2,
         "weapons": [
-          "Klauen und Zähne"
+          "Claws and Fangs"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Invulnerable Save"
         ]
       },
       {
@@ -380,10 +380,10 @@
           "Juggernaut"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf",
-          "Beritten",
-          "Geländegängig"
+          "Expendable",
+          "Invulnerable Save",
+          "Mounted",
+          "Walker"
         ]
       },
       {
@@ -398,17 +398,17 @@
           "Bedlam Staff"
         ],
         "specialRules": [
-          "Schadenskapazität4",
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
-          "Anführer",
-          "Befehlshaber",
-          "Inspirierend",
-          "Dämonischer Fokus",
-          "Warp Riss",
-          "Geländegängig",
+          "Damage Capacity 4",
+          "Reinforced Armour",
+          "Invulnerable Save",
+          "Leader",
+          "Commander",
+          "Inspiring",
+          "Daemonic Focus",
+          "Warp Rift",
+          "Walker",
           "Jump Pack",
-          "Verstärkte Beschwörung (+W3)"
+          "Augment Summoning (+D3)"
         ],
         "crit": "The Exalted Greater Daemon is destroyed. All Daemon units within 5cm are destroyed."
       },
@@ -424,19 +424,19 @@
           "Bedlam Staff"
         ],
         "specialRules": [
-          "Schadenskapazität3",
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
-          "Inspirierend",
-          "Dämonischer Fokus",
-          "Geländegängig",
+          "Damage Capacity 3",
+          "Reinforced Armour",
+          "Invulnerable Save",
+          "Inspiring",
+          "Daemonic Focus",
+          "Walker",
           "Jump Pack",
-          "Verstärkte Beschwörung (+1)"
+          "Augment Summoning (+1)"
         ],
         "crit": "The Greater Daemon is destroyed. Any summoned Daemon units within 5cm are destroyed on 5+."
       },
       {
-        "name": "Herold des Tzeentch",
+        "name": "Herald of Tzeentch",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -446,13 +446,13 @@
           "Violet Fire of Tzeentch"
         ],
         "specialRules": [
-          "Dämonischer Fokus",
-          "Unmodifizierter Rettungswurf",
-          "Verstärkte Beschwörung (+1)"
+          "Daemonic Focus",
+          "Invulnerable Save",
+          "Augment Summoning (+1)"
         ]
       },
       {
-        "name": "Herold des Tzeentch on Burning Chariot",
+        "name": "Herald of Tzeentch on Burning Chariot",
         "type": "LV",
         "speed": 30,
         "armour": 4,
@@ -462,10 +462,10 @@
           "Violet Fire of Tzeentch"
         ],
         "specialRules": [
-          "Sprungmodule",
-          "Dämonischer Fokus",
-          "Unmodifizierter Rettungswurf",
-          "Verstärkte Beschwörung (+1)"
+          "Jump Packs",
+          "Daemonic Focus",
+          "Invulnerable Save",
+          "Augment Summoning (+1)"
         ]
       },
       {
@@ -479,8 +479,8 @@
           "Sorcerous Bolts"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Invulnerable Save"
         ]
       },
       {
@@ -494,8 +494,8 @@
           "Flames of Tzeentch"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Invulnerable Save"
         ]
       },
       {
@@ -505,12 +505,12 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Klauen und Zähne"
+          "Claws and Fangs"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Sprungmodule",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Jump Packs",
+          "Invulnerable Save"
         ]
       },
       {
@@ -523,8 +523,8 @@
           "Claws"
         ],
         "specialRules": [
-          "Entbehrlich",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Invulnerable Save"
         ]
       },
       {
@@ -538,9 +538,9 @@
         ],
         "specialRules": [
           "In Midnight Clad",
-          "Entbehrlich",
-          "Sprungmodule",
-          "Unmodifizierter Rettungswurf"
+          "Expendable",
+          "Jump Packs",
+          "Invulnerable Save"
         ]
       },
       {
@@ -555,10 +555,10 @@
           "Warpsword"
         ],
         "specialRules": [
-          "Dämonischer Fokus",
-          "Infiltratorens",
-          "Geländegängig",
-          "Unmodifizierter Rettungswurf"
+          "Daemonic Focus",
+          "Infiltrators",
+          "Walker",
+          "Invulnerable Save"
         ]
       }
     ]

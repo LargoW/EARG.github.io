@@ -14,11 +14,11 @@
           "Large Rending Claws"
         ],
         "specialRules": [
-          "Oberbefehlshaber",
-          "Inspirierend",
-          "Aufklärer",
-          "Infiltratorens",
-          "Unmodifizierter Rettungswurf"
+          "Supreme Commander",
+          "Inspiring",
+          "Scout",
+          "Infiltrators",
+          "Invulnerable Save"
         ]
       },
       {
@@ -28,8 +28,8 @@
           "Psyker powers"
         ],
         "specialRules": [
-          "Unmodifizierter Rettungswurf",
-          "Anführer"
+          "Invulnerable Save",
+          "Leader"
         ]
       },
       {
@@ -39,7 +39,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Inspirierend"
+          "Inspiring"
         ]
       },
       {
@@ -49,19 +49,19 @@
           "n/a"
         ],
         "specialRules": [
-          "Anführer",
-          "Inspirierend",
-          "Unmodifizierter Rettungswurf"
+          "Leader",
+          "Inspiring",
+          "Invulnerable Save"
         ]
       },
       {
         "name": "Jackal Alphus",
         "type": "CH",
         "weapons": [
-          "Scharfschütze Rifle"
+          "Sniper Rifle"
         ],
         "specialRules": [
-          "Anführer"
+          "Leader"
         ]
       },
       {
@@ -76,9 +76,9 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Inspirierend",
-          "Befehlshaber",
-          "Infiltratorens"
+          "Inspiring",
+          "Commander",
+          "Infiltrators"
         ]
       },
       {
@@ -93,7 +93,7 @@
           "Claws"
         ],
         "specialRules": [
-          "Infiltratorens"
+          "Infiltrators"
         ]
       },
       {
@@ -106,7 +106,7 @@
           "Giant Mauls"
         ],
         "specialRules": [
-          "Infiltratorens"
+          "Infiltrators"
         ]
       },
       {
@@ -121,7 +121,7 @@
           "Claws"
         ],
         "specialRules": [
-          "Beritten"
+          "Mounted"
         ]
       },
       {
@@ -147,8 +147,8 @@
           "Rending Claws"
         ],
         "specialRules": [
-          "Aufklärer",
-          "Infiltratorens"
+          "Scout",
+          "Infiltrators"
         ]
       },
       {
@@ -163,7 +163,7 @@
         ],
         "specialRules": [
           "Teleport",
-          "Infiltratorens"
+          "Infiltrators"
         ]
       },
       {
@@ -178,10 +178,10 @@
           "Scythed Claws"
         ],
         "specialRules": [
-          "Erstschlag",
-          "Infiltratorens",
-          "Aufklärer",
-          "Unmodifizierter Rettungswurf",
+          "First Strike",
+          "Infiltrators",
+          "Scout",
+          "Invulnerable Save",
           "Teleport"
         ]
       },
@@ -193,12 +193,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schweres Zwillings Maschinengewehr"
+          "Twin Heavy Stubber"
         ],
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule oder Beritten. Hybrid Aberrants and Genestealer Patriarch counts as two units."
+        "notes": "May carry two infantry units without Jump Packs or Mounted. Hybrid Aberrants and Genestealer Patriarch counts as two units."
       },
       {
         "name": "Coven Technical",
@@ -208,7 +208,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schweres Zwillings Maschinengewehr Turret"
+          "Twin Heavy Stubber Turret"
         ],
         "specialRules": [
         ]
@@ -224,7 +224,7 @@
           "Seismic Cannon"
         ],
         "specialRules": [
-          "Aufklärer"
+          "Scout"
         ]
       },
       {
@@ -238,10 +238,10 @@
           "Heavy Mining Laser"
         ],
         "specialRules": [
-          "Geländegängig",
+          "Walker",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule oder Beritten. Hybrid Aberrants and Genestealer Patriarch counts as two units."
+        "notes": "May carry two infantry units without Jump Packs or Mounted. Hybrid Aberrants and Genestealer Patriarch counts as two units."
       },
       {
         "name": "Coven Thunderbolt Fighter",
@@ -323,12 +323,12 @@
         "ff": 4,
         "weapons": [
           "Battle Cannon",
-          "Laserkanone",
+          "Lascannon",
           "Heavy Bolter|2|"
         ],
         "specialRules": [
           "Brood Brothers",
-          "Verstärkte Panzerung"
+          "Reinforced Armour"
         ]
       },
       {
@@ -340,12 +340,12 @@
         "ff": 3,
         "weapons": [
           "Demolisher",
-          "Laserkanone",
+          "Lascannon",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
           "Brood Brothers",
-          "Verstärkte Panzerung"
+          "Reinforced Armour"
         ]
       },
       {
@@ -356,7 +356,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings Hydra Autocannon|2",
+          "Twin Hydra Autocannon|2",
           "Heavy Bolter"
         ],
         "specialRules": [
@@ -408,7 +408,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
+        "notes": "May carry two infantry units without Jump Packs or Mounted."
       },
       {
         "name": "Cult Land Transporter",
@@ -418,13 +418,13 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Maschinengewehr"
+          "Heavy Stubber"
         ],
         "specialRules": [
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
+        "notes": "May carry two infantry units without Jump Packs or Mounted."
       },
       {
         "name": "Cult Baneblade",
@@ -437,12 +437,12 @@
           "Baneblade Cannon",
           "Autocannon",
           "Demolisher||FxF",
-          "Laserkanone|2|FxF",
-          "Schweres Zwillings Bolter|3|FxF"
+          "Lascannon|2|FxF",
+          "Twin Heavy Bolter|3|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
-          "Verstärkte Panzerung"
+          "Damage Capacity 3",
+          "Reinforced Armour"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -455,12 +455,12 @@
         "ff": 4,
         "weapons": [
           "Stormblade Blastgun||FxF",
-          "Laserkanone|2|FxF",
-          "Schweres Zwillings Bolter|2|FxF"
+          "Lascannon|2|FxF",
+          "Twin Heavy Bolter|2|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
-          "Verstärkte Panzerung"
+          "Damage Capacity 3",
+          "Reinforced Armour"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -473,11 +473,11 @@
         "ff": 5,
         "weapons": [
           "Volcano Cannon||FxF",
-          "Schweres Zwillings Bolter|2|FxF"
+          "Twin Heavy Bolter|2|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität3",
-          "Verstärkte Panzerung"
+          "Damage Capacity 3",
+          "Reinforced Armour"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       }

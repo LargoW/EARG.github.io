@@ -47,9 +47,9 @@
       ],
       "unitRules": [
           "Holofields (x)",
-          "Lanze",
-          "Schildbohrer",
-          "Schildbrecher"
+          "Lance",
+          "Shield Piercer",
+          "Shield Disruptor"
       ]
     },
     {
@@ -75,7 +75,7 @@
         },
         {
           "name": "0-1 Gate of Vaul",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Gate of Vaul, this counts as an objective marker and a Large Webway Portal which may not be attacked oder damaged in any way. ",
+          "units": "Replace one objective marker in the Eldar player's half of the table with a Gate of Vaul, this counts as an objective marker and a Large Webway Portal which may not be attacked or damaged in any way. ",
           "points": 100
         }
       ]
@@ -108,7 +108,7 @@
       "description": "Up to two Yme-Loc Troupes may be taken for each Yme-Loc Vaulhost",
       "formations": [
         {
-          "name": "Beritten Aspect Warrior Troupe",
+          "name": "Mounted Aspect Warrior Troupe",
           "units": "Three Wave Serpents and six Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
           "extraUnits": [
             "Exarch"
@@ -116,7 +116,7 @@
           "points": 325
         },
         {
-          "name": "Beritten Guardian Troupe",
+          "name": "Mounted Guardian Troupe",
           "units": "Two Wave Serpents, two Falcons, one Farseer, five Guardians",
           "extraUnits": [
             "Heavy Weapons"

@@ -29,7 +29,7 @@
         "Eldar Heavy Weapons Platform",
         "Support Weapons Platform",
         "Shadow Spectres",
-        "Ghost Geländegängigs",
+        "Ghost Walkers",
         "Dire Avengers",
         "Fire Dragons",
         "Dark Reapers",
@@ -37,7 +37,7 @@
         "Striking Scorpions",
         "Warp Spiders",
         "Wraithreapers",
-        "Wasp Geländegängig",
+        "Wasp Walker",
         "Wraithlord",
         "Wave Serpent",
         "Night Spinner",
@@ -53,9 +53,9 @@
         "Mymeara Phantom Titan"
       ],
       "unitRules": [
-          "Lanze",
-          "Schildbohrer",
-          "Schildbrecher",
+          "Lance",
+          "Shield Piercer",
+          "Shield Disruptor",
           "Holofields (x)",
           "Heavy Armoured Vehicle (H-AV)"
       ]
@@ -83,7 +83,7 @@
         },
         {
           "name": "0-1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked oder damaged in any way. ",
+          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
           "points": 50
         }
       ]
@@ -122,8 +122,8 @@
       "description": "Up to two for each 'Mymeara Hosts' taken",
       "formations": [
         {
-          "name": "Wasp Geländegängigs",
-          "units": "Four Wasp Geländegängigs",
+          "name": "Wasp Walkers",
+          "units": "Four Wasp Walkers",
           "upgrades": [
           ],
           "points": 150

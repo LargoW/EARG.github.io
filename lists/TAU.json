@@ -13,9 +13,9 @@
         ],
         "specialRules": [
           "Ethereal",
-          "Inspirierend",
-          "Anführer",
-          "Unmodifizierter Rettungswurf"
+          "Inspiring",
+          "Leader",
+          "Invulnerable Save"
         ]
       },
       {
@@ -25,7 +25,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Anführer",
+          "Leader",
           "Coordinated Fire"
         ]
       },
@@ -36,7 +36,7 @@
           "Experimental Weapons"
         ],
         "specialRules": [
-          "Oberbefehlshaber",
+          "Supreme Commander",
           "Coordinated Fire"
         ]
       },
@@ -51,7 +51,7 @@
           "Experimental Weapons"
         ],
         "specialRules": [
-          "Oberbefehlshaber",
+          "Supreme Commander",
           "Coordinated Fire"
         ]
       },
@@ -118,7 +118,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Zwillings Pulse Carbine"
+          "Twin Pulse Carbine"
         ],
         "specialRules": [
           "Tau Jet Packs"
@@ -145,7 +145,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Entbehrlich",
+          "Expendable",
           "Tau Jet Packs",
           "Deflector Shield"
         ]
@@ -164,7 +164,7 @@
         "specialRules": [
           "Coordinated Fire",
           "Markerlights",
-          "Aufklärer"
+          "Scout"
         ]
       },
       {
@@ -175,12 +175,12 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Zwillings Missile Pod",
-          "Zwillings Plasma Rifle",
-          "Zwillings Fusion Blaster"
+          "Twin Missile Pod",
+          "Twin Plasma Rifle",
+          "Twin Fusion Blaster"
         ],
         "specialRules": [
-          "Unmodifizierter Rettungswurf",
+          "Invulnerable Save",
           "Tau Jet Packs"
         ]
       },
@@ -192,11 +192,11 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Zwillings Plasma Rifle",
-          "Zwillings Fusion Blaster"
+          "Twin Plasma Rifle",
+          "Twin Fusion Blaster"
         ],
         "specialRules": [
-          "Unmodifizierter Rettungswurf",
+          "Invulnerable Save",
           "Markerlights",
           "Tau Jet Packs"
         ]
@@ -212,8 +212,8 @@
           "Silenced Burst Cannons"
         ],
         "specialRules": [
-          "Erstschlag",
-          "Verstärkte Panzerung",
+          "First Strike",
+          "Reinforced Armour",
           "Markerlights",
           "Scouts",
           "Tau Jet Packs",
@@ -231,8 +231,8 @@
           "Fusion Blasters"
         ],
         "specialRules": [
-          "Erstschlag",
-          "Verstärkte Panzerung",
+          "First Strike",
+          "Reinforced Armour",
           "Markerlights",
           "Scouts",
           "Tau Jet Packs",
@@ -240,17 +240,17 @@
         ]
       },
       {
-        "name": "Scharfschütze Drones",
+        "name": "Sniper Drones",
         "type": "INF",
         "speed": 20,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Scharfschütze Drone"
+          "Sniper Drone"
         ],
         "specialRules": [
-          "Aufklärer",
+          "Scout",
           "Teleport",
           "Tau Jet Packs",
           "Counts as Gun Drone for the purpose of being transported."
@@ -264,7 +264,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Scharfschütze Drone"
+          "Sniper Drone"
         ],
         "specialRules": [
           "Teleport",
@@ -283,7 +283,7 @@
           "Neutron Blasters"
         ],
         "specialRules": [
-          "Sprungmodule"
+          "Jump Packs"
         ]
       },
       {
@@ -297,9 +297,9 @@
           "Kroot Rifles"
         ],
         "specialRules": [
-          "Infiltratorens",
-          "Anführer",
-          "Aufklärer"
+          "Infiltrators",
+          "Leader",
+          "Scout"
         ]
       },
       {
@@ -312,8 +312,8 @@
           "Kroot Rifles"
         ],
         "specialRules": [
-          "Infiltratorens",
-          "Aufklärer"
+          "Infiltrators",
+          "Scout"
         ]
       },
       {
@@ -325,8 +325,8 @@
           "Fangs"
         ],
         "specialRules": [
-          "Infiltratorens",
-          "Aufklärer"
+          "Infiltrators",
+          "Scout"
         ]
       },
       {
@@ -368,8 +368,8 @@
           "Phased Ion Guns"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Geländegängig",
+          "Reinforced Armour",
+          "Walker",
           "Tau Jet Pack"
         ]
       },
@@ -385,13 +385,13 @@
           "Fusion Blaster"
         ],
         "specialRules": [
-          "Erstschlag",
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
+          "First Strike",
+          "Reinforced Armour",
+          "Invulnerable Save",
           "Markerlights",
           "Tau Jet Pack",
           "Teleport",
-          "Geländegängig"
+          "Walker"
         ]
       },
       {
@@ -402,12 +402,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings Light Railgun",
+          "Twin Light Railgun",
           "Smart Missile System"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Geländegängig"
+          "Reinforced Armour",
+          "Walker"
         ]
       },
       {
@@ -422,7 +422,7 @@
           "Seeker Missiles"
         ],
         "specialRules": [
-          "Antigrav"
+          "Skimmer"
         ]
       },
       {
@@ -438,8 +438,8 @@
         "specialRules": [
           "Coordinated Fire",
           "Markerlights",
-          "Aufklärer",
-          "Antigrav"
+          "Scout",
+          "Skimmer"
         ]
       },
       {
@@ -454,7 +454,7 @@
           "Seeker Missiles"
         ],
         "specialRules": [
-          "Antigrav",
+          "Skimmer",
           "Transport"
         ],
         "notes": "May transport two units of Fire Warriors, Pathfinders."
@@ -467,10 +467,10 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Zwillings Light Railgun"
+          "Twin Light Railgun"
         ],
         "specialRules": [
-          "Antigrav",
+          "Skimmer",
           "Transport"
         ],
         "notes": "May transport one unit of Gun Drones."
@@ -483,12 +483,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings Missile Pod|2|",
+          "Twin Missile Pod|2|",
           "Smart Missile System",
           "Seeker Missiles"
         ],
         "specialRules": [
-          "Antigrav",
+          "Skimmer",
           "Transport"
         ],
         "notes": "May transport one unit of Gun Drones."
@@ -506,7 +506,7 @@
           "Seeker Missiles"
         ],
         "specialRules": [
-          "Antigrav",
+          "Skimmer",
           "Transport"
         ],
         "notes": "May transport one unit of Gun Drones."
@@ -524,7 +524,7 @@
           "Seeker Missiles"
         ],
         "specialRules": [
-          "Antigrav"
+          "Skimmer"
         ]
       },
       {
@@ -535,12 +535,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings Fusion Cannon",
+          "Twin Fusion Cannon",
           "Smart Missile System",
           "Seeker Missiles"
         ],
         "specialRules": [
-          "Antigrav"
+          "Skimmer"
         ]
       },
       {
@@ -556,7 +556,7 @@
           "Hunter Missiles|2|"
         ],
         "specialRules": [
-          "Antigrav",
+          "Skimmer",
           "Markerlights"
         ]
       },
@@ -571,8 +571,8 @@
           "Pulse Submunition Cannons"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Geländegängig"
+          "Reinforced Armour",
+          "Walker"
         ]
       },
       {
@@ -584,13 +584,13 @@
         "ff": 5,
         "weapons": [
           "Ion Accelerator",
-          "Zwillings Smart Missile System",
+          "Twin Smart Missile System",
           "Velocity Tracker"
         ],
         "specialRules": [
           "Tau Jet Pack",
           "Tau Deflector Shield",
-          "Geländegängig"
+          "Walker"
         ]
       },
       {
@@ -605,10 +605,10 @@
           "Ionic Discharge Cannon"
         ],
         "specialRules": [
-          "Unmodifizierter Rettungswurf",
+          "Invulnerable Save",
           "Tau Jet Pack",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig"
+          "Thick Rear Armour",
+          "Walker"
         ]
       },
       {
@@ -625,13 +625,13 @@
           "Velocity Tracker",
           ">Support Configuration<",
           "Pulse Blastcannon||FwA",
-          "Zwillings Smart Missile System|2|",
+          "Twin Smart Missile System|2|",
           "Velocity Tracker"
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Unmodifizierter Rettungswurf",
-          "Geländegängig"
+          "Invulnerable Save",
+          "Walker"
         ],
         "crit": "The Stormsurge takes an additional point of damage."
       },
@@ -644,19 +644,19 @@
         "ff": 5,
         "weapons": [
           "Tri-axis Ion Cannon|2|FwA",
-          "Zwillings Burst Cannon|2|",
-          "Zwillings Smart Missile System|2|",
+          "Twin Burst Cannon|2|",
+          "Twin Smart Missile System|2|",
           "Nexus Missile Array|0-1|",
           "Heavy Railcannon|0-1|FwA",
           "Pulse Ordnance Multi-Driver|0-1|FwA"
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Furchtlos",
+          "Fearless",
           "Tau Deflector Shield",
-          "Geländegängig"
+          "Walker"
         ],
-        "notes": "Armed with either a Nexus Missile Array, Heavy Railcannon, oder Pulse Ordnance Multi Driver.",
+        "notes": "Armed with either a Nexus Missile Array, Heavy Railcannon, or Pulse Ordnance Multi Driver.",
         "crit": "The Tau Deflector Shield is knocked offline and may not be used for the remainder of the game. Subsequent critical hits cause an additional point of damage."
       },
       {
@@ -666,19 +666,19 @@
         "armour": 5,
         "ff": 4,
         "weapons": [
-          "Schweres Zwillings Railcannon||FxF",
+          "Twin Heavy Railcannon||FxF",
           "Heavy Ion Phalanx||FxF",
-          "Zwillings Missile Pod",
+          "Twin Missile Pod",
           "Seeker Missiles|2|",
-          "Zwillings Burst Cannon|4|"
+          "Twin Burst Cannon|4|"
         ],
         "specialRules": [
           "Damage Capacity: 6",
-          "Furchtlos",
+          "Fearless",
           "Markerlights",
           "Planetfall",
-          "Verstärkte Panzerung",
-          "Hilfstransportschiff",
+          "Reinforced Armour",
+          "Support Craft",
           "Tau Deflector Shield",
           "Transport"
         ],

@@ -17,10 +17,10 @@
           "Omnissian Axe"
         ],
         "specialRules": [
-          "Oberbefehlshaber",
-          "Inspirierend",
-          "Furchtlos",
-          "Unmodifizierter Rettungswurf"
+          "Supreme Commander",
+          "Inspiring",
+          "Fearless",
+          "Invulnerable Save"
         ]
       },
       {
@@ -35,9 +35,9 @@
           "Omnissian Axe"
         ],
         "specialRules": [
-          "Befehlshaber",
-          "Anführer",
-          "Unmodifizierter Rettungswurf"
+          "Commander",
+          "Leader",
+          "Invulnerable Save"
         ]
       },
       {
@@ -75,7 +75,7 @@
           "Galvanic Rifles"
         ],
         "specialRules": [
-          "Aufklärer"
+          "Scout"
         ]
       },
       {
@@ -97,9 +97,9 @@
             "n/a"
         ],
         "specialRules": [
-          "Anführer",
-          "Befehlshaber",
-          "Unmodifizierter Rettungswurf"
+          "Leader",
+          "Commander",
+          "Invulnerable Save"
         ]
       },
       {
@@ -137,11 +137,11 @@
           "Voltagheist Field"
         ],
         "specialRules": [
-          "Entbehrlich"
+          "Expendable"
         ]
       },
       {
-        "name": "Sicarian Infiltratorens",
+        "name": "Sicarian Infiltrators",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -152,8 +152,8 @@
           "Taser Goad"
         ],
         "specialRules": [
-          "Erstschlag",
-          "Infiltratorens"
+          "First Strike",
+          "Infiltrators"
         ]
       },
       {
@@ -166,7 +166,7 @@
           "Transonic Blades"
         ],
         "specialRules": [
-          "Infiltratorens"
+          "Infiltrators"
         ]
       },
       {
@@ -181,10 +181,10 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Maschinengeist",
-          "Furchtlos",
-          "Entbehrlich",
-          "Schwerfällig"
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous"
         ]
       },
       {
@@ -197,10 +197,10 @@
           "Mitralocks"
         ],
         "specialRules": [
-          "Maschinengeist",
-          "Furchtlos",
-          "Entbehrlich",
-          "Schwerfällig"
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous"
         ]
       },
       {
@@ -227,10 +227,10 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Maschinengeist",
-          "Furchtlos",
-          "Entbehrlich",
-          "Schwerfällig"
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous"
         ]
       },
       {
@@ -246,10 +246,10 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Maschinengeist",
-          "Furchtlos",
-          "Entbehrlich",
-          "Schwerfällig"
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous"
         ]
       },
       {
@@ -263,11 +263,11 @@
           "Missile Launcher"
         ],
         "specialRules": [
-          "Maschinengeist",
-          "Furchtlos",
-          "Entbehrlich",
-          "Antigrav",
-          "Schwerfällig"
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Skimmer",
+          "Ponderous"
         ]
       },
       {
@@ -282,11 +282,11 @@
           "Arc Claws"
         ],
         "specialRules": [
-          "Maschinengeist",
-          "Furchtlos",
-          "Entbehrlich",
-          "Schwerfällig",
-          "Verstärkte Heckpanzerung"
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous",
+          "Thick Rear Armour"
         ]
       },
       {
@@ -300,10 +300,10 @@
           "Plasma Culverins"
         ],
         "specialRules": [
-          "Maschinengeist",
-          "Furchtlos",
-          "Entbehrlich",
-          "Schwerfällig"
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous"
         ]
       },
       {
@@ -314,7 +314,7 @@
         "ff": "5+/4",
         "weapons": [
           {
-            "name": "0-1x Zwillings Laserkanone",
+            "name": "0-1x Twin Lascannon",
             "modes": [
               {
                 "firepower": "AT4+",
@@ -323,7 +323,7 @@
             ]
           },
           {
-            "name": "0-1x Schweres Zwillings Bolter",
+            "name": "0-1x Twin Heavy Bolter",
             "modes": [
               {
                 "firepower": "AP4+",
@@ -333,11 +333,11 @@
           }
         ],
         "specialRules": [
-          "Maschinengeist",
-          "Furchtlos",
-          "Entbehrlich"
+          "Machine Spirit",
+          "Fearless",
+          "Expendable"
         ],
-        "notes": "Armed with either Zwillings Laserkanone oder Schweres Zwillings Bolter. Tarantulas armed with Schweres Zwillings Bolter have their firefight value increased to 4+."
+        "notes": "Armed with either Twin Lascannon or Twin Heavy Bolter. Tarantulas armed with Twin Heavy Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Hyperios Sentry",
@@ -349,9 +349,9 @@
           "Hyperios Launcher"
         ],
         "specialRules": [
-          "Maschinengeist",
-          "Furchtlos",
-          "Entbehrlich"
+          "Machine Spirit",
+          "Fearless",
+          "Expendable"
         ]
       },
       {
@@ -385,10 +385,10 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Zwillings Autocannon"
+          "Twin Autocannon"
         ],
         "specialRules": [
-          "Geländegängig"
+          "Walker"
         ]
       },
       {
@@ -399,11 +399,11 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Taser Lanze"
+          "Taser Lance"
         ],
         "specialRules": [
-          "Aufklärer",
-          "Geländegängig"
+          "Scout",
+          "Walker"
         ]
       },
       {
@@ -415,14 +415,14 @@
         "ff": "5+/4",
         "weapons": [
           "Eradication Beamer|0-1|",
-          "Schweres Zwillings Phosphor Blaster|0-1|",
+          "Twin Heavy Phosphor Blaster|0-1|",
           "Neutron Laser|0-1|",
           "Icarus Array|0-1|"
         ],
         "specialRules": [
-          "Geländegängig"
+          "Walker"
         ],
-        "notes": "Must choose either an Eradication Beamer, Schweres Zwillings Phosphor Blaster, Icarus Array oder Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
+        "notes": "Must choose either an Eradication Beamer, Twin Heavy Phosphor Blaster, Icarus Array or Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
       },
       {
         "name": "Chimera",
@@ -438,7 +438,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
+        "notes": "May carry two infantry units without Jump Packs or Mounted."
       },
       {
         "name": "Skorpius Dunerider",
@@ -448,12 +448,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schweres Zwillings Maschinengewehr|2|"
+          "Twin Heavy Stubber|2|"
         ],
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
+        "notes": "May carry two infantry units without Jump Packs or Mounted."
       },
       {
         "name": "Skorpius Disintegrator",
@@ -465,7 +465,7 @@
         "weapons": [
           "Ferrumite Cannon",
           "Missile Launcher",
-          "Schweres Zwillings Maschinengewehr"
+          "Twin Heavy Stubber"
         ],
         "specialRules": [
         ]
@@ -478,7 +478,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings Hydra Autocannon|2",
+          "Twin Hydra Autocannon|2",
           "Heavy Bolter"
         ],
         "specialRules": [
@@ -498,7 +498,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Sprungmodule oder Beritten."
+        "notes": "May carry two infantry units without Jump Packs or Mounted."
       },
       {
         "name": "Termite",
@@ -511,11 +511,11 @@
           "Bolters"
         ],
         "specialRules": [
-          "Verstärkte Heckpanzerung",
-          "Tunnelgräber",
+          "Thick Rear Armour",
+          "Tunneler",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Sprungmodule oder Beritten. Must start the game in the reserves, and may only enter the battlefield through Tunneling."
+        "notes": "May transport two infantry units without Jump Packs or Mounted. Must start the game in the reserves, and may only enter the battlefield through Tunneling."
       },
       {
         "name": "Leman Russ",
@@ -526,11 +526,11 @@
         "ff": 4,
         "weapons": [
           "Battle Cannon",
-          "Laserkanone",
+          "Lascannon",
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Verstärkte Panzerung"
+          "Reinforced Armour"
         ]
       },
       {
@@ -542,11 +542,11 @@
         "ff": 3,
         "weapons": [
           "Demolisher",
-          "Laserkanone",
+          "Lascannon",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
-          "Verstärkte Panzerung"
+          "Reinforced Armour"
         ]
       },
       {
@@ -558,11 +558,11 @@
         "ff": 5,
         "weapons": [
           "Plasma Destroyer",
-          "Laserkanone",
+          "Lascannon",
           "Plasma Cannon|2|"
         ],
         "specialRules": [
-          "Verstärkte Panzerung"
+          "Reinforced Armour"
         ]
       },
       {
@@ -573,7 +573,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schweres Zwillings Maschinengewehr|2|",
+          "Twin Heavy Stubber|2|",
           ">Battle Weapons<",
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Missile Launcher|0-1|FxF",
@@ -587,12 +587,12 @@
           "Volcano Cannon|0-1|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität2",
-          "Null Schilde 2",
-          "Verstärkte Panzerung",
-          "Furchtlos"
+          "Damage Capacity 2",
+          "Void Shields 2",
+          "Reinforced Armour",
+          "Fearless"
         ],
-        "notes": "Armed with a single Battle Weapon. May be upgraded to a Unterstützungswaffe.",
+        "notes": "Armed with a single Battle Weapon. May be upgraded to a Support Weapon.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
       },
       {
@@ -603,7 +603,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schweres Zwillings Maschinengewehr|2|",
+          "Twin Heavy Stubber|2|",
           ">Battle Weapons<",
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Missile Launcher|0-1|FxF",
@@ -613,10 +613,10 @@
           "Gatling Blaster|0-1|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität2",
-          "Null Schilde 2",
-          "Verstärkte Panzerung",
-          "Furchtlos"
+          "Damage Capacity 2",
+          "Void Shields 2",
+          "Reinforced Armour",
+          "Fearless"
         ],
         "notes": "Armed with a single Battle Weapon.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
@@ -629,8 +629,8 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schweres Zwillings Maschinengewehr|2|",
-          "Laserkanone|2|",
+          "Twin Heavy Stubber|2|",
+          "Lascannon|2|",
           ">Ordinatus Armageddon<",
           "Nova Cannon||FxF",
           ">Ordinatus Mars<",
@@ -639,10 +639,10 @@
           "Hellfire Missile|6|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität4",
-          "Null Schilde 4",
-          "Verstärkte Panzerung",
-          "Furchtlos"
+          "Damage Capacity 4",
+          "Void Shields 4",
+          "Reinforced Armour",
+          "Fearless"
         ],
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 4+"
       },
@@ -654,15 +654,15 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Schweres Zwillings Maschinengewehr|4|"
+          "Twin Heavy Stubber|4|"
         ],
         "specialRules": [
-          "Schadenskapazität3",
-          "Verstärkte Panzerung",
-          "Geländegängig",
+          "Damage Capacity 3",
+          "Reinforced Armour",
+          "Walker",
           "Transport"
         ],
-        "notes": "May carry 10 infantry units without Jump Pack oder Beritten. Praetorian Combat Servitor counts as two units each.",
+        "notes": "May carry 10 infantry units without Jump Pack or Mounted. Praetorian Combat Servitor counts as two units each.",
         "crit": "The Gorgon is Immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -676,11 +676,11 @@
         ],
         "specialRules": [
           "Damage capacity: 2",
-          "Verstärkte Panzerung",
-          "Tunnelgräber",
+          "Reinforced Armour",
+          "Tunneler",
           "Transport"
         ],
-        "notes": "May transport six infantry units without Sprungmodule oder Beritten."
+        "notes": "May transport six infantry units without Jump Packs or Mounted."
       },
       {
         "name": "Lysander Fighter",
@@ -701,8 +701,8 @@
         "armour": 5,
         "weapons": [
           "AC Avenger Bolt Cannon||FxF",
-          "AC Zwillings Autocannon||FxF",
-          "AC Heavy Maschinengewehr Turret"
+          "AC Twin Autocannon||FxF",
+          "AC Heavy Stubber Turret"
         ],
         "specialRules": [
         ]
@@ -713,8 +713,8 @@
         "armour": 5,
         "weapons": [
           "AC Phosphor Blaster|FxF",
-          "AC Zwillings Laserkanone|FxF",
-          "AC Schweres Zwillings Maschinengewehr Turret"
+          "AC Twin Lascannon|FxF",
+          "AC Twin Heavy Stubber Turret"
         ],
         "specialRules": [
         ]
@@ -751,7 +751,7 @@
         "specialRules": [
           "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
         ],
-        "notes": "Is equipped with either Orbital Bombardment oder two Pin Point attacks (may be chosen at the start of battle)"
+        "notes": "Is equipped with either Orbital Bombardment or two Pin Point attacks (may be chosen at the start of battle)"
       }
     ]
   }

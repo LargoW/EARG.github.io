@@ -23,7 +23,7 @@
             ]
         },
         {
-            "name": "Arme (wähle eine)",
+            "name": "ARMS (choose one)",
             "modes": [
                 {
                 }
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "name": "Rumpfbewaffung (wähle eine)",
+            "name": "CARAPACE (choose one)",
             "modes": [
                 {
                 }
@@ -305,7 +305,7 @@
                 {
                     "firepower": "MW2+",
                     "specialRules": [
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -355,7 +355,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Avenger Bolt Cannon",
+            "name": "AC Twin Avenger Bolt Cannon",
             "modes": [
                 {
                     "firepower": "3x AP5+/AT5+",
@@ -378,7 +378,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Big Shoota",
+            "name": "AC Twin Big Shoota",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+/AA5+",
@@ -467,7 +467,7 @@
                     "specialRules": [
                         "MW",
                         "IC",
-                        "Schildbrecher"
+                        "Shield Disruptor"
                     ]
                 }
             ]
@@ -534,7 +534,7 @@
             "name": "AC Flakka-Dakka Turrets",
             "modes": [
                 {
-                    "firepower": "W3+1x AP5+/AA6+",
+                    "firepower": "D3+1x AP5+/AA6+",
                     "range": 15,
                     "specialRules": [
                     ]
@@ -576,7 +576,7 @@
             ]
         },
         {
-            "name": "AC Heavy Maschinengewehr Turret",
+            "name": "AC Heavy Stubber Turret",
             "modes": [
                 {
                     "firepower": "AA6+",
@@ -587,7 +587,7 @@
             ]
         },
         {
-            "name": "AC Schweres Zwillings Maschinengewehr Turret",
+            "name": "AC Twin Heavy Stubber Turret",
             "modes": [
                 {
                     "firepower": "AA5+",
@@ -598,7 +598,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Supa Shoota",
+            "name": "AC Twin Supa Shoota",
             "modes": [
                 {
                     "firepower": "AP6+/AT6+/AA6+",
@@ -621,7 +621,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Ion Cannon",
+            "name": "AC Twin Ion Cannon",
             "modes": [
                 {
                     "firepower": "AP3+/AT4+/AA4+",
@@ -633,7 +633,7 @@
             ]
         },
         {
-            "name": "AC Laserkanone",
+            "name": "AC Lascannon",
             "modes": [
                 {
                     "firepower": "AT5+/AA5+",
@@ -714,7 +714,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Reaper Autocannon",
+            "name": "AC Twin Reaper Autocannon",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+/AA6+",
@@ -774,7 +774,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Splinter Cannon",
+            "name": "AC Twin Splinter Cannon",
             "modes": [
                 {
                     "firepower": "AP4+/AA5+",
@@ -831,33 +831,33 @@
             ]
         },
         {
-            "name": "AC Zwillings Bright Lanze",
+            "name": "AC Twin Bright Lance",
             "modes": [
                 {
                     "firepower": "AT4+/AA5+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "FxF"
                     ]
                 }
             ]
         },
         {
-            "name": "AC Bright Lanze",
+            "name": "AC Bright Lance",
             "modes": [
                 {
                     "firepower": "AT5+/AA6+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "FxF"
                     ]
                 }
             ]
         },
         {
-            "name": "AC Zwillings Burst Cannon",
+            "name": "AC Twin Burst Cannon",
             "modes": [
                 {
                     "firepower": "AA6+",
@@ -868,33 +868,33 @@
             ]
         },
         {
-            "name": "AC Dark Lanze",
+            "name": "AC Dark Lance",
             "modes": [
                 {
                     "firepower": "AT5+/AA6+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "FxF"
                     ]
                 }
             ]
         },
         {
-            "name": "AC Zwillings Dark Lanze",
+            "name": "AC Twin Dark Lance",
             "modes": [
                 {
                     "firepower": "AT4+/AA5+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "FxF"
                     ]
                 }
             ]
         },
         {
-            "name": "AC Zwillings Eldar Missile Launcher",
+            "name": "AC Twin Eldar Missile Launcher",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -906,7 +906,7 @@
             ]
         },
         {
-            "name": "AC Schweres Zwillings Bolter Turret",
+            "name": "AC Twin Heavy Bolter Turret",
             "modes": [
                 {
                     "firepower": "AA5+",
@@ -917,7 +917,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Assault Cannon Turret",
+            "name": "AC Twin Assault Cannon Turret",
             "modes": [
                 {
                     "firepower": "AA4+",
@@ -935,7 +935,7 @@
                     "range": 15,
                     "specialRules": [
                         "TK(1)",
-                        "Schildbrecher",
+                        "Shield Disruptor",
                         "FxF"
                     ]
                 }
@@ -1029,7 +1029,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Laserkanone",
+            "name": "AC Twin Lascannon",
             "modes": [
                 {
                     "firepower": "AT4+/AA4+",
@@ -1040,7 +1040,7 @@
             ]
         },
         {
-            "name": "AC Quad Laserkanone",
+            "name": "AC Quad Lascannon",
             "modes": [
                 {
                     "firepower": "AT3+/AA4+",
@@ -1060,7 +1060,7 @@
             ]
         },
         {
-            "name": "AC Zwillings-linked Lastrum Bolt Cannon",
+            "name": "AC Twin-linked Lastrum Bolt Cannon",
             "modes": [
                 {
                     "firepower": "2x AP4+/AT6+/AA5+",
@@ -1070,7 +1070,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Missile Pod",
+            "name": "AC Twin Missile Pod",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -1082,7 +1082,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Phoenix Missile Launcher",
+            "name": "AC Twin Phoenix Missile Launcher",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -1094,7 +1094,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Shuriken Cannon",
+            "name": "AC Twin Shuriken Cannon",
             "modes": [
                 {
                     "firepower": "AP4+/AA5+",
@@ -1106,20 +1106,20 @@
             ]
         },
         {
-            "name": "AC Zwillings Railcannon",
+            "name": "AC Twin Railcannon",
             "modes": [
                 {
                     "firepower": "MW3+",
                     "range": 45,
                     "specialRules": [
-                        "TK(W3)",
+                        "TK(D3)",
                         "FxF"
                     ]
                 }
             ]
         },
         {
-            "name": "AC Zwillings Tesla Destructor",
+            "name": "AC Twin Tesla Destructor",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+/AA4+",
@@ -1131,13 +1131,13 @@
             ]
         },
         {
-            "name": "AC Zwillings Void Lanze",
+            "name": "AC Twin Void Lance",
             "modes": [
                 {
                     "firepower": "AT3+",
                     "range": 30,
                     "specialRules": [
-                        "Schildbrecher",
+                        "Shield Disruptor",
                         "FxF"
                     ]
                 }
@@ -1161,7 +1161,7 @@
                     "firepower": "2BP",
                     "range": 15,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "FxF"
                     ]
                 }
@@ -1186,7 +1186,7 @@
             ]
         },
         {
-            "name": "AC Vampire Hunter Zwillings Pulsar",
+            "name": "AC Vampire Hunter Twin Pulsar",
             "modes": [
                 {
                     "firepower": "2x MW2+",
@@ -1264,7 +1264,7 @@
             ]
         },
         {
-            "name": "Zwillings Accelerator Autocannon",
+            "name": "Twin Accelerator Autocannon",
             "modes": [
                 {
                     "firepower": "MW5+",
@@ -1282,7 +1282,7 @@
                     "range": 60,
                     "specialRules": [
                         "TK(1)",
-                        "Schildbrecher"
+                        "Shield Disruptor"
                     ]
                 }
             ]
@@ -1397,7 +1397,7 @@
             ]
         },
         {
-            "name": "Gekoppelten Apokalypse-Raketenwerfer",
+            "name": "Paired Apocalypse Missile Launchers",
             "modes": [
                 {
                     "firepower": "6BP",
@@ -1443,7 +1443,7 @@
             ]
         },
         {
-            "name": "Achilles Power Lanze",
+            "name": "Achilles Power Lance",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -1545,10 +1545,10 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3+3)"
+                        "TK(D3+3)"
                     ]
                 }
             ]
@@ -1576,7 +1576,7 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "TK(1)"
                     ]
@@ -1675,7 +1675,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -1738,7 +1738,7 @@
             ]
         },
         {
-            "name": "Zwillings Battle Cannon",
+            "name": "Twin Battle Cannon",
             "modes": [
                 {
                     "firepower": "AP3+/AT3+",
@@ -1904,7 +1904,7 @@
             ]
         },
         {
-            "name": "Zwillings Beam of Change",
+            "name": "Twin Beam of Change",
             "modes": [
                 {
                     "firepower": "2x MW2+",
@@ -1922,7 +1922,7 @@
                     "firepower": "MW2+",
                     "range": 75,
                     "specialRules": [
-                        "TK(W3+1)"
+                        "TK(D3+1)"
                     ]
                 }
             ]
@@ -1957,7 +1957,7 @@
                     "firepower": "MW2+",
                     "range": 90,
                     "specialRules": [
-                        "TK(W6)"
+                        "TK(D6)"
                     ]
                 }
             ]
@@ -1993,7 +1993,7 @@
                     "firepower": "MW2+",
                     "range": 90,
                     "specialRules": [
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -2005,7 +2005,7 @@
                     "firepower": "MW2+",
                     "range": 90,
                     "specialRules": [
-                        "TK(W3+1)"
+                        "TK(D3+1)"
                     ]
                 }
             ]
@@ -2112,7 +2112,7 @@
             ]
         },
         {
-            "name": "Zwillings Bio-Cannon",
+            "name": "Twin Bio-Cannon",
             "modes": [
                 {
                     "firepower": "3x AP3+/AT4+",
@@ -2329,7 +2329,7 @@
             ]
         },
         {
-            "name": "Zwillings Blastmaster",
+            "name": "Twin Blastmaster",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -2375,7 +2375,7 @@
             ]
         },
         {
-            "name": "Zwillings Blight Launcher",
+            "name": "Twin Blight Launcher",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -2448,7 +2448,7 @@
             ]
         },
         {
-            "name": "Zwillings Dragonfire Heavy Bolter",
+            "name": "Twin Dragonfire Heavy Bolter",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -2459,7 +2459,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Dragonfire Heavy Bolter",
+            "name": "AC Twin Dragonfire Heavy Bolter",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -2553,25 +2553,25 @@
             ]
         },
         {
-            "name": "Bright Lanze",
+            "name": "Bright Lance",
             "modes": [
                 {
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
         },
         {
-            "name": "Zwillings Bright Lanze",
+            "name": "Twin Bright Lance",
             "modes": [
                 {
                     "firepower": "AT4+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -2720,21 +2720,21 @@
             ]
         },
         {
-            "name": "Cerastus Shock Lanze",
+            "name": "Cerastus Shock Lance",
             "modes": [
                 {
                     "firepower": "Small Arms",
                     "specialRules": [
                         "EA(+1)",
-                        "Sturmangriff",
-                        "Lanze"
+                        "Lightning Charge",
+                        "Lance"
                     ]
                 },
                 {
                     "firepower": "Small Arms",
                     "join": "and",
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 },
                 {
@@ -2742,15 +2742,15 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "Sturmangriff",
-                        "Lanze"
+                        "Lightning Charge",
+                        "Lance"
                     ]
                 },
                 {
                     "firepower": "Assault Weapons",
                     "join": "and",
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -2812,7 +2812,7 @@
                 },
                 {
                     "firepower": "Small Arms",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                     ]
                 }
@@ -2845,13 +2845,13 @@
                     "firepower": "MW3+",
                     "range": 30,
                     "specialRules": [
-                        "TK(W3+1)",
-                        "Schildbohrer"
+                        "TK(D3+1)",
+                        "Shield Piercer"
                     ]
                 },
                 {
                     "firepower": "3BP",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "MW",
                         "IC"
@@ -3091,19 +3091,19 @@
             ]
         },
         {
-            "name": "Monströse Claws",
+            "name": "Monstrous Claws",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
         },
         {
-            "name": "Reißende Claws",
+            "name": "Ripping Claws",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -3114,7 +3114,7 @@
             ]
         },
         {
-            "name": "Klauen und Zähne",
+            "name": "Claws and Fangs",
             "modes": [
                 {
                     "firepower": "Assault Weapons"
@@ -3224,7 +3224,7 @@
                 },
                 {
                     "firepower": "Small Arms",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "MW"
                     ]
@@ -3239,7 +3239,7 @@
                     "range": 15,
                     "specialRules": [
                         "TK(1)",
-                        "Schildbrecher"
+                        "Shield Disruptor"
                     ]
                 }
             ]
@@ -3251,7 +3251,7 @@
                     "firepower": "MW3+",
                     "range": 30,
                     "specialRules": [
-                        "Schildbohrer"
+                        "Shield Piercer"
                     ]
                 },
                 {
@@ -3259,7 +3259,7 @@
                     "join": "and",
                     "specialRules": [
                         "MW",
-                        "Schildbohrer"
+                        "Shield Piercer"
                     ]
                 }
             ]
@@ -3276,7 +3276,7 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "EA(+1)",
                         "FS"
@@ -3365,38 +3365,38 @@
             ]
         },
         {
-            "name": "Dark Lanze",
+            "name": "Dark Lance",
             "modes": [
                 {
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
         },
         {
-            "name": "Dark Lanze L",
+            "name": "Dark Lance L",
             "modes": [
                 {
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "Left"
                     ]
                 }
             ]
         },
         {
-            "name": "Dark Lanze R",
+            "name": "Dark Lance R",
             "modes": [
                 {
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "Right"
                     ]
                 }
@@ -3447,7 +3447,7 @@
             ]
         },
         {
-            "name": "Zwillings Deathshroud Cannon",
+            "name": "Twin Deathshroud Cannon",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -3459,7 +3459,7 @@
             ]
         },
         {
-            "name": "Zwillings Inferno Lanze",
+            "name": "Twin Inferno Lance",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -3502,7 +3502,7 @@
                     "firepower": "MW4+",
                     "range": 90,
                     "specialRules": [
-                        "TK(W6)"
+                        "TK(D6)"
                     ]
                 }
             ]
@@ -3514,7 +3514,7 @@
                     "firepower": "MW4+",
                     "range": "Unlimited",
                     "specialRules": [
-                        "TK(W6)"
+                        "TK(D6)"
                     ]
                 }
             ]
@@ -3556,7 +3556,7 @@
             ]
         },
         {
-            "name": "Zwillings Demolisher",
+            "name": "Twin Demolisher",
             "modes": [
                 {
                     "firepower": "AP2+/AT3+",
@@ -3632,7 +3632,7 @@
                     "firepower": "MW3+",
                     "range": 30,
                     "specialRules": [
-                        "Schildbohrer"
+                        "Shield Piercer"
                     ]
                 }
             ]
@@ -3657,12 +3657,12 @@
                     "firepower": "MW3+ FxF",
                     "range": 45,
                     "specialRules": [
-                        "TK(W3+1)"
+                        "TK(D3+1)"
                     ]
                 },
                 {
                     "firepower": "3BP FxF",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "MW",
                         "IC"
@@ -3700,7 +3700,7 @@
                     "specialRules": [
                         "SS",
                         "Ind",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -3747,7 +3747,7 @@
                     "firepower": "MW2+",
                     "range": 45,
                     "specialRules": [
-                        "TK(W3)",
+                        "TK(D3)",
                         "IC"
                     ]
                 }
@@ -3760,7 +3760,7 @@
                     "firepower": "MW2+",
                     "range": 45,
                     "specialRules": [
-                        "TK(W3)",
+                        "TK(D3)",
                         "IC"
                     ]
                 }
@@ -3778,7 +3778,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3+1)"
+                        "TK(D3+1)"
                     ]
                 }
             ]
@@ -3795,7 +3795,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3+3)"
+                        "TK(D3+3)"
                     ]
                 }
             ]
@@ -3918,7 +3918,7 @@
                 },
                 {
                     "firepower": "1BP",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "Ind"
                     ]
@@ -3926,7 +3926,7 @@
             ]
         },
         {
-            "name": "Zwillings Earthshaker Cannon",
+            "name": "Twin Earthshaker Cannon",
             "modes": [
                 {
                     "firepower": "AP3+/AT3+",
@@ -3934,7 +3934,7 @@
                 },
                 {
                     "firepower": "2BP",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "Ind"
                     ]
@@ -4346,7 +4346,7 @@
             ]
         },
         {
-            "name": "Zwillings Tau Flamer",
+            "name": "Twin Tau Flamer",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -4475,7 +4475,7 @@
                 {
                     "firepower": "Small Arms",
                     "specialRules": [
-                        "EA(+W3)",
+                        "EA(+D3)",
                         "FS"
                     ]
                 }
@@ -4769,7 +4769,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -4836,7 +4836,7 @@
                     "range": 15,
                     "specialRules": [
                         "D",
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -4859,8 +4859,8 @@
                     "firepower": "2x MW3+",
                     "range": 90,
                     "specialRules": [
-                        "TK(W3)",
-                        "Schildbohrer"
+                        "TK(D3)",
+                        "Shield Piercer"
                     ]
                 }
             ]
@@ -4872,8 +4872,8 @@
                     "firepower": "MW2+",
                     "range": 30,
                     "specialRules": [
-                        "TK(W3)",
-                        "Schildbohrer"
+                        "TK(D3)",
+                        "Shield Piercer"
                     ]
                 }
             ]
@@ -4956,7 +4956,7 @@
             ]
         },
         {
-            "name": "Zwillings Hades Autocannon",
+            "name": "Twin Hades Autocannon",
             "modes": [
                 {
                     "firepower": "3x AP4+/AT5+/AA5+",
@@ -4967,7 +4967,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Hades Autocannon",
+            "name": "AC Twin Hades Autocannon",
             "modes": [
                 {
                     "firepower": "3x AP4+/AT5+/AA5+",
@@ -5082,7 +5082,7 @@
                     "range": 90,
                     "specialRules": [
                         "SS",
-                        "Schildbohrer"
+                        "Shield Piercer"
                     ]
                 }
             ]
@@ -5095,7 +5095,7 @@
                     "range": 90,
                     "specialRules": [
                         "SS",
-                        "Schildbohrer"
+                        "Shield Piercer"
                     ]
                 }
             ]
@@ -5207,7 +5207,7 @@
             ]
         },
         {
-            "name": "Multiple Schweres Zwillings Bolter",
+            "name": "Multiple Twin Heavy Bolter",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -5225,7 +5225,7 @@
             ]
         },
         {
-            "name": "Multiple Zwillings Laserkanone",
+            "name": "Multiple Twin Lascannon",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -5234,7 +5234,7 @@
             ]
         },
         {
-            "name": "Laserkanone Array",
+            "name": "Lascannon Array",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -5263,7 +5263,7 @@
             ]
         },
         {
-            "name": "Zwillings Long-Barrelled Burst Cannon",
+            "name": "Twin Long-Barrelled Burst Cannon",
             "modes": [
                 {
                     "firepower": "AP3+/AT6+",
@@ -5438,7 +5438,7 @@
                     "firepower": "AP4+/AT5+",
                     "range": 15,
                     "specialRules": [
-                        "Schildbrecher"
+                        "Shield Disruptor"
                     ]
                 }
             ]
@@ -5477,13 +5477,13 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Phantom Lanze",
+            "name": "Twin Heavy Phantom Lance",
             "modes": [
                 {
                     "firepower": "MW2+",
                     "range": 60,
                     "specialRules": [
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -5508,13 +5508,13 @@
                     "firepower": "MW3+",
                     "range": 90,
                     "specialRules": [
-                        "TK(W6)"
+                        "TK(D6)"
                     ]
                 }
             ]
         },
         {
-            "name": "Heavy Maschinengewehr",
+            "name": "Heavy Stubber",
             "modes": [
                 {
                     "firepower": "AP6+",
@@ -5523,7 +5523,7 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Maschinengewehr",
+            "name": "Twin Heavy Stubber",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -5532,7 +5532,7 @@
             ]
         },
         {
-            "name": "Quad Heavy Maschinengewehr",
+            "name": "Quad Heavy Stubber",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -5541,7 +5541,7 @@
             ]
         },
         {
-            "name": "AC Schweres Zwillings Maschinengewehr",
+            "name": "AC Twin Heavy Stubber",
             "modes": [
                 {
                     "firepower": "AP5+/AA6+",
@@ -5550,7 +5550,7 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Maschinengewehr Turret",
+            "name": "Twin Heavy Stubber Turret",
             "modes": [
                 {
                     "firepower": "AP5+/AA6+",
@@ -5578,7 +5578,7 @@
             ]
         },
         {
-            "name": "Zwillings Warpflamer",
+            "name": "Twin Warpflamer",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -5597,7 +5597,7 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Warpflamer",
+            "name": "Twin Heavy Warpflamer",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -5762,7 +5762,7 @@
             ]
         },
         {
-            "name": "Zwillings Helfrost Cannon",
+            "name": "Twin Helfrost Cannon",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -5780,7 +5780,7 @@
                     "firepower": "MW2+",
                     "range": 100,
                     "specialRules": [
-                        "TK(W6)"
+                        "TK(D6)"
                     ]
                 }
             ]
@@ -5830,7 +5830,7 @@
             ]
         },
         {
-            "name": "Zwillings Hellmaw",
+            "name": "Twin Hellmaw",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -5860,7 +5860,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -5974,7 +5974,7 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "EA(+W3)"
+                        "EA(+D3)"
                     ]
                 }
             ]
@@ -6040,7 +6040,7 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "Sturmangriff"
+                        "Lightning Charge"
                     ]
                 }
             ]
@@ -6051,20 +6051,20 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "Sturmangriff"
+                        "Lightning Charge"
                     ]
                 }
             ]
         },
         {
-            "name": "Wraithbone Lanze",
+            "name": "Wraithbone Lance",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "Lanze",
-                        "Sturmangriff"
+                        "Lance",
+                        "Lightning Charge"
                     ]
                 }
             ]
@@ -6134,7 +6134,7 @@
             ]
         },
         {
-            "name": "Zwillings Hyperios Launcher",
+            "name": "Twin Hyperios Launcher",
             "modes": [
                 {
                     "firepower": "AT5+/AA4+",
@@ -6184,7 +6184,7 @@
                 },
                 {
                     "firepower": "1BP",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "Ind",
                         "D"
@@ -6321,7 +6321,7 @@
             ]
         },
         {
-            "name": "Zwillings Phased Plasma Fusil",
+            "name": "Twin Phased Plasma Fusil",
             "modes": [
                 {
                     "firepower": "AP3+/AT4+",
@@ -6417,7 +6417,7 @@
                     "firepower": "Assault Weapon",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -6454,14 +6454,14 @@
             ]
         },
         {
-            "name": "Knight Power Lanze",
+            "name": "Knight Power Lance",
             "modes": [
                 {
                     "firepower": "Small Arms",
                     "specialRules": [
                         "EA(+1)",
-                        "Lanze",
-                        "Sturmangriff"
+                        "Lance",
+                        "Lightning Charge"
                     ]
                 },
                 {
@@ -6469,14 +6469,14 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "Lanze",
-                        "Sturmangriff"
+                        "Lance",
+                        "Lightning Charge"
                     ]
                 }
             ]
         },
         {
-            "name": "Knight Psychic Lanze",
+            "name": "Knight Psychic Lance",
             "modes": [
                 {
                     "firepower": "1BP",
@@ -6484,7 +6484,7 @@
                     "specialRules": [
                         "IC",
                         "MW",
-                        "Schildbrecher"
+                        "Shield Disruptor"
                     ]
                 },
                 {
@@ -6492,7 +6492,7 @@
                     "join": "and",
                     "specialRules": [
                         "MW",
-                        "Schildbrecher"
+                        "Shield Disruptor"
                     ]
                 }
             ]
@@ -6582,7 +6582,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Kustom Mega-Cannon",
+            "name": "AC Twin Kustom Mega-Cannon",
             "modes": [
                 {
                     "firepower": "3x AP6+/AT4+",
@@ -6634,7 +6634,7 @@
             ]
         },
         {
-            "name": "Laserkanone",
+            "name": "Lascannon",
             "modes": [
                 {
                     "firepower": "AT5+",
@@ -6643,7 +6643,7 @@
             ]
         },
         {
-            "name": "Quad Laserkanone",
+            "name": "Quad Lascannon",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -6652,7 +6652,7 @@
             ]
         },
         {
-            "name": "Laserkanone Turret",
+            "name": "Lascannon Turret",
             "modes": [
                 {
                     "firepower": "AT5+",
@@ -6720,7 +6720,7 @@
                     "firepower": "AT2+",
                     "range": 90,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -6732,7 +6732,7 @@
                     "firepower": "2x AT4+",
                     "range": 60,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "IC"
                     ]
                 }
@@ -6774,7 +6774,7 @@
                     "firepower": "AT2+",
                     "range": 15,
                     "specialRules": [
-                        "Schildbrecher",
+                        "Shield Disruptor",
                         "FwA"
                     ]
                 },
@@ -6821,7 +6821,7 @@
             ]
         },
         {
-            "name": "Beinbastionen",
+            "name": "Leg Bastions",
             "modes": [
                 {
                     "firepower": "n/a",
@@ -6838,7 +6838,7 @@
                     "firepower": "MW3+",
                     "range": 45,
                     "specialRules": [
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 },
                 {
@@ -6858,7 +6858,7 @@
                     "firepower": "MW3+",
                     "range": 45,
                     "specialRules": [
-                        "TK(W3)",
+                        "TK(D3)",
                         "FxF"
                     ]
                 },
@@ -6880,7 +6880,7 @@
                     "range": 45,
                     "specialRules": [
                         "D",
-                        "Schildbrecher"
+                        "Shield Disruptor"
                     ]
                 }
             ]
@@ -6892,7 +6892,7 @@
                     "firepower": "MW4+",
                     "range": 45,
                     "specialRules": [
-                        "Schildbrecher"
+                        "Shield Disruptor"
                     ]
                 }
             ]
@@ -6944,7 +6944,7 @@
             ]
         },
         {
-            "name": "GhostGeländegängig Long Rifles",
+            "name": "Ghostwalker Long Rifles",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -6991,7 +6991,7 @@
             ]
         },
         {
-            "name": "Gekoppelte Gatling Blaster",
+            "name": "Paired Gatling Blasters",
             "modes": [
                 {
                     "firepower": "8x AP4+/AT4+",
@@ -7007,19 +7007,19 @@
                 {
                     "firepower": "Small Arms",
                     "specialRules": [
-                        "EA(+W3)"
+                        "EA(+D3)"
                     ]
                 }
             ]
         },
         {
-            "name": "Quad Magna Laserkanone",
+            "name": "Quad Magna Lascannon",
             "modes": [
                 {
                     "firepower": "3x AT2+",
                     "range": 90,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -7064,7 +7064,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(W3+1)"
+                        "TK(D3+1)"
                     ]
                 }
             ]
@@ -7158,7 +7158,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -7194,7 +7194,7 @@
                     "firepower": "MW2+",
                     "range": 30,
                     "specialRules": [
-                        "TK(W3)",
+                        "TK(D3)",
                         "FwA"
                     ]
                 },
@@ -7203,7 +7203,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -7215,7 +7215,7 @@
                     "firepower": "MW2+",
                     "range": 30,
                     "specialRules": [
-                        "TK(W3)",
+                        "TK(D3)",
                         "FxF"
                     ]
                 },
@@ -7224,7 +7224,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -7236,7 +7236,7 @@
                     "firepower": "2x MW2+",
                     "range": 30,
                     "specialRules": [
-                        "TK(W3)",
+                        "TK(D3)",
                         "FxF"
                     ]
                 },
@@ -7245,7 +7245,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -7365,7 +7365,7 @@
             ]
         },
         {
-            "name": "Zwillings Missile Launcher",
+            "name": "Twin Missile Launcher",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -7479,7 +7479,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3+1)"
+                        "TK(D3+1)"
                     ]
                 }
             ]
@@ -7510,7 +7510,7 @@
             ]
         },
         {
-            "name": "Beritten Guns",
+            "name": "Mounted Guns",
             "modes": [
                 {
                     "firepower": "Small Arms"
@@ -7677,7 +7677,7 @@
                     "firepower": "AT3+",
                     "range": 75,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "D"
                     ]
                 }
@@ -7690,7 +7690,7 @@
                     "firepower": "AT3+",
                     "range": 90,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "D"
                     ]
                 }
@@ -7703,7 +7703,7 @@
                     "firepower": "AT2+",
                     "range": 90,
                     "specialRules": [
-                        "Lanze",
+                        "Lance",
                         "D"
                     ]
                 }
@@ -7753,7 +7753,7 @@
                     "range": 100,
                     "specialRules": [
                         "TK(1)",
-                        "Schildbrecher"
+                        "Shield Disruptor"
                     ]
                 }
             ]
@@ -7866,12 +7866,12 @@
                     "firepower": "MW3+",
                     "range": 60,
                     "specialRules": [
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 },
                 {
                     "firepower": "AA5+",
-                    "join": "oder",
+                    "join": "or",
                     "range": 60,
                     "specialRules": [
                         "MW"
@@ -7925,7 +7925,7 @@
             ]
         },
         {
-            "name": "Phantom Lanze",
+            "name": "Phantom Lance",
             "modes": [
                 {
                     "firepower": "MW2+",
@@ -7937,13 +7937,13 @@
             ]
         },
         {
-            "name": "Zwillings Phantom Lanze",
+            "name": "Twin Phantom Lance",
             "modes": [
                 {
                     "firepower": "MW2+",
                     "range": 45,
                     "specialRules": [
-                        "TK(W3+1)"
+                        "TK(D3+1)"
                     ]
                 }
             ]
@@ -8520,13 +8520,13 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
         },
         {
-            "name": "Trike Power Lanze",
+            "name": "Trike Power Lance",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -8548,7 +8548,7 @@
             ]
         },
         {
-            "name": "W3+1 Power Fields",
+            "name": "D3+1 Power Fields",
             "modes": [
                 {
                     "firepower": "n/a",
@@ -8666,19 +8666,19 @@
                     "firepower": "AP4+/AT4+/AA5+",
                     "range": 75,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
         },
         {
-            "name": "Prism Lanze",
+            "name": "Prism Lance",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+/AA5+",
                     "range": 45,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -8691,7 +8691,7 @@
                     "range": 120,
                     "specialRules": [
                         "TK(1)",
-                        "Schildbrecher"
+                        "Shield Disruptor"
                     ]
                 }
             ]
@@ -8706,7 +8706,7 @@
                 {
                     "firepower": "2BP",
                     "range": 30,
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "MW",
                         "IC"
@@ -8721,7 +8721,7 @@
                     "firepower": "AP5+/AT4+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -8733,14 +8733,14 @@
                     "firepower": "AT5+",
                     "range": 30,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 },
                 {
                     "firepower": "Small Arms",
                     "join": "and",
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -8776,7 +8776,7 @@
                     "firepower": "2x AT3+/AT5+",
                     "range": 60,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -8831,7 +8831,7 @@
             ]
         },
         {
-            "name": "Zwillings Psycannon",
+            "name": "Twin Psycannon",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -8843,7 +8843,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Psycannon",
+            "name": "AC Twin Psycannon",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -9014,15 +9014,15 @@
             ]
         },
         {
-            "name": "Psychic Lanze",
+            "name": "Psychic Lance",
             "modes": [
                 {
                     "firepower": "3BP",
                     "range": 30,
                     "specialRules": [
                         "IC",
-                        "TK(W3)",
-                        "Schildbrecher"
+                        "TK(D3)",
+                        "Shield Disruptor"
                     ]
                 },
                 {
@@ -9030,7 +9030,7 @@
                     "join": "and",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -9047,7 +9047,7 @@
                 {
                     "firepower": "3BP",
                     "range": 60,
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "D",
                         "IC"
@@ -9062,7 +9062,7 @@
                     "firepower": "4x AP6+/AT5+",
                     "range": 45,
                     "specialRules": [
-                    "Lanze"
+                    "Lance"
                     ]
                 }
             ]
@@ -9186,7 +9186,7 @@
             ]
         },
         {
-            "name": "Zwillings Rad Cleanser",
+            "name": "Twin Rad Cleanser",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -9249,7 +9249,7 @@
             ]
         },
         {
-            "name": "Zwillings Ragnarok Battle Cannon",
+            "name": "Twin Ragnarok Battle Cannon",
             "modes": [
                 {
                     "firepower": "AP3+/AT3+",
@@ -9264,13 +9264,13 @@
                     "firepower": "AT4+",
                     "range": 75,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 },
                 {
                     "firepower": "AP5+",
                     "range": 75,
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                     ]
                 }
@@ -9348,7 +9348,7 @@
             ]
         },
         {
-            "name": "Zwillings Reaper Autocannon",
+            "name": "Twin Reaper Autocannon",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+",
@@ -9357,7 +9357,7 @@
             ]
         },
         {
-            "name": "Zwillings Reaper Autocannon Turret",
+            "name": "Twin Reaper Autocannon Turret",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+/AA5+",
@@ -9776,7 +9776,7 @@
                 {
                     "firepower": "Assault Weapons",
                     "specialRules": [
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -9799,20 +9799,20 @@
                     "firepower": "AT3+",
                     "range": 60,
                     "specialRules": [
-                        "Schildbohrer",
+                        "Shield Piercer",
                         "SS"
                     ]
                 }
             ]
         },
         {
-            "name": "Shock Lanze",
+            "name": "Shock Lance",
             "modes": [
                 {
                     "firepower": "Small Arms",
                     "specialRules": [
                         "EA(+1)",
-                        "Sturmangriff"
+                        "Lightning Charge"
                     ]
                 }
             ]
@@ -10000,7 +10000,7 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "EA(+1)",
                         "MW"
@@ -10111,7 +10111,7 @@
             ]
         },
         {
-            "name": "Zwillings Smart Missile System",
+            "name": "Twin Smart Missile System",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -10154,7 +10154,7 @@
             ]
         },
         {
-            "name": "Scharfschütze Drone",
+            "name": "Sniper Drone",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -10166,7 +10166,7 @@
             ]
         },
         {
-            "name": "Scharfschütze Rifle",
+            "name": "Sniper Rifle",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -10178,7 +10178,7 @@
             ]
         },
         {
-            "name": "Scharfschütze Rifles",
+            "name": "Sniper Rifles",
             "modes": [
                 {
                     "firepower": "AP5+",
@@ -10227,7 +10227,7 @@
             ]
         },
         {
-            "name": "Sonic Lanze",
+            "name": "Sonic Lance",
             "modes": [
                 {
                     "firepower": "2BP",
@@ -10264,7 +10264,7 @@
             ]
         },
         {
-            "name": "Zwillings Soopagun",
+            "name": "Twin Soopagun",
             "modes": [
                 {
                     "firepower": "3BP",
@@ -10439,13 +10439,13 @@
                     "firepower": "MW3+",
                     "range": 90,
                     "specialRules": [
-                        "TK(W6+1)",
+                        "TK(D6+1)",
                         "FxF"
                     ]
                 },
                 {
                     "firepower": "3BP",
-                    "join": "oder",
+                    "join": "or",
                     "range": 60,
                     "specialRules": [
                         "MW",
@@ -10568,7 +10568,7 @@
                     "firepower": "MW2+",
                     "range": 120,
                     "specialRules": [
-                        "TK(W3+1)"
+                        "TK(D3+1)"
                     ]
                 }
             ]
@@ -10619,7 +10619,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -10790,19 +10790,19 @@
                     "firepower": "MW3+",
                     "range": 60,
                     "specialRules": [
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
         },
         {
-            "name": "Zwillings Supa-Zzap-Gun",
+            "name": "Twin Supa-Zzap-Gun",
             "modes": [
                 {
                     "firepower": "MW2+",
                     "range": 60,
                     "specialRules": [
-                        "TK(W3+1)"
+                        "TK(D3+1)"
                     ]
                 }
             ]
@@ -10838,7 +10838,7 @@
                     "specialRules": [
                         "EA(+1)",
                         "TK(D2)",
-                        "Schildbohrer"
+                        "Shield Piercer"
                     ]
                 }
             ]
@@ -10864,7 +10864,7 @@
             ]
         },
         {
-            "name": "Taser Lanze",
+            "name": "Taser Lance",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -11104,7 +11104,7 @@
             ]
         },
         {
-            "name": "Thermal Lanze",
+            "name": "Thermal Lance",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -11159,7 +11159,7 @@
                     "specialRules": [
                         "EA(+1)",
                         "TK(1)",
-                        "Schildbohrer"
+                        "Shield Piercer"
                     ]
                 }
             ]
@@ -11275,7 +11275,7 @@
                     "firepower": "Assault Weapon",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -11287,13 +11287,13 @@
                     "firepower": "MW3+",
                     "range": 45,
                     "specialRules": [
-                        "TK(W3+1)",
-                        "Schildbohrer"
+                        "TK(D3+1)",
+                        "Shield Piercer"
                     ]
                 },
                 {
                     "firepower": "3BP",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "MW",
                         "IC"
@@ -11308,7 +11308,7 @@
                     "firepower": "Assault Weapons",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3+3)"
+                        "TK(D3+3)"
                     ]
                 }
             ]
@@ -11331,10 +11331,10 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "EA(+1)",
-                        "TK(W3+3)"
+                        "TK(D3+3)"
                     ]
                 }
             ]
@@ -11428,7 +11428,7 @@
                     "firepower": "Assault Weapon",
                     "specialRules": [
                         "EA(+2)",
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
@@ -11451,7 +11451,7 @@
                     "firepower": "MW2+",
                     "range": 30,
                     "specialRules": [
-                        "Schildbohrer",
+                        "Shield Piercer",
                         "TK(1)"
                     ]
                 }
@@ -11526,7 +11526,7 @@
             ]
         },
         {
-            "name": "gekoppelten Turbolaser-Destruktoren",
+            "name": "Paired Turbo-Laser Destructors",
             "modes": [
                 {
                     "firepower": "8x AP5+/AT3+",
@@ -11535,7 +11535,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Assault Cannon",
+            "name": "AC Twin Assault Cannon",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+/AA5+",
@@ -11544,7 +11544,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Autocannon",
+            "name": "AC Twin Autocannon",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -11553,7 +11553,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Laserkanone",
+            "name": "AC Twin Lascannon",
             "modes": [
                 {
                     "firepower": "AT4+/AA4+",
@@ -11562,7 +11562,7 @@
             ]
         },
         {
-            "name": "Zwillings Assault Cannon",
+            "name": "Twin Assault Cannon",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+",
@@ -11571,7 +11571,7 @@
             ]
         },
         {
-            "name": "Zwillings Autocannon",
+            "name": "Twin Autocannon",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -11580,7 +11580,7 @@
             ]
         },
         {
-            "name": "Zwillings Mortis Autocannon",
+            "name": "Twin Mortis Autocannon",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+/AA6+",
@@ -11589,7 +11589,7 @@
             ]
         },
         {
-            "name": "Zwillings Big Shoota",
+            "name": "Twin Big Shoota",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -11600,7 +11600,7 @@
             ]
         },
         {
-            "name": "Zwillings Sawn-Off Big Shoota",
+            "name": "Twin Sawn-Off Big Shoota",
             "modes": [
                 {
                     "firepower": "AP5+/AT5+",
@@ -11611,7 +11611,7 @@
             ]
         },
         {
-            "name": "Zwillings Bolter",
+            "name": "Twin Bolter",
             "modes": [
                 {
                     "firepower": "Small Arms"
@@ -11619,7 +11619,7 @@
             ]
         },
         {
-            "name": "Zwillings Bolt Pistol",
+            "name": "Twin Bolt Pistol",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -11639,7 +11639,7 @@
             ]
         },
         {
-            "name": "Zwillings Eldar Missile Launcher",
+            "name": "Twin Eldar Missile Launcher",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -11672,7 +11672,7 @@
             ]
         },
         {
-            "name": "Zwillings Fusion Blaster",
+            "name": "Twin Fusion Blaster",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -11683,7 +11683,7 @@
             ]
         },
         {
-            "name": "Zwillings Fusion Cannon",
+            "name": "Twin Fusion Cannon",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -11694,7 +11694,7 @@
             ]
         },
         {
-            "name": "AC Schweres Zwillings Bolter",
+            "name": "AC Twin Heavy Bolter",
             "modes": [
                 {
                     "firepower": "AP4+/AA5+",
@@ -11721,7 +11721,7 @@
             ]
         },
         {
-            "name": "AC Zwillings Dragonfire Heavy Bolter",
+            "name": "AC Twin Dragonfire Heavy Bolter",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -11730,7 +11730,7 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Bolter",
+            "name": "Twin Heavy Bolter",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -11748,7 +11748,7 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Flamer",
+            "name": "Twin Heavy Flamer",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -11767,7 +11767,7 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Flamer  ",
+            "name": "Twin Heavy Flamer  ",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -11787,7 +11787,7 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Flamer ",
+            "name": "Twin Heavy Flamer ",
             "modes": [
                 {
                     "firepower": "AP3+",
@@ -11796,7 +11796,7 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Phosphor Blaster",
+            "name": "Twin Heavy Phosphor Blaster",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+",
@@ -11808,19 +11808,19 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Railcannon",
+            "name": "Twin Heavy Railcannon",
             "modes": [
                 {
                     "firepower": "MW2+",
                     "range": 90,
                     "specialRules": [
-                        "TK(W6)"
+                        "TK(D6)"
                     ]
                 }
             ]
         },
         {
-            "name": "Zwillings Hornet Pulse Laser",
+            "name": "Twin Hornet Pulse Laser",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -11829,7 +11829,7 @@
             ]
         },
         {
-            "name": "Zwillings Hydra Autocannon",
+            "name": "Twin Hydra Autocannon",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+/AA5+",
@@ -11838,7 +11838,7 @@
             ]
         },
         {
-            "name": "Zwillings Icarus Autocannon",
+            "name": "Twin Icarus Autocannon",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+/AA6+",
@@ -11856,7 +11856,7 @@
             ]
         },
         {
-            "name": "Zwillings Laserkanone R",
+            "name": "Twin Lascannon R",
             "modes": [
                 {
                     "firepower": "AT4+",
@@ -11868,7 +11868,7 @@
             ]
         },
         {
-            "name": "Zwillings Laserkanone L",
+            "name": "Twin Lascannon L",
             "modes": [
                 {
                     "firepower": "AT4+",
@@ -11880,7 +11880,7 @@
             ]
         },
         {
-            "name": "Zwillings Laserkanone",
+            "name": "Twin Lascannon",
             "modes": [
                 {
                     "firepower": "AT4+",
@@ -11889,7 +11889,7 @@
             ]
         },
         {
-            "name": "Zwillings-linked Arachnus Blaze Cannon",
+            "name": "Twin-linked Arachnus Blaze Cannon",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -11898,7 +11898,7 @@
             ]
         },
         {
-            "name": "Zwillings-linked Arachnus Heavy Blaze Cannon",
+            "name": "Twin-linked Arachnus Heavy Blaze Cannon",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -11907,7 +11907,7 @@
             ]
         },
         {
-            "name": "Zwillings-linked Iliastus Accelator Cannon",
+            "name": "Twin-linked Iliastus Accelator Cannon",
             "modes": [
                 {
                     "firepower": "2x AP4+/AT5+",
@@ -11916,7 +11916,7 @@
             ]
         },
         {
-            "name": "Zwillings-linked Lastrum Bolt Cannon",
+            "name": "Twin-linked Lastrum Bolt Cannon",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -11927,7 +11927,7 @@
             ]
         },
         {
-            "name": "Zwillings Burst Cannon",
+            "name": "Twin Burst Cannon",
             "modes": [
                 {
                     "firepower": "AP5+/AA6+",
@@ -11961,7 +11961,7 @@
             ]
         },
         {
-            "name": "Zwillings Missile Pod",
+            "name": "Twin Missile Pod",
             "modes": [
                 {
                     "firepower": "AP5+/AT6+",
@@ -11972,7 +11972,7 @@
             ]
         },
         {
-            "name": "Zwillings Linked Multilaser",
+            "name": "Twin Linked Multilaser",
             "modes": [
                 {
                     "firepower": "AP4+/AT5+",
@@ -11983,7 +11983,7 @@
             ]
         },
         {
-            "name": "Zwillings Multi-Melta",
+            "name": "Twin Multi-Melta",
             "modes": [
                 {
                     "firepower": "MW4+",
@@ -12015,7 +12015,7 @@
             ]
         },
         {
-            "name": "Zwillings Plasma Rifle",
+            "name": "Twin Plasma Rifle",
             "modes": [
                 {
                     "firepower": "AP4+/AT6+",
@@ -12026,7 +12026,7 @@
             ]
         },
         {
-            "name": "Zwillings Pulse Carbine",
+            "name": "Twin Pulse Carbine",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -12038,7 +12038,7 @@
             ]
         },
         {
-            "name": "Zwillings Pulsar",
+            "name": "Twin Pulsar",
             "modes": [
                 {
                     "firepower": "2× MW2+",
@@ -12049,7 +12049,7 @@
             ]
         },
         {
-            "name": "Zwillings Pulse Laser",
+            "name": "Twin Pulse Laser",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -12071,7 +12071,7 @@
             ]
         },
         {
-            "name": "Zwillings Light Railgun",
+            "name": "Twin Light Railgun",
             "modes": [
                 {
                     "firepower": "AT3+",
@@ -12082,7 +12082,7 @@
             ]
         },
         {
-            "name": "Zwillings Shuriken Cannon",
+            "name": "Twin Shuriken Cannon",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -12093,7 +12093,7 @@
             ]
         },
         {
-            "name": "Zwillings Shuriken Catapult",
+            "name": "Twin Shuriken Catapult",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -12103,7 +12103,7 @@
             ]
         },
         {
-            "name": "Zwillings Siegebreaker Cannon",
+            "name": "Twin Siegebreaker Cannon",
             "modes": [
                 {
                     "firepower": "AP4+/AT4+",
@@ -12112,7 +12112,7 @@
             ]
         },
         {
-            "name": "Zwillings Splinter Rifle",
+            "name": "Twin Splinter Rifle",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -12131,7 +12131,7 @@
             ]
         },
         {
-            "name": "Zwillings Starcannon",
+            "name": "Twin Starcannon",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+",
@@ -12140,7 +12140,7 @@
             ]
         },
         {
-            "name": "Zwillings Tesla Carbine",
+            "name": "Twin Tesla Carbine",
             "modes": [
                 {
                     "firepower": "Small Arms",
@@ -12151,7 +12151,7 @@
             ]
         },
         {
-            "name": "Zwillings Tesla Destructor",
+            "name": "Twin Tesla Destructor",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+",
@@ -12162,7 +12162,7 @@
             ]
         },
         {
-            "name": "Zwillings Typhoon Missile",
+            "name": "Twin Typhoon Missile",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+",
@@ -12205,7 +12205,7 @@
             ]
         },
         {
-            "name": "Zwillings Vanquisher Cannon",
+            "name": "Twin Vanquisher Cannon",
             "modes": [
                 {
                     "firepower": "AP2+/AT2+",
@@ -12225,7 +12225,7 @@
             ]
         },
         {
-            "name": "Venatari Lanze",
+            "name": "Venatari Lance",
             "modes": [
                 {
                     "firepower": "Assault Weapons",
@@ -12242,7 +12242,7 @@
                     "firepower": "MW2+",
                     "range": 120,
                     "specialRules": [
-                        "TK(W6+1)"
+                        "TK(D6+1)"
                     ]
                 }
             ]
@@ -12272,7 +12272,7 @@
                     "range": 45,
                     "specialRules": [
                         "D",
-                        "Schildbohrer"
+                        "Shield Piercer"
                     ]
                 }
             ]
@@ -12307,7 +12307,7 @@
             ]
         },
         {
-            "name": "Zwillings Shadow Lanze",
+            "name": "Twin Shadow Lance",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -12336,19 +12336,19 @@
                     "firepower": "MW2+",
                     "range": 90,
                     "specialRules": [
-                        "TK(W3)"
+                        "TK(D3)"
                     ]
                 }
             ]
         },
         {
-            "name": "Volcano Lanze",
+            "name": "Volcano Lance",
             "modes": [
                 {
                     "firepower": "AT2+",
                     "range": 60,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -12399,7 +12399,7 @@
             ]
         },
         {
-            "name": "Zwillings Volkite Culvertin",
+            "name": "Twin Volkite Culvertin",
             "modes": [
                 {
                     "firepower": "AP3+/AT5+",
@@ -12469,7 +12469,7 @@
                 },
                 {
                     "firepower": "Assault Weapons",
-                    "join": "oder",
+                    "join": "or",
                     "specialRules": [
                         "MW"
                     ]
@@ -12611,8 +12611,8 @@
                     "range": "Unlimited",
                     "specialRules": [
                         "SS",
-                        "TK(W3)",
-                        "Schildbohrer"
+                        "TK(D3)",
+                        "Shield Piercer"
                     ]
                 }
             ]
@@ -12820,7 +12820,7 @@
             ]
         },
         {
-            "name": "Schweres Zwillings Wraithcannons",
+            "name": "Twin Heavy Wraithcannons",
             "modes": [
                 {
                     "firepower": "MW3+",
@@ -12966,7 +12966,7 @@
             ]
         },
         {
-            "name": "Bolt Scharfschütze Rife",
+            "name": "Bolt Sniper Rife",
             "modes": [
                 {
                     "firepower": "AP4+",
@@ -13002,19 +13002,19 @@
                     "firepower": "AT4+",
                     "range": 15,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
         },
         {
-            "name": "Zwillings Las-Talon",
+            "name": "Twin Las-Talon",
             "modes": [
                 {
                     "firepower": "AT3+",
                     "range": 15,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -13026,7 +13026,7 @@
                     "firepower": "AT3+",
                     "range": 60,
                     "specialRules": [
-                        "Lanze"
+                        "Lance"
                     ]
                 }
             ]
@@ -13103,27 +13103,27 @@
     },
     {
       "name": "D",
-      "description": "Versprengen"
+      "description": "Disrupt"
     },
     {
       "name": "EA(+1)",
-      "description": "Zusätzliche Angriffe +1"
+      "description": "Extra Attack +1"
     },
     {
       "name": "EA(+2)",
-      "description": "Zusätzliche Angriffe +2"
+      "description": "Extra Attack +2"
     },
     {
       "name": "EA(+3)",
-      "description": "Zusätzliche Angriffe +3"
+      "description": "Extra Attack +3"
     },
     {
-      "name": "EA(+W3)",
-      "description": "Zusätzliche Angriffe +W3"
+      "name": "EA(+D3)",
+      "description": "Extra Attack +D3"
     },
     {
       "name": "FS",
-      "description": "Erstschlag"
+      "description": "First Strike"
     },
     {
       "name": "FxF",
@@ -13139,23 +13139,23 @@
     },
     {
       "name": "IC",
-      "description": "Deckung ignorieren"
+      "description": "Ignore Cover"
     },
     {
       "name": "Ind",
       "description": "Indirect Fire"
     },
     {
-      "name": "Sturmangriff",
-      "description": "Sturmangriff"
+      "name": "Lightning Charge",
+      "description": "Lightning Charge"
     },
     {
       "name": "Left",
       "description": "Left Arc"
     },
     {
-      "name": "Lanze",
-      "description": "Lanze"
+      "name": "Lance",
+      "description": "Lance"
     },
     {
       "name": "MW",
@@ -13178,24 +13178,24 @@
       "description": "Rear Arc"
     },
     {
-      "name": "Schildbrecher",
-      "description": "Schildbrecher"
+      "name": "Shield Disruptor",
+      "description": "Shield Disruptor"
     },
     {
       "name": "S",
-      "description": "Scharfschütze"
+      "description": "Sniper"
     },
     {
       "name": "Slow",
-      "description": "Langsames Feuern"
+      "description": "Slow Firing"
     },
     {
       "name": "SS",
-      "description": "Einzelschuss"
+      "description": "Single Shot"
     },
     {
-      "name": "Schildbohrer",
-      "description": "Schildbohrer"
+      "name": "Shield Piercer",
+      "description": "Shield Piercer"
     },
     {
       "name": "Psybolts",
@@ -13210,27 +13210,27 @@
       "description": "Titan Killer"
     },
     {
-      "name": "TK(W3+1)",
+      "name": "TK(D3+1)",
       "description": "Titan Killer"
     },
     {
-      "name": "TK(W3+3)",
+      "name": "TK(D3+3)",
       "description": "Titan Killer"
     },
     {
-      "name": "TK(W3)",
+      "name": "TK(D3)",
       "description": "Titan Killer"
     },
     {
-      "name": "TK(W6)",
+      "name": "TK(D6)",
       "description": "Titan Killer"
     },
     {
-      "name": "TK(W6+1)",
+      "name": "TK(D6+1)",
       "description": "Titan Killer"
     },
     {
-      "name": "TK(W6+2)",
+      "name": "TK(D6+2)",
       "description": "Titan Killer"
     },
     {

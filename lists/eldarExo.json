@@ -8,23 +8,23 @@
         "name": "Dragon Prince",
         "type": "CH",
         "weapons": [
-          "Wraithbone Lanze"
+          "Wraithbone Lance"
         ],
         "specialRules": [
-          "Inspirierend",
-          "Unmodifizierter Rettungswurf",
-          "Oberbefehlshaber"
+          "Inspiring",
+          "Invulnerable Save",
+          "Supreme Commander"
         ]
       },
       {
         "name": "Dragonlord",
         "type": "CH",
         "weapons": [
-          "Wraithbone Lanze"
+          "Wraithbone Lance"
         ],
         "specialRules": [
-          "Inspirierend",
-          "Unmodifizierter Rettungswurf"
+          "Inspiring",
+          "Invulnerable Save"
         ]
       },
       {
@@ -35,8 +35,8 @@
         ],
         "specialRules": [
           "Farsight",
-          "Unmodifizierter Rettungswurf",
-          "Anführer"
+          "Invulnerable Save",
+          "Leader"
         ]
       },
       {
@@ -50,8 +50,8 @@
           "Eldar Power Lances"
         ],
         "specialRules": [
-          "Beritten",
-          "Geländegängig"
+          "Mounted",
+          "Walker"
         ]
       },
       {
@@ -65,8 +65,8 @@
           "Exodite Hunting Lances"
         ],
         "specialRules": [
-          "Beritten",
-          "Antigrav"
+          "Mounted",
+          "Skimmer"
         ]
       },
       {
@@ -80,7 +80,7 @@
           "Eldar Missile Launcher"
         ],
         "specialRules": [
-          "Geländegängig"
+          "Walker"
         ]
       },
       {
@@ -94,9 +94,9 @@
           "Long Rifles"
         ],
         "specialRules": [
-          "Beritten",
-          "Aufklärer",
-          "Geländegängig"
+          "Mounted",
+          "Scout",
+          "Walker"
         ]
       },
       {
@@ -122,7 +122,7 @@
           "Support D-Cannon|0-1",
           "Shadow Weaver|0-1"
         ],
-        "notes": "Armed with either a Support D-Cannon oder a Shadow Weaver"
+        "notes": "Armed with either a Support D-Cannon or a Shadow Weaver"
       },
       {
         "name": "Exodite Wraithguards",
@@ -135,7 +135,7 @@
           "Wraith Cannons"
         ],
         "specialRules": [
-          "Furchtlos"
+          "Fearless"
         ]
       },
       {
@@ -150,7 +150,7 @@
           "Claws, Teeth & Tail"
         ],
         "specialRules": [
-          "Geländegängig"
+          "Walker"
         ]
       },
       {
@@ -161,10 +161,10 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Prism Lanze"
+          "Prism Lance"
         ],
         "specialRules": [
-          "Geländegängig"
+          "Walker"
         ]
       },
       {
@@ -174,13 +174,13 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lanze",
+          "Knight Psychic Lance",
           "Knight Pulse Laser"
         ],
         "specialRules": [
           "Holofield (4+)",
-          "Furchtlos",
-          "Geländegängig"
+          "Fearless",
+          "Walker"
         ]
       },
       {
@@ -191,13 +191,13 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lanze"
+          "Knight Psychic Lance"
         ],
         "specialRules": [
           "Holofield (4+)",
-          "Furchtlos",
+          "Fearless",
           "Reinforced Armor",
-          "Geländegängig"
+          "Walker"
         ]
       },
       {
@@ -207,14 +207,14 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Knight Psychic Lanze",
+          "Knight Psychic Lance",
           "Scatter Laser",
           "Knight Close Combat Weapons"
         ],
         "specialRules": [
           "Holofield (4+)",
-          "Furchtlos",
-          "Geländegängig"
+          "Fearless",
+          "Walker"
         ]
       },
       {
@@ -229,7 +229,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Geländegängig"
+          "Walker"
         ],
         "crit": "The Great Megadon is killed."
       },
@@ -246,10 +246,10 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Befehlshaber",
-          "Furchtlos",
-          "Sprungmodule",
-          "Inspirierend"
+          "Commander",
+          "Fearless",
+          "Jump Packs",
+          "Inspiring"
         ],
         "crit": "The Eternal Drake is killed. All Exodite Eldar formations (friend and foe) with a line of sight to the Eternal Drake receive one Blast Marker."
       },
@@ -266,8 +266,8 @@
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Furchtlos",
-          "Geländegängig"
+          "Fearless",
+          "Walker"
         ],
         "crit": "The Colossal Carnosaur takes an additional point of damage."
       }

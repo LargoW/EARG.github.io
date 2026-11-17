@@ -43,8 +43,8 @@
         "Chaos Stalker"
       ],
       "unitRules": [
-          "Verstärkte Beschwörung (+x)",
-          "Dämonischer Fokus"
+          "Augment Summoning (+x)",
+          "Daemonic Focus"
       ]
     },
     {
@@ -65,8 +65,8 @@
         "Plaguebearers of Nurgle",
         "Bloodletters of Khorne",
         "Horrors of Tzeentch",
-        "Hüter der Geheimnisse",
-        "Großer Verpester",
+        "Keeper of Secrets",
+        "Great Unclean One",
         "Bloodthirster",
         "Lord of Change",
         "Daemonic Beasts of Chaos Undivided"
@@ -82,8 +82,8 @@
         "Chaos Warlord"
       ],
       "unitRules": [
-        "Null Schilde",
-        "Göttermaschine",
+        "Void Shields",
+        "God Machine",
         "Split Fire"
       ]
     },
@@ -105,9 +105,9 @@
       "formations": [
         {
           "name": "Black Legion Retinue",
-          "units": "One Chaos Lord oder Sorcerer Lord, eight Chaos Space Marines",
+          "units": "One Chaos Lord or Sorcerer Lord, eight Chaos Space Marines",
           "extraUnits": [
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Transport",
             "Champion",
             "Cult Marines",
@@ -138,9 +138,9 @@
         },
         {
           "name": "Chaos Terminators",
-          "units": "One Chaos Lord oder Sorcerer Lord, four Chaos Terminators",
+          "units": "One Chaos Lord or Sorcerer Lord, four Chaos Terminators",
           "extraUnits": [
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Champion",
             "Transport",
             "Dreadclaws",
@@ -159,7 +159,7 @@
       "formations": [
         {
           "name": "Raptor Cult",
-          "units": "One Chaos Lord oder Sorcerer Lord, four Raptors",
+          "units": "One Chaos Lord or Sorcerer Lord, four Raptors",
           "extraUnits": [
             "Add up to four Raptors: 30 points each",
             "Daemonic Pact"
@@ -178,7 +178,7 @@
         },
         {
           "name": "Havocs",
-          "units": "One Chaos Lord oder Sorcerer Lord, four Havocs, two Chaos Rhinos",
+          "units": "One Chaos Lord or Sorcerer Lord, four Havocs, two Chaos Rhinos",
           "extraUnits": [
             "Replace two Chaos Rhinos with Chaos Land Raiders: 75 points",
             "Daemonic Pact",
@@ -189,7 +189,7 @@
         },
         {
           "name": "Bike Company",
-          "units": "One Chaos Lord oder Sorcerer Lord, eight Chaos Assault Bikes",
+          "units": "One Chaos Lord or Sorcerer Lord, eight Chaos Assault Bikes",
           "extraUnits": [
             "Daemonic Pact",
             "Icon Bearer"
@@ -287,7 +287,7 @@
         "points": "50 points"
       },
       {
-        "name": "Oberbefehlshaber (0-1 per army)",
+        "name": "Supreme Commander (0-1 per army)",
         "description": "Choose one of the following:",
         "options": [
           {
@@ -302,7 +302,7 @@
       },
       {
         "name": "Transport",
-        "description": "Add Chaos Rhinos oder Chaos Land Raiders, up to the number required to transport all infantry units in the formation",
+        "description": "Add Chaos Rhinos or Chaos Land Raiders, up to the number required to transport all infantry units in the formation",
         "options": [
           {
             "description": "Chaos Rhinos (Retinue only)",
@@ -331,7 +331,7 @@
       },
       {
         "name": "Cult Marines",
-        "description": "Replace four Chaos Space Marines with four Noise Marines, Khorne Berzerkers, Plague Marines oder Rubric Marines.",
+        "description": "Replace four Chaos Space Marines with four Noise Marines, Khorne Berzerkers, Plague Marines or Rubric Marines.",
         "points": "50 points"
       },
       {
@@ -367,8 +367,8 @@
     ]
   },
   "about": [
-    "The EA-R Black Legion list is based on the NetEA version, but has some significant differences. Factions are gone, and the list is instead Chaos Undivided, but with cheaper summoning costs. Horrors have replaced Flamers as the basic Tzeentch lesser daemon, and the Daemonic Beast has been replaced with the Furies. These two changes are both for thematic reasons but mostly to better balance the different basic lesser daemons against one another. All Daemon type units always have Unmodifizierter Rettungswurf, both for theme and to reduce confusion.",
-    "Havocs and Cult Marines now replace Chaos Space Marines in the Retinue rather than adding to them. Chosen may no longer take Dreadclaws, and come with Chaos Rhinos as standard, but may replace the Rhinos with Chaos Dreadnoughts. Chaos Dreadnoughts have a Reaper Autocannon instead of a Zwillings Autocannon to bring it to parity with the firepower of a Loyalist Dreadnought. A Chaos Stalker has been added to the list in order to reduce the list's reliance on Obliterators. Obliterators can only be added to Chaos Terminators.",
-    "Chaos Land Raiders are cheaper, in line with a general reduction of transport vehicle costs. The Armoured Company has been moved from the Core section to support, but can take Stalkers, and the Land Raiders are slightly cheaper as an upgrade. The Raptor formation is bigger, but is slightly cheaper for the size. All Daemon Engines have 2+ Initiative and always have an Unmodifizierter Rettungswurf. To compensate for the loss in initiative, they also have a Daemon Engine (x) rule which makes each power's units act thematically and be a bit more dependable in some aspect. This has made it possible to make Defiler type formations significantly cheaper. Hell Blade Interceptors have the E-UK stats, and the Harbringer Bomber has been moved to the Iron Warriors army. The Chaos Titans have been reduced in cost and has changed stats in line with other Imperial Titans. The Chaos Battleship is slightly cheaper and has the 'Slow to Arrive' rule instead of 'Langsam und Stetig'."
+    "The EA-R Black Legion list is based on the NetEA version, but has some significant differences. Factions are gone, and the list is instead Chaos Undivided, but with cheaper summoning costs. Horrors have replaced Flamers as the basic Tzeentch lesser daemon, and the Daemonic Beast has been replaced with the Furies. These two changes are both for thematic reasons but mostly to better balance the different basic lesser daemons against one another. All Daemon type units always have Invulnerable save, both for theme and to reduce confusion.",
+    "Havocs and Cult Marines now replace Chaos Space Marines in the Retinue rather than adding to them. Chosen may no longer take Dreadclaws, and come with Chaos Rhinos as standard, but may replace the Rhinos with Chaos Dreadnoughts. Chaos Dreadnoughts have a Reaper Autocannon instead of a Twin Autocannon to bring it to parity with the firepower of a Loyalist Dreadnought. A Chaos Stalker has been added to the list in order to reduce the list's reliance on Obliterators. Obliterators can only be added to Chaos Terminators.",
+    "Chaos Land Raiders are cheaper, in line with a general reduction of transport vehicle costs. The Armoured Company has been moved from the Core section to support, but can take Stalkers, and the Land Raiders are slightly cheaper as an upgrade. The Raptor formation is bigger, but is slightly cheaper for the size. All Daemon Engines have 2+ Initiative and always have an Invulnerable Save. To compensate for the loss in initiative, they also have a Daemon Engine (x) rule which makes each power's units act thematically and be a bit more dependable in some aspect. This has made it possible to make Defiler type formations significantly cheaper. Hell Blade Interceptors have the E-UK stats, and the Harbringer Bomber has been moved to the Iron Warriors army. The Chaos Titans have been reduced in cost and has changed stats in line with other Imperial Titans. The Chaos Battleship is slightly cheaper and has the 'Slow to Arrive' rule instead of 'Slow and Steady'."
   ]
 }

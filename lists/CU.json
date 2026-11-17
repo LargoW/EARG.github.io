@@ -11,8 +11,8 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Unmodifizierter Rettungswurf",
-          "Oberbefehlshaber"
+          "Invulnerable Save",
+          "Supreme Commander"
         ]
       },
       {
@@ -22,8 +22,8 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Unmodifizierter Rettungswurf",
-          "Anführer"
+          "Invulnerable Save",
+          "Leader"
         ]
       },
       {
@@ -33,9 +33,9 @@
           "Power Weapon"
         ],
         "specialRules": [
-          "Inspirierend",
-          "Unmodifizierter Rettungswurf",
-          "Anführer"
+          "Inspiring",
+          "Invulnerable Save",
+          "Leader"
         ]
       },
       {
@@ -48,7 +48,7 @@
         "weapons": [
           "Adrastus Bolt Caliver"
         ],
-        "notes": "Verstärkte Panzerung"
+        "notes": "Reinforced Armour"
       },
       {
         "name": "Guardian",
@@ -60,7 +60,7 @@
         "weapons": [
           "Guardian Spear"
         ],
-        "notes": "Verstärkte Panzerung"
+        "notes": "Reinforced Armour"
       },
       {
         "name": "Sentinel Guard",
@@ -72,7 +72,7 @@
         "weapons": [
           "Sentinel War Blade"
         ],
-        "notes": "Verstärkte Panzerung"
+        "notes": "Reinforced Armour"
       },
       {
         "name": "Warden",
@@ -85,7 +85,7 @@
           "Guardian Spear"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
+          "Reinforced Armour",
           "Invunerable Save"
         ]
       },
@@ -97,12 +97,12 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Venatari Lanze",
+          "Venatari Lance",
           "Archeotech Kinetic Destroyer"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Sprungmodule",
+          "Reinforced Armour",
+          "Jump Packs",
           "Teleport"
         ]
       },
@@ -118,10 +118,10 @@
           "Power Weapons"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
+          "Reinforced Armour",
+          "Invulnerable Save",
           "Teleport",
-          "Verstärkte Heckpanzerung",
+          "Thick Rear Armour",
           "Terminator Aquilon are considered terminators for the purpose of being transported."
         ]
       },
@@ -137,7 +137,7 @@
           "Heavy Flamer"
         ],
         "specialRules": [
-          "Furchtlos"
+          "Fearless"
         ]
       },
       {
@@ -152,9 +152,9 @@
           "Power Lances"
         ],
         "specialRules": [
-          "Aufklärer",
-          "Antigrav",
-          "Verstärkte Panzerung"
+          "Scout",
+          "Skimmer",
+          "Reinforced Armour"
         ]
       },
       {
@@ -166,13 +166,13 @@
         "ff": 4,
         "weapons": [
           "Lastrum Storm Bolters",
-          "Achilles Power Lanze"
+          "Achilles Power Lance"
         ],
         "specialRules": [
           "Reniforced Armour",
           "Teleport",
-          "Geländegängig",
-          "Unmodifizierter Rettungswurf",
+          "Walker",
+          "Invulnerable Save",
           "Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported."
         ]
       },
@@ -190,8 +190,8 @@
         "specialRules": [
           "Reniforced Armour",
           "Teleport",
-          "Geländegängig",
-          "Unmodifizierter Rettungswurf",
+          "Walker",
+          "Invulnerable Save",
           "Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported."
         ]
       },
@@ -203,11 +203,11 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Zwillings-linked Arachnus Blaze Cannon"
+          "Twin-linked Arachnus Blaze Cannon"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Antigrav"
+          "Reinforced Armour",
+          "Skimmer"
         ],
         "notes": ""
       },
@@ -219,12 +219,12 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Zwillings-linked Iliastus Accelator Cannon",
-          "Zwillings-linked Lastrum Bolt Cannon"
+          "Twin-linked Iliastus Accelator Cannon",
+          "Twin-linked Lastrum Bolt Cannon"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Antigrav"
+          "Reinforced Armour",
+          "Skimmer"
         ],
         "notes": ""
       },
@@ -236,14 +236,14 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Zwillings-linked Arachnus Blaze Cannon",
-          "Zwillings-linked Lastrum Bolt Cannon"
+          "Twin-linked Arachnus Blaze Cannon",
+          "Twin-linked Lastrum Bolt Cannon"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Antigrav"
+          "Reinforced Armour",
+          "Skimmer"
         ],
-        "notes": "May transport one Terminator unit oder two infantry units without Sprungmodule oder Beritten."
+        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
       },
       {
         "name": "Custodian Land Raider",
@@ -253,15 +253,15 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Zwillings Laserkanone|2",
-          "Schweres Zwillings Bolter"
+          "Twin Lascannon|2",
+          "Twin Heavy Bolter"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
+          "Reinforced Armour",
+          "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit oder two infantry units without Sprungmodule oder Beritten."
+        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
       },
       {
         "name": "Null-Maiden Rhino",
@@ -274,10 +274,10 @@
           "Storm Bolter"
         ],
         "specialRules": [
-          "Furchtlos",
+          "Fearless",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Sprungmodule oder Beritten."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
       },
       {
         "name": "Null-Maiden Hunter",
@@ -290,7 +290,7 @@
           "Hunter-Killer"
         ],
         "specialRules": [
-          "Furchtlos"
+          "Fearless"
         ]
       },
       {
@@ -301,17 +301,17 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "AC Zwillings-linked Lastrum Bolt Cannon|2|FxF",
+          "AC Twin-linked Lastrum Bolt Cannon|2|FxF",
           "AC Arachnus Heavy Blaze Cannon|2|FxF",
           "AC Spiculus Heavy Bolt Launcher|2|FxF"
         ],
         "specialRules": [
-          "Schadenskapazität2",
+          "Damage Capacity 2",
           "Planetfall",
-          "Verstärkte Panzerung",
+          "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport eight infantry units oder Dreadnaughts. Terminators and Dreadnoughts count as two units each. Critical Hit Effect: The unit and all units being carried are destroyed."
+        "notes": "May transport eight infantry units or Dreadnaughts. Terminators and Dreadnoughts count as two units each. Critical Hit Effect: The unit and all units being carried are destroyed."
       }
     ]
   }

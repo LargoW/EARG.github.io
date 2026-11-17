@@ -36,7 +36,7 @@
       ],
       "unitRules": [
         "Sabotage",
-        "Starrköpfig"
+        "Stubborn"
       ]
     },
     {
@@ -52,8 +52,8 @@
         "Land Transporter"
       ],
       "unitRules": [
-        "Dämonischer Fokus",
-        "Verstärkte Beschwörung (+x)"
+        "Daemonic Focus",
+        "Augment Summoning (+x)"
       ]
     },
     {
@@ -100,11 +100,11 @@
       "formations": [
         {
           "name": "Alpha Legion Marines",
-          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Alpha Legion Marines plus transport",
+          "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Marines plus transport",
           "extraUnits": [
             "Replace four Alpha Legion Marines with four Alpha Legion Havocs: 50 points",
             "Add up to two Alpha Legion Land Raiders: 50 points each",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Dreadnoughts",
             "Vindicators",
             "Predators"
@@ -113,7 +113,7 @@
         },
         {
           "name": "Cultist Coven",
-          "units": "One Aspiring Champion, nine Cultists und/oder Mutants",
+          "units": "One Aspiring Champion, nine Cultists and/or Mutants",
           "extraUnits": [
             "Add a Daemonic Icon to the Aspiring Champion: 25 points",
             "Add enough Land Transporters to transport the formation: 10 points each",
@@ -121,7 +121,7 @@
             "Add up to three Chaos Hounds: 10 points each",
             "Add one Chaos Spawn: 35 points",
             "Add one Hydra: 50 points",
-            "Oberbefehlshaber"
+            "Supreme Commander"
           ],
           "points": 225
         }
@@ -133,27 +133,27 @@
       "formations": [
         {
           "name": "Destroyers",
-          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Alpha Legion Destroyers",
+          "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Destroyers",
           "extraUnits": [
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Predators"
           ],
           "points": 200
         },
         {
           "name": "Headhunters",
-          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Alpha Legion Headhunters plus transport",
+          "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Headhunters plus transport",
           "extraUnits": [
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Vindicators"
           ],
           "points": 250
         },
         {
           "name": "Terminators",
-          "units": "One Alpha Legion Lord oder Alpha Legion Sorcerer, four Lernaean Terminators plus transport",
+          "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Lernaean Terminators plus transport",
           "extraUnits": [
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Dreadnoughts"
           ],
           "points": 275
@@ -253,7 +253,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0-1 Supreme Commander",
         "description": "Choose one of the following options:",
         "options": [
           {
@@ -261,7 +261,7 @@
             "points": "100 points"
           },
           {
-            "description": "'I'm Alpharius!' The army benefits from the Oberbefehlshaber rule as long as there is at least one Alpha Legion Lord on the battlefield. Formation must contain an Alpha Legion Lord.",
+            "description": "'I'm Alpharius!' The army benefits from the Supreme Commander rule as long as there is at least one Alpha Legion Lord on the battlefield. Formation must contain an Alpha Legion Lord.",
             "points": "75 points"
           }
         ]

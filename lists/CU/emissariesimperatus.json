@@ -54,9 +54,9 @@
       "formations": [
         {
           "name": "Custodes Guardian Squad",
-          "units": "Two Sagittarum plus either Two Guardian OR Two Sentinel Guard and 2 Venerable Land Raiders oder 2 Coronus",
+          "units": "Two Sagittarum plus either Two Guardian OR Two Sentinel Guard and 2 Venerable Land Raiders or 2 Coronus",
           "upgrades": [
-            "Befehlshaber"
+            "Commander"
           ],
           "points": 375
         }
@@ -70,7 +70,7 @@
           "name": "Warden Wing",
           "units": "5 Wardens",
           "upgrades": [
-            "Befehlshaber",
+            "Commander",
             "Dreadnaught",
             "Transport"
           ],
@@ -78,7 +78,7 @@
         },
         {
           "name": "Dreadnaught Wing",
-          "units": "3 of the following in any combination: Contemptor Dreadnought Achilles oder Telemon Heavy Dreadnoughts",
+          "units": "3 of the following in any combination: Contemptor Dreadnought Achilles or Telemon Heavy Dreadnoughts",
           "upgrades": [
             "Dreadnaught"
           ],
@@ -88,7 +88,7 @@
           "name": "Aquilon Custodians",
           "units": "Four Aquilon Terminators",
           "upgrades": [
-            "Befehlshaber",
+            "Commander",
             "Dreadnaught",
             "Transport"
           ],
@@ -104,7 +104,7 @@
           "name": "Venatari Wing",
           "units": "Five Venatari",
           "upgrades": [
-            "Befehlshaber"
+            "Commander"
           ],
           "points": 300
         },
@@ -112,7 +112,7 @@
           "name": "Kataphractoi",
           "units": "Six Vertus Praetors",
           "upgrades": [
-            "Befehlshaber"
+            "Commander"
           ],
           "points": 250
         },
@@ -162,7 +162,7 @@
     "description": "Each upgrade may be taken once per detachment",
     "items": [
       {
-        "name": "Befehlshaber",
+        "name": "Commander",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {

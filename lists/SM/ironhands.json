@@ -4,7 +4,7 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_IronHands",
-  "intro": "The following army list allows you to field an army based on the Iron Hands Space Marine chapter oder any of its successor chapters. The Iron Hands are notable for their heavy use of bionics and their reverence for all things mechanical, and thus their close ties to the Adeptus Mechanicus.",
+  "intro": "The following army list allows you to field an army based on the Iron Hands Space Marine chapter or any of its successor chapters. The Iron Hands are notable for their heavy use of bionics and their reverence for all things mechanical, and thus their close ties to the Adeptus Mechanicus.",
   "strategy": "Space Marine armies have a Strategy Rating of 5.",
   "Initiative": "All formations have an Initiative Rating of 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Iron Hands detachments and aircraft formations.",
@@ -13,14 +13,14 @@
     "They Shall Know No Fear"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Iron Hands, oder one of their successor chapters, using their preferred operational methods."
+    "The following army list allows you to field an army based on the Iron Hands, or one of their successor chapters, using their preferred operational methods."
   ],
   "units": [
     {
       "from": "SM.json",
       "units": [
         "Iron Hands Captain",
-        "Iron Hands Oberbefehlshaber",
+        "Iron Hands Supreme Commander",
         "Techmarine",
         "Iron Hands Devastators",
         "Tacticals",
@@ -50,9 +50,9 @@
       ],
       "unitRules": [
         "Bionics",
-        "Erweiterte Befehlsreichweite",
+        "Extended Command",
         "Battlefield Repairs",
-        "Lanze"
+        "Lance"
       ]
     },
     {
@@ -62,7 +62,7 @@
         "Warhound "
       ],
       "unitRules": [
-        "Null Schilde"
+        "Void Shields"
       ]
     }
   ],
@@ -72,10 +72,10 @@
       "formations": [
         {
           "name": "Dreadnought Clan",
-          "units": "One Iron Hands Captain oder Techmarine, four Tacticals plus transport, and any two of the following: Dreadnought, Hellfire Dreadnought, Siege Dreadnought",
+          "units": "One Iron Hands Captain or Techmarine, four Tacticals plus transport, and any two of the following: Dreadnought, Hellfire Dreadnought, Siege Dreadnought",
           "extraUnits": [
             "Anti-Air",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Venerable Dreadnought",
             "Ironclad Dreadnoughts",
             "Dreadnoughts",
@@ -86,10 +86,10 @@
         },
         {
           "name": "Mechanized Clan",
-          "units": "One Iron Hands Captain oder Techmarine, four Tacticals plus transport, and any two of the following: Predator Annihilator, Predator Destructor oder Vindicator",
+          "units": "One Iron Hands Captain or Techmarine, four Tacticals plus transport, and any two of the following: Predator Annihilator, Predator Destructor or Vindicator",
           "extraUnits": [
             "Anti-Air",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Devastators",
             "Transports",
             "Vindicators"
@@ -125,7 +125,7 @@
         },
         {
           "name": "Predators",
-          "units": "Four Predator Destructors und/oder Predator Annihilators",
+          "units": "Four Predator Destructors and/or Predator Annihilators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -189,7 +189,7 @@
         },
         {
           "name": "Warhound Pack",
-          "units": "Two Warhounds - Standard oder Support Configuration",
+          "units": "Two Warhounds - Standard or Support Configuration",
           "extraUnits": [
             "Upgrade both Warhounds to the Tank Hunter Configuration: 50 points"
           ],
@@ -239,7 +239,7 @@
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add any two of the following: Dreadnought, Hellfire Dreadnought oder Siege Dreadnought",
+        "description": "Add any two of the following: Dreadnought, Hellfire Dreadnought or Siege Dreadnought",
         "points": "50 points each"
       },
       {
@@ -258,13 +258,13 @@
         "points": "25 points each"
       },
       {
-        "name": "Oberbefehlshaber (0-1 per army)",
-        "description": "Replace an Iron Hands Captain with an Iron Hands Oberbefehlshaber",
+        "name": "Supreme Commander (0-1 per army)",
+        "description": "Replace an Iron Hands Captain with an Iron Hands Supreme Commander",
         "points": "50 points"
       },
       {
         "name": "Transports",
-        "description": "Add any number of Razorbacks oder Land Raider variants, up to the number required to transport the formation",
+        "description": "Add any number of Razorbacks or Land Raider variants, up to the number required to transport the formation",
         "options": [
           {
             "description": "The formation may take Siege Rhinos instead of Rhinos",

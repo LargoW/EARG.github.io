@@ -4,9 +4,9 @@
   "version": "0.7.0",
   "release": "2022-04-01",
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica formations have an Initiative Rating of 1+. All other formations have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Ritterlichkeit' special rule.",
+  "Initiative": "Collegia Titanica formations have an Initiative Rating of 1+. All other formations have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
   "specialRules": [
-    "Tunnelgräbers"
+    "Tunnelers"
   ],
   "usage": [
     "The following army list allows you to field an army based on the Skitarii of the Adeptus Mechancius"
@@ -20,7 +20,7 @@
         "Tech-Priest",
         "Skitarii Vanguards",
         "Sicarian Ruststalkers",
-        "Sicarian Infiltratorens",
+        "Sicarian Infiltrators",
         "Skitarii Rangers",
         "Rapier",
         "Kastelan Robot",
@@ -37,9 +37,9 @@
         "Ark Mechanicus Battleship"
       ],
       "unitRules": [
-          "Maschinengeist",
-          "Schwerfällig",
-          "Schildbrecher"
+          "Machine Spirit",
+          "Ponderous",
+          "Shield Disruptor"
       ]
     },
     {
@@ -53,9 +53,9 @@
       ],
       "unitRules": [
         "Heavy Armoured Vehicle (H-AV)",
-        "Starrköpfig",
-        "Ritterlichkeit",
-        "Ionen Schild (x)"
+        "Stubborn",
+        "Chivalry",
+        "Ion Shield (x)"
       ]
     },
     {
@@ -65,7 +65,7 @@
         "Warbringer Titan"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Void Shields"
       ]
     }
   ],
@@ -80,7 +80,7 @@
             "Replace four Skitarii Vanguards with four Rapiers: Free",
             "Add up to two Onager Dunecrawlers: 50 points each",
             "Add up to two Skorpius Disintegrators: 50 points each",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Vanguard Transport"
           ],
           "points": 225
@@ -98,7 +98,7 @@
       "formations": [
         {
           "name": "Sicarian Killclade",
-          "units": "Four Sicarian Ruststalkers, two Sicarian Infiltratorens",
+          "units": "Four Sicarian Ruststalkers, two Sicarian Infiltrators",
           "extraUnits": [
           ],
           "points": 175
@@ -107,7 +107,7 @@
           "name": "Ranger Cohort",
           "units": "Four Skitarii Rangers",
           "extraUnits": [
-            "Add two Scorpius Duneriders, oder three Rapiers: 50 points"
+            "Add two Scorpius Duneriders, or three Rapiers: 50 points"
           ],
           "points": 150
         },
@@ -121,7 +121,7 @@
         },
         {
           "name": "Kataphron Maniple",
-          "units": "One Tech-Priest, five Kataphron Breacher Battle Servitors oder five Kataphron Destroyer Battle Servitors",
+          "units": "One Tech-Priest, five Kataphron Breacher Battle Servitors or five Kataphron Destroyer Battle Servitors",
           "extraUnits": [],
           "points": 250
         },
@@ -143,7 +143,7 @@
           "units": "Two Ordinatus Minoris",
           "extraUnits": [
             "Add one Ordinatus Minoris: 125 points",
-            "Unterstützungswaffe"
+            "Support Weapon"
           ],
           "points": 325
         },
@@ -170,7 +170,7 @@
         },
         {
           "name": "Warhound Pack",
-          "units": "Two Warhound Titans, both of either Standard oder Support Configuration",
+          "units": "Two Warhound Titans, both of either Standard or Support Configuration",
           "extraUnits": [
             "Tank Hunter Configuration"
           ],
@@ -201,7 +201,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0-1 Supreme Commander",
         "options": [
           {
             "description": "Replace the Magos with a Magos Dominus",
@@ -213,7 +213,7 @@
         "name": "Vanguard Transport",
         "options": [
           {
-            "description": "Add one Gorgon, five Skorpius Duneriders, oder five Termites (must enter the battlefield by tunneling)",
+            "description": "Add one Gorgon, five Skorpius Duneriders, or five Termites (must enter the battlefield by tunneling)",
             "points": [
               "Termites: 75 points",
               "Gorgon: 100 points",
@@ -223,10 +223,10 @@
         ]
       },
       {
-        "name": "Minoris Unterstützungswaffe",
+        "name": "Minoris Support Weapon",
         "options": [
           {
-            "description": "Upgrade one Minoris to carry a Unterstützungswaffe",
+            "description": "Upgrade one Minoris to carry a Support Weapon",
             "points": "25 points"
           }
         ]

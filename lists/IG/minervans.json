@@ -42,7 +42,7 @@
         "Stormhammer"
       ],
       "unitRules": [
-        "Lanze"
+        "Lance"
       ]
     },
     {
@@ -51,7 +51,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Void Shields"
       ]
     },
     {
@@ -76,7 +76,7 @@
           "extraUnits": [
             "Replace seven Leman Russ with seven Leman Russ Thunderers: Free",
             "Replace the Leman Russ Vanquisher with a Leman Russ Thunderer: Free",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Flak",
             "Hellhounds"
           ],
@@ -84,10 +84,10 @@
         },
         {
           "name": "Minervan Super-Heavy Company",
-          "units": "Three Baneblades, Stormblades, Stormswords, und/oder Shadowswords, one with a Commissar-Captain",
+          "units": "Three Baneblades, Stormblades, Stormswords, and/or Shadowswords, one with a Commissar-Captain",
           "extraUnits": [
             "Upgrade one Baneblade to a Stormhammer: 25 points",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Flak",
             "Leman Russ"
           ],
@@ -98,7 +98,7 @@
           "units": "Six Basilisks, one with a Commissar-Captain",
           "extraUnits": [
             "Replace six Basilisks with six Manticores: 50 points",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Flak"
           ],
           "points": 400
@@ -113,7 +113,7 @@
           "name": "Leman Russ Squadron",
           "units": "Four Leman Russ",
           "extraUnits": [
-            "Replace four Leman Russ with four Leman Russ Executioners, four Leman Russ Exterminators, four Leman Russ Demolishers, four Leman Russ Punishers, four Leman Russ Thunderers, oder four Leman Russ Conquerors",
+            "Replace four Leman Russ with four Leman Russ Executioners, four Leman Russ Exterminators, four Leman Russ Demolishers, four Leman Russ Punishers, four Leman Russ Thunderers, or four Leman Russ Conquerors",
             "Hellhounds",
             "Flak"
           ],
@@ -130,7 +130,7 @@
         },
         {
           "name": "Artillery Battery",
-          "units": "Three Basilisks, three Bombards oder four Medusa",
+          "units": "Three Basilisks, three Bombards or four Medusa",
           "extraUnits": [
             "Replace three Basilisks with three Manticores: 25 points"
           ],
@@ -152,7 +152,7 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade, Stormsword, Shadowsword, oder Stormblade",
+          "units": "One Baneblade, Stormsword, Shadowsword, or Stormblade",
           "extraUnits": [
               "Replace a Baneblade with a Shadowsword: 25 points"
           ],
@@ -219,7 +219,7 @@
     "description": "Each upgrade may be taken once per formation.",
     "items": [
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0-1 Supreme Commander",
         "description": "Replace one Commissar-Captain in the army with a Lord Commissar",
         "points": "75 points"
       },
@@ -230,7 +230,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Add three Leman Russ, Leman Russ Executioners, Leman Russ Exterminators, Leman Russ Demolishers, Leman Russ Punishers, Leman Russ Thunderers, oder Leman Russ Conquerors",
+        "description": "Add three Leman Russ, Leman Russ Executioners, Leman Russ Exterminators, Leman Russ Demolishers, Leman Russ Punishers, Leman Russ Thunderers, or Leman Russ Conquerors",
         "points": "150 points"
       },
       {

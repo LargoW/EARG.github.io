@@ -15,8 +15,8 @@
     {
       "from": "IG.json",
       "units": [
-        "Cadian Oberbefehlshaber",
-        "Cadian Befehlshaber",
+        "Cadian Supreme Commander",
+        "Cadian Commander",
         "Commissar",
         "Whiteshields",
         "Infantry",
@@ -56,7 +56,7 @@
         "Reaver Titan"
       ],
       "unitRules": [
-        "Null Schilde",
+        "Void Shields",
         "Independent"
       ]
     },
@@ -78,7 +78,7 @@
       "formations": [
         {
           "name": "0–1 Regimental HQ",
-          "units": "One Cadian Oberbefehlshaber with a Commissar, eight Kasrkin, one Stormlord.",
+          "units": "One Cadian Supreme Commander with a Commissar, eight Kasrkin, one Stormlord.",
           "extraUnits": [
             "Upgrade the Stormlord to an Leviathan: 125 points",
             "Leman Russ",
@@ -88,7 +88,7 @@
         },
         {
           "name": "Whiteshield Company",
-          "units": "One Cadian Befehlshaber with a Commissar, fifteen Whiteshields, two Stormlords.",
+          "units": "One Cadian Commander with a Commissar, fifteen Whiteshields, two Stormlords.",
           "extraUnits": [
             "Leman Russ Squadron",
             "Super-Heavy Tank"
@@ -97,7 +97,7 @@
         },
         {
           "name": "Shock Trooper Company",
-          "units": "One Cadian Befehlshaber with a Commissar, eleven Infantry units, two Crassus Assault Transports",
+          "units": "One Cadian Commander with a Commissar, eleven Infantry units, two Crassus Assault Transports",
           "upgrades": [
           ],
           "points": 400
@@ -131,7 +131,7 @@
         },
         {
           "name": "Artillery Battery",
-          "units": "Three Basilisks, three Bombards oder four Medusa",
+          "units": "Three Basilisks, three Bombards or four Medusa",
           "extraUnits": [
             "Add one Deathstrike: 75 points"
           ],
@@ -154,7 +154,7 @@
         },
         {
           "name": "Leman Russ Platoon",
-          "units": "Six Leman Russ, Leman Russ Demolishers oder Leman Russ Punishers",
+          "units": "Six Leman Russ, Leman Russ Demolishers or Leman Russ Punishers",
           "points": 375,
           "upgrades": [
             "Add one Hydra: 50 points"
@@ -169,9 +169,9 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade, Stormblade oder Stormsword",
+          "units": "One Baneblade, Stormblade or Stormsword",
           "upgrades": [
-            "Upgrade one Baneblade, Stormblade oder Stormsword to a Shadowsword: 25 points"
+            "Upgrade one Baneblade, Stormblade or Stormsword to a Shadowsword: 25 points"
           ],
           "points": 175
         }
@@ -222,7 +222,7 @@
         "name": "Leman Russ",
         "options": [
           {
-            "description": "Three Leman Russ, three Leman Russ Demolishers, oder three Leman Russ Punishers",
+            "description": "Three Leman Russ, three Leman Russ Demolishers, or three Leman Russ Punishers",
             "points": "125 points"
           }
         ]
@@ -231,7 +231,7 @@
         "name": "Super-Heavy Tank",
         "options": [
           {
-            "description": "One Baneblade, Stormblade, Stormsword oder Shadowsword",
+            "description": "One Baneblade, Stormblade, Stormsword or Shadowsword",
             "points": "125 points"
           }
         ]

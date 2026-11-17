@@ -17,11 +17,11 @@
     {
       "from": "IG.json",
       "units": [
-        "Valhallan Oberbefehlshaber",
-        "Valhallan Befehlshaber",
+        "Valhallan Supreme Commander",
+        "Valhallan Commander",
         "Valhallan Infantry",
         "Fire Support Squad",
-        "Scharfschützes",
+        "Snipers",
         "Hydra",
         "Basilisk",
         "Manticore",
@@ -68,11 +68,11 @@
       "formations": [
         {
           "name": "Valhallan Regimental HQ",
-          "units": "One Valhallan Oberbefehlshaber with a Ministorum Priest, nine Valhallan Infantry",
+          "units": "One Valhallan Supreme Commander with a Ministorum Priest, nine Valhallan Infantry",
           "extraUnits": [
             "Valhallan Griffons",
             "Ogryns",
-            "Scharfschützes",
+            "Snipers",
             "Fire Support",
             "Flak",
             "Entrenchments"
@@ -81,11 +81,11 @@
         },
         {
           "name": "Valhallan Infantry Company",
-          "units": "One Valhallan Befehlshaber with a Ministorum Priest, nine Valhallan Infantry",
+          "units": "One Valhallan Commander with a Ministorum Priest, nine Valhallan Infantry",
           "extraUnits": [
             "Valhallan Griffons",
             "Ogryns",
-            "Scharfschützes",
+            "Snipers",
             "Fire Support",
             "Flak",
             "Entrenchments",
@@ -127,7 +127,7 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade, Stormlord oder Shadowsword",
+          "units": "One Baneblade, Stormlord or Shadowsword",
           "extraUnits": [
           ],
           "points": 200
@@ -157,7 +157,7 @@
     },
     {
       "name": "Adeptus Ministorum and Imperial Navy Allies",
-      "description": "Up to a fourth of the points available may be spent on Adeptus Ministorum, Tunnelgräbers and Imperial Navy Allies",
+      "description": "Up to a fourth of the points available may be spent on Adeptus Ministorum, Tunnelers and Imperial Navy Allies",
       "formations": [
         {
           "name": "Ministorum Mission",
@@ -222,16 +222,16 @@
         "name": "Fire Support",
         "options": [
           {
-            "description": "Add two oder four Fire Support Squads",
+            "description": "Add two or four Fire Support Squads",
             "points": "50 points for two, 100 points for four"
           }
         ]
       },
       {
-        "name": "Scharfschützes",
+        "name": "Snipers",
         "options": [
           {
-            "description": "Add up to two Scharfschützes",
+            "description": "Add up to two Snipers",
             "points": "25 points each"
           }
         ]

@@ -11,11 +11,11 @@
         "speed": "Fighter",
         "armour": 5,
         "weapons": [
-          "AC Zwillings Shuriken Cannon",
-          "AC Bright Lanze|2"
+          "AC Twin Shuriken Cannon",
+          "AC Bright Lance|2"
         ],
         "specialRules": [
-          "Verstärkte Panzerung"
+          "Reinforced Armour"
         ]
       },
       {
@@ -24,7 +24,7 @@
         "speed": "Fighter",
         "armour": 4,
         "weapons": [
-          "AC Bright Lanze|2|"
+          "AC Bright Lance|2|"
         ],
         "specialRules": [
         ]
@@ -35,12 +35,12 @@
         "speed": "Fighter-Bomber",
         "armour": 5,
         "weapons": [
-          "AC Zwillings Shuriken Cannon",
+          "AC Twin Shuriken Cannon",
           "AC Pulse Laser",
           "AC Spinner Array"
         ],
         "specialRules": [
-          "Verstärkte Panzerung"
+          "Reinforced Armour"
         ]
       },
       {
@@ -69,10 +69,10 @@
         "specialRules": [
           "Damage Capacity: 2",
           "Planetfall",
-          "Verstärkte Panzerung",
+          "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May carry up to eight of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Unterstützungswaffe Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Warp Spiders, Swooping Hawks. Wraithguards and Wraithblades take two spaces each.",
+        "notes": "May carry up to eight of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Support Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Warp Spiders, Swooping Hawks. Wraithguards and Wraithblades take two spaces each.",
         "crit": "The Vampire Raider and all units on board are destroyed."
       },
       {
@@ -81,13 +81,13 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Vampire Hunter Zwillings Pulsar",
-          "AC Zwillings Eldar Missile Launcher",
+          "AC Vampire Hunter Twin Pulsar",
+          "AC Twin Eldar Missile Launcher",
           "AC Scatter Laser"
         ],
         "specialRules": [
           "Damage Capacity: 2",
-          "Verstärkte Panzerung"
+          "Reinforced Armour"
         ],
         "crit": "The Vampire Hunter is destroyed."
       },
@@ -97,17 +97,17 @@
         "speed": "Bomber",
         "armour": 5,
         "weapons": [
-          "AC Vampire Hunter Zwillings Pulsar",
-          "AC Zwillings Phoenix Missile Launcher",
+          "AC Vampire Hunter Twin Pulsar",
+          "AC Twin Phoenix Missile Launcher",
           "AC Scatter Laser"
         ],
         "specialRules": [
           "Damage Capacity: 2",
-          "Verstärkte Panzerung",
+          "Reinforced Armour",
           "Holofield (5+)",
           "Transport"
         ],
-        "notes": "May carry four Ghost Geländegängigs, Wasp Geländegängigs.",
+        "notes": "May carry four Ghost Walkers, Wasp Walkers.",
         "crit": "The Corsair Vampire Hunter and all units on board are destroyed."
       },
       {
@@ -125,7 +125,7 @@
           "Pin Point|0-1|"
         ],
         "specialRules": [
-          "Is equipped with either Orbital Bombardment oder one Pin Point attack (may be chosen at the start of battle)"
+          "Is equipped with either Orbital Bombardment or one Pin Point attack (may be chosen at the start of battle)"
         ]
       },
       {
@@ -143,7 +143,7 @@
           "Pin Point|0-1 2|"
         ],
         "specialRules": [
-          "Is equipped with either Orbital Bombardment oder two Pin Point attacks (may be chosen at the start of battle)",
+          "Is equipped with either Orbital Bombardment or two Pin Point attacks (may be chosen at the start of battle)",
           "Transport"
         ],
         "notes": "May carry up to twelve Vampires and any units transported within them"

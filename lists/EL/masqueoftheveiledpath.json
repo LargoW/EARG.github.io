@@ -37,8 +37,8 @@
         "Howling Banshees",
         "Striking Scorpions",
         "Wraithreapers",
-        "Corsair Ghost Geländegängigs",
-        "Corsair Wasp Geländegängig",
+        "Corsair Ghost Walkers",
+        "Corsair Wasp Walker",
         "Venom",
         "Vyper",
         "Wave Serpent",
@@ -52,9 +52,9 @@
       ],
       "unitRules": [
           "Holofields (x)",
-          "Lanze",
-          "Schildbohrer",
-          "Schildbrecher"
+          "Lance",
+          "Shield Piercer",
+          "Shield Disruptor"
 
       ]
     },
@@ -99,7 +99,7 @@
         },
         {
           "name": "1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked oder damaged in any way. ",
+          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
           "extraUnits": [
             "Add an additional Wraithgate: 75 points"
           ],
@@ -135,14 +135,14 @@
       "formations": [
         {
           "name": "Corsair Scouts",
-          "units": "Four Ghost Geländegängigs",
+          "units": "Four Ghost Walkers",
           "extraUnits": [
-            "Replace four Ghost Geländegängigs with four Wasp Geländegängigs: Free"
+            "Replace four Ghost Walkers with four Wasp Walkers: Free"
           ],
           "points": 150
         },
         {
-          "name": "Beritten Aspect Warrior Troupe",
+          "name": "Mounted Aspect Warrior Troupe",
           "units": "Three Wave Serpents and six Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
           "extraUnits": [
             "Autarch",
@@ -274,7 +274,7 @@
     "items": [
       {
         "name": "0-1 Autarch",
-        "description": "Add an Eldar Autarch character to a Farseer oder Aspect Warriors unit",
+        "description": "Add an Eldar Autarch character to a Farseer or Aspect Warriors unit",
         "points": "75 points"
       },
       {
@@ -284,7 +284,7 @@
       },
       {
         "name": "Windriders",
-        "description": "Add up to three Vypers oder Eldar Jetbikes",
+        "description": "Add up to three Vypers or Eldar Jetbikes",
         "points": "25 points each"
       }
     ]

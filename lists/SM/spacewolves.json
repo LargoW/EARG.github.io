@@ -19,7 +19,7 @@
     {
       "from": "SM.json",
       "units": [
-        "Great Wolf Oberbefehlshaber",
+        "Great Wolf Supreme Commander",
         "Wolf Lord Captain",
         "Wolf Standard Bearer",
         "Blood Claw Assaults",
@@ -54,7 +54,7 @@
         "Drop Pod"
       ],
       "unitRules": [
-        "Erweiterte Befehlsreichweite"
+        "Extended Command"
       ]
     },
     {
@@ -63,7 +63,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Void Shields"
       ]
     }
   ],
@@ -80,7 +80,7 @@
             "Exterminators",
             "Fenrisian Wolves",
             "Heavy Transports",
-            "Oberbefehlshaber"
+            "Supreme Commander"
           ],
           "points": 275
         },
@@ -128,7 +128,7 @@
             "Exterminators",
             "Fenrisian Wolves",
             "Heavy Transports",
-            "Oberbefehlshaber"
+            "Supreme Commander"
           ],
           "points": 275
         },
@@ -137,7 +137,7 @@
           "units": "One Wolf Lord Captain, four Thunderwolf Cavalry",
           "extraUnits": [
             "Fenrisian Wolves",
-            "Oberbefehlshaber"
+            "Supreme Commander"
           ],
           "points": 275
         },
@@ -146,7 +146,7 @@
           "units": "One Wolf Lord Captain, four Wolf Guard Terminators plus transport",
           "extraUnits": [
             "Dreadnoughts",
-            "Oberbefehlshaber"
+            "Supreme Commander"
           ],
           "points": 375
         },
@@ -184,7 +184,7 @@
         },
         {
           "name": "Predators",
-          "units": "Four Predator Annihilators und/oder Predator Destructors",
+          "units": "Four Predator Annihilators and/or Predator Destructors",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -297,7 +297,7 @@
       },
       {
         "name": "Heavy Transports",
-        "description": "Add any number of Razorbacks oder Land Raiders, up to the number required to transport the formation",
+        "description": "Add any number of Razorbacks or Land Raiders, up to the number required to transport the formation",
         "options": [
           {
             "description": "Razorback",
@@ -320,8 +320,8 @@
         "points": "25 points"
       },
       {
-        "name": "0-1 Oberbefehlshaber",
-        "description": "Replace a Wolf Lord Captain with a Great Wolf Oberbefehlshaber",
+        "name": "0-1 Supreme Commander",
+        "description": "Replace a Wolf Lord Captain with a Great Wolf Supreme Commander",
         "points": "50 points"
       }
     ]

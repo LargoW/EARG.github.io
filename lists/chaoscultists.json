@@ -11,7 +11,7 @@
           "Daemon Weapon"
         ],
         "specialRules": [
-          "Oberbefehlshaber"
+          "Supreme Commander"
         ]
       },
       {
@@ -21,10 +21,10 @@
           "n/a"
         ],
         "specialRules": [
-          "Dämonischer Fokus",
-          "Verstärkte Beschwörung (+1)",
-          "Anführer",
-          "Unmodifizierter Rettungswurf"
+          "Daemonic Focus",
+          "Augment Summoning (+1)",
+          "Leader",
+          "Invulnerable Save"
         ]
       },
       {
@@ -39,8 +39,8 @@
           "Daemon Weapon"
         ],
         "specialRules": [
-          "Unmodifizierter Rettungswurf",
-          "Verstärkte Beschwörung (+2D3)"
+          "Invulnerable Save",
+          "Augment Summoning (+2D3)"
         ]
       },
       {
@@ -50,7 +50,7 @@
         ],
         "specialRules": [
           "Daemonic Pact",
-          "Verstärkte Beschwörung (+1)"
+          "Augment Summoning (+1)"
         ]
       },
       {
@@ -65,13 +65,13 @@
           "Daemon Weapon"
         ],
         "specialRules": [
-          "Befehlshaber",
-          "Anführer",
-          "Unmodifizierter Rettungswurf"
+          "Commander",
+          "Leader",
+          "Invulnerable Save"
         ]
       },
       {
-        "name": "Fallen Befehlshaber",
+        "name": "Fallen Commander",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -82,9 +82,9 @@
           "Daemon Weapon"
         ],
         "specialRules": [
-          "Befehlshaber",
-          "Anführer",
-          "Unmodifizierter Rettungswurf"
+          "Commander",
+          "Leader",
+          "Invulnerable Save"
         ]
       },
       {
@@ -99,12 +99,12 @@
           "Æther Blade"
         ],
         "specialRules": [
-          "Oberbefehlshaber",
-          "Verstärkte Panzerung",
+          "Supreme Commander",
+          "Reinforced Armour",
           "Jump Pack",
-          "Furchtlos",
-          "Dämonischer Fokus",
-          "Unmodifizierter Rettungswurf"
+          "Fearless",
+          "Daemonic Focus",
+          "Invulnerable Save"
         ]
       },
       {
@@ -145,8 +145,8 @@
           "Chainswords"
         ],
         "specialRules": [
-          "Beritten",
-          "Geländegängig"
+          "Mounted",
+          "Walker"
         ]
       },
       {
@@ -157,7 +157,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Heavy Maschinengewehr|2|",
+          "Heavy Stubber|2|",
           "Massive Melee Weapons"
         ],
         "specialRules": [
@@ -174,8 +174,8 @@
           "Horrific Mutations"
         ],
         "specialRules": [
-          "Furchtlos",
-          "Unmodifizierter Rettungswurf"
+          "Fearless",
+          "Invulnerable Save"
         ],
         "notes": "Counts as two units of INF for the purpose of being transported."
       },
@@ -191,8 +191,8 @@
           "Sorcerous Bolts"
         ],
         "specialRules": [
-          "Furchtlos",
-          "Sprungmodule"
+          "Fearless",
+          "Jump Packs"
         ]
       },
       {
@@ -202,10 +202,10 @@
         "armour": 6,
         "cc": 4,
         "weapons": [
-          "Klauen und Zähne"
+          "Claws and Fangs"
         ],
         "specialRules": [
-          "Entbehrlich"
+          "Expendable"
         ],
         "notes": "May not be transported."
       },
@@ -217,12 +217,12 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Heavy Maschinengewehr"
+          "Heavy Stubber"
         ],
         "specialRules": [
             "Transport"
         ],
-        "notes": "May transport two infantry units without Beritten oder Sprungmodule."
+        "notes": "May transport two infantry units without Mounted or Jump Packs."
       },
       {
         "name": "Technical",
@@ -232,7 +232,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Schweres Zwillings Maschinengewehr Turret"
+          "Twin Heavy Stubber Turret"
         ],
         "specialRules": [
         ]
@@ -248,13 +248,13 @@
           "Arcane Technology"
         ],
         "specialRules": [
-          "Schadenskapazität3",
-          "Verstärkte Panzerung",
-          "Unmodifizierter Rettungswurf",
-          "Furchtlos",
-          "Inspirierend",
-          "Dämonischer Fokus",
-          "Augmented Summoning (+W3)"
+          "Damage Capacity 3",
+          "Reinforced Armour",
+          "Invulnerable Save",
+          "Fearless",
+          "Inspiring",
+          "Daemonic Focus",
+          "Augmented Summoning (+D3)"
         ],
         "crit": "The Chaos Altar is destroyed. All units within 5cm suffers a MW hit on 6+."
       },
@@ -269,19 +269,19 @@
             "Arcane Technology"
         ],
         "specialRules": [
-            "Schadenskapazität3",
-            "Verstärkte Panzerung",
-            "Unmodifizierter Rettungswurf",
-            "Furchtlos",
-            "Inspirierend",
-            "Dämonischer Fokus",
-            "Augmented Summoning (+W3)",
+            "Damage Capacity 3",
+            "Reinforced Armour",
+            "Invulnerable Save",
+            "Fearless",
+            "Inspiring",
+            "Daemonic Focus",
+            "Augmented Summoning (+D3)",
           "Chaos Gate"
         ],
         "crit": "The Warp Altar is destroyed. All Daemon Legion units within 5cm are destroyed, all other units within 5cm suffers a MW hit on 6+."
       },
       {
-        "name": "PoxGeländegängigs of Nurgle",
+        "name": "Poxwalkers of Nurgle",
         "type": "INF",
         "speed": 10,
         "cc": 6,
@@ -290,7 +290,7 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Infiltratorens",
+          "Infiltrators",
           "Infestation"
         ]
       },
@@ -319,9 +319,9 @@
           "Divining Spear"
         ],
         "specialRules": [
-          "Beritten",
-          "Sprungmodule",
-          "Unmodifizierter Rettungswurf"
+          "Mounted",
+          "Jump Packs",
+          "Invulnerable Save"
         ]
       },
       {
@@ -336,11 +336,11 @@
           "Mælstrom of Madness"
         ],
         "specialRules": [
-          "Furchtlos",
-          "Geländegängig",
-          "Verstärkte Panzerung",
+          "Fearless",
+          "Walker",
+          "Reinforced Armour",
           "Regeneration",
-          "Verstärkte Beschwörung (+2D3)"
+          "Augment Summoning (+2D3)"
         ]
       }
     ]

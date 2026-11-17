@@ -15,9 +15,9 @@
           "Staff of Radiance"
         ],
         "specialRules": [
-          "Oberbefehlshaber",
-          "Furchtlos",
-          "Inspirierend",
+          "Supreme Commander",
+          "Fearless",
+          "Inspiring",
           "Regeneration",
           "Enduring"
         ]
@@ -33,12 +33,12 @@
           "Staff of Radiance"
         ],
         "specialRules": [
-          "Oberbefehlshaber",
-          "Furchtlos",
-          "Inspirierend",
+          "Supreme Commander",
+          "Fearless",
+          "Inspiring",
           "Regeneration",
-          "Beritten",
-          "Antigrav",
+          "Mounted",
+          "Skimmer",
           "Enduring"
         ]
       },
@@ -53,8 +53,8 @@
           "Staff of Light"
         ],
         "specialRules": [
-          "Anführer",
-          "Befehlshaber",
+          "Leader",
+          "Commander",
           "Regeneration"
         ]
       },
@@ -69,11 +69,11 @@
           "Staff of Light"
         ],
         "specialRules": [
-          "Anführer",
-          "Befehlshaber",
+          "Leader",
+          "Commander",
           "Regeneration",
-          "Beritten",
-          "Antigrav"
+          "Mounted",
+          "Skimmer"
         ]
       },
       {
@@ -87,8 +87,8 @@
           "Gauss Flayers"
         ],
         "specialRules": [
-          "Maschinengeist",
-          "Entbehrlich",
+          "Machine Spirit",
+          "Expendable",
           "Regeneration"
         ]
       },
@@ -102,7 +102,7 @@
           "Claws"
         ],
         "specialRules": [
-          "Infiltratorens",
+          "Infiltrators",
           "Regeneration",
           "Teleport"
         ],
@@ -147,10 +147,10 @@
           "Tomb Spyder Claws"
         ],
         "specialRules": [
-          "Furchtlos",
+          "Fearless",
           "Regeneration",
-          "Anführer",
-          "Infiltratorens"
+          "Leader",
+          "Infiltrators"
         ]
       },
       {
@@ -162,10 +162,10 @@
           "Swarm Attack"
         ],
         "specialRules": [
-          "Furchtlos",
-          "Maschinengeist",
-          "Entbehrlich",
-          "Infiltratorens",
+          "Fearless",
+          "Machine Spirit",
+          "Expendable",
+          "Infiltrators",
           "Regeneration"
         ]
       },
@@ -179,12 +179,12 @@
           "Wraith Claws"
         ],
         "specialRules": [
-          "Furchtlos",
-          "Maschinengeist",
-          "Entbehrlich",
-          "Aufklärer",
+          "Fearless",
+          "Machine Spirit",
+          "Expendable",
+          "Scout",
           "Regeneration",
-          "Infiltratorens"
+          "Infiltrators"
         ]
       },
       {
@@ -198,9 +198,9 @@
           "Gauss Cannons"
         ],
         "specialRules": [
-          "Beritten",
+          "Mounted",
           "Regeneration",
-          "Antigrav"
+          "Skimmer"
         ]
       },
       {
@@ -214,9 +214,9 @@
           "Heavy Gauss Cannons"
         ],
         "specialRules": [
-          "Beritten",
+          "Mounted",
           "Regeneration",
-          "Antigrav"
+          "Skimmer"
         ]
       },
       {
@@ -231,7 +231,7 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Aufklärer",
+          "Scout",
           "Teleport"
         ]
       },
@@ -243,12 +243,12 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Zwillings Tesla Carbine"
+          "Twin Tesla Carbine"
         ],
         "specialRules": [
           "Regeneration",
-          "Beritten",
-          "Antigrav"
+          "Mounted",
+          "Skimmer"
         ]
       },
       {
@@ -262,9 +262,9 @@
           "Rods of Covenant"
         ],
         "specialRules": [
-          "Furchtlos",
+          "Fearless",
           "Regeneration",
-          "Sprungmodule"
+          "Jump Packs"
         ]
       },
       {
@@ -279,10 +279,10 @@
           "Gauss Flux Arc"
         ],
         "specialRules": [
-          "Furchtlos",
+          "Fearless",
           "Living Metal",
           "Portal",
-          "Antigrav",
+          "Skimmer",
           "Teleport"
         ]
       },
@@ -298,9 +298,9 @@
           "Gravity Pulse"
         ],
         "specialRules": [
-          "Furchtlos",
+          "Fearless",
           "Living Metal",
-          "Antigrav",
+          "Skimmer",
           "Teleport"
         ]
       },
@@ -315,8 +315,8 @@
           "Gauss Flayers Array"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Antigrav",
+          "Reinforced Armour",
+          "Skimmer",
           "Enduring"
         ],
         "notes": "Transport: 2 Infantry Units"
@@ -329,12 +329,12 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Zwillings Tesla Destructor",
+          "Twin Tesla Destructor",
           "Tesla Cannon"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Antigrav",
+          "Reinforced Armour",
+          "Skimmer",
           "Enduring"
         ]
       },
@@ -349,11 +349,11 @@
           "Gauss Cannons"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Antigrav",
+          "Reinforced Armour",
+          "Skimmer",
           "Enduring",
-          "Befehlshaber",
-          "Anführer"
+          "Commander",
+          "Leader"
         ]
       },
       {
@@ -368,8 +368,8 @@
           "Gauss Flayers Array"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Antigrav",
+          "Reinforced Armour",
+          "Skimmer",
           "Enduring"
         ]
       },
@@ -385,8 +385,8 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Geländegängig",
-          "Infiltratorens"
+          "Walker",
+          "Infiltrators"
         ]
       },
       {
@@ -401,12 +401,12 @@
           "Titanic Forelimbs"
         ],
         "specialRules": [
-          "Furchtlos",
-          "Maschinengeist",
-          "Entbehrlich",
+          "Fearless",
+          "Machine Spirit",
+          "Expendable",
           "Regeneration",
-          "Geländegängig",
-          "Infiltratorens"
+          "Walker",
+          "Infiltrators"
         ]
       },
       {
@@ -420,8 +420,8 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Furchtlos",
-          "Maschinengeist",
+          "Fearless",
+          "Machine Spirit",
           "Teleport"
         ]
       },
@@ -438,10 +438,10 @@
           "Pyreshards"
         ],
         "specialRules": [
-          "Geländegängig",
-          "Anführer",
-          "Befehlshaber",
-          "Inspirierend",
+          "Walker",
+          "Leader",
+          "Commander",
+          "Inspiring",
           "Regeneration"
         ],
         "notes": "If the C’tan Shard becomes broken it is immediately destroyed, but does not cause additional Blast Markers."
@@ -457,9 +457,9 @@
           "Gauss Flux Arc"
         ],
         "specialRules": [
-          "Schadenskapazität2",
-          "Furchtlos",
-          "Maschinengeist",
+          "Damage Capacity 2",
+          "Fearless",
+          "Machine Spirit",
           "Living Metal",
           "Teleport",
           "Enduring"
@@ -478,16 +478,16 @@
           "Gauss Flux Arc"
         ],
         "specialRules": [
-          "Schadenskapazität4",
-          "Furchtlos",
+          "Damage Capacity 4",
+          "Fearless",
           "Portal",
           "Living Metal",
-          "Antigrav",
+          "Skimmer",
           "Teleport",
           "Transport",
           "Enduring"
         ],
-        "notes": "May transport up to two Monoliths oder Obelisks",
+        "notes": "May transport up to two Monoliths or Obelisks",
         "crit": "The Megalith's Portal is destroyed. Subsequent critical hits cause one additional damage."
       },
       {
@@ -500,10 +500,10 @@
           "Star Cage"
         ],
         "specialRules": [
-          "Schadenskapazität6",
-          "Furchtlos",
+          "Damage Capacity 6",
+          "Fearless",
           "Living Metal",
-          "Hilfstransportschiff",
+          "Support Craft",
           "Enduring"
         ],
         "crit": "The Æonic Orb is destroyed. All units within 5cm suffer a hit."
@@ -520,11 +520,11 @@
           "Harvester Tendrils"
         ],
         "specialRules": [
-          "Schadenskapazität6",
-          "Furchtlos",
+          "Damage Capacity 6",
+          "Fearless",
           "Living Metal",
           "Portal",
-          "Antigrav",
+          "Skimmer",
           "Enduring"
         ],
         "crit": "The Abattoir's Portal is destroyed. Subsequent critical hits cause one additional damage."

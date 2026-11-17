@@ -36,8 +36,8 @@
         "Chaos Dreadnought"
       ],
       "unitRules": [
-          "Verstärkte Beschwörung (+x)",
-          "Dämonischer Fokus",
+          "Augment Summoning (+x)",
+          "Daemonic Focus",
           "Heralds of Truth"
       ]
     },
@@ -77,8 +77,8 @@
         "Plaguebearers of Nurgle",
         "Bloodletters of Khorne",
         "Horrors of Tzeentch",
-        "Hüter der Geheimnisse",
-        "Großer Verpester",
+        "Keeper of Secrets",
+        "Great Unclean One",
         "Bloodthirster",
         "Lord of Change",
         "Daemonic Beasts of Chaos Undivided"
@@ -107,7 +107,7 @@
           "name": "Word Bearers Retinue",
           "units": "One Word Bearer Coryphaus, six Chaos Space Marines, Daemonic Pact",
           "extraUnits": [
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Icon Bearer",
             "Transport",
             "Havocs",
@@ -162,7 +162,7 @@
           "name": "Armoured Company",
           "units": "Four Chaos Predators",
           "extraUnits": [
-            "Replace four Chaos Predators with four Chaos Vindicators (Free), oder four Chaos Land Raiders (75 points)",
+            "Replace four Chaos Predators with four Chaos Vindicators (Free), or four Chaos Land Raiders (75 points)",
             "Stalker"
           ],
           "points": 200
@@ -173,7 +173,7 @@
           "extraUnits": [
             "Replace one Chaos Terminators unit with two Daemonkin: Free",
             "Replace three Chaos Land Raiders with three Chaos Dreadnoughts: Free",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Icon Bearer",
             "Stalker",
             "Predators"
@@ -288,7 +288,7 @@
         "points": "50 points"
       },
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0-1 Supreme Commander",
         "options": [
           {
             "description": "Choose one of the following:"

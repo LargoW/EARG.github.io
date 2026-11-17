@@ -36,15 +36,15 @@
         "Death Guard Stalker"
       ],
       "unitRules": [
-      "Verstärkte Beschwörung (+x)",
-      "Dämonischer Fokus",
+      "Augment Summoning (+x)",
+      "Daemonic Focus",
         "Heavy Armoured Vehicle (H-AV)"
       ]
     },
     {
       "from": "chaoscultists.json",
       "units": [
-        "PoxGeländegängigs of Nurgle"
+        "Poxwalkers of Nurgle"
       ],
       "unitRules": [
         "Infestation"
@@ -70,7 +70,7 @@
         "Plaguebearers of Nurgle",
         "Beasts of Nurgle",
         "Plague Drones of Nurgle",
-        "Großer Verpester"
+        "Great Unclean One"
       ],
       "unitRules": [
       ]
@@ -82,7 +82,7 @@
         "Repugnant Titan"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Void Shields"
       ]
     },
     {
@@ -102,9 +102,9 @@
       "formations": [
         {
           "name": "Death Guard Retinue",
-          "units": "One Chaos Lord oder Sorcerer Lord, four Plague Marines, three Chaos Space Marines, Daemonic Pact",
+          "units": "One Chaos Lord or Sorcerer Lord, four Plague Marines, three Chaos Space Marines, Daemonic Pact",
           "extraUnits": [
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Retinue Transport",
             "Champion",
             "Stalker",
@@ -117,9 +117,9 @@
         },
         {
           "name": "Death Guard Terminators",
-          "units": "One Chaos Lord oder Sorcerer Lord, four Blightlord Terminators, Daemonic Pact",
+          "units": "One Chaos Lord or Sorcerer Lord, four Blightlord Terminators, Daemonic Pact",
           "extraUnits": [
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Terminator Transport",
             "Champion",
             "Icon Bearer",
@@ -136,7 +136,7 @@
       "formations": [
         {
           "name": "Havocs",
-          "units": "One Chaos Lord oder Sorcerer Lord, four Havocs, Daemonic Pact",
+          "units": "One Chaos Lord or Sorcerer Lord, four Havocs, Daemonic Pact",
           "extraUnits": [
             "Havoc Transport",
             "Dreadnoughts",
@@ -163,8 +163,8 @@
       "description": "Up to two Support Formations may be taken per Core Formation.",
       "formations": [
         {
-          "name": "PoxGeländegängig Infestation",
-          "units": "Seven PoxGeländegängigs",
+          "name": "Poxwalker Infestation",
+          "units": "Seven Poxwalkers",
           "points": 125
         },
         {
@@ -254,7 +254,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0-1 Supreme Commander",
         "description": "Choose one of the following:",
         "options": [
           {

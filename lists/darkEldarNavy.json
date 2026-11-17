@@ -10,7 +10,7 @@
         "speed": "Fighter",
         "armour": 4,
         "weapons": [
-          "AC Dark Lanze|2|",
+          "AC Dark Lance|2|",
           "AC Monoscythe Missiles",
           "AC Splinter Cannon"
         ],
@@ -23,8 +23,8 @@
         "speed": "Fighter-Bomber",
         "armour": 4,
         "weapons": [
-          "AC Zwillings Void Lanze",
-          "AC Zwillings Splinter Cannon",
+          "AC Twin Void Lance",
+          "AC Twin Splinter Cannon",
           "AC Void Mines"
         ],
         "specialRules": [
@@ -38,16 +38,16 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "AC Zwillings Dark Lanze|2|",
+          "AC Twin Dark Lance|2|",
           "AC Turreted Splinter Cannon"
         ],
         "specialRules": [
-          "Schadenskapazität2",
-          "Schattenfelder1",
+          "Damage Capacity 2",
+          "Shadowfields 1",
           "Planetfall",
           "Transport"
         ],
-        "notes": "May carry up to eight infantry units without Beritten. Grotesques counts as two units each.",
+        "notes": "May carry up to eight infantry units without Mounted. Grotesques counts as two units each.",
         "crit": "The Slavebringer and all units on board are destroyed."
       },
       {
@@ -67,7 +67,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry up to two Executioner Landing Modules and two Slavebringer Assault Boats, oder up to six Slavebringer Assault Boats, plus the troops carried in them."
+        "notes": "May carry up to two Executioner Landing Modules and two Slavebringer Assault Boats, or up to six Slavebringer Assault Boats, plus the troops carried in them."
       }
     ]
   }

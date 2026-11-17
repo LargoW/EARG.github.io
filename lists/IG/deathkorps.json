@@ -14,8 +14,8 @@
     {
       "from": "IG.json",
       "units": [
-        "DKoK Oberbefehlshaber",
-        "DKoK Befehlshaber",
+        "DKoK Supreme Commander",
+        "DKoK Commander",
         "Commissar",
         "Assault Infantry",
         "Siege Infantry",
@@ -23,7 +23,7 @@
         "Grenadiers",
         "Thudd Gun",
         "Rapier",
-        "Scharfschützes",
+        "Snipers",
         "Armoured Sentinel",
         "Medusa Gun",
         "Earthshaker Gun",
@@ -46,7 +46,7 @@
       ],
       "unitRules": [
         "Heavy Armoured Vehicle (H-AV)",
-        "Schildbrecher"
+        "Shield Disruptor"
       ]
     },
     {
@@ -55,7 +55,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Void Shields"
       ]
     },
     {
@@ -76,7 +76,7 @@
       "formations": [
         {
           "name": "0-1 Death Korps Regimental HQ",
-          "units": "One DKoK Oberbefehlshaber with a Commissar, nine Assault Infantry, one Gorgon",
+          "units": "One DKoK Supreme Commander with a Commissar, nine Assault Infantry, one Gorgon",
           "extraUnits": [
             "Add ten Assault Infantry and one Gorgon: 250 points",
             "Leman Russ",
@@ -86,7 +86,7 @@
         },
         {
           "name": "Assault Company",
-          "units": "One DKoK Befehlshaber with a Commissar, nine Assault Infantry, one Gorgon",
+          "units": "One DKoK Commander with a Commissar, nine Assault Infantry, one Gorgon",
           "extraUnits": [
             "Leman Russ",
             "Bane Wolves"
@@ -109,7 +109,7 @@
       "formations": [
         {
           "name": "Leman Russ Squadron",
-          "units": "Four Leman Russ, Leman Russ Thunderers, oder Leman Russ Annihilators",
+          "units": "Four Leman Russ, Leman Russ Thunderers, or Leman Russ Annihilators",
           "extraUnits": [
             "Bane Wolves"
           ],
@@ -117,10 +117,10 @@
         },
         {
           "name": "Siege Infantry Company",
-          "units": "DKoK Befehlshaber with Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
+          "units": "DKoK Commander with Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
           "extraUnits": [
-            "Add four Rapiers and 16cm Trenches, oder three Thudd Guns and 12cm Trenches: 75 points",
-            "Add up to two Scharfschützes: 25 points each"
+            "Add four Rapiers and 16cm Trenches, or three Thudd Guns and 12cm Trenches: 75 points",
+            "Add up to two Snipers: 25 points each"
           ],
           "points": 225
         },
@@ -164,7 +164,7 @@
         },
         {
           "name": "Super-Heavy Platoon",
-          "units": "One Baneblade oder Stormsword",
+          "units": "One Baneblade or Stormsword",
           "extraUnits": [
               "Replace a Baneblade with a Shadowsword: 25 points"
           ],
@@ -179,7 +179,7 @@
         },
         {
           "name": "Grenadier Company",
-          "units": "One DKoK Befehlshaber with a Commissar, seven Grenadiers, four Storm Chimeras",
+          "units": "One DKoK Commander with a Commissar, seven Grenadiers, four Storm Chimeras",
           "extraUnits": [
             "Replace four Storm Chimeras with a Gorgon: Free",
             "Bane Wolf"
@@ -239,7 +239,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Add three Leman Russ, three Leman Russ Thunderers, oder three Leman Russ Annihilators",
+        "description": "Add three Leman Russ, three Leman Russ Thunderers, or three Leman Russ Annihilators",
         "points": "150 points"
       }
     ]

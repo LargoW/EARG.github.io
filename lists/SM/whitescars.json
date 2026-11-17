@@ -4,7 +4,7 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_WhiteScars",
-  "intro": "The following army list allows you to field an army based on the White Scars Space Marine chapter oder any of its successor chapters. The White Scars practice a highly mobile method of warfare, tearing into their enemies with lightning-quick attacks and vanishing before a response can be made.",
+  "intro": "The following army list allows you to field an army based on the White Scars Space Marine chapter or any of its successor chapters. The White Scars practice a highly mobile method of warfare, tearing into their enemies with lightning-quick attacks and vanishing before a response can be made.",
   "strategy": "Space Marine armies have a Strategy Rating of 5.",
   "Initiative": "All formations have an Initiative Rating of 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all White Scars detachments and Aircraft formations.",
@@ -18,7 +18,7 @@
       "units": [
         "Chaplain",
         "Librarian",
-        "Oberbefehlshaber",
+        "Supreme Commander",
         "Assaults",
         "Tacticals",
         "Terminators",
@@ -56,7 +56,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Void Shields"
       ]
     }
   ],
@@ -69,7 +69,7 @@
           "units": "Eight White Scars Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
-            "Befehlshaber"
+            "Commander"
           ],
           "points": 325
         },
@@ -78,7 +78,7 @@
           "units": "Six Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Befehlshaber",
+            "Commander",
             "Razorbacks",
             "Vindicators"
           ],
@@ -90,7 +90,7 @@
           "extraUnits": [
             "Replace up to two Land Raider Crusaders with two Land Raiders each: 50 points each",
             "Anti-Air",
-            "Befehlshaber",
+            "Commander",
             "Vindicators"
           ],
           "points": 425
@@ -105,7 +105,7 @@
           "name": "Assaults",
           "units": "Four Assaults",
           "extraUnits": [
-            "Befehlshaber",
+            "Commander",
             "Vindicators"
           ],
           "points": 175
@@ -204,7 +204,7 @@
       },
       {
         "name": "Attack Bikes",
-        "description": "Replace up to three White Scars Assault Bikes, oder one White Scars Scout Bikes, with an equal number of White Scars Attack oder Melta Bikes",
+        "description": "Replace up to three White Scars Assault Bikes, or one White Scars Scout Bikes, with an equal number of White Scars Attack or Melta Bikes",
         "points": "Free"
       },
       {
@@ -213,7 +213,7 @@
         "points": "75 points"
       },
       {
-        "name": "Befehlshaber",
+        "name": "Commander",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {
@@ -229,14 +229,14 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Oberbefehlshaber",
+            "description": "0–1 Supreme Commander",
             "points": "75 points"
           }
         ]
       },
       {
         "name": "Land Speeder Variants",
-        "description": "Replace any number of White Scars Land Speeders with an equal number of White Scars Land Speeder Typhoons oder White Scars Land Speeder Tempest",
+        "description": "Replace any number of White Scars Land Speeders with an equal number of White Scars Land Speeder Typhoons or White Scars Land Speeder Tempest",
         "points": "10 points each"
       },
       {

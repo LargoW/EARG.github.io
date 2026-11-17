@@ -10,7 +10,7 @@
         "speed": "Fighter-Bomber",
         "armour": 6,
         "weapons": [
-          "AC Zwillings Laserkanone||FxF",
+          "AC Twin Lascannon||FxF",
           "AC Underwing Rockets||FxF"
         ],
         "specialRules": [
@@ -22,7 +22,7 @@
         "speed": "Fighter",
         "armour": 6,
         "weapons": [
-          "AC Zwillings Laserkanone||FxF",
+          "AC Twin Lascannon||FxF",
           "AC Autocannon"
         ],
         "specialRules": [
@@ -48,8 +48,8 @@
         "armour": 5,
         "weapons": [
           "AC Avenger Bolt Cannon||FxF",
-          "AC Zwillings Laserkanone||FxF",
-          "AC Heavy Maschinengewehr Turret"
+          "AC Twin Lascannon||FxF",
+          "AC Heavy Stubber Turret"
         ],
         "specialRules": [
         ]
@@ -60,9 +60,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Zwillings Laserkanone||FxF",
+          "AC Twin Lascannon||FxF",
           "AC Bomb Racks||FxF",
-          "AC Schweres Zwillings Bolter Turret|2|"
+          "AC Twin Heavy Bolter Turret|2|"
         ],
         "specialRules": [
         ]
@@ -73,10 +73,10 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Zwillings Autocannon|3|FxF",
+          "AC Twin Autocannon|3|FxF",
           "AC Missile Array||FxF",
-          "AC Zwillings Assault Cannon Turret||",
-          "AC Schweres Zwillings Bolter Turret||"
+          "AC Twin Assault Cannon Turret||",
+          "AC Twin Heavy Bolter Turret||"
         ],
         "specialRules": [
         ]
@@ -87,9 +87,9 @@
         "speed": "Bomber",
         "armour": 4,
         "weapons": [
-          "AC Zwillings Laserkanone||FxF",
+          "AC Twin Lascannon||FxF",
           "AC Colossus Bomb||FxF",
-          "AC Schweres Zwillings Bolter Turret|2|"
+          "AC Twin Heavy Bolter Turret|2|"
         ],
         "specialRules": [
         ]

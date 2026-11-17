@@ -21,7 +21,7 @@
       "units": [
         "Arch-Heretic",
         "Daemonic Icon",
-        "Fallen Befehlshaber",
+        "Fallen Commander",
         "Daemon Prince",
         "Mutants",
         "Chaos Spawn",
@@ -29,8 +29,8 @@
         "Land Transporter"
       ],
       "unitRules": [
-        "Verstärkte Beschwörung (+x)",
-        "Dämonischer Fokus"
+        "Augment Summoning (+x)",
+        "Daemonic Focus"
       ]
     },
     {
@@ -90,7 +90,7 @@
       ],
       "unitRules": [
         "Regeneration",
-        "Null Schilde",
+        "Void Shields",
         "Daemon Engine (x)",
         "Heavy Armoured Vehicle (H-AV)"
       ]
@@ -111,7 +111,7 @@
       "formations": [
         {
           "name": "Traitor Guard",
-          "units": "One Fallen Befehlshaber, nine units of Infantry",
+          "units": "One Fallen Commander, nine units of Infantry",
           "extraUnits": [
             "All"
           ],
@@ -177,7 +177,7 @@
     },
     {
       "name": "Slaves to Darkness Chaos Allies",
-      "description": "Up to a third of the points available may be spent on Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations in the army.",
+      "description": "Up to a third of the points available may be spent on Slaves to Darkness Chaos Allies. May not mix Nurgle/Tzeentch or Slaanesh/Khorne formations in the army.",
       "formations": [
         {
           "name": "Hell Blade Squadron",
@@ -258,7 +258,7 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points. Add one point to the Lesser Daemon pool for each Daemonic Icon oder Daemonic Pact in the army.",
+      "description": "Any amount may be spent on Daemon Pool points. Add one point to the Lesser Daemon pool for each Daemonic Icon or Daemonic Pact in the army.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
@@ -276,7 +276,7 @@
         "name": "Daemonic Icon",
         "options": [
           {
-            "description": "Add one Daemonic Icon to a Fallen Befehlshaber oder Daemon Prince",
+            "description": "Add one Daemonic Icon to a Fallen Commander or Daemon Prince",
             "points": "25 points"
           },
           {
@@ -286,15 +286,15 @@
         ]
       },
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0-1 Supreme Commander",
         "description": "Choose one of the following:",
         "options": [
           {
-            "description": "Add an Arch-Heretic to a Fallen Befehlshaber",
+            "description": "Add an Arch-Heretic to a Fallen Commander",
             "points": "50 points"
           },
           {
-            "description": "Upgrade the Fallen Befehlshaber to a Daemon Prince",
+            "description": "Upgrade the Fallen Commander to a Daemon Prince",
             "points": "100 points"
           }
         ]
@@ -326,7 +326,7 @@
       },
       {
         "name": "Leman Russ",
-        "description": "Add one oder three Leman Russ, Leman Russ Demolishers oder Leman Russ Thunderers",
+        "description": "Add one or three Leman Russ, Leman Russ Demolishers or Leman Russ Thunderers",
         "options": [
           {
             "description": "One Leman Russ variant",

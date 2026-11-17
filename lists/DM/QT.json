@@ -43,13 +43,13 @@
         "The Kaban Machine"
       ],
       "unitRules": [
-         "Dämonischer Fokus",
+         "Daemonic Focus",
         "Daemon Engine (x)",
         "Heavy Armoured Vehicle (H-AV)",
-        "Null Schilde",
-        "Schildbohrer",
-        "Schildbrecher",
-        "Lanze"
+        "Void Shields",
+        "Shield Piercer",
+        "Shield Disruptor",
+        "Lance"
       ]
     },
     {
@@ -70,7 +70,7 @@
         "Chaos Warbringer"
       ],
       "unitRules": [
-        "Null Schilde"
+        "Void Shields"
       ]
     },
     {
@@ -93,7 +93,7 @@
           "units": "One Hellwright, eleven Chaos Squats",
           "extraUnits": [
             "Replace four Chaos Squats with four Phospexors: 25 points",
-            "Add two Krios Lightning, two Krios Venators, oder one Ordinatus Hereticus: 125 points",
+            "Add two Krios Lightning, two Krios Venators, or one Ordinatus Hereticus: 125 points",
             "Arch-Heretek",
             "The Kaban Machine",
             "Hell-Forge Transport"
@@ -104,7 +104,7 @@
     },
     {
       "name": "Daemonic Banner Formations",
-      "description": "Up to three for each Hell-Forge Core formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations.",
+      "description": "Up to three for each Hell-Forge Core formation. Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations.",
       "formations": [
         {
           "name": "Hell-Knights of Slaanesh",
@@ -172,9 +172,9 @@
         },
         {
           "name": "Armigers of Chaos Undivided",
-          "units": "Daemonic Pact, four Knight-Doomglaives oder four Knight-Perfidors",
+          "units": "Daemonic Pact, four Knight-Doomglaives or four Knight-Perfidors",
           "extraUnits": [
-            "Add an additional Knight-Doomglaive oder Knight-Perfidor (formation may not mix configurations): 50 points"
+            "Add an additional Knight-Doomglaive or Knight-Perfidor (formation may not mix configurations): 50 points"
           ],
           "points": 250
         }
@@ -195,7 +195,7 @@
           "name": "Ordinatus Hereticus",
           "units": "Two Ordinatus Hereticus",
           "extraUnits": [
-            "Upgrade one Battle Weapon in the formation to a Unterstützungswaffe: 25 points",
+            "Upgrade one Battle Weapon in the formation to a Support Weapon: 25 points",
             "The Kaban Machine"
           ],
           "points": 325
@@ -204,8 +204,8 @@
           "name": "0-1 Ordinatus Hereticus Majoris",
           "units": "One Ordinatus Retlaxi",
           "extraUnits": [
-            "Upgrade the Ordinatus Retlaxi to an Ordinatus Temporia (25 points) oder Ordinatus Cyclothrathe (50 points)",
-            "Oberbefehlshaber"
+            "Upgrade the Ordinatus Retlaxi to an Ordinatus Temporia (25 points) or Ordinatus Cyclothrathe (50 points)",
+            "Supreme Commander"
           ],
           "points": 425
         },
@@ -250,8 +250,8 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "(0-1 per army) Oberbefehlshaber",
-        "description": "Add an Arch-Heretek to a Hellwright unit oder an Ordinatus Hereticus Majoris",
+        "name": "(0-1 per army) Supreme Commander",
+        "description": "Add an Arch-Heretek to a Hellwright unit or an Ordinatus Hereticus Majoris",
         "points": "100 points"
       },
       {

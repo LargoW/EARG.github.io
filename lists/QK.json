@@ -11,9 +11,9 @@
           "n/a"
         ],
         "specialRules": [
-          "Oberbefehlshaber",
-          "Inspirierend",
-          "Furchtlos"
+          "Supreme Commander",
+          "Inspiring",
+          "Fearless"
         ]
       },
       {
@@ -23,15 +23,15 @@
           "n/a"
         ],
         "specialRules": [
-          "Befehlshaber",
-          "Anführer"
+          "Commander",
+          "Leader"
         ]
       },
       {
-        "name": "Zwillings Icarus Autocannon",
+        "name": "Twin Icarus Autocannon",
         "type": "CH",
         "weapons": [
-          "Zwillings Icarus Autocannon"
+          "Twin Icarus Autocannon"
         ],
         "specialRules": [
         ]
@@ -57,10 +57,10 @@
           "Reaper Chain-Cleaver"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Geländegängig",
-          "Aufklärer",
-          "Ionen Schild (4+)"
+          "Stubborn",
+          "Walker",
+          "Scout",
+          "Ion Shield (4+)"
         ]
       },
       {
@@ -71,13 +71,13 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Zwillings Autocannon"
+          "Twin Autocannon"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Geländegängig",
-          "Aufklärer",
-          "Ionen Schild (4+)"
+          "Stubborn",
+          "Walker",
+          "Scout",
+          "Ion Shield (4+)"
         ]
       },
       {
@@ -93,13 +93,13 @@
           "Gyges Siege Claw|0-1|"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Geländegängig",
-          "Aufklärer",
-          "Ionen Schild (4+)",
+          "Stubborn",
+          "Walker",
+          "Scout",
+          "Ion Shield (4+)",
           "Ionic Flare Shield"
         ],
-        "notes": "Must be armed with either Lightning Locks, oder Volkite Veuglaire and Gyges Siege Claw"
+        "notes": "Must be armed with either Lightning Locks, or Volkite Veuglaire and Gyges Siege Claw"
       },
       {
         "name": "Questoris Knight-Paladin",
@@ -113,11 +113,11 @@
           "Reaper Chainsword"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -132,11 +132,11 @@
           "Reaper Chainsword"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -151,11 +151,11 @@
           "Avenger Gatling Cannon"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -166,16 +166,16 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Zwillings Icarus Autocannon",
+          "Twin Icarus Autocannon",
           "Thunderstrike Gauntlet",
           "Reaper Chainsword"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -191,11 +191,11 @@
           "Reaper Chainsword"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -210,11 +210,11 @@
           "Thunderstrike Gauntlet"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -236,12 +236,12 @@
           "Las Impulsor"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Furchtlos",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Fearless",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -253,16 +253,16 @@
         "ff": 4,
         "weapons": [
           "Volkite Chierovile",
-          "Zwillings Rad Cleanser",
+          "Twin Rad Cleanser",
           "Graviton Crusher",
           "Hekaton Siege Claw"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)",
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Ion Shield (3+)",
           "Ionic Flare Shield"
         ]
       },
@@ -275,15 +275,15 @@
         "ff": 4,
         "weapons": [
           "Lightning Cannon",
-          "Zwillings Phased Plasma Fusil",
+          "Twin Phased Plasma Fusil",
           "Reaper Chainsword"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)",
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Ion Shield (3+)",
           "Ionic Flare Shield"
         ]
       },
@@ -296,15 +296,15 @@
         "ff": 3,
         "weapons": [
           "Shieldbreaker Missiles|4|",
-          "Volcano Lanze||FwA",
-          "Zwillings Siegebreaker Cannon||",
+          "Volcano Lance||FwA",
+          "Twin Siegebreaker Cannon||",
           "Plasma Decimator||FwA"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -316,15 +316,15 @@
         "ff": 3,
         "weapons": [
           "Shieldbreaker Missiles|2|",
-          "Zwillings Siegebreaker Cannon|2|",
+          "Twin Siegebreaker Cannon|2|",
           "Conflagration Cannon",
           "Thundercoil Harpoon"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -339,12 +339,12 @@
           "Reaper Chainfist"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Aufklärer",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Scout",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -359,12 +359,12 @@
           "Tempest Warblade"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Aufklärer",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Scout",
+          "Ion Shield (3+)"
         ]
       },
       {
@@ -375,15 +375,15 @@
         "cc": 2,
         "ff": 4,
         "weapons": [
-          "Cerastus Shock Lanze"
+          "Cerastus Shock Lance"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Aufklärer",
-          "Ionen Schild (3+)",
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Scout",
+          "Ion Shield (3+)",
           "Ionic Flare Shield"
         ]
       },
@@ -399,12 +399,12 @@
           "Atrapos Lascutter"
         ],
         "specialRules": [
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Geländegängig",
-          "Aufklärer",
-          "Ionen Schild (3+)",
+          "Stubborn",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Walker",
+          "Scout",
+          "Ion Shield (3+)",
           "Ionic Flare Shield"
         ]
       },
@@ -416,16 +416,16 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Quad Magna Laserkanone||FxF",
+          "Quad Magna Lascannon||FxF",
           "Autocannon|2|FxF",
           "Helios Defense Missiles"
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ],
         "crit": "The Acastus Knight takes 1 additional damage."
       },
@@ -443,10 +443,10 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Starrköpfig",
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Ionen Schild (3+)"
+          "Stubborn",
+          "Reinforced Armour",
+          "Walker",
+          "Ion Shield (3+)"
         ],
         "crit": "The Acastus Knight takes 1 additional damage."
       },
@@ -459,17 +459,17 @@
         "ff": 5,
         "weapons": [
           "Rapid Fire Battle Cannon",
-          "Shock Lanze",
+          "Shock Lance",
           "Knight Power Gauntlet"
         ],
         "specialRules": [
-          "Oberbefehlshaber",
-          "Verstärkte Panzerung",
-          "Verstärkte Heckpanzerung",
-          "Furchtlos",
-          "Geländegängig",
-          "Inspirierend",
-          "Ionen Schild (4+)"
+          "Supreme Commander",
+          "Reinforced Armour",
+          "Thick Rear Armour",
+          "Fearless",
+          "Walker",
+          "Inspiring",
+          "Ion Shield (4+)"
         ]
       },
       {
@@ -481,13 +481,13 @@
         "ff": 5,
         "weapons": [
           "Battle Cannon",
-          "Shock Lanze",
+          "Shock Lance",
           "Knight Chainsword"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Ionen Schild (4+)"
+          "Reinforced Armour",
+          "Walker",
+          "Ion Shield (4+)"
         ]
       },
       {
@@ -500,12 +500,12 @@
         "weapons": [
           "Long Cannon",
           "Multi-Barreled Autocannon|0-1|",
-          "Zwillings Laserkanone|0-1|"
+          "Twin Lascannon|0-1|"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Ionen Schild (4+)"
+          "Reinforced Armour",
+          "Walker",
+          "Ion Shield (4+)"
         ]
       },
       {
@@ -517,13 +517,13 @@
         "ff": 5,
         "weapons": [
           "Battle Cannon",
-          "Knight Power Lanze"
+          "Knight Power Lance"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Aufklärer",
-          "Ionen Schild (4+)"
+          "Reinforced Armour",
+          "Walker",
+          "Scout",
+          "Ion Shield (4+)"
         ]
       },
       {
@@ -535,13 +535,13 @@
         "ff": 5,
         "weapons": [
           "Thermal Cannon",
-          "Shock Lanze",
+          "Shock Lance",
           "Knight Power Gauntlet"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Ionen Schild (4+)"
+          "Reinforced Armour",
+          "Walker",
+          "Ion Shield (4+)"
         ]
       },
       {
@@ -556,9 +556,9 @@
           "Heavy Bolter|2|"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Ionen Schild (4+)"
+          "Reinforced Armour",
+          "Walker",
+          "Ion Shield (4+)"
         ]
       },
       {
@@ -572,9 +572,9 @@
           "Vanquisher Cannon"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Ionen Schild (4+)"
+          "Reinforced Armour",
+          "Walker",
+          "Ion Shield (4+)"
         ]
       },
       {
@@ -589,9 +589,9 @@
           "Multilaser|2|"
         ],
         "specialRules": [
-          "Verstärkte Panzerung",
-          "Geländegängig",
-          "Ionen Schild (4+)"
+          "Reinforced Armour",
+          "Walker",
+          "Ion Shield (4+)"
         ]
       }
     ]

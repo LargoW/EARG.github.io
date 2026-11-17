@@ -79,7 +79,7 @@
           "units": "One Iron Warriors Warpsmith, six Chaos Space Marines",
           "extraUnits": [
             "Replace two Chaos Space Marines with two Havocs: 25 points",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Transport",
             "Obliterators",
             "Dreadclaws",
@@ -92,7 +92,7 @@
           "name": "Iron Warriors Armoured Company",
           "units": "Six Chaos Vindicators",
           "extraUnits": [
-            "Replace six Chaos Vindicators with six Chaos Predators (25 points), three Chaos Spartan Assault Tanks (75 points), oder six Chaos Land Raiders (125 points)"
+            "Replace six Chaos Vindicators with six Chaos Predators (25 points), three Chaos Spartan Assault Tanks (75 points), or six Chaos Land Raiders (125 points)"
           ],
           "points": 275
         },
@@ -101,7 +101,7 @@
           "units": "One Iron Warriors Warpsmith, four Havocs, Chaos Spartan Assault Tank",
           "extraUnits": [
             "Replace the Chaos Spartan Assault Tank with two Chaos Land Raiders: 25 points",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Vindicators"
           ],
           "points": 275
@@ -116,7 +116,7 @@
           "name": "Chosen",
           "units": "Four Chosen, two Chaos Rhinos",
           "extraUnits": [
-            "Replace two Chaos Rhinos with two Chaos Siege Rhinos (10 points), oder two Chaos Dreadnoughts oder two Chaos Siege Dreadnoughts (75 points)",
+            "Replace two Chaos Rhinos with two Chaos Siege Rhinos (10 points), or two Chaos Dreadnoughts or two Chaos Siege Dreadnoughts (75 points)",
             "Vindicators"
           ],
           "points": 150
@@ -143,7 +143,7 @@
           "units": "One Iron Warriors Warpsmith, four Tyrant Siege Terminators",
           "extraUnits": [
             "Obliterators",
-            "Oberbefehlshaber",
+            "Supreme Commander",
             "Dreadnoughts",
             "Dreadclaws"
           ],
@@ -260,7 +260,7 @@
         "points": "50 points"
       },
       {
-        "name": "0-1 Oberbefehlshaber",
+        "name": "0-1 Supreme Commander",
         "description": "Choose one of the following:",
         "options": [
           {
@@ -302,7 +302,7 @@
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Chaos Dreadnoughts, oder up to two Siege Dreadnoughts",
+        "description": "Add up to two Chaos Dreadnoughts, or up to two Siege Dreadnoughts",
         "points": "50 points each"
       },
       {
